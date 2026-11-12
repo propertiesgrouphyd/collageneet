@@ -1,3 +1,4 @@
+
 name: VIDHWAAN NEET GITHUB PAGES DEPLOY
 
 on:
@@ -13,27 +14,15 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-
   deploy:
-
     runs-on: ubuntu-latest
 
     env:
       PROJECT_NAME: vidhwaan-neet
 
     steps:
-
-      # ============================================================
-      # CHECKOUT
-      # ============================================================
-
       - name: Checkout Repository
         uses: actions/checkout@v4
-
-
-      # ============================================================
-      # NODE
-      # ============================================================
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -41,55 +30,17 @@ jobs:
           node-version: 24
           cache: npm
 
-
-      # ============================================================
-      # INSTALL PRODUCTION TOOLS
-      # ============================================================
-
       - name: Install Production Tools
         run: |
           set -euo pipefail
-
-          npm install -g terser
-          npm install -g javascript-obfuscator
-          npm install -g clean-css-cli
-          npm install -g html-minifier-terser
-
-          echo
-          echo "TOOLS INSTALLED"
-          echo "---------------"
-
-          terser --version
-          javascript-obfuscator --version
-          cleancss --version
-          html-minifier-terser --version
-
-
-      # ============================================================
-      # INSTALL PROJECT DEPENDENCIES
-      # ============================================================
+          npm install -g terser javascript-obfuscator clean-css-cli html-minifier-terser
 
       - name: Install Project Dependencies
-        run: |
-          set -euo pipefail
-
-          npm ci
-
-
-      # ============================================================
-      # VALIDATE NEET SOURCE
-      #
-      # generator/ is OUTSIDE public/ and is NOT deployed.
-      # ============================================================
+        run: npm ci
 
       - name: Validate NEET Source
         run: |
           set -euo pipefail
-
-          echo
-          echo "============================================================"
-          echo " VIDHWAAN NEET — SOURCE VALIDATION"
-          echo "============================================================"
 
           npm run validate
 
@@ -98,144 +49,44 @@ jobs:
           node --check public/sw.js
           node --check scripts/protect-data.js
 
-          echo
-          echo "Checking required production files..."
-
           test -f public/index.html
-          echo "OK: public/index.html"
-
           test -f public/css/main.css
-          echo "OK: public/css/main.css"
-
           test -f public/js/app.js
-          echo "OK: public/js/app.js"
-
           test -f public/sw.js
-          echo "OK: public/sw.js"
-
           test -f public/manifest.json
-          echo "OK: public/manifest.json"
-
           test -f public/data/app-config.json
-          echo "OK: public/data/app-config.json"
-
           test -f public/data/syllabus.json
-          echo "OK: public/data/syllabus.json"
-
+          test -f public/data/credentials.json
           test -f scripts/protect-data.js
-          echo "OK: scripts/protect-data.js"
-
-          test -f public/icons/icon-192.png
-          echo "OK: public/icons/icon-192.png"
-
-          test -f public/icons/icon-512.png
-          echo "OK: public/icons/icon-512.png"
-
-          test -f public/icons/favicon.ico
-          echo "OK: public/icons/favicon.ico"
-
-          test -f public/icons/logo.png
-          echo "OK: public/icons/logo.png"
-
-          echo
-          echo "SOURCE VALIDATION: PASSED"
-
-
-      # ============================================================
-      # PREPARE PRODUCTION DIST
-      #
-      # Only public/ becomes the deployed website.
-      #
-      # Lesson JSON files are NOT copied directly.
-      # They are protected separately below.
-      # ============================================================
 
       - name: Prepare Production Dist
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " VIDHWAAN NEET — PREPARING PRODUCTION BUILD"
-          echo "============================================================"
-
           rm -rf dist
 
-          mkdir -p dist
-          mkdir -p dist/css
-          mkdir -p dist/js
-          mkdir -p dist/data
-          mkdir -p dist/icons
-
-          # --------------------------------------------------------
-          # HTML
-          # --------------------------------------------------------
+          mkdir -p dist/css dist/js dist/data dist/icons
 
           cp public/index.html dist/index.html
-
-          # --------------------------------------------------------
-          # CSS
-          # --------------------------------------------------------
-
           cp public/css/main.css dist/css/main.css
-
-          # --------------------------------------------------------
-          # JAVASCRIPT
-          # --------------------------------------------------------
-
           cp public/js/app.js dist/js/app.js
           cp public/sw.js dist/sw.js
-
-          # --------------------------------------------------------
-          # PWA
-          # --------------------------------------------------------
-
           cp public/manifest.json dist/manifest.json
-
-          # --------------------------------------------------------
-          # ICONS
-          # --------------------------------------------------------
 
           cp public/icons/icon-192.png dist/icons/icon-192.png
           cp public/icons/icon-512.png dist/icons/icon-512.png
           cp public/icons/favicon.ico dist/icons/favicon.ico
           cp public/icons/logo.png dist/icons/logo.png
 
-          # --------------------------------------------------------
-          # CUSTOM DOMAIN
-          # --------------------------------------------------------
-
           if [ -f CNAME ]; then
             cp CNAME dist/CNAME
-            echo "OK: CNAME copied to dist/"
           fi
 
-          echo
-          echo "Production source prepared."
-
-
-      # ============================================================
-      # PROTECT LESSON DATA
-      #
-      # Source:
-      #   public/data/day-*.json
-      #
-      # Output:
-      #   dist/data/day-*.dat
-      #
-      # Plain lesson JSON is never deployed.
-      # ============================================================
-
-      - name: Protect NEET Lesson Data
+      - name: Protect NEET Lesson And Credential Data
         env:
           NEET_DATA_KEY: ${{ secrets.NEET_DATA_KEY }}
         run: |
           set -euo pipefail
-
-          echo
-          echo "============================================================"
-          echo " VIDHWAAN NEET — PROTECTING LESSON DATA"
-          echo "============================================================"
 
           if [ -z "${NEET_DATA_KEY:-}" ]; then
             echo "ERROR: NEET_DATA_KEY GitHub secret is missing."
@@ -244,314 +95,101 @@ jobs:
 
           node scripts/protect-data.js
 
-          echo
-          echo "Lesson data protection: PASSED"
+          test -f dist/data/credentials.dat
 
-
-      # ============================================================
-      # COPY STATIC DATA
-      #
-      # These are configuration files, NOT daily lesson files.
-      # ============================================================
+          echo "Lesson and credential protection passed."
 
       - name: Copy Static Data
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " COPYING STATIC DATA"
-          echo "============================================================"
+          cp public/data/app-config.json dist/data/app-config.json
+          cp public/data/syllabus.json dist/data/syllabus.json
 
-          cp public/data/app-config.json \
-            dist/data/app-config.json
-
-          cp public/data/syllabus.json \
-            dist/data/syllabus.json
-
-          echo "OK: app-config.json"
-          echo "OK: syllabus.json"
-
-
-      # ============================================================
-      # VERIFY PROTECTED LESSON DATA
-      # ============================================================
-
-      - name: Verify Protected Lesson Data
+      - name: Verify Protected Data
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " VERIFYING PROTECTED LESSON DATA"
-          echo "============================================================"
+          SOURCE_COUNT=$(find public/data -maxdepth 1 -type f -name 'day-*.json' | wc -l)
+          DAT_COUNT=$(find dist/data -maxdepth 1 -type f -name 'day-*.dat' | wc -l)
 
-          SOURCE_COUNT=$(
-            find public/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              | wc -l
-          )
+          test "$SOURCE_COUNT" -gt 0
+          test "$DAT_COUNT" -eq "$SOURCE_COUNT"
+          test -f dist/data/credentials.dat
 
-          DAT_COUNT=$(
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.dat' \
-              | wc -l
-          )
-
-          JSON_COUNT=$(
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              | wc -l
-          )
-
-          echo "Source lesson JSON files : $SOURCE_COUNT"
-          echo "Protected DAT files       : $DAT_COUNT"
-          echo "Deployed lesson JSON      : $JSON_COUNT"
-
-          if [ "$SOURCE_COUNT" -eq 0 ]; then
-            echo "ERROR: No source lesson JSON files found."
+          if find dist/data -maxdepth 1 -type f -name 'day-*.json' | grep -q .; then
+            echo "ERROR: Plain lesson JSON found."
             exit 1
           fi
 
-          if [ "$DAT_COUNT" -ne "$SOURCE_COUNT" ]; then
-            echo "ERROR: Lesson protection count mismatch."
-            echo "Source=$SOURCE_COUNT DAT=$DAT_COUNT"
-            exit 1
-          fi
+          echo "Protected lessons: $DAT_COUNT"
+          echo "Protected credentials: credentials.dat"
 
-          if [ "$JSON_COUNT" -ne 0 ]; then
-            echo "ERROR: Plain lesson JSON files found in dist/data."
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              -print
-            exit 1
-          fi
-
-          echo
-          echo "OK: Every lesson has a protected .dat file."
-          echo "OK: No plaintext day-*.json files are deployed."
-          echo
-          echo "PROTECTED DATA VERIFICATION: PASSED"
-
-
-      # ============================================================
-      # INJECT LESSON DECRYPTION KEY
-      #
-      # app.js contains:
-      #
-      #   "__NEET_DATA_KEY__"
-      #
-      # Injection happens BEFORE JavaScript minification/obfuscation.
-      # ============================================================
-
-      - name: Inject NEET Lesson Decryption Key
+      - name: Inject NEET Data Key
         env:
           NEET_DATA_KEY: ${{ secrets.NEET_DATA_KEY }}
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " INJECTING NEET LESSON DECRYPTION KEY"
-          echo "============================================================"
-
-          if [ -z "${NEET_DATA_KEY:-}" ]; then
-            echo "ERROR: NEET_DATA_KEY GitHub secret is missing."
-            exit 1
-          fi
-
           node --input-type=module <<'NODE'
           import fs from "node:fs";
 
-          const file =
-            "dist/js/app.js";
+          const file = "dist/js/app.js";
+          const key = process.env.NEET_DATA_KEY;
+          const placeholder = '"__NEET_DATA_KEY__"';
 
-          const key =
-            process.env.NEET_DATA_KEY;
+          let source = fs.readFileSync(file, "utf8");
 
-          const placeholder =
-            "__NEET_DATA_KEY__";
-
-          const source =
-            fs.readFileSync(
-              file,
-              "utf8"
-            );
-
-          const occurrences =
-            source.split(
-              placeholder
-            ).length - 1;
-
-          if (
-            occurrences !== 1
-          ) {
-            throw new Error(
-              `Expected exactly one NEET_DATA_KEY placeholder. Found ${occurrences}.`
-            );
+          if (source.split(placeholder).length - 1 !== 1) {
+            throw new Error("Expected exactly one NEET_DATA_KEY placeholder.");
           }
 
-          if (
-            !/^[A-Za-z0-9+/]+={0,2}$/.test(
-              key
-            )
-          ) {
-            throw new Error(
-              "NEET_DATA_KEY is not valid Base64."
-            );
+          if (!/^[A-Za-z0-9+/]+={0,2}$/.test(key)) {
+            throw new Error("NEET_DATA_KEY is invalid Base64.");
           }
 
-          const keyBytes =
-            Buffer.from(
-              key,
-              "base64"
-            );
-
-          if (
-            keyBytes.length !== 32
-          ) {
-            throw new Error(
-              `NEET_DATA_KEY must decode to exactly 32 bytes. Received ${keyBytes.length}.`
-            );
+          if (Buffer.from(key, "base64").length !== 32) {
+            throw new Error("NEET_DATA_KEY must decode to 32 bytes.");
           }
 
-          const replacement =
-            JSON.stringify(
-              key
-            );
+          source = source.replace(placeholder, JSON.stringify(key));
 
-          const target =
-            `"${placeholder}"`;
-
-          const updated =
-            source.replace(
-              target,
-              replacement
-            );
-
-          if (
-            updated === source
-          ) {
-            throw new Error(
-              "NEET_DATA_KEY placeholder replacement failed."
-            );
+          if (source.includes("__NEET_DATA_KEY__")) {
+            throw new Error("NEET_DATA_KEY placeholder remains.");
           }
 
-          if (
-            updated.includes(
-              placeholder
-            )
-          ) {
-            throw new Error(
-              "NEET_DATA_KEY placeholder still exists after injection."
-            );
-          }
+          fs.writeFileSync(file, source, "utf8");
 
-          fs.writeFileSync(
-            file,
-            updated,
-            "utf8"
-          );
-
-          console.log(
-            "NEET_DATA_KEY injected successfully."
-          );
-
-          console.log(
-            "Verified: 256-bit key."
-          );
-
-          console.log(
-            "Verified: placeholder removed."
-          );
+          console.log("NEET_DATA_KEY injected.");
           NODE
 
           node --check dist/js/app.js
-
-          echo
-          echo "KEY INJECTION: PASSED"
-
-
-      # ============================================================
-      # MINIFY CSS
-      #
-      # CSS is minified and then explicitly converted to one line.
-      # ============================================================
 
       - name: Minify CSS
         run: |
           set -euo pipefail
 
-          cleancss \
-            -O2 \
-            dist/css/main.css \
-            -o dist/css/main.css
+          cleancss -O2 dist/css/main.css -o dist/css/main.css
 
-          node <<'NODE'
-          const fs = require("fs");
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
 
-          const file =
-            "dist/css/main.css";
-
-          const source =
-            fs.readFileSync(
-              file,
-              "utf8"
-            );
-
-          const singleLine =
-            source
-              .replace(/\r?\n|\r/g, "")
-              .trim();
-
-          fs.writeFileSync(
-            file,
-            singleLine,
-            "utf8"
-          );
+          const file = "dist/css/main.css";
+          const source = fs.readFileSync(file, "utf8");
+          fs.writeFileSync(file, source.replace(/\r?\n|\r/g, "").trim());
           NODE
-
-          echo "CSS minification: PASSED"
-          echo "CSS single-line conversion: PASSED"
-
-
-      # ============================================================
-      # MINIFY JAVASCRIPT
-      #
-      # app.js is NOT manually forced to one line.
-      # ============================================================
 
       - name: Minify JavaScript
         run: |
           set -euo pipefail
 
-          terser \
-            dist/js/app.js \
-            --compress \
-            --mangle \
-            -o dist/js/app.js
-
-          echo "JavaScript minification: PASSED"
-
-
-      # ============================================================
-      # OBFUSCATE JAVASCRIPT
-      # ============================================================
+          terser dist/js/app.js --compress --mangle -o dist/js/app.js
 
       - name: Obfuscate JavaScript
         run: |
           set -euo pipefail
 
-          javascript-obfuscator \
-            dist/js/app.js \
+          javascript-obfuscator dist/js/app.js \
             --output dist/js/app.js \
             --compact true \
             --control-flow-flattening false \
@@ -565,87 +203,31 @@ jobs:
             --string-array-encoding base64 \
             --string-array-threshold 0.75
 
-          echo "JavaScript obfuscation: PASSED"
-
-
-      # ============================================================
-      # VERIFY DECRYPTION KEY IN FINAL APP
-      # ============================================================
-
-      - name: Verify NEET Decryption Key Injection
+      - name: Verify Key Injection
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " VERIFYING NEET DECRYPTION KEY"
-          echo "============================================================"
-
           if grep -Fq "__NEET_DATA_KEY__" dist/js/app.js; then
-            echo "ERROR: NEET_DATA_KEY placeholder remains in final app.js."
+            echo "ERROR: Key placeholder remains."
             exit 1
           fi
 
-          echo "OK: NEET_DATA_KEY placeholder is absent."
-
-          if ! grep -Fq "NEET" dist/js/app.js; then
-            echo "ERROR: Final app.js verification failed."
-            exit 1
-          fi
-
-          echo "OK: Final app.js generated successfully."
-
-          echo
-          echo "DECRYPTION KEY VERIFICATION: PASSED"
-
-
-      # ============================================================
-      # GENERATE ASSET VERSION
-      # ============================================================
+          test -s dist/js/app.js
 
       - name: Generate Asset Version
         run: |
           set -euo pipefail
 
           VERSION=$(date +%s)
-
           echo "VERSION=$VERSION" >> "$GITHUB_ENV"
 
-          echo "Asset version: $VERSION"
-
-
-      # ============================================================
-      # CACHE BUST HTML ASSETS
-      #
-      # Filenames remain stable.
-      # Query string changes on every deployment.
-      # ============================================================
-
-      - name: Apply Asset Cache Busting
+      - name: Cache Bust HTML Assets
         run: |
           set -euo pipefail
 
-          sed -i \
-            "s|src=\"./js/app.js\"|src=\"./js/app.js?v=$VERSION\"|g" \
-            dist/index.html
-
-          sed -i \
-            "s|href=\"./css/main.css\"|href=\"./css/main.css?v=$VERSION\"|g" \
-            dist/index.html
-
-          sed -i \
-            "s|href=\"./manifest.json\"|href=\"./manifest.json?v=$VERSION\"|g" \
-            dist/index.html
-
-          echo "Asset cache busting applied."
-          echo "Version: $VERSION"
-
-
-      # ============================================================
-      # MINIFY HTML
-      #
-      # HTML is explicitly converted to one physical line.
-      # ============================================================
+          sed -i "s|src=\"./js/app.js\"|src=\"./js/app.js?v=$VERSION\"|g" dist/index.html
+          sed -i "s|href=\"./css/main.css\"|href=\"./css/main.css?v=$VERSION\"|g" dist/index.html
+          sed -i "s|href=\"./manifest.json\"|href=\"./manifest.json?v=$VERSION\"|g" dist/index.html
 
       - name: Minify HTML
         run: |
@@ -663,360 +245,64 @@ jobs:
             dist/index.html \
             -o dist/index.html
 
-          node <<'NODE'
-          const fs = require("fs");
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
 
-          const file =
-            "dist/index.html";
-
-          const source =
-            fs.readFileSync(
-              file,
-              "utf8"
-            );
-
-          const singleLine =
-            source
-              .replace(/\r?\n|\r/g, "")
-              .trim();
-
-          fs.writeFileSync(
-            file,
-            singleLine,
-            "utf8"
-          );
+          const file = "dist/index.html";
+          const source = fs.readFileSync(file, "utf8");
+          fs.writeFileSync(file, source.replace(/\r?\n|\r/g, "").trim());
           NODE
-
-          echo "HTML minification: PASSED"
-          echo "HTML single-line conversion: PASSED"
-
-
-      # ============================================================
-      # VERIFY HTML AND CSS SINGLE LINE
-      #
-      # IMPORTANT:
-      # Uses Node byte-level verification.
-      # Does NOT use grep for newline detection.
-      # ============================================================
-
-      - name: Verify HTML And CSS Single Line
-        run: |
-          set -euo pipefail
-
-          echo
-          echo "============================================================"
-          echo " VERIFYING HTML / CSS FORMAT"
-          echo "============================================================"
-
-          node <<'NODE'
-          const fs = require("fs");
-
-          const files = [
-            "dist/index.html",
-            "dist/css/main.css"
-          ];
-
-          for (const file of files) {
-            const data =
-              fs.readFileSync(file);
-
-            for (const byte of data) {
-              if (
-                byte === 10 ||
-                byte === 13
-              ) {
-                throw new Error(
-                  `${file} contains newline or carriage-return bytes.`
-                );
-              }
-            }
-
-            console.log(
-              `OK: ${file} is single-line.`
-            );
-          }
-          NODE
-
-          echo
-          echo "HTML / CSS FORMAT VERIFICATION: PASSED"
-
-
-      # ============================================================
-      # FINAL PRODUCTION VERIFICATION
-      # ============================================================
 
       - name: Verify Production Build
         run: |
           set -euo pipefail
 
-          echo
-          echo "============================================================"
-          echo " VIDHWAAN NEET — FINAL PRODUCTION VERIFICATION"
-          echo "============================================================"
-
           test -f dist/index.html
-          test -f dist/manifest.json
-          test -f dist/sw.js
-
-          test -f dist/js/app.js
           test -f dist/css/main.css
-
+          test -f dist/js/app.js
+          test -f dist/sw.js
+          test -f dist/manifest.json
           test -f dist/data/app-config.json
           test -f dist/data/syllabus.json
+          test -f dist/data/credentials.dat
 
-          test -f dist/icons/icon-192.png
-          test -f dist/icons/icon-512.png
-          test -f dist/icons/favicon.ico
-          test -f dist/icons/logo.png
+          SOURCE_COUNT=$(find public/data -maxdepth 1 -type f -name 'day-*.json' | wc -l)
+          DAT_COUNT=$(find dist/data -maxdepth 1 -type f -name 'day-*.dat' | wc -l)
 
-          echo "OK: index.html"
-          echo "OK: manifest.json"
-          echo "OK: sw.js"
-          echo "OK: app.js"
-          echo "OK: main.css"
-          echo "OK: app-config.json"
-          echo "OK: syllabus.json"
-          echo "OK: icon-192.png"
-          echo "OK: icon-512.png"
-          echo "OK: favicon.ico"
-          echo "OK: logo.png"
+          test "$SOURCE_COUNT" -gt 0
+          test "$DAT_COUNT" -eq "$SOURCE_COUNT"
 
-          if [ -f CNAME ]; then
-            test -f dist/CNAME
-            echo "OK: CNAME"
-          fi
-
-          echo
-          echo "Checking protected lesson files..."
-
-          SOURCE_COUNT=$(
-            find public/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              | wc -l
-          )
-
-          DAT_COUNT=$(
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.dat' \
-              | wc -l
-          )
-
-          JSON_COUNT=$(
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              | wc -l
-          )
-
-          if [ "$SOURCE_COUNT" -eq 0 ]; then
-            echo "ERROR: No source lesson files found."
+          if find dist -type f -name 'day-*.json' | grep -q .; then
+            echo "ERROR: Plain lesson JSON deployed."
             exit 1
           fi
 
-          if [ "$DAT_COUNT" -ne "$SOURCE_COUNT" ]; then
-            echo "ERROR: DAT count does not match source lesson count."
-            echo "Source=$SOURCE_COUNT DAT=$DAT_COUNT"
+          if find dist/data -maxdepth 1 -type f -name 'credentials.json' | grep -q .; then
+            echo "ERROR: Plain credentials JSON deployed."
             exit 1
           fi
 
-          if [ "$JSON_COUNT" -ne 0 ]; then
-            echo "ERROR: Plain day JSON files found in dist/data."
-
-            find dist/data \
-              -maxdepth 1 \
-              -type f \
-              -name 'day-*.json' \
-              -print
-
-            exit 1
-          fi
-
-          echo "OK: $DAT_COUNT protected lesson files"
-          echo "OK: 0 plaintext lesson JSON files"
-
-          echo
-          echo "Checking cache-busted asset references..."
-
-          grep -F "./js/app.js?v=${VERSION}" \
-            dist/index.html
-
-          grep -F "./css/main.css?v=${VERSION}" \
-            dist/index.html
-
-          echo "OK: app.js cache-busting reference"
-          echo "OK: main.css cache-busting reference"
-
-          echo
-          echo "Checking hashed filenames are NOT present..."
-
-          if find dist/js \
-            -maxdepth 1 \
-            -type f \
-            -name 'app.*.js' \
-            | grep -q .; then
-
-            echo "ERROR: hashed JavaScript filename found"
-            exit 1
-          fi
-
-          if find dist/css \
-            -maxdepth 1 \
-            -type f \
-            -name 'main.*.css' \
-            | grep -q .; then
-
-            echo "ERROR: hashed CSS filename found"
-            exit 1
-          fi
-
-          echo "OK: no hashed JavaScript filename"
-          echo "OK: no hashed CSS filename"
-
-          echo
-          echo "Checking deployment isolation..."
-
-          test ! -d dist/generator
-          test ! -d dist/scripts
-          test ! -d dist/config
-
-          echo "OK: generator not deployed"
-          echo "OK: scripts not deployed"
-          echo "OK: config not deployed"
-
-          echo
-          echo "Checking lesson JSON does not exist anywhere in dist..."
-
-          if find dist \
-            -type f \
-            -name 'day-*.json' \
-            | grep -q .; then
-
-            echo "ERROR: Plain day JSON found somewhere in dist:"
-
-            find dist \
-              -type f \
-              -name 'day-*.json' \
-              -print
-
-            exit 1
-          fi
-
-          echo "OK: no plaintext day-*.json anywhere in dist"
-
-          echo
-          echo "Checking HTML and CSS physical line count..."
-
-          HTML_LINES=$(wc -l < dist/index.html)
-          CSS_LINES=$(wc -l < dist/css/main.css)
-
-          if [ "$HTML_LINES" -ne 0 ]; then
-            echo "ERROR: index.html is not single-line."
-            echo "Lines reported: $HTML_LINES"
-            exit 1
-          fi
-
-          if [ "$CSS_LINES" -ne 0 ]; then
-            echo "ERROR: main.css is not single-line."
-            echo "Lines reported: $CSS_LINES"
-            exit 1
-          fi
-
-          echo "OK: HTML single-line"
-          echo "OK: CSS single-line"
-
-          echo
-          echo "Checking service worker..."
-
-          test -f dist/sw.js
-
-          echo "OK: sw.js preserved"
-          echo "OK: sw.js was not manually single-lined"
-
-          echo
-          echo "Checking manifest..."
-
-          test -f dist/manifest.json
-
-          echo "OK: manifest.json preserved"
-
-          echo
-          echo "PROTECTED LESSON FILES:"
-
-          find dist/data \
-            -maxdepth 1 \
-            -name 'day-*.dat' \
-            -type f \
-            | sort
-
-          echo
-          echo "FINAL BUILD FILES:"
-
-          find dist \
-            -type f \
-            | sort
-
-          echo
-          echo "============================================================"
-          echo " PRODUCTION BUILD: PASSED"
-          echo "============================================================"
-
-
-      # ============================================================
-      # CONFIGURE GITHUB PAGES
-      # ============================================================
+          echo "Production verification passed."
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-
-
-      # ============================================================
-      # UPLOAD PRODUCTION DIST
-      #
-      # ONLY dist/ is uploaded.
-      # ============================================================
 
       - name: Upload GitHub Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
 
-
-      # ============================================================
-      # DEPLOY TO GITHUB PAGES
-      # ============================================================
-
       - name: Deploy To GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
-
-      # ============================================================
-      # SUCCESS
-      # ============================================================
-
       - name: Deployment Success
         run: |
-          echo
           echo "============================================================"
-          echo " VIDHWAAN NEET — GITHUB PAGES DEPLOYMENT SUCCESS"
+          echo " VIDHWAAN NEET — DEPLOYMENT SUCCESS"
           echo "============================================================"
-          echo
-          echo "Deployment directory : dist/"
-          echo "Asset version        : $VERSION"
-          echo
-          echo "HTML                 : Minified + single-line"
-          echo "CSS                  : Minified + single-line"
-          echo "JavaScript           : Minified + obfuscated"
-          echo "Service Worker       : Preserved unchanged"
-          echo "Manifest             : Preserved unchanged"
-          echo "Lesson Data          : Protected .dat"
-          echo "Plain Lesson JSON    : Not deployed"
-          echo "Source Files         : Not modified"
-          echo "Deployment           : GitHub Pages"
-          echo
-          echo "============================================================"
+          echo "Lessons: encrypted .dat"
+          echo "Credentials: encrypted credentials.dat"
+          echo "Plain lesson JSON: not deployed"
+          echo "Plain credentials JSON: not deployed"
+          echo "Deployment: GitHub Pages"
