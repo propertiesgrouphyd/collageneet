@@ -30,13 +30,41 @@ jobs:
           node-version: 24
           cache: npm
 
+      - name: Validate NEET Encryption Key
+        env:
+          NEET_DATA_KEY: ${{ secrets.NEET_DATA_KEY }}
+        run: |
+          set -euo pipefail
+
+          node --input-type=module <<'NODE'
+          const key = process.env.NEET_DATA_KEY;
+
+          if (typeof key !== "string" || !/^[0-9a-fA-F]{64}$/.test(key)) {
+            throw new Error(
+              `NEET_DATA_KEY must contain exactly 64 hexadecimal characters. Received ${key?.length ?? 0} characters.`
+            );
+          }
+
+          const decodedKey = Buffer.from(key, "hex");
+
+          if (decodedKey.length !== 32) {
+            throw new Error(
+              `NEET_DATA_KEY must decode to 32 bytes. Received ${decodedKey.length} bytes.`
+            );
+          }
+
+          console.log("NEET_DATA_KEY validation passed.");
+          NODE
+
       - name: Install Production Tools
         run: |
           set -euo pipefail
           npm install -g terser javascript-obfuscator clean-css-cli html-minifier-terser
 
       - name: Install Project Dependencies
-        run: npm ci
+        run: |
+          set -euo pipefail
+          npm ci
 
       - name: Validate NEET Source
         run: |
@@ -88,11 +116,6 @@ jobs:
         run: |
           set -euo pipefail
 
-          if [ -z "${NEET_DATA_KEY:-}" ]; then
-            echo "ERROR: NEET_DATA_KEY GitHub secret is missing."
-            exit 1
-          fi
-
           node scripts/protect-data.js
 
           test -f dist/data/credentials.dat
@@ -138,18 +161,22 @@ jobs:
           const key = process.env.NEET_DATA_KEY;
           const placeholder = '"__NEET_DATA_KEY__"';
 
+          if (typeof key !== "string" || !/^[0-9a-fA-F]{64}$/.test(key)) {
+            throw new Error("NEET_DATA_KEY must contain exactly 64 hexadecimal characters.");
+          }
+
+          if (Buffer.from(key, "hex").length !== 32) {
+            throw new Error("NEET_DATA_KEY must decode to exactly 32 bytes.");
+          }
+
           let source = fs.readFileSync(file, "utf8");
 
-          if (source.split(placeholder).length - 1 !== 1) {
-            throw new Error("Expected exactly one NEET_DATA_KEY placeholder.");
-          }
+          const occurrences = source.split(placeholder).length - 1;
 
-          if (!/^[A-Za-z0-9+/]+={0,2}$/.test(key)) {
-            throw new Error("NEET_DATA_KEY is invalid Base64.");
-          }
-
-          if (Buffer.from(key, "base64").length !== 32) {
-            throw new Error("NEET_DATA_KEY must decode to 32 bytes.");
+          if (occurrences !== 1) {
+            throw new Error(
+              `Expected exactly one NEET_DATA_KEY placeholder. Found ${occurrences}.`
+            );
           }
 
           source = source.replace(placeholder, JSON.stringify(key));
@@ -160,7 +187,7 @@ jobs:
 
           fs.writeFileSync(file, source, "utf8");
 
-          console.log("NEET_DATA_KEY injected.");
+          console.log("NEET_DATA_KEY injected successfully.");
           NODE
 
           node --check dist/js/app.js
@@ -176,14 +203,21 @@ jobs:
 
           const file = "dist/css/main.css";
           const source = fs.readFileSync(file, "utf8");
-          fs.writeFileSync(file, source.replace(/\r?\n|\r/g, "").trim());
+
+          fs.writeFileSync(
+            file,
+            source.replace(/\r?\n|\r/g, "").trim()
+          );
           NODE
 
       - name: Minify JavaScript
         run: |
           set -euo pipefail
 
-          terser dist/js/app.js --compress --mangle -o dist/js/app.js
+          terser dist/js/app.js \
+            --compress \
+            --mangle \
+            -o dist/js/app.js
 
       - name: Obfuscate JavaScript
         run: |
@@ -213,6 +247,8 @@ jobs:
           fi
 
           test -s dist/js/app.js
+
+          echo "Key injection verification passed."
 
       - name: Generate Asset Version
         run: |
@@ -250,7 +286,11 @@ jobs:
 
           const file = "dist/index.html";
           const source = fs.readFileSync(file, "utf8");
-          fs.writeFileSync(file, source.replace(/\r?\n|\r/g, "").trim());
+
+          fs.writeFileSync(
+            file,
+            source.replace(/\r?\n|\r/g, "").trim()
+          );
           NODE
 
       - name: Verify Production Build
