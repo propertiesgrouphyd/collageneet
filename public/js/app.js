@@ -143,34 +143,83 @@ throw Error("Invalid credentials data");
 state.users=credentials.users;
 }
 
+/* HEX KEY DECODING — CORRECTED */
+
+function decodeHexKey(hexKey){
+if(typeof hexKey!=="string"||!/^[0-9a-fA-F]{64}$/.test(hexKey)){
+throw Error("NEET_DATA_KEY must contain exactly 64 hexadecimal characters");
+}
+
+const keyBytes=new Uint8Array(32);
+
+for(let i=0;i<32;i++){
+keyBytes[i]=parseInt(hexKey.slice(i*2,i*2+2),16);
+}
+
+if(keyBytes.length!==32){
+throw Error("AES key must be exactly 32 bytes");
+}
+
+return keyBytes;
+}
+
+/* AES-256-GCM + GZIP DECRYPTION */
+
 async function decryptLessonData(encryptedData){
 if(typeof NEET_DATA_KEY!=="string"||!NEET_DATA_KEY){
 throw Error("Decryption key unavailable");
 }
+
 let keyBytes;
+
 try{
-const binary=atob(NEET_DATA_KEY);
-keyBytes=Uint8Array.from(binary,c=>c.charCodeAt(0));
+keyBytes=decodeHexKey(NEET_DATA_KEY);
 }catch(error){
-throw Error("Invalid decryption key");
+console.error("NEET key decoding failed:",error);
+throw Error("Invalid hexadecimal decryption key");
 }
-if(keyBytes.length!==32)throw Error("AES key must be 32 bytes");
+
 const data=new Uint8Array(encryptedData);
 const ivLength=12;
 const tagLength=16;
-if(data.length<=ivLength+tagLength)throw Error("Encrypted data incomplete");
+
+if(data.length<=ivLength+tagLength){
+throw Error("Encrypted data incomplete");
+}
+
 const iv=data.slice(0,ivLength);
 const tag=data.slice(ivLength,ivLength+tagLength);
 const ciphertext=data.slice(ivLength+tagLength);
+
 const combined=new Uint8Array(ciphertext.length+tag.length);
 combined.set(ciphertext);
 combined.set(tag,ciphertext.length);
-const cryptoKey=await crypto.subtle.importKey("raw",keyBytes,{name:"AES-GCM"},false,["decrypt"]);
-const compressed=await crypto.subtle.decrypt({name:"AES-GCM",iv,tagLength:128},cryptoKey,combined);
-if(typeof DecompressionStream==="undefined")throw Error("GZIP unsupported");
-const stream=new Blob([compressed]).stream().pipeThrough(new DecompressionStream("gzip"));
+
+const cryptoKey=await crypto.subtle.importKey(
+"raw",
+keyBytes,
+{name:"AES-GCM"},
+false,
+["decrypt"]
+);
+
+const compressed=await crypto.subtle.decrypt(
+{name:"AES-GCM",iv,tagLength:128},
+cryptoKey,
+combined
+);
+
+if(typeof DecompressionStream==="undefined"){
+throw Error("GZIP unsupported");
+}
+
+const stream=new Blob([compressed]).stream().pipeThrough(
+new DecompressionStream("gzip")
+);
+
 const decompressed=await new Response(stream).arrayBuffer();
 const json=new TextDecoder("utf-8",{fatal:true}).decode(decompressed);
+
 return JSON.parse(json);
 }
 
@@ -184,26 +233,33 @@ dom.loginForm.addEventListener("submit",handleLogin);
 async function handleLogin(event){
 event.preventDefault();
 hideLoginError();
+
 const username=dom.loginUsername.value.trim();
 const password=dom.loginPassword.value;
+
 if(!username||!password){
 showLoginError("Enter your username and password.");
 return;
 }
+
 dom.loginButton.disabled=true;
 dom.loginButton.textContent="Verifying...";
+
 try{
 const user=state.users.find(item=>
 String(item.username||"").trim().toLowerCase()===username.toLowerCase()
 );
+
 if(!user||user.active===false||String(user.password)!==password){
 dom.loginPassword.value="";
 showLoginError("Invalid username or password.");
 return;
 }
+
 sessionStorage.setItem(SESSION_KEY,username);
 showAuthenticatedApp();
 await startNEETApp();
+
 }catch(error){
 console.error("Login error:",error);
 showLoginError("Login failed. Please contact WhatsApp support.");
@@ -215,14 +271,18 @@ dom.loginButton.textContent="Login";
 
 async function restoreSession(){
 const username=sessionStorage.getItem(SESSION_KEY);
+
 if(!username)return false;
+
 const valid=state.users.some(user=>
 String(user.username||"").trim().toLowerCase()===username.toLowerCase()&&user.active!==false
 );
+
 if(!valid){
 sessionStorage.removeItem(SESSION_KEY);
 return false;
 }
+
 return true;
 }
 
@@ -232,10 +292,13 @@ async function startNEETApp(){
 showAuthenticatedApp();
 hideError();
 hideLoading();
+
 state.releasedDay=calculateReleasedDay();
+
 renderDayGrid();
 updateHomeStatus();
 showDays();
+
 setupCourseEvents();
 setupInstallPrompt();
 registerServiceWorker();
@@ -253,14 +316,21 @@ if(dom.retryButton)dom.retryButton.addEventListener("click",retrySelectedDay);
 function getISTParts(){
 const parts=new Intl.DateTimeFormat("en-CA",{
 timeZone:DEFAULT_TIMEZONE,
-year:"numeric",month:"2-digit",day:"2-digit",
-hour:"2-digit",minute:"2-digit",second:"2-digit",
+year:"numeric",
+month:"2-digit",
+day:"2-digit",
+hour:"2-digit",
+minute:"2-digit",
+second:"2-digit",
 hourCycle:"h23"
 }).formatToParts(new Date());
+
 const values={};
+
 parts.forEach(part=>{
 if(part.type!=="literal")values[part.type]=part.value;
 });
+
 return{
 year:Number(values.year),
 month:Number(values.month),
@@ -273,6 +343,7 @@ second:Number(values.second)
 
 function getISTDateString(){
 const now=getISTParts();
+
 return[
 String(now.year).padStart(4,"0"),
 String(now.month).padStart(2,"0"),
@@ -282,8 +353,14 @@ String(now.day).padStart(2,"0")
 
 function parseDateOnly(value){
 const match=/^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value));
+
 if(!match)throw Error("Invalid course date");
-return new Date(Date.UTC(Number(match[1]),Number(match[2])-1,Number(match[3])));
+
+return new Date(Date.UTC(
+Number(match[1]),
+Number(match[2])-1,
+Number(match[3])
+));
 }
 
 function daysBetween(start,end){
@@ -292,25 +369,37 @@ return Math.floor((parseDateOnly(end)-parseDateOnly(start))/86400000);
 
 function calculateReleasedDay(){
 const difference=daysBetween(state.startDate,getISTDateString());
+
 if(difference<0)return 0;
+
 const now=getISTParts();
+
 const releaseReached=now.hour>state.releaseHour||
 (now.hour===state.releaseHour&&now.minute>=state.releaseMinute);
-return Math.max(0,Math.min(difference+(releaseReached?1:0),state.totalDays));
+
+return Math.max(
+0,
+Math.min(difference+(releaseReached?1:0),state.totalDays)
+);
 }
 
 /* DAY GRID */
 
 function renderDayGrid(){
 if(!dom.dayGrid)return;
+
 state.releasedDay=calculateReleasedDay();
+
 const fragment=document.createDocumentFragment();
+
 for(let day=1;day<=state.totalDays;day++){
 const button=document.createElement("button");
+
 button.type="button";
 button.className="day-button";
 button.dataset.day=String(day);
 button.textContent=String(day);
+
 if(day<=state.releasedDay){
 button.classList.add("available");
 button.setAttribute("aria-label","Open Day "+day);
@@ -320,26 +409,33 @@ button.classList.add("locked");
 button.disabled=true;
 button.setAttribute("aria-label","Day "+day+" locked");
 }
+
 if(day===state.releasedDay)button.classList.add("current");
+
 fragment.appendChild(button);
 }
+
 dom.dayGrid.replaceChildren(fragment);
 updateDaysCount();
 }
 
 function updateDaysCount(){
 if(dom.releasedDaysCount){
-dom.releasedDaysCount.textContent=state.releasedDay+" / "+state.totalDays+" available";
+dom.releasedDaysCount.textContent=
+state.releasedDay+" / "+state.totalDays+" available";
 }
 }
 
 function updateHomeStatus(){
 state.releasedDay=calculateReleasedDay();
 updateDaysCount();
+
 if(dom.todayBadge){
 dom.todayBadge.textContent=state.releasedDay?
-"Day "+state.releasedDay+" available":"Course starts at 6:00 AM IST";
+"Day "+state.releasedDay+" available":
+"Course starts at 6:00 AM IST";
 }
+
 if(dom.releaseStatusText){
 dom.releaseStatusText.textContent=state.releasedDay===0?
 "Day 1 unlocks at 6:00 AM IST":
@@ -353,23 +449,34 @@ state.releasedDay>=state.totalDays?
 
 async function openDay(dayNumber){
 state.releasedDay=calculateReleasedDay();
+
 if(!Number.isInteger(dayNumber)||dayNumber<1||dayNumber>state.totalDays)return;
+
 if(dayNumber>state.releasedDay){
 renderDayGrid();
 showDays();
 return;
 }
+
 state.selectedDay=dayNumber;
+
 try{
 hideError();
 showLoading();
+
 const lesson=await loadDayJSON(dayNumber);
+
 validateLesson(lesson,dayNumber);
+
 state.lesson=lesson;
+
 renderLesson(lesson,dayNumber);
+
 hideLoading();
 showLesson();
+
 window.scrollTo({top:0,behavior:"smooth"});
+
 }catch(error){
 console.error("Day "+dayNumber+" failed:",error);
 hideLoading();
@@ -379,17 +486,25 @@ showError("Unable to load Day "+dayNumber+". Please try again.");
 
 async function loadDayJSON(dayNumber){
 const filename=DAY_PREFIX+String(dayNumber).padStart(3,"0")+DAY_SUFFIX;
+
 const response=await fetch(DATA_DIRECTORY+filename+"?v="+Date.now(),{
 cache:"no-store",
 headers:{"Accept":"application/octet-stream"}
 });
+
 if(!response.ok)throw Error("Lesson HTTP "+response.status);
+
 return decryptLessonData(await response.arrayBuffer());
 }
 
 function validateLesson(lesson,day){
-if(!lesson||typeof lesson!=="object"||Array.isArray(lesson))throw Error("Invalid lesson");
-if(lesson.day!==undefined&&Number(lesson.day)!==day)throw Error("Lesson day mismatch");
+if(!lesson||typeof lesson!=="object"||Array.isArray(lesson)){
+throw Error("Invalid lesson");
+}
+
+if(lesson.day!==undefined&&Number(lesson.day)!==day){
+throw Error("Lesson day mismatch");
+}
 }
 
 /* LESSON RENDERING */
@@ -403,7 +518,9 @@ const sections=Array.isArray(lesson.sections)?lesson.sections:[];
 const mcqs=Array.isArray(lesson.mcqs)?lesson.mcqs:[];
 const focus=toArray(lesson.neetFocus);
 const outcomes=toArray(lesson.learningOutcome);
+
 if(dom.lessonDayBadge)dom.lessonDayBadge.textContent="DAY "+day;
+
 dom.lessonContainer.innerHTML=
 '<article class="neet-lesson">'+
 '<header class="lesson-hero"><span class="lesson-day-label">DAY '+day+'</span>'+
@@ -415,6 +532,7 @@ dom.lessonContainer.innerHTML=
 (sections.length?'<section class="content-section"><h2>Concepts</h2><div class="topics-list">'+sections.map(renderSection).join("")+'</div></section>':'')+
 (mcqs.length?'<section class="mcqs-section"><h2>NEET Practice — MCQs</h2><div class="mcqs-list">'+mcqs.map(renderMCQ).join("")+'</div></section>':'')+
 '</article>';
+
 attachMCQEvents();
 }
 
@@ -424,11 +542,13 @@ return[subject,unit,chapter].filter(Boolean).map(escapeHTML).join(" • ");
 
 function renderSection(section,index){
 if(!section||typeof section!=="object")return "";
+
 const heading=firstValid(section.heading,section.topic,"Concept "+(index+1));
 const content=section.content??"";
 const subsections=Array.isArray(section.subsections)?section.subsections:[];
 const points=toArray(section.keyPoints);
 const tips=toArray(section.neetTips);
+
 return'<article class="topic-card"><div class="topic-header"><h3>'+escapeHTML(heading)+'</h3></div>'+
 '<div class="topic-content">'+(content?'<p>'+renderRichText(content)+'</p>':'')+
 (subsections.length?'<div class="concepts-list">'+subsections.map(renderSubsection).join("")+'</div>':'')+
@@ -439,12 +559,15 @@ return'<article class="topic-card"><div class="topic-header"><h3>'+escapeHTML(he
 
 function renderSubsection(item){
 if(!item||typeof item!=="object")return "";
+
 return'<div class="concept-card"><h3>'+escapeHTML(firstValid(item.heading,""))+'</h3><p>'+renderRichText(item.content??"")+'</p></div>';
 }
 
 function renderMCQ(mcq,index){
 if(!mcq||typeof mcq!=="object")return "";
+
 const options=Array.isArray(mcq.options)?mcq.options:[];
+
 return'<article class="mcq-card" data-mcq-index="'+index+'" data-correct-answer="'+escapeHTML(normalizeAnswer(mcq.answer))+'">'+
 '<div class="mcq-header"><span>Question '+(index+1)+'</span><button type="button" class="mcq-share-button">Share</button></div>'+
 '<div class="mcq-body"><h3 class="mcq-question">'+renderRichText(mcq.question??"")+'</h3>'+
@@ -456,6 +579,7 @@ return'<article class="mcq-card" data-mcq-index="'+index+'" data-correct-answer=
 
 function renderOption(option,index){
 const letter=String.fromCharCode(65+index);
+
 return'<button type="button" class="mcq-option" data-option="'+letter+'"><span class="option-letter">'+letter+'</span><span class="option-text">'+renderRichText(option)+'</span></button>';
 }
 
@@ -464,38 +588,64 @@ dom.lessonContainer.querySelectorAll(".mcq-card").forEach(card=>{
 card.querySelectorAll(".mcq-option").forEach(option=>{
 option.addEventListener("click",()=>answerMCQ(card,option));
 });
+
 const share=card.querySelector(".mcq-share-button");
+
 if(share)share.addEventListener("click",()=>shareMCQ(card));
 });
 }
 
 function answerMCQ(card,selected){
 if(card.dataset.answered==="true")return;
+
 const correct=normalizeAnswer(card.dataset.correctAnswer);
 const answer=normalizeAnswer(selected.dataset.option);
+
 if(!/^[A-D]$/.test(correct))return;
+
 card.dataset.answered="true";
+
 const options=card.querySelectorAll(".mcq-option");
+
 options.forEach(option=>{
 option.disabled=true;
-if(normalizeAnswer(option.dataset.option)===correct)option.classList.add("correct","is-correct");
+
+if(normalizeAnswer(option.dataset.option)===correct){
+option.classList.add("correct","is-correct");
+}
 });
+
 const isCorrect=answer===correct;
+
 if(!isCorrect)selected.classList.add("wrong","is-wrong");
+
 const result=card.querySelector(".mcq-result");
+
 result.hidden=false;
 result.className="mcq-result "+(isCorrect?"correct":"wrong");
 result.textContent=isCorrect?"✓ Correct!":"✕ Incorrect. Correct answer: "+correct;
+
 card.querySelector(".mcq-explanation").hidden=false;
 }
 
 function normalizeAnswer(value){
 if(value===null||value===undefined)return "";
-if(typeof value==="number"&&value>=0&&value<=3)return String.fromCharCode(65+value);
+
+if(typeof value==="number"&&value>=0&&value<=3){
+return String.fromCharCode(65+value);
+}
+
 const text=String(value).trim().toUpperCase();
+
 if(/^[A-D]$/.test(text))return text;
-if(/^[0-3]$/.test(text))return String.fromCharCode(65+Number(text));
-const match=text.match(/\bOPTION\s+([A-D])\b/)||text.match(/\bANSWER\s*[:\-]?\s*([A-D])\b/);
+
+if(/^[0-3]$/.test(text)){
+return String.fromCharCode(65+Number(text));
+}
+
+const match=text.match(/\bOPTION\s+([A-D])\b/)||
+text.match(/\bANSWER\s*[:\-]?\s*([A-D])\b/);
+
 return match?match[1]:text;
 }
 
@@ -503,8 +653,14 @@ return match?match[1]:text;
 
 async function shareMCQ(card){
 const question=card.querySelector(".mcq-question").textContent.trim();
-const options=Array.from(card.querySelectorAll(".option-text")).map(x=>x.textContent.trim());
-const text="VIDHWAAN NEET\n\n"+question+"\n\n"+options.map((x,i)=>String.fromCharCode(65+i)+". "+x).join("\n")+"\n\nvidhwaan.com";
+
+const options=Array.from(card.querySelectorAll(".option-text"))
+.map(x=>x.textContent.trim());
+
+const text="VIDHWAAN NEET\n\n"+question+"\n\n"+
+options.map((x,i)=>String.fromCharCode(65+i)+". "+x).join("\n")+
+"\n\nvidhwaan.com";
+
 try{
 if(navigator.share){
 await navigator.share({title:"VIDHWAAN NEET MCQ",text});
@@ -513,43 +669,68 @@ await navigator.clipboard.writeText(text);
 showToast("MCQ copied to clipboard.");
 }
 }catch(error){
-if(error.name!=="AbortError")console.warn("MCQ share failed",error);
+if(error.name!=="AbortError"){
+console.warn("MCQ share failed",error);
+}
 }
 }
 
 /* HELPERS */
 
 function toArray(value){
-return Array.isArray(value)?value.filter(x=>x!==null&&x!==undefined&&String(x).trim()!==""):[];
+return Array.isArray(value)?
+value.filter(x=>x!==null&&x!==undefined&&String(x).trim()!==""):[];
 }
 
 function renderList(items){
-return'<ul class="neet-content-list">'+items.map(x=>'<li>'+renderRichText(x)+'</li>').join("")+'</ul>';
+return'<ul class="neet-content-list">'+
+items.map(x=>'<li>'+renderRichText(x)+'</li>').join("")+
+'</ul>';
 }
 
 function renderRichText(value){
-return escapeHTML(value).replace(/\r?\n/g,"<br>").replace(/\*([^*]+)\*/g,"<em>$1</em>");
+return escapeHTML(value)
+.replace(/\r?\n/g,"<br>")
+.replace(/\*([^*]+)\*/g,"<em>$1</em>");
 }
 
 function escapeHTML(value){
-return String(value??"").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;").replaceAll("'","&#039;");
+return String(value??"")
+.replaceAll("&","&amp;")
+.replaceAll("<","&lt;")
+.replaceAll(">","&gt;")
+.replaceAll('"',"&quot;")
+.replaceAll("'","&#039;");
 }
 
 function showToast(message){
 let toast=document.getElementById("neet-toast");
+
 if(!toast){
 toast=document.createElement("div");
 toast.id="neet-toast";
 toast.setAttribute("role","status");
+
 Object.assign(toast.style,{
-position:"fixed",left:"50%",bottom:"24px",transform:"translateX(-50%)",
-zIndex:"3000",padding:"12px 16px",borderRadius:"12px",
-background:"#17191c",color:"#fff",fontSize:"14px",fontWeight:"700"
+position:"fixed",
+left:"50%",
+bottom:"24px",
+transform:"translateX(-50%)",
+zIndex:"3000",
+padding:"12px 16px",
+borderRadius:"12px",
+background:"#17191c",
+color:"#fff",
+fontSize:"14px",
+fontWeight:"700"
 });
+
 document.body.appendChild(toast);
 }
+
 toast.textContent=message;
 toast.hidden=false;
+
 clearTimeout(toast.timer);
 toast.timer=setTimeout(()=>toast.hidden=true,2500);
 }
@@ -559,17 +740,22 @@ toast.timer=setTimeout(()=>toast.hidden=true,2500);
 function showDays(){
 hideLoading();
 hideError();
+
 if(dom.lessonView)dom.lessonView.hidden=true;
 if(dom.daysView)dom.daysView.hidden=false;
+
 state.selectedDay=null;
 state.lesson=null;
+
 updateHomeStatus();
 renderDayGrid();
+
 window.scrollTo({top:0,behavior:"smooth"});
 }
 
 function showLesson(){
 hideError();
+
 if(dom.daysView)dom.daysView.hidden=true;
 if(dom.lessonView)dom.lessonView.hidden=false;
 }
@@ -593,6 +779,7 @@ if(dom.errorState)dom.errorState.hidden=true;
 
 async function retrySelectedDay(){
 hideError();
+
 if(Number.isInteger(state.selectedDay)){
 await openDay(state.selectedDay);
 }else{
@@ -604,11 +791,14 @@ await startNEETApp();
 
 function scheduleReleaseRefresh(){
 if(state.releaseTimer)clearInterval(state.releaseTimer);
+
 state.releaseTimer=setInterval(()=>{
 const previous=state.releasedDay;
 const current=calculateReleasedDay();
+
 if(current!==previous){
 state.releasedDay=current;
+
 if(!dom.lessonView||dom.lessonView.hidden){
 renderDayGrid();
 updateHomeStatus();
@@ -622,25 +812,36 @@ updateHomeStatus();
 function setupInstallPrompt(){
 window.addEventListener("beforeinstallprompt",event=>{
 event.preventDefault();
+
 state.deferredInstallPrompt=event;
+
 if(dom.installButton)dom.installButton.hidden=false;
 });
+
 window.addEventListener("appinstalled",()=>{
 state.deferredInstallPrompt=null;
+
 if(dom.installButton)dom.installButton.hidden=true;
 });
-if(dom.installButton)dom.installButton.addEventListener("click",installApplication);
+
+if(dom.installButton){
+dom.installButton.addEventListener("click",installApplication);
+}
 }
 
 async function installApplication(){
 if(!state.deferredInstallPrompt)return;
+
 state.deferredInstallPrompt.prompt();
+
 try{
 await state.deferredInstallPrompt.userChoice;
 }catch(error){
 console.warn("Install prompt failed",error);
 }
+
 state.deferredInstallPrompt=null;
+
 if(dom.installButton)dom.installButton.hidden=true;
 }
 
@@ -648,11 +849,15 @@ if(dom.installButton)dom.installButton.hidden=true;
 
 function registerServiceWorker(){
 if(!("serviceWorker"in navigator))return;
+
 window.addEventListener("load",async()=>{
 try{
 const registration=await navigator.serviceWorker.register("./sw.js",{scope:"./"});
+
 console.log("VIDHWAAN NEET service worker registered:",registration.scope);
+
 await registration.update();
+
 }catch(error){
 console.warn("Service worker registration failed",error);
 }
