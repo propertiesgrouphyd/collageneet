@@ -1,0 +1,1925 @@
+{
+  "day": 56,
+  "courseDate": "2026-10-24",
+  "publishAt": "2026-10-24T06:00:00+05:30",
+  "title": "Respiration — Glycolysis and Fermentation (Day 56)",
+  "introduction": "This lesson covers the complete pathway of glycolysis, its regulation, the fate of pyruvate under aerobic and anaerobic conditions, and the two major fermentation types, aligning with NCERT concepts essential for NEET.",
+  "sections": [
+    {
+      "topic": "Cellular respiration",
+      "heading": "Overview of Cellular Respiration",
+      "content": "Cellular respiration is the set of metabolic reactions that convert biochemical energy from nutrients into ATP and release waste products. It occurs in three stages: glycolysis (cytoplasm), the citric acid cycle (mitochondrial matrix), and oxidative phosphorylation (inner mitochondrial membrane).",
+      "keyPoints": [
+        "Provides ATP for cellular activities",
+        "Involves both catabolic and anabolic pathways",
+        "Divided into aerobic and anaerobic phases"
+      ],
+      "neetTips": [
+        "Remember the three major stages and their locations for quick recall"
+      ]
+    },
+    {
+      "topic": "Aerobic and anaerobic respiration",
+      "heading": "Aerobic vs Anaerobic Respiration",
+      "content": "Aerobic respiration uses oxygen as the final electron acceptor, yielding ~30‑32 ATP per glucose. Anaerobic respiration proceeds without O₂, ending with fermentation; ATP yield is limited to glycolytic level (2 ATP).",
+      "keyPoints": [
+        "O₂ is the terminal electron acceptor in aerobic respiration",
+        "Fermentation regenerates NAD⁺ in anaerobic conditions",
+        "ATP yield difference is a key NEET focus"
+      ],
+      "neetTips": [
+        "Link the presence of O₂ to the higher ATP yield"
+      ]
+    },
+    {
+      "topic": "Site of respiration",
+      "heading": "Cellular Sites of Respiratory Processes",
+      "content": "Glycolysis occurs in the cytoplasm. The pyruvate dehydrogenase complex, Krebs cycle, and oxidative phosphorylation take place in mitochondria (matrix and inner membrane).",
+      "keyPoints": [
+        "Glycolysis – cytosol",
+        "Krebs cycle – mitochondrial matrix",
+        "ETC – inner mitochondrial membrane"
+      ],
+      "neetTips": [
+        "Visualise the compartmentalisation to avoid confusion"
+      ]
+    },
+    {
+      "topic": "Glycolysis",
+      "heading": "Glycolysis: The Ten‑Step Pathway",
+      "content": "Glycolysis converts one glucose molecule into two pyruvate molecules, producing a net gain of 2 ATP and 2 NADH. It proceeds via the Embden‑Meyerhof‑Parnas (EMP) pathway.",
+      "keyPoints": [
+        "Ten enzymatic steps",
+        "Divided into investment and payoff phases",
+        "Occurs in the cytoplasm"
+      ],
+      "neetTips": [
+        "Memorise the sequence of key enzymes: hexokinase, phosphofructokinase, pyruvate kinase"
+      ]
+    },
+    {
+      "topic": "EMP pathway",
+      "heading": "Embden‑Meyerhof‑Parnas (EMP) Pathway",
+      "content": "The EMP pathway is the classical glycolytic route. It includes glucose phosphorylation, isomerisation, cleavage, and energy‑yielding steps, culminating in pyruvate formation.",
+      "keyPoints": [
+        "EMP = classic glycolysis",
+        "Involves substrate‑level phosphorylation",
+        "Produces NADH"
+      ],
+      "neetTips": [
+        "EMP is synonymous with glycolysis – treat them interchangeably in NEET"
+      ]
+    },
+    {
+      "topic": "Glucose activation",
+      "heading": "Glucose Activation (Investment Phase)",
+      "content": "Glucose is phosphorylated to glucose‑6‑phosphate by hexokinase (or glucokinase in liver) using 1 ATP, then isomerised to fructose‑6‑phosphate, and phosphorylated again to fructose‑1,6‑bisphosphate by phosphofructokinase‑1 (PFK‑1) consuming a second ATP.",
+      "keyPoints": [
+        "Two ATP consumed per glucose",
+        "PFK‑1 is the major regulatory step",
+        "Hexokinase has low Km for glucose"
+      ],
+      "neetTips": [
+        "Focus on the regulatory role of PFK‑1 for NEET questions"
+      ]
+    },
+    {
+      "topic": "Phosphorylation steps",
+      "heading": "Key Phosphorylation Reactions in Glycolysis",
+      "content": "The two ATP‑consuming steps are catalysed by hexokinase and PFK‑1. Later, substrate‑level phosphorylation generates ATP via phosphoglycerate kinase and pyruvate kinase.",
+      "keyPoints": [
+        "ATP investment: steps 1 & 3",
+        "ATP generation: steps 7 & 10"
+      ],
+      "neetTips": [
+        "Remember which steps consume and which produce ATP"
+      ]
+    },
+    {
+      "topic": "Cleavage of fructose bisphosphate",
+      "heading": "Aldolase‑Mediated Cleavage",
+      "content": "Aldolase splits fructose‑1,6‑bisphosphate into two three‑carbon sugars: glyceraldehyde‑3‑phosphate (G3P) and dihydroxyacetone phosphate (DHAP). DHAP is rapidly isomerised to a second G3P by triose phosphate isomerase.",
+      "keyPoints": [
+        "Produces two G3P molecules",
+        "Ensures the payoff phase proceeds with 2‑fold amplification"
+      ],
+      "neetTips": [
+        "Link cleavage to the doubling of ATP yield in the payoff phase"
+      ]
+    },
+    {
+      "topic": "Payoff phase",
+      "heading": "Payoff Phase: Energy Harvesting",
+      "content": "Each G3P undergoes oxidation, phosphorylation, and substrate‑level phosphorylation, yielding 1 NADH, 2 ATP, and 1 pyruvate per G3P. Since two G3P are formed, the total payoff is 2 NADH, 4 ATP, and 2 pyruvate.",
+      "keyPoints": [
+        "Four ATP produced, two consumed overall"
+      ],
+      "neetTips": [
+        "Net ATP = 4 – 2 = 2; keep this subtraction clear"
+      ]
+    },
+    {
+      "topic": "Substrate-level phosphorylation",
+      "heading": "Substrate‑Level Phosphorylation in Glycolysis",
+      "content": "Direct transfer of a phosphate group from a high‑energy intermediate to ADP occurs at phosphoglycerate kinase (1,3‑bisphosphoglycerate → 3‑phosphoglycerate) and pyruvate kinase (phosphoenolpyruvate → pyruvate).",
+      "keyPoints": [
+        "Two distinct enzymes"
+      ],
+      "neetTips": [
+        "These are the only ATP‑producing steps in glycolysis"
+      ]
+    },
+    {
+      "topic": "NADH formation",
+      "heading": "NADH Generation during Oxidation of G3P",
+      "content": "Glyceraldehyde‑3‑phosphate dehydrogenase oxidises G3P, reducing NAD⁺ to NADH while attaching inorganic phosphate to form 1,3‑bisphosphoglycerate.",
+      "keyPoints": [
+        "2 NADH per glucose"
+      ],
+      "neetTips": [
+        "NADH from glycolysis enters mitochondria via shuttles for further ATP"
+      ]
+    },
+    {
+      "topic": "Net ATP yield of glycolysis",
+      "heading": "Net ATP Yield from Glycolysis",
+      "content": "Gross ATP synthesis = 4 ATP (2 per G3P). After subtracting the 2 ATP invested, the net gain is 2 ATP per glucose molecule.",
+      "keyPoints": [
+        "Net = 2 ATP"
+      ],
+      "neetTips": [
+        "NEET often asks net yield; always subtract the investment"
+      ]
+    },
+    {
+      "topic": "Pyruvate formation",
+      "heading": "Formation of Pyruvate",
+      "content": "The final step catalysed by pyruvate kinase converts phosphoenolpyruvate (PEP) to pyruvate, generating the second molecule of ATP per G3P.",
+      "keyPoints": [
+        "Produces pyruvate and ATP"
+      ],
+      "neetTips": [
+        "Link pyruvate fate to aerobic vs anaerobic pathways"
+      ]
+    },
+    {
+      "topic": "Fate of pyruvate",
+      "heading": "Pyruvate: Aerobic and Anaerobic Fates",
+      "content": "In the presence of O₂, pyruvate enters mitochondria, is converted to acetyl‑CoA, and feeds the Krebs cycle. Under anaerobic conditions, pyruvate undergoes fermentation to ethanol or lactate, regenerating NAD⁺.",
+      "keyPoints": [
+        "Aerobic → acetyl‑CoA; Anaerobic → ethanol or lactate"
+      ],
+      "neetTips": [
+        "Remember the two fermentation routes for NEET"
+      ]
+    },
+    {
+      "topic": "Fermentation",
+      "heading": "Fermentation: Regeneration of NAD⁺",
+      "content": "Fermentation allows glycolysis to continue by oxidising NADH back to NAD⁺. It occurs in the cytosol and yields no additional ATP beyond glycolysis.",
+      "keyPoints": [
+        "Only NAD⁺ regeneration"
+      ],
+      "neetTips": [
+        "Focus on the purpose, not ATP gain"
+      ]
+    },
+    {
+      "topic": "Alcoholic fermentation",
+      "heading": "Alcoholic Fermentation Pathway",
+      "content": "In yeast and some plant cells, pyruvate is decarboxylated by pyruvate decarboxylase to acetaldehyde, which is then reduced by alcohol dehydrogenase using NADH to form ethanol and NAD⁺.",
+      "keyPoints": [
+        "Products: ethanol + CO₂"
+      ],
+      "neetTips": [
+        "Link CO₂ evolution to bread making – a memorable cue"
+      ]
+    },
+    {
+      "topic": "Lactic acid fermentation",
+      "heading": "Lactic Acid Fermentation Pathway",
+      "content": "In muscle cells, lactate dehydrogenase reduces pyruvate directly to lactate, oxidising NADH to NAD⁺. No CO₂ is released.",
+      "keyPoints": [
+        "Product: lactate"
+      ],
+      "neetTips": [
+        "Remember lactate accumulation causes muscle fatigue"
+      ]
+    },
+    {
+      "topic": "ATP yield in fermentation",
+      "heading": "ATP Yield When Fermentation Occurs",
+      "content": "Fermentation does not add ATP beyond the 2 ATP obtained from glycolysis. Hence total ATP per glucose under anaerobic conditions remains 2 ATP.",
+      "keyPoints": [
+        "Total = 2 ATP"
+      ],
+      "neetTips": [
+        "NEET often contrasts 2 ATP (anaerobic) vs ~30 ATP (aerobic)"
+      ]
+    },
+    {
+      "topic": "Significance of glycolysis",
+      "heading": "Physiological Importance of Glycolysis",
+      "content": "Glycolysis provides rapid ATP, supplies intermediates for biosynthesis, functions under both aerobic and anaerobic conditions, and is the sole pathway for ATP in erythrocytes and many prokaryotes.",
+      "keyPoints": [
+        "Universal, fast, and provides precursors"
+      ],
+      "neetTips": [
+        "Highlight erythrocyte reliance – a classic NEET fact"
+      ]
+    },
+    {
+      "topic": "NCERT-based respiration concepts",
+      "heading": "NCERT Core Concepts on Respiration",
+      "content": "NCERT emphasizes the step‑wise breakdown of glucose, the regulatory role of PFK‑1, the compartmentalisation of metabolic pathways, and the distinction between aerobic respiration (complete oxidation) and fermentation (incomplete oxidation).",
+      "keyPoints": [
+        "PFK‑1 regulation, compartmentalisation, complete vs incomplete oxidation"
+      ],
+      "neetTips": [
+        "Align answers with NCERT phrasing for maximum marks"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe each step of glycolysis and its energy yield",
+    "Differentiate aerobic respiration from anaerobic fermentation pathways",
+    "Identify the cellular locations of glycolysis, Krebs cycle and oxidative phosphorylation",
+    "Explain the significance of NAD⁺ regeneration in fermentation"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the net number of ATP molecules produced per molecule of glucose during glycolysis in the cytoplasm?",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "6 ATP",
+        "8 ATP"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis consumes 2 ATP in the investment phase and produces 4 ATP in the payoff phase, giving a net gain of 2 ATP per glucose.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "In the EMP pathway, which enzyme catalyzes the conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate, generating ATP?",
+      "options": [
+        "phosphoglycerate kinase",
+        "pyruvate kinase",
+        "glyceraldehyde-3-phosphate dehydrogenase",
+        "phosphoglycerate mutase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3-bisphosphoglycerate to ADP, forming ATP and 3-phosphoglycerate.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "Under anaerobic conditions in muscle cells, pyruvate is primarily converted into:",
+      "options": [
+        "conversion to lactate",
+        "conversion to ethanol",
+        "entry into the TCA cycle",
+        "transamination to alanine"
+      ],
+      "answer": 0,
+      "explanation": "In the absence of oxygen, muscle cells regenerate NAD+ by reducing pyruvate to lactate via lactate dehydrogenase.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "During the oxidation of glyceraldehyde‑3‑phosphate in glycolysis, which coenzyme is reduced?",
+      "options": [
+        "NAD+",
+        "NADP+",
+        "FAD",
+        "Coenzyme A"
+      ],
+      "answer": 0,
+      "explanation": "Glyceraldehyde‑3‑phosphate dehydrogenase catalyzes the reduction of NAD+ to NADH while converting the substrate to 1,3-bisphosphoglycerate.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "Which step of glycolysis involves substrate‑level phosphorylation that produces ATP without involvement of the electron transport chain?",
+      "options": [
+        "conversion of phosphoenolpyruvate to pyruvate",
+        "conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate",
+        "conversion of glucose to glucose‑6‑phosphate",
+        "conversion of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate"
+      ],
+      "answer": 1,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3-bisphosphoglycerate to ADP, forming ATP directly (substrate‑level phosphorylation).",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "One molecule of glucose undergoing alcoholic fermentation yields which two end products?",
+      "options": [
+        "ethanol and CO2",
+        "lactate and NAD+",
+        "ethanol and NADH",
+        "CO2 and water"
+      ],
+      "answer": 0,
+      "explanation": "In alcoholic fermentation, pyruvate is decarboxylated to acetaldehyde (releasing CO2) and then reduced to ethanol, regenerating NAD+.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "How does the final electron acceptor differ between aerobic respiration and anaerobic (fermentative) respiration?",
+      "options": [
+        "O2 vs. organic molecules",
+        "O2 vs. nitrate",
+        "O2 vs. CO2",
+        "O2 vs. water"
+      ],
+      "answer": 0,
+      "explanation": "Aerobic respiration uses O2 as the terminal electron acceptor, whereas fermentation uses organic molecules such as pyruvate or its derivatives to accept electrons.",
+      "topic": "Cellular respiration"
+    },
+    {
+      "question": "Which statement correctly distinguishes aerobic from anaerobic respiration in plant cells?",
+      "options": [
+        "Aerobic respiration occurs in mitochondria producing CO₂ and H₂O, whereas anaerobic respiration occurs in the cytosol producing ethanol or lactate",
+        "Aerobic respiration occurs in the cytosol producing ethanol, whereas anaerobic respiration occurs in mitochondria producing CO₂ and H₂O",
+        "Both processes occur in mitochondria but differ in the amount of ATP generated",
+        "Both processes occur in the cytosol but differ in the usage of NADH"
+      ],
+      "answer": 0,
+      "explanation": "In plants, aerobic respiration is mitochondrial and ends with complete oxidation of glucose to CO₂ and H₂O. Anaerobic respiration (fermentation) takes place in the cytosol, where pyruvate is reduced to ethanol (alcoholic) or lactate (lactic) without using oxygen.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "What is the net substrate‑level ATP gain from glycolysis per molecule of glucose under aerobic conditions?",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "6 ATP",
+        "8 ATP"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis consumes 2 ATP in the investment phase and produces 4 ATP in the payoff phase, giving a net gain of 2 ATP per glucose molecule. This value is the same whether oxygen is present or not; additional ATP in aerobic respiration comes from oxidative phosphorylation.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "What is the primary final electron acceptor in aerobic respiration of plant cells?",
+      "options": [
+        "O₂",
+        "NAD⁺",
+        "FAD",
+        "ADP"
+      ],
+      "answer": 0,
+      "explanation": "Molecular oxygen serves as the terminal electron acceptor in the mitochondrial electron transport chain, allowing the reduction of O₂ to H₂O and the generation of a proton motive force for ATP synthesis.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "During alcoholic fermentation, which molecule is regenerated to allow glycolysis to continue?",
+      "options": [
+        "NAD⁺",
+        "NADH",
+        "FADH₂",
+        "ATP"
+      ],
+      "answer": 0,
+      "explanation": "Alcoholic fermentation oxidises NADH back to NAD⁺ while converting pyruvate to ethanol and CO₂, ensuring a continuous supply of NAD⁺ for the glyceraldehyde‑3‑phosphate dehydrogenase step of glycolysis.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "Which enzyme catalyses the conversion of pyruvate to lactate in lactic acid fermentation?",
+      "options": [
+        "Lactate dehydrogenase",
+        "Alcohol dehydrogenase",
+        "Pyruvate kinase",
+        "Citrate synthase"
+      ],
+      "answer": 0,
+      "explanation": "Lactate dehydrogenase reduces pyruvate to lactate, simultaneously oxidising NADH to NAD⁺, thereby sustaining glycolysis under anaerobic conditions.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "Compare the total ATP yield per glucose molecule in aerobic respiration versus alcoholic fermentation in plant cells. Which statement is correct?",
+      "options": [
+        "Aerobic respiration yields about 30‑32 ATP, while alcoholic fermentation yields only 2 ATP",
+        "Aerobic respiration yields 2 ATP, while alcoholic fermentation yields about 30‑32 ATP",
+        "Both pathways yield approximately 2 ATP per glucose",
+        "Both pathways yield approximately 30 ATP per glucose"
+      ],
+      "answer": 0,
+      "explanation": "Aerobic respiration couples glycolysis, the citric acid cycle and oxidative phosphorylation, giving ~30‑32 ATP. Alcoholic fermentation only provides the 2 ATP from glycolysis; no oxidative phosphorylation occurs.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "Why is anaerobic respiration less efficient than aerobic respiration in terms of ATP production?",
+      "options": [
+        "The electron transport chain uses O₂ as the final electron acceptor, generating a larger proton motive force",
+        "Anaerobic pathways generate more NADH, which cannot be used for ATP synthesis",
+        "Aerobic respiration occurs in the cytosol where ATP synthase is more active",
+        "Fermentation produces more CO₂, which consumes ATP"
+      ],
+      "answer": 0,
+      "explanation": "O₂ as the terminal electron acceptor enables a full electron transport chain, creating a strong proton gradient that drives synthesis of ~28 ATP via oxidative phosphorylation. In its absence, fermentation cannot harness this gradient, limiting ATP yield to substrate‑level phosphorylation only.",
+      "topic": "Aerobic and anaerobic respiration"
+    },
+    {
+      "question": "In plant cells, glycolysis takes place in which cellular compartment?",
+      "options": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Chloroplast stroma",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis occurs in the cytoplasm where glucose is broken down to pyruvate, independent of organelles.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "The citric acid (Krebs) cycle is localized in which part of the plant cell?",
+      "options": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Chloroplast thylakoid"
+      ],
+      "answer": 1,
+      "explanation": "All enzymes of the Krebs cycle are present in the mitochondrial matrix, where acetyl‑CoA is oxidized.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "During aerobic respiration, the electron transport chain is embedded in which membrane?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Inner mitochondrial membrane",
+        "Cytoplasmic membrane",
+        "Chloroplast thylakoid membrane"
+      ],
+      "answer": 1,
+      "explanation": "Complexes I–IV and ATP synthase of the ETC are situated in the inner mitochondrial membrane, allowing proton gradient formation.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "In plant cells, alcoholic fermentation of pyruvate to ethanol occurs in which cellular region?",
+      "options": [
+        "Mitochondrial matrix",
+        "Cytosol",
+        "Chloroplast stroma",
+        "Vacuole"
+      ],
+      "answer": 1,
+      "explanation": "Fermentation enzymes (pyruvate decarboxylase and alcohol dehydrogenase) function in the cytosol where oxygen is absent.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "Where is NADH oxidized by Complex I (NADH dehydrogenase) during aerobic respiration in plant cells?",
+      "options": [
+        "In the cytosol by lactate dehydrogenase",
+        "In the mitochondrial matrix by NADH dehydrogenase (Complex I)",
+        "In the inner mitochondrial membrane by cytochrome oxidase",
+        "In the chloroplast stroma by ferredoxin‑NADP+ reductase"
+      ],
+      "answer": 1,
+      "explanation": "NADH generated in the matrix donates electrons to Complex I, which is located in the inner mitochondrial membrane but receives NADH from the matrix side.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "Lactic acid fermentation in animal muscle converts pyruvate to lactate in which cellular compartment?",
+      "options": [
+        "Mitochondrial matrix",
+        "Cytosol",
+        "Nucleus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "The enzyme lactate dehydrogenase operates in the cytosol, allowing regeneration of NAD+ under anaerobic conditions.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "Which organelle is primarily responsible for the bulk of ATP synthesis during aerobic respiration in plant cells?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Peroxisome",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "ATP is mainly produced by oxidative phosphorylation in mitochondria, where the proton motive force drives ATP synthase.",
+      "topic": "Site of respiration"
+    },
+    {
+      "question": "Which enzyme catalyzes the phosphorylation of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate in glycolysis?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase‑1",
+        "Aldolase",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase"
+      ],
+      "answer": 1,
+      "explanation": "Phosphofructokinase‑1 (PFK‑1) adds a second phosphate to fructose‑6‑phosphate, forming fructose‑1,6‑bisphosphate; it is a key regulatory step of glycolysis.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "What is the net number of ATP molecules produced from one molecule of glucose during glycolysis (aerobic conditions)?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis consumes 2 ATP in the investment phase and produces 4 ATP in the payoff phase, giving a net gain of 2 ATP per glucose.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "During which glycolytic step is NADH generated?",
+      "options": [
+        "Glucose → glucose‑6‑phosphate",
+        "Glyceraldehyde‑3‑phosphate → 1,3‑bisphosphoglycerate",
+        "Phosphoenolpyruvate → pyruvate",
+        "3‑phosphoglycerate → 2‑phosphoglycerate"
+      ],
+      "answer": 1,
+      "explanation": "The glyceraldehyde‑3‑phosphate dehydrogenase reaction reduces NAD⁺ to NADH while converting glyceraldehyde‑3‑phosphate to 1,3‑bisphosphoglycerate.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "Substrate‑level phosphorylation occurs at which two steps of the glycolytic payoff phase?",
+      "options": [
+        "Conversion of 1,3‑bisphosphoglycerate to 3‑phosphoglycerate and conversion of phosphoenolpyruvate to pyruvate",
+        "Phosphoglycerate kinase and pyruvate kinase reactions",
+        "Hexokinase and phosphofructokinase reactions",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase and enolase reactions"
+      ],
+      "answer": 1,
+      "explanation": "ATP is formed when 1,3‑bisphosphoglycerate donates a phosphate to ADP via phosphoglycerate kinase, and when phosphoenolpyruvate transfers its phosphate to ADP via pyruvate kinase.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "What are the immediate products formed after the cleavage of fructose‑1,6‑bisphosphate?",
+      "options": [
+        "Glyceraldehyde‑3‑phosphate and dihydroxyacetone phosphate",
+        "Glucose‑6‑phosphate",
+        "1,3‑bisphosphoglycerate",
+        "Phosphoenolpyruvate"
+      ],
+      "answer": 0,
+      "explanation": "Aldolase splits fructose‑1,6‑bisphosphate into two three‑carbon sugars: glyceraldehyde‑3‑phosphate (G3P) and dihydroxyacetone phosphate (DHAP).",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "In muscle under anaerobic conditions, pyruvate is reduced to lactate. Which cofactor is oxidized in this reaction?",
+      "options": [
+        "NAD⁺",
+        "NADH",
+        "FAD",
+        "FADH₂"
+      ],
+      "answer": 1,
+      "explanation": "Lactate dehydrogenase catalyzes the reduction of pyruvate to lactate, oxidizing NADH back to NAD⁺, which is essential for glycolysis to continue.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "Which statement correctly describes a regulatory feature of glycolysis?",
+      "options": [
+        "Hexokinase is inhibited by its product glucose‑6‑phosphate",
+        "Phosphofructokinase‑1 is activated by ATP",
+        "Pyruvate kinase is activated by acetyl‑CoA",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase is inhibited by NAD⁺"
+      ],
+      "answer": 0,
+      "explanation": "Hexokinase activity is feedback‑inhibited by glucose‑6‑phosphate, preventing excess phosphorylation of glucose when downstream metabolites accumulate.",
+      "topic": "Glycolysis"
+    },
+    {
+      "question": "Which enzyme catalyzes the phosphorylation of glucose to glucose‑6‑phosphate in the EMP pathway?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase‑1",
+        "Pyruvate kinase",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Hexokinase transfers a phosphate from ATP to glucose, forming glucose‑6‑phosphate, the first step of glycolysis.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "In the EMP pathway, the step that generates NADH occurs at which substrate?",
+      "options": [
+        "1,3‑Bisphosphoglycerate",
+        "Glyceraldehyde‑3‑phosphate",
+        "3‑Phosphoglycerate",
+        "Phosphoenolpyruvate"
+      ],
+      "answer": 1,
+      "explanation": "Glyceraldehyde‑3‑phosphate is oxidized by glyceraldehyde‑3‑phosphate dehydrogenase, reducing NAD⁺ to NADH.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "What is the net ATP gain per molecule of glucose in the EMP pathway (excluding oxidative phosphorylation)?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Two ATP are consumed in the investment phase and four are produced in the payoff phase, giving a net gain of 2 ATP.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "The irreversible cleavage of fructose‑1,6‑bisphosphate yields which two three‑carbon molecules?",
+      "options": [
+        "Dihydroxyacetone phosphate & glyceraldehyde‑3‑phosphate",
+        "Glyceraldehyde‑3‑phosphate & 1,3‑bisphosphoglycerate",
+        "Dihydroxyacetone phosphate & 1,3‑bisphosphoglycerate",
+        "Glyceraldehyde‑3‑phosphate & phosphoenolpyruvate"
+      ],
+      "answer": 0,
+      "explanation": "Aldolase splits fructose‑1,6‑bisphosphate into dihydroxyacetone phosphate (DHAP) and glyceraldehyde‑3‑phosphate (G3P).",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "Which statement about the regulation of the EMP pathway is correct?",
+      "options": [
+        "Phosphofructokinase‑1 is activated by ATP",
+        "Hexokinase is inhibited by its product glucose‑6‑phosphate",
+        "Pyruvate kinase is activated by citrate",
+        "Phosphoglycerate kinase is inhibited by NADH"
+      ],
+      "answer": 1,
+      "explanation": "Hexokinase activity is feedback‑inhibited by glucose‑6‑phosphate, preventing excess accumulation of the product.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "During glycolysis, substrate‑level phosphorylation occurs at which two steps?",
+      "options": [
+        "Conversion of 1,3‑bisphosphoglycerate to 3‑phosphoglycerate and conversion of phosphoenolpyruvate to pyruvate",
+        "Conversion of glucose to glucose‑6‑phosphate and conversion of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate",
+        "Conversion of glyceraldehyde‑3‑phosphate to 1,3‑bisphosphoglycerate and conversion of phosphoenolpyruvate to pyruvate",
+        "Conversion of 3‑phosphoglycerate to 2‑phosphoglycerate and conversion of 2‑phosphoglycerate to phosphoenolpyruvate"
+      ],
+      "answer": 0,
+      "explanation": "Both the phosphoglycerate kinase reaction (1,3‑BPG → 3‑PG) and the pyruvate kinase reaction (PEP → pyruvate) generate ATP directly from ADP.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "In the EMP pathway, the enzyme that transfers a phosphate group from 1,3‑bisphosphoglycerate to ADP is:",
+      "options": [
+        "Phosphoglycerate kinase",
+        "Pyruvate kinase",
+        "Enolase",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase catalyzes the substrate‑level phosphorylation of ADP using the high‑energy phosphate of 1,3‑bisphosphoglycerate.",
+      "topic": "EMP pathway"
+    },
+    {
+      "question": "Which enzyme catalyzes the first phosphorylation of glucose in glycolysis?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase-1",
+        "Pyruvate kinase",
+        "Aldolase"
+      ],
+      "answer": 0,
+      "explanation": "Hexokinase transfers a phosphate from ATP to glucose, forming glucose‑6‑phosphate, the first step of glycolysis.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "The conversion of glucose‑6‑phosphate to fructose‑6‑phosphate is catalyzed by which enzyme?",
+      "options": [
+        "Phosphoglucose isomerase",
+        "Phosphofructokinase-1",
+        "Hexokinase",
+        "Enolase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglucose isomerase rearranges the carbon skeleton of glucose‑6‑phosphate to produce fructose‑6‑phosphate.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "During glucose activation, how many ATP molecules are consumed per molecule of glucose before the cleavage step?",
+      "options": [
+        "1 ATP",
+        "2 ATP",
+        "3 ATP",
+        "0 ATP"
+      ],
+      "answer": 1,
+      "explanation": "One ATP is used by hexokinase and another by phosphofructokinase‑1, totaling two ATP molecules invested before the fructose‑1,6‑bisphosphate cleavage.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "Which of the following statements about phosphofructokinase‑1 (PFK‑1) regulation is correct?",
+      "options": [
+        "Inhibited by high ATP",
+        "Activated by AMP",
+        "Inhibited by citrate",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "PFK‑1 is allosterically inhibited by high ATP and citrate, and activated by AMP, reflecting the cell’s energy status.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "The irreversible step that commits glucose to glycolysis is the phosphorylation of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate. Which cofactor is required for this reaction?",
+      "options": [
+        "Mg2+",
+        "Zn2+",
+        "Fe2+",
+        "Ca2+"
+      ],
+      "answer": 0,
+      "explanation": "PFK‑1 requires Mg2+ as a cofactor to bind ATP and facilitate the transfer of the phosphate group.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "In liver cells, the enzyme that phosphorylates glucose at a low affinity (high Km) is:",
+      "options": [
+        "Hexokinase",
+        "Glucokinase",
+        "Phosphofructokinase-1",
+        "Pyruvate kinase"
+      ],
+      "answer": 1,
+      "explanation": "Glucokinase, present in liver and pancreatic β‑cells, has a high Km for glucose, allowing it to function when glucose concentrations are high and it is not inhibited by glucose‑6‑phosphate.",
+      "topic": "Glucose activation"
+    },
+    {
+      "question": "Which enzyme catalyzes the substrate‑level phosphorylation that generates ATP from 1,3‑bisphosphoglycerate in glycolysis?",
+      "options": [
+        "Phosphoglycerate kinase",
+        "Pyruvate kinase",
+        "Hexokinase",
+        "Phosphofructokinase‑1"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3‑bisphosphoglycerate to ADP, forming ATP and 3‑phosphoglycerate.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "The conversion of phosphoenolpyruvate to pyruvate in glycolysis involves which type of phosphorylation?",
+      "options": [
+        "Oxidative phosphorylation",
+        "Substrate‑level phosphorylation",
+        "Photophosphorylation",
+        "Chemiosmotic phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Pyruvate kinase transfers a phosphate from phosphoenolpyruvate directly to ADP, a classic substrate‑level phosphorylation event.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "What is the net ATP gain from the substrate‑level phosphorylation steps of glycolysis?",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "Four ATP are produced (2 by phosphoglycerate kinase and 2 by pyruvate kinase) while two ATP are consumed in the investment phase, giving a net gain of 2 ATP.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "Which step in glycolysis does NOT involve a phosphorylation event?",
+      "options": [
+        "Glucose → glucose‑6‑phosphate",
+        "Fructose‑6‑phosphate → fructose‑1,6‑bisphosphate",
+        "3‑Phosphoglycerate → 2‑Phosphoglycerate",
+        "Phosphoenolpyruvate → pyruvate"
+      ],
+      "answer": 2,
+      "explanation": "The conversion of 3‑phosphoglycerate to 2‑phosphoglycerate is catalyzed by phosphoglycerate mutase and involves a mutase reaction, not a phosphorylation.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "Which molecule acts as an allosteric inhibitor of phosphofructokinase‑1, the enzyme that catalyzes a phosphorylation step in glycolysis?",
+      "options": [
+        "AMP",
+        "ADP",
+        "ATP",
+        "Fructose‑2,6‑bisphosphate"
+      ],
+      "answer": 2,
+      "explanation": "High concentrations of ATP signal sufficient energy and inhibit PFK‑1, reducing the rate of the phosphorylation of fructose‑6‑phosphate.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "During the step catalyzed by pyruvate kinase, which molecule donates the phosphate group to ADP?",
+      "options": [
+        "1,3‑Bisphosphoglycerate",
+        "Phosphoenolpyruvate",
+        "2‑Phosphoglycerate",
+        "Glyceraldehyde‑3‑phosphate"
+      ],
+      "answer": 1,
+      "explanation": "Phosphoenolpyruvate has a high‑energy phosphate bond that is transferred to ADP by pyruvate kinase, forming ATP and pyruvate.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "In glycolysis, \"substrate‑level phosphorylation\" refers to:",
+      "options": [
+        "Generation of ATP by direct transfer of a phosphate from a high‑energy substrate to ADP",
+        "Synthesis of ATP using the electron transport chain",
+        "Phosphorylation of enzymes by kinases",
+        "Formation of NADH from NAD+"
+      ],
+      "answer": 0,
+      "explanation": "Substrate‑level phosphorylation is the direct synthesis of ATP from ADP using the energy of a phosphorylated intermediate, as seen in the PGK and pyruvate kinase reactions.",
+      "topic": "Phosphorylation steps"
+    },
+    {
+      "question": "Which enzyme catalyzes the cleavage of fructose‑1,6‑bisphosphate into two three‑carbon molecules during glycolysis?",
+      "options": [
+        "Aldolase",
+        "Hexokinase",
+        "Phosphofructokinase‑1",
+        "Triose phosphate isomerase"
+      ],
+      "answer": 0,
+      "explanation": "Aldolase (class I in mammals) cleaves fructose‑1,6‑bisphosphate into glyceraldehyde‑3‑phosphate and dihydroxyacetone phosphate via a Schiff‑base mechanism.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "The cleavage of fructose‑1,6‑bisphosphate yields which pair of metabolites?",
+      "options": [
+        "Glyceraldehyde‑3‑phosphate and dihydroxyacetone phosphate",
+        "Glyceraldehyde‑3‑phosphate and pyruvate",
+        "Dihydroxyacetone phosphate and lactate",
+        "Glyceraldehyde‑3‑phosphate and 1,3‑bisphosphoglycerate"
+      ],
+      "answer": 0,
+      "explanation": "Aldolase splits fructose‑1,6‑bisphosphate into the two triose phosphates: glyceraldehyde‑3‑phosphate (G3P) and dihydroxyacetone phosphate (DHAP).",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "What type of reaction mechanism does aldolase employ in the cleavage of fructose‑1,6‑bisphosphate?",
+      "options": [
+        "Schiff‑base (nucleophilic addition) mechanism",
+        "Oxidation‑reduction mechanism",
+        "Phosphoryl‑transfer mechanism",
+        "Radical‑mediated cleavage"
+      ],
+      "answer": 0,
+      "explanation": "Class I aldolase forms a covalent Schiff base with an active‑site lysine, facilitating a retro‑aldol (nucleophilic addition) cleavage of the C‑3–C‑4 bond.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "Regarding regulation, which statement about the fructose‑1,6‑bisphosphate cleavage step is correct?",
+      "options": [
+        "It is an irreversible step and is not directly regulated by allosteric effectors",
+        "It is reversible and is activated by high ATP concentrations",
+        "It is the rate‑limiting step of glycolysis",
+        "It is inhibited by high citrate levels"
+      ],
+      "answer": 0,
+      "explanation": "The aldolase reaction is essentially irreversible under cellular conditions and is not a major point of allosteric regulation, unlike the earlier phosphofructokinase step.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "After cleavage, which enzyme rapidly interconverts dihydroxyacetone phosphate (DHAP) to glyceraldehyde‑3‑phosphate (G3P)?",
+      "options": [
+        "Triose phosphate isomerase",
+        "Aldolase",
+        "Phosphoglycerate kinase",
+        "Enolase"
+      ],
+      "answer": 0,
+      "explanation": "Triose phosphate isomerase catalyzes the reversible isomerisation of DHAP to G3P, ensuring that both carbons proceed through the subsequent steps of glycolysis.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "During the aldolase‑catalyzed cleavage, what happens to the stereochemistry at the carbon atoms involved in the C‑3–C‑4 bond?",
+      "options": [
+        "Both products retain the original configuration at C‑3 and C‑4",
+        "The configuration at C‑3 is inverted while C‑4 is retained",
+        "Both products are formed as enantiomers",
+        "The reaction proceeds with inversion at the cleavage bond"
+      ],
+      "answer": 0,
+      "explanation": "The retro‑aldol cleavage proceeds via a Schiff‑base intermediate without inversion, so the stereochemistry at the original C‑3 and C‑4 centers is retained in the resulting triose phosphates.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "Which cofactor is essential for the activity of the class I aldolase that cleaves fructose‑1,6‑bisphosphate?",
+      "options": [
+        "An active‑site lysine residue forming a Schiff base",
+        "NAD⁺",
+        "Mg²⁺ ion",
+        "Thiamine pyrophosphate (TPP)"
+      ],
+      "answer": 0,
+      "explanation": "Class I aldolase does not require an external cofactor; the ε‑amino group of a conserved lysine residue in the active site forms a Schiff base with the substrate, enabling cleavage.",
+      "topic": "Cleavage of fructose bisphosphate"
+    },
+    {
+      "question": "Which enzyme catalyzes the conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate with synthesis of ATP during the payoff phase of glycolysis?",
+      "options": [
+        "Phosphoglycerate kinase",
+        "Pyruvate kinase",
+        "Enolase",
+        "Glyceraldehyde-3-phosphate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3-bisphosphoglycerate to ADP, forming ATP and 3-phosphoglycerate.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "During the payoff phase, each molecule of glyceraldehyde-3-phosphate yields how many molecules of ATP by substrate‑level phosphorylation?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "One ATP is formed at the phosphoglycerate kinase step and another at the pyruvate kinase step, giving 2 ATP per glyceraldehyde-3-phosphate.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "The oxidation of glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate in the payoff phase produces which reduced coenzyme?",
+      "options": [
+        "NADH",
+        "FADH2",
+        "NADPH",
+        "ATP"
+      ],
+      "answer": 0,
+      "explanation": "Glyceraldehyde-3-phosphate dehydrogenase reduces NAD+ to NADH while attaching an inorganic phosphate to the substrate.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "Which statement about the payoff phase of glycolysis is FALSE?",
+      "options": [
+        "It occurs in the cytosol",
+        "It generates a net gain of 2 ATP per glucose",
+        "It consumes ATP",
+        "It produces pyruvate as the final product"
+      ],
+      "answer": 2,
+      "explanation": "The payoff phase does not consume ATP; it produces ATP via substrate‑level phosphorylation.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "In the payoff phase, the conversion of phosphoenolpyruvate to pyruvate is catalyzed by which enzyme, and what is the significance of this step?",
+      "options": [
+        "Pyruvate kinase; substrate‑level phosphorylation yielding ATP",
+        "Enolase; dehydration of 2‑phosphoglycerate",
+        "Phosphoglycerate mutase; isomerization of 3‑phosphoglycerate",
+        "Glyceraldehyde-3-phosphate dehydrogenase; NADH formation"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate kinase transfers a phosphate from phosphoenolpyruvate to ADP, forming ATP and pyruvate, the final step of glycolysis.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "How many molecules of NADH are produced per molecule of glucose during the payoff phase of glycolysis?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Each of the two glyceraldehyde-3-phosphate molecules yields one NADH, so the payoff phase generates 2 NADH per glucose.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "The substrate‑level phosphorylation steps that form ATP during the payoff phase occur at which two enzyme‑catalyzed reactions?",
+      "options": [
+        "Phosphoglycerate kinase and pyruvate kinase",
+        "Hexokinase and phosphofructokinase",
+        "Glyceraldehyde-3-phosphate dehydrogenase and enolase",
+        "Glucose‑6‑phosphate isomerase and aldolase"
+      ],
+      "answer": 0,
+      "explanation": "ATP is generated when phosphoglycerate kinase converts 1,3‑bisphosphoglycerate to 3‑phosphoglycerate and when pyruvate kinase converts phosphoenolpyruvate to pyruvate.",
+      "topic": "Payoff phase"
+    },
+    {
+      "question": "Which enzyme catalyzes the substrate-level phosphorylation step that generates ATP from ADP and 1,3-bisphosphoglycerate during glycolysis?",
+      "options": [
+        "Phosphoglycerate kinase",
+        "Pyruvate kinase",
+        "Hexokinase",
+        "Aldolase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3-bisphosphoglycerate to ADP, forming ATP and 3-phosphoglycerate.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "What is the total number of ATP molecules produced by substrate-level phosphorylation in glycolysis per molecule of glucose?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "Two ATP are formed by phosphoglycerate kinase and two by pyruvate kinase, giving a total of four ATP from substrate-level phosphorylation.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "Which statement correctly distinguishes substrate-level phosphorylation from oxidative phosphorylation?",
+      "options": [
+        "It directly transfers a phosphate group from a high‑energy substrate to ADP",
+        "It involves the electron transport chain",
+        "It occurs only in the presence of oxygen",
+        "It produces ATP by a chemiosmotic gradient"
+      ],
+      "answer": 0,
+      "explanation": "Substrate-level phosphorylation transfers a phosphate directly from a phosphorylated intermediate to ADP, without involving an electron transport chain or oxygen.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "During anaerobic fermentation in muscle cells, ATP is generated by substrate-level phosphorylation at which glycolytic step?",
+      "options": [
+        "Conversion of phosphoenolpyruvate to pyruvate",
+        "Conversion of 1,3-bisphosphoglycerate to 3‑phosphoglycerate",
+        "Phosphorylation of glucose to glucose‑6‑phosphate",
+        "Reduction of pyruvate to lactate"
+      ],
+      "answer": 0,
+      "explanation": "The pyruvate kinase reaction converts phosphoenolpyruvate to pyruvate, producing ATP by substrate-level phosphorylation even under anaerobic conditions.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "In the pyruvate‑kinase catalyzed step of glycolysis, which molecule serves as the immediate phosphate donor for ATP synthesis?",
+      "options": [
+        "1,3‑bisphosphoglycerate",
+        "Phosphoenolpyruvate",
+        "ATP",
+        "NADH"
+      ],
+      "answer": 1,
+      "explanation": "Phosphoenolpyruvate possesses a high‑energy phosphate bond that donates the phosphate to ADP, forming ATP.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "In glycolysis, substrate-level phosphorylation refers to:",
+      "options": [
+        "ATP synthesis coupled to electron transport",
+        "Direct synthesis of ATP from ADP using energy released by cleavage of a high‑energy phosphate bond in a metabolic intermediate",
+        "Generation of ATP by photophosphorylation",
+        "ATP synthesis by ATP synthase driven by a proton motive force"
+      ],
+      "answer": 1,
+      "explanation": "Substrate-level phosphorylation involves direct transfer of a phosphate group from a phosphorylated intermediate to ADP, without a membrane gradient or light.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "Which of the following statements about substrate-level phosphorylation in glycolysis is FALSE?",
+      "options": [
+        "It occurs in the cytosol",
+        "It produces ATP without the involvement of the electron transport chain",
+        "It requires molecular oxygen",
+        "It contributes to the net ATP yield of glycolysis"
+      ],
+      "answer": 2,
+      "explanation": "Substrate-level phosphorylation does not require oxygen; it proceeds anaerobically, unlike oxidative phosphorylation.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "Which enzyme catalyzes the formation of NADH during glycolysis?",
+      "options": [
+        "Glyceraldehyde‑3‑phosphate dehydrogenase",
+        "Phosphoglycerate kinase",
+        "Pyruvate kinase",
+        "Hexokinase"
+      ],
+      "answer": 0,
+      "explanation": "Glyceraldehyde‑3‑phosphate dehydrogenase oxidizes glyceraldehyde‑3‑phosphate, reducing NAD+ to NADH in the sixth step of glycolysis.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "During the conversion of one molecule of glucose to pyruvate, how many molecules of NADH are produced?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Each glucose yields two glyceraldehyde‑3‑phosphate molecules; each is oxidized to 1,3‑bisphosphoglycerate, producing one NADH, so a total of 2 NADH per glucose.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "Under anaerobic conditions, the NADH generated in glycolysis is reoxidized to NAD+ during which fermentation pathway?",
+      "options": [
+        "Lactic acid fermentation",
+        "Alcoholic fermentation",
+        "Oxidative phosphorylation",
+        "Substrate‑level phosphorylation"
+      ],
+      "answer": 0,
+      "explanation": "In lactic acid fermentation pyruvate accepts electrons from NADH, forming lactate and regenerating NAD+ needed for glycolysis to continue.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "Which statement about the NADH formed in glycolysis is FALSE?",
+      "options": [
+        "It is generated in the cytosol",
+        "It donates electrons to the mitochondrial electron transport chain under aerobic conditions",
+        "It is reoxidized to NAD+ during alcoholic fermentation",
+        "It directly phosphorylates ADP to ATP"
+      ],
+      "answer": 3,
+      "explanation": "NADH does not directly phosphorylate ADP; ATP synthesis from ADP occurs via substrate‑level phosphorylation (phosphoglycerate kinase, pyruvate kinase) or oxidative phosphorylation, not by NADH itself.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "The oxidation of glyceraldehyde‑3‑phosphate to 1,3‑bisphosphoglycerate is coupled with which of the following to make the reaction energetically favorable?",
+      "options": [
+        "Inorganic phosphate (Pi) and ADP",
+        "High substrate concentration",
+        "Presence of NADH oxidase",
+        "ATP hydrolysis"
+      ],
+      "answer": 0,
+      "explanation": "The reaction couples the oxidation of the aldehyde group with the addition of inorganic phosphate, forming a high‑energy acyl‑phosphate bond that drives NAD+ reduction to NADH.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "A deficiency of glyceraldehyde‑3‑phosphate dehydrogenase would directly affect which glycolytic product?",
+      "options": [
+        "NADH",
+        "ATP generated by substrate‑level phosphorylation in the payoff phase",
+        "Glucose‑6‑phosphate",
+        "Regeneration of NAD+ in fermentation"
+      ],
+      "answer": 0,
+      "explanation": "Glyceraldehyde‑3‑phosphate dehydrogenase is the only step that reduces NAD+ to NADH; its absence stops NADH formation while other steps remain unaffected.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "In the sixth step of glycolysis, which molecule acts as the immediate electron acceptor for the electrons released from glyceraldehyde‑3‑phosphate?",
+      "options": [
+        "NAD+",
+        "ADP",
+        "Inorganic phosphate (Pi)",
+        "CO2"
+      ],
+      "answer": 0,
+      "explanation": "NAD+ accepts the two electrons (and a proton) released from glyceraldehyde‑3‑phosphate, being reduced to NADH; Pi is incorporated into the product but does not accept electrons.",
+      "topic": "NADH formation"
+    },
+    {
+      "question": "What is the net number of ATP molecules produced per molecule of glucose during glycolysis under anaerobic conditions?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "In glycolysis, 2 ATP are consumed (hexokinase and phosphofructokinase) and 4 ATP are generated (phosphoglycerate kinase and pyruvate kinase), giving a net gain of 2 ATP per glucose when NADH is reoxidized by fermentation.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "Which two enzymatic steps of glycolysis directly consume ATP?",
+      "options": [
+        "Hexokinase and phosphofructokinase-1",
+        "Phosphoglycerate kinase and pyruvate kinase",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase and enolase",
+        "Aldolase and triose phosphate isomerase"
+      ],
+      "answer": 0,
+      "explanation": "The first ATP‑consuming step is the phosphorylation of glucose to glucose‑6‑phosphate by hexokinase (or glucokinase). The second is the phosphorylation of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate by phosphofructokinase‑1.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "During glycolysis, which two steps generate ATP by substrate‑level phosphorylation?",
+      "options": [
+        "Phosphoglycerate kinase and pyruvate kinase",
+        "Hexokinase and phosphofructokinase-1",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase and enolase",
+        "Aldolase and triose phosphate isomerase"
+      ],
+      "answer": 0,
+      "explanation": "ATP is formed when 1,3‑bisphosphoglycerate donates a phosphate to ADP via phosphoglycerate kinase, and when phosphoenolpyruvate transfers its phosphate to ADP via pyruvate kinase.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "How many molecules of NADH are produced per molecule of glucose during the glycolytic pathway?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Each glyceraldehyde‑3‑phosphate yields one NADH in the glyceraldehyde‑3‑phosphate dehydrogenase step; since two molecules of glyceraldehyde‑3‑phosphate are formed per glucose, a total of 2 NADH are generated.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "If the two NADH molecules formed in glycolysis are oxidized in mitochondria and each yields 3 ATP via oxidative phosphorylation, how many additional ATP molecules are obtained from these NADH?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explanation": "Two cytosolic NADH × 3 ATP per NADH = 6 ATP. This ATP is added to the 2 ATP obtained directly from substrate‑level phosphorylation, giving a total of 8 ATP under ideal aerobic conditions.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "In cells where each cytosolic NADH from glycolysis yields 2.5 ATP via oxidative phosphorylation, what is the total ATP yield from glycolysis per glucose molecule?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "Substrate‑level phosphorylation provides 2 ATP. Two NADH × 2.5 ATP = 5 ATP. Adding them gives 2 + 5 = 7 ATP as the overall yield from glycolysis in such cells.",
+      "topic": "Net ATP yield of glycolysis"
+    },
+    {
+      "question": "Which enzyme catalyzes the conversion of phosphoenolpyruvate to pyruvate in glycolysis?",
+      "options": [
+        "Pyruvate kinase",
+        "Phosphoglycerate kinase",
+        "Hexokinase",
+        "Enolase"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate kinase transfers a phosphate from phosphoenolpyruvate to ADP, forming ATP and pyruvate; it is the enzyme that carries out this final step of glycolysis.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "During glycolysis, how many molecules of NADH are produced per molecule of glucose by the time pyruvate is formed?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "The glyceraldehyde‑3‑phosphate dehydrogenase step generates one NADH per glyceraldehyde‑3‑phosphate; since two molecules of this intermediate are formed per glucose, a total of 2 NADH are produced before pyruvate formation.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "The conversion of phosphoenolpyruvate to pyruvate yields how many ATP molecules per glucose molecule?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explanation": "Each phosphoenolpyruvate molecule generates one ATP via substrate‑level phosphorylation; because two molecules are formed per glucose, the step produces 2 ATP in total.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "Which statement about pyruvate formation in glycolysis is correct?",
+      "options": [
+        "It is an irreversible, highly exergonic reaction catalyzed by pyruvate kinase and is a key regulatory point of glycolysis.",
+        "It is a reversible reaction catalyzed by lactate dehydrogenase.",
+        "It occurs in the mitochondria.",
+        "It does not involve any substrate‑level phosphorylation."
+      ],
+      "answer": 0,
+      "explanation": "The pyruvate‑kinase step is irreversible under cellular conditions, releases a large amount of free energy, and is one of the major regulatory steps of glycolysis.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "Which metal ion is essential for the catalytic activity of pyruvate kinase?",
+      "options": [
+        "Mg2+",
+        "Zn2+",
+        "Fe2+",
+        "Cu2+"
+      ],
+      "answer": 0,
+      "explanation": "Mg2+ (often together with K+) is required for binding of ATP and stabilizing the transition state in the pyruvate‑kinase reaction.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "What is the nature of the standard free‑energy change (ΔG°') for the pyruvate‑kinase reaction?",
+      "options": [
+        "Highly positive ΔG°' (endergonic)",
+        "Slightly positive ΔG°' (near equilibrium)",
+        "Highly negative ΔG°' (exergonic)",
+        "Zero ΔG°' (thermoneutral)"
+      ],
+      "answer": 2,
+      "explanation": "The conversion of phosphoenolpyruvate to pyruvate has a large negative ΔG°', making it a strongly exergonic step that drives the pathway forward.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "In plant cells, which transporter facilitates the entry of cytosolic pyruvate into mitochondria for the TCA cycle?",
+      "options": [
+        "Mitochondrial pyruvate carrier (MPC)",
+        "ATP synthase",
+        "Cytochrome c oxidase",
+        "Glucose transporter (GLUT)"
+      ],
+      "answer": 0,
+      "explanation": "The mitochondrial pyruvate carrier (MPC) is a membrane protein complex that imports pyruvate from the cytosol into the mitochondrial matrix where it can be oxidized.",
+      "topic": "Pyruvate formation"
+    },
+    {
+      "question": "Under aerobic conditions in plant cells, pyruvate is converted to ...",
+      "options": [
+        "Acetyl‑CoA",
+        "Lactate",
+        "Ethanol",
+        "Oxaloacetate"
+      ],
+      "answer": 0,
+      "explanation": "In presence of oxygen, pyruvate enters the mitochondrion and is decarboxylated by the pyruvate dehydrogenase complex to form acetyl‑CoA, which then enters the citric acid cycle.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "The enzyme that catalyzes the decarboxylation of pyruvate to acetaldehyde in alcoholic fermentation is ...",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Pyruvate decarboxylase",
+        "Lactate dehydrogenase",
+        "Pyruvate kinase"
+      ],
+      "answer": 1,
+      "explanation": "Pyruvate decarboxylase, a thiamine‑dependent enzyme, removes CO2 from pyruvate to produce acetaldehyde, the first step of alcoholic fermentation.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "In lactic acid fermentation, NAD+ is regenerated by ...",
+      "options": [
+        "Oxidation of NADH by oxygen",
+        "Reduction of acetaldehyde to ethanol",
+        "Reduction of pyruvate to lactate",
+        "Phosphorylation of ADP"
+      ],
+      "answer": 2,
+      "explanation": "Lactate dehydrogenase reduces pyruvate to lactate, oxidizing NADH to NAD+, thereby regenerating the NAD+ required for glycolysis to continue.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "Which of the following statements about the fate of pyruvate in the mitochondria of plant cells is FALSE?",
+      "options": [
+        "It is converted to acetyl‑CoA by the pyruvate dehydrogenase complex",
+        "The reaction produces CO2 and NADH",
+        "It occurs in the mitochondrial matrix",
+        "It directly enters the Calvin cycle"
+      ],
+      "answer": 3,
+      "explanation": "The Calvin cycle occurs in chloroplasts, not in mitochondria; pyruvate does not directly enter the Calvin cycle. The other statements correctly describe mitochondrial conversion of pyruvate.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "The net ATP yield from glycolysis followed by alcoholic fermentation of one molecule of glucose is ...",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "6 ATP",
+        "8 ATP"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis provides a net gain of 2 ATP per glucose. Alcoholic fermentation does not generate additional ATP, so the total remains 2 ATP.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "Which cofactor is required by the pyruvate dehydrogenase complex for conversion of pyruvate to acetyl‑CoA?",
+      "options": [
+        "Biotin",
+        "Thiamine pyrophosphate (TPP)",
+        "NAD+",
+        "Coenzyme A"
+      ],
+      "answer": 1,
+      "explanation": "The pyruvate dehydrogenase complex uses thiamine pyrophosphate (TPP) as a coenzyme for the decarboxylation step that converts pyruvate to acetyl‑CoA.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "In most plant cells under anaerobic conditions, pyruvate is primarily converted to ...",
+      "options": [
+        "Lactate",
+        "Ethanol",
+        "Acetyl‑CoA",
+        "Oxaloacetate"
+      ],
+      "answer": 1,
+      "explanation": "Under anaerobic conditions many plant tissues perform alcoholic fermentation, converting pyruvate to ethanol via pyruvate decarboxylase and alcohol dehydrogenase.",
+      "topic": "Fate of pyruvate"
+    },
+    {
+      "question": "What is the overall balanced equation for alcoholic fermentation carried out by yeast?",
+      "options": [
+        "C6H12O6 → 2 C2H5OH + 2 CO2",
+        "C6H12O6 → 2 C3H6O3 + 2 ATP",
+        "C6H12O6 → 2 C2H5OH + 2 CO2 + 2 ATP",
+        "C6H12O6 → 2 C2H5OH + 2 CO2 + 2 NAD+"
+      ],
+      "answer": 0,
+      "explanation": "In alcoholic fermentation glucose is converted to two molecules of ethanol and two molecules of carbon dioxide; no additional ATP is formed in this step.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "Which enzyme catalyzes the reduction of acetaldehyde to ethanol in alcoholic fermentation?",
+      "options": [
+        "Pyruvate decarboxylase",
+        "Alcohol dehydrogenase",
+        "Lactate dehydrogenase",
+        "Aldolase"
+      ],
+      "answer": 1,
+      "explanation": "Alcohol dehydrogenase reduces acetaldehyde to ethanol while oxidising NADH to NAD+.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "The conversion of pyruvate to lactate during lactic acid fermentation is catalysed by:",
+      "options": [
+        "Pyruvate kinase",
+        "Lactate dehydrogenase",
+        "Alcohol dehydrogenase",
+        "Hexokinase"
+      ],
+      "answer": 1,
+      "explanation": "Lactate dehydrogenase reduces pyruvate to lactate, regenerating NAD+ needed for glycolysis.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "Which statement correctly distinguishes alcoholic fermentation from lactic acid fermentation?",
+      "options": [
+        "Both processes produce ethanol as the end‑product",
+        "Alcoholic fermentation produces CO2 while lactic acid fermentation does not",
+        "Lactic fermentation occurs in yeast whereas alcoholic fermentation occurs in muscle",
+        "Alcoholic fermentation yields a net 2 ATP and lactic fermentation yields 4 ATP"
+      ],
+      "answer": 1,
+      "explanation": "Alcoholic fermentation releases CO2 as a by‑product; lactic acid fermentation does not generate CO2.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "Why is pyruvate converted to lactate in exercising muscle under anaerobic conditions?",
+      "options": [
+        "To produce more ATP via substrate‑level phosphorylation",
+        "To regenerate NAD+ for glycolysis",
+        "To generate CO2 for buffering the intracellular pH",
+        "To store glucose as glycogen"
+      ],
+      "answer": 1,
+      "explanation": "Reduction of pyruvate to lactate oxidises NADH back to NAD+, allowing glycolysis to continue and sustain ATP production.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "Compared with aerobic respiration, fermentation yields:",
+      "options": [
+        "The same amount of ATP per glucose molecule",
+        "2 ATP per glucose, whereas aerobic respiration yields about 38 ATP",
+        "38 ATP per glucose, whereas aerobic respiration yields 2 ATP",
+        "4 ATP per glucose, whereas aerobic respiration yields 2 ATP"
+      ],
+      "answer": 1,
+      "explanation": "Fermentation only provides the 2 ATP generated in glycolysis, while aerobic respiration adds oxidative phosphorylation to give ~38 ATP.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "The decarboxylation of pyruvate to acetaldehyde in yeast requires which cofactor?",
+      "options": [
+        "NAD+",
+        "Thiamine pyrophosphate (TPP)",
+        "FAD",
+        "Biotin"
+      ],
+      "answer": 1,
+      "explanation": "Pyruvate decarboxylase, the enzyme that converts pyruvate to acetaldehyde, uses thiamine pyrophosphate as a coenzyme.",
+      "topic": "Fermentation"
+    },
+    {
+      "question": "Which enzyme catalyzes the conversion of acetaldehyde to ethanol in alcoholic fermentation?",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Pyruvate decarboxylase",
+        "Lactate dehydrogenase",
+        "Hexokinase"
+      ],
+      "answer": 0,
+      "explanation": "Alcohol dehydrogenase reduces acetaldehyde to ethanol, regenerating NAD+.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "In alcoholic fermentation, the step that regenerates NAD+ is the conversion of:",
+      "options": [
+        "Glucose to glucose‑6‑phosphate",
+        "Pyruvate to acetaldehyde",
+        "Acetaldehyde to ethanol",
+        "Phosphoenolpyruvate to pyruvate"
+      ],
+      "answer": 2,
+      "explanation": "During reduction of acetaldehyde to ethanol, NADH is oxidized back to NAD+, allowing glycolysis to continue.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "What is the net ATP yield from one molecule of glucose undergoing alcoholic fermentation?",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "6 ATP",
+        "8 ATP"
+      ],
+      "answer": 0,
+      "explanation": "Only the substrate‑level phosphorylation steps of glycolysis produce ATP; fermentation itself does not generate additional ATP, giving a net 2 ATP per glucose.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "Which microorganism is most widely employed for industrial alcoholic fermentation?",
+      "options": [
+        "Escherichia coli",
+        "Saccharomyces cerevisiae",
+        "Bacillus subtilis",
+        "Lactobacillus plantarum"
+      ],
+      "answer": 1,
+      "explanation": "The yeast Saccharomyces cerevisiae efficiently carries out alcoholic fermentation, producing ethanol and CO₂.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "The decarboxylation of pyruvate to acetaldehyde in alcoholic fermentation requires which cofactor?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "Thiamine pyrophosphate (TPP)",
+        "Biotin"
+      ],
+      "answer": 2,
+      "explanation": "Pyruvate decarboxylase uses thiamine pyrophosphate as a coenzyme to remove CO₂ from pyruvate, forming acetaldehyde.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "Compared with lactic acid fermentation, alcoholic fermentation produces:",
+      "options": [
+        "Ethanol and CO₂",
+        "Lactic acid only",
+        "Acetate",
+        "Hydrogen gas"
+      ],
+      "answer": 0,
+      "explanation": "Alcoholic fermentation yields ethanol and carbon dioxide, whereas lactic acid fermentation yields only lactic acid.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "During alcoholic fermentation, the NADH generated in glycolysis is:",
+      "options": [
+        "Used to reduce pyruvate to lactate",
+        "Oxidized to NAD+ when acetaldehyde is reduced to ethanol",
+        "Transported into mitochondria for oxidative phosphorylation",
+        "Not regenerated and accumulates"
+      ],
+      "answer": 1,
+      "explanation": "NADH donates electrons to acetaldehyde, forming ethanol and regenerating NAD+ needed for glycolysis to proceed.",
+      "topic": "Alcoholic fermentation"
+    },
+    {
+      "question": "Which enzyme catalyzes the conversion of pyruvate to lactate in lactic acid fermentation?",
+      "options": [
+        "Lactate dehydrogenase",
+        "Alcohol dehydrogenase",
+        "Pyruvate kinase",
+        "Phosphofructokinase"
+      ],
+      "answer": 0,
+      "explanation": "Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+, completing the fermentation cycle.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "What is the net ATP yield from glycolysis that is utilized in lactic acid fermentation per molecule of glucose?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis produces a net gain of 2 ATP molecules per glucose, which are the only ATP generated in lactic acid fermentation.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "During lactic acid fermentation, NAD+ is regenerated by:",
+      "options": [
+        "Oxidation of NADH while reducing pyruvate to lactate",
+        "Substrate‑level phosphorylation",
+        "Oxidative phosphorylation in mitochondria",
+        "Conversion of acetaldehyde to ethanol"
+      ],
+      "answer": 0,
+      "explanation": "The reduction of pyruvate to lactate oxidizes NADH back to NAD+, allowing glycolysis to continue.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "Which statement correctly distinguishes lactic acid fermentation from alcoholic fermentation?",
+      "options": [
+        "Lactic acid fermentation produces lactate as the end product",
+        "Alcoholic fermentation produces lactate",
+        "Both fermentations produce ethanol as the main product",
+        "Both occur in the mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Lactic acid fermentation ends with lactate, whereas alcoholic fermentation ends with ethanol and CO₂.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "In human skeletal muscle during intense exercise, lactic acid fermentation occurs because:",
+      "options": [
+        "Oxygen supply is insufficient for oxidative phosphorylation",
+        "Glucose is unavailable",
+        "Mitochondria are absent in muscle cells",
+        "NAD+ is already abundant"
+      ],
+      "answer": 0,
+      "explanation": "Rapid ATP demand exceeds oxygen delivery, so muscle cells regenerate NAD+ via lactic acid fermentation to sustain glycolysis.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "The drop in pH observed in a culture undergoing lactic acid fermentation is mainly due to accumulation of:",
+      "options": [
+        "Lactate ions",
+        "Carbon dioxide",
+        "Ethanol",
+        "Hydrogen peroxide"
+      ],
+      "answer": 0,
+      "explanation": "Lactate (lactic acid) dissociates, releasing H⁺ ions and lowering the medium’s pH.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "Which organism primarily uses lactic acid fermentation as its anaerobic ATP‑generating pathway?",
+      "options": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus spp.",
+        "Escherichia coli",
+        "Bacillus subtilis"
+      ],
+      "answer": 1,
+      "explanation": "Lactobacillus species are classic lactic acid bacteria that convert glucose to lactate under anaerobic conditions.",
+      "topic": "Lactic acid fermentation"
+    },
+    {
+      "question": "What is the net number of ATP molecules produced from one molecule of glucose during alcoholic fermentation in yeast?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Fermentation yields ATP only from glycolysis, which gives a net gain of 2 ATP per glucose; the subsequent alcoholic fermentation steps do not generate additional ATP.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "During lactic acid fermentation in muscle cells, how many ATP molecules are generated per glucose molecule?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "Lactic acid fermentation also relies solely on glycolysis for ATP, providing a net gain of 2 ATP per glucose; the conversion of pyruvate to lactate does not produce ATP.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "Which step in alcoholic fermentation directly contributes to ATP synthesis?",
+      "options": [
+        "Conversion of pyruvate to acetaldehyde",
+        "Reduction of acetaldehyde to ethanol",
+        "Oxidation of NADH to NAD+",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "None of the enzymatic steps of alcoholic fermentation (pyruvate → acetaldehyde → ethanol) generate ATP; ATP is produced only during the substrate‑level phosphorylation steps of glycolysis.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "In the absence of oxygen, how many molecules of NAD+ are regenerated per molecule of glucose during alcoholic fermentation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Glycolysis produces 2 NADH per glucose; alcoholic fermentation reduces these 2 NADH back to NAD+, thereby regenerating 2 NAD+ molecules.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "Which statement correctly describes the ATP yield difference between aerobic respiration and alcoholic fermentation per glucose?",
+      "options": [
+        "Fermentation yields 2 ATP less than aerobic respiration",
+        "Fermentation yields 30 ATP less than aerobic respiration",
+        "Fermentation yields the same ATP as aerobic respiration",
+        "Fermentation yields 4 ATP more than aerobic respiration"
+      ],
+      "answer": 1,
+      "explanation": "Aerobic respiration yields about 30‑32 ATP per glucose, whereas alcoholic fermentation yields only the 2 ATP from glycolysis, a difference of roughly 30 ATP.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "During fermentation, which process is responsible for the net ATP production?",
+      "options": [
+        "Substrate‑level phosphorylation in glycolysis",
+        "Oxidative phosphorylation",
+        "Photophosphorylation",
+        "Chemiosmotic coupling"
+      ],
+      "answer": 0,
+      "explanation": "In the absence of oxygen, ATP is generated exclusively by substrate‑level phosphorylation occurring in the glycolytic pathway.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "In yeast, alcoholic fermentation converts one glucose molecule to two ethanol molecules and two CO₂. What is the ATP yield per molecule of ethanol produced?",
+      "options": [
+        "1",
+        "0.5",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explanation": "The total net ATP from one glucose is 2 ATP; since fermentation produces two ethanol molecules, each ethanol corresponds to 1 ATP of net yield.",
+      "topic": "ATP yield in fermentation"
+    },
+    {
+      "question": "Which statement best describes the primary significance of glycolysis in cellular metabolism?",
+      "options": [
+        "It is the only pathway that produces ATP in the presence of oxygen.",
+        "It provides pyruvate and ATP directly in the cytoplasm, serving as the initial step for both aerobic respiration and fermentation.",
+        "It occurs exclusively in mitochondria and generates most of the cell's NADH.",
+        "It converts fatty acids into glucose."
+      ],
+      "answer": 1,
+      "explanation": "Glycolysis occurs in the cytoplasm, yields a net 2 ATP and pyruvate, and links to both aerobic respiration (via pyruvate oxidation) and anaerobic fermentation, making it the central initial pathway.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "How does glycolysis contribute to the maintenance of cellular redox balance under anaerobic conditions?",
+      "options": [
+        "By producing NAD+ through the reduction of pyruvate to lactate.",
+        "By oxidizing NADH to NAD+ during oxidative phosphorylation.",
+        "By generating FADH2 in the electron transport chain.",
+        "By consuming NAD+ in the formation of ATP."
+      ],
+      "answer": 0,
+      "explanation": "In anaerobic conditions, pyruvate is reduced to lactate (or ethanol) regenerating NAD+ from NADH, allowing glycolysis to continue producing ATP.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "What is the net gain of ATP molecules per molecule of glucose during glycolysis?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis consumes 2 ATP in the investment phase and produces 4 ATP in the payoff phase, giving a net gain of 2 ATP per glucose.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "Which of the following is a key reason why glycolysis is considered a central metabolic pathway?",
+      "options": [
+        "It produces acetyl‑CoA directly from glucose.",
+        "Its intermediates serve as precursors for synthesis of amino acids, nucleotides, and lipids.",
+        "It exclusively occurs in prokaryotes.",
+        "It requires oxygen for each step."
+      ],
+      "answer": 1,
+      "explanation": "Intermediates such as glucose‑6‑phosphate, fructose‑6‑phosphate, and glyceraldehyde‑3‑phosphate are precursors for many biosynthetic pathways, linking energy production to biosynthesis.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "In muscle cells during intense exercise, the significance of glycolysis is mainly to:",
+      "options": [
+        "Generate large amounts of ATP via oxidative phosphorylation.",
+        "Provide rapid ATP production through substrate‑level phosphorylation even when oxygen is limited.",
+        "Synthesize fatty acids for storage.",
+        "Produce CO2 for buffering blood pH."
+      ],
+      "answer": 1,
+      "explanation": "During high-intensity activity, oxygen supply is insufficient; glycolysis rapidly yields ATP by substrate‑level phosphorylation, sustaining muscle contraction.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "Which statement correctly explains why glycolysis is essential even in organisms that perform aerobic respiration?",
+      "options": [
+        "It supplies the majority of ATP needed for cellular activities.",
+        "It generates pyruvate, which is the substrate for the citric acid cycle.",
+        "It directly reduces oxygen to water.",
+        "It eliminates the need for mitochondria."
+      ],
+      "answer": 1,
+      "explanation": "Aerobic respiration depends on pyruvate produced by glycolysis; pyruvate enters mitochondria where it is converted to acetyl‑CoA for the citric acid cycle.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "The significance of glycolysis in plants includes all EXCEPT:",
+      "options": [
+        "Supplying ATP and NADH in the cytosol for biosynthetic reactions.",
+        "Providing carbon skeletons for amino acid synthesis.",
+        "Generating oxygen as a by‑product.",
+        "Feeding pyruvate into mitochondrial respiration under light conditions."
+      ],
+      "answer": 2,
+      "explanation": "Glycolysis does not produce oxygen; oxygen is released during photosynthetic light reactions, not during glycolysis.",
+      "topic": "Significance of glycolysis"
+    },
+    {
+      "question": "What is the net number of ATP molecules produced from glycolysis per molecule of glucose in plant cells?",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "6 ATP",
+        "8 ATP"
+      ],
+      "answer": 0,
+      "explanation": "During glycolysis, 2 ATP are consumed in the investment phase and 4 ATP are generated in the payoff phase, giving a net gain of 2 ATP per glucose.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "In the EMP pathway, the conversion of 1,3-bisphosphoglycerate to 3-phosphoglycerate generates ATP by which mechanism?",
+      "options": [
+        "Oxidative phosphorylation",
+        "Substrate-level phosphorylation",
+        "Photophosphorylation",
+        "Chemiosmotic coupling"
+      ],
+      "answer": 1,
+      "explanation": "The phosphate group is transferred directly to ADP, a classic example of substrate‑level phosphorylation.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "Which enzyme catalyzes the cleavage of fructose‑1,6‑bisphosphate into two three‑carbon molecules during glycolysis?",
+      "options": [
+        "Aldolase",
+        "Hexokinase",
+        "Phosphofructokinase‑1",
+        "Glyceraldehyde‑3‑phosphate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Aldolase splits fructose‑1,6‑bisphosphate into glyceraldehyde‑3‑phosphate and dihydroxyacetone phosphate.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "In plant cells, glycolysis occurs in which cellular compartment?",
+      "options": [
+        "Mitochondrial matrix",
+        "Chloroplast stroma",
+        "Cytosol",
+        "Peroxisome"
+      ],
+      "answer": 2,
+      "explanation": "All the enzymes of the glycolytic pathway are soluble and function in the cytosol.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "Under anaerobic conditions in plant cells, pyruvate is primarily converted into which end‑product?",
+      "options": [
+        "Acetyl‑CoA",
+        "Ethanol and CO₂",
+        "Lactic acid",
+        "Oxaloacetate"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells perform alcoholic fermentation, reducing pyruvate to ethanol and releasing CO₂, regenerating NAD+.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "The principal distinction between alcoholic fermentation and lactic acid fermentation is:",
+      "options": [
+        "Alcoholic fermentation produces NAD+, lactic does not",
+        "Alcoholic fermentation occurs in mitochondria, lactic in cytosol",
+        "Alcoholic fermentation yields ethanol, lactic yields lactate",
+        "Alcoholic fermentation requires oxygen"
+      ],
+      "answer": 2,
+      "explanation": "Alcoholic fermentation ends with ethanol and CO₂, whereas lactic acid fermentation ends with lactate as the final product.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "Including glycolysis, the Krebs cycle and oxidative phosphorylation, the approximate total ATP yield from one molecule of glucose in aerobic respiration is:",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "30‑32 ATP",
+        "38 ATP"
+      ],
+      "answer": 2,
+      "explanation": "NCERT states that the overall yield is about 30‑32 ATP per glucose, accounting for mitochondrial efficiency and transport costs.",
+      "topic": "NCERT-based respiration concepts"
+    },
+    {
+      "question": "During glycolysis, NAD+ functions primarily to:",
+      "options": [
+        "Act as a substrate for hexokinase",
+        "Accept electrons to form NADH during oxidation of glyceraldehyde‑3‑phosphate",
+        "Donate a phosphate group to ADP",
+        "Be regenerated only in the electron transport chain"
+      ],
+      "answer": 1,
+      "explanation": "Glyceraldehyde‑3‑phosphate dehydrogenase uses NAD+ as an electron acceptor, producing NADH in the oxidation step.",
+      "topic": "NCERT-based respiration concepts"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 20,
+    "mcqCount": 139
+  }
+}

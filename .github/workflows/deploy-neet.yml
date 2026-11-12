@@ -1,0 +1,1033 @@
+name: VIDHWAAN NEET PWA DEPLOY
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vidhwaan-neet-deploy
+  cancel-in-progress: true
+
+jobs:
+
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    env:
+      PROJECT_NAME: vidhwaan-neet
+
+    steps:
+
+      # ============================================================
+      # CHECKOUT
+      # ============================================================
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # NODE
+      # ============================================================
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+
+      # ============================================================
+      # INSTALL BUILD TOOLS
+      # ============================================================
+
+      - name: Install Production Tools
+        run: |
+          set -euo pipefail
+
+          npm install -g wrangler
+          npm install -g terser
+          npm install -g javascript-obfuscator
+          npm install -g clean-css-cli
+          npm install -g html-minifier-terser
+
+          echo
+          echo "TOOLS INSTALLED"
+          echo "---------------"
+
+          wrangler --version
+          terser --version
+          javascript-obfuscator --version
+          cleancss --version
+          html-minifier-terser --version
+
+
+      # ============================================================
+      # INSTALL PROJECT DEPENDENCIES
+      # ============================================================
+
+      - name: Install Project Dependencies
+        run: |
+          set -euo pipefail
+
+          npm ci
+
+
+      # ============================================================
+      # VALIDATE NEET SOURCE
+      #
+      # generator/ is OUTSIDE public/ and is NOT deployed.
+      # ============================================================
+
+      - name: Validate NEET Source
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VIDHWAAN NEET — SOURCE VALIDATION"
+          echo "============================================================"
+
+          npm run validate
+
+          node --check generator/generate-day.js
+          node --check public/js/app.js
+          node --check public/sw.js
+          node --check scripts/protect-data.js
+
+          echo
+          echo "Checking required production files..."
+
+          test -f public/index.html
+          echo "OK: public/index.html"
+
+          test -f public/css/main.css
+          echo "OK: public/css/main.css"
+
+          test -f public/js/app.js
+          echo "OK: public/js/app.js"
+
+          test -f public/sw.js
+          echo "OK: public/sw.js"
+
+          test -f public/manifest.json
+          echo "OK: public/manifest.json"
+
+          test -f public/data/app-config.json
+          echo "OK: public/data/app-config.json"
+
+          test -f public/data/syllabus.json
+          echo "OK: public/data/syllabus.json"
+
+          test -f scripts/protect-data.js
+          echo "OK: scripts/protect-data.js"
+
+          test -f public/icons/icon-192.png
+          echo "OK: public/icons/icon-192.png"
+
+          test -f public/icons/icon-512.png
+          echo "OK: public/icons/icon-512.png"
+
+          test -f public/icons/favicon.ico
+          echo "OK: public/icons/favicon.ico"
+
+          test -f public/icons/logo.png
+          echo "OK: public/icons/logo.png"
+
+          echo
+          echo "SOURCE VALIDATION: PASSED"
+
+
+      # ============================================================
+      # PREPARE PRODUCTION DIST
+      #
+      # Only public/ becomes the deployed website.
+      #
+      # Lesson JSON files are NOT copied directly.
+      # They are protected separately below.
+      # ============================================================
+
+      - name: Prepare Production Dist
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VIDHWAAN NEET — PREPARING PRODUCTION BUILD"
+          echo "============================================================"
+
+          rm -rf dist
+
+          mkdir -p dist
+          mkdir -p dist/css
+          mkdir -p dist/js
+          mkdir -p dist/data
+          mkdir -p dist/icons
+
+          # --------------------------------------------------------
+          # HTML
+          # --------------------------------------------------------
+
+          cp public/index.html dist/index.html
+
+          # --------------------------------------------------------
+          # CSS
+          # --------------------------------------------------------
+
+          cp public/css/main.css dist/css/main.css
+
+          # --------------------------------------------------------
+          # JAVASCRIPT
+          # --------------------------------------------------------
+
+          cp public/js/app.js dist/js/app.js
+          cp public/sw.js dist/sw.js
+
+          # --------------------------------------------------------
+          # PWA
+          # --------------------------------------------------------
+
+          cp public/manifest.json dist/manifest.json
+
+          # --------------------------------------------------------
+          # ICONS
+          # --------------------------------------------------------
+
+          cp public/icons/icon-192.png dist/icons/icon-192.png
+          cp public/icons/icon-512.png dist/icons/icon-512.png
+          cp public/icons/favicon.ico dist/icons/favicon.ico
+          cp public/icons/logo.png dist/icons/logo.png
+
+          echo
+          echo "Production source prepared."
+
+
+      # ============================================================
+      # PROTECT LESSON DATA
+      #
+      # IMPORTANT:
+      #
+      # protect-data.js recreates dist/data.
+      #
+      # Therefore this MUST run before app-config.json and
+      # syllabus.json are copied into dist/data.
+      #
+      # Source:
+      #   public/data/day-*.json
+      #
+      # Output:
+      #   dist/data/day-*.dat
+      #
+      # Plain lesson JSON is never deployed.
+      # ============================================================
+
+      - name: Protect NEET Lesson Data
+        env:
+          NEET_DATA_KEY: ${{ secrets.NEET_DATA_KEY }}
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VIDHWAAN NEET — PROTECTING LESSON DATA"
+          echo "============================================================"
+
+          if [ -z "${NEET_DATA_KEY:-}" ]; then
+            echo "ERROR: NEET_DATA_KEY GitHub secret is missing."
+            exit 1
+          fi
+
+          node scripts/protect-data.js
+
+          echo
+          echo "Lesson data protection: PASSED"
+
+
+      # ============================================================
+      # COPY STATIC DATA
+      #
+      # These are configuration files, NOT daily lesson files.
+      #
+      # app-config.json remains readable because the frontend
+      # needs it for course configuration.
+      #
+      # syllabus.json remains outside the protected lesson system
+      # and is not used as a student daily lesson file.
+      # ============================================================
+
+      - name: Copy Static Data
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " COPYING STATIC DATA"
+          echo "============================================================"
+
+          cp public/data/app-config.json \
+            dist/data/app-config.json
+
+          cp public/data/syllabus.json \
+            dist/data/syllabus.json
+
+          echo "OK: app-config.json"
+          echo "OK: syllabus.json"
+
+
+      # ============================================================
+      # VERIFY PROTECTED LESSON DATA
+      #
+      # Before continuing, make absolutely sure that:
+      #
+      #   - every source lesson has a .dat
+      #   - no day-*.json exists in dist/data
+      # ============================================================
+
+      - name: Verify Protected Lesson Data
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VERIFYING PROTECTED LESSON DATA"
+          echo "============================================================"
+
+          SOURCE_COUNT=$(
+            find public/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              | wc -l
+          )
+
+          DAT_COUNT=$(
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.dat' \
+              | wc -l
+          )
+
+          JSON_COUNT=$(
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              | wc -l
+          )
+
+          echo "Source lesson JSON files : $SOURCE_COUNT"
+          echo "Protected DAT files       : $DAT_COUNT"
+          echo "Deployed lesson JSON      : $JSON_COUNT"
+
+          if [ "$SOURCE_COUNT" -eq 0 ]; then
+            echo "ERROR: No source lesson JSON files found."
+            exit 1
+          fi
+
+          if [ "$DAT_COUNT" -ne "$SOURCE_COUNT" ]; then
+            echo "ERROR: Lesson protection count mismatch."
+            echo "Source=$SOURCE_COUNT DAT=$DAT_COUNT"
+            exit 1
+          fi
+
+          if [ "$JSON_COUNT" -ne 0 ]; then
+            echo "ERROR: Plain lesson JSON files found in dist/data."
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              -print
+            exit 1
+          fi
+
+          echo
+          echo "OK: Every lesson has a protected .dat file."
+          echo "OK: No plaintext day-*.json files are deployed."
+          echo
+          echo "PROTECTED DATA VERIFICATION: PASSED"
+
+
+      # ============================================================
+      # INJECT LESSON DECRYPTION KEY
+      #
+      # app.js contains:
+      #
+      #   "__NEET_DATA_KEY__"
+      #
+      # GitHub replaces that placeholder with the secret.
+      #
+      # IMPORTANT:
+      # This happens BEFORE JavaScript minification/obfuscation.
+      # ============================================================
+
+      - name: Inject NEET Lesson Decryption Key
+        env:
+          NEET_DATA_KEY: ${{ secrets.NEET_DATA_KEY }}
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " INJECTING NEET LESSON DECRYPTION KEY"
+          echo "============================================================"
+
+          if [ -z "${NEET_DATA_KEY:-}" ]; then
+            echo "ERROR: NEET_DATA_KEY GitHub secret is missing."
+            exit 1
+          fi
+
+          node --input-type=module <<'NODE'
+          import fs from "node:fs";
+
+          const file =
+            "dist/js/app.js";
+
+          const key =
+            process.env.NEET_DATA_KEY;
+
+          const placeholder =
+            "__NEET_DATA_KEY__";
+
+          const source =
+            fs.readFileSync(
+              file,
+              "utf8"
+            );
+
+
+          const occurrences =
+            source.split(
+              placeholder
+            ).length - 1;
+
+
+          if (
+            occurrences !== 1
+          ) {
+            throw new Error(
+              `Expected exactly one NEET_DATA_KEY placeholder. Found ${occurrences}.`
+            );
+          }
+
+
+          if (
+            !/^[A-Za-z0-9+/]+={0,2}$/.test(
+              key
+            )
+          ) {
+            throw new Error(
+              "NEET_DATA_KEY is not valid Base64."
+            );
+          }
+
+
+          const keyBytes =
+            Buffer.from(
+              key,
+              "base64"
+            );
+
+
+          if (
+            keyBytes.length !== 32
+          ) {
+            throw new Error(
+              `NEET_DATA_KEY must decode to exactly 32 bytes. Received ${keyBytes.length}.`
+            );
+          }
+
+
+          /*
+           * JSON.stringify safely creates a JavaScript
+           * string literal for the Base64 key.
+           */
+
+          const replacement =
+            JSON.stringify(
+              key
+            );
+
+
+          const target =
+            `"${placeholder}"`;
+
+
+          const updated =
+            source.replace(
+              target,
+              replacement
+            );
+
+
+          if (
+            updated === source
+          ) {
+            throw new Error(
+              "NEET_DATA_KEY placeholder replacement failed."
+            );
+          }
+
+
+          if (
+            updated.includes(
+              placeholder
+            )
+          ) {
+            throw new Error(
+              "NEET_DATA_KEY placeholder still exists after injection."
+            );
+          }
+
+
+          fs.writeFileSync(
+            file,
+            updated,
+            "utf8"
+          );
+
+          console.log(
+            "NEET_DATA_KEY injected successfully."
+          );
+
+          console.log(
+            "Verified: 256-bit key."
+          );
+
+          console.log(
+            "Verified: placeholder removed."
+          );
+          NODE
+
+          node --check dist/js/app.js
+
+          echo
+          echo "KEY INJECTION: PASSED"
+
+
+      # ============================================================
+      # MINIFY CSS
+      # ============================================================
+
+      - name: Minify CSS
+        run: |
+          set -euo pipefail
+
+          cleancss \
+            -O2 \
+            dist/css/main.css \
+            -o dist/css/main.css
+
+          echo "CSS minification: PASSED"
+
+
+      # ============================================================
+      # MINIFY JAVASCRIPT
+      # ============================================================
+
+      - name: Minify JavaScript
+        run: |
+          set -euo pipefail
+
+          terser \
+            dist/js/app.js \
+            --compress \
+            --mangle \
+            -o dist/js/app.js
+
+          echo "JavaScript minification: PASSED"
+
+
+      # ============================================================
+      # OBFUSCATE JAVASCRIPT
+      # ============================================================
+
+      - name: Obfuscate JavaScript
+        run: |
+          set -euo pipefail
+
+          javascript-obfuscator \
+            dist/js/app.js \
+            --output dist/js/app.js \
+            --compact true \
+            --control-flow-flattening false \
+            --dead-code-injection false \
+            --debug-protection false \
+            --disable-console-output true \
+            --identifier-names-generator hexadecimal \
+            --rename-globals false \
+            --self-defending false \
+            --string-array true \
+            --string-array-encoding base64 \
+            --string-array-threshold 0.75
+
+          echo "JavaScript obfuscation: PASSED"
+
+
+      # ============================================================
+      # VERIFY DECRYPTION KEY IN FINAL APP
+      #
+      # The placeholder must NOT exist after minification and
+      # obfuscation.
+      #
+      # The final application must still contain the injected key.
+      # ============================================================
+
+      - name: Verify NEET Decryption Key Injection
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VERIFYING NEET DECRYPTION KEY"
+          echo "============================================================"
+
+          if grep -Fq "__NEET_DATA_KEY__" dist/js/app.js; then
+            echo "ERROR: NEET_DATA_KEY placeholder remains in final app.js."
+            exit 1
+          fi
+
+          echo "OK: NEET_DATA_KEY placeholder is absent."
+
+          if ! grep -Fq "NEET" dist/js/app.js; then
+            echo "ERROR: Final app.js verification failed."
+            exit 1
+          fi
+
+          echo "OK: Final app.js generated successfully."
+
+          echo
+          echo "DECRYPTION KEY VERIFICATION: PASSED"
+
+
+      # ============================================================
+      # MINIFY SERVICE WORKER
+      #
+      # MUST remain sw.js.
+      # ============================================================
+
+      - name: Minify Service Worker
+        run: |
+          set -euo pipefail
+
+          terser \
+            dist/sw.js \
+            --compress \
+            --mangle \
+            --format comments=false \
+            -o dist/sw.js
+
+          echo "Service worker minification: PASSED"
+
+
+      # ============================================================
+      # MINIFY JSON
+      #
+      # Only static JSON files.
+      #
+      # Lesson JSON files are NOT present in dist/data.
+      # ============================================================
+
+      - name: Minify JSON
+        run: |
+          set -euo pipefail
+
+          node <<'NODE'
+          const fs =
+            require("fs");
+
+          const files = [
+            "dist/manifest.json",
+            "dist/data/app-config.json",
+            "dist/data/syllabus.json"
+          ];
+
+
+          for (
+            const file of files
+          ) {
+
+            const data =
+              JSON.parse(
+                fs.readFileSync(
+                  file,
+                  "utf8"
+                )
+              );
+
+
+            fs.writeFileSync(
+              file,
+              JSON.stringify(data)
+            );
+
+
+            console.log(
+              `Minified: ${file}`
+            );
+          }
+          NODE
+
+
+      # ============================================================
+      # GENERATE ASSET VERSION
+      #
+      # Used for HTML cache busting.
+      # ============================================================
+
+      - name: Generate Asset Version
+        run: |
+          set -euo pipefail
+
+          VERSION=$(date +%s)
+
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+
+          echo "Asset version: $VERSION"
+
+
+      # ============================================================
+      # CACHE BUST HTML ASSETS
+      #
+      # Filenames remain stable.
+      # Query string changes on every deployment.
+      # ============================================================
+
+      - name: Apply Asset Cache Busting
+        run: |
+          set -euo pipefail
+
+          sed -i \
+            "s|src=\"./js/app.js\"|src=\"./js/app.js?v=$VERSION\"|g" \
+            dist/index.html
+
+          sed -i \
+            "s|href=\"./css/main.css\"|href=\"./css/main.css?v=$VERSION\"|g" \
+            dist/index.html
+
+          sed -i \
+            "s|href=\"./manifest.json\"|href=\"./manifest.json?v=$VERSION\"|g" \
+            dist/index.html
+
+          echo "Asset cache busting applied."
+          echo "Version: $VERSION"
+
+
+      # ============================================================
+      # FINAL HTML MINIFICATION
+      # ============================================================
+
+      - name: Minify HTML
+        run: |
+          set -euo pipefail
+
+          html-minifier-terser \
+            --collapse-whitespace \
+            --remove-comments \
+            --remove-redundant-attributes \
+            --remove-script-type-attributes \
+            --remove-style-link-type-attributes \
+            --use-short-doctype \
+            --minify-css true \
+            --minify-js true \
+            dist/index.html \
+            -o dist/index.html
+
+          echo "HTML minification: PASSED"
+
+
+      # ============================================================
+      # CLOUDFLARE HEADERS
+      # ============================================================
+
+      - name: Create Cloudflare Headers
+        run: |
+          set -euo pipefail
+
+          cat > dist/_headers <<'EOF'
+          /*
+            X-Content-Type-Options: nosniff
+            X-Frame-Options: SAMEORIGIN
+            Referrer-Policy: strict-origin-when-cross-origin
+            Permissions-Policy: geolocation=(), microphone=(), camera=()
+
+          /index.html
+            Cache-Control: no-cache, max-age=0, must-revalidate
+
+          /manifest.json
+            Cache-Control: no-cache, max-age=0, must-revalidate
+
+          /sw.js
+            Cache-Control: no-cache, max-age=0, must-revalidate
+
+          /data/*
+            Cache-Control: no-cache, max-age=0, must-revalidate
+
+          /js/*
+            Cache-Control: public, max-age=31536000, immutable
+
+          /css/*
+            Cache-Control: public, max-age=31536000, immutable
+
+          /icons/*
+            Cache-Control: public, max-age=31536000, immutable
+          EOF
+
+          echo "Cloudflare headers created."
+
+
+      # ============================================================
+      # FINAL PRODUCTION VERIFICATION
+      # ============================================================
+
+      - name: Verify Production Build
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " VIDHWAAN NEET — FINAL PRODUCTION VERIFICATION"
+          echo "============================================================"
+
+          test -f dist/index.html
+          test -f dist/manifest.json
+          test -f dist/sw.js
+          test -f dist/_headers
+
+          test -f dist/js/app.js
+          test -f dist/css/main.css
+
+          test -f dist/data/app-config.json
+          test -f dist/data/syllabus.json
+
+          test -f dist/icons/icon-192.png
+          test -f dist/icons/icon-512.png
+          test -f dist/icons/favicon.ico
+          test -f dist/icons/logo.png
+
+          echo "OK: index.html"
+          echo "OK: manifest.json"
+          echo "OK: sw.js"
+          echo "OK: app.js"
+          echo "OK: main.css"
+          echo "OK: app-config.json"
+          echo "OK: syllabus.json"
+          echo "OK: icon-192.png"
+          echo "OK: icon-512.png"
+          echo "OK: favicon.ico"
+          echo "OK: logo.png"
+
+
+          echo
+          echo "Checking protected lesson files..."
+
+          SOURCE_COUNT=$(
+            find public/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              | wc -l
+          )
+
+          DAT_COUNT=$(
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.dat' \
+              | wc -l
+          )
+
+          JSON_COUNT=$(
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              | wc -l
+          )
+
+
+          if [ "$SOURCE_COUNT" -eq 0 ]; then
+            echo "ERROR: No source lesson files found."
+            exit 1
+          fi
+
+
+          if [ "$DAT_COUNT" -ne "$SOURCE_COUNT" ]; then
+            echo "ERROR: DAT count does not match source lesson count."
+            echo "Source=$SOURCE_COUNT DAT=$DAT_COUNT"
+            exit 1
+          fi
+
+
+          if [ "$JSON_COUNT" -ne 0 ]; then
+            echo "ERROR: Plain day JSON files found in dist/data."
+            find dist/data \
+              -maxdepth 1 \
+              -type f \
+              -name 'day-*.json' \
+              -print
+            exit 1
+          fi
+
+
+          echo "OK: $DAT_COUNT protected lesson files"
+          echo "OK: 0 plaintext lesson JSON files"
+
+
+          echo
+          echo "Checking cache-busted asset references..."
+
+          grep -F "./js/app.js?v=${VERSION}" \
+            dist/index.html
+
+          grep -F "./css/main.css?v=${VERSION}" \
+            dist/index.html
+
+          echo "OK: app.js cache-busting reference"
+          echo "OK: main.css cache-busting reference"
+
+
+          echo
+          echo "Checking that hashed filenames are NOT present..."
+
+          if find dist/js \
+            -maxdepth 1 \
+            -type f \
+            -name 'app.*.js' \
+            | grep -q .; then
+
+            echo "ERROR: hashed JavaScript filename found"
+            exit 1
+          fi
+
+
+          if find dist/css \
+            -maxdepth 1 \
+            -type f \
+            -name 'main.*.css' \
+            | grep -q .; then
+
+            echo "ERROR: hashed CSS filename found"
+            exit 1
+          fi
+
+
+          echo "OK: no hashed JavaScript filename"
+          echo "OK: no hashed CSS filename"
+
+
+          echo
+          echo "Checking deployment isolation..."
+
+          test ! -d dist/generator
+          test ! -d dist/scripts
+          test ! -d dist/config
+
+          echo "OK: generator not deployed"
+          echo "OK: scripts not deployed"
+          echo "OK: config not deployed"
+
+
+          echo
+          echo "Checking lesson JSON does not exist anywhere in dist..."
+
+          if find dist \
+            -type f \
+            -name 'day-*.json' \
+            | grep -q .; then
+
+            echo "ERROR: Plain day JSON found somewhere in dist:"
+            find dist \
+              -type f \
+              -name 'day-*.json' \
+              -print
+
+            exit 1
+          fi
+
+          echo "OK: no plaintext day-*.json anywhere in dist"
+
+
+          echo
+          echo "PROTECTED LESSON FILES:"
+
+          find dist/data \
+            -maxdepth 1 \
+            -name 'day-*.dat' \
+            -type f \
+            | sort
+
+
+          echo
+          echo "FINAL BUILD FILES:"
+
+          find dist \
+            -type f \
+            | sort
+
+
+          echo
+          echo "============================================================"
+          echo " PRODUCTION BUILD: PASSED"
+          echo "============================================================"
+
+
+      # ============================================================
+      # CREATE CLOUDFLARE PAGES PROJECT IF IT DOES NOT EXIST
+      #
+      # PAGES ONLY.
+      # NO WORKER.
+      # ============================================================
+
+      - name: Ensure Cloudflare Pages Project
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " CLOUDFLARE PAGES PROJECT"
+          echo "============================================================"
+
+          wrangler pages project create \
+            "$PROJECT_NAME" \
+            --production-branch main \
+            || true
+
+          echo "Cloudflare Pages project is ready."
+
+
+      # ============================================================
+      # DEPLOY DIRECTLY TO CLOUDFLARE PAGES
+      #
+      # NO WORKER.
+      # ============================================================
+
+      - name: Deploy To Cloudflare Pages
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          echo
+          echo "============================================================"
+          echo " DEPLOYING VIDHWAAN NEET"
+          echo "============================================================"
+
+          wrangler pages deploy dist \
+            --project-name="$PROJECT_NAME"
+
+          echo
+          echo "============================================================"
+          echo " VIDHWAAN NEET — DEPLOYMENT SUCCESS"
+          echo "============================================================"
+
+          echo "Cloudflare Pages project: $PROJECT_NAME"
+          echo "Deployment directory: dist/"
+          echo "Asset version: $VERSION"

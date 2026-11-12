@@ -1,0 +1,1249 @@
+{
+  "day": 2,
+  "courseDate": "2026-08-31",
+  "publishAt": "2026-08-31T06:00:00+05:30",
+  "title": "Biological Classification – Day 2",
+  "introduction": "This lesson covers the need for classification and the five‑kingdom system, detailing the defining features of each kingdom and important groups such as archaebacteria, cyanobacteria, fungi, lichens, viruses, viroids and prions. Emphasis is on cellular organization, nutrition, reproduction and ecological significance as required for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Need for classification",
+      "heading": "Why Classification is Essential",
+      "content": "Classification groups the immense diversity of organisms into manageable categories, reflecting evolutionary relationships and aiding identification, study of biology, and communication among scientists. It provides a framework for predicting characteristics of unknown organisms based on their group.",
+      "keyPoints": [
+        "Reduces complexity of biodiversity",
+        "Reflects phylogenetic relationships",
+        "Facilitates study of structure, function and ecology"
+      ],
+      "neetTips": [
+        "Remember that classification is based on shared characteristics, not just superficial similarity."
+      ]
+    },
+    {
+      "topic": "Five kingdom classification",
+      "heading": "Five‑Kingdom System Overview",
+      "content": "Proposed by Whittaker, the five‑kingdom system classifies organisms into Monera, Protista, Fungi, Plantae and Animalia based on cell type, cell wall composition, mode of nutrition, body organization and reproduction. It bridges prokaryote‑eukaryote divide and highlights major evolutionary lineages.",
+      "keyPoints": [
+        "Monera – prokaryotes, no nucleus",
+        "Protista – eukaryotic, mostly unicellular",
+        "Fungi – eukaryotic, heterotrophic, chitin cell wall",
+        "Plantae – eukaryotic, autotrophic, cellulose cell wall",
+        "Animalia – eukaryotic, heterotrophic, no cell wall"
+      ],
+      "neetTips": [
+        "Link each kingdom to its defining criteria: cell type, wall, nutrition, organization, reproduction."
+      ]
+    },
+    {
+      "topic": "Kingdom Monera",
+      "heading": "Characteristics of Kingdom Monera",
+      "content": "Monera comprises prokaryotic organisms lacking a true nucleus and membrane‑bound organelles. Cells are typically unicellular, with a peptidoglycan cell wall. Nutrition is diverse (autotrophic, heterotrophic, chemoautotrophic). Reproduction is asexual by binary fission.",
+      "keyPoints": [
+        "Prokaryotic cell organization",
+        "Peptidoglycan cell wall",
+        "Asexual reproduction – binary fission",
+        "Broad metabolic versatility"
+      ],
+      "neetTips": [
+        "Distinguish Monera from Protista by the absence of a nucleus and membrane‑bound organelles."
+      ]
+    },
+    {
+      "topic": "Kingdom Protista",
+      "heading": "Protista – The Eukaryotic Catch‑All",
+      "content": "Protists are eukaryotic, mostly unicellular or simple multicellular organisms with a true nucleus. Cell walls, when present, are variable (cellulose, silica, or absent). Nutrition includes photosynthesis, absorption, ingestion and parasitism. Reproduction can be asexual or sexual.",
+      "keyPoints": [
+        "Eukaryotic cell with nucleus",
+        "Diverse cell wall types or none",
+        "Multiple modes of nutrition",
+        "Both asexual and sexual reproduction"
+      ],
+      "neetTips": [
+        "Remember protists bridge the gap between unicellular prokaryotes and multicellular eukaryotes."
+      ]
+    },
+    {
+      "topic": "Kingdom Fungi",
+      "heading": "Fungal Features and Classification",
+      "content": "Fungi are eukaryotic, heterotrophic organisms with chitinous cell walls. They obtain nutrients by absorption through external digestion. Body organization ranges from unicellular yeasts to multicellular mycelial networks. Reproduction involves spores (sexual – basidiospores, ascospores; asexual – conidia).",
+      "keyPoints": [
+        "Chitin cell wall",
+        "Absorptive nutrition",
+        "Spore‑based reproduction",
+        "Economic importance – antibiotics, fermentation"
+      ],
+      "neetTips": [
+        "Link chitin cell wall and absorptive nutrition as key distinguishing traits from plants and protists."
+      ]
+    },
+    {
+      "topic": "Kingdom Plantae",
+      "heading": "Defining Traits of Plants",
+      "content": "Plants are multicellular eukaryotes with cellulose cell walls, chloroplasts for photosynthesis, and a life cycle showing alternation of generations. Nutrition is autotrophic (photoautotrophic). Reproduction includes sexual (flowers, seeds) and asexual (vegetative) modes.",
+      "keyPoints": [
+        "Cellulose cell wall",
+        "Chloroplasts – photosynthesis",
+        "Alternation of generations",
+        "Sexual and asexual reproduction"
+      ],
+      "neetTips": [
+        "Contrast plant cell wall (cellulose) with fungal (chitin) and bacterial (peptidoglycan)."
+      ]
+    },
+    {
+      "topic": "Kingdom Animalia",
+      "heading": "Animal Kingdom Essentials",
+      "content": "Animals are multicellular eukaryotes lacking cell walls. They are heterotrophic, obtaining nutrients by ingestion. Body organization is complex (tissues, organs, organ systems). Reproduction is primarily sexual, though some exhibit asexual modes (budding, fragmentation).",
+      "keyPoints": [
+        "No cell wall",
+        "Ingestive nutrition",
+        "Complex body organization",
+        "Predominantly sexual reproduction"
+      ],
+      "neetTips": [
+        "Remember the absence of cell wall and presence of nervous tissue as animal hallmarks."
+      ]
+    },
+    {
+      "topic": "Archaebacteria",
+      "heading": "Archaebacteria – Extremophiles",
+      "content": "Archaebacteria are prokaryotes with distinct lipid membranes (ether linkages) and lack peptidoglycan in their cell walls. They thrive in extreme habitats – high temperature (thermophiles), high salinity (halophiles), high acidity (acidophiles). Metabolism includes methanogenesis and chemolithotrophy.",
+      "keyPoints": [
+        "Ether‑linked membrane lipids",
+        "No peptidoglycan cell wall",
+        "Extreme habitat adaptation",
+        "Unique metabolic pathways (methanogenesis)"
+      ],
+      "neetTips": [
+        "Link archaebacteria to extreme environments; they are not true bacteria (Eubacteria)."
+      ]
+    },
+    {
+      "topic": "Eubacteria",
+      "heading": "Eubacteria – True Bacteria",
+      "content": "Eubacteria are prokaryotes with peptidoglycan cell walls and plasma membranes composed of ester‑linked fatty acids. They inhabit diverse environments and display varied nutrition (photoautotrophic, chemoautotrophic, heterotrophic). Reproduction is asexual by binary fission.",
+      "keyPoints": [
+        "Peptidoglycan cell wall",
+        "Ester‑linked membrane lipids",
+        "Wide ecological distribution",
+        "Binary fission"
+      ],
+      "neetTips": [
+        "Distinguish eubacteria from archaebacteria by cell wall composition and membrane chemistry."
+      ]
+    },
+    {
+      "topic": "Cyanobacteria",
+      "heading": "Cyanobacteria and Nitrogen Fixation",
+      "content": "Cyanobacteria are photosynthetic eubacteria possessing thylakoid membranes and chlorophyll a. Many form heterocysts for nitrogen fixation, converting atmospheric N₂ to ammonia, crucial for nitrogen cycling. They can be free‑living or form symbiotic associations (e.g., lichens).",
+      "keyPoints": [
+        "Photosynthetic prokaryotes",
+        "Chlorophyll a and phycobilins",
+        "Heterocysts for N₂ fixation",
+        "Ecological role in nitrogen cycle"
+      ],
+      "neetTips": [
+        "Remember cyanobacteria are the only photosynthetic bacteria and are key nitrogen fixers."
+      ]
+    },
+    {
+      "topic": "Mycoplasma",
+      "heading": "Mycoplasma – Wall‑Less Bacteria",
+      "content": "Mycoplasma are the smallest free‑living bacteria lacking a cell wall; they possess a sterol‑rich plasma membrane for structural stability. They are obligate parasites of humans and animals, causing respiratory and urogenital infections.",
+      "keyPoints": [
+        "No cell wall – sterol‑rich membrane",
+        "Smallest free‑living bacteria",
+        "Obligate parasites",
+        "Resistant to β‑lactam antibiotics"
+      ],
+      "neetTips": [
+        "Absence of cell wall makes them intrinsically resistant to penicillins – a high‑yield NEET fact."
+      ]
+    },
+    {
+      "topic": "Protists",
+      "heading": "Protist Diversity and Classification",
+      "content": "Protists exhibit immense diversity: algae (photosynthetic), protozoa (heterotrophic), slime molds (fungus‑like). Cell organization ranges from unicellular to simple multicellular forms. Nutrition includes photosynthesis, absorption, ingestion, and parasitism. Reproduction can be asexual (binary fission, budding) or sexual (conjugation).",
+      "keyPoints": [
+        "Algae, protozoa, slime molds",
+        "Varied nutrition modes",
+        "Both asexual and sexual cycles"
+      ],
+      "neetTips": [
+        "Group protists by nutrition type for quick recall during NEET."
+      ]
+    },
+    {
+      "topic": "Fungi",
+      "heading": "Fungal Nutrition and Reproduction",
+      "content": "Fungi obtain nutrients by external digestion and absorption. They secrete enzymes that break down complex polymers (cellulose, lignin). Reproduction involves spores: asexual (sporangiospores, conidia) and sexual (basidiospores, ascospores). Some form symbiotic associations (mycorrhizae, lichens).",
+      "keyPoints": [
+        "Absorptive nutrition via extracellular enzymes",
+        "Spore‑based asexual and sexual reproduction",
+        "Symbiotic relationships"
+      ],
+      "neetTips": [
+        "Link enzyme secretion to their role in decomposition and industry (e.g., antibiotics)."
+      ]
+    },
+    {
+      "topic": "Economic importance of fungi",
+      "heading": "Fungi – Industrial and Medicinal Relevance",
+      "content": "Fungi produce antibiotics (penicillin), enzymes (amylase, cellulase), vitamins, and are used in food processing (bread, cheese, alcoholic beverages). Some are pathogens of crops and humans, necessitating antifungal strategies.",
+      "keyPoints": [
+        "Source of antibiotics and enzymes",
+        "Food industry applications",
+        "Pathogenic species affect agriculture and health"
+      ],
+      "neetTips": [
+        "Recall penicillin from Penicillium as a classic NEET example."
+      ]
+    },
+    {
+      "topic": "Lichens",
+      "heading": "Lichens – Symbiotic Associations",
+      "content": "Lichens are mutualistic associations between a fungus (mycobiont) and a photosynthetic partner (photobiont – algae or cyanobacteria). The fungus provides protection and moisture; the photobiont supplies carbohydrates via photosynthesis. They are bio‑indicators of air quality.",
+      "keyPoints": [
+        "Fungus + alga/cyanobacterium",
+        "Mutualistic nutrient exchange",
+        "Indicator of environmental health"
+      ],
+      "neetTips": [
+        "Remember lichens contain cyanobacteria capable of nitrogen fixation."
+      ]
+    },
+    {
+      "topic": "Viruses",
+      "heading": "Acellular Nature of Viruses",
+      "content": "Viruses are non‑cellular infectious agents consisting of nucleic acid (DNA or RNA) enclosed in a protein capsid; some have a lipid envelope. They lack metabolic machinery and replicate only inside host cells by hijacking host biosynthetic pathways.",
+      "keyPoints": [
+        "Nucleic acid + protein capsid (+ envelope)",
+        "Obligate intracellular parasites",
+        "No metabolism or protein synthesis"
+      ],
+      "neetTips": [
+        "Distinguish viruses from cellular life: no ribosomes, no independent replication."
+      ]
+    },
+    {
+      "topic": "Viroids",
+      "heading": "Viroids – Minimal Infectious Agents",
+      "content": "Viroids are small, circular, single‑stranded RNA molecules without a protein coat. They infect plants, causing diseases by interfering with host gene expression. They lack coding capacity and rely entirely on host enzymes for replication.",
+      "keyPoints": [
+        "Circular ssRNA, no protein coat",
+        "Plant pathogens",
+        "Replicate via host RNA polymerase"
+      ],
+      "neetTips": [
+        "Viroids are smaller than viruses – a common NEET trap."
+      ]
+    },
+    {
+      "topic": "Prions",
+      "heading": "Prions – Infectious Proteins",
+      "content": "Prions are misfolded isoforms of normal cellular proteins that induce conformational change in native proteins, leading to neurodegenerative diseases (e.g., Creutzfeldt‑Jakob disease). They contain no nucleic acids and are resistant to conventional sterilization.",
+      "keyPoints": [
+        "Protein‑only infectious agents",
+        "Cause neurodegenerative disorders",
+        "No nucleic acid"
+      ],
+      "neetTips": [
+        "Remember prions are proteinaceous infectious particles – no DNA/RNA."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Classify major groups of organisms and distinguish them using their cellular organization, nutrition, reproduction, and other defining features."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly distinguishes the cell‑wall composition of Archaebacteria from that of Eubacteria?",
+      "options": [
+        "Archaebacteria possess peptidoglycan while Eubacteria lack it",
+        "Archaebacteria have pseudo‑peptidoglycan and Eubacteria have peptidoglycan",
+        "Both groups contain teichoic acids in their walls",
+        "Both groups have an outer lipopolysaccharide membrane"
+      ],
+      "answer": 1,
+      "explanation": "Archaebacterial walls are made of pseudo‑peptidoglycan (or other polymers) whereas true peptidoglycan is a hallmark of Eubacterial cell walls.",
+      "topic": "Biological Classification"
+    },
+    {
+      "question": "Cyanobacteria are especially important in which of the following agricultural ecosystems because of their nitrogen‑fixing ability?",
+      "options": [
+        "Acidic hot springs",
+        "Open ocean planktonic zones",
+        "Rice paddies and flooded fields",
+        "Arid desert soils"
+      ],
+      "answer": 2,
+      "explanation": "Cyanobacteria such as Anabaena form symbiotic associations in rice paddies, fixing atmospheric nitrogen and enriching the soil.",
+      "topic": "Biological Classification"
+    },
+    {
+      "question": "In the sexual reproduction of Basidiomycota, which structure is directly involved in spore formation?",
+      "options": [
+        "Zygosporangium",
+        "Basidium producing basidiospores",
+        "Conidiophore bearing conidia",
+        "Oospore within oogonium"
+      ],
+      "answer": 1,
+      "explanation": "Basidiomycetes produce sexual spores (basidiospores) on a specialized cell called the basidium.",
+      "topic": "Biological Classification"
+    },
+    {
+      "question": "The symbiotic association known as a lichen is best described as:",
+      "options": [
+        "Fungus supplies carbohydrates to the alga, alga supplies minerals",
+        "Algal partner provides photosynthates, fungal partner offers protection and moisture",
+        "Both partners are autotrophic and produce their own food",
+        "A parasitic relationship where the fungus harms the alga"
+      ],
+      "answer": 1,
+      "explanation": "In lichens, the photosynthetic alga (or cyanobacterium) supplies carbohydrates, while the fungal mycobiont provides a protected habitat and retains water.",
+      "topic": "Biological Classification"
+    },
+    {
+      "question": "Which kingdom comprises eukaryotic organisms that have cell walls made of chitin and obtain nutrients by external digestion (absorptive heterotrophy)?",
+      "options": [
+        "Plantae",
+        "Animalia",
+        "Fungi",
+        "Protista"
+      ],
+      "answer": 2,
+      "explanation": "Fungi are eukaryotes with chitinous cell walls and absorb nutrients after secreting enzymes, distinguishing them from Plantae (cellulose walls, photosynthetic) and Animalia (no cell wall).",
+      "topic": "Five kingdom classification"
+    },
+    {
+      "question": "In the five‑kingdom classification, which of the following criteria is NOT used to separate Monera from Protista?",
+      "options": [
+        "Presence of a true nucleus",
+        "Mode of nutrition",
+        "Type of cell‑wall polysaccharide",
+        "Presence of membrane‑bound organelles"
+      ],
+      "answer": 2,
+      "explanation": "The primary distinctions are prokaryotic vs eukaryotic cell organization, presence of nucleus and organelles, and nutrition mode. Cell‑wall composition (peptidoglycan vs cellulose) is not a principal criterion.",
+      "topic": "Five kingdom classification"
+    },
+    {
+      "question": "Cyanobacteria are placed in which kingdom and what is a characteristic metabolic capability of this group?",
+      "options": [
+        "Kingdom Monera – nitrogen fixation",
+        "Kingdom Protista – photosynthesis",
+        "Kingdom Fungi – decomposition",
+        "Kingdom Plantae – nitrogen fixation"
+      ],
+      "answer": 0,
+      "explanation": "Cyanobacteria are prokaryotic (Monera) and are notable for performing oxygenic photosynthesis and fixing atmospheric nitrogen, a feature not shared by the other listed kingdoms.",
+      "topic": "Five kingdom classification"
+    },
+    {
+      "question": "Which kingdom is characterized by multicellular organisms having cellulose in their cell walls and a life cycle that includes alternation of generations?",
+      "options": [
+        "Fungi",
+        "Plantae",
+        "Animalia",
+        "Protista"
+      ],
+      "answer": 1,
+      "explanation": "Plantae members are multicellular, possess cellulose‑based cell walls, and typically exhibit alternation of generations (sporophyte and gametophyte phases).",
+      "topic": "Five kingdom classification"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes protists from members of the kingdom Monera?",
+      "options": [
+        "Protists have membrane‑bound organelles while Monera lack them",
+        "Protists possess peptidoglycan cell walls whereas Monera have cellulose walls",
+        "Protists reproduce only sexually while Monera reproduce only asexually",
+        "Protists are always multicellular whereas Monera are unicellular"
+      ],
+      "answer": 0,
+      "explanation": "Protists are eukaryotes and contain membrane‑bound organelles such as nucleus and mitochondria; Monera (bacteria) are prokaryotes and lack these organelles.",
+      "topic": "Kingdom Protista"
+    },
+    {
+      "question": "The flagellated protist Euglena exhibits which combination of characteristics?",
+      "options": [
+        "Chloroplasts, cellulose cell wall, and phagocytosis",
+        "Chloroplasts, paramylon as storage polysaccharide, and a flexible pellicle",
+        "Absence of chloroplasts, silica frustule, and pseudopodia",
+        "Cellulose cell wall, contractile vacuole, and cilia"
+      ],
+      "answer": 1,
+      "explanation": "Euglena is a photosynthetic flagellate that contains chloroplasts, stores carbohydrate as paramylon, and has a protein‑rich pellicle instead of a rigid cell wall.",
+      "topic": "Kingdom Protista"
+    },
+    {
+      "question": "Which protist group is primarily responsible for harmful algal blooms (red tides) due to toxin production?",
+      "options": [
+        "Dinoflagellates",
+        "Diatoms",
+        "Euglenoids",
+        "Foraminifera"
+      ],
+      "answer": 0,
+      "explanation": "Many dinoflagellate species produce potent toxins that cause red tides, affecting marine life and human health.",
+      "topic": "Kingdom Protista"
+    },
+    {
+      "question": "In slime molds (Myxomycetes), the transition from the plasmodial stage to the fruiting body involves which type of reproduction?",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Formation of haploid spores by meiosis",
+        "Conjugation"
+      ],
+      "answer": 2,
+      "explanation": "During sporulation, the diploid plasmodium undergoes meiosis to produce haploid spores that are released from the fruiting body.",
+      "topic": "Kingdom Protista"
+    },
+    {
+      "question": "Which polysaccharide is a major constituent of fungal cell walls but is absent in plant cell walls?",
+      "options": [
+        "Cellulose",
+        "Lignin",
+        "Chitin",
+        "Pectin"
+      ],
+      "answer": 2,
+      "explanation": "Fungal cell walls are primarily composed of chitin, whereas plant cell walls contain cellulose, lignin and pectin but not chitin.",
+      "topic": "Kingdom Fungi"
+    },
+    {
+      "question": "A fungus that obtains its food by secreting extracellular enzymes and absorbing the resulting low‑molecular‑weight products is best described as:",
+      "options": [
+        "Autotrophic",
+        "Heterotrophic",
+        "Saprophytic",
+        "Parasitic"
+      ],
+      "answer": 2,
+      "explanation": "Such fungi obtain nutrients from dead organic matter by external digestion, a characteristic mode of saprophytic nutrition.",
+      "topic": "Kingdom Fungi"
+    },
+    {
+      "question": "The production of basidiospores on a specialized club‑shaped structure (basidium) is a feature of which fungal division?",
+      "options": [
+        "Ascomycota",
+        "Zygomycota",
+        "Basidiomycota",
+        "Deuteromycota"
+      ],
+      "answer": 2,
+      "explanation": "Basidiomycota produce sexual spores called basidiospores on basidia, distinguishing them from other divisions.",
+      "topic": "Kingdom Fungi"
+    },
+    {
+      "question": "In a typical lichen, the fungal partner (mycobiont) forms a symbiotic association primarily with:",
+      "options": [
+        "Cyanobacteria",
+        "Algae",
+        "Protozoa",
+        "Bacteria"
+      ],
+      "answer": 1,
+      "explanation": "Most lichens consist of a mycobiont (fungus) and a photobiont, which is usually a green alga; some lichens have cyanobacteria as the photobiont, but algae are the more common partner.",
+      "topic": "Kingdom Fungi"
+    },
+    {
+      "question": "Which characteristic distinguishes Kingdom Animalia from Kingdom Plantae?",
+      "options": [
+        "Presence of cellulose in cell wall",
+        "Presence of chlorophyll",
+        "Heterotrophic nutrition",
+        "Ability to perform photosynthesis"
+      ],
+      "answer": 2,
+      "explanation": "Animals obtain organic substances by ingestion (heterotrophic), whereas plants are autotrophic and have cellulose cell walls and chlorophyll.",
+      "topic": "Kingdom Animalia"
+    },
+    {
+      "question": "The primary mode of reproduction in animals that results in a diploid zygote is:",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Sexual reproduction",
+        "Fragmentation"
+      ],
+      "answer": 2,
+      "explanation": "Sexual reproduction involves the fusion of male and female gametes to form a diploid zygote, a hallmark of most animal life cycles.",
+      "topic": "Kingdom Animalia"
+    },
+    {
+      "question": "Which statement about the body organization of most animals is correct?",
+      "options": [
+        "They are composed of a single, undifferentiated cell",
+        "They have a true coelom formed by mesoderm",
+        "They possess a rigid cell wall made of chitin",
+        "Their tissues are organized into a prokaryotic thallus"
+      ],
+      "answer": 1,
+      "explanation": "Higher animals develop a true coelom (body cavity) lined by mesodermal tissue, providing space for organ development.",
+      "topic": "Kingdom Animalia"
+    },
+    {
+      "question": "Which animal phylum consists of organisms that lack a true body cavity and have a solid (acoelomate) body plan?",
+      "options": [
+        "Platyhelminthes",
+        "Annelida",
+        "Mollusca",
+        "Arthropoda"
+      ],
+      "answer": 0,
+      "explanation": "Platyhelminthes (flatworms) are acoelomate, meaning they do not possess a true coelomic cavity, unlike the other listed phyla.",
+      "topic": "Kingdom Animalia"
+    },
+    {
+      "question": "Which feature enables cyanobacteria to fix atmospheric nitrogen despite the oxygen‑sensitive nitrogenase enzyme?",
+      "options": [
+        "They possess heterocysts that create a low‑oxygen microenvironment",
+        "They produce a special oxygen‑binding protein that protects nitrogenase",
+        "They fix nitrogen only during the night when photosynthesis ceases",
+        "They lack photosystem II, preventing oxygen evolution"
+      ],
+      "answer": 0,
+      "explanation": "Heterocysts are thick‑walled cells that limit O₂ diffusion, allowing nitrogenase to function.",
+      "topic": "Cyanobacteria"
+    },
+    {
+      "question": "The cell wall of cyanobacteria is most similar to that of:",
+      "options": [
+        "Other bacteria, containing peptidoglycan",
+        "Fungi, composed mainly of chitin",
+        "Plants, made of cellulose",
+        "Archaea, composed of pseudo‑peptidoglycan"
+      ],
+      "answer": 0,
+      "explanation": "Cyanobacterial cell walls contain peptidoglycan, a hallmark of bacterial cell walls.",
+      "topic": "Cyanobacteria"
+    },
+    {
+      "question": "Which accessory pigment gives cyanobacteria their characteristic blue‑green colour and functions in the phycobilisome light‑harvesting complex?",
+      "options": [
+        "Phycocyanin",
+        "Phycoerythrin",
+        "Carotene",
+        "Xanthophyll"
+      ],
+      "answer": 0,
+      "explanation": "Phycocyanin absorbs orange‑red light and imparts the blue‑green hue of cyanobacteria.",
+      "topic": "Cyanobacteria"
+    },
+    {
+      "question": "Cyanobacteria contribute significantly to ecosystems primarily by:",
+      "options": [
+        "Decomposing lignin in forest litter",
+        "Performing photosynthesis and fixing atmospheric nitrogen in aquatic habitats",
+        "Forming mycorrhizal associations with plant roots",
+        "Acting as primary human pathogens"
+      ],
+      "answer": 1,
+      "explanation": "They are major primary producers in water bodies and convert N₂ to bioavailable nitrogen, supporting food webs.",
+      "topic": "Cyanobacteria"
+    },
+    {
+      "question": "Which feature most clearly distinguishes Mycoplasma from typical bacteria of the kingdom Monera?",
+      "options": [
+        "Presence of a rigid peptidoglycan cell wall",
+        "Ability to synthesize sterols de novo",
+        "Lack of cell wall and incorporation of sterols in the plasma membrane",
+        "Formation of endospores under stress"
+      ],
+      "answer": 2,
+      "explanation": "Mycoplasma are unique among prokaryotes because they do not have a peptidoglycan cell wall; instead, sterols (cholesterol) are incorporated into their plasma membrane to provide stability.",
+      "topic": "Mycoplasma"
+    },
+    {
+      "question": "A patient diagnosed with atypical pneumonia caused by Mycoplasma pneumoniae is most likely to be prescribed which class of antibiotics?",
+      "options": [
+        "β‑lactams (penicillins)",
+        "Glycopeptides (vancomycin)",
+        "Macrolides (erythromycin)",
+        "Fluoroquinolones (ciprofloxacin)"
+      ],
+      "answer": 2,
+      "explanation": "Mycoplasma lack a cell wall, rendering β‑lactam antibiotics ineffective. Macrolides inhibit protein synthesis and are the drug of choice for Mycoplasma infections.",
+      "topic": "Mycoplasma"
+    },
+    {
+      "question": "Which of the following protists is capable of both photosynthesis and heterotrophic nutrition, making it a mixotroph?",
+      "options": [
+        "Euglena",
+        "Paramecium",
+        "Plasmodium",
+        "Chlamydomonas"
+      ],
+      "answer": 0,
+      "explanation": "Euglena possesses chloroplasts for photosynthesis and can also ingest food particles, exhibiting mixotrophic nutrition. The other listed protists are strictly heterotrophic.",
+      "topic": "Protists"
+    },
+    {
+      "question": "The cell walls of which group of protists are primarily composed of cellulose?",
+      "options": [
+        "Green algae",
+        "Diatoms",
+        "Euglenoids",
+        "Dinoflagellates"
+      ],
+      "answer": 0,
+      "explanation": "Green algae (Chlorophyta) have cell walls made of cellulose, similar to higher plants. Diatoms have silica frustules, euglenoids have proteinaceous pellicles, and dinoflagellates have cellulose plates but also contain other polysaccharides; the classic answer for cellulose walls is green algae.",
+      "topic": "Protists"
+    },
+    {
+      "question": "Which protist exhibits a true colonial organization with differentiated cell types, representing an early step towards multicellularity?",
+      "options": [
+        "Volvox",
+        "Plasmodium",
+        "Amoeba",
+        "Trypanosoma"
+      ],
+      "answer": 0,
+      "explanation": "Volvox forms spherical colonies where somatic cells and reproductive cells are differentiated, illustrating a simple form of multicellularity. The other organisms are unicellular parasites or amoeboid cells without such organization.",
+      "topic": "Protists"
+    },
+    {
+      "question": "In which protist does sexual reproduction involve the formation of a motile isogamete that fuses to form a zygote, which then undergoes meiosis to produce haploid cells?",
+      "options": [
+        "Plasmodium",
+        "Paramecium",
+        "Chlamydomonas",
+        "Trypanosoma"
+      ],
+      "answer": 2,
+      "explanation": "Chlamydomonas undergoes isogamous sexual reproduction: two similar motile gametes fuse to form a zygote that later undergoes meiosis, yielding haploid vegetative cells. Plasmodium, Paramecium, and Trypanosoma have different reproductive strategies.",
+      "topic": "Protists"
+    },
+    {
+      "question": "In a lichen, which partner primarily supplies carbohydrates to the symbiotic association?",
+      "options": [
+        "Mycobiont (fungal partner)",
+        "Photobiont (algal or cyanobacterial partner)",
+        "Both partners contribute equally",
+        "Neither; carbohydrates are absorbed from the environment"
+      ],
+      "answer": 1,
+      "explanation": "The photosynthetic partner (photobiont) fixes carbon through photosynthesis and transfers the produced carbohydrates to the fungal partner.",
+      "topic": "Lichens"
+    },
+    {
+      "question": "Which morphological type of lichen is characterized by a leaf‑like, loosely attached thallus?",
+      "options": [
+        "Crustose",
+        "Foliose",
+        "Fruticose",
+        "Squamulose"
+      ],
+      "answer": 1,
+      "explanation": "Foliose lichens have a flattened, leaf‑like thallus that is attached to the substrate at discrete points, unlike crustose (tightly adhering) or fruticose (shrubby) forms.",
+      "topic": "Lichens"
+    },
+    {
+      "question": "Lichens that contain cyanobacterial photobionts contribute to nitrogen cycling because:",
+      "options": [
+        "Only the fungal partner fixes atmospheric nitrogen",
+        "The cyanobacterial photobiont fixes atmospheric nitrogen",
+        "Both partners fix nitrogen through different pathways",
+        "Lichens are incapable of nitrogen fixation"
+      ],
+      "answer": 1,
+      "explanation": "Cyanobacteria possess the enzyme nitrogenase, enabling them to convert atmospheric N₂ into biologically usable forms, which benefits the whole lichen.",
+      "topic": "Lichens"
+    },
+    {
+      "question": "Which statement correctly describes viroids?",
+      "options": [
+        "They are small, circular, single‑stranded RNA molecules without a protein coat",
+        "They are double‑stranded DNA viruses surrounded by a lipid envelope",
+        "They are linear RNA viruses that possess capsid proteins",
+        "They are proteinaceous infectious particles that lack nucleic acid"
+      ],
+      "answer": 0,
+      "explanation": "Viroids are the smallest known infectious agents, consisting only of a short circular single‑stranded RNA molecule and lacking any protein coat.",
+      "topic": "Viroids"
+    },
+    {
+      "question": "Viroids replicate inside host cells primarily by which mechanism?",
+      "options": [
+        "Reverse transcription using a virally encoded reverse transcriptase",
+        "Rolling‑circle replication mediated by host RNA polymerase II",
+        "Binary fission similar to bacterial cell division",
+        "Integration into the host genome as a provirus"
+      ],
+      "answer": 1,
+      "explanation": "Viroids use a rolling‑circle mechanism in which host DNA‑dependent RNA polymerase II synthesizes multimeric RNA copies that are later cleaved and ligated to form circular progeny.",
+      "topic": "Viroids"
+    },
+    {
+      "question": "The disease coconut cadang‑cadang is caused by a viroid. Which characteristic of viroids most facilitates such pathogenicity?",
+      "options": [
+        "Presence of a protective protein capsid",
+        "Ability to encode their own polymerase",
+        "Small size allowing movement through plasmodesmata",
+        "High mutation rate due to an error‑prone RNA polymerase"
+      ],
+      "answer": 2,
+      "explanation": "Because viroids are extremely small, they can move cell‑to‑cell through plasmodesmata, spreading the infection efficiently within plant tissues.",
+      "topic": "Viroids"
+    },
+    {
+      "question": "Which of the following is NOT a distinguishing feature between viroids and viruses?",
+      "options": [
+        "Viroids lack a protein coat, whereas viruses possess one",
+        "Viroids consist solely of nucleic acid, while viruses contain nucleic acid plus protein",
+        "Viroids can infect both plants and animals, whereas viruses are restricted to plants",
+        "Viroids rely on host enzymes for replication, while many viruses encode their own polymerases"
+      ],
+      "answer": 2,
+      "explanation": "Viroids are known to infect only plants (and some fungi); they are not known to infect animals, unlike many viruses which can infect a wide range of hosts.",
+      "topic": "Viroids"
+    },
+    {
+      "question": "In the five‑kingdom system, which of the following criteria is NOT considered for placing an organism into a particular kingdom?",
+      "options": [
+        "Cell wall composition",
+        "Presence of a true nucleus",
+        "Habitat or ecological niche",
+        "Mode of nutrition"
+      ],
+      "answer": 2,
+      "explanation": "The five‑kingdom classification is based on cellular organization, cell wall type, nutrition mode, body organization and reproduction. Habitat alone is not a primary criterion.",
+      "topic": "Basis of five kingdom classification"
+    },
+    {
+      "question": "Kingdom Monera differs from Kingdom Protista mainly because Monera organisms lack:",
+      "options": [
+        "A true nucleus",
+        "A cellulose‑based cell wall",
+        "Chloroplasts for photosynthesis",
+        "Flagella for movement"
+      ],
+      "answer": 0,
+      "explanation": "Monera are prokaryotes and therefore do not possess a membrane‑bound nucleus, whereas Protista are eukaryotic and have a true nucleus.",
+      "topic": "Basis of five kingdom classification"
+    },
+    {
+      "question": "Which kingdom is characterized by organisms that are primarily saprophytic, have chitin in their cell walls, and reproduce by spores?",
+      "options": [
+        "Plantae",
+        "Fungi",
+        "Protista",
+        "Monera"
+      ],
+      "answer": 1,
+      "explanation": "Fungi are heterotrophic saprophytes, their cell walls contain chitin, and they commonly reproduce by producing spores.",
+      "topic": "Basis of five kingdom classification"
+    },
+    {
+      "question": "Cyanobacteria are placed in the kingdom Monera because they:",
+      "options": [
+        "Are prokaryotic and perform oxygenic photosynthesis",
+        "Are eukaryotic unicellular algae",
+        "Have chitinous cell walls like fungi",
+        "Lack photosynthetic pigments"
+      ],
+      "answer": 0,
+      "explanation": "Cyanobacteria are prokaryotes (hence Monera) and are capable of oxygen‑producing photosynthesis, distinguishing them from other prokaryotes that are non‑photosynthetic.",
+      "topic": "Basis of five kingdom classification"
+    },
+    {
+      "question": "Which group of organisms possesses cell walls primarily composed of peptidoglycan?",
+      "options": [
+        "Archaebacteria",
+        "Eubacteria",
+        "Fungi",
+        "Protista"
+      ],
+      "answer": 1,
+      "explanation": "Eubacteria (true bacteria) have cell walls made of peptidoglycan, whereas archaebacteria have pseudo‑peptidoglycan or other polymers, fungi have chitin, and protists generally lack a rigid cell wall.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "The structural polysaccharide that forms the cell wall of most fungi is:",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Pectin"
+      ],
+      "answer": 1,
+      "explanation": "Fungal cell walls are mainly composed of chitin, a β‑(1→4) linked N‑acetylglucosamine polymer. Cellulose is typical of plants, peptidoglycan of bacteria, and pectin of plant middle lamella.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which statement correctly distinguishes the cell wall of cyanobacteria from that of higher plants?",
+      "options": [
+        "Both contain cellulose as the major component",
+        "Cyanobacteria have peptidoglycan while plants have lignin",
+        "Plant walls contain murein whereas cyanobacterial walls contain pectin",
+        "Cyanobacterial walls contain peptidoglycan while plant walls contain cellulose"
+      ],
+      "answer": 3,
+      "explanation": "Cyanobacteria, being prokaryotes, have a thin peptidoglycan (murein) layer, whereas plant cell walls are composed mainly of cellulose, hemicellulose and lignin.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "In the lichen thallus, the fungal partner contributes which type of cell‑wall material?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "None, the fungus is acellular"
+      ],
+      "answer": 1,
+      "explanation": "The mycobiont (fungal component) of a lichen has a typical fungal cell wall made of chitin, providing structural support to the symbiotic thallus.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which statement correctly distinguishes the mode of nutrition in fungi from that in plants?",
+      "options": [
+        "Fungi are autotrophic and synthesize their own food using chlorophyll.",
+        "Fungi obtain nutrients by absorption after external digestion of organic matter.",
+        "Fungi perform photosynthesis in their mycelium.",
+        "Fungi are chemoautotrophs using inorganic chemicals for energy."
+      ],
+      "answer": 1,
+      "explanation": "Fungi are heterotrophic; they secrete enzymes into the substrate, break down complex organic compounds externally, and then absorb the simpler molecules. Plants are photoautotrophic, using chlorophyll to synthesize organic compounds.",
+      "topic": "Mode of nutrition"
+    },
+    {
+      "question": "Cyanobacteria, placed in Kingdom Monera, primarily exhibit which mode of nutrition?",
+      "options": [
+        "Photoautotrophic with nitrogen fixation",
+        "Chemoheterotrophic",
+        "Saprophytic",
+        "Parasitic"
+      ],
+      "answer": 0,
+      "explanation": "Cyanobacteria contain chlorophyll and carry out photosynthesis (photoautotrophy). Many also possess nitrogenase, enabling them to fix atmospheric nitrogen.",
+      "topic": "Mode of nutrition"
+    },
+    {
+      "question": "Mycoplasma, which lack a cell wall, obtain their nutrients by which mode of nutrition?",
+      "options": [
+        "Photoautotrophic",
+        "Chemoheterotrophic",
+        "Chemolithotrophic",
+        "Mixotrophic"
+      ],
+      "answer": 1,
+      "explanation": "Mycoplasma are obligate parasites or commensals that rely on organic nutrients from the host, classifying them as chemoheterotrophs.",
+      "topic": "Mode of nutrition"
+    },
+    {
+      "question": "Lichens are a symbiotic association of a fungus and a photosynthetic partner. Their overall mode of nutrition is best described as:",
+      "options": [
+        "Obligate parasitism",
+        "Facultative heterotrophy",
+        "Mutualistic mixotrophy",
+        "Autotrophic saprophytism"
+      ],
+      "answer": 2,
+      "explanation": "In lichens, the fungal partner provides protection and absorbs water, while the algal or cyanobacterial partner performs photosynthesis. This combined strategy is termed mutualistic mixotrophy.",
+      "topic": "Mode of nutrition"
+    },
+    {
+      "question": "Which kingdom comprises organisms that are exclusively multicellular and possess true tissues and distinct organs?",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Plantae"
+      ],
+      "answer": 3,
+      "explanation": "Plantae members are multicellular with differentiated tissues (dermal, ground, vascular) and well‑defined organs such as roots, stems and leaves, unlike the other kingdoms.",
+      "topic": "Body organization"
+    },
+    {
+      "question": "The body organization of which group is primarily a coenocytic (non‑septate) hyphal network?",
+      "options": [
+        "Fungi",
+        "Plantae",
+        "Protista",
+        "Archaebacteria"
+      ],
+      "answer": 0,
+      "explanation": "Many fungi, especially members of the phylum Zygomycota, have coenocytic hyphae—continuous multinucleate tubes without septa.",
+      "topic": "Body organization"
+    },
+    {
+      "question": "Mycoplasma are best described as:",
+      "options": [
+        "Multicellular organisms with differentiated tissues",
+        "Unicellular prokaryotes lacking a cell wall",
+        "Filamentous fungi forming hyphae",
+        "Symbiotic associations of a fungus with algae"
+      ],
+      "answer": 1,
+      "explanation": "Mycoplasma are the smallest free‑living bacteria; they are unicellular, lack a rigid cell wall, and belong to the class Mollicutes.",
+      "topic": "Body organization"
+    },
+    {
+      "question": "Lichens exemplify which type of body organization?",
+      "options": [
+        "A true multicellular organism with three germ layers",
+        "A symbiotic association of a fungus and a photosynthetic partner",
+        "A colony of identical protists",
+        "A virus‑infected plant cell"
+      ],
+      "answer": 1,
+      "explanation": "Lichens are mutualistic associations between a mycobiont (fungus) and a photobiont (algae or cyanobacteria), forming a composite thallus.",
+      "topic": "Body organization"
+    },
+    {
+      "question": "Which group of organisms reproduces primarily by binary fission?",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Lichens"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotic cells of the kingdom Monera divide by binary fission, a simple asexual process.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "In the phylum Ascomycota, the sexual spores are called:",
+      "options": [
+        "Ascospores",
+        "Basidiospores",
+        "Zygospores",
+        "Oospores"
+      ],
+      "answer": 0,
+      "explanation": "Ascomycetes produce sexual spores inside an ascus; these spores are termed ascospores.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "Cyanobacteria commonly propagate by:",
+      "options": [
+        "Binary fission only",
+        "Fragmentation of filaments",
+        "Formation of motile zoospores",
+        "Sexual conjugation"
+      ],
+      "answer": 1,
+      "explanation": "Many filamentous cyanobacteria break their filaments into fragments that develop into new colonies, a form of asexual reproduction.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "The fungal partner in lichens mainly reproduces by:",
+      "options": [
+        "Production of soredia",
+        "Production of isidia",
+        "Production of apothecia",
+        "Production of spores"
+      ],
+      "answer": 3,
+      "explanation": "While lichens disperse via soredia or isidia, the fungus itself reproduces sexually by forming spores (often in apothecia).",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "Which structural feature most clearly separates eubacteria from archaebacteria?",
+      "options": [
+        "Presence of peptidoglycan in the cell wall",
+        "Presence of a true nucleus",
+        "Ability to perform photosynthesis",
+        "Formation of endospores"
+      ],
+      "answer": 0,
+      "explanation": "Eubacteria have cell walls containing peptidoglycan, whereas archaebacteria have pseudo‑peptidoglycan or other polymers; both lack a nucleus and endospore formation is not universal.",
+      "topic": "Monera characteristics"
+    },
+    {
+      "question": "The predominant asexual reproductive method in organisms classified under the kingdom Monera is:",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Fragmentation",
+        "Sporulation"
+      ],
+      "answer": 0,
+      "explanation": "Monerans reproduce mainly by binary fission, a simple division of the prokaryotic cell into two genetically identical daughter cells.",
+      "topic": "Monera characteristics"
+    },
+    {
+      "question": "Mycoplasma differ from most other bacteria because they:",
+      "options": [
+        "lack a rigid cell wall",
+        "possess membrane‑bound organelles",
+        "contain chloroplasts",
+        "form true spores"
+      ],
+      "answer": 0,
+      "explanation": "Mycoplasma are characterized by the absence of a cell wall, making them resistant to antibiotics that target peptidoglycan synthesis.",
+      "topic": "Monera characteristics"
+    },
+    {
+      "question": "Cyanobacteria play a vital role in the nitrogen cycle by:",
+      "options": [
+        "Fixing atmospheric nitrogen (N2) into ammonia",
+        "Oxidizing ammonia to nitrite",
+        "Reducing nitrate to nitrogen gas",
+        "Decomposing organic nitrogen compounds"
+      ],
+      "answer": 0,
+      "explanation": "Certain cyanobacteria possess nitrogenase and can convert inert N2 gas into biologically usable ammonia, enriching ecosystems with fixed nitrogen.",
+      "topic": "Monera characteristics"
+    },
+    {
+      "question": "Which structural feature most clearly distinguishes archaebacteria from eubacteria?",
+      "options": [
+        "Presence of peptidoglycan in the cell wall",
+        "Ether‑linked lipids in the cell membrane",
+        "Presence of chloroplasts",
+        "Presence of a true nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Archaebacterial membranes contain ether‑linked isoprenoid lipids, whereas eubacterial membranes have ester‑linked fatty acids. This is a key distinguishing characteristic.",
+      "topic": "Archaebacteria and extreme habitats"
+    },
+    {
+      "question": "Archaebacteria that thrive in environments with very high salt concentrations are called:",
+      "options": [
+        "Thermophiles",
+        "Halophiles",
+        "Acidophiles",
+        "Methanogens"
+      ],
+      "answer": 1,
+      "explanation": "Halophiles are salt‑loving archaea that grow optimally in hypersaline habitats such as salt lakes and solar salterns.",
+      "topic": "Archaebacteria and extreme habitats"
+    },
+    {
+      "question": "Methanogenic archaebacteria are most commonly found in which type of natural habitat?",
+      "options": [
+        "Acidic hot springs",
+        "Deep‑sea hydrothermal vents",
+        "Anaerobic sediments of wetlands",
+        "Saline lakes"
+      ],
+      "answer": 2,
+      "explanation": "Methanogens are obligate anaerobes that produce methane and are abundant in oxygen‑free, organic‑rich sediments of swamps, rice paddies and other wetlands.",
+      "topic": "Archaebacteria and extreme habitats"
+    },
+    {
+      "question": "Which statement about the cell wall of most archaebacteria is correct?",
+      "options": [
+        "They contain peptidoglycan similar to bacteria",
+        "They are composed of pseudopeptidoglycan",
+        "They have cellulose as the main polymer",
+        "They lack any rigid wall"
+      ],
+      "answer": 1,
+      "explanation": "Many archaebacteria possess a cell wall made of pseudopeptidoglycan (or other polymers), which differs chemically from the peptidoglycan of eubacterial walls.",
+      "topic": "Archaebacteria and extreme habitats"
+    },
+    {
+      "question": "Which protist is a flagellated unicellular organism that possesses a flexible pellicle instead of a rigid cell wall and can switch between autotrophic and heterotrophic nutrition?",
+      "options": [
+        "Euglena",
+        "Paramecium",
+        "Chlamydomonas",
+        "Volvox"
+      ],
+      "answer": 0,
+      "explanation": "Euglena has a pellicle, moves by flagella, and can perform photosynthesis (autotrophy) or absorb organic matter (heterotrophy), unlike the others which have a rigid cell wall or lack flagella.",
+      "topic": "Protistan diversity"
+    },
+    {
+      "question": "Which group of protists is characterized by having cellulose in their cell walls and exhibits an alternation of generations in its life cycle?",
+      "options": [
+        "Diatoms (Bacillariophyta)",
+        "Green algae (Chlorophyta)",
+        "Dinoflagellates (Dinophyta)",
+        "Slime molds (Myxomycetes)"
+      ],
+      "answer": 1,
+      "explanation": "Green algae (Chlorophyta) have cellulose-rich cell walls and a life cycle that includes both haploid and diploid multicellular stages, i.e., alternation of generations.",
+      "topic": "Protistan diversity"
+    },
+    {
+      "question": "Which of the following statements best describes the mode of nutrition in most fungi?",
+      "options": [
+        "They are autotrophic and synthesize their own food using chlorophyll.",
+        "They ingest solid food particles through phagocytosis.",
+        "They secrete extracellular enzymes that digest organic matter and then absorb the low‑molecular‑weight products.",
+        "They obtain nutrients directly from inorganic minerals dissolved in water."
+      ],
+      "answer": 2,
+      "explanation": "Fungi are heterotrophic absorbers; they release hydrolytic enzymes into the environment, break down complex organic substrates, and absorb the resulting simple molecules.",
+      "topic": "Fungal nutrition and reproduction"
+    },
+    {
+      "question": "In the asexual reproduction of many filamentous fungi, conidia are produced. Conidia are:",
+      "options": [
+        "Sexual spores formed inside a sac called an ascus.",
+        "Motile spores that swim in water using flagella.",
+        "Non‑motile spores formed on specialized hyphal branches called conidiophores.",
+        "Thick‑walled resting spores produced under adverse conditions."
+      ],
+      "answer": 2,
+      "explanation": "Conidia are asexual, non‑motile spores formed on conidiophores, which are specialized hyphal structures; they are characteristic of many Ascomycetes and Deuteromycetes.",
+      "topic": "Fungal nutrition and reproduction"
+    },
+    {
+      "question": "Which reproductive feature distinguishes members of the phylum Basidiomycota from those of the phylum Ascomycota?",
+      "options": [
+        "Production of spores inside a basidium.",
+        "Formation of a coenocytic mycelium.",
+        "Presence of flagellated zoospores.",
+        "Development of a sporangium that releases zoospores."
+      ],
+      "answer": 0,
+      "explanation": "Basidiomycota produce basidiospores on a club‑shaped structure called a basidium, whereas Ascomycota produce ascospores inside an ascus.",
+      "topic": "Fungal nutrition and reproduction"
+    },
+    {
+      "question": "The mycelium of many saprophytic fungi can decompose lignin in wood. This ability is primarily due to:",
+      "options": [
+        "The presence of chloroplasts that capture light energy.",
+        "Secretion of lignin‑peroxidase and other oxidative enzymes into the substrate.",
+        "Endocytosis of intact wood particles into fungal cells.",
+        "Symbiotic association with nitrogen‑fixing bacteria."
+      ],
+      "answer": 1,
+      "explanation": "Saprophytic fungi secrete extracellular oxidative enzymes such as lignin‑peroxidase, which break down the complex polymer lignin, enabling them to utilize wood as a nutrient source.",
+      "topic": "Fungal nutrition and reproduction"
+    },
+    {
+      "question": "Which fungal metabolite, produced by Penicillium chrysogenum, is extensively used as a broad‑spectrum antibiotic in clinical practice?",
+      "options": [
+        "Penicillin",
+        "Cyclosporine",
+        "Aflatoxin",
+        "Ergosterol"
+      ],
+      "answer": 0,
+      "explanation": "Penicillin, a β‑lactam antibiotic, is secreted by the mold Penicillium chrysogenum and revolutionized treatment of bacterial infections.",
+      "topic": "Economic importance of fungi"
+    },
+    {
+      "question": "Mycorrhizal fungi improve plant growth primarily by:",
+      "options": [
+        "Synthesizing chlorophyll",
+        "Enhancing uptake of water and mineral nutrients",
+        "Fixing atmospheric nitrogen",
+        "Producing allelopathic chemicals"
+      ],
+      "answer": 1,
+      "explanation": "Mycorrhizae extend the root absorptive area, facilitating greater water and mineral (especially phosphorus) acquisition, which boosts plant growth.",
+      "topic": "Economic importance of fungi"
+    },
+    {
+      "question": "The filamentous fungus Trichoderma reesei is commercially important because it produces:",
+      "options": [
+        "Alcohol dehydrogenase",
+        "Laccase",
+        "Cellulase",
+        "Lipase"
+      ],
+      "answer": 2,
+      "explanation": "T. reesei is a major industrial source of cellulases used in textile, paper, and bio‑fuel industries for cellulose hydrolysis.",
+      "topic": "Economic importance of fungi"
+    },
+    {
+      "question": "Aflatoxin contamination of food grains is most commonly associated with which genus of fungi?",
+      "options": [
+        "Fusarium",
+        "Penicillium",
+        "Rhizopus",
+        "Aspergillus"
+      ],
+      "answer": 3,
+      "explanation": "Species of Aspergillus, especially A. flavus and A. parasiticus, produce aflatoxins, potent carcinogenic mycotoxins in crops like peanuts and maize.",
+      "topic": "Economic importance of fungi"
+    },
+    {
+      "question": "Which statement correctly describes the nature of the symbiotic relationship in lichens?",
+      "options": [
+        "It is a mutualistic association where both partners benefit",
+        "It is a parasitic relationship where the fungus benefits at the expense of the alga",
+        "It is a commensal relationship where only the alga benefits",
+        "It is a competitive interaction for nutrients"
+      ],
+      "answer": 0,
+      "explanation": "Lichens are classic examples of mutualism: the fungal partner provides protection and moisture, while the algal or cyanobacterial partner supplies photosynthates.",
+      "topic": "Lichens as symbiotic associations"
+    },
+    {
+      "question": "The fungal partner (mycobiont) in most lichens belongs to which group and what is its primary role?",
+      "options": [
+        "Ascomycete; provides structure and absorbs water and minerals",
+        "Basidiomycete; performs photosynthesis for the association",
+        "Zygomycete; fixes atmospheric nitrogen for the alga",
+        "Deuteromycete; produces only asexual spores without other functions"
+      ],
+      "answer": 0,
+      "explanation": "About 90% of lichens have an ascomycete fungus that forms the thallus, protects the photobiont and absorbs water and mineral nutrients.",
+      "topic": "Lichens as symbiotic associations"
+    },
+    {
+      "question": "Which of the following is NOT a typical ecological role of lichens?",
+      "options": [
+        "Pioneer species colonising bare rock surfaces",
+        "Bioindicators of air quality and pollution",
+        "Primary producers in deep‑sea hydrothermal vent ecosystems",
+        "Source of food for reindeer in Arctic tundra"
+      ],
+      "answer": 2,
+      "explanation": "Lichens are terrestrial organisms; they are not found as primary producers in deep‑sea hydrothermal vents, which are dominated by chemosynthetic bacteria.",
+      "topic": "Lichens as symbiotic associations"
+    },
+    {
+      "question": "The photobiont in most lichens is a green alga belonging to which group, and what does it mainly contribute?",
+      "options": [
+        "Cyanobacteria; nitrogen fixation",
+        "Chlorophyta; photosynthates (carbohydrates)",
+        "Euglenoids; motility for thallus movement",
+        "Diatoms; silica shell formation"
+      ],
+      "answer": 1,
+      "explanation": "The algal partner is usually a green alga (Chlorophyta) that carries out photosynthesis, supplying carbohydrates to the fungal partner.",
+      "topic": "Lichens as symbiotic associations"
+    },
+    {
+      "question": "Viroids are best described as:",
+      "options": [
+        "Small circular single‑stranded DNA molecules lacking a protein coat",
+        "Small circular single‑stranded RNA molecules lacking a protein coat",
+        "Linear double‑stranded RNA viruses with a capsid",
+        "Small proteinaceous particles without nucleic acid"
+      ],
+      "answer": 1,
+      "explanation": "Viroids consist of a short circular single‑stranded RNA genome and do not possess a protein capsid, distinguishing them from viruses.",
+      "topic": "Viroids and prions"
+    },
+    {
+      "question": "In most plant viroids, the primary site of replication is:",
+      "options": [
+        "Cytoplasm using a viral RNA‑dependent RNA polymerase",
+        "Nucleus using host DNA‑dependent RNA polymerase II",
+        "Chloroplast using host RNA polymerase",
+        "Mitochondria using host ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "The majority of viroids (family Pospiviroidae) replicate in the nucleus, hijacking the host DNA‑dependent RNA polymerase II for transcription of their RNA.",
+      "topic": "Viroids and prions"
+    },
+    {
+      "question": "Which of the following diseases is NOT caused by a prion?",
+      "options": [
+        "Creutzfeldt‑Jakob disease",
+        "Scrapie",
+        "Bovine spongiform encephalopathy",
+        "Foot‑and‑mouth disease"
+      ],
+      "answer": 3,
+      "explanation": "Foot‑and‑mouth disease is caused by an RNA virus; the other three are transmissible spongiform encephalopathies caused by prions.",
+      "topic": "Viroids and prions"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "3-5 MCQs per syllabus topic",
+    "topicCount": 33,
+    "mcqCount": 82
+  }
+}

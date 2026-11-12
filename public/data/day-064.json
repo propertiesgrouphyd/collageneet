@@ -1,0 +1,2692 @@
+{
+  "day": 64,
+  "courseDate": "2026-11-01",
+  "publishAt": "2026-11-01T06:00:00+05:30",
+  "title": "Day 64: Absorption, Assimilation, Disorders and Regulation of Digestion",
+  "introduction": "This lesson covers the mechanisms of nutrient absorption in the small intestine, the role of intestinal structures, transport pathways, assimilation, large‑intestine functions, regulation by neural and hormonal signals, and common digestive disorders, all aligned with the NEET syllabus.",
+  "sections": [
+    {
+      "topic": "Absorption of digested food",
+      "heading": "Mechanism of Nutrient Absorption",
+      "content": "After enzymatic breakdown, monosaccharides, amino acids, fatty acids, glycerol and vitamins cross the intestinal epithelium via specific transporters, carrier proteins or simple diffusion, entering the portal circulation or lymphatics for systemic distribution.",
+      "keyPoints": [
+        "Monomers are the absorbable units.",
+        "Transport is carrier‑mediated for polar molecules and passive for lipids."
+      ],
+      "neetTips": [
+        "Remember the distinction between portal (carbohydrates, proteins) and lymphatic (lipids) routes."
+      ]
+    },
+    {
+      "topic": "Small intestine as major absorption site",
+      "heading": "Primary Site of Nutrient Uptake",
+      "content": "The duodenum, jejunum and ileum together provide >90% of nutrient absorption due to their extensive mucosal surface, rapid transit time and high density of transport proteins.",
+      "keyPoints": [
+        "Jejunum absorbs most carbohydrates and proteins.",
+        "Ileum absorbs bile salts and vitamin B12."
+      ],
+      "neetTips": [
+        "Link regional specialization to clinical malabsorption of B12 (ileal disease)."
+      ]
+    },
+    {
+      "topic": "Intestinal villi",
+      "heading": "Structure and Function of Villi",
+      "content": "Finger‑like projections of the mucosa increase surface area; each villus contains a lamina propria with capillaries and a central lacteal, covered by a single layer of enterocytes.",
+      "keyPoints": [
+        "Villi house capillaries for water‑soluble nutrients.",
+        "Lacteal inside each villus transports lipids."
+      ],
+      "neetTips": [
+        "Visualize villus cross‑section to recall nutrient pathways."
+      ]
+    },
+    {
+      "topic": "Microvilli",
+      "heading": "Brush Border Amplification",
+      "content": "Enterocyte apical membranes bear densely packed microvilli (brush border) that further enlarge absorptive area and house enzymes (e.g., maltase, peptidases) and transporters.",
+      "keyPoints": [
+        "Microvilli increase area ~30‑fold.",
+        "Contain disaccharidases and peptide transporters."
+      ],
+      "neetTips": [
+        "Brush border enzymes are crucial for final carbohydrate digestion."
+      ]
+    },
+    {
+      "topic": "Surface area for absorption",
+      "heading": "Quantitative Significance",
+      "content": "Combined villi and microvilli provide an effective surface area of ~200–250 m², comparable to a tennis court, essential for rapid nutrient uptake.",
+      "keyPoints": [
+        "Large area compensates for short transit time.",
+        "Pathologies reducing surface area cause malabsorption."
+      ],
+      "neetTips": [
+        "Recall surface‑area loss in celiac disease."
+      ]
+    },
+    {
+      "topic": "Absorption of glucose",
+      "heading": "Sodium‑Glucose Co‑Transport (SGLT1)",
+      "content": "Glucose enters enterocytes via SGLT1 using the Na⁺ gradient; it exits basolaterally by GLUT2 into the portal blood.",
+      "keyPoints": [
+        "Active uptake on apical side.",
+        "Facilitated diffusion into blood."
+      ],
+      "neetTips": [
+        "SGLT1 inhibitors are antidiabetic drugs – link to physiology."
+      ]
+    },
+    {
+      "topic": "Absorption of amino acids",
+      "heading": "Amino Acid Transport Systems",
+      "content": "Neutral, basic and acidic amino acids use distinct Na⁺‑dependent transporters (e.g., B⁰AT1, y⁺ system); all exit basolaterally via LAT1/2 exchangers into portal circulation.",
+      "keyPoints": [
+        "Multiple transporter families.",
+        "All amino acids reach liver via portal vein."
+      ],
+      "neetTips": [
+        "Remember that large neutral amino acids share LAT1."
+      ]
+    },
+    {
+      "topic": "Absorption of fatty acids",
+      "heading": "Passive Diffusion and Re‑Esterification",
+      "content": "Short‑ and medium‑chain fatty acids diffuse across the membrane; long‑chain fatty acids are taken up by protein‑mediated transport, re‑esterified to triglycerides, and packaged into chylomicrons.",
+      "keyPoints": [
+        "Long‑chain FA require FABPs.",
+        "Re‑esterified TGs form chylomicrons."
+      ],
+      "neetTips": [
+        "Chylomicron formation occurs in ER of enterocytes."
+      ]
+    },
+    {
+      "topic": "Absorption of glycerol",
+      "heading": "Glycerol Uptake and Utilization",
+      "content": "Glycerol diffuses passively into enterocytes, is phosphorylated by glycerol kinase to glycerol‑3‑phosphate, and contributes to triglyceride synthesis for chylomicron assembly.",
+      "keyPoints": [
+        "Passive diffusion across brush border.",
+        "Key substrate for TG synthesis."
+      ],
+      "neetTips": [
+        "Glycerol‑3‑P also enters gluconeogenesis."
+      ]
+    },
+    {
+      "topic": "Lacteals",
+      "heading": "Lymphatic Absorption of Lipids",
+      "content": "Central lacteals collect chylomicrons from enterocytes; the lymphatic network bypasses the hepatic portal, delivering dietary lipids to the systemic circulation via the thoracic duct.",
+      "keyPoints": [
+        "Transport lipids, fat‑soluble vitamins.",
+        "Enter thoracic duct → subclavian vein."
+      ],
+      "neetTips": [
+        "Lacteal blockage leads to steatorrhea."
+      ]
+    },
+    {
+      "topic": "Blood capillaries",
+      "heading": "Portal Delivery of Water‑Soluble Nutrients",
+      "content": "Capillaries in the villus core receive glucose, amino acids, water, electrolytes and transport them to the hepatic portal vein for first‑pass metabolism in the liver.",
+      "keyPoints": [
+        "Portal vein is the first destination.",
+        "Liver regulates glucose and amino acid levels."
+      ],
+      "neetTips": [
+        "Portal hypertension affects nutrient absorption."
+      ]
+    },
+    {
+      "topic": "Transport of absorbed nutrients",
+      "heading": "From Gut to Systemic Circulation",
+      "content": "Water‑soluble nutrients travel via portal blood to the liver; lipids travel in chylomicrons through lymph, entering systemic circulation post‑thoracic duct. The liver processes, stores or releases them according to metabolic demand.",
+      "keyPoints": [
+        "Two distinct routes: portal vs lymphatic.",
+        "Liver is central metabolic hub."
+      ],
+      "neetTips": [
+        "Distinguish fate of glucose (glycogen) vs fatty acids (oxidation)."
+      ]
+    },
+    {
+      "topic": "Assimilation",
+      "heading": "Cellular Utilization of Nutrients",
+      "content": "Assimilation refers to intracellular metabolism: glucose undergoes glycolysis, glycogenesis; amino acids are used for protein synthesis or deamination; fatty acids are β‑oxidized or stored as TGs in adipose tissue.",
+      "keyPoints": [
+        "Metabolic pathways occur in target cells.",
+        "Excess nutrients stored as glycogen or fat."
+      ],
+      "neetTips": [
+        "Link assimilation to energy balance questions."
+      ]
+    },
+    {
+      "topic": "Large intestine functions",
+      "heading": "Water Reabsorption and Fermentation",
+      "content": "The colon reabsorbs ~1–1.5 L of water and electrolytes, concentrates feces, houses microbiota that ferment undigested carbohydrates producing SCFAs, and synthesizes vitamin K and B12 (in ileum).",
+      "keyPoints": [
+        "Major site of water/electrolyte balance.",
+        "Microbial fermentation yields SCFAs."
+      ],
+      "neetTips": [
+        "SCFAs are important for colonic health – may appear in clinical scenarios."
+      ]
+    },
+    {
+      "topic": "Defaecation",
+      "heading": "Rectal Evacuation Mechanism",
+      "content": "Defaecation involves coordinated relaxation of the internal anal sphincter (autonomic) and voluntary contraction of the external sphincter (somatic) along with abdominal pressure (Valsalva) to expel feces.",
+      "keyPoints": [
+        "Involuntary then voluntary phases.",
+        "Recto‑anal inhibitory reflex initiates."
+      ],
+      "neetTips": [
+        "Disorders of sphincter control cause constipation/continence issues."
+      ]
+    },
+    {
+      "topic": "Neural and hormonal regulation of digestion",
+      "heading": "Integrated Control System",
+      "content": "The enteric nervous system (ENS) coordinates peristalsis; vagal parasympathetic input enhances motility and secretion, while sympathetic input inhibits. Hormones modulate secretions and motility in response to luminal contents.",
+      "keyPoints": [
+        "ENS works autonomously but modulated by CNS.",
+        "Hormones act via feedback loops."
+      ],
+      "neetTips": [
+        "Recall vagus‑stimulated gastrin release."
+      ]
+    },
+    {
+      "topic": "Gastrin",
+      "heading": "Gastrin – Gastric Acid Stimulator",
+      "content": "Gastrin, secreted by G‑cells of the gastric antrum in response to peptides, distension and vagal stimulation, increases HCl secretion by parietal cells and promotes gastric motility.",
+      "keyPoints": [
+        "Stimulated by peptide presence.",
+        "Acts via CCK‑B receptors."
+      ],
+      "neetTips": [
+        "Hypergastrinemia leads to peptic ulcer disease."
+      ]
+    },
+    {
+      "topic": "Secretin",
+      "heading": "Secretin – Bicarbonate Release Trigger",
+      "content": "Secretin is released from duodenal S‑cells when acidic chyme enters; it stimulates pancreatic duct cells to secrete bicarbonate‑rich fluid and inhibits gastric acid secretion.",
+      "keyPoints": [
+        "pH‑dependent release.",
+        "Promotes duodenal neutralization."
+      ],
+      "neetTips": [
+        "Secretin deficiency contributes to duodenal ulcer risk."
+      ]
+    },
+    {
+      "topic": "Cholecystokinin",
+      "heading": "CCK – Fat and Protein Sensor",
+      "content": "I‑cells of the duodenum release CCK in response to fatty acids and amino acids; CCK contracts the gallbladder, relaxes the sphincter of Oddi, and stimulates pancreatic enzyme secretion.",
+      "keyPoints": [
+        "Triggers bile release.",
+        "Enhances pancreatic proteases and lipases."
+      ],
+      "neetTips": [
+        "CCK antagonists reduce pancreatic secretion – therapeutic relevance."
+      ]
+    },
+    {
+      "topic": "Enterogastrone",
+      "heading": "Enterogastrone – Inhibitory Hormone",
+      "content": "Enterogastrone (including peptide YY) is released by the distal intestine in response to fatty chyme; it slows gastric emptying and reduces gastric acid secretion, protecting the small intestine.",
+      "keyPoints": [
+        "Negative feedback on stomach.",
+        "Predominantly peptide YY."
+      ],
+      "neetTips": [
+        "Elevated PYY seen in obesity studies."
+      ]
+    },
+    {
+      "topic": "Digestive disorders",
+      "heading": "Overview of Common GI Pathologies",
+      "content": "Disorders arise from dysregulated motility, secretion, absorption or infection. Key conditions include indigestion, constipation, diarrhoea, vomiting, jaundice, and malabsorption syndromes.",
+      "keyPoints": [
+        "Each disorder reflects a specific physiological defect."
+      ],
+      "neetTips": [
+        "Link symptoms to underlying mechanism for NEET questions."
+      ]
+    },
+    {
+      "topic": "Indigestion",
+      "heading": "Functional Dyspepsia",
+      "content": "Indigestion (dyspepsia) presents as epigastric discomfort, bloating and early satiety, often due to excess gastric acid, impaired gastric emptying or hypersensitivity of the upper GI tract.",
+      "keyPoints": [
+        "Associated with hyperacidity or H. pylori."
+      ],
+      "neetTips": [
+        "Consider proton‑pump inhibitor therapy in management."
+      ]
+    },
+    {
+      "topic": "Constipation",
+      "heading": "Reduced Motility and Water Absorption",
+      "content": "Constipation results from slowed colonic transit, excessive water reabsorption, or pelvic floor dysfunction, leading to hard, infrequent stools and straining.",
+      "keyPoints": [
+        "Fiber deficiency and low fluid intake are common causes."
+      ],
+      "neetTips": [
+        "High‑fiber diet increases stool bulk – a frequent exam point."
+      ]
+    },
+    {
+      "topic": "Diarrhoea",
+      "heading": "Increased Luminal Fluid",
+      "content": "Diarrhoea occurs when intestinal secretion exceeds absorption or transit is rapid, caused by infections, osmotic load, secretory toxins or malabsorption, leading to watery stools.",
+      "keyPoints": [
+        "Secretory diarrhoea persists despite fasting."
+      ],
+      "neetTips": [
+        "Distinguish osmotic vs secretory for treatment strategies."
+      ]
+    },
+    {
+      "topic": "Vomiting",
+      "heading": "Protective Reflex Ejection",
+      "content": "Vomiting is a coordinated reflex involving the vomiting centre in the medulla, triggered by gastric irritation, toxins, vestibular stimulation or higher cortical inputs, resulting in forceful expulsion of gastric contents.",
+      "keyPoints": [
+        "Involves both sympathetic and parasympathetic pathways."
+      ],
+      "neetTips": [
+        "Antiemetics target dopamine or serotonin receptors."
+      ]
+    },
+    {
+      "topic": "Jaundice",
+      "heading": "Hyperbilirubinemia Manifestation",
+      "content": "Jaundice reflects elevated serum bilirubin due to increased production (hemolysis), impaired conjugation (Gilbert’s) or obstructed excretion (cholestasis), causing yellow discoloration of skin and sclera.",
+      "keyPoints": [
+        "Pre‑hepatic, hepatic, post‑hepatic categories."
+      ],
+      "neetTips": [
+        "Conjugated bilirubin appears in urine – a diagnostic clue."
+      ]
+    },
+    {
+      "topic": "Malabsorption",
+      "heading": "Impaired Nutrient Uptake",
+      "content": "Malabsorption syndromes (e.g., celiac disease, tropical sprue, pancreatic insufficiency) reduce absorption of macronutrients, vitamins and minerals, leading to weight loss, steatorrhea and deficiencies.",
+      "keyPoints": [
+        "Loss of villous surface is a common cause."
+      ],
+      "neetTips": [
+        "Serum anti‑tTG antibodies aid celiac diagnosis."
+      ]
+    },
+    {
+      "topic": "Integrated digestion revision",
+      "heading": "Consolidated Overview",
+      "content": "Digestive processes involve coordinated enzymatic breakdown, mucosal absorption via villi and microvilli, transport through portal blood or lymph, hormonal regulation (gastrin, secretin, CCK, enterogastrone) and final water reabsorption in the colon. Disruptions manifest as specific clinical disorders.",
+      "keyPoints": [
+        "Link structure to function for each segment.",
+        "Hormonal feedback loops maintain homeostasis."
+      ],
+      "neetTips": [
+        "Create a flow‑chart linking chyme progression, absorption sites and hormonal signals for quick revision."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the structural adaptations that maximize nutrient absorption in the small intestine.",
+    "Describe the transport mechanisms for carbohydrates, proteins, lipids and their post‑absorptive pathways.",
+    "Identify the hormonal regulators of digestion and their specific actions on gastric and pancreatic secretions.",
+    "Correlate common digestive disorders with underlying physiological disturbances."
+  ],
+  "mcqs": [
+    {
+      "question": "Which transporter mediates the active uptake of glucose from the intestinal lumen into enterocytes?",
+      "options": [
+        "SGLT1",
+        "GLUT2",
+        "GLUT4",
+        "Na+/K+ ATPase"
+      ],
+      "answer": 0,
+      "explanation": "SGLT1 is a Na⁺‑dependent glucose transporter located on the apical membrane of intestinal epithelial cells, allowing active glucose absorption.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Which statement correctly describes the primary mechanism of amino acid absorption in the small intestine?",
+      "options": [
+        "Amino acids are absorbed by simple diffusion",
+        "Amino acids are absorbed via Na⁺‑dependent cotransporters",
+        "Amino acids are absorbed via facilitated diffusion through GLUT transporters",
+        "Amino acids are absorbed by endocytosis"
+      ],
+      "answer": 1,
+      "explanation": "Most amino acids are taken up by Na⁺‑dependent cotransport systems on the apical membrane, coupling amino acid transport with Na⁺ influx.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Long‑chain fatty acids and monoglycerides are absorbed into enterocytes mainly by:",
+      "options": [
+        "Active transport via Na⁺/K⁺ ATPase",
+        "Facilitated diffusion via FATP proteins",
+        "Simple diffusion across the apical membrane",
+        "Endocytosis of micelles"
+      ],
+      "answer": 2,
+      "explanation": "After micelle breakdown, free fatty acids and monoglycerides diffuse across the brush‑border membrane because they are lipid‑soluble.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "What is the primary function of lacteals in the intestinal villi?",
+      "options": [
+        "Transport chylomicrons into the lymphatic system",
+        "Transport amino acids into portal blood",
+        "Transport water into interstitial fluid",
+        "Transport bile salts back to the liver"
+      ],
+      "answer": 0,
+      "explanation": "Lacteals are lymphatic capillaries that absorb dietary lipids packaged as chylomicrons and convey them to the systemic circulation via the lymph.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Which nutrient, after absorption, first enters the hepatic portal circulation?",
+      "options": [
+        "Glucose",
+        "Fatty acids",
+        "Chylomicrons",
+        "Vitamin B12"
+      ],
+      "answer": 0,
+      "explanation": "Glucose (and amino acids) are released into the portal blood from enterocytes, reaching the liver directly; long‑chain fatty acids are transported via lymph.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Which of the following is NOT a mechanism by which water is absorbed in the small intestine?",
+      "options": [
+        "Osmosis following solute absorption",
+        "Active transport via Na⁺/K⁺ ATPase",
+        "Paracellular diffusion through tight junctions",
+        "Transcellular diffusion via aquaporins"
+      ],
+      "answer": 1,
+      "explanation": "Water moves passively by osmosis, through tight junctions, or via aquaporin channels; there is no active transport of water by Na⁺/K⁺ ATPase.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Which hormone primarily stimulates pancreatic bicarbonate secretion, creating an alkaline environment for optimal nutrient absorption in the duodenum?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Enterogastrone"
+      ],
+      "answer": 1,
+      "explanation": "Secretin is released by duodenal S cells in response to acidic chyme and promotes pancreatic bicarbonate secretion, neutralizing acid and facilitating absorption.",
+      "topic": "Absorption of digested food"
+    },
+    {
+      "question": "Which part of the small intestine possesses the greatest surface area for nutrient absorption?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "The jejunum has the most extensive plicae circulares, villi and microvilli, providing the largest absorptive surface compared to the duodenum and ileum.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "The absorption of the vitamin B12‑intrinsic factor complex primarily occurs in which region of the small intestine?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Rectum"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin B12 bound to intrinsic factor is specifically taken up by receptors on the terminal ileum.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "Which structural feature contributes the most to the increase in absorptive surface area of the small intestine?",
+      "options": [
+        "Plicae circulares",
+        "Villi",
+        "Microvilli",
+        "Crypts of Lieberkühn"
+      ],
+      "answer": 2,
+      "explanation": "Microvilli on the apical surface of enterocytes increase the surface area by about 20‑fold, more than villi or plicae.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "Most monosaccharides are absorbed across the intestinal epithelium by which transport mechanism?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Na⁺‑dependent active transport",
+        "Endocytosis"
+      ],
+      "answer": 2,
+      "explanation": "Glucose and galactose are taken up via the Na⁺‑glucose cotransporter (SGLT1) on the apical membrane, an active transport process.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "Which statement about lacteals in the small intestine is correct?",
+      "options": [
+        "They absorb amino acids",
+        "They transport long‑chain fatty acids as chylomicrons",
+        "They are part of the portal venous system",
+        "They line the crypts of Lieberkühn"
+      ],
+      "answer": 1,
+      "explanation": "Lacteals are lymphatic capillaries that collect chylomicrons formed from long‑chain fatty acids and glycerol, bypassing the hepatic portal circulation.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "The brush‑border enzyme sucrase is located on which cells of the small intestine?",
+      "options": [
+        "Crypt cells",
+        "Enterocytes of villi",
+        "Goblet cells",
+        "Paneth cells"
+      ],
+      "answer": 1,
+      "explanation": "Sucrase, along with other disaccharidases, is expressed on the apical membrane of enterocytes that line the villi.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "Maintenance of the glucose concentration gradient across the intestinal epithelium relies chiefly on which transporter?",
+      "options": [
+        "Na⁺/K⁺‑ATPase on basolateral membrane",
+        "Na⁺‑glucose cotransporter (SGLT1) on apical membrane",
+        "GLUT2 on apical membrane",
+        "Na⁺/H⁺ exchanger on basolateral membrane"
+      ],
+      "answer": 1,
+      "explanation": "SGLT1 uses the Na⁺ gradient established by the Na⁺/K⁺‑ATPase to actively transport glucose into enterocytes, preserving the gradient for absorption.",
+      "topic": "Small intestine as major absorption site"
+    },
+    {
+      "question": "Which cell type lines the surface of intestinal villi and bears microvilli?",
+      "options": [
+        "Enterocytes",
+        "Goblet cells",
+        "Paneth cells",
+        "Enteroendocrine cells"
+      ],
+      "answer": 0,
+      "explanation": "Enterocytes form the epithelial lining of villi and possess a dense brush border of microvilli that increase absorptive area.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "The primary function of lacteals located in the core of each villus is:",
+      "options": [
+        "Absorption of amino acids",
+        "Transport of long‑chain fatty acids as chylomicrons",
+        "Secretion of mucus",
+        "Production of digestive enzymes"
+      ],
+      "answer": 1,
+      "explanation": "Lacteals are lymphatic capillaries that collect chylomicrons formed from long‑chain fatty acids and transport them to the systemic circulation.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "Which structural feature most significantly increases the absorptive surface area of the small intestine?",
+      "options": [
+        "Length of the intestine",
+        "Presence of villi",
+        "Presence of crypts of Lieberkühn",
+        "Thickness of muscularis externa"
+      ],
+      "answer": 1,
+      "explanation": "Villi project into the lumen, dramatically expanding the surface area beyond that provided by the intestinal length alone.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "In the villus, the capillary network is primarily responsible for the absorption of which nutrients?",
+      "options": [
+        "Long‑chain fatty acids",
+        "Monosaccharides",
+        "Vitamin K",
+        "Bile salts"
+      ],
+      "answer": 1,
+      "explanation": "Capillaries within the villus lamina propria take up water‑soluble nutrients such as monosaccharides and amino acids for transport to the portal vein.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "Which of the following statements about the brush border membrane of intestinal villi is correct?",
+      "options": [
+        "It contains enzymes for disaccharide hydrolysis",
+        "It is composed of smooth endoplasmic reticulum",
+        "It lacks transport proteins",
+        "It is impermeable to ions"
+      ],
+      "answer": 0,
+      "explanation": "The brush border harbors enzymes like lactase, sucrase and maltase that complete carbohydrate digestion before absorption.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "Damage to the intestinal villi leading to flattening of the mucosal surface is most likely to cause which clinical condition?",
+      "options": [
+        "Peptic ulcer disease",
+        "Celiac disease",
+        "Gallstones",
+        "Appendicitis"
+      ],
+      "answer": 1,
+      "explanation": "Celiac disease triggers an immune reaction that destroys villi, reducing absorptive area and causing malabsorption.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "The movement of nutrients from the epithelial cells of the villi into the blood capillaries occurs mainly by which transport mechanism?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Active transport (Na⁺‑dependent)",
+        "Endocytosis"
+      ],
+      "answer": 2,
+      "explanation": "Glucose and many amino acids are transported across the basolateral membrane by Na⁺‑dependent secondary active transport, ensuring efficient uptake into capillaries.",
+      "topic": "Intestinal villi"
+    },
+    {
+      "question": "What is the primary structural component that forms the core of each microvillus?",
+      "options": [
+        "Actin filaments",
+        "Keratin filaments",
+        "Collagen fibers",
+        "Myosin filaments"
+      ],
+      "answer": 0,
+      "explanation": "Microvilli contain a core bundle of actin filaments that provide structural support and rigidity.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "The main functional significance of microvilli on the apical surface of intestinal epithelial cells is to:",
+      "options": [
+        "Increase surface area for absorption",
+        "Secrete digestive enzymes",
+        "Produce mucus",
+        "Generate peristaltic movement"
+      ],
+      "answer": 0,
+      "explanation": "Microvilli dramatically enlarge the apical membrane area, enhancing the efficiency of nutrient absorption.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "Which brush‑border enzyme, anchored to the microvillar membrane, is essential for the final step of carbohydrate digestion?",
+      "options": [
+        "Pepsin",
+        "Lactase",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 1,
+      "explanation": "Lactase is a membrane‑bound enzyme of the brush border that hydrolyses lactose into glucose and galactose.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "Damage to microvilli in celiac disease most directly impairs absorption of which nutrient?",
+      "options": [
+        "Vitamin B12",
+        "Iron",
+        "Glucose",
+        "Fatty acids"
+      ],
+      "answer": 2,
+      "explanation": "Loss of the brush‑border enzymes and reduced surface area primarily decrease carbohydrate (glucose) absorption.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "Which protein links the actin filament core of microvilli to the plasma membrane, forming the terminal web?",
+      "options": [
+        "Myosin",
+        "Spectrin",
+        "Tubulin",
+        "Collagen"
+      ],
+      "answer": 1,
+      "explanation": "Spectrin forms a meshwork that anchors actin filaments to the membrane, stabilising microvillar structure.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "Glucose is taken up across the microvillar membrane of enterocytes mainly by which transport mechanism?",
+      "options": [
+        "Facilitated diffusion via GLUT2",
+        "Na⁺‑glucose cotransport (SGLT1)",
+        "Active transport via Na⁺/K⁺ pump",
+        "Na⁺‑K⁺ ATPase"
+      ],
+      "answer": 1,
+      "explanation": "SGLT1 uses the Na⁺ gradient to actively cotransport glucose into the cell against its concentration gradient.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "The term \"brush border\" in the small intestine refers to:",
+      "options": [
+        "Microvilli‑covered apical surface of enterocytes",
+        "Villi themselves",
+        "Mucosal layer of colon",
+        "Smooth muscle layer of intestine"
+      ],
+      "answer": 0,
+      "explanation": "The brush border is the dense array of microvilli on the luminal surface of enterocytes, giving a brush‑like appearance under microscopy.",
+      "topic": "Microvilli"
+    },
+    {
+      "question": "Which structural modification of the small intestine contributes the greatest increase in its absorptive surface area?",
+      "options": [
+        "Circular folds (plicae circulares)",
+        "Villi",
+        "Microvilli",
+        "Length of intestine"
+      ],
+      "answer": 2,
+      "explanation": "Microvilli, with their dense brush border, increase the surface area about 20‑fold, which is greater than the contributions of folds or villi.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "The approximate total surface area available for absorption in an adult human small intestine is:",
+      "options": [
+        "30 m²",
+        "200 m²",
+        "2 m²",
+        "500 m²"
+      ],
+      "answer": 1,
+      "explanation": "Considering the combined effect of folds, villi and microvilli, the adult small intestine provides roughly 200 square metres of absorptive surface.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "Which statement about intestinal microvilli is FALSE?",
+      "options": [
+        "They contain brush border enzymes",
+        "They increase surface area",
+        "They are covered by glycocalyx that traps nutrients",
+        "They are composed of smooth muscle fibers"
+      ],
+      "answer": 3,
+      "explanation": "Microvilli are extensions of the apical plasma membrane of enterocytes, not smooth muscle fibers.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "The typical length-to-diameter ratio of a small intestinal villus is closest to:",
+      "options": [
+        "1:1",
+        "2:1",
+        "5:1",
+        "10:1"
+      ],
+      "answer": 2,
+      "explanation": "Villi are about 0.5–1 mm long and 0.1 mm wide, giving a length‑to‑diameter ratio of roughly 5:1.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "Why does the small intestine have a markedly larger absorptive surface than the large intestine?",
+      "options": [
+        "Presence of circular folds",
+        "Presence of villi",
+        "Presence of microvilli",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three structural features—circular folds, villi, and microvilli—collectively enlarge the small‑intestinal surface area.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "In celiac disease, blunting of microvilli primarily leads to a reduction in:",
+      "options": [
+        "Surface area for absorption",
+        "Length of small intestine",
+        "Number of lacteals",
+        "Number of pancreatic enzymes"
+      ],
+      "answer": 0,
+      "explanation": "Blunted microvilli decrease the effective surface area, impairing nutrient absorption.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "The absorptive surface area of the small intestine is directly proportional to which of the following?",
+      "options": [
+        "Number of enterocytes",
+        "Number of mitochondria per cell",
+        "Thickness of mucosal layer",
+        "Length of crypts"
+      ],
+      "answer": 0,
+      "explanation": "Each enterocyte bears microvilli; more enterocytes mean more microvillar surface, increasing total absorptive area.",
+      "topic": "Surface area for absorption"
+    },
+    {
+      "question": "Which transporter is primarily responsible for the uptake of glucose from the intestinal lumen into enterocytes?",
+      "options": [
+        "SGLT1",
+        "GLUT2",
+        "GLUT5",
+        "Na⁺/K⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "SGLT1 (sodium‑glucose linked transporter 1) uses the Na⁺ gradient to actively transport glucose across the apical membrane of enterocytes.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "What provides the energy that drives glucose entry through SGLT1 in the small intestine?",
+      "options": [
+        "The Na⁺ gradient maintained by Na⁺/K⁺‑ATPase",
+        "Direct hydrolysis of ATP by SGLT1",
+        "The glucose concentration gradient",
+        "The membrane potential"
+      ],
+      "answer": 0,
+      "explanation": "The Na⁺/K⁺‑ATPase pumps Na⁺ out of the cell, creating a low intracellular Na⁺ concentration; the resulting Na⁺ gradient powers the secondary‑active transport of glucose via SGLT1.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "After entering the enterocyte, glucose is transferred to the bloodstream mainly by which transporter?",
+      "options": [
+        "GLUT2",
+        "SGLT1",
+        "GLUT5",
+        "Na⁺/K⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "GLUT2, a facilitative glucose transporter located on the basolateral membrane, allows glucose to diffuse down its concentration gradient into the portal blood.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "A congenital defect of SGLT1 would most likely lead to which clinical manifestation?",
+      "options": [
+        "Osmotic diarrhoea due to unabsorbed glucose",
+        "Increased glucose absorption and hyperglycaemia",
+        "No change in glucose absorption",
+        "Enhanced fatty‑acid absorption"
+      ],
+      "answer": 0,
+      "explanation": "Loss of SGLT1 impairs active glucose uptake, leaving glucose in the lumen where it draws water osmotically, causing diarrhoea.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "Which hormone directly increases the rate of glucose absorption in the small intestine?",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin (CCK)",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "Secretin, gastrin and CCK regulate secretion and motility but do not directly modulate the glucose transporters SGLT1 or GLUT2.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "The maximal rate of glucose absorption in the intestine is primarily limited by:",
+      "options": [
+        "The number of SGLT1 transporters on the apical membrane",
+        "The total surface area of the villi",
+        "The rate of portal blood flow",
+        "The presence of lacteals"
+      ],
+      "answer": 0,
+      "explanation": "Glucose uptake is carrier‑mediated; the density of SGLT1 determines the Vmax of absorption, whereas surface area and blood flow affect overall capacity but are not the rate‑limiting step.",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "Which statement about intestinal glucose transport is FALSE?",
+      "options": [
+        "Glucose enters enterocytes via secondary active transport",
+        "Glucose exits enterocytes by facilitated diffusion",
+        "Na⁺ is co‑transported with glucose into the cell",
+        "Glucose is absorbed into lacteals"
+      ],
+      "answer": 3,
+      "explanation": "Glucose is transported into the blood capillaries, not into lacteals (which absorb long‑chain fatty acids and monoglycerides).",
+      "topic": "Absorption of glucose"
+    },
+    {
+      "question": "What is the primary mechanism by which most amino acids are absorbed across the apical membrane of small‑intestinal enterocytes?",
+      "options": [
+        "Simple diffusion",
+        "Na⁺‑dependent active transport",
+        "Facilitated diffusion via GLUT carriers",
+        "Endocytosis"
+      ],
+      "answer": 1,
+      "explanation": "The majority of amino acids are taken up by secondary active transport that couples their movement with Na⁺ influx, using specific Na⁺‑dependent amino‑acid cotransporters.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "Lysine, a basic amino acid, is absorbed by a carrier that operates as a Na⁺/H⁺ antiporter. Which other amino acid uses the same type of transporter?",
+      "options": [
+        "Lysine",
+        "Glycine",
+        "Phenylalanine",
+        "Aspartate"
+      ],
+      "answer": 0,
+      "explanation": "Basic amino acids such as lysine and arginine are absorbed via Na⁺/H⁺ antiport mechanisms, whereas neutral and acidic amino acids use different Na⁺‑dependent symporters.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "After crossing the intestinal epithelium, amino acids first enter the bloodstream through which vessel?",
+      "options": [
+        "Hepatic portal vein",
+        "Superior mesenteric vein",
+        "Lacteal",
+        "Systemic circulation"
+      ],
+      "answer": 0,
+      "explanation": "Absorbed amino acids enter capillaries of the villi, coalesce into the superior mesenteric vein, and then flow into the hepatic portal vein that carries them to the liver.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "How does the Na⁺/K⁺‑ATPase contribute to amino‑acid absorption in the small intestine?",
+      "options": [
+        "It directly transports amino acids across the brush‑border membrane",
+        "It maintains the Na⁺ gradient that drives secondary active transport of amino acids",
+        "It pumps amino acids into the bloodstream",
+        "It is not involved in amino‑acid uptake"
+      ],
+      "answer": 1,
+      "explanation": "The Na⁺/K⁺‑ATPase extrudes Na⁺ from the enterocyte, preserving a low intracellular Na⁺ concentration; this gradient powers Na⁺‑dependent amino‑acid cotransporters.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "A defect in the neutral amino‑acid transporter B⁰AT1 would most likely lower plasma levels of which amino acid?",
+      "options": [
+        "Lysine",
+        "Tryptophan",
+        "Aspartate",
+        "Glutamate"
+      ],
+      "answer": 1,
+      "explanation": "B⁰AT1 transports neutral amino acids such as tryptophan, phenylalanine, and leucine. A loss‑of‑function reduces their absorption, decreasing plasma concentrations.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "Which segment of the small intestine provides the greatest surface area and is therefore most efficient for amino‑acid absorption?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "The jejunum has the longest length of villi and the densest microvilli, offering maximal absorptive surface for nutrients, including amino acids.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "Amino‑acid uptake across the apical membrane is coupled with the movement of which ion?",
+      "options": [
+        "K⁺ efflux",
+        "Na⁺ influx",
+        "Cl⁻ influx",
+        "Ca²⁺ influx"
+      ],
+      "answer": 1,
+      "explanation": "All Na⁺‑dependent amino‑acid transporters couple the entry of an amino acid with Na⁺ moving down its electrochemical gradient into the cell.",
+      "topic": "Absorption of amino acids"
+    },
+    {
+      "question": "What is the immediate intracellular form of long‑chain fatty acids after they are absorbed into the enterocyte?",
+      "options": [
+        "Free fatty acid",
+        "Fatty acyl‑CoA",
+        "Triglyceride",
+        "Phospholipid"
+      ],
+      "answer": 1,
+      "explanation": "Absorbed fatty acids are quickly activated by fatty acyl‑CoA synthetase to form fatty acyl‑CoA, which then undergoes re‑esterification to triglycerides.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "Which part of the small intestine is the major site for absorption of dietary long‑chain fatty acids?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "The jejunum provides the optimal surface area and enzymatic environment for the uptake of long‑chain fatty acids and their re‑esterification.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "After re‑esterification, fatty acids are packaged into chylomicrons. Into which structure do these chylomicrons first enter?",
+      "options": [
+        "Lacteal",
+        "Portal vein",
+        "Hepatic vein",
+        "Thoracic duct"
+      ],
+      "answer": 0,
+      "explanation": "Chylomicrons are too large to enter blood capillaries and are secreted into the lacteals (central lymphatic vessels) of the villi.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "Which enzyme catalyzes the activation of absorbed fatty acids to fatty acyl‑CoA in enterocytes?",
+      "options": [
+        "Acyl‑CoA synthetase",
+        "Hormone‑sensitive lipase",
+        "Lipoprotein lipase",
+        "Acetyl‑CoA carboxylase"
+      ],
+      "answer": 0,
+      "explanation": "Acyl‑CoA synthetase (fatty acid CoA ligase) attaches CoA to fatty acids, forming fatty acyl‑CoA, the first step in triglyceride synthesis.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "A genetic defect in which of the following proteins would most directly impair the absorption of dietary long‑chain fatty acids?",
+      "options": [
+        "NPC1L1",
+        "FATP4",
+        "SGLT1",
+        "PEPT1"
+      ],
+      "answer": 1,
+      "explanation": "FATP4 (fatty acid transport protein 4) facilitates the uptake of long‑chain fatty acids across the apical membrane of enterocytes; its loss reduces fatty acid absorption.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "Which statement correctly describes the difference in absorption pathways of short‑chain and long‑chain fatty acids?",
+      "options": [
+        "Short‑chain fatty acids enter the portal blood, while long‑chain fatty acids are absorbed via lacteals",
+        "Short‑chain fatty acids are absorbed via lacteals, while long‑chain fatty acids enter the portal blood",
+        "Both short‑ and long‑chain fatty acids are absorbed via lacteals",
+        "Both short‑ and long‑chain fatty acids are absorbed via the portal blood"
+      ],
+      "answer": 0,
+      "explanation": "Short‑chain fatty acids are water‑soluble and diffuse directly into the portal circulation, whereas long‑chain fatty acids are re‑esterified into chylomicrons and enter the lymphatic lacteals.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "In which cellular compartment does the re‑esterification of fatty acids to triglycerides primarily occur in enterocytes?",
+      "options": [
+        "Mitochondria",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Cytosol"
+      ],
+      "answer": 1,
+      "explanation": "The smooth endoplasmic reticulum contains the enzymes required for the stepwise esterification of fatty acyl‑CoA with glycerol‑3‑phosphate to form triglycerides.",
+      "topic": "Absorption of fatty acids"
+    },
+    {
+      "question": "What is the primary mechanism by which glycerol is absorbed from the intestinal lumen into enterocytes?",
+      "options": [
+        "Simple diffusion",
+        "Active transport via Na+/K+ ATPase",
+        "Endocytosis",
+        "Carrier-mediated facilitated diffusion (GLUT2)"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol is a small, polar molecule that readily crosses the brush‑border membrane by simple diffusion without the need for carriers or energy.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "After crossing the intestinal epithelium, glycerol enters the bloodstream via which vessel?",
+      "options": [
+        "Portal vein",
+        "Lacteals (lymphatic vessels)",
+        "Hepatic artery",
+        "Systemic circulation directly"
+      ],
+      "answer": 0,
+      "explanation": "Unlike long‑chain fatty acids, glycerol is absorbed into the portal circulation and is carried directly to the liver through the portal vein.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "Inside the enterocyte, glycerol is phosphorylated to glycerol‑3‑phosphate by which enzyme?",
+      "options": [
+        "Glycerol kinase",
+        "Hexokinase",
+        "Lipase",
+        "Acetyl‑CoA carboxylase"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol kinase catalyzes the ATP‑dependent conversion of glycerol to glycerol‑3‑phosphate, a key step for its further metabolism.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "Which statement correctly distinguishes the absorption pathways of glycerol and fatty acids?",
+      "options": [
+        "Glycerol enters portal blood while fatty acids enter lacteals",
+        "Both glycerol and fatty acids enter lacteals",
+        "Glycerol is absorbed via active transport while fatty acids via diffusion",
+        "Glycerol is not utilized for triglyceride synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol, being water‑soluble, is taken up into the portal blood, whereas long‑chain fatty acids are re‑esterified into triglycerides and absorbed as chylomicrons into lacteals.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "In the liver, absorbed glycerol can serve as a substrate for which metabolic pathway?",
+      "options": [
+        "Gluconeogenesis",
+        "Ketogenesis",
+        "Urea cycle",
+        "Cholesterol synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol‑3‑phosphate can be converted to dihydroxyacetone phosphate, entering gluconeogenesis to produce glucose.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "The concentration gradient that drives glycerol absorption across the intestinal epithelium is primarily maintained by:",
+      "options": [
+        "Continuous removal of glycerol by portal blood flow",
+        "Active pumping of glycerol into blood",
+        "Sodium‑dependent cotransport",
+        "Metabolism of glycerol to glycerol‑3‑phosphate within enterocytes"
+      ],
+      "answer": 3,
+      "explanation": "Rapid phosphorylation of glycerol to glycerol‑3‑phosphate lowers intracellular glycerol concentration, sustaining the diffusion gradient from lumen to cell.",
+      "topic": "Absorption of glycerol"
+    },
+    {
+      "question": "Where are lacteals situated within the intestinal villi?",
+      "options": [
+        "In the central core of each villus",
+        "At the base of the crypts of Lieberkühn",
+        "Within the submucosal layer of the intestine",
+        "In the muscularis externa surrounding the villi"
+      ],
+      "answer": 0,
+      "explanation": "Lacteals are specialized lymphatic capillaries located in the central core (lamina propria) of each small intestinal villus, allowing them to collect absorbed lipids.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "What is the primary function of lacteals in the small intestine?",
+      "options": [
+        "Absorption of amino acids into the blood",
+        "Transport of chylomicrons formed from dietary fats",
+        "Secretion of digestive enzymes into the lumen",
+        "Reabsorption of water and electrolytes"
+      ],
+      "answer": 1,
+      "explanation": "Lacteals absorb and transport chylomicrons, which are large lipoprotein particles that carry dietary triglycerides and cholesterol.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "Why cannot dietary lipids directly enter the blood capillaries of the villi?",
+      "options": [
+        "Blood capillaries lack fenestrations",
+        "Chylomicrons are too large to pass through the endothelial pores of blood capillaries",
+        "Blood capillaries have tight junctions that block all macromolecules",
+        "The osmotic pressure in blood capillaries prevents lipid entry"
+      ],
+      "answer": 1,
+      "explanation": "Chylomicrons are large (≈100–1000 nm) and cannot pass through the small pores of blood capillary endothelium; they are instead taken up by the more permeable lacteals.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "After entering lacteals, chylomicrons travel to the systemic circulation via which route?",
+      "options": [
+        "Directly into the hepatic portal vein",
+        "Through mesenteric lymphatics to the thoracic duct, then into the left subclavian vein",
+        "Via the renal vein after filtration in the kidney",
+        "Through the portal lymph nodes into the spleen"
+      ],
+      "answer": 1,
+      "explanation": "Chylomicrons are carried by lymph from lacteals to the thoracic duct, which empties into the left subclavian vein, delivering them to the systemic circulation.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "Which structural characteristic distinguishes lacteals from blood capillaries?",
+      "options": [
+        "Presence of a continuous basement membrane",
+        "Tight junctions between endothelial cells",
+        "Overlapping endothelial cells with large intercellular gaps",
+        "Abundant pericyte coverage"
+      ],
+      "answer": 2,
+      "explanation": "Lacteals have overlapping endothelial cells that create wide intercellular gaps, allowing the entry of large particles like chylomicrons, unlike the tighter junctions of blood capillaries.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "Obstruction of lacteals most commonly leads to which clinical manifestation?",
+      "options": [
+        "Proteinuria",
+        "Steatorrhea (fatty stools)",
+        "Hyperglycemia",
+        "Jaundice"
+      ],
+      "answer": 1,
+      "explanation": "When lacteals are blocked, dietary fats cannot be absorbed, resulting in excess fat excretion in the stool, known as steatorrhea.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "Which hormone indirectly enhances the activity of lacteals by promoting fat digestion?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Insulin"
+      ],
+      "answer": 2,
+      "explanation": "CCK stimulates pancreatic lipase secretion and gallbladder contraction, facilitating fat digestion and increasing the formation of chylomicrons that are absorbed by lacteals.",
+      "topic": "Lacteals"
+    },
+    {
+      "question": "Which type of blood capillary is most abundant in skeletal muscle and characterized by an uninterrupted endothelial lining?",
+      "options": [
+        "Continuous",
+        "Fenestrated",
+        "Sinusoidal",
+        "Discontinuous"
+      ],
+      "answer": 0,
+      "explanation": "Continuous capillaries have a complete endothelial lining with tight junctions and are the predominant form in skeletal muscle, allowing selective exchange.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "The primary mechanism by which glucose moves from blood capillaries into intestinal epithelial cells is:",
+      "options": [
+        "Active transport via Na⁺/glucose cotransporter",
+        "Simple diffusion",
+        "Facilitated diffusion through GLUT2",
+        "Pinocytosis"
+      ],
+      "answer": 0,
+      "explanation": "Glucose is taken up from the capillary lumen into enterocytes by the Na⁺‑glucose cotransporter (SGLT1), an active process requiring Na⁺ gradient.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "In capillaries of the intestinal villi, the net filtration pressure is determined by Starling forces. Which statement is correct?",
+      "options": [
+        "Hydrostatic pressure in capillary > interstitial, promoting filtration",
+        "Oncotic pressure in capillary > interstitial, promoting absorption",
+        "Both hydrostatic and oncotic pressures favor filtration",
+        "Neither pressure influences exchange in intestinal capillaries"
+      ],
+      "answer": 0,
+      "explanation": "Capillary hydrostatic pressure (~35 mmHg) exceeds interstitial pressure, so the net filtration pressure favors movement of fluid and nutrients out of the capillary.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "Which structural feature of fenestrated capillaries facilitates rapid exchange of plasma proteins?",
+      "options": [
+        "Continuous basement membrane",
+        "Pores (fenestrae) with diaphragms",
+        "Large intercellular gaps",
+        "Absence of basement membrane"
+      ],
+      "answer": 1,
+      "explanation": "Fenestrated capillaries possess trans‑endothelial pores (fenestrae) often covered by diaphragms, allowing plasma proteins to pass more freely.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "Sinusoidal capillaries are especially adapted for the passage of large molecules. In which organ are they most prominently found?",
+      "options": [
+        "Skeletal muscle",
+        "Kidney glomerulus",
+        "Liver",
+        "Lungs"
+      ],
+      "answer": 2,
+      "explanation": "The liver contains sinusoidal (discontinuous) capillaries with large gaps and a discontinuous basement membrane, permitting passage of cells and macromolecules.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "The rate of nutrient exchange across capillary walls is most directly increased by:",
+      "options": [
+        "Increase in capillary diameter",
+        "Decrease in blood flow velocity",
+        "Increase in endothelial surface area",
+        "Decrease in plasma protein concentration"
+      ],
+      "answer": 2,
+      "explanation": "A larger endothelial surface area shortens diffusion distance and provides more sites for exchange, directly enhancing nutrient transfer.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "Which of the following best describes the role of blood capillaries in the transport of absorbed fatty acids from intestinal lacteals?",
+      "options": [
+        "Fatty acids enter blood capillaries directly",
+        "Fatty acids are first re‑esterified in enterocytes and then released into blood capillaries as chylomicrons",
+        "Fatty acids diffuse across capillary endothelium from lacteals",
+        "Fatty acids are transported via portal vein after conversion to glycerol"
+      ],
+      "answer": 1,
+      "explanation": "Long‑chain fatty acids are re‑esterified to triglycerides forming chylomicrons, which enter lacteals, travel through the lymphatic system and finally enter blood capillaries at the subclavian region.",
+      "topic": "Blood capillaries"
+    },
+    {
+      "question": "The primary mechanism by which glucose exits the enterocyte and enters the bloodstream is:",
+      "options": [
+        "Na⁺/glucose cotransporter (SGLT1)",
+        "GLUT2 facilitated diffusion",
+        "Na⁺/K⁺‑ATPase activity",
+        "Simple diffusion through the lipid bilayer"
+      ],
+      "answer": 1,
+      "explanation": "Glucose leaves the enterocyte via GLUT2, a facilitative carrier on the basolateral membrane, allowing diffusion down its concentration gradient into the blood.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "After entering the enterocyte by Na⁺‑dependent transport, amino acids are released into the interstitial fluid mainly by:",
+      "options": [
+        "Na⁺/K⁺‑ATPase",
+        "GLUT5 transporter",
+        "Na⁺‑independent carrier‑mediated transport",
+        "Simple diffusion"
+      ],
+      "answer": 2,
+      "explanation": "Amino acids exit the cell via Na⁺‑independent carriers (e.g., system L), which function as facilitated diffusion transporters on the basolateral membrane.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "Long‑chain fatty acids are re‑esterified to triglycerides and packaged into chylomicrons. How do chylomicrons reach the systemic circulation?",
+      "options": [
+        "Directly enter blood capillaries",
+        "Via the portal vein",
+        "Enter lacteals and then the thoracic duct",
+        "Through lymphatic capillaries draining straight to the right atrium"
+      ],
+      "answer": 2,
+      "explanation": "Chylomicrons are too large for blood capillaries; they are secreted into lacteals, travel through lymphatic vessels, and enter the bloodstream via the thoracic duct.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "Which statement correctly describes the intestinal absorption of glycerol?",
+      "options": [
+        "Glycerol is taken up by Na⁺‑dependent cotransport",
+        "Glycerol diffuses freely across the brush border",
+        "Glycerol enters cells through aquaglyceroporins by facilitated diffusion",
+        "Glycerol is packaged into chylomicrons"
+      ],
+      "answer": 2,
+      "explanation": "Glycerol, being small and polar, crosses the apical membrane mainly via aquaglyceroporins (facilitated diffusion), not by Na⁺‑dependent mechanisms.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "Water‑soluble nutrients such as glucose and amino acids are transported from the intestine to the liver primarily via:",
+      "options": [
+        "Hepatic artery",
+        "Portal vein",
+        "Thoracic duct",
+        "Lymphatic vessels"
+      ],
+      "answer": 1,
+      "explanation": "The portal vein drains the capillary beds of the small intestine, delivering absorbed glucose, amino acids, and other water‑soluble nutrients directly to the liver.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "Which plasma protein chiefly carries free fatty acids released from chylomicrons in the bloodstream?",
+      "options": [
+        "Albumin",
+        "Hemoglobin",
+        "Fibrinogen",
+        "Transferrin"
+      ],
+      "answer": 0,
+      "explanation": "Albumin has high affinity for non‑esterified fatty acids and transports them from capillaries to peripheral tissues.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "In nutrient transport, “first‑pass metabolism” refers to:",
+      "options": [
+        "Metabolism of nutrients in the intestinal mucosa before entering blood",
+        "Metabolism of absorbed nutrients in the liver before reaching systemic circulation",
+        "Immediate oxidation of glucose in enterocytes",
+        "Conversion of fatty acids to ketone bodies in the liver"
+      ],
+      "answer": 1,
+      "explanation": "First‑pass metabolism describes the hepatic processing of nutrients (and drugs) that arrive via the portal vein, before they enter the general circulation.",
+      "topic": "Transport of absorbed nutrients"
+    },
+    {
+      "question": "Which metabolic pathway in the liver converts absorbed glucose into glycogen for storage?",
+      "options": [
+        "Glycogenesis",
+        "Gluconeogenesis",
+        "Glycolysis",
+        "Glycogenolysis"
+      ],
+      "answer": 0,
+      "explanation": "Glycogenesis is the process of polymerizing glucose molecules to form glycogen, primarily occurring in the liver after a meal.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "After absorption, most dietary amino acids are taken up by which organ where they are used for synthesis of plasma proteins?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Pancreas",
+        "Skeletal muscle"
+      ],
+      "answer": 1,
+      "explanation": "The liver receives amino acids via the portal circulation and synthesizes plasma proteins such as albumin and clotting factors.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "Long‑chain fatty acids absorbed by enterocytes are re‑esterified to triglycerides and packaged into which lipoprotein for transport via the lymphatic system?",
+      "options": [
+        "VLDL",
+        "Chylomicrons",
+        "LDL",
+        "HDL"
+      ],
+      "answer": 1,
+      "explanation": "Chylomicrons are large lipoprotein particles formed in enterocytes that carry dietary triglycerides through lacteals into the lymph.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "Glycerol released from triglyceride breakdown in the liver is converted into glucose by which process?",
+      "options": [
+        "Lipolysis",
+        "Gluconeogenesis",
+        "Glycogenolysis",
+        "Ketogenesis"
+      ],
+      "answer": 1,
+      "explanation": "Gluconeogenesis synthesizes glucose from non‑carbohydrate precursors such as glycerol.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "Which hormone released after a carbohydrate‑rich meal promotes peripheral glucose uptake and glycogen synthesis?",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Gastrin",
+        "Secretin"
+      ],
+      "answer": 1,
+      "explanation": "Insulin facilitates glucose entry into cells and activates enzymes of glycogen synthesis.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "Deamination of absorbed amino acids generates nitrogenous waste that is primarily excreted as which compound?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 1,
+      "explanation": "The liver converts ammonia to urea via the urea cycle, and urea is the main nitrogenous waste eliminated in urine.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "What is the correct fate of most absorbed long‑chain fatty acids before they enter the lymphatic system?",
+      "options": [
+        "They are directly released into portal blood as free fatty acids",
+        "They are re‑esterified to triglycerides in enterocytes before entering lymph",
+        "They are converted to cholesterol in the stomach",
+        "They are stored unchanged in the intestinal lumen"
+      ],
+      "answer": 1,
+      "explanation": "Enterocytes re‑esterify fatty acids to triglycerides, which are then assembled into chylomicrons and transported via lacteals into the lymph.",
+      "topic": "Assimilation"
+    },
+    {
+      "question": "What is the principal function of the large intestine in digestion?",
+      "options": [
+        "Absorption of water and electrolytes",
+        "Secretion of digestive enzymes",
+        "Absorption of glucose",
+        "Production of bile"
+      ],
+      "answer": 0,
+      "explanation": "The large intestine mainly reabsorbs water and electrolytes from the luminal contents, concentrating the residue into feces.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Which vitamin is synthesized by the bacterial flora of the large intestine?",
+      "options": [
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 1,
+      "explanation": "Colonic bacteria produce vitamin K (and some B‑group vitamins), which is absorbed from the large intestine.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Which electrolyte is primarily absorbed by the large intestine?",
+      "options": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Calcium (Ca2+)",
+        "Magnesium (Mg2+)"
+      ],
+      "answer": 0,
+      "explanation": "Sodium ions are actively reabsorbed in the colon, and water follows osmotically, aiding fecal water balance.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Which of the following is NOT a major short‑chain fatty acid produced by colonic bacterial fermentation?",
+      "options": [
+        "Acetate",
+        "Propionate",
+        "Butyrate",
+        "Lactate"
+      ],
+      "answer": 3,
+      "explanation": "Acetate, propionate and butyrate are the principal SCFAs; lactate is produced in smaller amounts and is not a major SCFA.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Feces are stored in the ___ before defecation.",
+      "options": [
+        "Cecum",
+        "Ascending colon",
+        "Sigmoid colon",
+        "Rectum"
+      ],
+      "answer": 3,
+      "explanation": "The rectum serves as the storage site for feces until the defecation reflex is initiated.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Which hormone primarily stimulates motility of the large intestine?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 3,
+      "explanation": "Motilin enhances migrating motor complexes and promotes colonic motility, especially during fasting.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Approximately what proportion of water entering the large intestine is absorbed?",
+      "options": [
+        "10%",
+        "30%",
+        "60%",
+        "90%"
+      ],
+      "answer": 3,
+      "explanation": "Around 90% of the water that reaches the colon is reabsorbed, concentrating the remaining material into solid feces.",
+      "topic": "Large intestine functions"
+    },
+    {
+      "question": "Which muscle primarily maintains continence at rest in the anal canal?",
+      "options": [
+        "Internal anal sphincter",
+        "External anal sphincter",
+        "Puborectalis muscle",
+        "Levator ani muscle"
+      ],
+      "answer": 0,
+      "explanation": "The internal anal sphincter, composed of smooth muscle, provides high resting tone and is responsible for continence when no voluntary effort is made.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "The rectoanal inhibitory reflex (RAIR) that causes relaxation of the internal anal sphincter on rectal distension is mediated by which autonomic fibers?",
+      "options": [
+        "Parasympathetic fibers (pelvic splanchnic nerves)",
+        "Sympathetic fibers (hypogastric nerve)",
+        "Somatic fibers (pudendal nerve)",
+        "Enteric nervous system only"
+      ],
+      "answer": 0,
+      "explanation": "RAIR is triggered by stretch receptors in the rectal wall and is carried by parasympathetic pelvic splanchnic nerves, leading to relaxation of the internal sphincter.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "During the voluntary phase of defecation, motor innervation to the external anal sphincter is supplied by which nerve?",
+      "options": [
+        "Pudendal nerve",
+        "Pelvic splanchnic nerve",
+        "Inferior hypogastric plexus",
+        "Vagus nerve"
+      ],
+      "answer": 0,
+      "explanation": "The external anal sphincter is skeletal muscle and receives somatic motor fibers from the pudendal nerve, allowing conscious control.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "What is the main function of the puborectalis muscle in the process of defecation?",
+      "options": [
+        "It forms a sling that creates the anorectal angle, preventing stool passage until it relaxes",
+        "It contracts to increase intra‑abdominal pressure",
+        "It secretes mucus to lubricate feces",
+        "It directly relaxes the internal anal sphincter"
+      ],
+      "answer": 0,
+      "explanation": "The puborectalis forms a muscular sling that maintains the anorectal angle; relaxation of this sling straightens the canal, permitting stool evacuation.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "An increase in intra‑abdominal pressure during defecation is primarily generated by contraction of which muscle?",
+      "options": [
+        "Diaphragm",
+        "Intercostal muscles",
+        "Rectus abdominis",
+        "Gluteus maximus"
+      ],
+      "answer": 2,
+      "explanation": "Contraction of the rectus abdominis and other abdominal wall muscles raises intra‑abdominal pressure, aiding expulsion of feces.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "Which hormone does NOT have a direct role in the regulation of defecation?",
+      "options": [
+        "Motilin",
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin"
+      ],
+      "answer": 1,
+      "explanation": "Gastrin mainly stimulates gastric acid secretion; it does not directly influence intestinal motility or defecation, unlike motilin, secretin, and CCK.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "A patient with chronic constipation is found to have failure of the internal anal sphincter to relax. Which defect is most likely responsible?",
+      "options": [
+        "Absence of the rectoanal inhibitory reflex",
+        "Hyperactivity of the external anal sphincter",
+        "Damage to the pudendal nerve",
+        "Excessive serotonin release"
+      ],
+      "answer": 0,
+      "explanation": "Loss of the rectoanal inhibitory reflex prevents relaxation of the internal sphincter in response to rectal distension, leading to obstructive constipation.",
+      "topic": "Defaecation"
+    },
+    {
+      "question": "Which hormone is released by G cells in response to peptides in the stomach and primarily stimulates gastric acid secretion?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Enterogastrone"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin is secreted by gastric G cells when peptides are present and acts on parietal cells to increase HCl secretion.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "Secretin exerts its major digestive effect by stimulating which organ to release a bicarbonate‑rich fluid?",
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Liver",
+        "Small intestine"
+      ],
+      "answer": 0,
+      "explanation": "Secretin acts on pancreatic duct cells, causing them to secrete a bicarbonate‑rich fluid that neutralises gastric acid in the duodenum.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "Cholecystokinin (CCK) causes contraction of which structure to aid fat digestion?",
+      "options": [
+        "Pyloric sphincter",
+        "Gallbladder",
+        "Duodenum",
+        "Ileum"
+      ],
+      "answer": 1,
+      "explanation": "CCK released from I cells of the duodenum stimulates gallbladder contraction and relaxes the sphincter of Oddi, facilitating bile entry.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "Enterogastrone hormones primarily function to:",
+      "options": [
+        "Stimulate gastric acid secretion",
+        "Inhibit gastric motility",
+        "Increase pancreatic enzyme secretion",
+        "Promote intestinal peristalsis"
+      ],
+      "answer": 1,
+      "explanation": "Enterogastrone (e.g., secretin, CCK) act to slow gastric emptying and inhibit gastric motility, preventing overload of the duodenum.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "Parasympathetic (vagal) stimulation of the stomach leads to which of the following effects?",
+      "options": [
+        "Decrease gastric motility",
+        "Increase HCl secretion",
+        "Decrease pepsinogen release",
+        "Constrict gastric blood vessels"
+      ],
+      "answer": 1,
+      "explanation": "Vagal activation releases acetylcholine, which enhances parietal cell activity and raises gastric HCl secretion.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "During a stress response, sympathetic activation of the gastrointestinal tract most commonly results in:",
+      "options": [
+        "Increased pancreatic enzyme secretion",
+        "Enhanced intestinal absorption",
+        "Decreased gastric motility",
+        "Increased bile secretion"
+      ],
+      "answer": 2,
+      "explanation": "Sympathetic stimulation reduces gastrointestinal motility and secretion, diverting blood flow to skeletal muscles.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "The enteric nervous system is often called the \"second brain\" because it:",
+      "options": [
+        "Controls heart rate",
+        "Can function independently of the central nervous system",
+        "Regulates hormone synthesis",
+        "Is responsible for taste perception"
+      ],
+      "answer": 1,
+      "explanation": "The enteric nervous system contains a large number of neurons that can coordinate digestive functions autonomously, without direct CNS input.",
+      "topic": "Neural and hormonal regulation of digestion"
+    },
+    {
+      "question": "Which specialized cells in the gastric mucosa are responsible for the synthesis and secretion of gastrin?",
+      "options": [
+        "G cells",
+        "D cells",
+        "Parietal cells",
+        "Chief cells"
+      ],
+      "answer": 0,
+      "explanation": "G cells, located in the pyloric antrum, produce and release gastrin in response to luminal stimuli.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "Gastrin primarily enhances the secretion of which gastric component?",
+      "options": [
+        "Pepsinogen",
+        "Hydrochloric acid",
+        "Intrinsic factor",
+        "Bile salts"
+      ],
+      "answer": 1,
+      "explanation": "Gastrin stimulates parietal cells to increase hydrochloric acid secretion, which is essential for protein digestion.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "The release of gastrin from G cells is most strongly stimulated by which gastric condition?",
+      "options": [
+        "Low gastric pH (acidic)",
+        "High gastric pH (alkaline)",
+        "Presence of bile acids in the stomach",
+        "Presence of pancreatic lipase"
+      ],
+      "answer": 1,
+      "explanation": "A rise in gastric pH (i.e., reduced acidity) signals the need for more acid, prompting G cells to secrete gastrin.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "Which hormone acts as a major inhibitor of gastrin release?",
+      "options": [
+        "Somatostatin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Gastric inhibitory peptide (GIP)"
+      ],
+      "answer": 0,
+      "explanation": "Somatostatin, released from D cells, provides negative feedback by suppressing gastrin secretion.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "Gastrin exerts its physiological effects through which type of receptor?",
+      "options": [
+        "G‑protein coupled CCK‑B receptor",
+        "Tyrosine‑kinase receptor",
+        "Ligand‑gated ion channel",
+        "Nuclear hormone receptor"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin binds to the CCK‑B (gastrin) receptor, a G‑protein coupled receptor, on parietal and enterochromaffin‑like cells.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "Patients with Zollinger‑Ellison syndrome develop severe peptic ulcer disease because of:",
+      "options": [
+        "Excessive gastrin secretion",
+        "Decreased gastric motility",
+        "Reduced acid secretion",
+        "Hypergastrinemia without clinical effect"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin‑producing tumors cause hypergastrinemia, leading to markedly increased gastric acid and recurrent peptic ulcers.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "What is the principal feedback mechanism that regulates gastrin secretion under normal conditions?",
+      "options": [
+        "Positive feedback by gastric acid",
+        "Negative feedback by gastric acid",
+        "Absence of feedback control",
+        "Positive feedback by CCK"
+      ],
+      "answer": 1,
+      "explanation": "Elevated gastric acid (low pH) inhibits further gastrin release, providing a negative feedback loop to prevent excess acidity.",
+      "topic": "Gastrin"
+    },
+    {
+      "question": "Secretin is primarily secreted by which cells of the gastrointestinal tract?",
+      "options": [
+        "G cells of stomach",
+        "I cells of duodenum",
+        "S cells of duodenum",
+        "K cells of ileum"
+      ],
+      "answer": 2,
+      "explanation": "S cells located in the mucosa of the duodenum are the main source of secretin secretion in response to acidic chyme.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "The principal effect of secretin on the pancreas is to:",
+      "options": [
+        "Increase secretion of digestive enzymes",
+        "Stimulate secretion of bicarbonate-rich fluid",
+        "Inhibit insulin release",
+        "Promote glucagon secretion"
+      ],
+      "answer": 1,
+      "explanation": "Secretin binds to receptors on pancreatic duct cells, causing a rise in cAMP that markedly enhances bicarbonate-rich fluid secretion to neutralize duodenal acid.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "Secretin influences gastric activity by:",
+      "options": [
+        "Inhibiting gastric acid secretion",
+        "Stimulating gastric acid secretion",
+        "Increasing gastric motility",
+        "Enhancing pepsinogen release"
+      ],
+      "answer": 0,
+      "explanation": "Secretin acts on gastric parietal cells and reduces gastrin release, thereby decreasing gastric acid secretion and helping protect the duodenum from excess acidity.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "Binding of secretin to its receptor on pancreatic duct cells primarily activates which second messenger system?",
+      "options": [
+        "cAMP",
+        "IP3/DAG",
+        "Ca2+ influx",
+        "cGMP"
+      ],
+      "answer": 0,
+      "explanation": "The secretin receptor is a G‑protein‑coupled receptor that stimulates adenylate cyclase, raising intracellular cAMP levels to promote bicarbonate secretion.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "Secretin release is triggered mainly by:",
+      "options": [
+        "High osmolarity of chyme in duodenum",
+        "Low pH of duodenal contents",
+        "Presence of fatty acids in duodenum",
+        "Distension of the stomach"
+      ],
+      "answer": 1,
+      "explanation": "Acidic chyme (pH < 4) entering the duodenum is the principal stimulus for S‑cells to secrete secretin.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "Which of the following statements correctly differentiates the actions of secretin and cholecystokinin (CCK)?",
+      "options": [
+        "Both stimulate pancreatic enzyme secretion equally",
+        "Secretin stimulates bile secretion while CCK contracts the gallbladder",
+        "Secretin primarily promotes bicarbonate secretion; CCK primarily stimulates enzyme secretion and gallbladder contraction",
+        "CCK inhibits pancreatic secretion whereas secretin stimulates it"
+      ],
+      "answer": 2,
+      "explanation": "Secretin mainly induces pancreatic bicarbonate secretion and bile secretion, whereas CCK mainly triggers pancreatic enzyme release and gallbladder contraction.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "In the clinical secretin stimulation test, the measurement of which pancreatic secretion is most indicative of normal secretin response?",
+      "options": [
+        "Amylase activity",
+        "Bicarbonate concentration",
+        "Lipase activity",
+        "Trypsinogen level"
+      ],
+      "answer": 1,
+      "explanation": "The test evaluates the rise in pancreatic bicarbonate output after secretin administration; a normal increase confirms intact secretin‑mediated ductal function.",
+      "topic": "Secretin"
+    },
+    {
+      "question": "Which enteroendocrine cells are the primary source of cholecystokinin (CCK) in the gastrointestinal tract?",
+      "options": [
+        "I cells of the duodenum",
+        "G cells of the stomach",
+        "S cells of the duodenum",
+        "K cells of the jejunum"
+      ],
+      "answer": 0,
+      "explanation": "I cells, located mainly in the duodenal mucosa, synthesize and secrete CCK in response to luminal nutrients.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "The most potent physiological stimulus for CCK release from the intestinal mucosa is:",
+      "options": [
+        "Low gastric pH",
+        "High glucose concentration in the jejunum",
+        "Presence of fatty acids and amino acids in the duodenum",
+        "Bile salts in the ileum"
+      ],
+      "answer": 2,
+      "explanation": "Fatty acids (especially long‑chain) and partially digested proteins directly stimulate I cells to release CCK, a key signal for digestion of fats and proteins.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "What is the immediate effect of CCK on the gallbladder?",
+      "options": [
+        "Relaxation of the gallbladder wall",
+        "Contraction of the gallbladder leading to bile ejection",
+        "No effect on gallbladder motility",
+        "Stimulation of bile synthesis by hepatocytes"
+      ],
+      "answer": 1,
+      "explanation": "CCK binds to CCK‑A receptors on gallbladder smooth muscle, causing contraction and expulsion of stored bile into the duodenum.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "How does CCK influence pancreatic secretions?",
+      "options": [
+        "Inhibits pancreatic enzyme release",
+        "Stimulates pancreatic acinar cells to secrete digestive enzymes",
+        "Stimulates ductal cells to release bicarbonate-rich fluid",
+        "Has no effect on the pancreas"
+      ],
+      "answer": 1,
+      "explanation": "CCK acts on CCK‑A receptors of pancreatic acinar cells, promoting the secretion of proteases, lipases, and amylase essential for nutrient digestion.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "Which of the following describes the central (brain) action of CCK related to food intake?",
+      "options": [
+        "Stimulates ghrelin release and increases appetite",
+        "Acts on the hypothalamus to reduce food intake, producing satiety",
+        "Increases gastric emptying rate, promoting faster nutrient delivery",
+        "Has no central effect; actions are limited to the gut"
+      ],
+      "answer": 1,
+      "explanation": "CCK reaches the hypothalamus via the bloodstream and vagal afferents, activating satiety pathways that suppress further eating.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "The receptor that mediates most peripheral actions of CCK, such as gallbladder contraction and pancreatic enzyme secretion, is:",
+      "options": [
+        "A tyrosine‑kinase receptor",
+        "The G protein‑coupled CCK‑A (CCK1) receptor",
+        "An ion‑channel receptor",
+        "A nuclear hormone receptor"
+      ],
+      "answer": 1,
+      "explanation": "CCK‑A (also called CCK1) is a GPCR expressed on gallbladder, pancreas, and vagal afferents, transducing CCK’s digestive effects.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "CCK modulates gastric motility by:",
+      "options": [
+        "Accelerating gastric emptying",
+        "Slowing gastric emptying",
+        "Having no effect on gastric motility",
+        "Stimulating gastric acid secretion directly"
+      ],
+      "answer": 1,
+      "explanation": "By acting on vagal afferents and central pathways, CCK delays gastric emptying, allowing adequate time for duodenal digestion of fats and proteins.",
+      "topic": "Cholecystokinin"
+    },
+    {
+      "question": "Enterogastrone is primarily secreted by which part of the gastrointestinal tract?",
+      "options": [
+        "Duodenum",
+        "Stomach",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 0,
+      "explanation": "Enterogastrone is released from the mucosal cells of the duodenum in response to luminal nutrients, especially fats.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "The main stimulus for the release of enterogastrone is:",
+      "options": [
+        "Presence of fats in the duodenum",
+        "Low pH in the stomach",
+        "Distension of the large intestine",
+        "Presence of glucose in the jejunum"
+      ],
+      "answer": 0,
+      "explanation": "Fats entering the duodenum trigger the secretion of enterogastrone, which helps modulate gastric activity.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "Enterogastrone exerts its primary effect on the stomach by:",
+      "options": [
+        "Inhibiting gastric acid secretion",
+        "Stimulating gastric acid secretion",
+        "Increasing gastric motility",
+        "Enhancing pepsinogen release"
+      ],
+      "answer": 0,
+      "explanation": "Enterogastrone acts as a negative feedback hormone, reducing gastric HCl secretion to protect the duodenal mucosa.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "Enterogastrone belongs to which class of hormones?",
+      "options": [
+        "Peptide hormones",
+        "Steroid hormones",
+        "Amines",
+        "Lipid-derived hormones"
+      ],
+      "answer": 0,
+      "explanation": "Like most gut hormones, enterogastrone is a peptide hormone synthesized as a larger precursor and then cleaved to its active form.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "Which of the following best describes the feedback loop involving enterogastrone?",
+      "options": [
+        "Negative feedback that reduces gastric secretion when chyme enters the duodenum",
+        "Positive feedback that enhances gastric secretion after a meal",
+        "Autocrine stimulation of duodenal cells to increase enzyme release",
+        "Paracrine stimulation of pancreatic acinar cells"
+      ],
+      "answer": 0,
+      "explanation": "Enterogastrone provides negative feedback: its release in the duodenum signals the stomach to lower acid and motility, preventing excess acidity.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "Enterogastrone has an inhibitory effect on gastric motility. This action helps to:",
+      "options": [
+        "Allow sufficient time for neutralization of gastric acid in the duodenum",
+        "Accelerate gastric emptying",
+        "Increase the rate of protein digestion in the stomach",
+        "Promote secretion of intrinsic factor"
+      ],
+      "answer": 0,
+      "explanation": "By slowing gastric motility, enterogastrone ensures that the acidic chyme is adequately neutralized before it progresses further, protecting the intestinal mucosa.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "A deficiency of enterogastrone would most likely lead to:",
+      "options": [
+        "Excessive gastric acid secretion and duodenal ulceration",
+        "Reduced gastric acid secretion and malabsorption",
+        "Increased intestinal motility causing diarrhoea",
+        "Decreased pancreatic enzyme secretion"
+      ],
+      "answer": 0,
+      "explanation": "Without the inhibitory action of enterogastrone, gastric acid may be secreted in excess, predisposing to duodenal ulcer formation.",
+      "topic": "Enterogastrone"
+    },
+    {
+      "question": "A 45-year-old woman presents with chronic constipation. Which of the following is the most common physiological cause of constipation?",
+      "options": [
+        "Increased colonic water absorption",
+        "Decreased intestinal motility",
+        "Excessive secretion of gastric acid",
+        "Hypersecretion of pancreatic enzymes"
+      ],
+      "answer": 1,
+      "explanation": "Reduced peristaltic activity slows transit, allowing more water reabsorption and leading to hard stools, which is the predominant physiological basis of constipation.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "Secretory diarrhoea is characterized by large‑volume watery stools that persist despite fasting. Which toxin is most classically associated with this type of diarrhoea?",
+      "options": [
+        "Cholera toxin",
+        "Enterotoxin of enterotoxigenic E. coli (ST)",
+        "Shiga toxin",
+        "Botulinum toxin"
+      ],
+      "answer": 0,
+      "explanation": "Cholera toxin activates adenylate cyclase, raising cAMP levels and causing massive Cl⁻ and water secretion into the lumen, producing secretory diarrhoea.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "In a patient with obstructive (post‑hepatic) jaundice, which serum bilirubin pattern is expected?",
+      "options": [
+        "Predominantly unconjugated bilirubin elevation",
+        "Predominantly conjugated bilirubin elevation",
+        "Normal bilirubin with elevated alkaline phosphatase",
+        "Decreased bilirubin with increased ALT"
+      ],
+      "answer": 1,
+      "explanation": "Obstruction of bile flow prevents excretion of conjugated bilirubin, leading to a marked rise in serum conjugated (direct) bilirubin.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "Celiac disease leads to malabsorption due to villous atrophy. Which micronutrient deficiency is most commonly seen and explains the associated anemia?",
+      "options": [
+        "Vitamin B12",
+        "Iron",
+        "Calcium",
+        "Vitamin D"
+      ],
+      "answer": 1,
+      "explanation": "Loss of duodenal villi reduces iron absorption, making iron‑deficiency anemia the most frequent hematologic manifestation of celiac disease.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "The chemoreceptor trigger zone (CTZ) that mediates vomiting is located in which part of the brain?",
+      "options": [
+        "Nucleus tractus solitarius",
+        "Area postrema",
+        "Dorsal vagal complex",
+        "Medullary reticular formation"
+      ],
+      "answer": 1,
+      "explanation": "The CTZ resides in the area postrema, a circumventricular organ lacking a blood‑brain barrier, allowing it to detect emetogenic substances in the blood.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "A patient with dyspepsia due to hyperacidity is prescribed a drug that irreversibly inhibits the H+/K+ ATPase pump. Which of the following drugs is it?",
+      "options": [
+        "Ranitidine",
+        "Omeprazole",
+        "Sucralfate",
+        "Metoclopramide"
+      ],
+      "answer": 1,
+      "explanation": "Omeprazole is a proton‑pump inhibitor that covalently binds and irreversibly blocks the gastric H+/K+ ATPase, reducing acid secretion.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "Steatorrhea (fatty stools) is a hallmark of malabsorption of fats. Which of the following conditions most directly impairs the formation of chylomicrons?",
+      "options": [
+        "Lactase deficiency",
+        "Pancreatic lipase deficiency",
+        "Defective enterocyte re‑esterification of fatty acids",
+        "Reduced bile salt secretion"
+      ],
+      "answer": 2,
+      "explanation": "Chylomicron assembly requires re‑esterification of absorbed fatty acids and monoglycerides into triglycerides within enterocytes; a defect in this step prevents chylomicron formation, leading to fat loss in stool.",
+      "topic": "Digestive disorders"
+    },
+    {
+      "question": "Which of the following best defines indigestion (dyspepsia)?",
+      "options": [
+        "Pain in the lower abdomen due to colonic spasm",
+        "Discomfort in the epigastrium with early satiety, bloating and nausea",
+        "Frequent watery stools",
+        "Persistent vomiting"
+      ],
+      "answer": 1,
+      "explanation": "Indigestion, or dyspepsia, is characterised by epigastric discomfort often accompanied by early satiety, bloating and nausea, without a specific organic cause.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "The most common physiological cause of functional dyspepsia is:",
+      "options": [
+        "Hypersecretion of gastric acid",
+        "Impaired gastric emptying",
+        "Excessive bile reflux",
+        "Pancreatic enzyme deficiency"
+      ],
+      "answer": 1,
+      "explanation": "Delayed or impaired gastric emptying leads to prolonged gastric distension, which is the predominant mechanism in functional dyspepsia.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "Which hormone's excessive secretion is most likely to aggravate symptoms of indigestion due to increased gastric acid?",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin",
+        "Enteroglucagon"
+      ],
+      "answer": 1,
+      "explanation": "Gastrin stimulates parietal cells to secrete hydrochloric acid; excess gastrin can worsen epigastric pain and dyspeptic symptoms.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "In a patient with dyspepsia, endoscopy reveals normal mucosa. According to Rome IV criteria, this condition is classified as:",
+      "options": [
+        "Organic dyspepsia",
+        "Functional dyspepsia",
+        "Peptic ulcer disease",
+        "Gastroesophageal reflux disease"
+      ],
+      "answer": 1,
+      "explanation": "When endoscopic findings are normal and symptoms persist, the diagnosis is functional dyspepsia as per Rome IV guidelines.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "Which lifestyle modification is least likely to improve symptoms of functional indigestion?",
+      "options": [
+        "Reducing caffeine intake",
+        "Eating large meals quickly",
+        "Regular moderate exercise",
+        "Avoiding lying down after meals"
+      ],
+      "answer": 1,
+      "explanation": "Consuming large meals rapidly increases gastric distension and can exacerbate dyspeptic symptoms, whereas the other measures are beneficial.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "A drug that antagonizes H2 receptors would relieve indigestion primarily by:",
+      "options": [
+        "Enhancing pancreatic enzyme secretion",
+        "Reducing gastric acid secretion",
+        "Increasing gastric motility",
+        "Blocking bile acid reabsorption"
+      ],
+      "answer": 1,
+      "explanation": "H2‑receptor antagonists inhibit histamine‑mediated stimulation of parietal cells, thereby decreasing gastric acid output and alleviating dyspepsia.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "Which clinical feature distinguishes dyspepsia due to peptic ulcer disease from functional dyspepsia?",
+      "options": [
+        "Epigastric pain relieved by food",
+        "Pain that worsens at night or on an empty stomach",
+        "Bloating after meals",
+        "Early satiety"
+      ],
+      "answer": 1,
+      "explanation": "Ulcer‑related dyspepsia often presents with pain that is aggravated by an empty stomach or nocturnally, unlike functional dyspepsia where pain is usually related to meals.",
+      "topic": "Indigestion"
+    },
+    {
+      "question": "Which of the following is the most common dietary factor contributing to functional constipation in adolescents?",
+      "options": [
+        "Low dietary fiber intake",
+        "Hyperthyroidism",
+        "Hypercalcemia",
+        "Small intestinal bacterial overgrowth"
+      ],
+      "answer": 0,
+      "explanation": "Inadequate intake of dietary fibre reduces stool bulk and slows colonic transit, making it the leading dietary cause of functional constipation.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "In slow‑transit constipation, which segment of the colon is most frequently implicated for delayed movement of feces?",
+      "options": [
+        "Ascending colon",
+        "Transverse colon",
+        "Sigmoid colon",
+        "Rectum"
+      ],
+      "answer": 2,
+      "explanation": "The sigmoid colon, with its narrow lumen and high muscular activity, is commonly the site where fecal stasis occurs in slow‑transit constipation.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "Which gut hormone decreases colonic motility and can contribute to constipation when released in excess?",
+      "options": [
+        "Motilin",
+        "Gastrin",
+        "Serotonin",
+        "Peptide YY"
+      ],
+      "answer": 3,
+      "explanation": "Peptide YY is released post‑prandially and slows gastrointestinal motility; elevated levels are associated with reduced colonic transit and constipation.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "A patient presents with hard, lumpy stools occurring less than three times a week. The first line of management should be:",
+      "options": [
+        "High-fiber diet and increased fluid intake",
+        "Osmotic laxative (polyethylene glycol)",
+        "Stimulant laxative (senna)",
+        "Enema"
+      ],
+      "answer": 0,
+      "explanation": "Lifestyle modification with a high‑fiber diet and adequate hydration is the initial, safest approach for uncomplicated functional constipation.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "Which statement correctly describes the physiological role of the ileocecal valve in relation to constipation?",
+      "options": [
+        "It prevents backflow of colonic contents into the ileum",
+        "Its dysfunction leads to rapid colonic transit",
+        "It secretes mucus to lubricate stool",
+        "It is innervated solely by the vagus nerve"
+      ],
+      "answer": 0,
+      "explanation": "The ileocecal valve acts as a one‑way gate, preventing retrograde movement of colonic material into the small intestine, thereby maintaining normal transit.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "In opioid‑induced constipation, which peripheral opioid receptor antagonist is used to relieve constipation without affecting central analgesia?",
+      "options": [
+        "Naloxone",
+        "Naltrexone",
+        "Methylnaltrexone",
+        "Nalmefene"
+      ],
+      "answer": 2,
+      "explanation": "Methylnaltrexone is a quaternary opioid antagonist that does not cross the blood‑brain barrier, reversing peripheral opioid effects on gut motility while preserving analgesia.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of mechanical (obstructive) constipation?",
+      "options": [
+        "Presence of palpable abdominal mass",
+        "Normal anorectal sensation",
+        "Reduced rectal compliance",
+        "Stool retention in sigmoid colon"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical obstruction usually alters anorectal sensation; normal sensation is more characteristic of functional constipation, not obstructive causes.",
+      "topic": "Constipation"
+    },
+    {
+      "question": "Cholera toxin causes massive watery diarrhoea primarily by which cellular mechanism?",
+      "options": [
+        "Increased intracellular cAMP leading to Cl‑ secretion into the lumen",
+        "Decreased intracellular cAMP reducing water absorption",
+        "Increased intracellular Ca²⁺ causing intestinal smooth‑muscle spasm",
+        "Inhibition of the Na⁺/glucose cotransporter"
+      ],
+      "answer": 0,
+      "explanation": "The toxin ADP‑ribosylates Gs protein, raising cAMP levels, which activates CFTR channels causing Cl⁻ secretion and osmotic water loss.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "Lactose intolerance produces osmotic diarrhoea because the undigested disaccharide remains mainly in which part of the small intestine?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "Lactase activity is highest in the jejunal brush border; its deficiency leaves lactose in the jejunal lumen, creating an osmotic gradient that draws water.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of inflammatory (dysenteric) diarrhoea?",
+      "options": [
+        "Presence of blood in stool",
+        "Presence of mucus in stool",
+        "Increased fecal leukocytes",
+        "High stool osmotic gap"
+      ],
+      "answer": 3,
+      "explanation": "Inflammatory diarrhoea usually has a low osmotic gap; a high osmotic gap indicates osmotic diarrhoea, not inflammation.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "Malabsorption of dietary fats most characteristically results in which type of stool?",
+      "options": [
+        "Melena",
+        "Steatorrhea",
+        "Dysentery",
+        "Constipation"
+      ],
+      "answer": 1,
+      "explanation": "Fat malabsorption produces bulky, foul‑smelling, oily stools known as steatorrhea.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "In secretory diarrhoea caused by enterotoxins, which intestinal transporter remains functional and is exploited by oral rehydration solutions?",
+      "options": [
+        "Na⁺/glucose cotransporter (SGLT1)",
+        "Na⁺/H⁺ exchanger (NHE3)",
+        "Cl⁻/HCO₃⁻ exchanger (DRA)",
+        "Renal K⁺ channel (ROMK)"
+      ],
+      "answer": 0,
+      "explanation": "SGLT1 is unaffected; glucose in ORS facilitates Na⁺ absorption, which drives water reabsorption despite the secretory stimulus.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "The most common cause of acute watery diarrhoea in children in developing countries is:",
+      "options": [
+        "Rotavirus",
+        "Enterotoxigenic Escherichia coli",
+        "Shigella dysenteriae",
+        "Giardia lamblia"
+      ],
+      "answer": 0,
+      "explanation": "Rotavirus infection accounts for the majority of severe acute watery diarrhoea episodes in young children worldwide, especially in low‑resource settings.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "The primary therapeutic goal of oral rehydration solution (ORS) in acute diarrhoea is to:",
+      "options": [
+        "Provide antibiotics to eradicate the pathogen",
+        "Replace lost electrolytes only",
+        "Provide glucose to enhance Na⁺ absorption via SGLT1",
+        "Reduce intestinal motility"
+      ],
+      "answer": 2,
+      "explanation": "Glucose in ORS stimulates the Na⁺/glucose cotransporter, promoting Na⁺ and water uptake, which is the main mechanism for rehydration.",
+      "topic": "Diarrhoea"
+    },
+    {
+      "question": "Which part of the brain coordinates the act of vomiting?",
+      "options": [
+        "Area postrema",
+        "Vomiting center in the medulla",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "answer": 1,
+      "explanation": "The vomiting center located in the reticular formation of the medulla integrates afferent signals and generates the coordinated motor pattern of vomiting.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "Which neurotransmitter released from enterochromaffin cells of the gut triggers the chemoreceptor trigger zone leading to vomiting?",
+      "options": [
+        "Serotonin (5-HT)",
+        "Acetylcholine",
+        "Dopamine",
+        "Histamine"
+      ],
+      "answer": 0,
+      "explanation": "Serotonin released from enterochromaffin cells activates 5‑HT3 receptors on vagal afferents and the chemoreceptor trigger zone, initiating the emetic response.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "Which of the following is NOT a common cause of vomiting in digestive disorders?",
+      "options": [
+        "Gastric outlet obstruction",
+        "Hyperthyroidism",
+        "Motion sickness",
+        "Food poisoning"
+      ],
+      "answer": 1,
+      "explanation": "Hyperthyroidism may cause increased metabolism but is not a typical direct cause of vomiting, unlike the other listed gastrointestinal or vestibular triggers.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "Repeated vomiting leads to loss of gastric acid. Which acid‑base disturbance is most likely to develop?",
+      "options": [
+        "Metabolic acidosis",
+        "Respiratory alkalosis",
+        "Metabolic alkalosis",
+        "Respiratory acidosis"
+      ],
+      "answer": 2,
+      "explanation": "Loss of HCl from the stomach results in a net loss of hydrogen ions, producing a primary metabolic alkalosis that may be compounded by hypoventilation.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "Which hormone released in response to gastric distension can enhance the vomiting reflex?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin is secreted by G‑cells when the stomach is distended and can stimulate gastric motility and increase the sensitivity of the vomiting center.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "The primary afferent pathway that conveys emetic signals from the gastrointestinal tract to the vomiting center uses which cranial nerve?",
+      "options": [
+        "Vagus (CN X)",
+        "Glossopharyngeal (CN IX)",
+        "Facial (CN VII)",
+        "Trigeminal (CN V)"
+      ],
+      "answer": 0,
+      "explanation": "Vagal afferents (CN X) transmit mechanical and chemical irritation from the gut to the nucleus tractus solitarius, which then projects to the vomiting center.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "Which anti‑emetic does NOT primarily act by antagonizing dopamine D2 receptors in the chemoreceptor trigger zone?",
+      "options": [
+        "Ondansetron",
+        "Metoclopramide",
+        "Domperidone",
+        "Prochlorperazine"
+      ],
+      "answer": 0,
+      "explanation": "Ondansetron is a selective 5‑HT3 receptor antagonist; the other listed drugs exert their anti‑emetic effect mainly through dopamine D2 receptor blockade.",
+      "topic": "Vomiting"
+    },
+    {
+      "question": "What is the primary cellular site where bilirubin is conjugated to form bilirubin diglucuronide?",
+      "options": [
+        "Hepatocytes",
+        "Gallbladder epithelial cells",
+        "Duodenal enterocytes",
+        "Splenic macrophages"
+      ],
+      "answer": 0,
+      "explanation": "Conjugation of bilirubin occurs in the cytosol of hepatocytes where the enzyme UDP‑glucuronosyltransferase adds glucuronic acid residues.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "A full‑term neonate develops jaundice on day 3 of life with a total serum bilirubin of 12 mg/dL, predominantly unconjugated, and no evidence of hemolysis. What is the most likely diagnosis?",
+      "options": [
+        "Physiological jaundice of the newborn",
+        "Crigler‑Najjar type I syndrome",
+        "Neonatal hemolysis due to ABO incompatibility",
+        "Biliary atresia"
+      ],
+      "answer": 0,
+      "explanation": "Physiological jaundice appears after 48 h, peaks around day 3–5, is mainly unconjugated and resolves spontaneously; the other conditions are either rare, present earlier, or cause conjugated hyperbilirubinemia.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "Which laboratory pattern best characterises obstructive (post‑hepatic) jaundice?",
+      "options": [
+        "Predominantly conjugated bilirubin elevation with raised alkaline phosphatase",
+        "Predominantly unconjugated bilirubin elevation with normal alkaline phosphatase",
+        "Low serum bilirubin with markedly raised AST",
+        "Normal bilirubin with isolated increase in γ‑glutamyl transferase"
+      ],
+      "answer": 0,
+      "explanation": "Obstructive jaundice blocks bile flow, leading to accumulation of conjugated bilirubin in blood and a cholestatic picture with high alkaline phosphatase (and often γ‑GT).",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "Which hereditary disorder is associated with conjugated hyperbilirubinemia due to impaired hepatic excretion of bilirubin, but without hemolysis?",
+      "options": [
+        "Dubin‑Johnson syndrome",
+        "Gilbert's syndrome",
+        "Crigler‑Najjar type II",
+        "Hereditary spherocytosis"
+      ],
+      "answer": 0,
+      "explanation": "Dubin‑Johnson syndrome is a hepatic transport defect causing conjugated (direct) hyperbilirubinemia; the liver appears black, and there is no hemolysis.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "In a patient with chronic hemolytic anemia, increased urobilinogen is found in both stool and urine. This pattern indicates which type of jaundice?",
+      "options": [
+        "Pre‑hepatic (hemolytic) jaundice",
+        "Hepatic (hepatocellular) jaundice",
+        "Post‑hepatic (obstructive) jaundice",
+        "Mixed jaundice"
+      ],
+      "answer": 0,
+      "explanation": "Excessive breakdown of heme releases large amounts of unconjugated bilirubin; the liver conjugates it, increasing urobilinogen excretion in stool and urine, typical of pre‑hepatic jaundice.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "Mild, intermittent unconjugated hyperbilirubinemia in otherwise healthy adults is most commonly due to a reduced activity of which enzyme?",
+      "options": [
+        "UDP‑glucuronosyltransferase (UGT1A1)",
+        "Heme oxygenase",
+        "Bilirubin reductase",
+        "Glucose‑6‑phosphate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Gilbert's syndrome results from a mild decrease in UGT1A1 activity, leading to reduced bilirubin conjugation and occasional mild jaundice.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "In obstructive jaundice, which pigment predominates in the bile that accumulates in the gallbladder?",
+      "options": [
+        "Biliverdin",
+        "Bilirubin",
+        "Urobilin",
+        "Stercobilin"
+      ],
+      "answer": 1,
+      "explanation": "When bile flow is blocked, conjugated bilirubin accumulates in the biliary tree and gallbladder; other pigments are products of downstream bacterial metabolism and are reduced in obstructive states.",
+      "topic": "Jaundice"
+    },
+    {
+      "question": "Which of the following is the most common cause of fat malabsorption in adults?",
+      "options": [
+        "Celiac disease",
+        "Chronic pancreatitis",
+        "Lactose intolerance",
+        "Ulcerative colitis"
+      ],
+      "answer": 1,
+      "explanation": "Chronic pancreatitis leads to deficiency of pancreatic lipase, causing impaired hydrolysis and absorption of dietary fats, making it the common cause of fat malabsorption in adults.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "In malabsorption due to celiac disease, which part of the small intestine is primarily affected leading to reduced absorption?",
+      "options": [
+        "Duodenum",
+        "Ileum",
+        "Jejunum",
+        "Colon"
+      ],
+      "answer": 0,
+      "explanation": "Celiac disease characteristically damages the proximal small intestine, especially the duodenum, where villous atrophy markedly reduces absorptive surface.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "A patient with steatorrhea has normal pancreatic enzyme levels but low serum albumin and fat‑soluble vitamin deficiencies. Which mechanism is most likely?",
+      "options": [
+        "Lymphatic obstruction",
+        "Mucosal brush border enzyme deficiency",
+        "Bile acid deficiency",
+        "Rapid intestinal transit"
+      ],
+      "answer": 0,
+      "explanation": "Normal pancreatic enzymes rule out exocrine insufficiency; low serum proteins and fat‑soluble vitamin loss suggest impaired transport of absorbed lipids via the lymphatics, as seen in intestinal lymphangiectasia.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "Which laboratory finding is most indicative of carbohydrate malabsorption?",
+      "options": [
+        "Low blood glucose after oral glucose tolerance test",
+        "Presence of reducing substances in stool",
+        "Elevated serum triglycerides",
+        "Increased fecal fat"
+      ],
+      "answer": 1,
+      "explanation": "Reducing substances (e.g., lactose) in stool indicate that carbohydrates are not being absorbed and are fermented by colonic bacteria, a hallmark of carbohydrate malabsorption.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "In tropical sprue, the primary defect leading to malabsorption is:",
+      "options": [
+        "Damage to villi causing reduced surface area",
+        "Pancreatic exocrine insufficiency",
+        "Bile salt deconjugation by bacteria",
+        "Hypersecretion of gastric acid"
+      ],
+      "answer": 0,
+      "explanation": "Tropical sprue causes diffuse villous blunting in the small intestine, decreasing the absorptive surface and resulting in generalized malabsorption.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "Which hormone's secretion is most likely reduced in patients with extensive small intestinal mucosal damage causing malabsorption?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 1,
+      "explanation": "Secretin is released by duodenal mucosa in response to acidic chyme; extensive mucosal injury diminishes its release, affecting bicarbonate secretion and overall digestion.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "A child presents with chronic diarrhea, failure to thrive, and anemia. Lab shows low serum folate and vitamin B12. Which segment of intestine's malabsorption explains the B12 deficiency?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin B12‑intrinsic factor complexes are absorbed in the terminal ileum; damage or disease affecting this segment leads to B12 deficiency.",
+      "topic": "Malabsorption"
+    },
+    {
+      "question": "Which of the following correctly pairs a digestive hormone with its primary action?",
+      "options": [
+        "Gastrin – stimulates gastric motility",
+        "Secretin – stimulates pancreatic bicarbonate secretion",
+        "Cholecystokinin – inhibits pancreatic enzyme release",
+        "Enterogastrone – stimulates gastric acid secretion"
+      ],
+      "answer": 1,
+      "explanation": "Secretin is released by the duodenal mucosa in response to acidic chyme and primarily stimulates the pancreas to secrete bicarbonate-rich fluid.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "The main route for absorption of long‑chain fatty acids and monoglycerides from the intestine is:",
+      "options": [
+        "Direct entry into blood capillaries",
+        "Transport via lacteals as chylomicrons",
+        "Active transport into enterocytes then diffusion into portal blood",
+        "Endocytosis into lymphatic vessels"
+      ],
+      "answer": 1,
+      "explanation": "Long‑chain fatty acids and monoglycerides are re‑esterified into triglycerides, packed into chylomicrons and enter the lacteals (intestinal lymphatics) before reaching the systemic circulation.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "In the small intestine, the dramatic increase in surface area for absorption is primarily due to:",
+      "options": [
+        "Length of the intestine alone",
+        "Presence of villi and microvilli",
+        "Thickness of the mucosal layer",
+        "Number of goblet cells"
+      ],
+      "answer": 1,
+      "explanation": "Villi and the brush‑border microvilli multiply the absorptive surface manyfold, allowing efficient uptake of nutrients.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "Impaired absorption of bile salts leading to fat malabsorption is most directly associated with which condition?",
+      "options": [
+        "Celiac disease",
+        "Lactose intolerance",
+        "Crohn's disease affecting the ileum",
+        "Irritable bowel syndrome"
+      ],
+      "answer": 2,
+      "explanation": "The terminal ileum reabsorbs bile salts; inflammation or resection in Crohn's disease reduces this reabsorption, causing bile‑salt loss and consequent fat malabsorption.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "A patient with chronic constipation most likely has which of the following physiological changes in the colon?",
+      "options": [
+        "Increased water absorption in colon",
+        "Decreased water absorption in colon",
+        "Hypersecretion of bicarbonate into the lumen",
+        "Reduced secretion of mucus"
+      ],
+      "answer": 0,
+      "explanation": "Excessive reabsorption of water from the colonic contents makes stools hard and difficult to pass, producing constipation.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "Which statement about the large intestine is FALSE?",
+      "options": [
+        "It absorbs most dietary fats",
+        "It absorbs water and electrolytes",
+        "It houses gut microbiota that synthesize certain vitamins",
+        "It forms feces"
+      ],
+      "answer": 0,
+      "explanation": "Fat digestion and absorption occur mainly in the small intestine; the large intestine does not absorb significant amounts of dietary fats.",
+      "topic": "Integrated digestion revision"
+    },
+    {
+      "question": "After a fatty meal enters the duodenum, which hormonal sequence correctly describes the immediate regulatory response?",
+      "options": [
+        "CCK released → gallbladder contraction → pancreatic enzyme secretion",
+        "Secretin released → inhibition of gastric acid → bile secretion",
+        "Gastrin released → increase gastric motility → pancreatic bicarbonate release",
+        "Enterogastrone released → inhibition of gastric emptying → stimulation of intestinal motility"
+      ],
+      "answer": 0,
+      "explanation": "Fat in the duodenum stimulates CCK release, which causes gallbladder contraction and stimulates the pancreas to secrete digestive enzymes.",
+      "topic": "Integrated digestion revision"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 28,
+    "mcqCount": 195
+  }
+}

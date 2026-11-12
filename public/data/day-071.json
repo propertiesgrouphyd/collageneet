@@ -1,0 +1,2794 @@
+{
+  "day": 71,
+  "courseDate": "2026-11-08",
+  "publishAt": "2026-11-08T06:00:00+05:30",
+  "title": "Day 71: Human Excretory System – Kidneys and Urinary System",
+  "introduction": "This lesson covers the complete spectrum of excretory processes in humans, focusing on nitrogenous waste types, the anatomy of the urinary system, and the detailed structure and function of the nephron as per NCERT guidelines.",
+  "sections": [
+    {
+      "topic": "Excretion and its importance",
+      "heading": "Definition and Physiological Significance",
+      "content": "Excretion is the removal of metabolic waste products and excess substances from the body to maintain internal chemical stability (homeostasis). It prevents toxic accumulation, regulates osmolarity, and contributes to acid‑base balance, essential for normal cellular function.",
+      "keyPoints": [
+        "Excretion maintains homeostasis by eliminating toxic metabolites",
+        "Helps regulate water, electrolyte, and pH balance"
+      ],
+      "neetTips": [
+        "Link excretion defects to clinical conditions like renal failure in NEET questions"
+      ]
+    },
+    {
+      "topic": "Nitrogenous excretory wastes",
+      "heading": "Major Forms of Nitrogen Elimination",
+      "content": "Nitrogenous wastes are primarily ammonia, urea, and uric acid. Their chemical nature determines solubility, toxicity, and the energy cost of synthesis, influencing the excretory strategy of an organism.",
+      "keyPoints": [
+        "Three principal nitrogenous wastes: ammonia, urea, uric acid",
+        "Choice depends on habitat, water availability, and metabolic cost"
+      ],
+      "neetTips": [
+        "Remember the hierarchy of toxicity → solubility → energy cost for NEET comparisons"
+      ]
+    },
+    {
+      "topic": "Ammonia",
+      "heading": "Highly Toxic, Highly Soluble Waste",
+      "content": "Ammonia (NH₃) is directly excreted by many aquatic animals. It is extremely toxic and requires copious water for dilution, making it unsuitable for terrestrial life.",
+      "keyPoints": [
+        "Ammonia is the most toxic nitrogenous waste",
+        "Requires large water volume for safe excretion"
+      ],
+      "neetTips": [
+        "Ammonotelic organisms are typically aquatic; recall this for classification questions"
+      ]
+    },
+    {
+      "topic": "Urea",
+      "heading": "Primary Human Nitrogenous Waste",
+      "content": "Urea (CO(NH₂)₂) is synthesized in the liver via the urea cycle. It is less toxic than ammonia, highly soluble, and can be concentrated in urine, making it ideal for terrestrial mammals.",
+      "keyPoints": [
+        "Urea synthesis occurs in the liver (urea cycle)",
+        "Low toxicity, high solubility, economical to excrete"
+      ],
+      "neetTips": [
+        "Ureotelism is the dominant strategy in humans; focus on the urea cycle steps for NEET"
+      ]
+    },
+    {
+      "topic": "Uric acid",
+      "heading": "Low‑Solubility Waste of Birds and Reptiles",
+      "content": "Uric acid (C₅H₄N₄O₃) is excreted as a paste or solid, conserving water. Its low solubility limits toxicity but requires more metabolic energy to produce.",
+      "keyPoints": [
+        "Uric acid is poorly soluble, excreted as paste/solid",
+        "Conserves water, higher synthesis cost"
+      ],
+      "neetTips": [
+        "Uricotelic excretion is characteristic of birds, reptiles, and insects – useful for comparative questions"
+      ]
+    },
+    {
+      "topic": "Ammonotelism",
+      "heading": "Excretion of Ammonia as Primary Waste",
+      "content": "Ammonotelic organisms eliminate nitrogen mainly as ammonia. This strategy is efficient in water‑rich environments where dilution is easy.",
+      "keyPoints": [
+        "Ammonia is the sole nitrogenous waste",
+        "Common in aquatic animals"
+      ],
+      "neetTips": [
+        "Link ammonotelism with habitats lacking water‑conserving adaptations"
+      ]
+    },
+    {
+      "topic": "Ureotelism",
+      "heading": "Excretion of Urea as Primary Waste",
+      "content": "Ureotelic animals, including humans, convert ammonia to urea before excretion, balancing toxicity reduction with moderate water use.",
+      "keyPoints": [
+        "Urea is the main nitrogenous waste in mammals",
+        "Allows concentration of urine"
+      ],
+      "neetTips": [
+        "Remember that humans are ureotelic – a frequent NEET fact"
+      ]
+    },
+    {
+      "topic": "Uricotelism",
+      "heading": "Excretion of Uric Acid as Primary Waste",
+      "content": "Uricotelic species excrete nitrogen as uric acid, enabling survival in arid conditions by minimizing water loss.",
+      "keyPoints": [
+        "Uric acid excretion conserves water",
+        "Typical of birds, reptiles, and many insects"
+      ],
+      "neetTips": [
+        "Uricotelism → low water loss; useful for adaptation questions"
+      ]
+    },
+    {
+      "topic": "Human excretory system",
+      "heading": "Overview of the Urinary System",
+      "content": "The human excretory system comprises kidneys, ureters, urinary bladder, and urethra. It filters blood, reabsorbs needed substances, and eliminates urine to maintain internal equilibrium.",
+      "keyPoints": [
+        "Four main components: kidneys, ureters, bladder, urethra",
+        "Functions: filtration, reabsorption, secretion, excretion"
+      ],
+      "neetTips": [
+        "Memorize the sequential flow: kidney → ureter → bladder → urethra"
+      ]
+    },
+    {
+      "topic": "Kidneys",
+      "heading": "Primary Organs of Filtration",
+      "content": "Each kidney is a bean‑shaped organ (~12 cm long) located retroperitoneally. They receive ~20% of cardiac output and contain ~1 – 1.5 million nephrons each.",
+      "keyPoints": [
+        "Kidneys filter ~180 L of plasma daily",
+        "Contain ~1 million nephrons per kidney"
+      ],
+      "neetTips": [
+        "Relate kidney blood flow to its high filtration capacity in NEET questions"
+      ]
+    },
+    {
+      "topic": "Ureters",
+      "heading": "Muscular Conduits to the Bladder",
+      "content": "Ureters are 25‑30 cm long, lined by transitional epithelium and surrounded by smooth muscle. Peristaltic waves propel urine from the renal pelvis to the bladder.",
+      "keyPoints": [
+        "Ureters exhibit peristalsis to move urine",
+        "Lined by transitional epithelium"
+      ],
+      "neetTips": [
+        "Peristaltic propulsion is a key point for functional anatomy"
+      ]
+    },
+    {
+      "topic": "Urinary bladder",
+      "heading": "Temporary Urine Reservoir",
+      "content": "The bladder is a distensible muscular sac (~400 mL capacity) composed of detrusor smooth muscle and lined by transitional epithelium, allowing expansion without leakage.",
+      "keyPoints": [
+        "Capacity ≈400 mL; can stretch up to 600 mL",
+        "Detrusor muscle contracts during micturition"
+      ],
+      "neetTips": [
+        "Bladder compliance and detrusor activity are often asked in physiology"
+      ]
+    },
+    {
+      "topic": "Urethra",
+      "heading": "Final Passage for Urine Expulsion",
+      "content": "In males, the urethra (~20 cm) traverses the penis and conveys both urine and semen; in females, it is short (~4 cm) and opens above the vaginal opening.",
+      "keyPoints": [
+        "Male urethra longer, serves dual function",
+        "Female urethra short, prone to infections"
+      ],
+      "neetTips": [
+        "Sex differences in urethral length are high‑yield for clinical NEET"
+      ]
+    },
+    {
+      "topic": "Position and structure of kidneys",
+      "heading": "Anatomical Location and External Features",
+      "content": "Kidneys lie between T12 and L3 vertebrae, one on each side of the vertebral column, protected by ribs and surrounded by perirenal fat and renal fascia.",
+      "keyPoints": [
+        "Retroperitoneal, between T12–L3",
+        "Encased by perirenal fat and renal fascia"
+      ],
+      "neetTips": [
+        "Remember the relation to ribs for radiological questions"
+      ]
+    },
+    {
+      "topic": "Renal capsule",
+      "heading": "Fibrous Cover of the Kidney",
+      "content": "The renal capsule is a tough, fibrous layer that protects the kidney from trauma and infection, lying directly beneath the perirenal fat.",
+      "keyPoints": [
+        "Fibrous, innermost protective layer",
+        "Provides mechanical support"
+      ],
+      "neetTips": [
+        "Capsule integrity is essential in renal pathology"
+      ]
+    },
+    {
+      "topic": "Cortex and medulla",
+      "heading": "Functional Zones of the Kidney",
+      "content": "The renal cortex contains glomeruli and proximal/distal tubules; the medulla houses the loops of Henle and collecting ducts organized into renal pyramids.",
+      "keyPoints": [
+        "Cortex: glomeruli, PCT, DCT",
+        "Medulla: loops of Henle, collecting ducts"
+      ],
+      "neetTips": [
+        "Cortex‑medulla distinction is crucial for understanding urine concentration"
+      ]
+    },
+    {
+      "topic": "Renal pelvis",
+      "heading": "Funnel‑Shaped Collecting Chamber",
+      "content": "The renal pelvis is a dilated proximal part of the ureter that receives urine from major calyces and channels it into the ureter.",
+      "keyPoints": [
+        "Acts as a funnel for urine",
+        "Continuous with ureter"
+      ],
+      "neetTips": [
+        "Renal pelvis stones are a common clinical scenario"
+      ]
+    },
+    {
+      "topic": "Calyces",
+      "heading": "Minor and Major Calyces",
+      "content": "Minor calyces receive urine from papillary ducts; several minor calyces merge to form a major calyx, which then drains into the renal pelvis.",
+      "keyPoints": [
+        "Minor calyx → papillary duct",
+        "Major calyx formed by merging minors"
+      ],
+      "neetTips": [
+        "Visualize the urine flow: papilla → minor → major → pelvis"
+      ]
+    },
+    {
+      "topic": "Nephron",
+      "heading": "Functional Unit of the Kidney",
+      "content": "Each nephron consists of a renal corpuscle (glomerulus + Bowman's capsule) and a renal tubule (PCT, loop of Henle, DCT, collecting duct). It performs filtration, reabsorption, secretion, and excretion.",
+      "keyPoints": [
+        "One nephron = filtration + tubular processing",
+        "≈1 million per kidney"
+      ],
+      "neetTips": [
+        "Nephron steps are often asked in sequence"
+      ]
+    },
+    {
+      "topic": "Renal corpuscle",
+      "heading": "Site of Glomerular Filtration",
+      "content": "The renal corpuscle comprises the glomerulus encased by Bowman's capsule; blood plasma is filtered across the glomerular capillary wall into the capsule lumen.",
+      "keyPoints": [
+        "Glomerular filtration barrier: endothelium, basement membrane, podocytes",
+        "Forms primary urine"
+      ],
+      "neetTips": [
+        "Remember the three layers of the filtration barrier"
+      ]
+    },
+    {
+      "topic": "Glomerulus",
+      "heading": "Capillary Network for Filtration",
+      "content": "The glomerulus is a tuft of fenestrated capillaries with high hydrostatic pressure (~55 mm Hg) that drives plasma ultrafiltration into Bowman's space.",
+      "keyPoints": [
+        "Fenestrated capillaries allow plasma filtration",
+        "High hydrostatic pressure is the driving force"
+      ],
+      "neetTips": [
+        "Glomerular pressure values are useful for quantitative NEET problems"
+      ]
+    },
+    {
+      "topic": "Bowman's capsule",
+      "heading": "Encasing Structure Receiving Filtrate",
+      "content": "Bowman's capsule is a double‑walled, cup‑shaped structure surrounding the glomerulus; its visceral layer contains podocytes, while the parietal layer forms the outer wall.",
+      "keyPoints": [
+        "Visceral layer: podocytes with filtration slits",
+        "Parietal layer: simple squamous epithelium"
+      ],
+      "neetTips": [
+        "Distinguish visceral vs parietal layers for filtration barrier"
+      ]
+    },
+    {
+      "topic": "Renal tubule",
+      "heading": "Site of Reabsorption and Secretion",
+      "content": "The renal tubule extends from Bowman's capsule through the proximal convoluted tubule, loop of Henle, distal convoluted tubule, and ends in the collecting duct, modifying the filtrate.",
+      "keyPoints": [
+        "Sequential modification of filtrate",
+        "Active and passive transport mechanisms"
+      ],
+      "neetTips": [
+        "Sequence PCT → Loop → DCT → Collecting duct is a must‑know"
+      ]
+    },
+    {
+      "topic": "Proximal convoluted tubule",
+      "heading": "Major Site of Reabsorption",
+      "content": "PCT has a brush border of microvilli, rich mitochondria, and reabsorbs ~65% of filtered Na⁺, water, glucose, amino acids, and bicarbonate via active transport.",
+      "keyPoints": [
+        "Brush border increases surface area",
+        "High Na⁺/glucose reabsorption"
+      ],
+      "neetTips": [
+        "Glucose reabsorption via SGLT1 is a high‑yield fact"
+      ]
+    },
+    {
+      "topic": "Loop of Henle",
+      "heading": "Counter‑Current Multiplier System",
+      "content": "The loop descends into the medulla (permeable to water) and ascends (impermeable to water, actively transports Na⁺, K⁺, Cl⁻). This creates an osmotic gradient essential for urine concentration.",
+      "keyPoints": [
+        "Descending limb: water loss, no solute transport",
+        "Ascending limb: active Na⁺/K⁺/Cl⁻ reabsorption"
+      ],
+      "neetTips": [
+        "Counter‑current mechanism is a classic NEET diagram question"
+      ]
+    },
+    {
+      "topic": "Distal convoluted tubule",
+      "heading": "Fine‑Tuning of Electrolytes",
+      "content": "DCT lacks a brush border, reabsorbs ~5% of Na⁺, and is a major site for aldosterone‑mediated Na⁺ reabsorption and calcium reabsorption under PTH influence.",
+      "keyPoints": [
+        "Aldosterone increases Na⁺ reabsorption",
+        "PTH stimulates Ca²⁺ reabsorption"
+      ],
+      "neetTips": [
+        "Hormonal regulation of DCT is frequently tested"
+      ]
+    },
+    {
+      "topic": "Collecting duct",
+      "heading": "Final Concentration and Acid‑Base Regulation",
+      "content": "Collecting ducts traverse the medullary gradient; antidiuretic hormone (ADH) increases water permeability via aquaporin‑2 insertion, concentrating urine. They also secrete H⁺ and NH₄⁺.",
+      "keyPoints": [
+        "ADH controls water reabsorption",
+        "Site of acid secretion"
+      ],
+      "neetTips": [
+        "ADH‑aquaporin mechanism is a high‑yield NEET point"
+      ]
+    },
+    {
+      "topic": "Juxtaglomerular apparatus",
+      "heading": "Renal Blood Pressure Regulation",
+      "content": "The JGA consists of macula densa cells (in DCT), juxtaglomerular cells (secrete renin), and extraglomerular mesangial cells. It senses NaCl concentration and arterial pressure, initiating the renin‑angiotensin system.",
+      "keyPoints": [
+        "Macula densa detects NaCl",
+        "Juxtaglomerular cells release renin"
+      ],
+      "neetTips": [
+        "Renin‑angiotensin cascade links kidney to systemic BP"
+      ]
+    },
+    {
+      "topic": "Blood supply of nephron",
+      "heading": "Arterial and Venous Networks",
+      "content": "Blood enters via the renal artery → segmental → interlobar → arcuate → cortical radiate → afferent arteriole → glomerulus. Efferent arteriole → peritubular capillaries (cortex) and vasa recta (medulla) → renal vein.",
+      "keyPoints": [
+        "Afferent → glomerulus → efferent → peritubular/vasa recta",
+        "Vasa recta maintain medullary gradient"
+      ],
+      "neetTips": [
+        "Remember the sequence for NEET flow‑chart questions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the types and significance of nitrogenous wastes in humans",
+    "Describe the complete anatomy of the human urinary system and the functional zones of the kidney",
+    "Detail the structure and sequential functions of the nephron, including glomerular filtration, tubular reabsorption, secretion, and hormonal regulation"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary purpose of excretion in humans?",
+      "options": [
+        "Removal of metabolic waste",
+        "Absorption of nutrients",
+        "Production of hormones",
+        "Synthesis of proteins"
+      ],
+      "answer": 0,
+      "explanation": "Excretion eliminates metabolic waste products generated from cellular metabolism, preventing their accumulation and toxicity.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Which of the following is NOT a function of the kidneys related to excretion?",
+      "options": [
+        "Regulation of blood pH",
+        "Secretion of insulin",
+        "Maintenance of osmotic balance",
+        "Elimination of nitrogenous wastes"
+      ],
+      "answer": 1,
+      "explanation": "Insulin is secreted by the pancreas, not the kidneys; the kidneys regulate pH, osmolarity, and remove nitrogenous wastes.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Excretion helps maintain homeostasis by regulating which of the following?",
+      "options": [
+        "Blood glucose level",
+        "Blood calcium concentration",
+        "Blood volume and osmolarity",
+        "Blood clotting factors"
+      ],
+      "answer": 2,
+      "explanation": "Through water and electrolyte reabsorption, the kidneys control blood volume and osmolarity, crucial for fluid balance.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Accumulation of which waste is most toxic to the central nervous system?",
+      "options": [
+        "Urea",
+        "Uric acid",
+        "Ammonia",
+        "Creatinine"
+      ],
+      "answer": 2,
+      "explanation": "Ammonia readily crosses the blood‑brain barrier and interferes with neuronal function, leading to hyperammonemia.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Why is conversion of ammonia to urea advantageous for humans?",
+      "options": [
+        "Urea is more toxic than ammonia",
+        "Urea requires less water for excretion",
+        "Urea is more soluble than ammonia",
+        "Urea can be stored in the liver"
+      ],
+      "answer": 1,
+      "explanation": "Urea is far less toxic and can be excreted with minimal water loss, conserving body water.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Which statement best describes the importance of excretion in acid‑base balance?",
+      "options": [
+        "Kidneys excrete excess HCO3- to raise pH",
+        "Kidneys reabsorb H+ to lower pH",
+        "Kidneys excrete H+ and generate new HCO3- to maintain pH",
+        "Kidneys produce H+ to neutralize bases"
+      ],
+      "answer": 2,
+      "explanation": "Renal tubular cells secrete H+ into urine and synthesize new bicarbonate, helping to keep blood pH within the narrow physiological range.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "In the context of excretion, why is the loop of Henle crucial for water conservation?",
+      "options": [
+        "It actively pumps water into the filtrate",
+        "It creates a medullary osmotic gradient allowing water reabsorption",
+        "It secretes antidiuretic hormone (ADH)",
+        "It filters plasma proteins"
+      ],
+      "answer": 1,
+      "explanation": "The counter‑current multiplier system of the loop of Henle establishes a high osmolarity in the medulla, enabling water reabsorption from the collecting duct under ADH influence.",
+      "topic": "Excretion and its importance"
+    },
+    {
+      "question": "Which nitrogenous waste is the predominant component of human urine?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 1,
+      "explanation": "Urea is the main nitrogenous waste excreted by humans, accounting for about 85% of the total nitrogen in urine.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Compared to ammonia, why is urea a more suitable nitrogenous waste for terrestrial mammals?",
+      "options": [
+        "It is more toxic",
+        "It is less soluble in water",
+        "It contains less nitrogen per molecule",
+        "It requires less water for excretion"
+      ],
+      "answer": 3,
+      "explanation": "Urea is less toxic than ammonia and is highly soluble, but it can be excreted with far less water than ammonia, helping conserve body water.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Birds and reptiles primarily excrete nitrogenous waste in the form of:",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Allantoic acid"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid is excreted as a paste or solid, allowing birds and reptiles to conserve water.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Which statement about uricotelic excretion is FALSE?",
+      "options": [
+        "It yields a paste-like waste",
+        "It conserves water",
+        "It is energetically inexpensive",
+        "It is the main nitrogenous waste in humans"
+      ],
+      "answer": 3,
+      "explanation": "Humans are ureotelic, excreting mainly urea; uricotelism is characteristic of birds, reptiles, and some insects.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "The conversion of toxic ammonia to urea in humans primarily occurs in which organ?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Small intestine"
+      ],
+      "answer": 0,
+      "explanation": "The liver houses the urea cycle, where ammonia is detoxified to urea before being transported to the kidneys for excretion.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Which enzyme catalyzes the rate‑limiting step of the urea cycle?",
+      "options": [
+        "Carbamoyl phosphate synthetase I",
+        "Ornithine transcarbamylase",
+        "Argininosuccinate lyase",
+        "Arginase"
+      ],
+      "answer": 0,
+      "explanation": "Carbamoyl phosphate synthetase I initiates the urea cycle by forming carbamoyl phosphate; it is the rate‑determining enzyme.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Which nitrogenous waste allows birds to excrete nitrogen as a solid paste, aiding water conservation?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid is poorly soluble and is excreted as a semi‑solid paste, minimizing water loss in avian species.",
+      "topic": "Nitrogenous excretory wastes"
+    },
+    {
+      "question": "Why is ammonia the predominant nitrogenous waste in most aquatic animals?",
+      "options": [
+        "It is highly soluble and can be excreted directly into water",
+        "It requires less metabolic energy to synthesize than urea",
+        "It is less toxic than urea in aquatic environments",
+        "It can be stored in large amounts without affecting osmolarity"
+      ],
+      "answer": 0,
+      "explanation": "Ammonia is highly soluble in water and can diffuse out of the body without the need for elaborate excretory mechanisms, making it suitable for aquatic organisms that have abundant water.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "In humans, the conversion of ammonia to urea primarily occurs in which organ?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 0,
+      "explanation": "The urea cycle, which converts toxic ammonia to urea for safe excretion, is localized in the liver.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "At physiological pH (~7.4), the predominant form of ammonia in the blood is:",
+      "options": [
+        "NH3 (free ammonia)",
+        "NH4+ (ammonium ion)",
+        "NH2- (amide ion)",
+        "N2 (molecular nitrogen)"
+      ],
+      "answer": 1,
+      "explanation": "The pKa of the NH4+/NH3 couple is about 9.25; at pH 7.4 the equilibrium lies heavily toward the protonated NH4+ form.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "Which enzyme catalyzes the first, rate‑limiting step of the urea cycle, incorporating ammonia into carbamoyl phosphate?",
+      "options": [
+        "Carbamoyl phosphate synthetase I",
+        "Ornithine transcarbamylase",
+        "Arginase",
+        "Glutamine synthetase"
+      ],
+      "answer": 0,
+      "explanation": "Carbamoyl phosphate synthetase I (CPS I) uses ammonia, bicarbonate and 2 ATP to form carbamoyl phosphate, the first committed step of the urea cycle.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "In the renal tubular system, ammonia is secreted mainly in which segment?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 3,
+      "explanation": "Ammonia (as NH3/NH4+) is secreted into the tubular lumen primarily in the collecting duct, where it helps in urinary acidification.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "Which of the following amino acids serves as a major carrier of ammonia from peripheral tissues to the liver?",
+      "options": [
+        "Alanine",
+        "Glutamate",
+        "Phenylalanine",
+        "Tyrosine"
+      ],
+      "answer": 0,
+      "explanation": "The glucose‑alanine cycle transports ammonia from muscle to liver as alanine; hepatic transamination releases ammonia for the urea cycle.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "Elevated blood ammonia levels (hyperammonemia) most commonly lead to which neurological manifestation?",
+      "options": [
+        "Peripheral neuropathy",
+        "Hepatic encephalopathy",
+        "Myasthenia gravis",
+        "Multiple sclerosis"
+      ],
+      "answer": 1,
+      "explanation": "Excess ammonia crosses the blood‑brain barrier, altering neurotransmission and causing hepatic encephalopathy, characterized by confusion, asterixis, and coma.",
+      "topic": "Ammonia"
+    },
+    {
+      "question": "Which organ is primarily responsible for the synthesis of urea in humans?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 0,
+      "explanation": "Urea is synthesized in the liver via the urea cycle, converting toxic ammonia into urea for safe excretion.",
+      "topic": "Urea"
+    },
+    {
+      "question": "In the urea cycle, which enzyme catalyzes the formation of argininosuccinate from citrulline and aspartate?",
+      "options": [
+        "Ornithine transcarbamylase",
+        "Argininosuccinate synthetase",
+        "Argininosuccinate lyase",
+        "Arginase"
+      ],
+      "answer": 1,
+      "explanation": "Argininosuccinate synthetase combines citrulline and aspartate to form argininosuccinate, a key step in the urea cycle.",
+      "topic": "Urea"
+    },
+    {
+      "question": "Compared to ammonia, urea is the preferred nitrogenous waste in humans because:",
+      "options": [
+        "It is more toxic",
+        "It is less soluble in water",
+        "It requires less water for excretion",
+        "It cannot be synthesized"
+      ],
+      "answer": 2,
+      "explanation": "Urea is far less toxic than ammonia and can be excreted with relatively little water, making it suitable for terrestrial organisms.",
+      "topic": "Urea"
+    },
+    {
+      "question": "Which statement about urea reabsorption in the nephron is correct?",
+      "options": [
+        "It occurs primarily in the proximal convoluted tubule",
+        "It is independent of antidiuretic hormone (ADH)",
+        "It contributes to the medullary osmotic gradient",
+        "It is inhibited by high plasma sodium"
+      ],
+      "answer": 2,
+      "explanation": "Urea reabsorption, especially in the inner medullary collecting duct, helps generate a high osmolarity in the medulla, essential for urine concentration.",
+      "topic": "Urea"
+    },
+    {
+      "question": "A deficiency of which enzyme leads to accumulation of carbamoyl phosphate and results in hyperammonemia?",
+      "options": [
+        "Ornithine transcarbamylase",
+        "Arginase",
+        "Carbamoyl phosphate synthetase I",
+        "N-acetylglutamate synthase"
+      ],
+      "answer": 0,
+      "explanation": "Ornithine transcarbamylase deficiency blocks the conversion of carbamoyl phosphate and ornithine to citrulline, causing toxic ammonia buildup.",
+      "topic": "Urea"
+    },
+    {
+      "question": "The average concentration of urea in human urine is approximately:",
+      "options": [
+        "2-5 g/L",
+        "10-15 g/L",
+        "20-30 g/L",
+        "40-50 g/L"
+      ],
+      "answer": 2,
+      "explanation": "Typical human urine contains about 20–30 g L⁻¹ of urea, reflecting its role as the main nitrogenous waste.",
+      "topic": "Urea"
+    },
+    {
+      "question": "Which of the following best describes the role of urea in the renal concentrating mechanism?",
+      "options": [
+        "Urea is secreted into the thin descending limb to increase osmolarity",
+        "Urea is reabsorbed in the inner medullary collecting duct under the influence of ADH",
+        "Urea is actively pumped out of the loop of Henle",
+        "Urea does not participate in urine concentration"
+      ],
+      "answer": 1,
+      "explanation": "ADH stimulates urea permeability in the inner medullary collecting duct, allowing urea reabsorption that enhances the medullary osmotic gradient.",
+      "topic": "Urea"
+    },
+    {
+      "question": "Which statement about uric acid in humans is correct?",
+      "options": [
+        "It is the end product of purine catabolism",
+        "It is highly soluble in water",
+        "It is excreted mainly as urea",
+        "It is synthesized in the liver from amino acids"
+      ],
+      "answer": 0,
+      "explanation": "Uric acid is the final oxidation product of purine nucleotides in humans.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "Allopurinol, used in gout therapy, exerts its effect by inhibiting which enzyme?",
+      "options": [
+        "Xanthine oxidase",
+        "Aldolase B",
+        "Glucose-6-phosphatase",
+        "Phenylalanine hydroxylase"
+      ],
+      "answer": 0,
+      "explanation": "Allopurinol is a structural analogue of hypoxanthine and competitively inhibits xanthine oxidase, reducing uric acid synthesis.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "Uric acid is least soluble in urine at which pH range?",
+      "options": [
+        "Acidic pH",
+        "Neutral pH",
+        "Alkaline pH",
+        "All pH values equally"
+      ],
+      "answer": 0,
+      "explanation": "Uric acid precipitates more readily in acidic urine because its solubility increases with alkalinity.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "A characteristic feature of uricotelic excretion (as seen in birds and reptiles) compared with ureotelic excretion is:",
+      "options": [
+        "Higher water requirement",
+        "Lower nitrogen load",
+        "Excretion as uric acid",
+        "Excretion as ammonia"
+      ],
+      "answer": 2,
+      "explanation": "Uricotelic organisms excrete nitrogen mainly as insoluble uric acid, conserving water.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "In the nephron, which segment reabsorbs the majority of filtered uric acid?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 90% of filtered uric acid is reabsorbed in the proximal convoluted tubule via specific transporters.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "Which dietary habit most directly increases endogenous uric acid production?",
+      "options": [
+        "High purine foods (e.g., red meat)",
+        "High carbohydrate foods",
+        "High fat foods",
+        "High fiber foods"
+      ],
+      "answer": 0,
+      "explanation": "Purine-rich foods provide substrates that are metabolized to uric acid, raising its serum level.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "Uric acid kidney stones are most likely to form under which urinary condition?",
+      "options": [
+        "Low urine pH",
+        "High urine pH",
+        "Hypercalciuria",
+        "Hypermagnesuria"
+      ],
+      "answer": 0,
+      "explanation": "Acidic urine reduces uric acid solubility, favoring crystallisation and stone formation.",
+      "topic": "Uric acid"
+    },
+    {
+      "question": "Which of the following groups primarily exhibit ammonotelism as their mode of nitrogenous waste excretion?",
+      "options": [
+        "Freshwater fish",
+        "Terrestrial mammals",
+        "Birds",
+        "Reptiles"
+      ],
+      "answer": 0,
+      "explanation": "Ammonotelism, the direct excretion of ammonia, is characteristic of most aquatic organisms such as freshwater fish, which can readily dilute the toxic ammonia in surrounding water.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "The primary reason ammonotelic organisms are restricted to aquatic habitats is:",
+      "options": [
+        "High metabolic cost of converting ammonia to urea",
+        "Toxicity of ammonia requiring large dilution",
+        "Lack of specialized excretory organs",
+        "Inability to synthesize amino acids"
+      ],
+      "answer": 1,
+      "explanation": "Ammonia is highly toxic; aquatic environments provide the large volume of water needed to dilute and safely eliminate it, a condition not available on land.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "In ammonotelic fish, the main site for ammonia excretion is:",
+      "options": [
+        "Kidneys",
+        "Gills",
+        "Skin",
+        "Liver"
+      ],
+      "answer": 1,
+      "explanation": "Gill epithelia possess transporters that allow rapid diffusion or active secretion of NH₃/NH₄⁺ directly into the surrounding water.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "Compared to ureotelic organisms, ammonotelic organisms have which metabolic advantage?",
+      "options": [
+        "Lower water requirement",
+        "Lower energy expenditure for nitrogenous waste synthesis",
+        "Ability to store waste for long periods",
+        "Production of less toxic waste"
+      ],
+      "answer": 1,
+      "explanation": "Synthesizing urea from ammonia consumes ATP; ammonotelic species bypass this step, saving metabolic energy.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "Which enzyme is directly involved in the conversion of ammonia to urea in ureotelic organisms, and is therefore absent or minimally active in strict ammonotelic species?",
+      "options": [
+        "Carbamoyl phosphate synthetase I",
+        "Glutamine synthetase",
+        "Arginase",
+        "Ornithine transcarbamylase"
+      ],
+      "answer": 0,
+      "explanation": "Carbamoyl phosphate synthetase I catalyzes the first committed step of the urea cycle, a pathway not utilized by strict ammonotelic animals.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "During periods of high protein catabolism, an ammonotelic fish can increase ammonia excretion by:",
+      "options": [
+        "Upregulating Na+/K+ ATPase activity in gill chloride cells",
+        "Increasing glomerular filtration rate",
+        "Enhancing active transport of urea across renal tubules",
+        "Reducing ventilation rate"
+      ],
+      "answer": 0,
+      "explanation": "Enhanced Na+/K+ ATPase activity creates electrochemical gradients that facilitate NH₄⁺ transport across gill membranes, boosting ammonia elimination.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "Which statement correctly distinguishes ammonotelism from uricotelism?",
+      "options": [
+        "Ammonotelism produces a solid waste, whereas uricotelism produces a liquid waste",
+        "Ammonotelic organisms excrete nitrogenous waste primarily as ammonia, while uricotelic organisms excrete it as uric acid",
+        "Ammonotelism requires less water than uricotelism",
+        "Uricotelic waste is more toxic than ammonia"
+      ],
+      "answer": 1,
+      "explanation": "Ammonotelic species eliminate nitrogen as soluble ammonia; uricotelic species convert nitrogen to relatively insoluble uric acid, which is excreted as a paste or solid.",
+      "topic": "Ammonotelism"
+    },
+    {
+      "question": "Ureotelism refers to the excretion of nitrogenous waste primarily in the form of which compound?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 1,
+      "explanation": "Ureotelic organisms convert toxic ammonia into urea, a less toxic compound, and excrete it as the main nitrogenous waste.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "Which group of animals predominantly exhibits ureotelism?",
+      "options": [
+        "Freshwater fish",
+        "Terrestrial mammals",
+        "Birds",
+        "Reptiles"
+      ],
+      "answer": 1,
+      "explanation": "Most terrestrial mammals, including humans, eliminate nitrogen mainly as urea, characterizing them as ureotelic.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "An advantage of urea over ammonia as a nitrogenous waste is that urea is:",
+      "options": [
+        "More toxic and requires more water",
+        "Less toxic and can be excreted with less water loss",
+        "More energy‑intensive to synthesize",
+        "Unable to be stored in tissues"
+      ],
+      "answer": 1,
+      "explanation": "Urea is far less toxic than ammonia and can be concentrated in urine, allowing excretion with comparatively lower water loss, which is vital for terrestrial life.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "In humans, the organ where the urea cycle operates to produce urea is the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 0,
+      "explanation": "The hepatic urea cycle converts ammonia to urea; the liver is the primary site of urea synthesis.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "A deficiency of which enzyme would most directly impair ureotelic excretion in humans?",
+      "options": [
+        "Carbamoyl phosphate synthetase I",
+        "Glucose‑6‑phosphatase",
+        "Aldolase B",
+        "Lactate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Carbamoyl phosphate synthetase I catalyzes the first step of the urea cycle; its deficiency hampers urea formation, affecting ureotelic waste removal.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "Ureotelic animals primarily eliminate urea through which route?",
+      "options": [
+        "Diffusion through skin",
+        "Exhalation",
+        "Urine",
+        "Feces"
+      ],
+      "answer": 2,
+      "explanation": "Urea is water‑soluble and is excreted mainly via the kidneys into urine.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "Compared with uricotelic excretion, ureotelic excretion generally requires:",
+      "options": [
+        "More water",
+        "Less water",
+        "The same amount of water",
+        "No water"
+      ],
+      "answer": 0,
+      "explanation": "Uric acid is poorly soluble and can be excreted with minimal water; urea, being more soluble, needs relatively more water for dilution in urine.",
+      "topic": "Ureotelism"
+    },
+    {
+      "question": "Uricotelism is best described as the excretion of which nitrogenous waste product?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Carbon dioxide"
+      ],
+      "answer": 2,
+      "explanation": "Uricotelism refers to the elimination of nitrogenous waste primarily in the form of uric acid.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "Uricotelic animals excrete uric acid mainly because it:",
+      "options": [
+        "Is highly soluble in water",
+        "Is less toxic than ammonia",
+        "Requires less water for excretion",
+        "Is easily metabolized to glucose"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid is poorly soluble, allowing it to be excreted as a semi‑solid paste, which conserves water—a key advantage for terrestrial and desert‑dwelling organisms.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "Which group of vertebrates predominantly exhibits uricotelism?",
+      "options": [
+        "Mammals",
+        "Birds",
+        "Fish",
+        "Amphibians"
+      ],
+      "answer": 1,
+      "explanation": "Birds (and also reptiles) are classic uricotelic vertebrates, excreting nitrogen mainly as uric acid.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "The formation of uric acid in uricotelic organisms is the end product of which metabolic pathway?",
+      "options": [
+        "Ornithine (urea) cycle",
+        "Purine degradation pathway",
+        "Glycolysis",
+        "Beta‑oxidation of fatty acids"
+      ],
+      "answer": 1,
+      "explanation": "Uric acid is produced from the catabolism of purine nucleotides, the final step of purine degradation.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "Compared with urea, uric acid is:",
+      "options": [
+        "More soluble in water",
+        "Less toxic to cells",
+        "Contains more nitrogen atoms per molecule",
+        "Requires more water for excretion"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid contains four nitrogen atoms per molecule, allowing more nitrogen to be eliminated with less water loss.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "In uricotelic excretion, the final waste product is typically eliminated as:",
+      "options": [
+        "A clear aqueous solution",
+        "A crystalline or semi‑solid paste",
+        "A volatile gas",
+        "A lipid‑bound droplet"
+      ],
+      "answer": 1,
+      "explanation": "Uric acid precipitates as a white, crystalline paste, facilitating water conservation.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "Which statement about uricotelism is FALSE?",
+      "options": [
+        "It enables efficient water conservation",
+        "It is the main nitrogen‑excretion mode in many insects",
+        "It produces a highly toxic waste that must be rapidly diluted in body fluids",
+        "It involves excretion of uric acid"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid is relatively non‑toxic and can be stored safely; it does not need rapid dilution, unlike ammonia.",
+      "topic": "Uricotelism"
+    },
+    {
+      "question": "Which nitrogenous waste product is the primary excretory product in humans?",
+      "options": [
+        "Ammonia",
+        "Urea",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 1,
+      "explanation": "Urea is the main nitrogenous waste eliminated by the human kidney, produced in the liver via the urea cycle.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "The correct sequence of urine flow through the human urinary system is:",
+      "options": [
+        "Renal pelvis → ureters → urinary bladder → urethra",
+        "Ureters → renal pelvis → urinary bladder → urethra",
+        "Urinary bladder → ureters → renal pelvis → urethra",
+        "Urethra → urinary bladder → ureters → renal pelvis"
+      ],
+      "answer": 0,
+      "explanation": "Filtered urine collects in the renal pelvis, passes down the ureters to the bladder, and is expelled through the urethra.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "Which nephron segment reabsorbs the majority of filtered Na⁺, glucose, and amino acids?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "The proximal convoluted tubule reabsorbs about 65% of filtered Na⁺ and virtually all filtered glucose and amino acids via active transport.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "The counter‑current multiplier mechanism that creates the medullary osmotic gradient is primarily associated with:",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The descending and ascending limbs of the Loop of Henle work together in a counter‑current fashion to concentrate the medullary interstitium.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "Juxtaglomerular cells release renin in response to all EXCEPT:",
+      "options": [
+        "Decreased renal perfusion pressure",
+        "Decreased Na⁺ delivery to macula densa",
+        "Increased sympathetic stimulation",
+        "Increased atrial natriuretic peptide"
+      ],
+      "answer": 3,
+      "explanation": "Atrial natriuretic peptide inhibits renin release; the other three stimuli promote renin secretion.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "Which statement about the glomerular filtration barrier is FALSE?",
+      "options": [
+        "It consists of fenestrated endothelium, basement membrane, and podocyte slit diaphragms",
+        "Large plasma proteins are freely filtered",
+        "The basement membrane is negatively charged",
+        "Podocyte foot processes provide size selectivity"
+      ],
+      "answer": 1,
+      "explanation": "Large plasma proteins such as albumin are largely retained; they are not freely filtered.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "The renal arterial branches that directly supply the glomeruli follow which order?",
+      "options": [
+        "Interlobar → arcuate → cortical radiate → afferent arterioles",
+        "Interlobar → interlobular → afferent arterioles → glomerular capillaries",
+        "Interlobar → arcuate → interlobular → afferent arterioles",
+        "Interlobar → arcuate → interlobular → efferent arterioles"
+      ],
+      "answer": 2,
+      "explanation": "Blood flows from interlobar arteries to arcuate arteries, then to interlobular (cortical radiate) arteries, and finally to afferent arterioles feeding each glomerulus.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "Why does antidiuretic hormone (ADH) make urine more concentrated?",
+      "options": [
+        "ADH increases glomerular filtration rate",
+        "ADH enhances water permeability of the collecting ducts",
+        "ADH stimulates Na⁺ reabsorption in the proximal tubule",
+        "ADH decreases urea recycling"
+      ],
+      "answer": 1,
+      "explanation": "ADH inserts aquaporin‑2 channels in the collecting duct epithelium, allowing water reabsorption and concentrating the urine.",
+      "topic": "Human excretory system"
+    },
+    {
+      "question": "The kidneys are located anatomically between which vertebral levels?",
+      "options": [
+        "T12 and L3",
+        "T8 and T12",
+        "L2 and L5",
+        "T10 and L2"
+      ],
+      "answer": 0,
+      "explanation": "The adult kidneys lie retroperitoneally with the upper pole at the level of T12 and the lower pole at L3.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "Which of the following is NOT a component of the external covering of the kidney?",
+      "options": [
+        "Renal capsule",
+        "Perirenal fat (adipose capsule)",
+        "Renal fascia (Gerota's fascia)",
+        "Renal medulla"
+      ],
+      "answer": 3,
+      "explanation": "Renal medulla is an internal parenchymal region; the external coverings are the renal capsule, perirenal fat, and renal fascia.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "The afferent arteriole that supplies blood to the glomerulus arises from which artery?",
+      "options": [
+        "Interlobar artery",
+        "Interlobular artery",
+        "Segmental artery",
+        "Renal artery"
+      ],
+      "answer": 1,
+      "explanation": "The interlobular (cortical) artery gives off the afferent arteriole that enters the glomerular capsule.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "In the juxtaglomerular apparatus, which cells are responsible for renin secretion?",
+      "options": [
+        "Macula densa cells",
+        "Juxtaglomerular (granular) cells",
+        "Mesangial cells",
+        "Podocytes"
+      ],
+      "answer": 1,
+      "explanation": "Juxtaglomerular (granular) cells, located in the wall of the afferent arteriole, synthesize and release renin.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "The primary function of the macula densa cells is to:",
+      "options": [
+        "Detect glomerular filtration rate",
+        "Secrete erythropoietin",
+        "Sense NaCl concentration in the tubular fluid",
+        "Produce renin"
+      ],
+      "answer": 2,
+      "explanation": "Macula densa cells monitor NaCl concentration in the distal tubule and signal adjustments in GFR and renin release.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "Where does the majority of glucose reabsorption occur in the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 90% of filtered glucose is reabsorbed via Na⁺‑glucose cotransporters in the proximal convoluted tubule.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "Which segment of the Loop of Henle is impermeable to water?",
+      "options": [
+        "Thin descending limb",
+        "Thick descending limb",
+        "Thin ascending limb",
+        "Thick ascending limb"
+      ],
+      "answer": 3,
+      "explanation": "The thick ascending limb actively transports Na⁺, K⁺, and Cl⁻ but is impermeable to water, contributing to the corticomedullary osmotic gradient.",
+      "topic": "Kidneys"
+    },
+    {
+      "question": "What is the average length of each ureter in an adult human?",
+      "options": [
+        "25 cm",
+        "30 cm",
+        "35 cm",
+        "40 cm"
+      ],
+      "answer": 0,
+      "explanation": "The ureters are approximately 25‑30 cm long; the commonly quoted average length is about 25 cm.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "The mucosal lining of the ureter is composed of which type of epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Transitional epithelium",
+        "Pseudostratified columnar epithelium",
+        "Stratified squamous epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Ureteral mucosa is lined by urothelium, a specialized transitional epithelium that accommodates stretching.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "Arterial supply to the ureter is derived from all of the following except:",
+      "options": [
+        "Renal artery",
+        "Gonadal artery",
+        "Inferior mesenteric artery",
+        "Superior mesenteric artery"
+      ],
+      "answer": 3,
+      "explanation": "The ureter receives branches from the renal, gonadal, common iliac, and inferior mesenteric arteries; the superior mesenteric artery does not contribute.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "Peristaltic waves in the ureter are initiated by pacemaker cells located in which part?",
+      "options": [
+        "Renal pelvis",
+        "Upper third of the ureter",
+        "Mid ureter",
+        "Lower ureter"
+      ],
+      "answer": 1,
+      "explanation": "Pacemaker activity originates in the renal pelvis and the upper third of the ureter, generating peristaltic contractions toward the bladder.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "Which site is the most common location for ureteric obstruction by a kidney stone?",
+      "options": [
+        "Pelvi‑ureteric junction",
+        "Mid‑ureter",
+        "Ureterovesical junction",
+        "Intramural part of the ureter"
+      ],
+      "answer": 2,
+      "explanation": "The ureterovesical junction is the narrowest part of the ureter and is the most frequent site of stone impaction.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "The right ureter passes posterior to which structure?",
+      "options": [
+        "Inferior vena cava",
+        "Duodenum",
+        "Liver",
+        "Right psoas major muscle"
+      ],
+      "answer": 3,
+      "explanation": "Both ureters descend on the anterior surface of the psoas major muscles; the right ureter lies posterior to the right psoas major.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "Sympathetic innervation of the ureter is primarily carried by spinal segments:",
+      "options": [
+        "T10‑L2",
+        "T12‑L2",
+        "T8‑T10",
+        "L2‑L4"
+      ],
+      "answer": 0,
+      "explanation": "Sympathetic fibers to the ureter arise from the T10 to L2 spinal segments via the lesser splanchnic and lumbar splanchnic nerves.",
+      "topic": "Ureters"
+    },
+    {
+      "question": "Which statement correctly describes the peritoneal covering of the urinary bladder in the adult?",
+      "options": [
+        "It is completely intraperitoneal",
+        "It is entirely retroperitoneal",
+        "Only its superior surface is covered by peritoneum",
+        "It is surrounded by peritoneum on all sides"
+      ],
+      "answer": 2,
+      "explanation": "In the adult, the urinary bladder is extraperitoneal except for its superior surface, which is covered by peritoneum forming the supravesical fossa.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "The layer of the urinary bladder wall that provides its remarkable distensibility is:",
+      "options": [
+        "Mucosa (urothelium)",
+        "Submucosa",
+        "Muscularis (detrusor muscle)",
+        "Adventitia (serosa)"
+      ],
+      "answer": 2,
+      "explanation": "The detrusor muscle, a thick smooth‑muscle layer, allows the bladder to expand and contract over a wide volume range.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "The trigone of the urinary bladder is bounded by:",
+      "options": [
+        "Two ureters and the internal urethral orifice",
+        "Two ureters and the prostate gland",
+        "Two ureters and the external urethral sphincter",
+        "Two ureters and the bladder dome"
+      ],
+      "answer": 0,
+      "explanation": "The trigone is a smooth triangular area whose corners are the two ureteric orifices and the internal urethral (or bladder neck) orifice.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "Parasympathetic fibers that stimulate bladder contraction arise from which spinal segments?",
+      "options": [
+        "T10–L2",
+        "T12–L2",
+        "S2–S4",
+        "L1–L2"
+      ],
+      "answer": 2,
+      "explanation": "Pelvic splanchnic nerves, carrying parasympathetic fibers to the bladder, originate from sacral spinal segments S2, S3 and S4.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "During the act of micturition, which muscle contracts to expel urine from the bladder?",
+      "options": [
+        "Internal urethral sphincter",
+        "External urethral sphincter",
+        "Detrusor muscle",
+        "Pelvic floor (levator ani)"
+      ],
+      "answer": 2,
+      "explanation": "Micturition is driven by contraction of the detrusor smooth muscle, while the internal urethral sphincter relaxes.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "The typical functional capacity of an adult urinary bladder is:",
+      "options": [
+        "100–150 mL",
+        "200–300 mL",
+        "400–600 mL",
+        "800–1000 mL"
+      ],
+      "answer": 2,
+      "explanation": "An adult bladder can normally hold about 400 to 600 mL of urine before the urge to void becomes strong.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "A lesion of the pelvic splanchnic nerves would most likely produce which bladder dysfunction?",
+      "options": [
+        "Urinary retention due to loss of detrusor contraction",
+        "Stress urinary incontinence due to weakened sphincter",
+        "Overflow incontinence due to overactive detrusor",
+        "Inability to relax the internal urethral sphincter"
+      ],
+      "answer": 0,
+      "explanation": "Pelvic splanchnic nerves provide parasympathetic innervation; their loss impairs detrusor contraction, leading to urinary retention.",
+      "topic": "Urinary bladder"
+    },
+    {
+      "question": "What is the approximate length of the male urethra from the bladder to the external meatus?",
+      "options": [
+        "~2 cm",
+        "~8 cm",
+        "~20 cm",
+        "~30 cm"
+      ],
+      "answer": 2,
+      "explanation": "The male urethra is about 18-20 cm long, considerably longer than the female urethra.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "The internal urethral sphincter, which prevents retrograde flow of urine into the bladder, is composed of which type of muscle?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Mixed smooth and skeletal muscle"
+      ],
+      "answer": 1,
+      "explanation": "The internal urethral sphincter is a continuation of the detrusor muscle and consists of smooth muscle under autonomic control.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "In females, the external opening of the urethra is located in which structure?",
+      "options": [
+        "Vestibule of the vulva",
+        "Clitoris",
+        "Posterior vaginal wall",
+        "Anterior wall of the vagina"
+      ],
+      "answer": 0,
+      "explanation": "The female urethral meatus opens in the vestibule of the vulva, just anterior to the vaginal opening.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "The prostatic part of the male urethra is lined predominantly by which epithelium?",
+      "options": [
+        "Stratified squamous epithelium",
+        "Transitional epithelium",
+        "Pseudostratified columnar epithelium",
+        "Simple columnar epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The prostatic urethra is lined by transitional (urothelial) epithelium, which can stretch during ejaculation.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "Which of the following is NOT a physiological function of the male urethra?",
+      "options": [
+        "Transport of urine from bladder to outside",
+        "Ejaculation of semen",
+        "Secretion of prostatic fluid",
+        "Absorption of glucose from urine"
+      ],
+      "answer": 3,
+      "explanation": "The urethra does not absorb glucose; its roles are transport of urine, conduit for semen, and passage of prostatic secretions.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "During urethral catheterization in males, injury most commonly occurs at which segment?",
+      "options": [
+        "Penile urethra",
+        "Bulbar urethra",
+        "Membranous urethra",
+        "Prostatic urethra"
+      ],
+      "answer": 1,
+      "explanation": "The bulbar urethra is the most vulnerable site for trauma during catheter insertion because of its relatively fixed position and curvature.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "The external urethral sphincter, which provides voluntary control over urination, is composed of which type of muscle?",
+      "options": [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Mixed smooth and skeletal muscle"
+      ],
+      "answer": 1,
+      "explanation": "The external urethral sphincter is made of striated (skeletal) muscle and is under somatic (voluntary) control via the pudendal nerve.",
+      "topic": "Urethra"
+    },
+    {
+      "question": "The kidneys are situated opposite which vertebral levels in the adult human body?",
+      "options": [
+        "T12 to L3",
+        "L4 to L5",
+        "T8 to T10",
+        "L1 to L2"
+      ],
+      "answer": 0,
+      "explanation": "The right and left kidneys lie retroperitoneally opposite the T12–L3 vertebral bodies, with the right kidney slightly lower due to the liver.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "Which organ lies directly anterior to the upper pole of the right kidney?",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Stomach",
+        "Pancreas"
+      ],
+      "answer": 0,
+      "explanation": "The right lobe of the liver overlies the upper pole of the right kidney, forming its immediate anterior relation.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "What is the name of the thin, fibrous layer that directly covers the renal parenchyma?",
+      "options": [
+        "Renal capsule",
+        "Perirenal fat",
+        "Renal fascia",
+        "Adipose capsule"
+      ],
+      "answer": 0,
+      "explanation": "The renal capsule is a tough, fibrous membrane that adheres tightly to the surface of the kidney, protecting the parenchyma.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "Which structure does NOT pass through the renal hilum?",
+      "options": [
+        "Renal artery",
+        "Renal vein",
+        "Ureter",
+        "Renal pelvis"
+      ],
+      "answer": 3,
+      "explanation": "The renal artery, renal vein and ureter traverse the hilum; the renal pelvis is formed within the kidney and does not pass through the hilum.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "The renal pyramids are located in which part of the kidney?",
+      "options": [
+        "Cortex",
+        "Medulla",
+        "Hilum",
+        "Renal capsule"
+      ],
+      "answer": 1,
+      "explanation": "Renal pyramids are conical structures situated in the renal medulla, draining urine into the minor calyces.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "The kidneys are classified as which type of retroperitoneal organ?",
+      "options": [
+        "Intraperitoneal",
+        "Secondarily retroperitoneal",
+        "Primary retroperitoneal",
+        "Subperitoneal"
+      ],
+      "answer": 2,
+      "explanation": "Kidneys develop in the dorsal body wall and remain behind the peritoneum throughout life, making them primary retroperitoneal organs.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "Renal columns are extensions of which renal region?",
+      "options": [
+        "Cortex",
+        "Medulla",
+        "Pelvis",
+        "Capsule"
+      ],
+      "answer": 0,
+      "explanation": "Renal columns are cortical tissue that project between the renal pyramids, separating them within the medulla.",
+      "topic": "Position and structure of kidneys"
+    },
+    {
+      "question": "What is the innermost protective covering that directly surrounds the renal parenchyma?",
+      "options": [
+        "Renal capsule",
+        "Perirenal fat",
+        "Renal fascia (Gerota's fascia)",
+        "Ureter"
+      ],
+      "answer": 0,
+      "explanation": "The renal capsule is a tough fibrous layer that directly envelops the kidney, lying immediately external to the renal cortex and medulla, providing protection.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "The renal capsule is mainly composed of which type of connective tissue?",
+      "options": [
+        "Dense irregular connective tissue",
+        "Loose areolar connective tissue",
+        "Elastic connective tissue",
+        "Cartilaginous tissue"
+      ],
+      "answer": 0,
+      "explanation": "It consists of dense irregular collagenous fibers that resist tearing and provide mechanical strength.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "At the renal hilum, the renal capsule is continuous with which structure?",
+      "options": [
+        "Renal fascia (Gerota's fascia)",
+        "Parietal layer of Bowman's capsule",
+        "Renal pelvis",
+        "Ureteric sheath"
+      ],
+      "answer": 0,
+      "explanation": "The capsule blends with the renal fascia at the hilum, forming a continuous sheath around the kidney and its vessels.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "Which of the following is the primary function of the renal capsule?",
+      "options": [
+        "Protection of the kidney from mechanical injury",
+        "Filtration of plasma to form urine",
+        "Secretion of erythropoietin",
+        "Reabsorption of glucose in the proximal tubule"
+      ],
+      "answer": 0,
+      "explanation": "The capsule does not participate in filtration; its main role is to protect the delicate renal tissue.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "In the spread of a perinephric (perirenal) abscess, which anatomical layer is breached first?",
+      "options": [
+        "Renal capsule",
+        "Perirenal fat",
+        "Renal fascia",
+        "Parietal peritoneum"
+      ],
+      "answer": 0,
+      "explanation": "The infection originates in the perirenal space and must first penetrate the renal capsule to involve the renal parenchyma.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "The connective tissue of the renal capsule is derived embryologically from which germ layer?",
+      "options": [
+        "Mesoderm",
+        "Ectoderm",
+        "Endoderm",
+        "Neural crest"
+      ],
+      "answer": 0,
+      "explanation": "Connective tissues, including dense irregular connective tissue of the renal capsule, arise from mesoderm.",
+      "topic": "Renal capsule"
+    },
+    {
+      "question": "Which part of the kidney contains the glomeruli?",
+      "options": [
+        "Renal cortex",
+        "Renal medulla",
+        "Renal pelvis",
+        "Renal hilum"
+      ],
+      "answer": 0,
+      "explanation": "The glomeruli are located in the renal corpuscles, which are situated in the renal cortex.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "The loops of Henle that descend deep into the renal medulla are characteristic of which type of nephrons?",
+      "options": [
+        "Cortical nephrons",
+        "Juxtamedullary nephrons",
+        "Afferent nephrons",
+        "Efferent nephrons"
+      ],
+      "answer": 1,
+      "explanation": "Juxtamedullary nephrons have long loops of Henle that extend deep into the medulla, essential for urine concentration.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "The renal papilla is located at the tip of which structure?",
+      "options": [
+        "Renal cortex",
+        "Renal medulla",
+        "Renal pelvis",
+        "Renal capsule"
+      ],
+      "answer": 1,
+      "explanation": "Renal papillae are the tips of the renal pyramids, which are part of the renal medulla, and they empty urine into the minor calyces.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "Which of the following statements about the renal cortex is FALSE?",
+      "options": [
+        "Contains renal corpuscles",
+        "Contains loops of Henle of cortical nephrons",
+        "Receives most of the renal arterial blood",
+        "Is the site of urine concentration"
+      ],
+      "answer": 3,
+      "explanation": "Urine concentration primarily occurs in the renal medulla due to the counter‑current mechanism; the cortex is mainly involved in filtration and reabsorption.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "The vasa recta, important for counter‑current exchange, are primarily associated with which region of the kidney?",
+      "options": [
+        "Renal cortex",
+        "Renal medulla",
+        "Renal pelvis",
+        "Renal capsule"
+      ],
+      "answer": 1,
+      "explanation": "Vasa recta are long, straight capillaries that run parallel to the loops of Henle in the medulla, maintaining the osmotic gradient.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "In the kidney, the collecting ducts descend through which region before opening into the renal papilla?",
+      "options": [
+        "Cortex only",
+        "Medulla only",
+        "Both cortex and medulla",
+        "Pelvis only"
+      ],
+      "answer": 2,
+      "explanation": "Collecting ducts originate in the cortex, pass through the medulla, and finally open into the renal papillae.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "Which of the following best explains why juxtamedullary nephrons are crucial for the production of concentrated urine?",
+      "options": [
+        "Their glomeruli are larger",
+        "Their loops of Henle extend deep into the medulla",
+        "Their proximal tubules reabsorb more glucose",
+        "Their distal tubules secrete more potassium"
+      ],
+      "answer": 1,
+      "explanation": "The long loops of Henle of juxtamedullary nephrons create a steep osmotic gradient in the medulla, enabling water reabsorption and urine concentration.",
+      "topic": "Cortex and medulla"
+    },
+    {
+      "question": "The renal pelvis is situated in which part of the kidney?",
+      "options": [
+        "Renal cortex",
+        "Renal medulla",
+        "Renal sinus",
+        "Renal papilla"
+      ],
+      "answer": 2,
+      "explanation": "The renal pelvis occupies the renal sinus, a cavity at the medial aspect of the kidney that houses the pelvis, calyces, vessels and fat.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "Which structure directly empties urine into the renal pelvis?",
+      "options": [
+        "Major calyces",
+        "Minor calyces",
+        "Collecting ducts",
+        "Loop of Henle"
+      ],
+      "answer": 1,
+      "explanation": "Minor calyces collect urine from the papillae of the renal pyramids and converge to form the major calyces, which then drain into the renal pelvis.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "The epithelial lining of the renal pelvis is most similar to that of which part of the urinary tract?",
+      "options": [
+        "Urothelium of bladder",
+        "Stratified squamous epithelium of urethra",
+        "Simple cuboidal epithelium of proximal tubule",
+        "Pseudostratified columnar epithelium of urethra"
+      ],
+      "answer": 0,
+      "explanation": "Both the renal pelvis and the urinary bladder are lined by transitional (urothelial) epithelium, allowing stretch without damage.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "Obstruction at the ureteropelvic junction primarily leads to which pathological condition?",
+      "options": [
+        "Pyelonephritis",
+        "Hydronephrosis",
+        "Renal calculi formation",
+        "Acute tubular necrosis"
+      ],
+      "answer": 1,
+      "explanation": "A blockage at the ureteropelvic junction prevents urine outflow, causing dilation of the renal pelvis and calyces—hydronephrosis.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "The renal pelvis continues inferiorly as which structure?",
+      "options": [
+        "Ureter",
+        "Urethra",
+        "Renal artery",
+        "Renal vein"
+      ],
+      "answer": 0,
+      "explanation": "The renal pelvis tapers to form the ureter, which conveys urine from the kidney to the urinary bladder.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "Which of the following best describes the shape of the renal pelvis?",
+      "options": [
+        "A narrow funnel‑like cavity",
+        "A spherical sac",
+        "A long tubular duct",
+        "A flat plate"
+      ],
+      "answer": 0,
+      "explanation": "The renal pelvis is a funnel‑shaped cavity that collects urine from the major calyces before it enters the ureter.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "All are true about the renal pelvis except:",
+      "options": [
+        "It receives urine from major calyces",
+        "It is lined by transitional epithelium",
+        "It lies within the renal sinus",
+        "It is the site of glomerular filtration"
+      ],
+      "answer": 3,
+      "explanation": "Glomerular filtration occurs in the glomerulus of the renal corpuscle, not in the renal pelvis, which merely collects urine.",
+      "topic": "Renal pelvis"
+    },
+    {
+      "question": "Which structure receives urine directly from the renal papillae?",
+      "options": [
+        "Minor calyx",
+        "Major calyx",
+        "Renal pelvis",
+        "Ureter"
+      ],
+      "answer": 0,
+      "explanation": "The minor calyx surrounds the tip of each renal pyramid (papilla) and collects urine directly from it.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "How many major calyces are typically present in a human kidney?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "Most human kidneys have three major calyces, each formed by the convergence of several minor calyces.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "The renal papilla projects into which part of the collecting system?",
+      "options": [
+        "Minor calyx",
+        "Major calyx",
+        "Renal pelvis",
+        "Ureter"
+      ],
+      "answer": 0,
+      "explanation": "The tip of each renal pyramid (papilla) protrudes into a minor calyx, allowing urine to flow into it.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "In obstruction at the ureteropelvic junction, which part of the collecting system dilates first?",
+      "options": [
+        "Renal pelvis",
+        "Major calyces",
+        "Minor calyces",
+        "Ureter"
+      ],
+      "answer": 0,
+      "explanation": "The renal pelvis is the first segment to become distended when the outflow at the ureteropelvic junction is blocked, followed by the calyces.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "Which statement about major calyces is false?",
+      "options": [
+        "They are formed by the convergence of several minor calyces",
+        "They open directly into the ureter",
+        "They lie within the renal sinus",
+        "They convey urine to the renal pelvis"
+      ],
+      "answer": 1,
+      "explanation": "Major calyces drain into the renal pelvis, not directly into the ureter; the ureter originates from the renal pelvis.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "In renal anatomy, the term \"fornix\" refers to:",
+      "options": [
+        "The apex of the renal pyramid",
+        "The junction between a minor and a major calyx",
+        "The space between two adjacent minor calyces",
+        "The opening of the ureter into the bladder"
+      ],
+      "answer": 1,
+      "explanation": "The fornix is the region where several minor calyces merge to form a major calyx.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "What is the primary functional role of the calyceal system?",
+      "options": [
+        "Site of glomerular filtration",
+        "Reabsorption of glucose",
+        "Collection and transport of urine from papillae to the renal pelvis",
+        "Production of erythropoietin"
+      ],
+      "answer": 2,
+      "explanation": "The calyces collect urine from the renal papillae and channel it into the renal pelvis, facilitating its passage to the ureter.",
+      "topic": "Calyces"
+    },
+    {
+      "question": "Which part of the nephron is the primary site of ultrafiltration of plasma?",
+      "options": [
+        "Bowman's capsule",
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule"
+      ],
+      "answer": 0,
+      "explanation": "Ultrafiltration occurs across the glomerular capillary wall into the Bowman's (glomerular) capsule, forming the filtrate.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "The descending limb of the loop of Henle is highly permeable to which substance?",
+      "options": [
+        "Sodium ions",
+        "Water",
+        "Urea",
+        "Potassium ions"
+      ],
+      "answer": 1,
+      "explanation": "The thin descending limb has abundant aquaporins, allowing water to exit passively, while it is relatively impermeable to solutes.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "Approximately what percentage of filtered Na⁺ and water is reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "~65%",
+        "~25%",
+        "~5%",
+        "~90%"
+      ],
+      "answer": 0,
+      "explanation": "The PCT reabsorbs about two‑thirds of the filtered load of Na⁺ and water, making it the major site of reabsorption.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "Juxtaglomerular cells of the afferent arteriole secrete which hormone that initiates the renin‑angiotensin system?",
+      "options": [
+        "Aldosterone",
+        "Antidiuretic hormone (ADH)",
+        "Renin",
+        "Angiotensin II"
+      ],
+      "answer": 2,
+      "explanation": "Juxtaglomerular (JG) cells synthesize and release renin, which converts angiotensinogen to angiotensin I, starting the cascade that regulates blood pressure.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "Macula densa cells monitor changes in the tubular fluid composition of which ion to regulate glomerular filtration rate?",
+      "options": [
+        "Glucose",
+        "Sodium chloride (NaCl)",
+        "Urea",
+        "Hydrogen ions (pH)"
+      ],
+      "answer": 1,
+      "explanation": "The macula densa senses NaCl concentration in the distal tubule; a decrease triggers renin release, while an increase leads to tubuloglomerular feedback inhibition.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "The counter‑current multiplier mechanism that creates a high osmolarity in the renal medulla involves which of the following processes?",
+      "options": [
+        "Active NaCl reabsorption in the thick ascending limb coupled with passive water loss in the descending limb",
+        "Active water reabsorption in the proximal tubule",
+        "Secretion of potassium into the distal tubule",
+        "Urea recycling in the collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Active transport of NaCl out of the thick ascending limb (impermeable to water) and passive water exit from the descending limb generate a corticomedullary osmotic gradient.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "Which vessel directly supplies blood to the glomerular capillaries for filtration?",
+      "options": [
+        "Afferent arteriole",
+        "Efferent arteriole",
+        "Peritubular capillaries",
+        "Vasa recta"
+      ],
+      "answer": 0,
+      "explanation": "The afferent arteriole delivers blood into the glomerulus, where hydrostatic pressure drives ultrafiltration; the efferent arteriole carries blood away.",
+      "topic": "Nephron"
+    },
+    {
+      "question": "Which structures together constitute the filtration barrier of the renal corpuscle?",
+      "options": [
+        "Fenestrated endothelium of glomerular capillaries",
+        "Podocyte slit diaphragms",
+        "Basement membrane",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The filtration barrier is formed by three layers: the fenestrated endothelial cells, the shared basement membrane, and the podocyte foot processes with slit diaphragms, so all of them are required.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "The primary ultrafiltrate collected in Bowman's capsule is most similar in composition to:",
+      "options": [
+        "Plasma devoid of proteins",
+        "Whole blood",
+        "Lymph",
+        "Interstitial fluid"
+      ],
+      "answer": 0,
+      "explanation": "Glomerular filtration allows water, electrolytes, glucose, amino acids and urea to pass, while plasma proteins are retained, making the filtrate essentially protein‑free plasma.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "The approximate surface area available for filtration in a single human renal corpuscle is:",
+      "options": [
+        "0.1 mm²",
+        "0.5 mm²",
+        "1.5 mm²",
+        "3.0 mm²"
+      ],
+      "answer": 1,
+      "explanation": "Each glomerulus provides roughly 0.5 mm² of effective filtration surface, derived from the extensive capillary network and podocyte architecture.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "Which physiological change would most directly reduce the glomerular filtration rate (GFR)?",
+      "options": [
+        "Constriction of the afferent arteriole",
+        "Dilation of the efferent arteriole",
+        "Increase in plasma oncotic pressure",
+        "Decrease in renal plasma flow"
+      ],
+      "answer": 0,
+      "explanation": "Constriction of the afferent arteriole lowers hydrostatic pressure in the glomerular capillaries, thereby decreasing the net filtration pressure and GFR.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "Podocyte foot processes are anchored to the glomerular basement membrane primarily through:",
+      "options": [
+        "Desmosomes",
+        "Tight junctions",
+        "Filtration slits",
+        "Integrin receptors"
+      ],
+      "answer": 3,
+      "explanation": "Integrin receptors on podocytes bind extracellular matrix components of the basement membrane, securing the foot processes in place.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "Immune‑complex deposition in the glomerular basement membrane, leading to hematuria, is characteristic of:",
+      "options": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "Acute glomerulonephritis",
+        "Polycystic kidney disease"
+      ],
+      "answer": 2,
+      "explanation": "Acute (post‑streptococcal) glomerulonephritis involves immune‑complex deposition in the GBM, causing inflammation and hematuria.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "The filtration coefficient (Kf) of the renal corpuscle depends mainly on:",
+      "options": [
+        "Length of the proximal tubule",
+        "Total number of nephrons",
+        "Permeability and surface area of the filtration barrier",
+        "Activity of Na⁺/K⁺‑ATPase in the distal tubule"
+      ],
+      "answer": 2,
+      "explanation": "Kf is the product of the hydraulic conductivity (permeability) and the effective filtration surface area of the glomerular barrier.",
+      "topic": "Renal corpuscle"
+    },
+    {
+      "question": "Which of the following structures is NOT a component of the glomerular filtration barrier?",
+      "options": [
+        "Fenestrated endothelium",
+        "Basement membrane",
+        "Podocyte foot processes",
+        "Loop of Henle"
+      ],
+      "answer": 3,
+      "explanation": "The filtration barrier consists of fenestrated endothelial cells, the glomerular basement membrane, and podocyte foot processes. The Loop of Henle lies distal to Bowman's capsule and is not part of the barrier.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "The effective pore size of the glomerular basement membrane that restricts protein passage is closest to:",
+      "options": [
+        "4 nm",
+        "8 nm",
+        "12 nm",
+        "20 nm"
+      ],
+      "answer": 1,
+      "explanation": "The glomerular basement membrane has pores of about 8 nm, allowing water and small solutes to pass while restricting most plasma proteins.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "Net filtration pressure across the glomerular capillaries is determined by which combination of forces?",
+      "options": [
+        "Afferent arteriolar resistance and plasma oncotic pressure",
+        "Glomerular hydrostatic pressure, plasma oncotic pressure, and capsular hydrostatic pressure",
+        "Efferent arteriolar resistance and tubular reabsorption",
+        "Renal arterial pressure and urine flow rate"
+      ],
+      "answer": 1,
+      "explanation": "Net filtration pressure = Glomerular hydrostatic pressure – (Capsular hydrostatic pressure + Plasma oncotic pressure). These three forces together dictate the direction and magnitude of filtration.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "Constriction of the efferent arteriole while the afferent arteriole remains unchanged will most likely:",
+      "options": [
+        "Decrease GFR",
+        "Increase GFR",
+        "Have no effect on GFR",
+        "Decrease renal plasma flow but increase GFR"
+      ],
+      "answer": 1,
+      "explanation": "Efferent arteriolar constriction raises glomerular hydrostatic pressure, which initially raises GFR despite a fall in renal plasma flow.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "Mesangial cells in the glomerulus are best described as:",
+      "options": [
+        "Endothelial cells that form the filtration barrier",
+        "Podocytes that secrete the basement membrane",
+        "Smooth‑muscle‑like cells that provide structural support and regulate capillary surface area",
+        "Macrophages that mediate immune defense"
+      ],
+      "answer": 2,
+      "explanation": "Mesangial cells are modified smooth‑muscle cells; they contract to alter the surface area of the glomerular capillaries and provide structural support.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "The presence of red blood cell casts in urine most strongly suggests which renal pathology?",
+      "options": [
+        "Acute tubular necrosis",
+        "Pyelonephritis",
+        "Glomerulonephritis",
+        "Nephrogenic diabetes insipidus"
+      ],
+      "answer": 2,
+      "explanation": "RBC casts are formed when red cells leak into the tubular lumen from damaged glomeruli, a hallmark of glomerulonephritis.",
+      "topic": "Glomerulus"
+    },
+    {
+      "question": "Which layer of Bowman's capsule is directly involved in the filtration of blood plasma?",
+      "options": [
+        "Parietal epithelium",
+        "Visceral layer (podocytes)",
+        "Basement membrane",
+        "Fibrous capsule"
+      ],
+      "answer": 1,
+      "explanation": "The visceral layer, composed of podocytes, extends processes that form filtration slits, allowing plasma to pass while restricting large proteins.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "The filtration barrier of Bowman's capsule consists of three layers. Which of the following is NOT a component of this barrier?",
+      "options": [
+        "Fenestrated endothelium of glomerular capillaries",
+        "Podocyte slit diaphragm",
+        "Basement membrane",
+        "Renal tubular epithelium"
+      ],
+      "answer": 3,
+      "explanation": "The renal tubular epithelium lies downstream of the capsule and is not part of the filtration barrier; the other three structures together constitute the barrier.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "Primary urine formed in Bowman's capsule is isotonic to plasma because:",
+      "options": [
+        "It contains a high concentration of glucose",
+        "It is formed by active transport of solutes",
+        "It is filtered freely without secretion or reabsorption",
+        "It undergoes immediate concentration in the loop of Henle"
+      ],
+      "answer": 2,
+      "explanation": "Filtration in Bowman's capsule is a passive process that allows water and solutes to pass according to concentration gradients, producing an ultrafiltrate isotonic to plasma.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "Which force most directly opposes glomerular filtration across Bowman's capsule?",
+      "options": [
+        "Hydrostatic pressure in glomerular capillaries",
+        "Oncotic pressure of plasma proteins",
+        "Hydrostatic pressure in Bowman's space",
+        "Both oncotic pressure of plasma proteins and hydrostatic pressure in Bowman's space"
+      ],
+      "answer": 3,
+      "explanation": "Both the plasma oncotic pressure (pulling fluid back into capillaries) and the hydrostatic pressure in Bowman's space (pushing fluid out) oppose filtration, reducing net filtration pressure.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "What is the primary function of podocytes in Bowman's capsule?",
+      "options": [
+        "Secrete renin",
+        "Form filtration slits that restrict large proteins",
+        "Reabsorb glucose",
+        "Produce erythropoietin"
+      ],
+      "answer": 1,
+      "explanation": "Podocyte foot processes interdigitate to create slit diaphragmas that act as size- and charge-selective filters, preventing large proteins from entering the filtrate.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "A defect in which component of Bowman's capsule is most directly associated with the appearance of proteins in urine (proteinuria)?",
+      "options": [
+        "Parietal epithelial cells",
+        "Podocyte foot processes",
+        "Basement membrane",
+        "Capsular space"
+      ],
+      "answer": 1,
+      "explanation": "Damage to podocyte foot processes disrupts the slit diaphragm, allowing plasma proteins to leak into the filtrate, manifesting as proteinuria.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "The volume of filtrate entering Bowman's capsule per minute is termed:",
+      "options": [
+        "Glomerular filtration rate (GFR)",
+        "Renal plasma flow",
+        "Tubular reabsorption rate",
+        "Urine output"
+      ],
+      "answer": 0,
+      "explanation": "GFR quantifies the amount of plasma filtered by the glomeruli into Bowman's capsule each minute and is a key indicator of kidney function.",
+      "topic": "Bowman's capsule"
+    },
+    {
+      "question": "Which segment of the renal tubule is primarily responsible for the reabsorption of glucose, amino acids and the bulk of filtered Na⁺ via active transport?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "The proximal convoluted tubule reabsorbs ~65% of filtered Na⁺, water, glucose and amino acids through Na⁺‑dependent cotransporters and active mechanisms.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "The descending limb of the loop of Henle is highly permeable to which substance?",
+      "options": [
+        "Water",
+        "NaCl",
+        "Urea",
+        "K⁺"
+      ],
+      "answer": 0,
+      "explanation": "The thin descending limb allows free movement of water but is relatively impermeable to solutes, leading to concentration of tubular fluid.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "Which part of the renal tubule actively secretes H⁺ and K⁺ into the tubular lumen?",
+      "options": [
+        "Distal convoluted tubule",
+        "Proximal convoluted tubule",
+        "Descending limb of the loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Intercalated cells in the distal convoluted tubule secrete H⁺, while principal cells secrete K⁺, playing a key role in acid‑base and electrolyte balance.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "The counter‑current multiplier mechanism that generates the medullary osmotic gradient is primarily associated with which segment?",
+      "options": [
+        "Thick ascending limb of the loop of Henle",
+        "Thin descending limb of the loop of Henle",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "The thick ascending limb actively reabsorbs NaCl without water, creating a gradient that, together with the descending limb, forms the counter‑current multiplier.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "In which segment does the majority of bicarbonate (HCO₃⁻) reabsorption occur?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 80‑90% of filtered HCO₃⁻ is reabsorbed in the proximal convoluted tubule via carbonic anhydrase‑mediated processes.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "Which hormone acts mainly on the collecting duct to increase water reabsorption?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone",
+        "Atrial natriuretic peptide",
+        "Parathyroid hormone"
+      ],
+      "answer": 0,
+      "explanation": "ADH binds to V₂ receptors on collecting‑duct cells, inserting aquaporin‑2 channels and enhancing water permeability.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "The segment of the renal tubule that is impermeable to water but actively reabsorbs NaCl, thereby diluting tubular fluid, is:",
+      "options": [
+        "Thin ascending limb",
+        "Thick ascending limb",
+        "Descending limb",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb (also called the Na⁺‑K⁺‑2Cl⁻ cotransporter segment) reabsorbs NaCl actively while remaining water‑impermeable, producing a dilute tubular fluid.",
+      "topic": "Renal tubule"
+    },
+    {
+      "question": "Which of the following is NOT a primary function of the proximal convoluted tubule?",
+      "options": [
+        "Reabsorption of glucose",
+        "Secretion of H+ ions",
+        "Production of erythropoietin",
+        "Reabsorption of NaCl"
+      ],
+      "answer": 2,
+      "explanation": "The proximal convoluted tubule is involved in massive reabsorption of nutrients, ions and water and in secretion of H+ ions, but it does not produce erythropoietin; that function is performed by interstitial fibroblasts in the renal cortex.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "The epithelial cells lining the proximal convoluted tubule possess a structural feature that greatly enhances reabsorption. What is this feature?",
+      "options": [
+        "Thick keratinized layer",
+        "Numerous microvilli forming a brush border",
+        "Tight junctions with low permeability",
+        "Lack of mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "The cells have a dense brush border of microvilli, which increases the luminal surface area up to 10‑20 times, facilitating efficient reabsorption of solutes and water.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "Approximately what percentage of the filtered sodium ions is reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "25%",
+        "50%",
+        "65%",
+        "80%"
+      ],
+      "answer": 2,
+      "explanation": "About 65% (roughly two‑thirds) of the filtered Na+ is reabsorbed in the proximal convoluted tubule through active and passive transport mechanisms.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "Which transporter mediates the majority of glucose reabsorption in the proximal convoluted tubule?",
+      "options": [
+        "Na+/K+ ATPase",
+        "SGLT2 co‑transporter",
+        "GLUT2 facilitated diffusion carrier",
+        "Na+/H+ exchanger"
+      ],
+      "answer": 1,
+      "explanation": "Glucose is reabsorbed mainly via the sodium‑glucose linked transporter 2 (SGLT2) on the apical membrane, which couples glucose uptake with Na+ entry.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "Which substance is predominantly secreted into the lumen of the proximal convoluted tubule?",
+      "options": [
+        "Urea",
+        "Creatinine",
+        "Hydrogen ions",
+        "Bicarbonate ions"
+      ],
+      "answer": 2,
+      "explanation": "The proximal tubule actively secretes H+ ions into the tubular fluid, playing a key role in acid‑base balance.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "The brush border of the proximal convoluted tubule increases the luminal surface area by approximately:",
+      "options": [
+        "2‑3 times",
+        "5‑10 times",
+        "10‑20 times",
+        "30‑40 times"
+      ],
+      "answer": 2,
+      "explanation": "The dense microvilli (brush border) amplify the surface area by about 10‑20 fold, allowing extensive reabsorption.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "Reabsorption of filtered bicarbonate in the proximal convoluted tubule depends on which intracellular enzyme?",
+      "options": [
+        "Carbonic anhydrase",
+        "Na+/K+ ATPase",
+        "Aldolase B",
+        "Phosphofructokinase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase inside the tubular cells rapidly converts filtered H2CO3 into CO2 and H2O, facilitating bicarbonate reabsorption.",
+      "topic": "Proximal convoluted tubule"
+    },
+    {
+      "question": "Which segment of the Loop of Henle is impermeable to water but actively reabsorbs Na⁺, K⁺ and 2Cl⁻ ions?",
+      "options": [
+        "Descending thin limb",
+        "Thin ascending limb",
+        "Thick ascending limb",
+        "Cortical collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "The thick ascending limb has low water permeability and contains the Na⁺‑K⁺‑2Cl⁻ cotransporter that actively reabsorbs these ions.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "The primary mechanism by which the Loop of Henle creates a hyperosmotic renal medulla is:",
+      "options": [
+        "Countercurrent multiplier system",
+        "Countercurrent exchange system",
+        "Ultrafiltration pressure gradient",
+        "Active secretion of solutes"
+      ],
+      "answer": 0,
+      "explanation": "The counter‑current multiplier, generated by differing permeabilities and active transport in the loop, establishes the osmotic gradient.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Antidiuretic hormone (ADH) increases water permeability of which part of the nephron?",
+      "options": [
+        "Descending thin limb of the Loop of Henle",
+        "Thick ascending limb of the Loop of Henle",
+        "Thin ascending limb of the Loop of Henle",
+        "Proximal convoluted tubule"
+      ],
+      "answer": 0,
+      "explanation": "ADH inserts aquaporin‑2 channels in the descending limb (and collecting duct), enhancing water reabsorption there.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Loop diuretics such as furosemide exert their effect by inhibiting transport in which segment?",
+      "options": [
+        "Descending limb of the Loop of Henle",
+        "Thin ascending limb of the Loop of Henle",
+        "Thick ascending limb of the Loop of Henle",
+        "Distal convoluted tubule"
+      ],
+      "answer": 2,
+      "explanation": "Furosemide blocks the Na⁺‑K⁺‑2Cl⁻ cotransporter in the thick ascending limb, reducing NaCl reabsorption.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "At the tip (hairpin bend) of the Loop of Henle, the tubular fluid reaches its highest osmolarity, approximately:",
+      "options": [
+        "300 mOsm kg⁻¹",
+        "600 mOsm kg⁻¹",
+        "1200 mOsm kg⁻¹",
+        "1500 mOsm kg⁻¹"
+      ],
+      "answer": 2,
+      "explanation": "Due to water loss in the descending limb and continued NaCl reabsorption, the filtrate can reach ~1200 mOsm kg⁻¹ at the loop tip.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "In the thin descending limb, NaCl moves primarily by:",
+      "options": [
+        "Active reabsorption via Na⁺/K⁺‑ATPase",
+        "Passive diffusion out of the tubule into the interstitium",
+        "Secretion into the tubular lumen",
+        "No net movement"
+      ],
+      "answer": 1,
+      "explanation": "The thin descending limb is permeable to water but not to ions, so NaCl diffuses passively down its concentration gradient into the hyperosmotic medullary interstitium.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "The Loop of Henle is situated mainly in which region of the kidney?",
+      "options": [
+        "Renal cortex",
+        "Renal medulla",
+        "Renal pelvis",
+        "Renal capsule"
+      ],
+      "answer": 1,
+      "explanation": "The loop extends deep into the renal medulla, forming the hairpin turn that is essential for the medullary concentration gradient.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Which transport process is most characteristic of the distal convoluted tubule?",
+      "options": [
+        "Na⁺/K⁺‑ATPase activity on the basolateral membrane",
+        "Glucose reabsorption via SGLT2",
+        "H⁺ secretion through H⁺‑ATPase",
+        "Water reabsorption via aquaporin‑2"
+      ],
+      "answer": 0,
+      "explanation": "The distal convoluted tubule (DCT) prominently uses basolateral Na⁺/K⁺‑ATPase to create an electrochemical gradient that drives Na⁺ reabsorption, especially under aldosterone influence. Other processes listed are typical of different nephron segments.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "Aldosterone primarily increases sodium reabsorption in which nephron segment?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone binds to receptors in the distal convoluted tubule and the cortical collecting duct, up‑regulating ENaC channels and Na⁺/K⁺‑ATPase, thereby enhancing Na⁺ reabsorption and K⁺ secretion.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "Under normal physiological conditions, the distal convoluted tubule is:",
+      "options": [
+        "Highly water‑permeable due to abundant aquaporin‑1",
+        "Relatively impermeable to water; minimal water reabsorption",
+        "Moderately water‑permeable and regulated by ADH",
+        "Permeable only to urea"
+      ],
+      "answer": 1,
+      "explanation": "The DCT lacks significant water channels and is considered relatively impermeable to water; most water reabsorption under ADH control occurs later in the collecting duct.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "The distal convoluted tubule contributes to acid‑base balance mainly by secreting which ion?",
+      "options": [
+        "Bicarbonate (HCO₃⁻)",
+        "Ammonium (NH₄⁺)",
+        "Hydrogen ions (H⁺)",
+        "Phosphate (PO₄³⁻)"
+      ],
+      "answer": 2,
+      "explanation": "Cells of the DCT possess H⁺‑ATPase and H⁺/K⁺ exchangers that secrete hydrogen ions into the tubular lumen, aiding in the excretion of acid and regeneration of bicarbonate.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "In a nephron diagram, the distal convoluted tubule can be distinguished from the proximal convoluted tubule by:",
+      "options": [
+        "A dense brush border of microvilli",
+        "A larger lumen diameter than the PCT",
+        "A thinner brush border with fewer microvilli",
+        "Direct attachment of a loop of Henle"
+      ],
+      "answer": 2,
+      "explanation": "The DCT has a much less pronounced brush border compared with the PCT, reflecting its lower capacity for bulk reabsorption of solutes like glucose and amino acids.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "Which hormone directly increases water permeability of the distal convoluted tubule?",
+      "options": [
+        "Aldosterone",
+        "Antidiuretic hormone (ADH)",
+        "Atrial natriuretic peptide (ANP)",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "ADH primarily acts on the collecting duct; aldosterone regulates Na⁺/K⁺ transport; ANP promotes natriuresis. None of these hormones directly increase water permeability in the DCT.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "In hyperaldosteronism, the distal convoluted tubule shows which combination of ion transport changes?",
+      "options": [
+        "Decreased Na⁺ reabsorption and increased K⁺ secretion",
+        "Increased Na⁺ reabsorption and decreased K⁺ secretion",
+        "Increased Na⁺ reabsorption and increased K⁺ secretion",
+        "Decreased Na⁺ reabsorption and decreased K⁺ secretion"
+      ],
+      "answer": 2,
+      "explanation": "Excess aldosterone enhances Na⁺ reabsorption via ENaC and Na⁺/K⁺‑ATPase while simultaneously stimulating K⁺ secretion into the tubular lumen, leading to hypokalaemia.",
+      "topic": "Distal convoluted tubule"
+    },
+    {
+      "question": "Which segment of the nephron is primarily responsible for the final adjustment of water reabsorption under the influence of antidiuretic hormone?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 3,
+      "explanation": "ADH acts mainly on the collecting duct, increasing its water permeability and allowing the final concentration of urine.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "The cells that line the cortical portion of the collecting duct and mediate Na+ and water transport are called:",
+      "options": [
+        "Principal cells",
+        "Intercalated cells",
+        "Podocytes",
+        "Mesangial cells"
+      ],
+      "answer": 0,
+      "explanation": "Principal cells are abundant in the cortical collecting duct and are responsible for Na+ reabsorption (via ENaC) and water reabsorption (via aquaporin-2).",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "Antidiuretic hormone (ADH) increases water permeability of the collecting duct by promoting insertion of which channel protein into the apical membrane?",
+      "options": [
+        "Na+/K+ ATPase",
+        "Aquaporin-2",
+        "Epithelial Na+ channel (ENaC)",
+        "Renal outer medullary potassium channel (ROMK)"
+      ],
+      "answer": 1,
+      "explanation": "ADH triggers the translocation of aquaporin‑2 water channels to the apical membrane of principal cells, enhancing water reabsorption.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "In the medullary portion of the collecting duct, Na+ reabsorption is mainly mediated by which transporter?",
+      "options": [
+        "Na+/K+/2Cl‑ cotransporter (NKCC2)",
+        "Na+/H+ exchanger (NHE3)",
+        "Na+/Cl‑ cotransporter (NCC)",
+        "Na+/glucose symporter (SGLT)"
+      ],
+      "answer": 0,
+      "explanation": "The thick ascending limb and the early medullary collecting duct use the NKCC2 cotransporter to reabsorb Na+, K+, and 2 Cl‑ ions.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "Which of the following best describes the primary function of intercalated cells in the collecting duct?",
+      "options": [
+        "Secrete bicarbonate and reabsorb H+",
+        "Secrete H+ and reabsorb bicarbonate",
+        "Reabsorb glucose",
+        "Secrete potassium"
+      ],
+      "answer": 1,
+      "explanation": "Type A intercalated cells secrete H+ into the tubular lumen and reabsorb bicarbonate, contributing to acid‑base balance.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "The osmolarity of fluid in the inner medullary collecting duct can reach approximately:",
+      "options": [
+        "300 mOsm/kg",
+        "600 mOsm/kg",
+        "900 mOsm/kg",
+        "1200 mOsm/kg"
+      ],
+      "answer": 3,
+      "explanation": "Due to the counter‑current multiplication system, the inner medullary collecting duct can attain osmolarities up to ~1200 mOsm/kg, allowing maximal water reabsorption.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "Which hormone opposes the action of ADH on the collecting duct, leading to reduced water reabsorption?",
+      "options": [
+        "Aldosterone",
+        "Atrial natriuretic peptide (ANP)",
+        "Parathyroid hormone",
+        "Renin"
+      ],
+      "answer": 1,
+      "explanation": "ANP inhibits ADH‑mediated insertion of aquaporin‑2 channels, decreasing water permeability of the collecting duct and promoting diuresis.",
+      "topic": "Collecting duct"
+    },
+    {
+      "question": "Which cells of the juxtaglomerular apparatus are primarily responsible for renin secretion?",
+      "options": [
+        "Juxtaglomerular (granular) cells",
+        "Macula densa cells",
+        "Mesangial cells",
+        "Podocytes"
+      ],
+      "answer": 0,
+      "explanation": "Juxtaglomerular cells, located in the wall of the afferent arteriole, are modified smooth‑muscle cells that store and release renin in response to reduced renal perfusion or low NaCl at the macula densa.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "The macula densa cells monitor changes in the tubular fluid composition. Which component do they sense most directly?",
+      "options": [
+        "Sodium chloride concentration",
+        "Glucose concentration",
+        "Urea concentration",
+        "Potassium concentration"
+      ],
+      "answer": 0,
+      "explanation": "Macula densa cells are specialized epithelial cells of the distal convoluted tubule that detect the NaCl concentration of the filtrate, initiating tubuloglomerular feedback.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "A fall in renal arterial pressure triggers which immediate response of the juxtaglomerular apparatus?",
+      "options": [
+        "Increased renin release from juxtaglomerular cells",
+        "Decreased antidiuretic hormone secretion",
+        "Increased atrial natriuretic peptide release",
+        "Reduced sympathetic nerve activity to the kidney"
+      ],
+      "answer": 0,
+      "explanation": "Reduced perfusion pressure is sensed by stretch‑receptors in juxtaglomerular cells, leading to enhanced renin secretion to activate the renin‑angiotensin system.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "The juxtaglomerular apparatus is situated at the anatomical junction of which two structures?",
+      "options": [
+        "Afferent arteriole and distal convoluted tubule",
+        "Proximal convoluted tubule and glomerular capillary",
+        "Loop of Henle and collecting duct",
+        "Efferent arteriole and peritubular capillary"
+      ],
+      "answer": 0,
+      "explanation": "The JGA comprises juxtaglomerular cells on the afferent arteriole, macula densa of the distal convoluted tubule, and extraglomerular mesangial cells, forming a functional unit at this junction.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "During tubuloglomerular feedback, a low NaCl concentration at the macula densa leads to which vascular response?",
+      "options": [
+        "Constriction of the afferent arteriole",
+        "Dilation of the afferent arteriole",
+        "Direct release of renin from macula densa",
+        "Increase in glomerular filtration rate independent of arteriolar tone"
+      ],
+      "answer": 1,
+      "explanation": "Low NaCl sensed by macula densa triggers release of prostaglandins that cause afferent arteriole dilation, raising GFR to restore NaCl delivery.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "Renin released by the juxtaglomerular cells ultimately contributes to the formation of which potent vasoconstrictor?",
+      "options": [
+        "Angiotensin II",
+        "Aldosterone",
+        "Antidiuretic hormone (ADH)",
+        "Atrial natriuretic peptide"
+      ],
+      "answer": 0,
+      "explanation": "Renin cleaves angiotensinogen to angiotensin I, which is converted by ACE to angiotensin II, a strong vasoconstrictor that raises systemic blood pressure.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "Which statement about juxtaglomerular cells is FALSE?",
+      "options": [
+        "They are modified smooth‑muscle cells",
+        "They contain granules rich in renin",
+        "They are located on the efferent arteriole",
+        "They respond to sympathetic stimulation"
+      ],
+      "answer": 2,
+      "explanation": "Juxtaglomerular cells are situated on the wall of the afferent arteriole, not the efferent arteriole; the other statements are true.",
+      "topic": "Juxtaglomerular apparatus"
+    },
+    {
+      "question": "Which vessel directly supplies blood to the glomerular capillaries?",
+      "options": [
+        "Afferent arteriole",
+        "Efferent arteriole",
+        "Interlobar artery",
+        "Peritubular capillary"
+      ],
+      "answer": 0,
+      "explanation": "The afferent arteriole branches from the interlobular (cortical radiate) artery and delivers blood into the glomerular capillary tuft for filtration.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "The efferent arteriole of a juxtamedullary nephron gives rise to which specialized capillary network that supplies the medullary portion of the loop of Henle?",
+      "options": [
+        "Peritubular capillaries",
+        "Vasa recta",
+        "Renal portal veins",
+        "Cortical radiate arteries"
+      ],
+      "answer": 1,
+      "explanation": "In juxtamedullary nephrons, the efferent arteriole forms the vasa recta, a hairpin‑shaped capillary system that runs parallel to the long loop of Henle in the medulla, preserving the osmotic gradient.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "In the renal arterial hierarchy, which of the following is the immediate branch after the arcuate artery?",
+      "options": [
+        "Interlobar artery",
+        "Interlobular (cortical radiate) artery",
+        "Segmental artery",
+        "Renal artery"
+      ],
+      "answer": 1,
+      "explanation": "Arcuate arteries run along the corticomedullary junction and give rise to interlobular (cortical radiate) arteries that supply the renal cortex.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "Which statement about blood flow in cortical versus juxtamedullary nephrons is correct?",
+      "options": [
+        "Cortical nephrons receive blood from vasa recta",
+        "Juxtamedullary nephrons have longer loops of Henle supplied by vasa recta",
+        "Cortical nephrons lack afferent arterioles",
+        "Juxtamedullary nephrons are supplied only by peritubular capillaries"
+      ],
+      "answer": 1,
+      "explanation": "Juxtamedullary nephrons possess long loops of Henle that descend into the medulla; these are supplied by the vasa recta, whereas cortical nephrons have short loops and rely mainly on peritubular capillaries.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "Juxtaglomerular cells, which secrete renin, are located in which part of the nephron's blood supply?",
+      "options": [
+        "Afferent arteriole wall",
+        "Efferent arteriole wall",
+        "Peritubular capillaries",
+        "Vasa recta"
+      ],
+      "answer": 0,
+      "explanation": "Juxtaglomerular (JG) cells are specialized smooth‑muscle cells in the wall of the afferent arteriole (and also in the macula densa) and release renin in response to low blood pressure.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "Which of the following best describes the relationship between the peritubular capillaries and the proximal convoluted tubule?",
+      "options": [
+        "They arise from the efferent arteriole and closely surround the PCT",
+        "They arise from the afferent arteriole and bypass the glomerulus",
+        "They are part of the vasa recta network",
+        "They are absent around the PCT"
+      ],
+      "answer": 0,
+      "explanation": "After filtration, blood exits the glomerulus via the efferent arteriole, which then branches into peritubular capillaries that closely envelop the proximal convoluted tubule for reabsorption and secretion.",
+      "topic": "Blood supply of nephron"
+    },
+    {
+      "question": "The renal blood flow that reaches the glomerulus first passes through which sequence of vessels?",
+      "options": [
+        "Renal artery → segmental artery → interlobar artery → arcuate artery → interlobular artery → afferent arteriole",
+        "Renal vein → arcuate artery → interlobar artery → segmental artery → afferent arteriole",
+        "Renal artery → interlobar artery → arcuate artery → segmental artery → afferent arteriole",
+        "Renal artery → arcuate artery → interlobar artery → segmental artery → afferent arteriole"
+      ],
+      "answer": 0,
+      "explanation": "Blood enters the kidney via the renal artery, then branches sequentially into segmental, interlobar, arcuate, interlobular (cortical radiate) arteries, and finally the afferent arteriole that feeds the glomerulus.",
+      "topic": "Blood supply of nephron"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 29,
+    "mcqCount": 202
+  }
+}

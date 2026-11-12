@@ -1,0 +1,1090 @@
+{
+  "day": 7,
+  "courseDate": "2026-09-05",
+  "publishAt": "2026-09-05T06:00:00+05:30",
+  "title": "Day 7: Anatomy of Flowering Plants – Plant Tissues and Internal Organization",
+  "introduction": "This lesson covers the classification, characteristics and functions of plant tissues, followed by the detailed internal organization of roots, stems and leaves in both monocots and dicots, and concludes with the mechanisms of secondary growth.",
+  "sections": [
+    {
+      "topic": "Plant tissues",
+      "heading": "Overview of Plant Tissues",
+      "content": "Plant tissues are groups of cells with a common origin, structure and function. They are broadly classified into meristematic (living, actively dividing) and permanent (mature, differentiated) tissues. Permanent tissues are further divided into simple (single cell type) and complex (multiple cell types) tissues, and protective tissues that shield the plant from mechanical injury and water loss. Understanding these categories provides the framework for studying organ anatomy.",
+      "keyPoints": [
+        "Plant tissues are classified as meristematic or permanent",
+        "Permanent tissues include simple, complex and protective types",
+        "Tissue classification reflects cell origin, structure and function"
+      ],
+      "neetTips": [
+        "Memorize the hierarchy: meristematic → permanent → simple/complex/protective",
+        "Link tissue type to its primary function for quick recall"
+      ]
+    },
+    {
+      "topic": "Meristematic tissues",
+      "heading": "Characteristics and Types of Meristematic Tissues",
+      "content": "Meristematic tissues consist of small, thin‑walled, densely cytoplasmic cells with prominent nuclei and no vacuoles. They retain the ability to divide continuously. Three major meristems exist: apical meristems (primary growth at tips of roots and shoots), intercalary meristems (found at internodes of grasses, enabling rapid elongation), and lateral meristems (vascular and cork cambium responsible for secondary growth).",
+      "keyPoints": [
+        "Cells are small, undifferentiated, with dense cytoplasm and prominent nuclei",
+        "Apical meristems drive primary elongation of roots and shoots",
+        "Intercalary meristems enable lengthening of internodes in monocots",
+        "Lateral meristems generate secondary tissues"
+      ],
+      "neetTips": [
+        "Associate apical meristem with tip growth, intercalary with grass stems, lateral with wood formation"
+      ]
+    },
+    {
+      "topic": "Permanent tissues",
+      "heading": "Permanent Tissues – Simple, Complex and Protective",
+      "content": "Permanent tissues are mature, differentiated cells that no longer divide. Simple permanent tissues contain a single cell type (parenchyma, collenchyma, sclerenchyma). Complex permanent tissues comprise more than one cell type, exemplified by xylem and phloem. Protective tissues such as epidermis and periderm form the outermost barrier, preventing desiccation and pathogen entry.",
+      "keyPoints": [
+        "Permanent tissues are differentiated and non‑dividing",
+        "Simple permanent tissues: parenchyma, collenchyma, sclerenchyma",
+        "Complex permanent tissues: xylem and phloem",
+        "Protective tissues form the plant's outer barrier"
+      ],
+      "neetTips": [
+        "Group tissues by cell type count: one = simple, multiple = complex"
+      ]
+    },
+    {
+      "topic": "Simple permanent tissues",
+      "heading": "Parenchyma, Collenchyma and Sclerenchyma",
+      "content": "Parenchyma cells are thin‑walled, living, and involved in photosynthesis, storage and wound healing. Collenchyma cells have unevenly thickened primary walls, providing flexible support in growing organs. Sclerenchyma cells possess thick secondary walls (lignified) and are dead at maturity; fibers provide tensile strength, while sclereids give hardness (e.g., nutshell).",
+      "keyPoints": [
+        "Parenchyma: thin walls, living, metabolic functions",
+        "Collenchyma: uneven thickening, flexible support",
+        "Sclerenchyma: thick secondary walls, dead, structural rigidity"
+      ],
+      "neetTips": [
+        "Remember the mnemonic P‑C‑S for Parenchyma (Photosynthesis), Collenchyma (Support), Sclerenchyma (Strength)"
+      ]
+    },
+    {
+      "topic": "Complex permanent tissues",
+      "heading": "Xylem and Phloem Structure and Function",
+      "content": "Xylem conducts water and minerals from roots to aerial parts. It consists of tracheids and vessel elements (both lignified and dead) plus xylem parenchyma and fibers. Phloem transports organic solutes; its living components include sieve‑tube elements (with sieve plates) and companion cells, supported by phloem parenchyma and fibers. Both tissues originate from the procambium.",
+      "keyPoints": [
+        "Xylem: water transport, composed of tracheids, vessels, fibers, parenchyma",
+        "Phloem: organic solute transport, composed of sieve tubes, companion cells, fibers, parenchyma",
+        "Both arise from procambium"
+      ],
+      "neetTips": [
+        "Link xylem to dead, lignified cells; phloem to living sieve tubes"
+      ]
+    },
+    {
+      "topic": "Protective tissues",
+      "heading": "Epidermis and Periderm as Protective Layers",
+      "content": "The epidermal tissue system forms the outermost layer of young organs, consisting of a single layer of epidermal cells, guard cells, and subsidiary cells. In mature stems and roots, the periderm (cork, cork cambium, phelloderm) replaces the epidermis, providing a waterproof barrier and protection against pathogens.",
+      "keyPoints": [
+        "Epidermis: single cell layer, includes guard cells",
+        "Periderm replaces epidermis in woody parts",
+        "Cork cells are suberized for water resistance"
+      ],
+      "neetTips": [
+        "Epidermis = primary protection; periderm = secondary protection"
+      ]
+    },
+    {
+      "topic": "Tissue systems",
+      "heading": "Epidermal, Ground and Vascular Tissue Systems",
+      "content": "The epidermal tissue system includes epidermis, periderm and associated glands. The ground tissue system comprises parenchyma, collenchyma and sclerenchyma, performing photosynthesis, storage and support. The vascular tissue system contains xylem and phloem, forming the transport network. Integration of these systems defines organ architecture.",
+      "keyPoints": [
+        "Epidermal system: outer protective layer",
+        "Ground system: parenchyma, collenchyma, sclerenchyma",
+        "Vascular system: xylem + phloem"
+      ],
+      "neetTips": [
+        "Visualize a cross‑section: outer epidermis → ground → vascular core"
+      ]
+    },
+    {
+      "topic": "Internal structure of root",
+      "heading": "Dicot and Monocot Root Anatomy",
+      "content": "Dicot roots possess a central stele with xylem arranged in an X‑shape, surrounded by phloem, a pericycle, endodermis with Casparian strip, cortex, and a single-layer epidermis with root hairs. Monocot roots have a polyarch stele (multiple xylem poles), a well‑developed pericycle, and a similar outer organization but lack a distinct X‑shaped xylem pattern.",
+      "keyPoints": [
+        "Dicot root stele: X‑shaped xylem, phloem between arms",
+        "Monocot root stele: polyarch (multiple) xylem poles",
+        "Both have epidermis, cortex, endodermis, pericycle"
+      ],
+      "neetTips": [
+        "Recall X‑shape for dicot, many poles for monocot"
+      ]
+    },
+    {
+      "topic": "Internal structure of stem",
+      "heading": "Dicot vs Monocot Stem Organization",
+      "content": "Dicot stems have a ring of vascular bundles arranged in a circle, with a central pith. Each bundle contains xylem (toward the interior) and phloem (toward the exterior) separated by a cambium. Monocot stems display scattered vascular bundles throughout the ground tissue, lacking a distinct pith‑cortex arrangement, and generally no vascular cambium.",
+      "keyPoints": [
+        "Dicot stem: concentric vascular ring, pith, cambium present",
+        "Monocot stem: scattered bundles, no vascular cambium",
+        "Xylem inside, phloem outside in each bundle"
+      ],
+      "neetTips": [
+        "Ring = dicot, scattered = monocot"
+      ]
+    },
+    {
+      "topic": "Internal structure of leaf",
+      "heading": "Dorsiventral and Isobilateral Leaf Types",
+      "content": "Dorsiventral (bifacial) leaves, typical of most dicots, have distinct upper (adaxial) palisade parenchyma and lower (abaxial) spongy parenchyma, with stomata mainly on the lower surface. Isobilateral (conduplicate) leaves, common in monocots like grasses, possess similar mesophyll on both sides and parallel venation; stomata are distributed on both surfaces.",
+      "keyPoints": [
+        "Dorsiventral leaf: palisade (upper) + spongy (lower) mesophyll",
+        "Isobilateral leaf: similar mesophyll both sides, parallel veins",
+        "Stomatal distribution differs"
+      ],
+      "neetTips": [
+        "Palisade = upper side, spongy = lower side for dorsiventral"
+      ]
+    },
+    {
+      "topic": "Secondary growth",
+      "heading": "Vascular Cambium Activity and Annual Rings",
+      "content": "Secondary growth is driven by the lateral meristem, the vascular cambium, which produces secondary xylem (wood) inward and secondary phloem outward. In dicots, the periodic variation in cell size and wall thickness of secondary xylem forms annual rings, useful for age determination. Monocots generally lack a functional vascular cambium and thus do not form true secondary growth.",
+      "keyPoints": [
+        "Vascular cambium generates secondary xylem inward, phloem outward",
+        "Annual rings result from seasonal variation in xylem deposition",
+        "Monocots lack true secondary growth"
+      ],
+      "neetTips": [
+        "Annual rings = seasonal xylem growth; remember monocots = no rings"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand plant tissues and the internal organisation of roots, stems and leaves, with special attention to monocot-dicot differences and secondary growth."
+  ],
+  "mcqs": [
+    {
+      "question": "Which characteristic primarily distinguishes meristematic tissue from permanent tissue in plants?",
+      "options": [
+        "Presence of thin primary cell walls",
+        "Ability to divide actively",
+        "Large central vacuoles",
+        "Lignified secondary walls"
+      ],
+      "answer": 1,
+      "explanation": "Meristematic cells retain a high mitotic activity and can continuously divide, whereas permanent cells have usually exited the cell cycle.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "In a dicot root, which tissue lies directly outside the endodermis?",
+      "options": [
+        "Pericycle",
+        "Cortex",
+        "Phloem",
+        "Xylem"
+      ],
+      "answer": 0,
+      "explanation": "The pericycle is a layer of parenchyma cells that surrounds the stele and is situated just external to the endodermal layer.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "Collenchyma cells in plants are mainly associated with which function?",
+      "options": [
+        "Photosynthesis",
+        "Support in growing parts",
+        "Water conduction",
+        "Storage of reserves"
+      ],
+      "answer": 1,
+      "explanation": "Collenchyma provides flexible support, especially in young, elongating organs, due to its unevenly thickened primary walls.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "Which statement about sclerenchyma tissue is FALSE?",
+      "options": [
+        "They have thick secondary walls",
+        "They are usually dead at maturity",
+        "They contain living protoplasts",
+        "They provide mechanical strength"
+      ],
+      "answer": 2,
+      "explanation": "Sclerenchyma cells (e.g., fibers and sclereids) are typically dead at maturity and lack a living protoplast; the other statements are true.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "In the vascular tissue system of a monocot stem, the vascular bundles are arranged:",
+      "options": [
+        "In a continuous ring",
+        "Scattered throughout the ground tissue",
+        "As a single central cylinder",
+        "Absent in monocot stems"
+      ],
+      "answer": 1,
+      "explanation": "Monocot stems have vascular bundles dispersed irregularly in the ground tissue, unlike the concentric ring seen in dicots.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "Which of the following cell types is NOT a component of the phloem?",
+      "options": [
+        "Sieve‑tube element",
+        "Companion cell",
+        "Tracheid",
+        "Phloem parenchyma"
+      ],
+      "answer": 2,
+      "explanation": "Tracheids are part of the xylem; the phloem is composed of sieve‑tube elements, companion cells, phloem parenchyma, and fibers.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "The epidermal tissue system of a leaf includes all EXCEPT:",
+      "options": [
+        "Guard cells",
+        "Trichomes",
+        "Stomata",
+        "Xylem vessels"
+      ],
+      "answer": 3,
+      "explanation": "Xylem vessels belong to the vascular tissue system, not the epidermal system, which comprises guard cells, trichomes, and stomatal complexes.",
+      "topic": "Plant tissues"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of meristematic cells?",
+      "options": [
+        "Thin primary cell walls",
+        "Large central vacuole",
+        "Prominent nucleolus",
+        "High mitotic activity"
+      ],
+      "answer": 1,
+      "explanation": "Meristematic cells have thin walls, dense cytoplasm, small vacuoles, prominent nucleolus and high division; a large central vacuole is typical of mature cells.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "Apical meristem is primarily responsible for:",
+      "options": [
+        "Secondary thickening of stems",
+        "Primary growth in length",
+        "Formation of bark",
+        "Production of secondary xylem"
+      ],
+      "answer": 1,
+      "explanation": "Apical meristems located at shoot and root tips drive primary growth, increasing the length of the plant.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "In monocots, intercalary meristems are commonly found at:",
+      "options": [
+        "Root tip",
+        "Base of internodes",
+        "Shoot apex",
+        "Vascular cambium"
+      ],
+      "answer": 1,
+      "explanation": "Intercalary meristems in monocots are situated at the base of internodes, allowing rapid elongation of mature stems and leaves.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "Which meristem gives rise to secondary xylem and secondary phloem?",
+      "options": [
+        "Apical meristem",
+        "Intercalary meristem",
+        "Vascular cambium",
+        "Cork cambium"
+      ],
+      "answer": 2,
+      "explanation": "The vascular cambium, a lateral meristem, produces secondary xylem (inward) and secondary phloem (outward) during secondary growth.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "The cork cambium (phellogen) is classified as which type of meristem?",
+      "options": [
+        "Apical",
+        "Intercalary",
+        "Lateral",
+        "Ground"
+      ],
+      "answer": 2,
+      "explanation": "Cork cambium is a lateral meristem that generates the protective periderm (phellem and phelloderm) in woody plants.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "Which statement correctly distinguishes apical and intercalary meristems?",
+      "options": [
+        "Apical meristems are found only in roots, intercalary only in stems",
+        "Apical meristems contribute to lengthwise growth, intercalary to elongation of mature organs",
+        "Both are types of lateral meristems",
+        "Intercalary meristems produce secondary tissues"
+      ],
+      "answer": 1,
+      "explanation": "Apical meristems drive primary elongation at tips, whereas intercalary meristems enable elongation of already formed internodes or leaf bases.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "The pericycle retains meristematic activity and gives rise to which lateral meristem?",
+      "options": [
+        "Apical meristem",
+        "Intercalary meristem",
+        "Vascular cambium",
+        "Cork cambium"
+      ],
+      "answer": 2,
+      "explanation": "In dicot roots and stems, the pericycle is a meristematic layer that initiates the vascular cambium, a lateral meristem responsible for secondary growth.",
+      "topic": "Meristematic tissues"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of parenchyma cells?",
+      "options": [
+        "Presence of lignified secondary walls",
+        "Thin primary cell walls",
+        "Living at maturity",
+        "Extensive plasmodesmata connecting cells"
+      ],
+      "answer": 0,
+      "explanation": "Parenchyma cells have thin primary walls, remain living at maturity and possess many plasmodesmata; they do not develop lignified secondary walls.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "Collenchyma tissue is most abundant in which part of a plant?",
+      "options": [
+        "Root tip region",
+        "Leaf midrib",
+        "Young stems and petioles",
+        "Mature woody xylem"
+      ],
+      "answer": 2,
+      "explanation": "Collenchyma provides flexible support and is typically found in growing parts such as young stems and petioles.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "Sclerenchyma fibers differ from sclereids mainly because fibers are:",
+      "options": [
+        "Elongated with tapering ends",
+        "Highly lignified with pits",
+        "Living at maturity",
+        "Rich in chloroplasts"
+      ],
+      "answer": 0,
+      "explanation": "Sclerenchyma fibers are long, slender cells with tapering ends, whereas sclereids are shorter and varied in shape.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "In a dicot stem, which permanent tissue primarily provides both mechanical support and storage?",
+      "options": [
+        "Parenchyma",
+        "Collenchyma",
+        "Sclerenchyma fibers",
+        "Xylem vessels"
+      ],
+      "answer": 2,
+      "explanation": "Sclerenchyma fibers are dead, heavily lignified cells that give strong support and can also store substances in their associated parenchyma.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "Which xylem element is chiefly responsible for rapid water transport in dicot stems?",
+      "options": [
+        "Vessel elements",
+        "Tracheids",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 0,
+      "explanation": "Vessel elements are wide, tube‑like cells that form continuous vessels, allowing efficient water conduction.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "A distinctive feature of phloem sieve tubes is:",
+      "options": [
+        "Lignified secondary walls",
+        "Association with companion cells",
+        "Thickened secondary walls",
+        "Lack of plasmodesmata"
+      ],
+      "answer": 1,
+      "explanation": "Sieve tube elements are living cells that lack a nucleus and are closely associated with companion cells, which aid in loading and unloading of solutes.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "Which statement correctly distinguishes simple from complex permanent tissues?",
+      "options": [
+        "Simple tissues consist of a single cell type, whereas complex tissues contain more than one cell type",
+        "Simple tissues are always living, while complex tissues are always dead",
+        "Simple tissues are found only in roots, complex tissues only in stems",
+        "Simple tissues have primary walls, complex tissues have secondary walls"
+      ],
+      "answer": 0,
+      "explanation": "Simple permanent tissues (parenchyma, collenchyma, sclerenchyma) are composed of one cell type; complex permanent tissues (xylem, phloem) are composed of multiple, functionally related cell types.",
+      "topic": "Permanent tissues"
+    },
+    {
+      "question": "Which of the following statements correctly describes parenchyma cells in mature plant tissues?",
+      "options": [
+        "They are dead at maturity and have heavily lignified walls",
+        "They are living cells with thin primary walls and retain the ability to divide",
+        "They possess unevenly thickened walls and provide flexible support",
+        "They are elongated cells with secondary thickening and form fibers"
+      ],
+      "answer": 1,
+      "explanation": "Parenchyma cells are living, have thin primary walls, and can divide, unlike sclerenchyma which are dead and lignified.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "Collenchyma tissue is best identified by which characteristic?",
+      "options": [
+        "Cells with uniformly thick secondary walls",
+        "Living cells with unevenly thickened primary walls",
+        "Dead cells with lignified walls forming sclereids",
+        "Cells containing chloroplasts for photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Collenchyma cells are living and have unevenly thickened primary walls, providing flexible support.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "In a dicot stem, the region between the vascular bundles is primarily composed of which simple permanent tissue?",
+      "options": [
+        "Collenchyma",
+        "Sclerenchyma fibers",
+        "Parenchyma",
+        "Epidermal cells"
+      ],
+      "answer": 2,
+      "explanation": "The ground tissue between vascular bundles in stems is mainly parenchyma, serving storage and metabolic functions.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "Which type of sclerenchyma cell is most commonly found in the hard seed coat of many legumes?",
+      "options": [
+        "Fibers",
+        "Sclereids",
+        "Collenchyma",
+        "Parenchyma"
+      ],
+      "answer": 1,
+      "explanation": "Sclereids are short, irregularly shaped sclerenchyma cells that provide hardness to seed coats.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "A plant cell that stores starch grains in its cytoplasm and is located in the cortex of a root is most likely a:",
+      "options": [
+        "Collenchyma cell",
+        "Parenchyma cell",
+        "Sclerenchyma fiber",
+        "Epidermal guard cell"
+      ],
+      "answer": 1,
+      "explanation": "Storage parenchyma cells in the root cortex accumulate starch; they are living with thin walls.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "Which simple permanent tissue is primarily responsible for the flexible support of young leaves and petioles?",
+      "options": [
+        "Sclerenchyma fibers",
+        "Collenchyma",
+        "Parenchyma",
+        "Xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "Collenchyma provides flexible support in growing parts like young leaves and petioles due to its unevenly thickened walls.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "During wound healing in a herbaceous stem, which simple permanent tissue proliferates to form a protective layer over the damaged area?",
+      "options": [
+        "Collenchyma",
+        "Parenchyma",
+        "Sclerenchyma fibers",
+        "Epidermal cells"
+      ],
+      "answer": 1,
+      "explanation": "Parenchyma cells can dedifferentiate and proliferate to form a callus that later differentiates into protective tissue during wound healing.",
+      "topic": "Simple permanent tissues"
+    },
+    {
+      "question": "Which cell type in xylem is primarily responsible for water conduction and possesses perforated end walls?",
+      "options": [
+        "Tracheids",
+        "Vessel elements",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 1,
+      "explanation": "Vessel elements are short, wide cells with perforation plates at their ends, allowing rapid bulk flow of water.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "In the phloem, the living conducting cells that form the transport tubes are:",
+      "options": [
+        "Sieve tube elements",
+        "Companion cells",
+        "Phloem fibers",
+        "Phloem parenchyma"
+      ],
+      "answer": 0,
+      "explanation": "Sieve tube elements are elongated, living cells that lack a nucleus at maturity and constitute the main conducting pathway of the phloem.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "Which statement correctly distinguishes tracheids from vessel elements?",
+      "options": [
+        "Tracheids have pores; vessels have pits.",
+        "Tracheids are shorter and have perforation plates; vessels are longer and have pits.",
+        "Tracheids are shorter and have pits; vessels are longer and have perforation plates.",
+        "Both have lignified walls and no pits."
+      ],
+      "answer": 2,
+      "explanation": "Tracheids are generally shorter, have pits for lateral water movement, whereas vessel elements are longer and possess perforation plates at their end walls for axial flow.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "The cell type whose seasonal variation in size and number gives rise to distinct early‑wood and late‑wood zones (annual rings) in dicot secondary xylem is:",
+      "options": [
+        "Vessel elements",
+        "Xylem fibers",
+        "Xylem parenchyma",
+        "Tracheids"
+      ],
+      "answer": 0,
+      "explanation": "During the growing season, large-diameter vessel elements are produced (early wood); later, smaller vessels and more fibers form (late wood), creating visible annual rings.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "Companion cells are essential to sieve tube elements because they:",
+      "options": [
+        "Provide metabolic support to the sieve tubes",
+        "Transport water",
+        "Lignify the phloem walls",
+        "Synthesize starch"
+      ],
+      "answer": 0,
+      "explanation": "Companion cells are rich in mitochondria and synthesize proteins and ATP, supplying the energy‑dependent processes required by the enucleate sieve tube elements.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of sclerenchyma cells found in complex permanent tissues?",
+      "options": [
+        "Lignified secondary walls",
+        "Living at maturity",
+        "Provide structural support",
+        "Usually short and irregular"
+      ],
+      "answer": 1,
+      "explanation": "Sclerenchyma cells (fibers and sclereids) are dead at maturity; they have thick lignified walls that give mechanical strength.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "In a typical dicot stem, the vascular bundles are arranged:",
+      "options": [
+        "Scattered throughout the ground tissue",
+        "Form a continuous ring",
+        "Arranged in parallel bundles",
+        "Absent in dicot stems"
+      ],
+      "answer": 1,
+      "explanation": "Dicot stems have vascular bundles organized in a concentric ring, separating the central pith from the outer cortex.",
+      "topic": "Complex permanent tissues"
+    },
+    {
+      "question": "Which tissue layer replaces the epidermis in stems undergoing secondary growth?",
+      "options": [
+        "Periderm",
+        "Cortex",
+        "Phloem",
+        "Pith"
+      ],
+      "answer": 0,
+      "explanation": "During secondary growth, the cork cambium (phellogen) produces the periderm, which replaces the primary epidermis as the outer protective tissue.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "The waxy, water‑impermeable layer on aerial plant parts that reduces transpiration is called:",
+      "options": [
+        "Cuticle",
+        "Suberin",
+        "Lignin",
+        "Substantia"
+      ],
+      "answer": 0,
+      "explanation": "The cuticle is a thin, waxy film secreted by epidermal cells that limits water loss from leaves and stems.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "In dicot stems, which meristem is responsible for generating the periderm?",
+      "options": [
+        "Vascular cambium",
+        "Cork cambium",
+        "Pith parenchyma",
+        "Epidermal cells"
+      ],
+      "answer": 1,
+      "explanation": "The cork cambium (phellogen) is a lateral meristem that produces cork cells outward and phelloderm inward, forming the periderm.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "Which of the following is NOT a function of epidermal trichomes?",
+      "options": [
+        "Reduce transpiration",
+        "Secrete defensive chemicals",
+        "Conduct photosynthates",
+        "Reflect excess radiation"
+      ],
+      "answer": 2,
+      "explanation": "Trichomes are hair‑like outgrowths that can reduce water loss, reflect light, and produce defensive compounds, but they do not transport photosynthates.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "The protective tissue that caps the root tip and protects it as the root penetrates soil is:",
+      "options": [
+        "Endodermis",
+        "Pericycle",
+        "Root cap",
+        "Exodermis"
+      ],
+      "answer": 2,
+      "explanation": "The root cap, composed of parenchyma cells, shields the delicate meristematic region of the root tip during growth.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "Suberin, a hydrophobic polymer, is primarily deposited in which protective tissue?",
+      "options": [
+        "Cuticle",
+        "Periderm",
+        "Endodermis",
+        "Xylem vessels"
+      ],
+      "answer": 2,
+      "explanation": "Suberin is heavily deposited in the endodermal cell walls forming the Casparian strip, providing a barrier to uncontrolled water and solute movement.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "Which statement correctly distinguishes epidermis from periderm?",
+      "options": [
+        "Epidermis contains lignified cells, periderm does not",
+        "Periderm is present in primary growth only",
+        "Epidermis is replaced by periderm during secondary growth",
+        "Periderm lacks a cuticle"
+      ],
+      "answer": 2,
+      "explanation": "In secondary growth, the primary epidermis is shed and the periderm (cork, phellogen, phelloderm) becomes the new outer protective tissue.",
+      "topic": "Protective tissues"
+    },
+    {
+      "question": "Which tissue system is primarily responsible for protection and gas exchange in a typical dicot leaf?",
+      "options": [
+        "Epidermal tissue system",
+        "Ground tissue system",
+        "Vascular tissue system",
+        "Meristematic tissue system"
+      ],
+      "answer": 0,
+      "explanation": "The epidermal tissue system forms the outermost layer of the leaf, providing protection and containing stomata for gas exchange.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "In the vascular tissue system of a monocot stem, the arrangement of vascular bundles is:",
+      "options": [
+        "Scattered throughout the ground tissue",
+        "In a continuous ring around the pith",
+        "In two concentric circles",
+        "Only in the outer cortex"
+      ],
+      "answer": 0,
+      "explanation": "Monocot stems have vascular bundles dispersed irregularly in the ground tissue, unlike the ring arrangement in dicots.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "Which statement correctly describes the ground tissue system in roots?",
+      "options": [
+        "It contains only parenchyma cells",
+        "It includes collenchyma for support",
+        "It consists of parenchyma and sclerenchyma",
+        "It is absent in roots"
+      ],
+      "answer": 0,
+      "explanation": "Root ground tissue is mainly composed of parenchyma cells that store nutrients and aid in transport; collenchyma and sclerenchyma are minimal or absent.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "The epidermal tissue system of a leaf contains specialized guard cells. Their primary function is:",
+      "options": [
+        "Photosynthesis",
+        "Regulation of transpiration through stomatal opening and closing",
+        "Nutrient transport to mesophyll",
+        "Providing structural support"
+      ],
+      "answer": 1,
+      "explanation": "Guard cells surround stomata and control their aperture, thereby regulating water loss and gas exchange.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "In a dicot stem, the vascular tissue system is organized as:",
+      "options": [
+        "Scattered bundles throughout the stem",
+        "A single central cylinder",
+        "A ring of bundles surrounding the pith",
+        "Bundles located only in the cortex"
+      ],
+      "answer": 2,
+      "explanation": "Dicot stems have vascular bundles arranged in a ring (cortical cylinder) around the central pith, facilitating secondary growth.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "Which component is NOT part of the vascular tissue system?",
+      "options": [
+        "Xylem vessels",
+        "Phloem sieve tubes",
+        "Collenchyma fibers",
+        "Companion cells"
+      ],
+      "answer": 2,
+      "explanation": "Collenchyma fibers belong to the ground tissue system; xylem, phloem, and companion cells are integral to the vascular system.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "The primary function of the ground tissue system in a leaf is:",
+      "options": [
+        "Photosynthesis by palisade and spongy parenchyma",
+        "Transport of water from roots to leaf",
+        "Providing mechanical support to the leaf margin",
+        "Facilitating gas exchange through stomata"
+      ],
+      "answer": 0,
+      "explanation": "Leaf ground tissue consists mainly of palisade and spongy parenchyma, which are the main sites of photosynthesis.",
+      "topic": "Tissue systems"
+    },
+    {
+      "question": "Which layer in a dicot root contains the Casparian strip that regulates selective mineral uptake?",
+      "options": [
+        "Endodermis",
+        "Pericycle",
+        "Cortex",
+        "Epidermis"
+      ],
+      "answer": 0,
+      "explanation": "The endodermal cells develop a Casparian strip, a band of suberin that blocks apoplastic flow, forcing solutes to cross cell membranes for selective uptake.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "In a typical monocot root, how are the xylem and phloem arranged within the stele?",
+      "options": [
+        "Xylem in centre and phloem surrounding it",
+        "Xylem and phloem in alternating bundles",
+        "Xylem peripheral and phloem central",
+        "Xylem and phloem in a ring with phloem outside"
+      ],
+      "answer": 0,
+      "explanation": "Monocot roots have a central core of xylem surrounded by a layer of phloem; the two are not organized into discrete bundles as in dicots.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "The pericycle of a root is derived from which tissue type?",
+      "options": [
+        "Ground tissue",
+        "Vascular tissue",
+        "Dermal tissue",
+        "Meristematic tissue"
+      ],
+      "answer": 0,
+      "explanation": "The pericycle originates from ground tissue (parenchyma) of the stele and lies just inside the endodermis.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "Root hairs are extensions of which root cell type?",
+      "options": [
+        "Epidermal cells",
+        "Cortex cells",
+        "Endodermal cells",
+        "Pericycle cells"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs are tubular outgrowths of epidermal cells that increase the surface area for water and mineral absorption.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "In a dicot root, the vascular cylinder (stele) typically shows which pattern of xylem and phloem arrangement?",
+      "options": [
+        "Xylem and phloem in separate poles",
+        "Xylem in a star-shaped arrangement with phage in the arms",
+        "Xylem in a central core surrounded by phloem",
+        "Xylem peripheral and phloem central"
+      ],
+      "answer": 1,
+      "explanation": "Dicot roots display a star‑shaped (or radiating) arrangement of xylem with phloem occupying the intervening spaces (arms) between the xylem arms.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "Which statement about the root cap is FALSE?",
+      "options": [
+        "It protects the apical meristem",
+        "It secretes mucilage",
+        "It contains statoliths for gravity perception",
+        "It is involved in photosynthesis"
+      ],
+      "answer": 3,
+      "explanation": "The root cap protects the meristem, secretes mucilage for lubrication, and contains statoliths (amyloplasts) for gravitropism; it does not perform photosynthesis.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "The primary function of the pericycle in roots is:",
+      "options": [
+        "Absorption of water",
+        "Initiation of lateral roots",
+        "Transport of sugars",
+        "Storage of starch"
+      ],
+      "answer": 1,
+      "explanation": "The pericycle is the site where cells become meristematic again to give rise to lateral roots, enabling branching of the root system.",
+      "topic": "Internal structure of root"
+    },
+    {
+      "question": "In a typical dicot stem cross‑section, which sequence correctly represents the arrangement of tissues from the outermost layer to the innermost region?",
+      "options": [
+        "Epidermis, cortex, vascular bundles with xylem towards centre and phloem towards periphery, pith",
+        "Epidermis, cortex, vascular bundles with phloem towards centre and xylem towards periphery, pith",
+        "Epidermis, ground tissue, scattered vascular bundles, pith",
+        "Epidermis, cortex, pith, vascular bundles"
+      ],
+      "answer": 0,
+      "explanation": "Dicot stems have an outer epidermis, a cortex, vascular bundles arranged in a ring (each bundle with xylem on the inner side and phloem on the outer side), and a central pith.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "Which type of vascular bundle is characteristic of monocot stems?",
+      "options": [
+        "Collateral",
+        "Bicollateral",
+        "Amphicribral",
+        "Concentric"
+      ],
+      "answer": 0,
+      "explanation": "Monocot stems possess collateral bundles where xylem is positioned towards the centre and phloem towards the periphery; these bundles are scattered throughout the ground tissue.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "The tissue that gives rise to secondary growth (increase in girth) in a dicot stem is:",
+      "options": [
+        "Pericycle",
+        "Vascular cambium",
+        "Cork cambium",
+        "Pith"
+      ],
+      "answer": 1,
+      "explanation": "The vascular cambium, a lateral meristem located between primary xylem and phloem, produces secondary xylem (wood) inward and secondary phloem outward, leading to stem thickening.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "Which statement correctly distinguishes monocot and dicot stems?",
+      "options": [
+        "Monocot stems have a well‑defined pith while dicot stems lack pith.",
+        "Vascular bundles in monocot stems are arranged in a ring; in dicot stems they are scattered.",
+        "Monocot stems possess a vascular cambium; dicot stems do not.",
+        "Dicot stems have vascular bundles arranged in a ring, whereas monocot stems have scattered bundles."
+      ],
+      "answer": 3,
+      "explanation": "In dicots, vascular bundles are organized in a concentric ring; in monocots the bundles are dispersed throughout the stem cross‑section.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "The ground tissue of a mature dicot stem (cortex and pith) is primarily composed of which cell type?",
+      "options": [
+        "Parenchyma",
+        "Collenchyma",
+        "Sclerenchyma",
+        "Tracheids"
+      ],
+      "answer": 0,
+      "explanation": "Both cortex and pith in dicot stems consist mainly of parenchymatous cells, which are thin‑walled and serve storage and metabolic functions.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "Which tissue is absent in a typical monocot stem, accounting for its lack of secondary growth?",
+      "options": [
+        "Vascular cambium",
+        "Pith",
+        "Epidermis",
+        "Cortex"
+      ],
+      "answer": 0,
+      "explanation": "Monocot stems do not possess a vascular cambium, so they cannot undergo secondary thickening; they rely on primary growth only.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "In a dicot stem vascular bundle, the relative position of xylem and phloem is:",
+      "options": [
+        "Xylem external to phloem",
+        "Phloem external to xylem",
+        "Xylem and phloem intermingled",
+        "Phloem surrounds xylem completely"
+      ],
+      "answer": 1,
+      "explanation": "In collateral bundles of dicot stems, phloem is situated on the outer side of the bundle, while xylem lies towards the centre.",
+      "topic": "Internal structure of stem"
+    },
+    {
+      "question": "Which tissue is primarily responsible for photosynthesis in a typical dicot leaf?",
+      "options": [
+        "Palisade parenchyma",
+        "Spongy parenchyma",
+        "Upper epidermis",
+        "Bundle sheath cells"
+      ],
+      "answer": 0,
+      "explanation": "Palisade parenchyma cells are columnar, densely packed with chloroplasts and constitute the main site of photosynthesis in dicot leaves.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "In a monocot leaf, the vascular bundles are arranged ...",
+      "options": [
+        "In a ring near the leaf margin",
+        "Scattered throughout the mesophyll",
+        "Parallel to the leaf margin",
+        "Only in the midrib"
+      ],
+      "answer": 1,
+      "explanation": "Monocot leaves have vascular bundles scattered irregularly throughout the mesophyll, unlike the concentric ring arrangement in dicots.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "Stomata are most abundant on which leaf surface in most dicot leaves?",
+      "options": [
+        "Upper (adaxial) epidermis",
+        "Lower (abaxial) epidermis",
+        "Both surfaces equally",
+        "Neither surface (no stomata)"
+      ],
+      "answer": 1,
+      "explanation": "Dicot leaves typically have a higher density of stomata on the lower (abaxial) epidermis to minimize water loss while allowing gas exchange.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "In a dorsiventral leaf, which statement correctly describes the arrangement of xylem and phloem in the vascular bundle?",
+      "options": [
+        "Xylem is towards the adaxial side and phloem towards the abaxial side",
+        "Phloem is towards the adaxial side and xylem towards the abaxial side",
+        "Xylem and phloem are alternating in the bundle",
+        "Xylem forms the central core and phloem surrounds it peripherally"
+      ],
+      "answer": 0,
+      "explanation": "In dorsiventral leaves, the xylem is positioned toward the upper (adaxial) side of the bundle and the phloem toward the lower (abaxial) side.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic feature of a typical isobilateral leaf?",
+      "options": [
+        "Distinct palisade layer on the adaxial side",
+        "Similar mesophyll thickness on both surfaces",
+        "Stomata equally distributed on both surfaces",
+        "Absence of clear differentiation between adaxial and abaxial surfaces"
+      ],
+      "answer": 0,
+      "explanation": "Isobilateral leaves lack a pronounced palisade layer on the adaxial side; their mesophyll is similar on both surfaces.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "The cuticle on the leaf surface primarily functions to:",
+      "options": [
+        "Facilitate gas exchange",
+        "Prevent water loss",
+        "Increase light absorption",
+        "Store nutrients"
+      ],
+      "answer": 1,
+      "explanation": "The cuticle is a waxy, hydrophobic layer that reduces transpiration by limiting water loss from the leaf surface.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "Bundle sheath cells in a leaf are most closely associated with which vascular element?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Both xylem and phloem",
+        "Sclerenchyma"
+      ],
+      "answer": 2,
+      "explanation": "Bundle sheath cells surround the vascular bundle and are closely associated with both xylem and phloem, providing support and regulating transport.",
+      "topic": "Internal structure of leaf"
+    },
+    {
+      "question": "Which lateral meristem is primarily responsible for the increase in girth of dicot stems during secondary growth?",
+      "options": [
+        "Apical meristem",
+        "Vascular cambium",
+        "Intercalary meristem",
+        "Protoderm"
+      ],
+      "answer": 1,
+      "explanation": "The vascular cambium, a lateral meristem, produces secondary xylem inward and secondary phloem outward, leading to stem thickening.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "In secondary xylem, which cell type provides most of the mechanical strength due to heavy lignification?",
+      "options": [
+        "Vessel elements",
+        "Fibers",
+        "Parenchyma cells",
+        "Sieve tube elements"
+      ],
+      "answer": 1,
+      "explanation": "Fibers are long, slender cells with thick lignified walls that reinforce the wood and give it mechanical strength.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "The cork cambium (phellogen) gives rise to which tissue that replaces the epidermis in stems undergoing secondary growth?",
+      "options": [
+        "Secondary phloem",
+        "Periderm",
+        "Primary xylem",
+        "Pith"
+      ],
+      "answer": 1,
+      "explanation": "The cork cambium produces the periderm, whose outer layer (phellem or cork) replaces the epidermis and protects the stem.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "Annual rings in dicot wood are formed because of seasonal variation in which characteristic of secondary xylem cells?",
+      "options": [
+        "Cell size",
+        "Cell wall thickness",
+        "Lignin composition",
+        "Number of vessels"
+      ],
+      "answer": 1,
+      "explanation": "Early wood formed in spring has larger cells with thinner walls, while late wood formed later has smaller cells with thicker walls, creating visible rings.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "Which statement correctly describes secondary phloem?",
+      "options": [
+        "It lies interior to the vascular cambium",
+        "It contains sieve tubes and companion cells",
+        "It becomes part of the bark",
+        "It is composed mainly of tracheids"
+      ],
+      "answer": 1,
+      "explanation": "Secondary phloem, produced outward by the vascular cambium, consists of sieve tubes, companion cells, fibers and parenchyma, and later becomes part of the bark.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "Monocot stems rarely exhibit secondary growth because they lack which meristematic tissue?",
+      "options": [
+        "Vascular cambium",
+        "Cork cambium",
+        "Apical meristem",
+        "Intercalary meristem"
+      ],
+      "answer": 0,
+      "explanation": "Most monocots do not develop a vascular cambium, so they cannot produce secondary xylem and phloem for girth increase.",
+      "topic": "Secondary growth"
+    },
+    {
+      "question": "Which component of the periderm is chiefly responsible for making the bark impermeable to water and gases?",
+      "options": [
+        "Phellem (cork)",
+        "Phellogen (cork cambium)",
+        "Phelloderm",
+        "Secondary xylem"
+      ],
+      "answer": 0,
+      "explanation": "Phellem, commonly called cork, consists of dead cells with suberin-filled walls that create a waterproof barrier.",
+      "topic": "Secondary growth"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 11,
+    "mcqCount": 77
+  }
+}

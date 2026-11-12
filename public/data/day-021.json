@@ -1,0 +1,503 @@
+{
+  "day": 21,
+  "courseDate": "2026-09-19",
+  "publishAt": "2026-09-19T06:00:00+05:30",
+  "title": "Day 21: Transport in Plants",
+  "introduction": "This lesson explains how water moves from soil to leaves, the long‑distance transport mechanisms in xylem, the role of root pressure and guttation, and the dynamics of transpiration, aligning with NEET‑UG expectations.",
+  "sections": [
+    {
+      "topic": "Water movement through plants",
+      "heading": "Pathways of Water Movement in Plants",
+      "content": "Water enters roots by root absorption and moves toward the xylem through three distinct pathways: (1) Apoplast pathway – movement through cell walls and intercellular spaces without crossing membranes; (2) Symplast pathway – continuous cytoplasmic route via plasmodesmata; (3) Transmembrane (or symplastic‑apoplastic) pathway – water crosses plasma membranes, involving aquaporins, before entering the apoplast. The relative contribution of each pathway varies with species, developmental stage, and environmental conditions.",
+      "keyPoints": [
+        "Apoplast pathway is membrane‑free and driven by pressure gradients",
+        "Symplast pathway requires plasmodesmata and is regulated by cytoplasmic continuity",
+        "Transmembrane pathway involves aquaporins and is essential for selective uptake",
+        "Root absorption initiates water entry into the vascular system"
+      ],
+      "neetTips": [
+        "Remember apoplast = cell wall route, symplast = cytoplasmic route",
+        "Link aquaporin activity to transmembrane water movement"
+      ]
+    },
+    {
+      "topic": "Long-distance transport",
+      "heading": "Ascent of Sap and Cohesion‑Tension Theory",
+      "content": "Long‑distance upward movement of water in the xylem is explained by the cohesion‑tension theory. Transpiration creates a negative pressure (tension) at the leaf surface, pulling water molecules that are cohesively linked via hydrogen bonds. This tension is transmitted down the continuous water column in xylem vessels and tracheids. The adhesive forces between water and vessel walls prevent cavitation. The theory accounts for water movement from roots to leaves without the need for metabolic energy.",
+      "keyPoints": [
+        "Transpiration generates a negative pressure (tension)",
+        "Cohesion between water molecules maintains a continuous column",
+        "Adhesion to xylem walls resists gravity and prevents cavitation",
+        "No ATP required for bulk ascent of sap"
+      ],
+      "neetTips": [
+        "Cohesion‑tension = pull from leaf, cohesion keeps column intact"
+      ]
+    },
+    {
+      "topic": "Xylem transport",
+      "heading": "Structure and Function of Xylem in Water Transport",
+      "content": "Xylem consists of dead, lignified vessels and tracheids that form a low‑resistance conduit for bulk water flow. The narrow lumen and pits facilitate capillary action, while the lignified walls provide rigidity to withstand negative pressures. Water moves upward driven by the cohesion‑tension mechanism and is supplemented by root pressure under certain conditions. The unidirectional flow is maintained by the presence of valves (pit membranes) that prevent backflow.",
+      "keyPoints": [
+        "Vessels provide high‑capacity conduits; tracheids add safety via pits",
+        "Lignified walls resist collapse under tension",
+        "Capillary action aids initial rise but is insufficient alone",
+        "Root pressure can augment upward flow in low transpiration periods"
+      ],
+      "neetTips": [
+        "Associate xylem anatomy (vessels vs tracheids) with transport efficiency"
+      ]
+    },
+    {
+      "topic": "Root pressure",
+      "heading": "Root Pressure and Guttation",
+      "content": "Root pressure develops when ions are actively transported into the xylem, lowering water potential and causing osmotic influx of water. This generates a positive pressure that can push water upward, especially at night when transpiration is minimal. Excess root pressure may lead to guttation – the exudation of water droplets from hydathodes at leaf margins. Guttation occurs under high humidity, low temperature, and when soil water is abundant.",
+      "keyPoints": [
+        "Active ion uptake lowers xylem water potential",
+        "Osmotic water influx creates positive pressure in roots",
+        "Root pressure is most evident at night",
+        "Guttation is a visible sign of root pressure under humid conditions"
+      ],
+      "neetTips": [
+        "Distinguish guttation (root pressure) from transpiration (leaf pull)"
+      ]
+    },
+    {
+      "topic": "Transpiration",
+      "heading": "Transpiration: Types, Mechanism and Influencing Factors",
+      "content": "Transpiration is the loss of water vapor from aerial parts, primarily through stomata (stomatal transpiration) and, to a lesser extent, through the cuticle (cuticular transpiration). It creates the driving force for the cohesion‑tension mechanism. Factors affecting transpiration include temperature, humidity, wind speed, light intensity, and leaf area. Stomatal opening is regulated by guard cells responding to light, CO₂, and internal water status.",
+      "keyPoints": [
+        "Stomatal transpiration accounts for >90% of water loss",
+        "Cuticular transpiration is minor but constant",
+        "Temperature, humidity, wind, light, and leaf area modulate rate",
+        "Guard cells control stomatal aperture via turgor changes"
+      ],
+      "neetTips": [
+        "Link high temperature & low humidity to increased transpiration rate"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the three pathways of water movement in roots and their significance",
+    "Describe the cohesion‑tension theory and its role in long‑distance water transport",
+    "Identify structural features of xylem that facilitate efficient water movement",
+    "Differentiate root pressure from transpiration and relate guttation to root pressure",
+    "List types of transpiration and the environmental factors that influence its rate"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary driving force that pulls water upward through the xylem during the day?",
+      "options": [
+        "Root pressure",
+        "Cohesion-tension mechanism",
+        "Capillary action",
+        "Osmotic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration from leaves creates a negative pressure (tension) in the xylem; cohesion between water molecules transmits this tension upward, constituting the cohesion‑tension mechanism.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Which pathway allows water to move through the plant without crossing any plasma membrane?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Cytoplasmic streaming"
+      ],
+      "answer": 0,
+      "explanation": "In the apoplast pathway water travels through cell walls and intercellular spaces, bypassing the plasma membrane entirely.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Guttation is most likely to be observed under which set of conditions?",
+      "options": [
+        "High humidity with low transpiration rates",
+        "Intense sunlight with high leaf temperature",
+        "Low soil water potential",
+        "High wind speed"
+      ],
+      "answer": 0,
+      "explanation": "Guttation occurs when root pressure pushes water out through hydathodes, typically at night or in high humidity when transpiration is minimal.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Which of the following factors has the least direct effect on the rate of transpiration in plants?",
+      "options": [
+        "Light intensity",
+        "Wind speed",
+        "Soil moisture availability",
+        "Atmospheric CO₂ concentration"
+      ],
+      "answer": 3,
+      "explanation": "Atmospheric CO₂ concentration influences photosynthesis more than transpiration; light, wind, and soil water availability directly affect stomatal opening and water loss.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Root pressure contributes most to the upward movement of water during which period of the day?",
+      "options": [
+        "Early morning",
+        "Midday when sunlight is strongest",
+        "Late afternoon",
+        "Nighttime"
+      ],
+      "answer": 3,
+      "explanation": "Root pressure is generated when transpiration is low, such as at night, allowing water to be pushed upward in the absence of a strong transpiration pull.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Water movement from the root cortex cells into the xylem vessels through plasmodesmata exemplifies which pathway?",
+      "options": [
+        "Apoplastic movement",
+        "Symplastic movement",
+        "Transmembrane (or transcellular) movement",
+        "Bulk flow"
+      ],
+      "answer": 1,
+      "explanation": "The symplastic pathway involves water moving from cell to cell via plasmodesmata, staying within the cytoplasm.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Which statement about the cohesion‑tension theory is FALSE?",
+      "options": [
+        "The continuity of the water column is maintained by hydrogen bonding between water molecules.",
+        "Transpiration creates a negative pressure (tension) that pulls water upward.",
+        "Xylem vessels are composed of dead, lignified cells.",
+        "Water moves upward against gravity primarily due to root pressure."
+      ],
+      "answer": 3,
+      "explanation": "Root pressure is insufficient to account for the ascent of sap in tall plants; the cohesion‑tension mechanism, driven by transpiration, is the primary upward force.",
+      "topic": "Water movement through plants"
+    },
+    {
+      "question": "Which of the following statements best describes the primary driving force for upward movement of water in the xylem of tall trees?",
+      "options": [
+        "Root pressure generated by active ion uptake",
+        "Transpiration pull due to cohesion‑tension",
+        "Growth pressure from cell elongation",
+        "Osmotic gradient in phloem"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration creates a negative pressure (tension) in the leaf air spaces; cohesion between water molecules transmits this tension down the continuous water column, pulling water upward.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "In the cohesion‑tension theory, which property of water is essential for the continuity of the water column?",
+      "options": [
+        "High surface tension",
+        "Low viscosity",
+        "High specific heat",
+        "High polarity"
+      ],
+      "answer": 0,
+      "explanation": "High surface tension, arising from strong hydrogen‑bond cohesion, allows the water column to remain unbroken under tension.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "Which pathway does water NOT follow during long-distance transport in the xylem?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "Water moves mainly through the apoplast and vessel elements; symplastic movement is limited to short distances and not a major route in xylem long-distance transport.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "Root pressure contributes to which of the following phenomena?",
+      "options": [
+        "Guttation",
+        "Transpiration stream",
+        "Phloem loading",
+        "Stomatal opening"
+      ],
+      "answer": 0,
+      "explanation": "Root pressure can force water out through leaf margins or hydathodes when transpiration is low, producing guttation droplets.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "Which of the following best explains why tall trees can transport water to heights >100 m without any metabolic energy expenditure?",
+      "options": [
+        "Active transport of water by xylem parenchyma",
+        "Cohesion‑tension mechanism driven by transpiration",
+        "Root pressure generated by mitochondria",
+        "Capillary action in tracheids alone"
+      ],
+      "answer": 1,
+      "explanation": "The cohesion‑tension mechanism is a passive process that uses the water potential gradient created by transpiration to pull water upward.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "In phloem long-distance transport, the pressure‑flow hypothesis states that movement of sugars occurs from source to sink because:",
+      "options": [
+        "Higher osmotic pressure at source draws water in, generating turgor pressure",
+        "Lower water potential at sink pulls sugars",
+        "Active pumping of sugars through sieve plates",
+        "Gravity-driven flow"
+      ],
+      "answer": 0,
+      "explanation": "Loading of sugars at the source raises the osmotic pressure, water enters by osmosis, creating a pressure gradient that drives bulk flow toward the sink.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "Which factor does NOT significantly affect the rate of transpiration‑driven long-distance water transport?",
+      "options": [
+        "Ambient humidity",
+        "Light intensity",
+        "Soil nutrient concentration",
+        "Wind speed"
+      ],
+      "answer": 2,
+      "explanation": "Soil nutrient levels influence growth but have little direct effect on the transpiration rate, which is mainly governed by humidity, light, and wind.",
+      "topic": "Long-distance transport"
+    },
+    {
+      "question": "Which structural feature of xylem vessels primarily prevents collapse under the negative pressures generated during transpiration?",
+      "options": [
+        "Lignified secondary walls",
+        "Pith parenchyma",
+        "Sclerenchyma fibers",
+        "Collenchyma"
+      ],
+      "answer": 0,
+      "explanation": "Lignified secondary walls give xylem vessels rigidity and strength, allowing them to withstand the tensile forces of water under negative pressure.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, the main driving force for upward movement of water in the xylem is:",
+      "options": [
+        "Root pressure",
+        "Capillary action",
+        "Transpiration‑induced tension",
+        "Osmotic gradient"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration creates a water‑potential gradient that pulls water molecules together (cohesion) and generates tension that lifts the water column through the xylem.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which pathway is NOT used by water to move from the root cortex into the xylem vessels?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Phloem loading"
+      ],
+      "answer": 3,
+      "explanation": "Water reaches the xylem through apoplastic, symplastic, or transmembrane routes; phloem loading is unrelated to water entry into the xylem.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which statement about root pressure is correct?",
+      "options": [
+        "It can push water above 2 m height",
+        "It is generated by active uptake of ions in root hairs",
+        "It is the main force for water ascent at night",
+        "It occurs only in monocots"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure arises when root cells actively transport ions into the xylem, lowering its water potential and causing osmotic influx of water.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "If the water potential of xylem sap in a leaf is –0.15 MPa and in the root is –0.05 MPa, the net direction of water movement is:",
+      "options": [
+        "From leaf to root",
+        "From root to leaf",
+        "No net movement",
+        "From soil to atmosphere directly"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from regions of higher (less negative) water potential to lower (more negative) potential; thus it flows from root (–0.05 MPa) to leaf (–0.15 MPa).",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which factor does NOT increase the rate of transpiration and therefore does NOT enhance the transpiration pull in the xylem?",
+      "options": [
+        "High temperature",
+        "Low humidity",
+        "Wind",
+        "High atmospheric CO₂ concentration"
+      ],
+      "answer": 3,
+      "explanation": "High CO₂ causes partial stomatal closure, reducing transpiration; the other three factors increase water loss and strengthen the transpiration pull.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "In plants that possess both vessels and tracheids, which element provides greater hydraulic conductivity?",
+      "options": [
+        "Vessels",
+        "Tracheids",
+        "Both equal",
+        "Neither (phloem)"
+      ],
+      "answer": 0,
+      "explanation": "Vessels have wider lumens and shorter pits than tracheids, offering lower resistance and thus higher hydraulic conductivity.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "What is the primary cause of root pressure in plants?",
+      "options": [
+        "Active uptake of mineral ions into the xylem creating an osmotic gradient",
+        "Cohesive forces between water molecules in the xylem",
+        "Transpiration pull generated by leaf evaporation",
+        "Capillary action in narrow vessels"
+      ],
+      "answer": 0,
+      "explanation": "Root pressure arises when roots actively transport ions into the xylem, lowering its water potential and causing water to move in osmotically, generating a positive pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Root pressure is most prominently observed under which condition?",
+      "options": [
+        "During the day when transpiration is high",
+        "At night when transpiration is minimal",
+        "During severe drought stress",
+        "In mature woody stems of tall trees"
+      ],
+      "answer": 1,
+      "explanation": "At night, transpiration ceases, allowing the osmotic influx of water into the xylem to build a positive pressure that can be detected as root pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Which statement about root pressure is FALSE?",
+      "options": [
+        "It can push water up to about 2 m in herbaceous plants",
+        "It is generated by active transport of mineral ions into the xylem",
+        "It is the main force for ascent of sap in tall trees",
+        "It contributes to guttation in many plants"
+      ],
+      "answer": 2,
+      "explanation": "In tall trees, root pressure is insufficient to account for the full ascent of sap; the cohesion‑tension mechanism dominates. Hence the statement is false.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Guttation droplets are most likely to appear when:",
+      "options": [
+        "Nighttime with high humidity and low temperature",
+        "Daytime with strong wind and low humidity",
+        "High light intensity causing rapid transpiration",
+        "Soil water deficit causing root dehydration"
+      ],
+      "answer": 0,
+      "explanation": "Guttation occurs when root pressure forces water out through hydathodes, typically at night under cool, humid conditions when transpiration is low.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Which experimental observation directly demonstrates the existence of root pressure?",
+      "options": [
+        "Upward movement of sap in a cut stem placed in water during night",
+        "Negative pressure potential measured in xylem during daytime transpiration",
+        "Formation of cavitation bubbles after drought stress",
+        "Water potential gradient from leaf to root during active transpiration"
+      ],
+      "answer": 0,
+      "explanation": "When a stem is cut and placed in water, sap exudes from the cut end at night, indicating a positive pressure generated by the roots—evidence of root pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Exudation of sap from the cut end of a decapitated herbaceous stem placed in water is primarily due to:",
+      "options": [
+        "Transpiration pull",
+        "Root pressure",
+        "Cohesion‑tension mechanism",
+        "Capillary rise"
+      ],
+      "answer": 1,
+      "explanation": "In such a setup, the upward flow is driven by the positive pressure generated in the roots (root pressure), not by transpiration or cohesion‑tension.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Which pathway contributes the greatest proportion of water loss from a typical leaf?",
+      "options": [
+        "Stomatal transpiration",
+        "Cuticular transpiration",
+        "Lenticel transpiration",
+        "Root pressure"
+      ],
+      "answer": 0,
+      "explanation": "The majority of water loss occurs through stomata because they are numerous and open for gas exchange, whereas cuticular and lenticel pathways account for a much smaller fraction.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Transpiration rate will be highest under which combination of environmental conditions?",
+      "options": [
+        "High humidity, low temperature, low wind",
+        "Low humidity, high temperature, high wind",
+        "High CO2, low light, high humidity",
+        "Low light, high humidity, still air"
+      ],
+      "answer": 1,
+      "explanation": "Low humidity increases the water‑vapor gradient, high temperature raises kinetic energy of water molecules, and wind removes the saturated layer of air, all enhancing transpiration.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, the primary force that pulls water upward in the xylem is:",
+      "options": [
+        "Root pressure",
+        "Capillary action",
+        "Transpirational pull",
+        "Osmotic gradient"
+      ],
+      "answer": 2,
+      "explanation": "Transpirational pull creates a negative pressure (tension) in the leaf xylem, which, together with cohesion between water molecules, draws water upward from the roots.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Guttation is most commonly observed:",
+      "options": [
+        "During nighttime when transpiration is low",
+        "During daytime under intense light",
+        "In the early morning when soil moisture is high",
+        "During drought conditions"
+      ],
+      "answer": 0,
+      "explanation": "Guttation occurs when root pressure forces water out through hydathodes, typically at night when stomata are closed and transpiration is minimal.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Which type of transpiration is least affected by the opening or closing of stomata?",
+      "options": [
+        "Stomatal transpiration",
+        "Cuticular transpiration",
+        "Lenticel transpiration",
+        "All are equally affected"
+      ],
+      "answer": 1,
+      "explanation": "Cuticular transpiration occurs directly through the waxy cuticle and does not depend on stomatal aperture, unlike stomatal transpiration.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "The rate of transpiration is least influenced by which of the following factors?",
+      "options": [
+        "Atmospheric CO2 concentration",
+        "Light intensity",
+        "Wind speed",
+        "Temperature"
+      ],
+      "answer": 0,
+      "explanation": "While CO2 can affect stomatal opening indirectly, its direct impact on the water‑vapor gradient is minimal compared with light, wind, and temperature, which have strong immediate effects.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "In plants with a thick waxy cuticle, which adaptation helps maintain sufficient transpiration for leaf cooling?",
+      "options": [
+        "Increased stomatal density",
+        "Reduced leaf area",
+        "Sunken stomata",
+        "Development of trichomes"
+      ],
+      "answer": 0,
+      "explanation": "Higher stomatal density provides more openings for water vapor loss, compensating for the reduced cuticular permeability and allowing effective cooling.",
+      "topic": "Transpiration"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 5,
+    "mcqCount": 34
+  }
+}

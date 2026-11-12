@@ -1,0 +1,1661 @@
+{
+  "day": 48,
+  "courseDate": "2026-10-16",
+  "publishAt": "2026-10-16T06:00:00+05:30",
+  "title": "Day 48: Transport in Plants – Transpiration and Mineral Transport",
+  "introduction": "This lesson explores the mechanisms of water loss through stomata, the structure and function of the stomatal apparatus, and the dynamics of xylem-mediated transport of water and minerals. Emphasis is placed on cellular processes, ion movements, and environmental influences relevant to NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Transpiration through stomata",
+      "heading": "Transpiration via Stomatal Pores",
+      "content": "Transpiration is the bulk loss of water vapor from aerial parts of the plant, primarily through stomatal pores on the leaf epidermis. The driving force is the water potential gradient between the moist interior (leaf mesophyll) and the drier external atmosphere. Stomatal transpiration regulates leaf temperature, maintains the water column in the xylem, and creates the negative pressure (tension) required for upward water movement (cohesion‑tension theory).",
+      "keyPoints": [
+        "Stomata are the main pathway for water vapor loss in most plants.",
+        "Transpiration generates a negative pressure that pulls water upward in the xylem.",
+        "Rate of transpiration depends on stomatal aperture and external conditions."
+      ],
+      "neetTips": [
+        "Remember the cohesion‑tension theory when linking transpiration to xylem ascent.",
+        "Link stomatal opening to increased transpiration rates in MCQs."
+      ]
+    },
+    {
+      "topic": "Stomatal apparatus",
+      "heading": "Components of the Stomatal Complex",
+      "content": "The stomatal apparatus consists of a pair of guard cells flanking a pore, subsidiary cells (in many monocots), and the surrounding epidermal cells. Guard cells are kidney‑shaped (dicots) or dumbbell‑shaped (monocots) and contain chloroplasts, enabling them to photosynthesize and generate ATP for ion transport. The pore size is dynamically controlled by changes in guard‑cell turgor.",
+      "keyPoints": [
+        "Guard cells are the only epidermal cells with chloroplasts.",
+        "Subsidiary cells assist in rapid stomatal movements in grasses.",
+        "Pore aperture is directly proportional to guard‑cell turgor."
+      ],
+      "neetTips": [
+        "Focus on guard‑cell chloroplasts as a distinguishing feature in diagrams."
+      ]
+    },
+    {
+      "topic": "Guard cells",
+      "heading": "Guard‑Cell Structure and Physiology",
+      "content": "Guard cells have a thickened inner wall and a thinner outer wall, creating a differential expansion during turgor changes. Their plasma membrane contains H⁺‑ATPases, K⁺ channels, and anion channels. The vacuole occupies most of the cell volume, storing ions and osmolytes that drive water influx or efflux.",
+      "keyPoints": [
+        "Unequal wall thickness causes cell bending during turgor changes.",
+        "H⁺‑ATPase activity initiates K⁺ uptake for opening.",
+        "Vacuolar ion storage modulates osmotic potential."
+      ],
+      "neetTips": [
+        "Recall that H⁺‑ATPase is the primary driver of stomatal opening."
+      ]
+    },
+    {
+      "topic": "Stomatal opening and closing",
+      "heading": "Mechanism of Stomatal Dynamics",
+      "content": "Opening begins with activation of plasma‑membrane H⁺‑ATPase, pumping protons out and hyperpolarizing the membrane. This opens inward‑rectifying K⁺ channels, allowing K⁺ influx. Cl⁻ and malate enter to maintain charge balance. Water follows osmotically, swelling guard cells and bending the walls outward. Closing reverses the process: K⁺ and anions exit via outward channels, water leaves, and guard cells become flaccid.",
+      "keyPoints": [
+        "H⁺‑ATPase hyperpolarization triggers K⁺ influx.",
+        "Anion influx balances charge during opening.",
+        "Depolarization activates outward K⁺ channels for closure."
+      ],
+      "neetTips": [
+        "Link blue‑light activation of H⁺‑ATPase to rapid opening in photoperiodic questions."
+      ]
+    },
+    {
+      "topic": "Role of potassium ions in stomatal movement",
+      "heading": "Potassium as the Primary Osmotic Driver",
+      "content": "K⁺ is the major cation accumulating in guard cells during opening. Its high cytosolic concentration lowers the water potential, drawing water into the vacuole. During closure, K⁺ is released through outward‑rectifying channels, raising the water potential and causing water efflux. The gradient is maintained by the H⁺‑ATPase and secondary active transporters.",
+      "keyPoints": [
+        "K⁺ accumulation lowers guard‑cell water potential.",
+        "K⁺ efflux raises water potential, leading to closure.",
+        "H⁺‑ATPase provides the energy for K⁺ transport."
+      ],
+      "neetTips": [
+        "Remember that K⁺ concentration changes are faster than Ca²⁺‑mediated signals."
+      ]
+    },
+    {
+      "topic": "Environmental factors affecting stomata",
+      "heading": "External Influences on Stomatal Aperture",
+      "content": "Light (especially blue), CO₂ concentration, humidity, temperature, and water availability modulate stomatal behavior. Blue light activates phototropins, enhancing H⁺‑ATPase activity. High CO₂ triggers closure via Ca²⁺ signaling. Low humidity increases transpiration demand, often causing closure to prevent desiccation. Drought induces abscisic acid (ABA) synthesis, which promotes K⁺ efflux and stomatal closure.",
+      "keyPoints": [
+        "Blue light → H⁺‑ATPase activation → opening.",
+        "Elevated CO₂ or ABA → Ca²⁺ rise → closure.",
+        "Humidity and temperature affect transpiration demand."
+      ],
+      "neetTips": [
+        "ABA‑mediated closure is a high‑yield topic for drought‑stress questions."
+      ]
+    },
+    {
+      "topic": "Xylem transport",
+      "heading": "Bulk Flow of Water and Minerals in Xylem",
+      "content": "Xylem conducts water and dissolved minerals from roots to shoots via a continuous, non‑living conduit. The driving force is the negative pressure generated by transpiration (cohesion‑tension theory). Water moves as a column, held together by hydrogen bonding (cohesion) and adheres to vessel walls (adhesion), preventing cavitation under normal conditions.",
+      "keyPoints": [
+        "Xylem transport is a passive, bulk‑flow process.",
+        "Transpiration creates the tension that pulls water upward.",
+        "Cohesion and adhesion maintain a continuous water column."
+      ],
+      "neetTips": [
+        "Cohesion‑tension theory is a must‑know diagram for NEET."
+      ]
+    },
+    {
+      "topic": "Structure of xylem",
+      "heading": "Anatomy of Xylem Tissue",
+      "content": "Xylem consists of four principal cell types: tracheids, vessels, xylem fibres, and xylem parenchyma. All are derived from procambium and become lignified, losing protoplasm (except parenchyma). The arrangement forms a continuous network from root to leaf, with perforation plates in vessels facilitating rapid water flow.",
+      "keyPoints": [
+        "All xylem elements are dead at functional maturity (except parenchyma).",
+        "Lignification provides rigidity and prevents collapse under tension.",
+        "Perforation plates in vessels reduce resistance."
+      ],
+      "neetTips": [
+        "Distinguish tracheids (narrow, pits) from vessels (wide, perforations) in MCQs."
+      ]
+    },
+    {
+      "topic": "Tracheids",
+      "heading": "Narrow, Pitted Xylem Cells",
+      "content": "Tracheids are elongated, tapered cells with thick secondary walls and lignin reinforcement. Water moves laterally through bordered pits, which have a torus‑margo structure that prevents air embolism. Tracheids are the primary conductive elements in gymnosperms and also provide mechanical support.",
+      "keyPoints": [
+        "Presence of bordered pits with torus‑margo.",
+        "Narrow diameter limits flow rate but enhances safety.",
+        "Predominant in gymnosperms."
+      ],
+      "neetTips": [
+        "Remember torus‑margo function when answering safety‑vs‑efficiency questions."
+      ]
+    },
+    {
+      "topic": "Vessels",
+      "heading": "Wide, Perforated Xylem Elements",
+      "content": "Vessels are short, wide cells stacked end‑to‑end, forming continuous tubes. End walls are modified into perforation plates (simple or scalariform) allowing unhindered water flow. Vessels provide high hydraulic conductivity, characteristic of angiosperms, but are more vulnerable to cavitation.",
+      "keyPoints": [
+        "Perforation plates eliminate end‑wall resistance.",
+        "Larger diameter → higher conductivity.",
+        "Primarily found in angiosperms."
+      ],
+      "neetTips": [
+        "Link vessel abundance to fast‑growing herbaceous plants in exam scenarios."
+      ]
+    },
+    {
+      "topic": "Xylem fibres",
+      "heading": "Mechanical Support Cells in Xylem",
+      "content": "Xylem fibres are long, slender, heavily lignified cells with thick secondary walls. They are non‑conductive and serve to reinforce the vascular strand, contributing to the tensile strength required to withstand negative pressures during transpiration.",
+      "keyPoints": [
+        "Heavily lignified, dead at maturity.",
+        "Provide tensile strength to xylem strands.",
+        "Do not participate in water transport."
+      ],
+      "neetTips": [
+        "Distinguish fibres from conductive elements in diagram‑label questions."
+      ]
+    },
+    {
+      "topic": "Xylem parenchyma",
+      "heading": "Living Cells of the Xylem",
+      "content": "Xylem parenchyma cells retain protoplasm and are involved in storage, radial transport, and repair of embolisms. They can load or unload minerals, synthesize lignin, and secrete substances that modify pit membrane permeability.",
+      "keyPoints": [
+        "Remain alive, enabling metabolic activity.",
+        "Assist in mineral storage and embolism repair.",
+        "Participate in radial transport between xylem and phloem."
+      ],
+      "neetTips": [
+        "Parenchyma’s role in embolism repair is a niche but high‑yield point."
+      ]
+    },
+    {
+      "topic": "Water and mineral transport through xylem",
+      "heading": "Bulk Flow of Solutes with Water",
+      "content": "As water ascends, dissolved inorganic ions (e.g., NO₃⁻, PO₄³⁻, K⁺) are carried passively with the transpiration stream. The concentration gradient is maintained by selective uptake at root hairs and active loading into the xylem. Minerals may also be redistributed via radial transfer from parenchyma to the sap.",
+      "keyPoints": [
+        "Minerals move passively with the water column.",
+        "Root uptake determines initial ion concentration.",
+        "Radial transfer fine‑tunes sap composition."
+      ],
+      "neetTips": [
+        "Link high transpiration rates to increased mineral flux in problem‑solving."
+      ]
+    },
+    {
+      "topic": "Mineral uptake by roots",
+      "heading": "Acquisition of Inorganic Nutrients",
+      "content": "Mineral ions are absorbed from the soil solution by root epidermal cells and root hairs. The process involves both passive diffusion along concentration gradients and active transport mechanisms that use ATP or proton gradients. Specific transporters confer selectivity for essential nutrients.",
+      "keyPoints": [
+        "Root hairs increase surface area for absorption.",
+        "Both passive and active pathways operate simultaneously.",
+        "Transporter specificity determines nutrient selectivity."
+      ],
+      "neetTips": [
+        "Remember that root hair density influences uptake efficiency in low‑nutrient soils."
+      ]
+    },
+    {
+      "topic": "Passive mineral absorption",
+      "heading": "Diffusion and Facilitated Transport",
+      "content": "Passive absorption occurs when ion concentration inside the root cell is lower than in the soil solution, allowing diffusion through plasma‑membrane channels or carrier proteins. No metabolic energy is required, but the rate depends on the concentration gradient and membrane permeability.",
+      "keyPoints": [
+        "Driven solely by concentration gradient.",
+        "Involves ion channels or carriers without ATP use.",
+        "Rate limited by membrane permeability."
+      ],
+      "neetTips": [
+        "Distinguish passive uptake from active uptake in comparative questions."
+      ]
+    },
+    {
+      "topic": "Active mineral absorption",
+      "heading": "Energy‑Dependent Ion Uptake",
+      "content": "Active absorption utilizes ATP‑driven pumps (e.g., H⁺‑ATPase) to create electrochemical gradients. Secondary active transport (symport/antiport) harnesses this gradient to move ions against their concentration gradient. This mechanism is essential for acquiring nutrients present in low external concentrations, such as nitrate and phosphate.",
+      "keyPoints": [
+        "Primary active transport uses ATP directly (H⁺‑ATPase).",
+        "Secondary active transport couples ion movement to H⁺ gradient.",
+        "Crucial for low‑concentration nutrients."
+      ],
+      "neetTips": [
+        "Link H⁺‑ATPase activity to nutrient uptake efficiency in drought conditions."
+      ]
+    },
+    {
+      "topic": "Ion transport and membrane proteins",
+      "heading": "Molecular Basis of Mineral Movement",
+      "content": "Membrane proteins involved in ion transport include channels (allow selective passive flow), carriers (facilitated diffusion), pumps (primary active transport), and transporters (secondary active symport/antiport). Specificity is determined by protein structure, gating mechanisms, and regulatory factors such as pH and phosphorylation.",
+      "keyPoints": [
+        "Channels → rapid, selective passive flow.",
+        "Carriers → slower, may be saturable.",
+        "Pumps → use ATP; transporters → use ion gradients."
+      ],
+      "neetTips": [
+        "Memorize examples: K⁺ channel, H⁺‑ATPase, nitrate symporter for quick recall."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the structure and function of the stomatal apparatus and guard cells.",
+    "Describe the mechanisms of stomatal opening, closing, and the role of potassium ions.",
+    "Analyse the anatomy of xylem and differentiate between tracheids, vessels, fibres, and parenchyma.",
+    "Interpret the processes of passive and active mineral absorption and the associated membrane proteins."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary driving force for transpiration through stomata?",
+      "options": [
+        "Root pressure",
+        "Atmospheric pressure",
+        "Water potential gradient between leaf interior and atmosphere",
+        "Capillary action"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration is driven by the water potential difference between the moist interior of the leaf (more negative) and the drier external air, causing water to move outward through stomata.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "Stomatal opening is initiated by which ion movement into guard cells?",
+      "options": [
+        "Efflux of K⁺ from guard cells",
+        "Influx of K⁺ into guard cells",
+        "Influx of Cl⁻ into guard cells",
+        "Efflux of Ca²⁺ from guard cells"
+      ],
+      "answer": 1,
+      "explanation": "Uptake of K⁺ (accompanied by Cl⁻ or malate) lowers the guard‑cell water potential, leading to water influx, swelling, and stomatal opening.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "Which environmental condition most directly causes stomatal closure, thereby reducing transpiration?",
+      "options": [
+        "High relative humidity",
+        "Low atmospheric CO₂ concentration",
+        "High light intensity",
+        "Soil water deficit (drought stress)"
+      ],
+      "answer": 3,
+      "explanation": "Drought stress triggers the production of abscisic acid, which induces loss of K⁺ from guard cells, causing them to become flaccid and close the stomata.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "The rate of transpiration through stomata is most directly proportional to:",
+      "options": [
+        "Stomatal density only",
+        "Stomatal conductance",
+        "Xylem vessel diameter",
+        "Root hair length"
+      ],
+      "answer": 1,
+      "explanation": "Stomatal conductance (gs) reflects the combined effect of stomatal aperture and density, governing the ease with which water vapor diffuses out of the leaf.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "Which plasma‑membrane pump is essential for initiating stomatal opening?",
+      "options": [
+        "H⁺‑ATPase",
+        "Na⁺/K⁺‑ATPase",
+        "Ca²⁺‑ATPase",
+        "H⁺/K⁺ antiporter"
+      ],
+      "answer": 0,
+      "explanation": "Activation of the H⁺‑ATPase pumps protons out of guard cells, hyperpolarising the membrane and facilitating K⁺ influx that drives opening.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "Which statement about transpiration through stomata is FALSE?",
+      "options": [
+        "It contributes to the upward movement of water in the xylem",
+        "It is a passive process driven by water‑potential gradient",
+        "It occurs only during the night",
+        "It helps in cooling the leaf surface"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration primarily occurs during the day when stomata are open; night‑time transpiration is minimal.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "If two leaves have the same total leaf area but one has a higher stomatal density, its transpiration rate per unit leaf area will generally be:",
+      "options": [
+        "Lower",
+        "Higher",
+        "The same",
+        "Unaffected because density does not influence rate"
+      ],
+      "answer": 1,
+      "explanation": "Greater stomatal density increases total stomatal pore area, raising stomatal conductance and thus the transpiration rate per unit leaf area.",
+      "topic": "Transpiration through stomata"
+    },
+    {
+      "question": "In a typical dicot leaf, the stomatal apparatus consists of which arrangement of cells?",
+      "options": [
+        "Two guard cells flanked by two subsidiary cells",
+        "Two guard cells only",
+        "One guard cell and one subsidiary cell",
+        "Four guard cells surrounding a pore"
+      ],
+      "answer": 0,
+      "explanation": "Dicot stomata usually have a pair of kidney‑shaped guard cells surrounded laterally by a pair of subsidiary cells, forming the complete stomatal apparatus.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "Which ion predominantly enters guard cells to initiate stomatal opening in response to light?",
+      "options": [
+        "Chloride (Cl⁻)",
+        "Potassium (K⁺)",
+        "Calcium (Ca²⁺)",
+        "Magnesium (Mg²⁺)"
+      ],
+      "answer": 1,
+      "explanation": "Light triggers activation of inward‑rectifying K⁺ channels; the influx of K⁺ raises the osmotic potential, causing water entry and guard‑cell turgor increase.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "Which plant hormone is chiefly responsible for inducing stomatal closure during water‑deficit conditions?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Abscisic acid (ABA)",
+        "Gibberellin"
+      ],
+      "answer": 2,
+      "explanation": "ABA accumulates under drought stress, activates secondary messengers that lead to K⁺ and anion efflux from guard cells, resulting in closure.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "During stomatal opening, the primary plasma‑membrane channel that mediates K⁺ uptake into guard cells is:",
+      "options": [
+        "Voltage‑gated Ca²⁺ channel",
+        "Inward‑rectifying K⁺ channel",
+        "Outward‑rectifying K⁺ channel",
+        "Plasma‑membrane H⁺‑ATPase"
+      ],
+      "answer": 1,
+      "explanation": "Inward‑rectifying K⁺ channels allow K⁺ to flow into guard cells following the electrochemical gradient established by H⁺‑ATPase activity.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "How does blue light promote stomatal opening?",
+      "options": [
+        "It directly relaxes guard‑cell walls",
+        "It activates phototropin receptors that stimulate H⁺‑ATPase activity",
+        "It inhibits K⁺ efflux from guard cells",
+        "It has no effect; only red light is effective"
+      ],
+      "answer": 1,
+      "explanation": "Blue light is perceived by phototropins, leading to phosphorylation and activation of the plasma‑membrane H⁺‑ATPase, which hyperpolarizes the membrane and drives K⁺ uptake.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "The main cause of guard‑cell turgor loss during stomatal closure is:",
+      "options": [
+        "Uptake of K⁺ into the vacuole",
+        "Efflux of K⁺ and anions to the apoplast",
+        "Synthesis of compatible solutes",
+        "Increase in photosynthetic CO₂ fixation"
+      ],
+      "answer": 1,
+      "explanation": "ABA‑induced signaling opens outward‑rectifying K⁺ channels and anion channels, allowing solutes to leave the guard cells, water follows, and turgor decreases.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "Which characteristic of the guard‑cell inner wall facilitates the unidirectional opening of the stomatal pore?",
+      "options": [
+        "Uniform thickness of inner and outer walls",
+        "Radial orientation of cellulose microfibrils in the inner wall",
+        "Higher lignin content in the outer wall",
+        "Presence of suberin in both walls"
+      ],
+      "answer": 1,
+      "explanation": "The inner wall of guard cells has radially oriented cellulose microfibrils, allowing it to expand more than the outer wall during turgor increase, thereby opening the pore.",
+      "topic": "Stomatal apparatus"
+    },
+    {
+      "question": "Which ion movement is the primary driver of guard cell turgor increase during stomatal opening?",
+      "options": [
+        "K⁺ influx into guard cells",
+        "Cl⁻ efflux from guard cells",
+        "Ca²⁺ influx into guard cells",
+        "Na⁺ efflux from guard cells"
+      ],
+      "answer": 0,
+      "explanation": "K⁺ ions enter guard cells through inward‑rectifying K⁺ channels, raising the internal osmotic pressure and causing water influx that swells the cells.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "Blue light leads to activation of which plasma‑membrane pump that results in stomatal opening?",
+      "options": [
+        "H⁺‑ATPase",
+        "Ca²⁺ channel",
+        "K⁺ channel",
+        "Phototropin receptor"
+      ],
+      "answer": 0,
+      "explanation": "Blue light activates phototropins, which in turn stimulate the plasma‑membrane H⁺‑ATPase; proton extrusion hyperpolarises the membrane, promoting K⁺ uptake and guard‑cell turgor.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "Abscisic acid (ABA) induces stomatal closure primarily by increasing the concentration of which ion in guard cells?",
+      "options": [
+        "Ca²⁺",
+        "K⁺",
+        "Cl⁻",
+        "Mg²⁺"
+      ],
+      "answer": 0,
+      "explanation": "ABA triggers Ca²⁺ release from internal stores, raising cytosolic Ca²⁺; the rise activates ion channels that lead to K⁺ and anion efflux, reducing turgor.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "During stomatal opening, guard cells accumulate solutes, causing water influx. Which statement best describes the osmotic change in guard cells?",
+      "options": [
+        "Solute concentration decreases",
+        "Solute concentration increases",
+        "No change in solute concentration",
+        "Water potential increases"
+      ],
+      "answer": 1,
+      "explanation": "Accumulation of K⁺, Cl⁻ and organic acids raises the solute concentration, lowering water potential and drawing water into the guard cells.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "Which structural feature distinguishes guard cells from other epidermal cells?",
+      "options": [
+        "Presence of chloroplasts",
+        "Presence of a thick cuticle",
+        "Presence of a large central vacuole",
+        "Presence of lignified secondary walls"
+      ],
+      "answer": 0,
+      "explanation": "Guard cells contain chloroplasts that provide ATP for ion transport, a feature absent in most other epidermal cells.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "High internal CO₂ concentration leads to stomatal closure mediated by which secondary messenger?",
+      "options": [
+        "cGMP",
+        "cAMP",
+        "IP₃",
+        "Reactive oxygen species"
+      ],
+      "answer": 2,
+      "explanation": "Elevated CO₂ stimulates production of IP₃, which releases Ca²⁺ from internal stores, initiating the closure signaling cascade.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "At night, stomatal closure is associated with which change in guard‑cell plasma‑membrane potential?",
+      "options": [
+        "Hyperpolarization",
+        "Depolarization",
+        "No change",
+        "Oscillatory fluctuations"
+      ],
+      "answer": 1,
+      "explanation": "Closure involves K⁺ efflux through outward‑rectifying channels, causing membrane depolarisation of guard cells.",
+      "topic": "Guard cells"
+    },
+    {
+      "question": "Which ion's influx into guard cells is the primary trigger for stomatal opening?",
+      "options": [
+        "K⁺",
+        "Ca²⁺",
+        "Cl⁻",
+        "Na⁺"
+      ],
+      "answer": 0,
+      "explanation": "K⁺ influx lowers the guard‑cell membrane potential, allowing further uptake of anions and water, leading to turgor increase and stomatal opening.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "Blue light stimulates stomatal opening by activating which plasma‑membrane pump in guard cells?",
+      "options": [
+        "H⁺‑ATPase",
+        "Ca²⁺‑ATPase",
+        "Na⁺/K⁺‑ATPase",
+        "V‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "Blue light activates phototropins, which phosphorylate and activate the plasma‑membrane H⁺‑ATPase, creating an electrochemical gradient that drives K⁺ uptake.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "Abscisic acid (ABA) induces stomatal closure mainly by increasing the concentration of which secondary messenger in guard cells?",
+      "options": [
+        "cGMP",
+        "cAMP",
+        "Ca²⁺",
+        "IP₃"
+      ],
+      "answer": 2,
+      "explanation": "ABA triggers a signalling cascade that raises cytosolic Ca²⁺ levels, activating ion channels that lead to loss of K⁺ and water, causing closure.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "During stomatal opening, guard cells accumulate solutes in a specific order. Which sequence is correct?",
+      "options": [
+        "K⁺ influx → Cl⁻ influx → H⁺ efflux",
+        "Cl⁻ influx → K⁺ influx → H⁺ influx",
+        "K⁺ efflux → Cl⁻ efflux → H⁺ influx",
+        "H⁺ influx → K⁺ influx → Cl⁻ influx"
+      ],
+      "answer": 0,
+      "explanation": "First, H⁺‑ATPase pumps H⁺ out, hyperpolarising the membrane; this drives K⁺ influx, followed by Cl⁻ (or malate) influx to maintain electroneutrality.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "Which environmental factor most directly causes stomatal closure during midday heat stress?",
+      "options": [
+        "High atmospheric CO₂",
+        "Low humidity (high VPD)",
+        "High light intensity",
+        "Low temperature"
+      ],
+      "answer": 1,
+      "explanation": "Low humidity raises the vapour pressure deficit, leading to rapid water loss; guard cells lose turgor and stomata close to conserve water.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "The uptake of K⁺ during stomatal opening depends on the opening of which type of channel in the guard‑cell plasma membrane?",
+      "options": [
+        "Voltage‑gated K⁺ channel",
+        "Aquaporin",
+        "Chloride channel",
+        "Calcium channel"
+      ],
+      "answer": 0,
+      "explanation": "Voltage‑gated inward‑rectifying K⁺ channels open in response to membrane hyperpolarisation, allowing K⁺ entry that drives osmotic water influx.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "Which statement about the role of malate in stomatal opening is correct?",
+      "options": [
+        "Malate is synthesized in guard cells to maintain electroneutrality during K⁺ uptake",
+        "Malate is exported to the apoplast to attract water",
+        "Malate inhibits the H⁺‑ATPase",
+        "Malate acts as a signal that triggers stomatal closure"
+      ],
+      "answer": 0,
+      "explanation": "Guard cells convert imported CO₂ to malate, which serves as a counter‑anion to K⁺, preserving charge balance while water enters the cell.",
+      "topic": "Stomatal opening and closing"
+    },
+    {
+      "question": "Which ion's accumulation in guard cells is primarily responsible for stomatal opening?",
+      "options": [
+        "Cl⁻",
+        "K⁺",
+        "Ca²⁺",
+        "Mg²⁺"
+      ],
+      "answer": 1,
+      "explanation": "Uptake of K⁺ into guard cells lowers their water potential, causing water influx, increased turgor and stomatal opening.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "Blue‑light activation of stomatal opening involves which of the following processes?",
+      "options": [
+        "Inhibition of H⁺‑ATPase",
+        "Activation of plasma membrane H⁺‑ATPase",
+        "Opening of outward K⁺ channels",
+        "Closure of aquaporins"
+      ],
+      "answer": 1,
+      "explanation": "Blue light triggers phototropin signaling that activates the plasma‑membrane H⁺‑ATPase, hyperpolarising the membrane and driving K⁺ influx.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "During abscisic acid (ABA)‑induced stomatal closure, potassium ions leave guard cells mainly through which mechanism?",
+      "options": [
+        "Activation of outward‑rectifying K⁺ channels",
+        "Inhibition of inward‑rectifying K⁺ channels",
+        "Increased K⁺ uptake via symporters",
+        "Enhanced K⁺ sequestration in vacuole"
+      ],
+      "answer": 0,
+      "explanation": "ABA raises cytosolic Ca²⁺, activating outward‑rectifying K⁺ channels (e.g., GORK), leading to K⁺ efflux, loss of turgor and stomatal closure.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "What is the primary electrochemical driving force for K⁺ entry into guard cells during light‑induced opening?",
+      "options": [
+        "Depolarization of plasma membrane",
+        "Hyperpolarization of plasma membrane",
+        "Neutral membrane potential",
+        "Positive membrane potential inside"
+      ],
+      "answer": 1,
+      "explanation": "The H⁺‑ATPase pumps protons out, making the interior more negative (hyperpolarised), which drives K⁺ influx through inward‑rectifying channels.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "Which transporter chiefly mediates vacuolar sequestration of K⁺ in guard cells during stomatal opening?",
+      "options": [
+        "Na⁺/K⁺ ATPase",
+        "H⁺/K⁺ antiporter (NHX)",
+        "K⁺/H⁺ symporter",
+        "Ca²⁺/H⁺ antiporter"
+      ],
+      "answer": 1,
+      "explanation": "The vacuolar NHX antiporter exchanges cytosolic K⁺ for vacuolar H⁺, accumulating K⁺ in the vacuole and contributing to osmotic water uptake.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "Which experimental observation directly demonstrates that K⁺ influx is essential for light‑induced stomatal opening?",
+      "options": [
+        "Stomatal opening is inhibited by K⁺ channel blocker TEA",
+        "Guard cells swell in K⁺‑free solution",
+        "Light induces Ca²⁺ influx independent of K⁺",
+        "Stomatal opening is unaffected by external K⁺ concentration"
+      ],
+      "answer": 0,
+      "explanation": "TEA blocks inward‑rectifying K⁺ channels; when applied, light cannot induce stomatal opening, confirming the necessity of K⁺ influx.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "The main inward‑rectifying K⁺ channel that facilitates K⁺ uptake during stomatal opening is:",
+      "options": [
+        "SLAC1",
+        "GORK",
+        "KAT1",
+        "AKT2"
+      ],
+      "answer": 2,
+      "explanation": "KAT1 is a light‑activated inward‑rectifying K⁺ channel in guard cells that allows rapid K⁺ entry, driving osmotic water uptake and opening.",
+      "topic": "Role of potassium ions in stomatal movement"
+    },
+    {
+      "question": "Which environmental factor primarily triggers stomatal opening in most plants during the day?",
+      "options": [
+        "Light intensity",
+        "High atmospheric CO2 concentration",
+        "Low relative humidity",
+        "Abscisic acid accumulation"
+      ],
+      "answer": 0,
+      "explanation": "Light, especially blue light, activates photoreceptors in guard cells leading to K⁺ uptake and turgor increase, causing stomatal opening.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "Which photoreceptor mediates stomatal opening in response to blue light?",
+      "options": [
+        "Phytochrome",
+        "Cryptochrome",
+        "Phytochrome B",
+        "Phototropin"
+      ],
+      "answer": 3,
+      "explanation": "Phototropins are blue‑light receptors that initiate a signaling cascade resulting in H⁺‑ATPase activation and K⁺ influx into guard cells.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "A sustained increase in atmospheric CO₂ concentration generally causes stomata to:",
+      "options": [
+        "Open wider",
+        "Remain unchanged",
+        "Close partially",
+        "Increase in number"
+      ],
+      "answer": 2,
+      "explanation": "Elevated CO₂ reduces the need for gas exchange, leading to a decrease in guard‑cell turgor and partial stomatal closure.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "During drought, accumulation of abscisic acid (ABA) in guard cells leads to which ion movement?",
+      "options": [
+        "Influx of K⁺ into guard cells",
+        "Efflux of K⁺ from guard cells",
+        "Influx of Cl⁻ into guard cells",
+        "No net ion movement"
+      ],
+      "answer": 1,
+      "explanation": "ABA activates ion channels that cause K⁺ to exit the guard cells, decreasing their turgor and resulting in stomatal closure.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "Low relative humidity most directly affects stomatal conductance by:",
+      "options": [
+        "Increasing it to enhance transpiration",
+        "Decreasing it to limit water loss",
+        "Having no effect on conductance",
+        "Increasing stomatal density over time"
+      ],
+      "answer": 1,
+      "explanation": "When humidity is low, the vapor pressure gradient rises, prompting stomata to close to conserve water, thus reducing conductance.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "At moderately high temperature with adequate soil moisture, stomata typically:",
+      "options": [
+        "Close to prevent water loss",
+        "Open to facilitate leaf cooling through transpiration",
+        "Remain unchanged",
+        "Close due to increased ABA synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Higher temperature raises leaf temperature; opening stomata allows transpiration cooling, provided water is available.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "Under a constant light regime, the circadian rhythm of many plants causes stomatal opening to peak at:",
+      "options": [
+        "Dawn",
+        "Midday",
+        "Dusk",
+        "Midnight"
+      ],
+      "answer": 0,
+      "explanation": "The internal clock anticipates sunrise, causing maximal stomatal opening around dawn even if light conditions remain constant.",
+      "topic": "Environmental factors affecting stomata"
+    },
+    {
+      "question": "Which statement best describes the cohesion‑tension theory for upward movement of water in the xylem?",
+      "options": [
+        "Root pressure generated by active ion uptake pushes water upward",
+        "Transpiration creates a negative pressure gradient that pulls a continuous water column via cohesion",
+        "Osmotic pressure in leaves pushes water upward",
+        "Capillary action in vessels alone drives the ascent of sap"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration from leaf stomata lowers leaf water potential, generating a tension that, together with cohesion between water molecules, pulls water upward through the continuous xylem column.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which xylem element primarily provides mechanical support but does not conduct water?",
+      "options": [
+        "Vessel elements",
+        "Tracheids",
+        "Xylem fibres",
+        "Xylem parenchyma"
+      ],
+      "answer": 2,
+      "explanation": "Xylem fibres are heavily lignified cells that reinforce the vascular tissue; they lack the wide lumens and perforations needed for efficient water conduction.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "What structural feature mainly distinguishes vessels from tracheids?",
+      "options": [
+        "Presence of bordered pits",
+        "Length and presence of perforation plates at end walls",
+        "Lignified secondary walls",
+        "Living protoplasm in the cells"
+      ],
+      "answer": 1,
+      "explanation": "Vessels are long, wide cells that have perforation plates at their end walls, allowing uninterrupted water flow, whereas tracheids are shorter and have only pits.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "The primary driving force for mineral movement in the xylem from roots to shoots is:",
+      "options": [
+        "Diffusion down a concentration gradient",
+        "Bulk flow with the transpiration stream",
+        "Active transport by xylem parenchyma cells",
+        "Root pressure alone"
+      ],
+      "answer": 1,
+      "explanation": "Minerals dissolved in the transpiration stream are carried upward by bulk flow of water driven by transpiration pull, not by diffusion or active transport.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which condition would most likely reduce the rate of transpiration pull and thus xylem water transport?",
+      "options": [
+        "High atmospheric humidity",
+        "Low leaf temperature",
+        "High soil water potential",
+        "High wind speed"
+      ],
+      "answer": 0,
+      "explanation": "High humidity lowers the water‑vapor gradient between leaf interior and air, decreasing transpiration rate and the associated tension in the xylem.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "During drought, which mechanism helps a plant maintain some water flow in the xylem despite low soil water potential?",
+      "options": [
+        "Increased root pressure",
+        "Opening of stomata",
+        "Production of additional tracheids",
+        "Accumulation of solutes in the xylem (osmotic adjustment)"
+      ],
+      "answer": 3,
+      "explanation": "Accumulating solutes lowers the water potential of xylem sap, allowing water to be drawn from drier soil and maintaining a limited flow.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which statement about the direction of water movement in the xylem is correct?",
+      "options": [
+        "Water moves from leaves to roots due to gravity",
+        "Water moves from roots to leaves driven by a water‑potential gradient",
+        "Water moves bidirectionally depending on time of day",
+        "Water moves only when root pressure exceeds atmospheric pressure"
+      ],
+      "answer": 1,
+      "explanation": "Water moves upward from roots to shoots because the water potential in the leaves (low due to transpiration) is lower than that in the roots, creating a gradient that drives flow.",
+      "topic": "Xylem transport"
+    },
+    {
+      "question": "Which xylem cell type is characterized by long, narrow cells with tapered ends, lignified walls, and pits but lacks perforation plates?",
+      "options": [
+        "Tracheids",
+        "Vessel elements",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 0,
+      "explanation": "Tracheids are elongated cells with tapered ends and have pits; they do not possess perforation plates, unlike vessels.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "The structural feature that primarily distinguishes vessels from tracheids in xylem is:",
+      "options": [
+        "Presence of lignified secondary walls",
+        "Presence of bordered pits",
+        "Presence of perforation plates at end walls",
+        "Presence of sclerenchymatous fibers"
+      ],
+      "answer": 2,
+      "explanation": "Vessels have perforation plates at their end walls allowing efficient water flow, a feature absent in tracheids.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "Which xylem element provides most of the mechanical support due to its heavily lignified, short, and thick-walled cells?",
+      "options": [
+        "Vessel elements",
+        "Tracheids",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 2,
+      "explanation": "Xylem fibers are short, have thick lignified secondary walls, and function mainly in support.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "The type of pit most commonly found in the walls of tracheids that facilitates water movement between adjacent cells is:",
+      "options": [
+        "Simple pits",
+        "Bordered pits",
+        "Scalariform pits",
+        "Ladder-like pits"
+      ],
+      "answer": 1,
+      "explanation": "Bordered pits have a thickened rim and a central membrane, allowing selective water movement between tracheids.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "Which xylem cell type is primarily involved in storage and lateral transport of minerals and carbohydrates?",
+      "options": [
+        "Vessel elements",
+        "Tracheids",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 3,
+      "explanation": "Xylem parenchyma cells are living cells that store nutrients and can transport them laterally.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "Vessels in dicot stems are formed by the end‑to‑end fusion of which type of cells?",
+      "options": [
+        "Tracheids",
+        "Vessel elements",
+        "Xylem fibers",
+        "Xylem parenchyma"
+      ],
+      "answer": 1,
+      "explanation": "Vessel elements align end to end and their end walls dissolve to form continuous tubes called vessels.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "In mature xylem vessels, the secondary wall thickenings are primarily:",
+      "options": [
+        "Annular",
+        "Helical",
+        "Scalariform",
+        "Pitted"
+      ],
+      "answer": 3,
+      "explanation": "Mature vessels develop pitted secondary walls, allowing water to pass through pits while maintaining structural integrity.",
+      "topic": "Structure of xylem"
+    },
+    {
+      "question": "Which structural feature primarily distinguishes tracheids from vessels in angiosperm xylem?",
+      "options": [
+        "Presence of perforation plates",
+        "Presence of bordered pits",
+        "Lignified secondary walls",
+        "Open end walls"
+      ],
+      "answer": 1,
+      "explanation": "Tracheids lack perforation plates and instead have numerous bordered pits that allow lateral water movement, whereas vessels possess perforation plates for axial flow.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "The main functional role of tracheids in gymnosperm stems is to:",
+      "options": [
+        "Carry out photosynthesis",
+        "Provide mechanical support and conduct water",
+        "Store starch reserves",
+        "Fix atmospheric nitrogen"
+      ],
+      "answer": 1,
+      "explanation": "In gymnosperms, tracheids are elongated, lignified cells that simultaneously provide structural support and serve as the primary conduit for water transport.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Water moves laterally from one tracheid to an adjacent tracheid through which structure?",
+      "options": [
+        "Sieve plates",
+        "Bordered pits",
+        "Plasmodesmata",
+        "Perforation plates"
+      ],
+      "answer": 1,
+      "explanation": "Bordered pits are thin-walled regions in the secondary wall of tracheids that permit lateral water movement while maintaining cell integrity.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Compared with vessels, the average diameter of tracheids is:",
+      "options": [
+        "Larger",
+        "Similar",
+        "Smaller",
+        "Highly variable with no consistent trend"
+      ],
+      "answer": 2,
+      "explanation": "Tracheids are generally narrower than vessels, which contributes to higher resistance to flow but also reduces the risk of cavitation.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Which statement about the cell walls of mature tracheids is correct?",
+      "options": [
+        "They consist only of primary walls",
+        "They are heavily lignified with secondary thickening",
+        "They are composed mainly of cellulose without lignin",
+        "They are thin and flexible"
+      ],
+      "answer": 1,
+      "explanation": "Mature tracheids have thick secondary walls impregnated with lignin, providing rigidity and resistance to collapse under negative pressure.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Elongation of tracheids during primary growth is driven by activity of:",
+      "options": [
+        "Vascular cambium",
+        "Apical meristem",
+        "Cork cambium",
+        "Root apical meristem"
+      ],
+      "answer": 1,
+      "explanation": "Tracheids originate from procambial cells that are supplied by the apical meristem during primary growth, allowing them to lengthen as the plant elongates.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Which adaptation in conifer tracheids helps prevent the spread of air embolisms while allowing water flow?",
+      "options": [
+        "Wide lumen",
+        "Tor us‑margo bordered pits",
+        "Open end walls",
+        "High solute concentration in the sap"
+      ],
+      "answer": 1,
+      "explanation": "Conifer tracheids possess torus‑margo pits; the torus acts as a valve that can seal the pit aperture when a pressure difference occurs, limiting embolism spread.",
+      "topic": "Tracheids"
+    },
+    {
+      "question": "Which structural feature primarily distinguishes vessels from tracheids in angiosperm xylem?",
+      "options": [
+        "Presence of pits on lateral walls",
+        "Presence of perforation plates at end walls",
+        "Presence of lignified secondary walls",
+        "Presence of sclerenchymatous fibers"
+      ],
+      "answer": 1,
+      "explanation": "Vessels have perforation plates—openings in the end walls that allow uninterrupted water flow, a feature absent in tracheids.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "In angiosperms, the water-conducting elements that form vessels are called:",
+      "options": [
+        "Vessel elements",
+        "Tracheids",
+        "Sieve‑tube elements",
+        "Xylem parenchyma cells"
+      ],
+      "answer": 0,
+      "explanation": "Vessels are composed of a series of vessel elements that align end‑to‑end, creating a continuous lumen for water transport.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "The high efficiency of water transport in vessels compared to tracheids is mainly due to:",
+      "options": [
+        "Narrow lumen diameter",
+        "Abundance of bordered pits",
+        "Large diameter and continuous lumen",
+        "Thick secondary wall reinforcement"
+      ],
+      "answer": 2,
+      "explanation": "Vessels possess a relatively large, uninterrupted lumen formed by stacked vessel elements, reducing resistance to flow.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "Which type of perforation plate is most commonly found in the vessels of dicotyledonous plants?",
+      "options": [
+        "Simple perforation plates",
+        "Scalariform perforation plates",
+        "Reticulate perforation plates",
+        "Compound perforation plates"
+      ],
+      "answer": 0,
+      "explanation": "Simple perforation plates—single, large openings—are typical of most dicot vessels, facilitating rapid water movement.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "Cavitation (air embolism) is more likely to occur in vessels than in tracheids because:",
+      "options": [
+        "Vessels have lignified walls",
+        "Vessels have larger diameters",
+        "Vessels lack pits",
+        "Vessels are shorter in length"
+      ],
+      "answer": 1,
+      "explanation": "The larger diameter of vessels makes them more susceptible to the formation and expansion of air bubbles under tension.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "During secondary growth, vessels are produced by:",
+      "options": [
+        "Being formed only in primary xylem",
+        "Differentiation from procambial cells",
+        "Arising from the vascular cambium as vessel elements",
+        "Division of existing vessel elements"
+      ],
+      "answer": 2,
+      "explanation": "The vascular cambium generates new vessel elements that differentiate and join to extend the vessel network in secondary xylem.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "Which statement correctly compares vessels in monocots and dicots?",
+      "options": [
+        "Monocots lack vessels entirely",
+        "Monocot vessels are generally shorter and have scalariform perforation plates",
+        "Dicots possess only tracheids, no vessels",
+        "Monocot vessels have simple perforation plates similar to dicots"
+      ],
+      "answer": 1,
+      "explanation": "Monocot vessels tend to be shorter and often display scalariform (ladder‑like) perforation plates, whereas dicot vessels usually have simple plates.",
+      "topic": "Vessels"
+    },
+    {
+      "question": "Which of the following best describes xylem fibres?",
+      "options": [
+        "Living parenchyma cells that store starch",
+        "Short, dead, lignified cells providing mechanical support",
+        "Long, water-conducting cells with perforated end walls",
+        "Guard cells regulating stomatal aperture"
+      ],
+      "answer": 1,
+      "explanation": "Xylem fibres are short, dead cells with heavily lignified secondary walls that mainly give mechanical strength to the plant.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "In which part of the plant are xylem fibres most abundant?",
+      "options": [
+        "Primary xylem of young roots",
+        "Secondary xylem (wood)",
+        "Phloem sieve tubes",
+        "Stomatal guard cells"
+      ],
+      "answer": 1,
+      "explanation": "Xylem fibres are predominantly found in the secondary xylem (wood) where they reinforce the stem and trunk.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "Which cell‑wall component is primarily responsible for the rigidity of xylem fibres?",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Lignin",
+        "Hemicellulose"
+      ],
+      "answer": 2,
+      "explanation": "Lignin impregnates the secondary walls of xylem fibres, making them rigid and resistant to compression.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "How do xylem fibres differ from tracheids in function?",
+      "options": [
+        "Fibres conduct water, tracheids provide support",
+        "Both conduct water equally",
+        "Fibres provide mechanical support, tracheids conduct water",
+        "Both are living cells"
+      ],
+      "answer": 2,
+      "explanation": "Tracheids are elongated, water‑conducting cells, whereas xylem fibres are mainly for mechanical support and do not transport water.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "During secondary growth, xylem fibres are derived from which meristematic tissue?",
+      "options": [
+        "Vascular cambium",
+        "Cork cambium",
+        "Apical meristem",
+        "Root apical meristem"
+      ],
+      "answer": 0,
+      "explanation": "The vascular cambium produces secondary xylem, including xylem fibres, as part of the wood formation process.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "Which of the following statements about xylem fibres is FALSE?",
+      "options": [
+        "They are dead at functional maturity",
+        "They have thick secondary walls",
+        "They contain many pits for lateral transport",
+        "They are primarily involved in mechanical support"
+      ],
+      "answer": 2,
+      "explanation": "Xylem fibres have few or no pits; extensive pits are characteristic of tracheids and vessels for water movement.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "In a cross‑section of a mature dicot stem, the region termed “fibrous wood” mainly consists of:",
+      "options": [
+        "Vessels",
+        "Tracheids",
+        "Xylem fibres",
+        "Phloem fibers"
+      ],
+      "answer": 2,
+      "explanation": "Fibrous wood is rich in xylem fibres, which give the wood its strength, while vessels and tracheids are the main water‑conducting elements.",
+      "topic": "Xylem fibres"
+    },
+    {
+      "question": "Which statement correctly describes xylem parenchyma cells?",
+      "options": [
+        "They are dead, lignified cells that provide structural support.",
+        "They are living cells with thin primary walls that can store carbohydrates.",
+        "They are elongated cells with perforated end walls forming continuous tubes.",
+        "They are sclerenchymatous cells that deposit secondary wall thickening."
+      ],
+      "answer": 1,
+      "explanation": "Xylem parenchyma are living parenchymatous cells, thin‑walled, and often store starch or other reserves, unlike dead, lignified tracheids or vessels.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "The primary role of xylem parenchyma in mineral transport is to:",
+      "options": [
+        "Conduct water under tension.",
+        "Load minerals into the xylem sap from surrounding tissues.",
+        "Provide mechanical strength to the xylem.",
+        "Form the Casparian strip."
+      ],
+      "answer": 1,
+      "explanation": "Living xylem parenchyma cells are situated radially and can actively load ions and minerals into the xylem stream, facilitating their upward movement.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "During embolism repair in xylem, which cell type generates the positive pressure needed to dissolve air bubbles?",
+      "options": [
+        "Tracheids",
+        "Vessel elements",
+        "Xylem parenchyma",
+        "Phloem companion cells"
+      ],
+      "answer": 2,
+      "explanation": "Xylem parenchyma cells can secrete solutes into the embolized conduit, creating an osmotic gradient that draws water in and generates pressure to dissolve the trapped air.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "Which of the following is NOT a function of xylem parenchyma?",
+      "options": [
+        "Storage of starch",
+        "Synthesis of lignin precursors",
+        "Translocation of sugars from source to sink",
+        "Radial transport of solutes between xylem and phloem"
+      ],
+      "answer": 2,
+      "explanation": "Xylem parenchyma are not involved in long‑distance sugar transport; that function belongs to phloem sieve elements and companion cells.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "In response to wounding, xylem parenchyma cells can differentiate into:",
+      "options": [
+        "Vessel elements",
+        "Sclereids",
+        "Callus tissue",
+        "Guard cells"
+      ],
+      "answer": 2,
+      "explanation": "Parenchyma cells retain meristematic potential and can give rise to callus tissue that aids in wound healing and regeneration.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "The presence of which pigment in xylem parenchyma aids in the detection of water stress?",
+      "options": [
+        "Chlorophyll",
+        "Anthocyanin",
+        "Carotene",
+        "Phycobilin"
+      ],
+      "answer": 1,
+      "explanation": "Anthocyanin accumulation in xylem parenchyma under drought conditions gives a reddish hue, serving as a visual indicator of water stress.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "Why are xylem parenchyma considered the only living component of xylem tissue?",
+      "options": [
+        "They possess plasmodesmata allowing intercellular communication.",
+        "They have thick secondary walls impregnated with lignin.",
+        "They are dead at maturity like tracheids.",
+        "They lack a nucleus and vacuole."
+      ],
+      "answer": 0,
+      "explanation": "Xylem parenchyma retain a nucleus, vacuole, and plasmodesmata, enabling metabolic activity and communication, unlike the dead, lignified tracheids and vessels.",
+      "topic": "Xylem parenchyma"
+    },
+    {
+      "question": "Which of the following best describes the primary driving force for upward movement of water in the xylem of tall trees?",
+      "options": [
+        "Root pressure",
+        "Capillary action",
+        "Transpiration pull (cohesion‑tension)",
+        "Osmotic gradient"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration creates a negative pressure (tension) in the leaf air spaces; cohesion between water molecules transmits this tension down the continuous water column, pulling water upward.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "In the cohesion‑tension theory, the tensile strength of water is essential because:",
+      "options": [
+        "It allows water to evaporate faster",
+        "It enables water columns to resist breaking under negative pressure",
+        "It increases solute concentration in the sap",
+        "It promotes active transport of minerals"
+      ],
+      "answer": 1,
+      "explanation": "Water’s high tensile strength prevents the water column in xylem from snapping when subjected to the negative pressures generated by transpiration.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "Which xylem element is primarily responsible for efficient long‑distance water transport due to its wide lumen and perforation plates?",
+      "options": [
+        "Tracheids",
+        "Vessels",
+        "Xylem fibres",
+        "Xylem parenchyma"
+      ],
+      "answer": 1,
+      "explanation": "Vessels have large diameters and end‑wall perforations that allow rapid, low‑resistance flow of water over long distances, especially in angiosperms.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "Minerals such as nitrate are transported upward in the xylem mainly by:",
+      "options": [
+        "Active loading into phloem",
+        "Mass flow with the transpiration stream",
+        "Diffusion through plasmodesmata",
+        "Root exudation"
+      ],
+      "answer": 1,
+      "explanation": "As water is pulled upward by transpiration, dissolved minerals are carried passively with the bulk flow (mass flow) in the xylem sap.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "The phenomenon of cavitation in xylem vessels is most directly caused by:",
+      "options": [
+        "Excessive root pressure",
+        "High atmospheric humidity",
+        "Formation of air bubbles due to water tension",
+        "Accumulation of solutes in the sap"
+      ],
+      "answer": 2,
+      "explanation": "When the tension in the water column exceeds its cohesive strength, air can be pulled into the column, forming an embolism (cavitation) that blocks flow.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "Which of the following statements about root pressure is correct regarding its contribution to xylem transport?",
+      "options": [
+        "It is the main force moving water to the canopy in tall trees",
+        "It occurs mainly at night and can cause guttation",
+        "It increases with high transpiration rates",
+        "It is generated by the transpiration pull in leaves"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure, generated by active ion uptake in root cells, builds a positive pressure that can push water upward, especially at night when transpiration is low, leading to guttation.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "In a plant experiencing high transpiration rates, the concentration of minerals in the xylem sap compared to the root cells is:",
+      "options": [
+        "Lower because minerals are diluted by water",
+        "Higher because minerals are actively pumped",
+        "The same due to equilibrium",
+        "Variable and unrelated to transpiration"
+      ],
+      "answer": 0,
+      "explanation": "Rapid water uptake dilutes the sap, so the mineral concentration in the xylem becomes lower than that in the root cells during periods of high transpiration.",
+      "topic": "Water and mineral transport through xylem"
+    },
+    {
+      "question": "Which mineral ion is primarily taken up by plant roots through an energy‑requiring active transport mechanism against its concentration gradient?",
+      "options": [
+        "Nitrate",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate is absorbed mainly via H⁺‑nitrate symporters that use the proton gradient generated by H⁺‑ATPase, making it an active uptake process.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "In root hairs, passive diffusion of mineral ions across the cell wall occurs mainly through which pathway?",
+      "options": [
+        "Apoplast",
+        "Symplast",
+        "Transmembrane channels",
+        "Plasmodesmata"
+      ],
+      "answer": 0,
+      "explanation": "The apoplastic route involves movement through the cell wall continuum without crossing any membrane, allowing passive diffusion of ions.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "The plasma‑membrane H⁺‑ATPase in root epidermal cells primarily functions to:",
+      "options": [
+        "Pump K⁺ into the cell",
+        "Generate a proton gradient used for secondary active transport of nutrients",
+        "Directly transport nitrate into the cell",
+        "Close stomata"
+      ],
+      "answer": 1,
+      "explanation": "The H⁺‑ATPase extrudes protons, creating an electrochemical gradient that drives secondary active transporters (e.g., H⁺/nutrient symporters) for mineral uptake.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "Uptake of potassium ions into root cells is mainly mediated by which type of transporter?",
+      "options": [
+        "H⁺/K⁺ antiporter",
+        "Inward‑rectifying K⁺ channel",
+        "Na⁺/K⁺ ATPase",
+        "Ca²⁺ ATPase"
+      ],
+      "answer": 1,
+      "explanation": "Plants use inward‑rectifying K⁺ channels (e.g., AKT1) to allow K⁺ entry down its electrochemical gradient.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "The Casparian strip forces mineral ions to cross the plasma membrane of which cell layer before entering the xylem?",
+      "options": [
+        "Pericycle",
+        "Endodermis",
+        "Cortex",
+        "Epidermis"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip in the endodermis blocks the apoplastic pathway, requiring ions to cross the endodermal cell membranes (symplastic route) to reach the stele.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "Which statement correctly distinguishes active from passive mineral uptake in roots?",
+      "options": [
+        "Active uptake requires ATP directly, passive does not",
+        "Passive uptake moves ions against the gradient, active with the gradient",
+        "Active uptake occurs only in root hairs, passive only in cortex",
+        "Active uptake is mediated by plasmodesmata, passive by apoplast"
+      ],
+      "answer": 0,
+      "explanation": "Active uptake involves energy input (direct ATP use or indirect via proton gradients), whereas passive uptake relies on diffusion without energy expenditure.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "Phosphate ions are mainly absorbed by root cells through which transport mechanism?",
+      "options": [
+        "H⁺/PO₄³⁻ symport",
+        "Na⁺/PO₄²⁻ antiport",
+        "K⁺ channel",
+        "Ca²⁺ ATPase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphate uptake occurs via H⁺‑phosphate symporters that couple phosphate entry to the proton gradient established by H⁺‑ATPase.",
+      "topic": "Mineral uptake by roots"
+    },
+    {
+      "question": "Which pathway allows passive mineral absorption directly through cell walls without crossing the plasma membrane?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Transmembrane active transport",
+        "Endocytosis"
+      ],
+      "answer": 0,
+      "explanation": "In the apoplastic pathway minerals move through the cell walls and intercellular spaces, bypassing the plasma membrane, which is characteristic of passive absorption.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "In passive mineral absorption, the primary driving force is:",
+      "options": [
+        "Concentration gradient",
+        "ATP hydrolysis",
+        "Light energy",
+        "Pressure gradient"
+      ],
+      "answer": 0,
+      "explanation": "Passive absorption relies on the natural movement of ions down their concentration (or electrochemical) gradient without energy input.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "Which mineral is most commonly taken up by roots via passive diffusion under normal soil conditions?",
+      "options": [
+        "Nitrate (NO3-)",
+        "Phosphate (H2PO4-)",
+        "Potassium (K+)",
+        "Ammonium (NH4+)"
+      ],
+      "answer": 2,
+      "explanation": "Potassium ions can enter root cells through ion channels driven by their concentration gradient, making K⁺ a typical mineral absorbed passively.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "The Casparian strip in the endodermis forces minerals to cross the plasma membrane via which pathway before entering the xylem?",
+      "options": [
+        "Apoplastic",
+        "Symplastic",
+        "Transcellular",
+        "Plasmodesmata"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip blocks the apoplastic route, so minerals must move symplastically (through the cytoplasm of cells) crossing plasma membranes.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "During periods of high transpiration, passive mineral absorption is enhanced because:",
+      "options": [
+        "Increased root surface area",
+        "Increased water potential gradient pulling minerals",
+        "Activation of ATP-dependent pumps",
+        "Stomatal opening reduces root uptake"
+      ],
+      "answer": 1,
+      "explanation": "High transpiration creates a strong water potential gradient that pulls water and dissolved minerals upward, facilitating passive uptake.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "Which statement correctly distinguishes passive from active mineral absorption?",
+      "options": [
+        "Passive absorption requires ATP, active does not",
+        "Passive absorption occurs only in the presence of Casparian strip",
+        "Passive absorption moves ions down their electrochemical gradient, active moves against it",
+        "Passive absorption is limited to cations only"
+      ],
+      "answer": 2,
+      "explanation": "Passive absorption follows the electrochemical gradient, whereas active absorption uses energy (ATP) to move ions against the gradient.",
+      "topic": "Passive mineral absorption"
+    },
+    {
+      "question": "Which mineral is primarily taken up by plant roots via active transport against its concentration gradient?",
+      "options": [
+        "Nitrate",
+        "Calcium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate uptake uses an H⁺/NO₃⁻ symporter that moves nitrate into root cells against its gradient, requiring energy.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "What is the primary energy source that drives active mineral absorption in root epidermal cells?",
+      "options": [
+        "Light energy",
+        "ATP hydrolysis by plasma membrane H⁺‑ATPase",
+        "GTP hydrolysis by ribosomes",
+        "Sodium gradient"
+      ],
+      "answer": 1,
+      "explanation": "The plasma membrane H⁺‑ATPase hydrolyses ATP to pump protons out, creating a proton motive force that powers secondary active transport of minerals.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "Which root structure most increases the surface area for active mineral uptake?",
+      "options": [
+        "Root cap",
+        "Lateral root",
+        "Root hair",
+        "Pericycle"
+      ],
+      "answer": 2,
+      "explanation": "Root hairs are extensions of epidermal cells that greatly enlarge the absorptive surface, facilitating active uptake of ions.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "Uptake of phosphate (H₂PO₄⁻) by root cells is an example of which transport mechanism?",
+      "options": [
+        "Primary active transport",
+        "Secondary active transport",
+        "Facilitated diffusion",
+        "Simple diffusion"
+      ],
+      "answer": 1,
+      "explanation": "Phosphate is taken up via an H⁺/Pi symporter that uses the proton gradient generated by the H⁺‑ATPase, a form of secondary active transport.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "Which statement about the plasma membrane H⁺‑ATPase in mineral absorption is FALSE?",
+      "options": [
+        "It creates an electrochemical proton gradient",
+        "It directly transports mineral ions across the membrane",
+        "It is inhibited by vanadate",
+        "It provides energy for secondary active transport"
+      ],
+      "answer": 1,
+      "explanation": "The H⁺‑ATPase only pumps protons; mineral ions are transported by separate carriers that use the proton gradient.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "When external potassium concentration is low, potassium uptake by root cells is mainly mediated by:",
+      "options": [
+        "Voltage‑gated K⁺ channels",
+        "High‑affinity K⁺ transporters",
+        "Aquaporins",
+        "Sodium‑potassium pump"
+      ],
+      "answer": 1,
+      "explanation": "High‑affinity K⁺ transporters function efficiently at low external K⁺ levels, using the proton motive force for active uptake.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "Why is active mineral absorption essential even when soil solution concentrations are relatively high?",
+      "options": [
+        "It prevents toxic accumulation",
+        "It allows accumulation of nutrients against a concentration gradient",
+        "It reduces water loss",
+        "It enhances photosynthetic rate"
+      ],
+      "answer": 1,
+      "explanation": "Active transport enables plants to concentrate essential ions inside cells beyond external levels, ensuring sufficient nutrition regardless of external concentration.",
+      "topic": "Active mineral absorption"
+    },
+    {
+      "question": "Which type of membrane protein directly utilizes ATP hydrolysis to move ions against their electrochemical gradient?",
+      "options": [
+        "Ion channel",
+        "Carrier protein",
+        "ATP-driven pump",
+        "Aquaporin"
+      ],
+      "answer": 2,
+      "explanation": "ATP-driven pumps (e.g., Na⁺/K⁺‑ATPase) bind and hydrolyze ATP to transport ions from low to high concentration, characteristic of primary active transport.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "During stomatal opening, the primary pathway for K⁺ uptake into guard cells is mediated by which transport protein?",
+      "options": [
+        "Voltage‑gated inward‑rectifying K⁺ channel",
+        "K⁺/H⁺ antiporter",
+        "Na⁺/K⁺ ATPase",
+        "K⁺ uniporter"
+      ],
+      "answer": 0,
+      "explanation": "Guard cells open when K⁺ enters through voltage‑gated inward‑rectifying K⁺ channels, causing water influx and turgor increase.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "The activity of the Na⁺/K⁺ ATPase (3 Na⁺ out, 2 K⁺ in per ATP) primarily contributes to:",
+      "options": [
+        "Generation of neuronal action potentials",
+        "Maintenance of the cell’s resting membrane potential",
+        "Facilitated diffusion of glucose",
+        "Passive transport of Ca²⁺"
+      ],
+      "answer": 1,
+      "explanation": "By creating an unequal distribution of Na⁺ and K⁺ across the plasma membrane, the pump establishes the electrochemical gradients that underlie the resting membrane potential.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "Which statement correctly distinguishes primary active transport from secondary active transport?",
+      "options": [
+        "Primary active transport uses ATP directly; secondary active transport uses the energy of an ion gradient",
+        "Primary active transport moves ions down their gradient; secondary active transport moves them against the gradient",
+        "Both primary and secondary active transport require direct ATP hydrolysis",
+        "Secondary active transport occurs only in plant cells"
+      ],
+      "answer": 0,
+      "explanation": "Primary active transport directly hydrolyses ATP for energy, whereas secondary active transport couples the movement of one solute to the downhill movement of another ion gradient.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "A membrane protein that binds a solute on one side, undergoes a conformational change, and releases it on the opposite side is called a:",
+      "options": [
+        "Channel",
+        "Pump",
+        "Facilitated‑diffusion carrier",
+        "Receptor"
+      ],
+      "answer": 2,
+      "explanation": "Such carriers mediate facilitated diffusion; they bind the substrate, change shape, and transport it without using ATP.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "Ca²⁺ re‑uptake into the sarcoplasmic reticulum during muscle relaxation is performed by which membrane protein?",
+      "options": [
+        "Voltage‑gated Ca²⁺ channel",
+        "Ca²⁺‑ATPase pump",
+        "Na⁺/Ca²⁺ exchanger",
+        "Passive diffusion through pores"
+      ],
+      "answer": 1,
+      "explanation": "The sarcoplasmic/endoplasmic reticulum Ca²⁺‑ATPase (SERCA) actively pumps Ca²⁺ into the SR using ATP, lowering cytosolic Ca²⁺ concentration.",
+      "topic": "Ion transport and membrane proteins"
+    },
+    {
+      "question": "The selectivity filter of an ion channel primarily determines:",
+      "options": [
+        "ATP‑binding capability of the protein",
+        "Which ions can pass based on size and charge",
+        "GTP‑hydrolysis activity of the cytoplasmic domain",
+        "Sugar‑transport function of extracellular loops"
+      ],
+      "answer": 1,
+      "explanation": "The selectivity filter is a narrow region of the pore that allows only ions of specific size and charge to permeate, conferring ion specificity to the channel.",
+      "topic": "Ion transport and membrane proteins"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 17,
+    "mcqCount": 118
+  }
+}

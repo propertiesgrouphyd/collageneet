@@ -1,0 +1,425 @@
+{
+  "day": 16,
+  "courseDate": "2026-09-14",
+  "publishAt": "2026-09-14T06:00:00+05:30",
+  "title": "Day 16 – Cell Cycle and Cell Division",
+  "introduction": "This lesson covers the complete sequence of the cell cycle, the necessity of cell division, and the detailed mechanisms of mitosis and meiosis, emphasizing chromosome dynamics and biological significance for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Cell cycle",
+      "heading": "Phases and Regulation of the Cell Cycle",
+      "content": "The cell cycle consists of interphase (G1, S, G2) and M phase. G1 phase involves cell growth and synthesis of proteins required for DNA replication. S phase is the period of DNA synthesis where each chromosome duplicates to form sister chromatids. G2 phase prepares the cell for mitosis by synthesizing microtubules and checking DNA integrity. M phase includes mitosis and cytokinesis, culminating in two daughter cells. Checkpoints at G1/S and G2/M ensure DNA is undamaged before progression.",
+      "keyPoints": [
+        "Interphase comprises G1, S, and G2 phases",
+        "G1: growth, protein synthesis",
+        "S: DNA replication",
+        "G2: preparation for mitosis",
+        "M phase: mitosis + cytokinesis",
+        "Checkpoints prevent propagation of errors"
+      ],
+      "neetTips": [
+        "Memorize the order G1→S→G2→M and the key events in each phase",
+        "Link checkpoint functions to DNA damage repair mechanisms"
+      ]
+    },
+    {
+      "topic": "Cell division",
+      "heading": "Importance and Biological Significance of Cell Division",
+      "content": "Cell division is essential for growth, tissue repair, and asexual reproduction. It maintains chromosome number across generations and enables organismal development. Errors in division can lead to aneuploidy and cancer. In multicellular organisms, regulated division ensures proper cell numbers and tissue homeostasis.",
+      "keyPoints": [
+        "Enables organismal growth and regeneration",
+        "Maintains genetic continuity",
+        "Prevents chromosomal abnormalities",
+        "Basis of asexual reproduction"
+      ],
+      "neetTips": [
+        "Associate each function (growth, repair, reproduction) with a real‑life example to recall quickly"
+      ]
+    },
+    {
+      "topic": "Mitosis",
+      "heading": "Stages and Significance of Mitosis",
+      "content": "Mitosis proceeds through prophase, metaphase, anaphase, and telophase, followed by cytokinesis. In prophase, chromatin condenses into visible chromosomes, the nuclear envelope disintegrates, and the spindle forms. Metaphase aligns sister chromatids at the metaphase plate. Anaphase separates chromatids to opposite poles via shortening spindle fibers. Telophase re‑forms nuclear membranes around each chromosomal set. Cytokinesis partitions the cytoplasm, producing two genetically identical diploid cells. Mitosis ensures accurate chromosome segregation for somatic growth and tissue maintenance.",
+      "keyPoints": [
+        "Prophase: chromatin condensation, spindle formation",
+        "Metaphase: chromosomes align at equatorial plane",
+        "Anaphase: sister chromatids separate",
+        "Telophase: nuclear re‑formation",
+        "Cytokinesis: cytoplasmic division",
+        "Result: two identical diploid cells"
+      ],
+      "neetTips": [
+        "Visualize the spindle apparatus to track chromosome movement",
+        "Remember that mitosis conserves chromosome number"
+      ]
+    },
+    {
+      "topic": "Meiosis",
+      "heading": "Stages, Reduction Division and Genetic Variation in Meiosis",
+      "content": "Meiosis comprises two consecutive divisions: Meiosis I (reductional) and Meiosis II (equational). Meiosis I includes prophase I (leptotene to diakinesis), metaphase I, anaphase I, and telophase I. During prophase I, homologous chromosomes pair (synapsis) and undergo crossing over, exchanging genetic material and creating recombinant chromosomes. Metaphase I aligns homologous pairs, and anaphase I separates them, reducing chromosome number by half. Meiosis II mirrors mitosis without DNA replication, separating sister chromatids. The outcome is four haploid gametes with genetic diversity. Meiosis is vital for sexual reproduction and variation.",
+      "keyPoints": [
+        "Meiosis I: homologous chromosomes separate (reductional)",
+        "Prophase I: synapsis and crossing over",
+        "Metaphase I: homologues at equatorial plate",
+        "Anaphase I: homologues move apart",
+        "Meiosis II: sister chromatids separate (equational)",
+        "Result: four genetically distinct haploid cells"
+      ],
+      "neetTips": [
+        "Link crossing over to increased genetic variation",
+        "Distinguish reductional (Meiosis I) vs equational (Meiosis II) divisions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe each phase of the cell cycle and its regulatory checkpoints",
+    "Explain why cell division is essential for growth, repair and reproduction",
+    "List the sequential stages of mitosis and their chromosome dynamics",
+    "Differentiate between meiosis I and meiosis II, including crossing over and reduction of chromosome number",
+    "Apply these concepts to interpret NEET‑style diagrams and questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly lists the phases of the cell cycle in order?",
+      "options": [
+        "G1 → S → G2 → M",
+        "G1 → G2 → S → M",
+        "S → G1 → G2 → M",
+        "M → G1 → S → G2"
+      ],
+      "answer": 0,
+      "explanation": "The cell cycle proceeds sequentially through G1 (first gap), S (DNA synthesis), G2 (second gap), and finally M (mitosis).",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "What major event occurs during the S phase of the cell cycle?",
+      "options": [
+        "Chromosome condensation",
+        "DNA replication",
+        "Cytokinesis",
+        "Spindle formation"
+      ],
+      "answer": 1,
+      "explanation": "S phase is dedicated to the synthesis of a complete copy of the genome, i.e., DNA replication.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which checkpoint ensures that DNA replication is complete before the cell enters mitosis?",
+      "options": [
+        "G1 checkpoint",
+        "G2/M checkpoint",
+        "Metaphase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2/M checkpoint monitors the integrity and completeness of DNA replication before allowing entry into mitosis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Cyclin D is primarily associated with which phase of the cell cycle?",
+      "options": [
+        "Cyclin A",
+        "Cyclin B",
+        "Cyclin D",
+        "Cyclin E"
+      ],
+      "answer": 2,
+      "explanation": "Cyclin D binds to CDK4/6 during G1 phase, driving progression through early G1.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "During which phase does the cell increase its size and synthesize proteins required for DNA replication?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 0,
+      "explanation": "G1 is the growth phase where the cell enlarges and produces RNA and proteins needed for the upcoming S phase.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "The restriction point (R point), after which the cell commits to division, is located in which phase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 0,
+      "explanation": "The restriction point occurs late in G1; once passed, the cell is committed to completing the cell cycle.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which statement about the M phase is FALSE?",
+      "options": [
+        "It includes prophase, metaphase, anaphase, and telophase.",
+        "DNA replication occurs during M phase.",
+        "Cytokinesis usually follows telophase.",
+        "Chromosome segregation occurs during anaphase."
+      ],
+      "answer": 1,
+      "explanation": "DNA replication is confined to the S phase; M phase is dedicated to chromosome segregation and cell division, not DNA synthesis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "What is the correct chronological order of the phases in the cell cycle?",
+      "options": [
+        "G1 → S → G2 → M",
+        "G1 → G2 → S → M",
+        "S → G1 → G2 → M",
+        "M → G1 → S → G2"
+      ],
+      "answer": 0,
+      "explanation": "The cell cycle proceeds from G1 (cell growth) to S (DNA synthesis), then G2 (preparation for division) and finally M (mitosis).",
+      "topic": "Cell division"
+    },
+    {
+      "question": "During which phase of the cell cycle does DNA replication take place?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "DNA synthesis occurs in the S (synthesis) phase, where each chromosome is duplicated to form sister chromatids.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Which statement correctly distinguishes meiosis from mitosis?",
+      "options": [
+        "Meiosis results in four genetically identical diploid cells",
+        "Mitosis reduces chromosome number by half",
+        "Meiosis includes two successive rounds of nuclear division",
+        "Mitosis involves crossing over between homologous chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis consists of two consecutive divisions (meiosis I and II), producing four haploid cells, whereas mitosis involves a single division.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Crossing over between homologous chromosomes occurs in which stage of meiosis?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Homologous recombination (crossing over) is a hallmark of prophase I, specifically during pachytene of meiosis.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "In anaphase of mitosis, sister chromatids move toward:",
+      "options": [
+        "Opposite poles of the cell",
+        "Same pole of the cell",
+        "The nucleolus",
+        "The cell membrane"
+      ],
+      "answer": 0,
+      "explanation": "Spindle fibers pull sister chromatids apart, directing each chromatid to opposite poles to ensure equal segregation.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Which of the following is NOT a biological role of mitosis?",
+      "options": [
+        "Growth of organism",
+        "Repair of damaged tissues",
+        "Production of gametes",
+        "Asexual reproduction in unicellular organisms"
+      ],
+      "answer": 2,
+      "explanation": "Gamete formation is carried out by meiosis; mitosis is responsible for growth, repair, and asexual reproduction in many unicellular organisms.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "In a diploid organism with 2n = 46, how many chromosomes are present in each secondary spermatocyte after meiosis I?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I is a reductional division; each secondary spermatocyte receives one set of chromosomes (n = 23).",
+      "topic": "Cell division"
+    },
+    {
+      "question": "What is the correct sequential order of the stages of mitosis?",
+      "options": [
+        "Prophase, Metaphase, Anaphase, Telophase",
+        "Metaphase, Prophase, Anaphase, Telophase",
+        "Prophase, Anaphase, Metaphase, Telophase",
+        "Telophase, Anaphase, Metaphase, Prophase"
+      ],
+      "answer": 0,
+      "explanation": "Mitosis proceeds through prophase, metaphase, anaphase and telophase in that order before cytokinesis.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which event characteristically occurs during prophase of mitosis?",
+      "options": [
+        "Sister chromatids separate",
+        "Nuclear envelope breaks down",
+        "Chromosomes align at the equatorial plate",
+        "Cleavage furrow formation"
+      ],
+      "answer": 1,
+      "explanation": "During prophase the nuclear envelope disintegrates, allowing spindle fibers to interact with chromosomes.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "In metaphase, kinetochores are attached to:",
+      "options": [
+        "Spindle fibers from opposite poles",
+        "Centrioles only",
+        "The nuclear envelope",
+        "The contractile ring"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochores on each chromatid bind to microtubules emanating from opposite spindle poles, aligning chromosomes at the metaphase plate.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "What molecular event triggers the separation of sister chromatids in anaphase?",
+      "options": [
+        "Disassembly of spindle fibers",
+        "Cleavage of cohesin by separase",
+        "Reformation of the nuclear envelope",
+        "Initiation of cytokinesis"
+      ],
+      "answer": 1,
+      "explanation": "Separase cleaves cohesin complexes that hold sister chromatids together, allowing them to be pulled apart.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which of the following occurs during telophase?",
+      "options": [
+        "Spindle fibers elongate pulling chromosomes apart",
+        "Reformation of nuclear envelope around each set of chromosomes",
+        "Chromosomes condense into visible rods",
+        "Cleavage furrow deepens"
+      ],
+      "answer": 1,
+      "explanation": "Telophase is marked by the re‑assembly of nuclear envelopes around the two sets of decondensing chromosomes.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Cytokinesis in animal cells is achieved by:",
+      "options": [
+        "Formation of a cell plate",
+        "Contractile ring of actin and myosin forming a cleavage furrow",
+        "Formation of a new cell wall",
+        "Disassembly of spindle microtubules"
+      ],
+      "answer": 1,
+      "explanation": "A contractile actin‑myosin ring constricts the cell membrane, producing a cleavage furrow that divides the cytoplasm.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which statement correctly describes the biological significance of mitosis?",
+      "options": [
+        "Generates gametes",
+        "Reduces chromosome number by half",
+        "Produces two genetically identical diploid daughter cells, maintaining chromosome number",
+        "Increases genetic variation via crossing over"
+      ],
+      "answer": 2,
+      "explanation": "Mitosis results in two diploid daughter cells that are genetically identical to the parent, preserving the chromosome complement.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which stage directly follows prophase I in meiosis?",
+      "options": [
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I",
+        "Prophase II"
+      ],
+      "answer": 0,
+      "explanation": "After prophase I, homologous chromosomes align at the metaphase plate, marking the start of metaphase I.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Crossing over between non-sister chromatids occurs during which substage of prophase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over is most frequent during the pachytene substage when homologous chromosomes are fully synapsed.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "A human gamete formed after meiosis contains how many chromosomes?",
+      "options": [
+        "46",
+        "23",
+        "44",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis reduces the diploid number (46) to the haploid number (23) in each gamete.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "The term 'reduction division' in meiosis refers to:",
+      "options": [
+        "Halving of chromosome number",
+        "Doubling of DNA content",
+        "Separation of sister chromatids",
+        "Cytokinesis of the cell"
+      ],
+      "answer": 0,
+      "explanation": "Reduction division (meiosis I) halves the chromosome number, producing haploid cells from a diploid precursor.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Sister chromatids separate during:",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 2,
+      "explanation": "In meiosis II, analogous to mitosis, sister chromatids are pulled apart at anaphase II.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Which of the following distinguishes meiosis I from mitosis?",
+      "options": [
+        "Homologous chromosomes segregate",
+        "DNA replication occurs",
+        "Cytokinesis follows each division",
+        "Centrioles duplicate"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I separates homologous chromosome pairs, whereas mitosis separates sister chromatids.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Genetic variation among gametes is increased by all except:",
+      "options": [
+        "Independent assortment of homologous chromosomes",
+        "Crossing over between non-sister chromatids",
+        "Random fertilization",
+        "Mutation during DNA replication"
+      ],
+      "answer": 3,
+      "explanation": "Independent assortment, crossing over, and random fertilization all contribute to variation; mutations are not a regular meiotic mechanism.",
+      "topic": "Meiosis"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 4,
+    "mcqCount": 28
+  }
+}

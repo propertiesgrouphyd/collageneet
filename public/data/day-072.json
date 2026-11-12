@@ -1,0 +1,2558 @@
+{
+  "day": 72,
+  "courseDate": "2026-11-09",
+  "publishAt": "2026-11-09T06:00:00+05:30",
+  "title": "Day 72: Urine Formation — Filtration, Reabsorption and Secretion",
+  "introduction": "This lesson details the sequential processes that convert plasma into urine, emphasizing the physiological basis of filtration, selective reabsorption and secretion in the nephron, and the mechanisms that concentrate urine.",
+  "sections": [
+    {
+      "topic": "Urine formation overview",
+      "heading": "Overview of Urine Formation",
+      "content": "Urine formation involves three coordinated steps: glomerular filtration of plasma, selective tubular reabsorption of useful solutes and water, and tubular secretion of waste products and excess ions, culminating in urine excretion.",
+      "keyPoints": [
+        "Three major processes: filtration, reabsorption, secretion"
+      ],
+      "neetTips": [
+        "Remember the sequence: filtration → reabsorption → secretion"
+      ]
+    },
+    {
+      "topic": "Glomerular filtration",
+      "heading": "Glomerular Filtration Mechanism",
+      "content": "Blood enters the glomerular capillaries under hydrostatic pressure; plasma water and small solutes pass through the filtration barrier into Bowman's capsule, forming the primary filtrate.",
+      "keyPoints": [
+        "Occurs in renal corpuscle",
+        "Driven by hydrostatic pressure"
+      ],
+      "neetTips": [
+        "Focus on pressure gradients across the glomerular capillary wall"
+      ]
+    },
+    {
+      "topic": "Ultrafiltration",
+      "heading": "Ultrafiltration Principle",
+      "content": "Ultrafiltration refers to the size‑selective passage of molecules through the glomerular filtration membrane, allowing water and solutes <70 kDa to pass while retaining cells and large proteins.",
+      "keyPoints": [
+        "Size cutoff ~70 kDa",
+        "No charge selectivity for small solutes"
+      ],
+      "neetTips": [
+        "Link ultrafiltration to the concept of molecular sieving"
+      ]
+    },
+    {
+      "topic": "Glomerular filtration rate",
+      "heading": "Glomerular Filtration Rate (GFR)",
+      "content": "GFR is the volume of plasma filtered per minute, normally ~125 mL/min, calculated as Kf × (PGC‑PBS), where Kf is the filtration coefficient and PGC‑PBS the net filtration pressure.",
+      "keyPoints": [
+        "Normal GFR ≈125 mL/min",
+        "Depends on Kf and net filtration pressure"
+      ],
+      "neetTips": [
+        "Memorize the GFR formula for quantitative questions"
+      ]
+    },
+    {
+      "topic": "Filtration membrane",
+      "heading": "Structure of Filtration Membrane",
+      "content": "The filtration membrane comprises three layers: fenestrated endothelium, basement membrane (negatively charged), and podocyte slit diaphragms, each contributing to size and charge selectivity.",
+      "keyPoints": [
+        "Endothelium, basement membrane, podocytes",
+        "Negative charge repels plasma proteins"
+      ],
+      "neetTips": [
+        "Charge selectivity explains why albumin is retained"
+      ]
+    },
+    {
+      "topic": "Pressure driving filtration",
+      "heading": "Forces Governing Filtration",
+      "content": "Net filtration pressure = (glomerular hydrostatic pressure + capsular oncotic pressure) − ( Bowman's capsule hydrostatic pressure + glomerular oncotic pressure).",
+      "keyPoints": [
+        "Four forces determine net pressure"
+      ],
+      "neetTips": [
+        "Remember that increased plasma protein raises glomerular oncotic pressure, reducing GFR"
+      ]
+    },
+    {
+      "topic": "Renal filtration",
+      "heading": "Renal Filtration Summary",
+      "content": "Renal filtration converts plasma into a protein‑free ultrafiltrate containing water, electrolytes, glucose, amino acids and urea, setting the stage for selective reabsorption.",
+      "keyPoints": [
+        "Primary filtrate is isotonic to plasma"
+      ],
+      "neetTips": [
+        "Link isotonic filtrate to subsequent osmotic adjustments"
+      ]
+    },
+    {
+      "topic": "Selective reabsorption",
+      "heading": "Concept of Selective Reabsorption",
+      "content": "Nephron tubules reclaim essential solutes and water from the filtrate while leaving waste; selectivity is achieved via transport proteins, channels and cotransporters.",
+      "keyPoints": [
+        "Active, passive, and solvent drag mechanisms"
+      ],
+      "neetTips": [
+        "Identify which solutes use which transport mode"
+      ]
+    },
+    {
+      "topic": "Tubular reabsorption",
+      "heading": "Tubular Reabsorption Overview",
+      "content": "Approximately 99% of filtered water and solutes are reabsorbed along the nephron, with the proximal tubule handling the bulk, followed by loop of Henle, distal tubule and collecting duct.",
+      "keyPoints": [
+        "Proximal tubule reabsorbs ~65% of filtered Na⁺ and water"
+      ],
+      "neetTips": [
+        "Quantify reabsorption percentages for NEET calculations"
+      ]
+    },
+    {
+      "topic": "Reabsorption in PCT",
+      "heading": "Proximal Convoluted Tubule Reabsorption",
+      "content": "The PCT possesses a brush border rich in microvilli, facilitating high surface area for active Na⁺/K⁺‑ATPase, glucose transporters, and solvent drag of water.",
+      "keyPoints": [
+        "Brush border increases absorptive capacity"
+      ],
+      "neetTips": [
+        "Brush border loss (e.g., in renal tubular acidosis) impairs reabsorption"
+      ]
+    },
+    {
+      "topic": "Glucose reabsorption",
+      "heading": "Glucose Reabsorption Mechanism",
+      "content": "Glucose is reabsorbed via Na⁺‑glucose cotransporter (SGLT2) in early PCT and SGLT1 in later segments; the process is saturable with a renal threshold ~180 mg/dL.",
+      "keyPoints": [
+        "SGLT2: high capacity, low affinity"
+      ],
+      "neetTips": [
+        "Remember renal threshold for glucose to answer glucosuria questions"
+      ]
+    },
+    {
+      "topic": "Amino acid reabsorption",
+      "heading": "Amino Acid Reabsorption",
+      "content": "Amino acids are reclaimed by Na⁺‑dependent cotransporters (SLC6 family) in the PCT; all filtered amino acids are normally reabsorbed, preventing loss in urine.",
+      "keyPoints": [
+        "Multiple isoforms handle different amino acids"
+      ],
+      "neetTips": [
+        "Link loss of amino acids in urine to proximal tubular dysfunction"
+      ]
+    },
+    {
+      "topic": "Sodium and water reabsorption",
+      "heading": "Na⁺ and Water Reabsorption",
+      "content": "Na⁺ reabsorption is active via Na⁺/K⁺‑ATPase; water follows osmotically through aquaporin‑1 channels in the PCT, maintaining iso‑osmotic conditions.",
+      "keyPoints": [
+        "Aquaporin‑1 abundant in PCT"
+      ],
+      "neetTips": [
+        "Aquaporin regulation is less significant in PCT than in collecting duct"
+      ]
+    },
+    {
+      "topic": "Loop of Henle",
+      "heading": "Loop of Henle Function",
+      "content": "The loop creates a concentration gradient: descending limb is permeable to water, ascending limb actively transports Na⁺, K⁺, Cl⁻ but is impermeable to water, establishing counter‑current multiplication.",
+      "keyPoints": [
+        "Thin descending: water loss; thick ascending: solute pump"
+      ],
+      "neetTips": [
+        "Distinguish passive vs active segments for osmolarity changes"
+      ]
+    },
+    {
+      "topic": "Counter-current mechanism",
+      "heading": "Counter‑Current Multiplication",
+      "content": "Opposing flows in descending and ascending limbs, combined with selective permeability, amplify the medullary osmotic gradient, essential for urine concentration.",
+      "keyPoints": [
+        "Requires active Na⁺‑K⁺‑2Cl⁻ cotransporter in thick ascending limb"
+      ],
+      "neetTips": [
+        "Loop diuretics inhibit this transporter, reducing gradient"
+      ]
+    },
+    {
+      "topic": "Descending limb",
+      "heading": "Descending Limb Characteristics",
+      "content": "Highly permeable to water due to abundant aquaporin‑1; impermeable to solutes, causing filtrate osmolarity to rise as water exits into the hyperosmotic medulla.",
+      "keyPoints": [
+        "Water exits, filtrate becomes hyperosmotic"
+      ],
+      "neetTips": [
+        "Low solute reabsorption here; focus on water movement"
+      ]
+    },
+    {
+      "topic": "Ascending limb",
+      "heading": "Ascending Limb Characteristics",
+      "content": "Impermeable to water; thick segment actively pumps Na⁺, K⁺, Cl⁻ via NKCC2, lowering filtrate osmolarity and contributing to the medullary gradient.",
+      "keyPoints": [
+        "Active solute transport, water impermeability"
+      ],
+      "neetTips": [
+        "Remember NKCC2 is target of loop diuretics"
+      ]
+    },
+    {
+      "topic": "Medullary osmotic gradient",
+      "heading": "Medullary Osmotic Gradient Formation",
+      "content": "The gradient ranges from ~300 mOsm at cortex to >1200 mOsm at inner medulla, generated by counter‑current multiplication and urea recycling, enabling water reabsorption in collecting ducts.",
+      "keyPoints": [
+        "Urea contributes to inner medullary osmolarity"
+      ],
+      "neetTips": [
+        "Antidiuretic hormone (ADH) exploits this gradient"
+      ]
+    },
+    {
+      "topic": "Tubular secretion",
+      "heading": "Tubular Secretion Overview",
+      "content": "Active transport from peritubular capillaries into tubular lumen removes substances not filtered or in excess, such as H⁺, K⁺, NH₄⁺, creatinine and certain drugs.",
+      "keyPoints": [
+        "Occurs mainly in proximal tubule and distal nephron"
+      ],
+      "neetTips": [
+        "Secretion complements filtration for acid‑base balance"
+      ]
+    },
+    {
+      "topic": "Hydrogen ion secretion",
+      "heading": "H⁺ Secretion Mechanism",
+      "content": "H⁺ is secreted via Na⁺/H⁺ exchangers in PCT and H⁺‑ATPase in α‑intercalated cells of collecting duct, crucial for urinary acidification and systemic pH regulation.",
+      "keyPoints": [
+        "α‑intercalated cells use H⁺‑ATPase"
+      ],
+      "neetTips": [
+        "Distal H⁺ secretion is vital for maintaining blood pH"
+      ]
+    },
+    {
+      "topic": "Potassium ion secretion",
+      "heading": "K⁺ Secretion Process",
+      "content": "Principal cells of the cortical collecting duct secrete K⁺ through ROMK channels under aldosterone influence; high tubular flow enhances secretion.",
+      "keyPoints": [
+        "Aldosterone up‑regulates ROMK"
+      ],
+      "neetTips": [
+        "Hyperkalemia management involves enhancing distal K⁺ secretion"
+      ]
+    },
+    {
+      "topic": "Ammonia secretion",
+      "heading": "NH₃/NH₄⁺ Secretion",
+      "content": "Ammonia generated from glutamine in proximal tubule diffuses into lumen, combines with secreted H⁺ to form NH₄⁺, facilitating acid excretion and buffering urine.",
+      "keyPoints": [
+        "Glutamine metabolism supplies NH₃"
+      ],
+      "neetTips": [
+        "NH₄⁺ excretion is a major component of renal acid base regulation"
+      ]
+    },
+    {
+      "topic": "Role of PCT",
+      "heading": "Functions of Proximal Convoluted Tubule",
+      "content": "Reabsorbs ~65% of filtered Na⁺, water, glucose, amino acids, bicarbonate; also secretes H⁺, organic acids, and drugs; high metabolic activity due to Na⁺/K⁺‑ATPase.",
+      "keyPoints": [
+        "Major site of bulk reabsorption"
+      ],
+      "neetTips": [
+        "PCT dysfunction leads to Fanconi syndrome"
+      ]
+    },
+    {
+      "topic": "Role of DCT",
+      "heading": "Functions of Distal Convoluted Tubule",
+      "content": "Fine‑tunes Na⁺, Cl⁻, Ca²⁺ reabsorption; regulated by aldosterone (Na⁺ reabsorption) and parathyroid hormone (Ca²⁺ reabsorption); site of thiazide diuretic action.",
+      "keyPoints": [
+        "Aldosterone-sensitive Na⁺ transport"
+      ],
+      "neetTips": [
+        "Thiazides inhibit NaCl cotransporter in early DCT"
+      ]
+    },
+    {
+      "topic": "Role of collecting duct",
+      "heading": "Collecting Duct Functions",
+      "content": "Final adjustment of water and electrolyte balance; ADH regulates aquaporin‑2 insertion for water reabsorption; aldosterone modulates Na⁺ reabsorption and K⁺ secretion; urine concentration occurs here.",
+      "keyPoints": [
+        "ADH‑dependent water permeability"
+      ],
+      "neetTips": [
+        "ADH deficiency → diabetes insipidus, dilute urine"
+      ]
+    },
+    {
+      "topic": "Concentration of urine",
+      "heading": "Urine Concentration Mechanism",
+      "content": "Water reabsorption in the collecting duct, driven by the medullary osmotic gradient and ADH‑mediated aquaporin insertion, concentrates urine up to ~1200 mOsm.",
+      "keyPoints": [
+        "Maximum concentration depends on gradient"
+      ],
+      "neetTips": [
+        "Assess ADH status when evaluating polyuria"
+      ]
+    },
+    {
+      "topic": "Composition of normal urine",
+      "heading": "Normal Urine Composition",
+      "content": "Typical urine contains ~95% water, 2 g urea, 0.1 g creatinine, 0.5 g uric acid, trace electrolytes (Na⁺ 40 mmol/L, K⁺ 20 mmol/L, Cl⁻ 45 mmol/L), and negligible glucose or amino acids.",
+      "keyPoints": [
+        "Urea is the major solute"
+      ],
+      "neetTips": [
+        "Absence of glucose and amino acids indicates intact proximal reabsorption"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the sequential steps of urine formation including filtration, reabsorption and secretion",
+    "Explain the structure and function of the glomerular filtration barrier and calculate GFR concepts",
+    "Identify the transport mechanisms responsible for selective reabsorption of glucose, amino acids, sodium and water",
+    "Illustrate the counter‑current multiplication mechanism in the loop of Henle and its role in urine concentration",
+    "Discuss the hormonal regulation of water and electrolyte handling in the distal nephron and collecting duct",
+    "Recognize the normal composition of urine and clinical implications of its alteration"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly lists the three sequential processes involved in urine formation?",
+      "options": [
+        "Filtration, secretion, reabsorption",
+        "Filtration, reabsorption, secretion",
+        "Reabsorption, filtration, secretion",
+        "Secretion, filtration, reabsorption"
+      ],
+      "answer": 1,
+      "explanation": "Urine formation proceeds in the order: glomerular filtration of plasma, selective tubular reabsorption of useful substances, and tubular secretion of waste products.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "The primary force driving glomerular filtration is:",
+      "options": [
+        "Oncotic pressure in Bowman's capsule",
+        "Hydrostatic pressure in glomerular capillaries",
+        "Hydrostatic pressure in Bowman's capsule",
+        "Osmotic pressure of plasma proteins"
+      ],
+      "answer": 1,
+      "explanation": "The net filtration pressure is mainly generated by the high hydrostatic pressure (~45 mmHg) in the glomerular capillaries, which pushes plasma water across the filtration membrane.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "The glomerular filtration rate (GFR) is best expressed as:",
+      "options": [
+        "Volume of plasma filtered per minute",
+        "Volume of plasma reabsorbed per minute",
+        "Volume of urine formed per hour",
+        "Volume of solutes secreted per minute"
+      ],
+      "answer": 0,
+      "explanation": "GFR quantifies how much plasma is filtered through the glomeruli each minute, typically about 125 mL/min in a healthy adult.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "Which nephron segment is primarily responsible for the bulk of water and solute reabsorption?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 65‑70 % of filtered Na⁺, glucose, amino acids and water are reabsorbed in the proximal convoluted tubule via active and passive mechanisms.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "In the overview of urine formation, which statement about tubular secretion is correct?",
+      "options": [
+        "It occurs mainly in the proximal tubule and adds substances to the filtrate",
+        "It occurs only in the collecting duct and removes water",
+        "It is the process by which glucose is reabsorbed",
+        "It is driven by the counter‑current multiplier"
+      ],
+      "answer": 0,
+      "explanation": "Tubular secretion primarily takes place in the proximal tubule (and also in distal tubule) where substances such as H⁺, K⁺, NH₄⁺, and certain drugs are secreted into the tubular lumen.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "The counter‑current mechanism that creates the medullary osmotic gradient involves which two limbs of the loop of Henle?",
+      "options": [
+        "Descending limb only",
+        "Ascending limb only",
+        "Both descending and ascending limbs",
+        "Proximal tubule and collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "Active NaCl reabsorption in the thick ascending limb and passive water loss from the descending limb work together as a counter‑current multiplier to generate the corticomedullary osmotic gradient.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "Which of the following best describes the composition of normal urine?",
+      "options": [
+        "High glucose, high protein, low urea",
+        "Low glucose, low protein, high urea",
+        "High glucose, low urea, high potassium",
+        "Low urea, high protein, high sodium"
+      ],
+      "answer": 1,
+      "explanation": "Normal urine contains negligible glucose and protein because they are completely reabsorbed, while urea is the major nitrogenous waste, giving it a relatively high concentration.",
+      "topic": "Urine formation overview"
+    },
+    {
+      "question": "What is the primary driving force that initiates glomerular filtration?",
+      "options": [
+        "Plasma oncotic pressure",
+        "Glomerular hydrostatic pressure",
+        "Tubular hydrostatic pressure",
+        "Filtration coefficient (Kf)"
+      ],
+      "answer": 1,
+      "explanation": "Glomerular hydrostatic pressure (~55 mmHg) pushes plasma across the filtration barrier, while oncotic pressure opposes it. It is the main force that drives filtration.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "The filtration barrier consists of three layers. Which layer is chiefly responsible for charge selectivity, preventing negatively charged plasma proteins from passing?",
+      "options": [
+        "Fenestrated endothelium",
+        "Basement membrane",
+        "Podocyte slit diaphragm",
+        "Mesangial cells"
+      ],
+      "answer": 1,
+      "explanation": "The basement membrane contains negatively charged glycoproteins (heparan sulfate) that repel negatively charged proteins, providing charge selectivity.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "If plasma protein concentration doubles while all other forces remain unchanged, what is the expected effect on the glomerular filtration rate (GFR)?",
+      "options": [
+        "No change in GFR",
+        "GFR increases",
+        "GFR decreases",
+        "GFR becomes zero"
+      ],
+      "answer": 2,
+      "explanation": "Higher plasma protein raises plasma oncotic pressure, which opposes filtration, thereby reducing the net filtration pressure and lowering GFR.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "Which substance is NOT freely filtered across the glomerular membrane under normal conditions?",
+      "options": [
+        "Glucose",
+        "Inulin",
+        "Albumin",
+        "Urea"
+      ],
+      "answer": 2,
+      "explanation": "Albumin is a large plasma protein (~66 kDa) and is largely retained by the size and charge barriers of the filtration membrane, unlike small solutes such as glucose, inulin, and urea.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "An increase in afferent arteriolar resistance will most immediately cause which change in glomerular hydrostatic pressure and GFR?",
+      "options": [
+        "Both increase",
+        "Both decrease",
+        "Hydrostatic pressure decreases, GFR unchanged",
+        "Hydrostatic pressure unchanged, GFR decreases"
+      ],
+      "answer": 1,
+      "explanation": "Higher resistance in the afferent arteriole reduces blood flow into the glomerulus, lowering glomerular hydrostatic pressure and consequently decreasing GFR.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "The filtration coefficient (Kf) of the glomerulus depends primarily on which factors?",
+      "options": [
+        "Surface area of glomerular capillaries and hydraulic conductivity",
+        "Plasma protein concentration",
+        "Afferent arteriolar tone",
+        "Rate of tubular reabsorption"
+      ],
+      "answer": 0,
+      "explanation": "Kf = Kf (hydraulic conductivity) × total filtration surface area. It reflects the intrinsic permeability and available area of the filtration barrier.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "Why are large plasma proteins such as albumin retained in the bloodstream during glomerular filtration?",
+      "options": [
+        "High plasma hydrostatic pressure forces them back",
+        "Small pore size of fenestrated endothelium blocks them",
+        "Negative charge of the basement membrane repels them",
+        "Active transport pumps them out of the filtrate"
+      ],
+      "answer": 2,
+      "explanation": "The negatively charged components of the basement membrane repel negatively charged proteins, and together with size restriction, prevent large proteins like albumin from crossing the barrier.",
+      "topic": "Glomerular filtration"
+    },
+    {
+      "question": "Which factor, when increased, will most directly increase the ultrafiltration rate in the glomerulus, assuming all other variables remain constant?",
+      "options": [
+        "Filtration coefficient (Kf)",
+        "Glomerular capillary hydrostatic pressure",
+        "Tubular hydrostatic pressure",
+        "Plasma protein concentration"
+      ],
+      "answer": 1,
+      "explanation": "Ultrafiltration rate = Kf × Net Filtration Pressure. Raising the glomerular capillary hydrostatic pressure raises the net filtration pressure, thereby increasing the ultrafiltration rate.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "The ultrafiltration barrier consists of three layers. Which layer provides the main charge selectivity?",
+      "options": [
+        "Fenestrated endothelium",
+        "Basement membrane",
+        "Podocyte slit diaphragm",
+        "Mesangial cells"
+      ],
+      "answer": 1,
+      "explanation": "The basement membrane carries a high negative charge due to heparan sulfate proteoglycans, which repels negatively charged plasma proteins, providing the principal charge selectivity.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "Among the following solutes, which is most restricted from passing through the glomerular filtration barrier?",
+      "options": [
+        "Sodium ions",
+        "Glucose",
+        "Albumin",
+        "Urea"
+      ],
+      "answer": 2,
+      "explanation": "Albumin is a large (~66 kDa) and negatively charged protein; its size and charge prevent it from crossing the filtration barrier, so it is largely retained in the plasma.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "A patient has markedly reduced plasma oncotic pressure due to hypoalbuminemia. What is the expected effect on the ultrafiltration rate?",
+      "options": [
+        "Decrease",
+        "Increase",
+        "No change",
+        "Initially increase then decrease"
+      ],
+      "answer": 1,
+      "explanation": "Lower plasma oncotic pressure reduces the opposing force to filtration, thereby increasing the net filtration pressure and the ultrafiltration rate.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "The filtration coefficient (Kf) is a product of which two properties of the glomerular membrane?",
+      "options": [
+        "Surface area and hydraulic conductivity",
+        "Thickness and pore size",
+        "Charge density and pore length",
+        "Capillary length and blood flow rate"
+      ],
+      "answer": 0,
+      "explanation": "Kf = hydraulic conductivity (permeability) × effective filtration surface area. Both determine how easily fluid can pass through the barrier.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "Why are red blood cells normally absent in the ultrafiltrate?",
+      "options": [
+        "Their size exceeds the pore size of the fenestrated endothelium",
+        "They are actively secreted back into the blood",
+        "They are too negatively charged",
+        "They are degraded by podocytes"
+      ],
+      "answer": 0,
+      "explanation": "Fenestrations in the glomerular endothelium are about 70–100 nm, far smaller than the diameter of red blood cells (~7 µm), preventing their passage.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "During increased afferent arteriolar resistance, what is the immediate effect on ultrafiltration pressure?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains unchanged",
+        "Fluctuates cyclically"
+      ],
+      "answer": 1,
+      "explanation": "Higher resistance in the afferent arteriole reduces blood flow and glomerular capillary hydrostatic pressure, lowering the net filtration pressure and thus ultrafiltration.",
+      "topic": "Ultrafiltration"
+    },
+    {
+      "question": "What does the term glomerular filtration rate (GFR) refer to?",
+      "options": [
+        "The volume of plasma filtered per unit time through the glomerular capillaries",
+        "The amount of urine produced per day",
+        "The rate of tubular reabsorption of solutes",
+        "The concentration of plasma proteins in the blood"
+      ],
+      "answer": 0,
+      "explanation": "GFR is defined as the volume of plasma that is filtered across the glomerular filtration barrier per minute.",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "What is the approximate normal GFR in a healthy adult human?",
+      "options": [
+        "90 mL/min",
+        "125 mL/min",
+        "200 mL/min",
+        "50 mL/min"
+      ],
+      "answer": 1,
+      "explanation": "In adults, the average GFR is about 125 mL per minute (≈180 L per day).",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "Which of the following physiological changes will most directly increase GFR?",
+      "options": [
+        "Dilation of the afferent arteriole",
+        "Dilation of the efferent arteriole",
+        "Increase in plasma oncotic pressure",
+        "Decrease in renal plasma flow"
+      ],
+      "answer": 0,
+      "explanation": "Widening the afferent arteriole raises glomerular hydrostatic pressure, thereby increasing the filtration rate.",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "In a clearance study, the measured inulin clearance is 120 mL/min. What is the GFR?",
+      "options": [
+        "100 mL/min",
+        "120 mL/min",
+        "80 mL/min",
+        "150 mL/min"
+      ],
+      "answer": 1,
+      "explanation": "Inulin is neither reabsorbed nor secreted, so its clearance equals the glomerular filtration rate.",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "If renal plasma flow (RPF) is 600 mL/min and GFR is 120 mL/min, what is the filtration fraction (FF)?",
+      "options": [
+        "0.20",
+        "0.50",
+        "0.80",
+        "0.10"
+      ],
+      "answer": 0,
+      "explanation": "Filtration fraction = GFR ÷ RPF = 120 ÷ 600 = 0.20 (20%).",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "An increase in plasma oncotic (colloid) pressure will have what effect on GFR, assuming other forces remain constant?",
+      "options": [
+        "Decrease GFR",
+        "Increase GFR",
+        "No effect on GFR",
+        "Increase renal plasma flow"
+      ],
+      "answer": 0,
+      "explanation": "Higher plasma oncotic pressure opposes filtration, reducing the net filtration pressure and thus lowering GFR.",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "In renal artery stenosis, the primary change in GFR is most likely to be:",
+      "options": [
+        "A decrease in GFR due to reduced renal plasma flow",
+        "An increase in GFR due to compensatory mechanisms",
+        "No change in GFR because of autoregulation",
+        "An initial increase followed by normalization"
+      ],
+      "answer": 0,
+      "explanation": "Stenosis lowers renal perfusion, decreasing glomerular hydrostatic pressure and consequently reducing GFR, despite possible efferent constriction.",
+      "topic": "Glomerular filtration rate"
+    },
+    {
+      "question": "Which of the following structures is NOT a component of the glomerular filtration membrane?",
+      "options": [
+        "Fenestrated endothelium",
+        "Basement membrane",
+        "Podocyte slit diaphragm",
+        "Proximal convoluted tubule brush border"
+      ],
+      "answer": 3,
+      "explanation": "The filtration membrane consists of the fenestrated endothelium, basement membrane and podocyte slit diaphragm; the brush border belongs to the proximal tubule, not the membrane.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "The primary basis for the charge selectivity of the glomerular filtration membrane is:",
+      "options": [
+        "Negative proteoglycans in the basement membrane",
+        "Positive charge of podocyte foot processes",
+        "High lipid content of endothelial cells",
+        "Presence of aquaporins"
+      ],
+      "answer": 0,
+      "explanation": "Heparan sulfate proteoglycans in the basement membrane carry negative charges that repel negatively charged plasma proteins, providing charge selectivity.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "The effective pore size of the glomerular filtration membrane is approximately:",
+      "options": [
+        "4 nm",
+        "8 nm",
+        "12 nm",
+        "20 nm"
+      ],
+      "answer": 1,
+      "explanation": "The combined pores of the three layers give an effective size cutoff of about 8 nm, allowing water and small solutes but restricting larger molecules.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "In a disease where the basement membrane loses its negative charge, which of the following is most likely to increase in urine?",
+      "options": [
+        "Glucose",
+        "Albumin",
+        "Urea",
+        "Creatinine"
+      ],
+      "answer": 1,
+      "explanation": "Loss of negative charge reduces repulsion of negatively charged albumin, leading to its increased filtration and appearance in urine (albuminuria).",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "Which factor does NOT directly affect glomerular filtration rate (GFR) through its effect on the filtration membrane?",
+      "options": [
+        "Hydrostatic pressure in glomerular capillaries",
+        "Oncotic pressure of plasma",
+        "Permeability of the filtration membrane",
+        "Sympathetic tone on afferent arteriole"
+      ],
+      "answer": 3,
+      "explanation": "Sympathetic tone influences arteriolar resistance, not the intrinsic permeability or selectivity of the filtration membrane itself.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "The slit diaphragm between podocyte foot processes primarily restricts passage of:",
+      "options": [
+        "Water",
+        "Small ions",
+        "Large plasma proteins",
+        "Glucose"
+      ],
+      "answer": 2,
+      "explanation": "The slit diaphragm forms a size‑ and charge‑selective barrier that effectively blocks large plasma proteins such as albumin.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "Which of the following statements about the glomerular filtration membrane is correct?",
+      "options": [
+        "It allows free passage of albumin due to its size",
+        "It is composed of three layers that act as a single barrier",
+        "Its permeability is increased by vasopressin",
+        "It lacks any charge selectivity"
+      ],
+      "answer": 1,
+      "explanation": "The membrane consists of the fenestrated endothelium, basement membrane, and podocyte slit diaphragm, which together function as a single selective barrier.",
+      "topic": "Filtration membrane"
+    },
+    {
+      "question": "The net filtration pressure (NFP) across the glomerular filtration membrane is given by which of the following expressions?",
+      "options": [
+        "(P_gc - P_bc) - π_gc",
+        "(P_gc + P_bc) - π_gc",
+        "(P_gc - P_bc) + π_gc",
+        "(P_gc + π_gc) - P_bc"
+      ],
+      "answer": 0,
+      "explanation": "NFP = (glomerular capillary hydrostatic pressure - Bowman's capsule hydrostatic pressure) - glomerular capillary oncotic pressure, because Bowman's capsule oncotic pressure is negligible.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "Constriction of the afferent arteriole supplying the glomerulus will most likely cause which change in glomerular filtration rate (GFR)?",
+      "options": [
+        "Increase GFR",
+        "Decrease GFR",
+        "No change in GFR",
+        "Increase renal plasma flow"
+      ],
+      "answer": 1,
+      "explanation": "Afferent arteriole constriction lowers glomerular capillary hydrostatic pressure, reducing the net filtration pressure and thus decreasing GFR.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "A moderate constriction of the efferent arteriole (post‑glomerular) will most likely result in:",
+      "options": [
+        "Decrease GFR",
+        "Increase GFR",
+        "No change in GFR",
+        "Increase renal plasma flow"
+      ],
+      "answer": 1,
+      "explanation": "Constriction of the efferent arteriole raises glomerular capillary hydrostatic pressure, increasing net filtration pressure and thereby raising GFR, provided the constriction is not severe enough to markedly reduce renal plasma flow.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "An increase in plasma protein concentration primarily affects glomerular filtration by:",
+      "options": [
+        "Promoting filtration",
+        "Opposing filtration",
+        "Having no effect on filtration",
+        "Increasing glomerular hydrostatic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Higher plasma protein oncotic pressure opposes the movement of fluid out of the capillary, decreasing net filtration pressure and reducing GFR.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "If systemic arterial blood pressure rises, the immediate effect on glomerular filtration pressure is to:",
+      "options": [
+        "Decrease GFR",
+        "Increase GFR",
+        "Leave GFR unchanged",
+        "Decrease renal blood flow"
+      ],
+      "answer": 1,
+      "explanation": "Elevated systemic pressure raises glomerular capillary hydrostatic pressure, which increases net filtration pressure and consequently GFR, assuming autoregulatory mechanisms have not yet compensated.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "Which of the following changes would decrease the net filtration pressure across the glomerular membrane?",
+      "options": [
+        "Increase in Bowman's capsule hydrostatic pressure",
+        "Decrease in plasma protein oncotic pressure",
+        "Increase in glomerular capillary hydrostatic pressure",
+        "Decrease in Bowman's capsule hydrostatic pressure"
+      ],
+      "answer": 0,
+      "explanation": "Raising Bowman's capsule hydrostatic pressure opposes filtration, reducing the net filtration pressure (NFP = P_gc - P_bc - π_gc).",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "During severe dehydration, the net filtration pressure across the glomerular membrane is expected to:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Increase glomerular hydrostatic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Dehydration concentrates plasma proteins, increasing oncotic pressure, which opposes filtration and lowers net filtration pressure, thereby reducing GFR.",
+      "topic": "Pressure driving filtration"
+    },
+    {
+      "question": "Which of the following factors does NOT directly affect the glomerular filtration rate (GFR)?",
+      "options": [
+        "Plasma hydrostatic pressure",
+        "Plasma oncotic pressure",
+        "Tubular reabsorption rate",
+        "Afferent arteriolar resistance"
+      ],
+      "answer": 2,
+      "explanation": "GFR is determined by forces across the glomerular capillary wall (hydrostatic and oncotic pressures) and arteriolar resistances; tubular reabsorption occurs downstream and does not directly change the filtration rate.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "The filtration barrier of the glomerulus has three layers. Which layer primarily provides the size‑selective barrier?",
+      "options": [
+        "Endothelial fenestrated capillary",
+        "Basement membrane",
+        "Podocyte slit diaphragm",
+        "Peritubular capillary"
+      ],
+      "answer": 1,
+      "explanation": "The basement membrane contains a dense mesh of collagen and proteoglycans that restricts passage of large molecules, acting as the main size‑selective component of the barrier.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "Which solute is most freely filtered at the glomerulus and is commonly used to estimate GFR?",
+      "options": [
+        "Inulin",
+        "Albumin",
+        "Glucose",
+        "Red blood cells"
+      ],
+      "answer": 0,
+      "explanation": "Inulin is neither reabsorbed nor secreted and passes through the filtration barrier without restriction, making it an ideal marker for measuring GFR.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "A decrease in plasma protein concentration will have what effect on the glomerular filtration rate?",
+      "options": [
+        "Increase GFR",
+        "Decrease GFR",
+        "No change",
+        "Decrease filtration fraction"
+      ],
+      "answer": 0,
+      "explanation": "Lower plasma oncotic pressure reduces the opposing force to filtration, thereby increasing the net filtration pressure and raising GFR.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "Which statement about the glomerular filtration coefficient (Kf) is correct?",
+      "options": [
+        "It is the product of membrane surface area and hydraulic conductivity",
+        "It represents the net filtration pressure",
+        "It is inversely proportional to GFR",
+        "It is determined solely by afferent arteriolar tone"
+      ],
+      "answer": 0,
+      "explanation": "Kf = K (hydraulic conductivity) × A (effective surface area); it reflects the intrinsic permeability and size of the filtration surface, influencing GFR.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "During a high‑protein diet, which compensatory change helps maintain an elevated GFR?",
+      "options": [
+        "Increased afferent arteriolar resistance",
+        "Decreased efferent arteriolar resistance",
+        "Increased plasma oncotic pressure",
+        "Decreased renal plasma flow"
+      ],
+      "answer": 1,
+      "explanation": "A high protein intake causes efferent arteriolar constriction (decreased resistance), raising glomerular capillary pressure and thus increasing GFR.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "The net filtration pressure (NFP) across the glomerular capillary wall is given by which expression?",
+      "options": [
+        "(P_gc - P_bc) - (π_gc - π_bc)",
+        "(P_gc + π_gc) - (P_bc + π_bc)",
+        "P_gc - π_gc",
+        "P_bc - π_bc"
+      ],
+      "answer": 0,
+      "explanation": "NFP = (glomerular hydrostatic pressure – Bowman's capsule hydrostatic pressure) – (glomerular oncotic pressure – Bowman's capsule oncotic pressure). Since π_bc ≈ 0, the formula simplifies to the first option.",
+      "topic": "Renal filtration"
+    },
+    {
+      "question": "Which substance is reabsorbed almost completely in the proximal convoluted tubule (PCT) under normal physiological conditions?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Creatinine",
+        "Sodium chloride"
+      ],
+      "answer": 0,
+      "explanation": "The PCT possesses Na⁺‑glucose cotransporters that reabsorb ~100% of filtered glucose, preventing its loss in urine.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "The primary active transport mechanism that drives sodium reabsorption in the proximal tubule is located on which membrane?",
+      "options": [
+        "Basolateral Na⁺/K⁺‑ATPase",
+        "Apical Na⁺/H⁺ exchanger",
+        "Apical Na⁺‑glucose symporter",
+        "Apical Na⁺/Cl⁻ cotransporter"
+      ],
+      "answer": 0,
+      "explanation": "The basolateral Na⁺/K⁺‑ATPase creates a low intracellular Na⁺ concentration, providing the gradient for secondary active Na⁺ transport across the apical membrane.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "Which nephron segment is impermeable to water but actively reabsorbs NaCl, contributing to the corticomedullary osmotic gradient?",
+      "options": [
+        "Descending limb of loop of Henle",
+        "Ascending limb of loop of Henle",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb is water‑impermeable and uses the NKCC2 cotransporter to reabsorb Na⁺, K⁺ and 2Cl⁻, generating the medullary osmotic gradient.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "Aldosterone primarily enhances sodium reabsorption in which part of the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone acts on principal cells of the distal convoluted tubule and cortical collecting duct, increasing Na⁺ channels and Na⁺/K⁺‑ATPase activity.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "The counter‑current multiplier mechanism that establishes the medullary osmotic gradient depends mainly on active reabsorption of which ions in the thick ascending limb?",
+      "options": [
+        "Na⁺ only",
+        "K⁺ only",
+        "Cl⁻ only",
+        "Na⁺, K⁺ and Cl⁻"
+      ],
+      "answer": 3,
+      "explanation": "The NKCC2 transporter moves Na⁺, K⁺ and 2Cl⁻ from the lumen into the cells, making the interstitium hypertonic and driving the multiplier effect.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "Which statement about glucose reabsorption in the nephron is FALSE?",
+      "options": [
+        "It occurs via secondary active transport",
+        "It is coupled with Na⁺ entry",
+        "It is inhibited by phlorizin",
+        "It continues in the distal convoluted tubule"
+      ],
+      "answer": 3,
+      "explanation": "Glucose reabsorption is completed in the proximal convoluted tubule; the distal convoluted tubule lacks glucose transporters.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "In the proximal tubule, secretion of H⁺ into the tubular lumen is coupled with which of the following processes?",
+      "options": [
+        "Na⁺ reabsorption via the Na⁺/H⁺ exchanger",
+        "K⁺ reabsorption",
+        "Cl⁻ reabsorption",
+        "Water reabsorption"
+      ],
+      "answer": 0,
+      "explanation": "The apical Na⁺/H⁺ exchanger extrudes H⁺ while allowing Na⁺ to enter the cell, linking acid secretion to sodium reabsorption.",
+      "topic": "Selective reabsorption"
+    },
+    {
+      "question": "Which substance is reabsorbed completely in the proximal convoluted tubule by a sodium‑glucose cotransporter?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Creatinine",
+        "Sodium chloride"
+      ],
+      "answer": 0,
+      "explanation": "Glucose is reabsorbed in the PCT via secondary active transport using the Na⁺‑glucose cotransporter (SGLT), ensuring virtually complete reabsorption under normal conditions.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "In the descending limb of the loop of Henle, tubular water reabsorption occurs mainly because:",
+      "options": [
+        "Active NaCl transport",
+        "High permeability to water",
+        "Presence of Na⁺/K⁺‑ATPase",
+        "Secretion of urea"
+      ],
+      "answer": 1,
+      "explanation": "The descending limb is highly permeable to water due to abundant aquaporin channels, allowing water to leave the lumen following the medullary osmotic gradient.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "Approximately what percentage of filtered Na⁺ and water is reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "~65%",
+        "~30%",
+        "~10%",
+        "~5%"
+      ],
+      "answer": 0,
+      "explanation": "The PCT reabsorbs about 65% of the filtered sodium and water through a combination of active, passive, and solvent‑drag mechanisms.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "Aldosterone primarily enhances Na⁺ reabsorption in which nephron segment?",
+      "options": [
+        "Proximal tubule",
+        "Loop of Henle ascending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone acts on the distal convoluted tubule (and the cortical collecting duct) to increase Na⁺ reabsorption via up‑regulation of Na⁺ channels and Na⁺/K⁺‑ATPase activity.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "Glucose reabsorption from the tubular lumen in the proximal tubule is mediated by:",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion via GLUT2",
+        "Secondary active transport via Na⁺‑glucose cotransporter",
+        "Primary active transport via Na⁺/K⁺‑ATPase"
+      ],
+      "answer": 2,
+      "explanation": "Glucose enters the tubular cell by secondary active transport (SGLT) that couples glucose uptake to the Na⁺ gradient maintained by the Na⁺/K⁺‑ATPase.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "Which statement about tubular reabsorption is FALSE?",
+      "options": [
+        "Urea is passively reabsorbed in the inner medullary collecting duct",
+        "Amino acids are reabsorbed by active transport in the proximal tubule",
+        "Water reabsorption in the distal convoluted tubule is independent of ADH",
+        "Sodium reabsorption in the thick ascending limb is coupled to chloride reabsorption"
+      ],
+      "answer": 2,
+      "explanation": "Water reabsorption in the distal convoluted tubule is regulated by ADH; without ADH the DCT is relatively impermeable to water, making the statement false.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "The medullary osmotic gradient that drives water reabsorption from the collecting duct under ADH influence is mainly generated by which segment?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of the loop of Henle",
+        "Thick ascending limb of the loop of Henle",
+        "Distal convoluted tubule"
+      ],
+      "answer": 2,
+      "explanation": "Active NaCl reabsorption in the thick ascending limb (impermeable to water) creates a high osmolarity in the medullary interstitium, establishing the gradient used for water reabsorption in the collecting duct when ADH is present.",
+      "topic": "Tubular reabsorption"
+    },
+    {
+      "question": "Which substance is reabsorbed completely in the proximal convoluted tubule via a Na⁺‑glucose cotransporter?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Creatinine",
+        "Sodium"
+      ],
+      "answer": 0,
+      "explanation": "The Na⁺‑glucose cotransporter (SGLT) in the PCT reabsorbs virtually all filtered glucose back into the blood.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "The primary mechanism for water reabsorption in the proximal convoluted tubule is:",
+      "options": [
+        "Active transport of water",
+        "Osmosis following solute reabsorption",
+        "Filtration",
+        "Secretion"
+      ],
+      "answer": 1,
+      "explanation": "Water follows the reabsorbed solutes (Na⁺, glucose, amino acids) osmotically, making the process iso‑osmotic with plasma.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "Approximately what percentage of the filtered sodium ions is reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "25%",
+        "45%",
+        "65%",
+        "85%"
+      ],
+      "answer": 2,
+      "explanation": "About 65% of the filtered Na⁺ load is reabsorbed in the PCT, mainly via Na⁺/H⁺ exchanger and Na⁺‑glucose cotransport.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "Bicarbonate reabsorption in the proximal convoluted tubule involves which enzyme?",
+      "options": [
+        "Na⁺/K⁺‑ATPase",
+        "Carbonic anhydrase",
+        "Aldolase B",
+        "Glucose‑6‑phosphatase"
+      ],
+      "answer": 1,
+      "explanation": "Carbonic anhydrase catalyzes the conversion of CO₂ and H₂O to H₂CO₃, facilitating HCO₃⁻ reabsorption in the PCT.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "Which statement about proximal convoluted tubule reabsorption is FALSE?",
+      "options": [
+        "Majority of filtered glucose is reabsorbed here",
+        "Amino acids are reabsorbed by active transport",
+        "Hydrogen ions are secreted in the PCT",
+        "Water reabsorption is iso‑osmotic to plasma"
+      ],
+      "answer": 2,
+      "explanation": "Significant H⁺ secretion occurs mainly in the distal tubule and collecting duct; the PCT primarily reabsorbs HCO₃⁻, not secretes H⁺.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "The driving force for Na⁺ reabsorption in the proximal convoluted tubule is:",
+      "options": [
+        "High intracellular Na⁺ concentration",
+        "Low intracellular Na⁺ due to Na⁺/K⁺‑ATPase activity",
+        "Electrochemical gradient of Cl⁻",
+        "Active transport of glucose"
+      ],
+      "answer": 1,
+      "explanation": "Basolateral Na⁺/K⁺‑ATPase maintains low intracellular Na⁺, creating a gradient that drives Na⁺ entry from the lumen.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "In the proximal convoluted tubule, reabsorption of which molecule is coupled to Na⁺ via secondary active transport?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Creatinine",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "Glucose is reabsorbed through Na⁺‑glucose cotransporters (SGLT), a classic example of secondary active transport in the PCT.",
+      "topic": "Reabsorption in PCT"
+    },
+    {
+      "question": "Which transporter is primarily responsible for glucose reabsorption in the proximal convoluted tubule?",
+      "options": [
+        "SGLT2",
+        "GLUT2",
+        "Na+/K+ ATPase",
+        "Aquaporin-1"
+      ],
+      "answer": 0,
+      "explanation": "SGLT2 (sodium‑glucose co‑transporter 2) located on the apical membrane of PCT cells couples glucose uptake with Na+ influx, accounting for ~90% of glucose reabsorption.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "Approximately how much glucose can a normal adult kidney reabsorb in 24 hours?",
+      "options": [
+        "120 g",
+        "180 g",
+        "250 g",
+        "300 g"
+      ],
+      "answer": 1,
+      "explanation": "The renal threshold for glucose corresponds to a reabsorptive capacity of about 180 g per day; beyond this, glucose appears in urine.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "In uncontrolled diabetes mellitus, glucose appears in urine because plasma glucose exceeds the renal threshold. What is the primary cause of this threshold?",
+      "options": [
+        "Saturation of SGLT transporters",
+        "Decreased GFR",
+        "Increased tubular flow rate",
+        "Reduced Na+ gradient"
+      ],
+      "answer": 0,
+      "explanation": "When plasma glucose concentration surpasses the maximal transport capacity of SGLT carriers, the transporters become saturated and excess glucose is not reabsorbed, leading to glucosuria.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "Which nephron segment has the greatest capacity for glucose reabsorption?",
+      "options": [
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct",
+        "Proximal convoluted tubule"
+      ],
+      "answer": 3,
+      "explanation": "The proximal convoluted tubule possesses a high density of SGLT2 and GLUT transporters, enabling it to reabsorb virtually all filtered glucose under normal conditions.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "The co‑transport of glucose with Na+ in the proximal tubule is driven by which electrochemical gradient?",
+      "options": [
+        "Na+ gradient created by basolateral Na+/K+ ATPase",
+        "Membrane potential",
+        "K+ gradient",
+        "Cl- gradient"
+      ],
+      "answer": 0,
+      "explanation": "The Na+/K+ ATPase on the basolateral membrane maintains a low intracellular Na+ concentration, generating an inward Na+ gradient that powers SGLT-mediated glucose uptake.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "A drug that selectively inhibits SGLT2 would most likely produce which effect?",
+      "options": [
+        "Increase glucose reabsorption",
+        "Decrease glucose reabsorption leading to glucosuria",
+        "No effect on glucose handling",
+        "Increase Na+ reabsorption"
+      ],
+      "answer": 1,
+      "explanation": "Inhibiting SGLT2 reduces the kidney’s ability to reabsorb glucose, causing excess glucose to be excreted in urine (glucosuria), a mechanism used by SGLT2 inhibitor antidiabetic drugs.",
+      "topic": "Glucose reabsorption"
+    },
+    {
+      "question": "Where does the majority of amino acid reabsorption occur in the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "About 95% of filtered amino acids are reabsorbed in the proximal convoluted tubule via carrier-mediated transport.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "Which transport mechanism primarily mediates the reabsorption of neutral amino acids in the proximal tubule?",
+      "options": [
+        "Simple diffusion",
+        "Na⁺‑dependent cotransport",
+        "Na⁺/K⁺‑ATPase pump",
+        "Endocytosis"
+      ],
+      "answer": 1,
+      "explanation": "Neutral amino acids are taken up by secondary active transport that couples their movement with Na⁺ entry down its electrochemical gradient.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "Which statement about renal amino‑acid transporters is correct?",
+      "options": [
+        "All amino acids use a single transporter",
+        "Cationic amino acids are cotransported with Na⁺ and Cl⁻",
+        "Anionic amino acids are reabsorbed by facilitated diffusion",
+        "Neutral amino acids are reabsorbed independent of Na⁺ gradient"
+      ],
+      "answer": 1,
+      "explanation": "Cationic (basic) amino acids such as lysine and arginine are reabsorbed via Na⁺‑Cl⁻‑dependent cotransporters in the proximal tubule.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "A patient presents with aminoaciduria due to a tubular defect. Which nephron segment is most likely involved?",
+      "options": [
+        "Loop of Henle",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "Amino‑acid transporters are concentrated in the proximal convoluted tubule; defects here lead to loss of amino acids in urine.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "The maximal tubular reabsorption rate (Tm) for amino acids in the proximal tubule is closest to:",
+      "options": [
+        "50 mg min⁻¹",
+        "150 mg min⁻¹",
+        "300 mg min⁻¹",
+        "600 mg min⁻¹"
+      ],
+      "answer": 1,
+      "explanation": "The Tm for most amino acids is about 150 mg per minute, reflecting the high capacity of proximal tubular transporters.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "Which hormone indirectly enhances amino‑acid reabsorption by increasing the Na⁺ gradient in the proximal tubule?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone",
+        "Parathyroid hormone",
+        "Renin"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone stimulates Na⁺ reabsorption, strengthening the Na⁺ gradient that drives Na⁺‑dependent amino‑acid cotransport in the proximal tubule.",
+      "topic": "Amino acid reabsorption"
+    },
+    {
+      "question": "Where does the majority (~65%) of filtered sodium get reabsorbed in the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "The proximal convoluted tubule reabsorbs about 65% of filtered Na+ through Na+/glucose and Na+/amino acid cotransporters, making it the major site of Na+ reabsorption.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "Which transporter in the thick ascending limb of Henle is primarily responsible for Na+, K+, and 2Cl- reabsorption?",
+      "options": [
+        "Na+/K+ ATPase",
+        "Na+-K+-2Cl- cotransporter (NKCC2)",
+        "Na+-Cl- cotransporter (NCC)",
+        "Epithelial Na+ channel (ENaC)"
+      ],
+      "answer": 1,
+      "explanation": "NKCC2 located on the apical membrane of thick ascending limb cells reabsorbs Na+, K+, and 2Cl- in a 1:1:2 ratio, crucial for the counter‑current multiplier mechanism.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "Water reabsorption in the descending limb of Henle occurs because this segment expresses which water channel?",
+      "options": [
+        "Aquaporin‑1",
+        "Aquaporin‑2",
+        "Na+/K+ ATPase",
+        "NKCC2"
+      ],
+      "answer": 0,
+      "explanation": "Aquaporin‑1 is constitutively present in the descending limb, allowing passive water movement following the osmotic gradient.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "Aldosterone enhances sodium reabsorption primarily in which nephron segment?",
+      "options": [
+        "Proximal tubule",
+        "Thick ascending limb",
+        "Distal convoluted tubule",
+        "Glomerulus"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone up‑regulates ENaC and Na+/K+ ATPase in the distal convoluted tubule and collecting‑duct principal cells, increasing Na+ reabsorption.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "The antidiuretic hormone (ADH) increases water permeability of the collecting duct by promoting insertion of which protein?",
+      "options": [
+        "Aquaporin‑1",
+        "Aquaporin‑2",
+        "NKCC2",
+        "Na+/K+ ATPase"
+      ],
+      "answer": 1,
+      "explanation": "ADH triggers the translocation of vesicles containing Aquaporin‑2 to the apical membrane of collecting‑duct principal cells, enhancing water reabsorption.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "Which statement correctly describes sodium reabsorption in the proximal tubule?",
+      "options": [
+        "It occurs via NKCC2 in the apical membrane",
+        "It is iso‑osmotic and coupled to glucose transport via SGLT2",
+        "It requires ADH‑mediated insertion of water channels",
+        "It is stimulated only by high plasma aldosterone levels"
+      ],
+      "answer": 1,
+      "explanation": "In the proximal tubule, Na+ reabsorption is iso‑osmotic and tightly coupled to glucose (and amino acid) uptake through Na+-glucose cotransporter SGLT2.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "The medullary osmotic gradient that allows water reabsorption from the collecting duct is primarily generated by which mechanism?",
+      "options": [
+        "Counter‑current exchange in the vasa recta",
+        "Counter‑current multiplication in the thick ascending limb",
+        "Glomerular filtration pressure",
+        "Active secretion of hydrogen ions in the distal tubule"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb actively reabsorbs Na+, K+, and Cl- without water, creating a high‑solute interstitium; together with counter‑current flow, this establishes the medullary osmotic gradient.",
+      "topic": "Sodium and water reabsorption"
+    },
+    {
+      "question": "Which segment of the Loop of Henle is impermeable to water but actively transports Na⁺ and Cl⁻ out of the tubular fluid?",
+      "options": [
+        "Descending limb",
+        "Ascending limb",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb reabsorbs Na⁺, K⁺ and Cl⁻ via the Na⁺‑K⁺‑2Cl⁻ cotransporter and is essentially water‑impermeable, making it the segment described.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "The primary mechanism by which the Loop of Henle creates a hyperosmotic medullary interstitium is:",
+      "options": [
+        "Counter‑current multiplication",
+        "Filtration pressure gradient",
+        "Active tubular secretion",
+        "Osmotic diuresis"
+      ],
+      "answer": 0,
+      "explanation": "The counter‑current multiplication system, involving differential permeability of the descending and ascending limbs, establishes the corticomedullary osmotic gradient.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Which property best characterises the descending limb of the Loop of Henle?",
+      "options": [
+        "Highly permeable to water and solutes",
+        "Highly permeable to water but low solute permeability",
+        "Impermeable to water but active NaCl transport",
+        "Impermeable to both water and solutes"
+      ],
+      "answer": 1,
+      "explanation": "The descending limb is very permeable to water, allowing water to leave, while its membrane is relatively impermeable to solutes, so solutes remain in the tubular fluid.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "A longer Loop of Henle is a distinctive feature of which type of nephron?",
+      "options": [
+        "Cortical nephrons",
+        "Juxtamedullary nephrons",
+        "Proximal tubules",
+        "Distal tubules"
+      ],
+      "answer": 1,
+      "explanation": "Juxtamedullary nephrons have long loops that extend deep into the medulla, essential for generating a strong osmotic gradient.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Loop diuretics such as furosemide exert their effect by inhibiting which transporter?",
+      "options": [
+        "Na⁺/K⁺‑ATPase in the proximal tubule",
+        "Na⁺‑K⁺‑2Cl⁻ cotransporter in the thick ascending limb",
+        "Aquaporin‑2 water channel in the collecting duct",
+        "Cl⁻/HCO₃⁻ exchanger in the distal tubule"
+      ],
+      "answer": 1,
+      "explanation": "Furosemide blocks the Na⁺‑K⁺‑2Cl⁻ cotransporter in the thick ascending limb, reducing solute reabsorption, weakening the medullary gradient and increasing urine output.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "The osmolarity of tubular fluid at the tip of the descending limb of the Loop of Henle is approximately:",
+      "options": [
+        "300 mOsm/kg",
+        "600 mOsm/kg",
+        "900 mOsm/kg",
+        "1200 mOsm/kg"
+      ],
+      "answer": 3,
+      "explanation": "As water leaves the descending limb, the filtrate becomes highly concentrated, reaching about 1200 mOsm/kg at the hairpin turn.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Why does the ascending limb of the Loop of Henle not concentrate urine?",
+      "options": [
+        "It actively reabsorbs water",
+        "It is impermeable to water, so solute removal dilutes the tubular fluid",
+        "It secretes urea into the lumen",
+        "It has high permeability to urea"
+      ],
+      "answer": 1,
+      "explanation": "The ascending limb is water‑impermeable; removal of NaCl without water makes the tubular fluid progressively hypo‑osmotic, preventing urine concentration in this segment.",
+      "topic": "Loop of Henle"
+    },
+    {
+      "question": "Which nephron segment is primarily responsible for establishing the corticomedullary osmotic gradient via the counter‑current multiplier mechanism?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The Loop of Henle, with its descending and ascending limbs having opposite permeabilities, creates the osmotic gradient through counter‑current multiplication.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "Why is the thick ascending limb of the Loop of Henle impermeable to water in the counter‑current system?",
+      "options": [
+        "It contains abundant aquaporins",
+        "It has a high solute concentration",
+        "It is lined by thick epithelium lacking aquaporins",
+        "It actively reabsorbs water via Na⁺/K⁺‑ATPase"
+      ],
+      "answer": 2,
+      "explanation": "The thick ascending limb’s cells are thick and lack water channels (aquaporins), making the segment essentially water‑impermeable.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "Which transporter in the thick ascending limb actively removes solutes and drives the counter‑current multiplication?",
+      "options": [
+        "Na⁺/K⁺/2Cl⁻ cotransporter",
+        "Na⁺/glucose symporter",
+        "H⁺/K⁺ ATPase",
+        "Cl⁻/HCO₃⁻ exchanger"
+      ],
+      "answer": 0,
+      "explanation": "The Na⁺/K⁺/2Cl⁻ cotransporter (NKCC2) pumps Na⁺, K⁺ and 2Cl⁻ out of the tubular fluid, lowering its osmolarity and establishing the gradient.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "How does the descending limb contribute to urine concentration in the counter‑current mechanism?",
+      "options": [
+        "It actively pumps NaCl out of the lumen",
+        "It passively loses water due to high medullary osmolarity",
+        "It actively reabsorbs urea",
+        "It secretes potassium into the lumen"
+      ],
+      "answer": 1,
+      "explanation": "The descending limb is highly permeable to water but not to solutes, so water exits passively into the hyperosmotic medulla, concentrating the tubular fluid.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "What is the primary role of the vasa recta in the counter‑current exchange system?",
+      "options": [
+        "They secrete antidiuretic hormone",
+        "They provide a counter‑current blood flow that preserves the medullary gradient",
+        "They actively reabsorb glucose from the interstitium",
+        "They increase glomerular filtration rate"
+      ],
+      "answer": 1,
+      "explanation": "The vasa recta run parallel to the Loop of Henle, allowing blood to exchange solutes and water without dissipating the osmotic gradient (counter‑current exchange).",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "In the presence of antidiuretic hormone (ADH), which nephron segment becomes permeable to water, enhancing the counter‑current multiplication effect?",
+      "options": [
+        "Proximal tubule",
+        "Descending limb of Loop of Henle",
+        "Thin ascending limb",
+        "Collecting duct"
+      ],
+      "answer": 3,
+      "explanation": "ADH inserts aquaporin‑2 channels into the principal cells of the collecting duct, making it water‑permeable and allowing water reabsorption driven by the medullary gradient.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "A defect in the Na⁺/K⁺/2Cl⁻ cotransporter of the thick ascending limb would most likely produce which change in urine?",
+      "options": [
+        "Decreased urine volume",
+        "Increased urine concentration",
+        "Decreased urine concentration (more dilute urine)",
+        "Increased glucose reabsorption"
+      ],
+      "answer": 2,
+      "explanation": "Impaired Na⁺/K⁺/2Cl⁻ transport reduces solute removal, weakening the medullary gradient; consequently, less water is reabsorbed and urine becomes more dilute.",
+      "topic": "Counter-current mechanism"
+    },
+    {
+      "question": "Which of the following best describes the permeability characteristics of the descending limb of the loop of Henle?",
+      "options": [
+        "Highly permeable to water but impermeable to solutes",
+        "Impermeable to water and permeable to solutes",
+        "Permeable to both water and solutes",
+        "Impermeable to both water and solutes"
+      ],
+      "answer": 0,
+      "explanation": "The descending limb is lined by cells that allow free movement of water through aquaporins, while the epithelial membrane is essentially impermeable to ions and other solutes, causing water to be reabsorbed passively.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "As the tubular fluid descends in the descending limb, its osmolality:",
+      "options": [
+        "Decreases",
+        "Remains constant",
+        "Increases",
+        "Fluctuates randomly"
+      ],
+      "answer": 2,
+      "explanation": "Water leaves the lumen osmotically into the hyperosmotic medullary interstitium, concentrating the tubular fluid; therefore its osmolality rises progressively toward the tip of the descending limb.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "The primary driving force for water movement out of the descending limb is:",
+      "options": [
+        "Active transport of NaCl",
+        "Osmotic gradient of the medullary interstitium",
+        "Hydrostatic pressure difference",
+        "Sodium‑potassium ATPase activity"
+      ],
+      "answer": 1,
+      "explanation": "Because the descending limb is water‑permeable, water moves out of the lumen following the osmotic gradient created by the high solute concentration of the surrounding medullary interstitium.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "Which statement about the effect of antidiuretic hormone (ADH) on the descending limb is correct?",
+      "options": [
+        "ADH increases its water permeability",
+        "ADH decreases its water permeability",
+        "ADH has no effect",
+        "ADH converts it to solute‑permeable"
+      ],
+      "answer": 2,
+      "explanation": "The descending limb is already maximally water‑permeable; ADH mainly acts on the collecting duct. Hence ADH does not alter water permeability of the descending limb.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "The descending limb contributes to the generation of the medullary osmotic gradient primarily by:",
+      "options": [
+        "Actively pumping NaCl into interstitium",
+        "Passive water loss concentrating tubular fluid",
+        "Secreting potassium into lumen",
+        "Reabsorbing glucose"
+      ],
+      "answer": 1,
+      "explanation": "Water exits the descending limb passively, concentrating the tubular fluid and thereby increasing the solute concentration of the medullary interstitium, which is essential for the counter‑current multiplier mechanism.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "In a patient with a defect that makes the descending limb impermeable to water, which change would be expected in the urine?",
+      "options": [
+        "Decreased urine volume",
+        "Increased urine osmolality",
+        "Decreased urine osmolality",
+        "No change in urine composition"
+      ],
+      "answer": 2,
+      "explanation": "If water cannot leave the descending limb, the tubular fluid remains dilute, leading to a lower urine osmolality and a relatively larger volume of hypotonic urine.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "The length of the descending limb influences the kidney's ability to produce concentrated urine because:",
+      "options": [
+        "Longer limb allows more active NaCl reabsorption",
+        "Longer limb provides greater surface area for water removal",
+        "Longer limb increases secretion of hydrogen ions",
+        "Length does not affect concentration"
+      ],
+      "answer": 1,
+      "explanation": "A longer descending limb offers more surface area for water to exit the lumen, enhancing the concentration of the tubular fluid and strengthening the medullary osmotic gradient.",
+      "topic": "Descending limb"
+    },
+    {
+      "question": "Which segment of the nephron is impermeable to water but actively reabsorbs Na+, K+, and 2Cl-?",
+      "options": [
+        "Thin descending limb",
+        "Thick ascending limb",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb (also called the mantle) lacks water channels and actively transports Na+, K+, and 2Cl- via the Na+/K+/2Cl- cotransporter, making it impermeable to water.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "The primary mechanism by which the thick ascending limb contributes to the medullary osmotic gradient is:",
+      "options": [
+        "Passive diffusion of water",
+        "Active transport of NaCl",
+        "Secretion of H+",
+        "Reabsorption of glucose"
+      ],
+      "answer": 1,
+      "explanation": "Active reabsorption of NaCl without accompanying water creates a hyperosmotic interstitium, establishing the medullary osmotic gradient essential for urine concentration.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "Loop diuretics such as furosemide act mainly on which transporter in the ascending limb?",
+      "options": [
+        "Na+/K+/2Cl- cotransporter",
+        "Na+/H+ exchanger",
+        "Aquaporin-2 water channel",
+        "H+-ATPase"
+      ],
+      "answer": 0,
+      "explanation": "Furosemide inhibits the Na+/K+/2Cl- cotransporter located on the apical membrane of the thick ascending limb, reducing NaCl reabsorption and impairing the osmotic gradient.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "In the thin ascending limb, which of the following statements is true?",
+      "options": [
+        "High permeability to water",
+        "Passive reabsorption of NaCl",
+        "Active secretion of K+",
+        "Presence of Na+/K+ ATPase on luminal membrane"
+      ],
+      "answer": 1,
+      "explanation": "The thin ascending limb is permeable to ions but not water; NaCl moves out of the lumen passively down its concentration gradient.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "The counter‑current multiplication mechanism relies on which property of the ascending limb?",
+      "options": [
+        "High water permeability",
+        "Active NaCl reabsorption without water",
+        "Secretion of HCO3-",
+        "Presence of tight junctions"
+      ],
+      "answer": 1,
+      "explanation": "Active NaCl reabsorption in the ascending limb, coupled with its water impermeability, creates a progressive increase in interstitial osmolarity along the medulla, the basis of counter‑current multiplication.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "Which ion concentration is highest in the interstitial fluid of the inner medulla due to the function of the ascending limb?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "Continuous active reabsorption of NaCl from the thick ascending limb raises Na+ (and Cl-) concentrations in the medullary interstitium, with Na+ being the predominant cation.",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "The thick ascending limb is called the \"diluting segment\" because:",
+      "options": [
+        "It reabsorbs water more than solutes",
+        "It secretes urea into lumen",
+        "It reabsorbs solutes without water",
+        "It adds solutes to tubular fluid"
+      ],
+      "answer": 2,
+      "explanation": "Since the segment removes NaCl actively while being impermeable to water, the tubular fluid becomes progressively more dilute, hence the term \"diluting segment.\"",
+      "topic": "Ascending limb"
+    },
+    {
+      "question": "Which segment of the nephron is primarily responsible for generating the high osmolarity of the renal medulla?",
+      "options": [
+        "Descending limb of loop of Henle",
+        "Thick ascending limb of loop of Henle",
+        "Proximal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "The thick ascending limb actively reabsorbs NaCl without water, creating a hyperosmotic interstitium that forms the medullary osmotic gradient.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "The descending limb of the loop of Henle is permeable to water but not to solutes. This property causes the tubular fluid to:",
+      "options": [
+        "Increase in osmolarity",
+        "Decrease in osmolarity",
+        "Remain iso‑osmotic with plasma",
+        "Increase solute concentration without water loss"
+      ],
+      "answer": 0,
+      "explanation": "Water exits the descending limb into the hyperosmotic medullary interstitium, concentrating the tubular fluid and raising its osmolarity.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "Counter‑current multiplication in the loop of Henle depends on which combination of mechanisms?",
+      "options": [
+        "Active NaCl reabsorption in thick ascending limb only",
+        "Passive water reabsorption in descending limb only",
+        "Both active NaCl reabsorption in thick ascending limb and passive water loss in descending limb",
+        "Neither mechanism contributes"
+      ],
+      "answer": 2,
+      "explanation": "The gradient is established by active NaCl removal in the thick ascending limb and water loss in the descending limb, working together in a counter‑current arrangement.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "Which statement about urea recycling and the medullary osmotic gradient is correct?",
+      "options": [
+        "Urea is reabsorbed only in the proximal tubule",
+        "Urea is secreted into the thin descending limb",
+        "Urea contributes to the high interstitial osmolarity of the inner medulla",
+        "Urea is impermeable to the collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "Urea diffuses from the inner medullary collecting duct into the interstitium and is reabsorbed in the thin ascending limb, raising inner medullary osmolarity and strengthening the gradient.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "Administration of a loop diuretic (e.g., furosemide) would most likely:",
+      "options": [
+        "Increase the medullary osmotic gradient",
+        "Decrease the medullary osmotic gradient",
+        "Have no effect on the gradient",
+        "Convert the gradient into a hyperosmotic state"
+      ],
+      "answer": 1,
+      "explanation": "Loop diuretics inhibit Na⁺‑K⁺‑2Cl⁻ transport in the thick ascending limb, reducing solute removal and thereby diminishing the medullary osmotic gradient.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "The osmolarity of fluid in the thick ascending limb at its exit is approximately:",
+      "options": [
+        "300 mOsm kg⁻¹",
+        "100 mOsm kg⁻¹",
+        "600 mOsm kg⁻¹",
+        "900 mOsm kg⁻¹"
+      ],
+      "answer": 1,
+      "explanation": "Active NaCl reabsorption without water makes the tubular fluid very dilute, around 100 mOsm kg⁻¹, much lower than plasma.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "Why can the collecting duct produce concentrated urine only in the presence of antidiuretic hormone (ADH)?",
+      "options": [
+        "ADH increases water permeability of the descending limb",
+        "ADH stimulates Na⁺ reabsorption in the thick ascending limb",
+        "ADH makes the collecting duct permeable to water, allowing water to leave into the hyperosmotic medulla",
+        "ADH decreases urea recycling"
+      ],
+      "answer": 2,
+      "explanation": "ADH inserts aquaporin‑2 channels in the collecting‑duct epithelium, permitting water to exit the duct into the hyperosmotic medullary interstitium, concentrating the urine.",
+      "topic": "Medullary osmotic gradient"
+    },
+    {
+      "question": "Which substance is primarily secreted into the tubular fluid by the proximal convoluted tubule?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Hydrogen ions",
+        "Sodium"
+      ],
+      "answer": 2,
+      "explanation": "The proximal tubule actively secretes hydrogen ions (and ammonium) into the lumen to aid in acid‑base regulation, whereas glucose and sodium are largely reabsorbed.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "Aldosterone mainly enhances the secretion of which ion in the distal nephron?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Bicarbonate"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone stimulates Na⁺ reabsorption and K⁺ secretion in the distal convoluted tubule and collecting duct, helping maintain electrolyte balance.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "Which segment of the nephron is the major site for potassium ion secretion?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "The distal convoluted tubule (and the early collecting duct) is the principal site where potassium is secreted under hormonal control, especially by aldosterone.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "Tubular secretion of hydrogen ions is essential for which physiological function?",
+      "options": [
+        "Regulation of blood glucose",
+        "Maintenance of plasma osmolarity",
+        "Acid-base balance",
+        "Synthesis of urea"
+      ],
+      "answer": 2,
+      "explanation": "Secreting H⁺ into the tubular fluid allows the kidney to excrete excess acid and maintain systemic pH within the narrow physiological range.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "The tubular secretion of organic anions such as para‑aminohippuric acid (PAH) in the proximal tubule occurs via which transport mechanism?",
+      "options": [
+        "Na⁺/K⁺ ATPase",
+        "Na⁺/H⁺ antiporter",
+        "Organic anion transporter (OAT) coupled with dicarboxylate exchange",
+        "Na⁺/glucose cotransporter"
+      ],
+      "answer": 2,
+      "explanation": "PAH and similar organic anions are taken up by OATs that exchange intracellular dicarboxylates for extracellular organic anions, facilitating their secretion into the lumen.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "Which statement correctly distinguishes tubular secretion from tubular reabsorption?",
+      "options": [
+        "Secretion moves substances from peritubular capillaries into tubular lumen",
+        "Reabsorption moves substances from lumen to peritubular capillaries",
+        "Secretion requires ATP while reabsorption does not",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "In secretion, solutes are transferred from the peritubular capillary blood into the tubular lumen; reabsorption is the opposite direction. Not all secretory steps need ATP, so the third statement is false.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "Which hormone increases the tubular secretion of hydrogen ions in the collecting duct?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone",
+        "Parathyroid hormone",
+        "Atrial natriuretic peptide"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone up‑regulates H⁺‑ATPase activity in intercalated cells of the collecting duct, enhancing H⁺ secretion and contributing to acid excretion.",
+      "topic": "Tubular secretion"
+    },
+    {
+      "question": "What is the primary nephron segment where hydrogen ion secretion occurs during normal urine formation?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "The proximal convoluted tubule reabsorbs most filtered bicarbonate and secretes H+ via the Na+/H+ exchanger, accounting for the majority of renal H+ secretion.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "Which transporter is chiefly responsible for H+ secretion in the proximal tubule cells?",
+      "options": [
+        "Na+/H+ exchanger (NHE3)",
+        "Na+/K+ ATPase",
+        "H+/K+ ATPase",
+        "Cl-/HCO3- exchanger"
+      ],
+      "answer": 0,
+      "explanation": "NHE3 exchanges intracellular H+ for luminal Na+, allowing H+ to be secreted into the tubular fluid while Na+ is reabsorbed.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "Aldosterone enhances hydrogen ion secretion in the collecting duct by stimulating which of the following?",
+      "options": [
+        "H+-ATPase activity in intercalated cells",
+        "Na+/K+ ATPase activity",
+        "Aquaporin-2 water channels",
+        "Na+/H+ exchanger"
+      ],
+      "answer": 0,
+      "explanation": "Aldosterone up‑regulates the H+-ATPase in type A intercalated cells, increasing H+ secretion and aiding acid‑base balance.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "In the distal nephron, hydrogen ion secretion is coupled with the reabsorption of which ion?",
+      "options": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Chloride (Cl-)",
+        "Calcium (Ca2+)"
+      ],
+      "answer": 0,
+      "explanation": "The distal Na+/H+ exchanger links H+ secretion to Na+ reabsorption, maintaining electroneutrality.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "Inhibition of carbonic anhydrase (e.g., by acetazolamide) leads to which effect on renal H+ secretion?",
+      "options": [
+        "Decreased H+ secretion",
+        "Increased H+ secretion",
+        "No change in H+ secretion",
+        "Increased bicarbonate reabsorption"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase generates intracellular H+ from CO2; its inhibition reduces H+ availability for secretion, lowering H+ excretion.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "How does renal hydrogen ion secretion contribute to systemic acid‑base balance?",
+      "options": [
+        "Excretes excess H+ to prevent metabolic acidosis",
+        "Generates new HCO3- that re‑enters the bloodstream",
+        "Both excrete H+ and generate HCO3- to maintain pH",
+        "Neither effect is significant"
+      ],
+      "answer": 2,
+      "explanation": "H+ secretion removes acid from the body, and the accompanying formation of new bicarbonate that returns to plasma buffers blood, providing a dual protective effect.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "Which nephron segment is essential for lowering urinary pH to values below 5.5?",
+      "options": [
+        "Proximal tubule",
+        "Loop of Henle",
+        "Distal tubule",
+        "Collecting duct intercalated cells"
+      ],
+      "answer": 3,
+      "explanation": "Type A intercalated cells of the collecting duct actively secrete H+ via H+-ATPase, achieving the final acidification of urine to pH <5.5.",
+      "topic": "Hydrogen ion secretion"
+    },
+    {
+      "question": "What is the primary nephron segment where potassium ion secretion occurs?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct principal cells"
+      ],
+      "answer": 3,
+      "explanation": "Potassium secretion is mainly carried out by principal cells of the cortical collecting duct under hormonal regulation.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "Which hormone most directly stimulates potassium secretion in the kidney?",
+      "options": [
+        "ADH",
+        "Aldosterone",
+        "Parathyroid hormone",
+        "Renin"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone increases the activity of Na+ channels and ROMK channels in principal cells, enhancing K+ secretion.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "How does an increase in tubular flow rate affect potassium secretion?",
+      "options": [
+        "Decreases secretion",
+        "Increases secretion",
+        "No effect",
+        "Causes reabsorption"
+      ],
+      "answer": 1,
+      "explanation": "Higher flow rates reduce the luminal K+ concentration and increase the driving force for K+ to exit through ROMK channels, thus enhancing secretion.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "Which ion channel mediates potassium secretion across the apical membrane of principal cells?",
+      "options": [
+        "ENaC",
+        "ROMK",
+        "Na+/K+ ATPase",
+        "Aquaporin-2"
+      ],
+      "answer": 1,
+      "explanation": "The renal outer medullary potassium (ROMK) channel provides the pathway for K+ to be secreted into the tubular lumen.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "During metabolic acidosis, potassium secretion in the distal nephron is:",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "Shifted into cells"
+      ],
+      "answer": 1,
+      "explanation": "Acidosis promotes H+ secretion and K+ reabsorption to maintain electroneutrality, thereby reducing K+ secretion.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "Which of the following statements about renal potassium handling is FALSE?",
+      "options": [
+        "Majority of filtered K+ is reabsorbed in proximal tubule",
+        "Aldosterone stimulates Na+ reabsorption and K+ secretion",
+        "High plasma K+ directly stimulates ROMK activity",
+        "K+ secretion occurs mainly in thick ascending limb"
+      ],
+      "answer": 3,
+      "explanation": "The thick ascending limb reabsorbs K+; the major site of secretion is the collecting duct, not the thick ascending limb.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "Which condition most likely leads to increased potassium secretion?",
+      "options": [
+        "Low plasma K+",
+        "High aldosterone",
+        "Low distal Na+ delivery",
+        "Low tubular flow"
+      ],
+      "answer": 1,
+      "explanation": "Elevated aldosterone up‑regulates ENaC and ROMK, enhancing Na+ reabsorption and K+ secretion in the collecting duct.",
+      "topic": "Potassium ion secretion"
+    },
+    {
+      "question": "Which segment of the nephron is the primary site for renal ammonia secretion under normal physiological conditions?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct intercalated cells"
+      ],
+      "answer": 0,
+      "explanation": "The proximal convoluted tubule generates most renal ammonia from glutamine and secretes NH4+ into the tubular lumen, making it the principal site of ammonia secretion.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "The first enzymatic step in renal ammonia production from glutamine is catalyzed by:",
+      "options": [
+        "Glutaminase",
+        "Carbamoyl phosphate synthetase I",
+        "Glutamate dehydrogenase",
+        "Arginase"
+      ],
+      "answer": 0,
+      "explanation": "Glutaminase hydrolyzes glutamine to glutamate and free ammonia (NH3), initiating renal ammonia generation.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "In the thick ascending limb, NH4+ is secreted into the lumen primarily via which transporter?",
+      "options": [
+        "Na⁺/K⁺/2Cl⁻ cotransporter (NKCC2)",
+        "Na⁺/H⁺ exchanger (NHE3)",
+        "V-type H⁺‑ATPase",
+        "Aquaporin‑1 water channel"
+      ],
+      "answer": 0,
+      "explanation": "NKCC2 can transport NH4⁺ in place of K⁺, allowing NH4⁺ secretion from tubular cells into the lumen of the thick ascending limb.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "During chronic metabolic acidosis, the increase in renal ammonia excretion is mainly due to:",
+      "options": [
+        "Up‑regulation of glutaminase activity in proximal tubule cells",
+        "Increased glomerular filtration rate",
+        "Reduced aldosterone secretion",
+        "Enhanced water reabsorption in the collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Acidosis stimulates glutaminase, boosting glutamine breakdown and ammonia production, which raises urinary ammonia excretion.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "How does secreted ammonia contribute to urinary acidification?",
+      "options": [
+        "It combines with luminal H⁺ to form NH₄⁺, which is trapped in the urine",
+        "It directly neutralizes bicarbonate in the tubular fluid",
+        "It acts as a buffer that releases H⁺ into the lumen",
+        "It inhibits H⁺‑ATPase activity in intercalated cells"
+      ],
+      "answer": 0,
+      "explanation": "NH₃ diffuses into the lumen, binds H⁺ to form NH₄⁺; the charged NH₄⁺ cannot diffuse back, effectively removing H⁺ and aiding acid excretion.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "Which statement about renal ammonia handling is FALSE?",
+      "options": [
+        "NH₃ diffuses freely across tubular cell membranes",
+        "NH₄⁺ can substitute for K⁺ in the NKCC2 transporter",
+        "Ammonia secretion is independent of systemic acid‑base status",
+        "Ammonia generation contributes to new bicarbonate formation in the blood"
+      ],
+      "answer": 2,
+      "explanation": "Ammonia secretion is highly regulated by systemic acid‑base balance; acidosis markedly stimulates ammonia production, so the statement that it is independent is false.",
+      "topic": "Ammonia secretion"
+    },
+    {
+      "question": "Which substance is almost completely reabsorbed in the proximal convoluted tubule under normal physiological conditions?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Creatinine",
+        "Potassium"
+      ],
+      "answer": 0,
+      "explanation": "The PCT reabsorbs nearly 100% of filtered glucose via Na⁺‑glucose cotransporters, whereas urea, creatinine and potassium are only partially reabsorbed.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Approximately what percentage of the filtered sodium load is reabsorbed in the proximal convoluted tubule?",
+      "options": [
+        "25%",
+        "45%",
+        "65%",
+        "85%"
+      ],
+      "answer": 2,
+      "explanation": "About 65% of the filtered Na⁺ (and an equivalent amount of water) is reabsorbed in the PCT through both active and passive mechanisms.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "The primary mechanism for glucose reabsorption in the proximal convoluted tubule involves which transporter?",
+      "options": [
+        "Na⁺/glucose cotransporter (SGLT)",
+        "Na⁺/K⁺‑ATPase",
+        "Aquaporin‑1",
+        "H⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "Glucose is taken up from the lumen together with Na⁺ by the sodium‑glucose linked transporter (SGLT) located on the apical membrane of PCT cells.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Which of the following ions is secreted into the tubular lumen by the proximal convoluted tubule?",
+      "options": [
+        "Hydrogen ions",
+        "Bicarbonate ions",
+        "Sodium ions",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "The PCT secretes H⁺ into the lumen, which combines with filtered HCO₃⁻ to form carbonic acid; this is a key step in bicarbonate reclamation.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Reabsorption of bicarbonate in the proximal convoluted tubule is coupled to which process?",
+      "options": [
+        "Secretion of H⁺ into the lumen",
+        "Secretion of K⁺ into the lumen",
+        "Active transport of Na⁺",
+        "Passive diffusion of Cl⁻"
+      ],
+      "answer": 0,
+      "explanation": "Filtered HCO₃⁻ is regenerated after H⁺ secreted by the PCT combines with HCO₃⁻ to form H₂CO₃, which is then converted to CO₂ and H₂O; CO₂ diffuses back and is converted to HCO₃⁻ inside the cell for reabsorption.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Water reabsorption in the proximal convoluted tubule occurs primarily by which mechanism?",
+      "options": [
+        "Osmosis following solute reabsorption",
+        "Active transport of water molecules",
+        "Independently of solute movement",
+        "Only in the presence of antidiuretic hormone"
+      ],
+      "answer": 0,
+      "explanation": "Water follows the osmotic gradient created by the active reabsorption of solutes (Na⁺, glucose, amino acids) and moves passively through aquaporin‑1 channels.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Amino acids are reabsorbed in the proximal convoluted tubule mainly through which type of transport?",
+      "options": [
+        "Na⁺‑dependent cotransport",
+        "Na⁺‑independent diffusion",
+        "Primary active transport via ATPase",
+        "Facilitated diffusion"
+      ],
+      "answer": 0,
+      "explanation": "Amino acids are taken up from the lumen together with Na⁺ via Na⁺‑dependent cotransporters, allowing efficient reclamation of these valuable nutrients.",
+      "topic": "Role of PCT"
+    },
+    {
+      "question": "Which of the following best describes the primary role of the distal convoluted tubule (DCT) in urine formation?",
+      "options": [
+        "Bulk reabsorption of glucose and amino acids",
+        "Filtration of plasma from the glomerulus",
+        "Fine‑tuning of Na⁺ and Cl⁻ reabsorption under hormonal control",
+        "Secretion of urea into the tubular lumen"
+      ],
+      "answer": 2,
+      "explanation": "The DCT does not perform bulk reabsorption; its main function is to adjust the amounts of Na⁺ and Cl⁻ reabsorbed, a process modulated by hormones such as aldosterone and atrial natriuretic peptide.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Parathyroid hormone (PTH) influences the DCT by:",
+      "options": [
+        "Inhibiting Na⁺/K⁺‑ATPase activity",
+        "Stimulating active reabsorption of Ca²⁺",
+        "Increasing water permeability through aquaporins",
+        "Promoting secretion of H⁺ ions"
+      ],
+      "answer": 1,
+      "explanation": "PTH binds to receptors on DCT cells and activates mechanisms that increase active transport of calcium from the tubular fluid back into the blood, helping raise serum Ca²⁺ levels.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Aldosterone acts on the DCT to increase the reabsorption of which ion?",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Ca²⁺",
+        "Cl⁻"
+      ],
+      "answer": 0,
+      "explanation": "Aldosterone up‑regulates Na⁺ channels and Na⁺/K⁺‑ATPase in the DCT, enhancing Na⁺ reabsorption while promoting K⁺ secretion.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Which nephron segment is chiefly responsible for the secretion of H⁺ ions to maintain acid‑base balance?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "The DCT contains H⁺‑ATPase and H⁺/K⁺ exchangers that actively secrete hydrogen ions, playing a key role in urinary acidification.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Thiazide diuretics exert their effect by inhibiting which transporter located in the DCT?",
+      "options": [
+        "Na⁺/K⁺/2Cl⁻ cotransporter (NKCC2)",
+        "Na⁺/Cl⁻ symporter (NCC)",
+        "Na⁺/H⁺ exchanger (NHE3)",
+        "Aquaporin‑2 water channel"
+      ],
+      "answer": 1,
+      "explanation": "Thiazides block the Na⁺/Cl⁻ symporter (NCC) on the apical membrane of DCT cells, reducing NaCl reabsorption and promoting diuresis.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Reabsorption of which solute in the DCT occurs without accompanying water movement?",
+      "options": [
+        "Na⁺",
+        "Cl⁻",
+        "Glucose",
+        "Urea"
+      ],
+      "answer": 2,
+      "explanation": "Glucose is reabsorbed via active transport (SGLT) in the proximal tubule; in the DCT, glucose is not a major substrate, and any glucose reabsorbed would be iso‑osmotic, not driving water movement. The DCT is relatively impermeable to water, so solutes like Na⁺ and Cl⁻ are reabsorbed with limited water, but glucose reabsorption is negligible here, making it the correct choice for the question context.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "How does the DCT contribute to the generation of the medullary osmotic gradient?",
+      "options": [
+        "Active transport of NaCl into the interstitium",
+        "Passive diffusion of water from the lumen",
+        "Secretion of urea into the tubular fluid",
+        "Reabsorption of bicarbonate ions"
+      ],
+      "answer": 0,
+      "explanation": "Cells of the DCT actively pump Na⁺ and Cl⁻ into the surrounding interstitial fluid, adding solute to the medullary interstitium and helping maintain the osmotic gradient essential for urine concentration.",
+      "topic": "Role of DCT"
+    },
+    {
+      "question": "Which hormone primarily increases water permeability of the principal cells in the collecting duct?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone",
+        "Atrial natriuretic peptide (ANP)",
+        "Renin"
+      ],
+      "answer": 0,
+      "explanation": "ADH binds to V2 receptors on principal cells, causing insertion of aquaporin‑2 channels and markedly increasing water permeability.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "The ability of the collecting duct to reabsorb water under the influence of ADH depends mainly on which of the following?",
+      "options": [
+        "High osmolarity of the medullary interstitium",
+        "High plasma osmolarity",
+        "Low glomerular filtration rate",
+        "High tubular flow rate"
+      ],
+      "answer": 0,
+      "explanation": "A steep osmotic gradient in the renal medulla, established by the loop of Henle, drives water out of the duct when ADH makes it permeable.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "In the absence of ADH, the collecting duct is relatively impermeable to water. Consequently, the urine produced is:",
+      "options": [
+        "Hypertonic to plasma",
+        "Isotonic to plasma",
+        "Hypotonic to plasma",
+        "Identical in composition to glomerular filtrate"
+      ],
+      "answer": 2,
+      "explanation": "Without ADH, water cannot be reabsorbed in the duct, so the final urine remains dilute (hypotonic) compared with plasma.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "Which type of cell in the collecting duct secretes hydrogen ions to help maintain acid‑base balance?",
+      "options": [
+        "Principal cells",
+        "Alpha‑intercalated cells",
+        "Beta‑intercalated cells",
+        "Macula densa cells"
+      ],
+      "answer": 1,
+      "explanation": "Alpha‑intercalated cells contain H⁺‑ATPase pumps that secrete hydrogen ions into the tubular lumen, contributing to urinary acidification.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "Aldosterone acting on the collecting duct primarily increases reabsorption of which ion?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Chloride",
+        "Bicarbonate"
+      ],
+      "answer": 1,
+      "explanation": "Aldosterone stimulates Na⁺ channels and Na⁺/K⁺‑ATPase in principal cells, enhancing sodium reabsorption and potassium secretion.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "Urea recycling from the inner medullary collecting duct into the interstitium primarily serves to:",
+      "options": [
+        "Raise plasma urea concentration",
+        "Maintain the high osmolarity of the medullary interstitium",
+        "Stimulate ADH release",
+        "Promote potassium secretion"
+      ],
+      "answer": 1,
+      "explanation": "Reabsorbed urea adds solute to the medullary interstitium, reinforcing the osmotic gradient that allows water reabsorption from the duct.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "When ADH is present, the principal cells of the collecting duct reabsorb water, leading to:",
+      "options": [
+        "Increased urinary potassium excretion",
+        "Concentration of urine",
+        "Increased urinary glucose excretion",
+        "Decreased sodium reabsorption"
+      ],
+      "answer": 1,
+      "explanation": "ADH makes the duct permeable to water, so water is reabsorbed, concentrating the urine while solutes remain.",
+      "topic": "Role of collecting duct"
+    },
+    {
+      "question": "Which segment of the nephron is primarily responsible for establishing the medullary osmotic gradient essential for urine concentration?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Ascending limb of loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "The thick ascending limb actively reabsorbs NaCl without water, creating a high solute concentration in the medulla that drives water reabsorption from downstream segments.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "Antidiuretic hormone (ADH) exerts its main effect on water permeability of which nephron segment?",
+      "options": [
+        "Proximal tubule",
+        "Descending limb",
+        "Ascending limb",
+        "Collecting duct"
+      ],
+      "answer": 3,
+      "explanation": "ADH inserts aquaporin‑2 channels into the apical membrane of principal cells in the collecting duct, markedly increasing its water permeability.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "In the presence of maximal ADH secretion, the urine osmolality can approach:",
+      "options": [
+        "100 mOsm/kg",
+        "300 mOsm/kg",
+        "600 mOsm/kg",
+        "1200 mOsm/kg"
+      ],
+      "answer": 3,
+      "explanation": "With high ADH, the kidney can concentrate urine up to about 1200 mOsm/kg, close to the osmolality of the renal medullary interstitium.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "Why is the descending limb of the loop of Henle highly permeable to water but relatively impermeable to solutes?",
+      "options": [
+        "Presence of aquaporins and lack of Na⁺/K⁺ pumps",
+        "Presence of tight junctions and aquaporins",
+        "Presence of urea transporters",
+        "Absence of aquaporins and presence of Na⁺/K⁺ pumps"
+      ],
+      "answer": 0,
+      "explanation": "The descending limb expresses many aquaporin‑1 channels allowing water exit, while it lacks active Na⁺/K⁺ pumps, so solutes are not reabsorbed appreciably.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "Urea recycling contributes to the concentration of urine by:",
+      "options": [
+        "Increasing water reabsorption in the proximal tubule",
+        "Raising interstitial osmolarity in the inner medulla",
+        "Decreasing NaCl reabsorption in the thick ascending limb",
+        "Inhibiting ADH release"
+      ],
+      "answer": 1,
+      "explanation": "Urea diffuses from the inner medullary collecting duct into the interstitium and back into the thin ascending limb, adding to the osmotic gradient that draws water out of the descending limb.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "A patient who cannot concentrate urine despite normal kidney structure most likely has which disorder?",
+      "options": [
+        "Diabetes insipidus",
+        "Syndrome of inappropriate ADH secretion (SIADH)",
+        "Hyperaldosteronism",
+        "Renal tubular acidosis"
+      ],
+      "answer": 0,
+      "explanation": "Central or nephrogenic diabetes insipidus results in deficient ADH action, preventing water reabsorption in the collecting duct and leading to dilute urine.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "The counter‑current multiplication mechanism that creates the corticomedullary osmotic gradient occurs mainly in:",
+      "options": [
+        "Proximal tubule",
+        "Loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 1,
+      "explanation": "Active NaCl transport out of the thick ascending limb combined with passive water loss from the descending limb establishes a gradient via counter‑current multiplication.",
+      "topic": "Concentration of urine"
+    },
+    {
+      "question": "Which solute is present in the highest concentration in normal urine?",
+      "options": [
+        "Urea",
+        "Creatinine",
+        "Uric acid",
+        "Sodium chloride"
+      ],
+      "answer": 0,
+      "explanation": "Urea is the most abundant nitrogenous waste in normal urine, constituting about 2% of its volume, whereas creatinine, uric acid and electrolytes are present in lower amounts.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "What is the usual pH range of normal human urine?",
+      "options": [
+        "4.5-5.5",
+        "5.5-6.5",
+        "6.5-7.5",
+        "7.5-8.5"
+      ],
+      "answer": 1,
+      "explanation": "Normal urine is slightly acidic, with a pH that typically lies between 5.5 and 6.5.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "Approximately what percentage of normal urine is water?",
+      "options": [
+        "85%",
+        "90%",
+        "95%",
+        "99%"
+      ],
+      "answer": 2,
+      "explanation": "About 95% of normal urine is water; the remaining 5% consists of dissolved solutes such as urea, electrolytes, and metabolic wastes.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "Which of the following substances is normally absent or present only in trace amounts in healthy urine?",
+      "options": [
+        "Glucose",
+        "Urea",
+        "Sodium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "In normal physiology, glucose is completely reabsorbed in the proximal tubule, so it is absent or only trace in urine; the other solutes are routinely excreted.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "The typical concentration of creatinine in normal urine is:",
+      "options": [
+        "0.5-1.5 mg/dL",
+        "1.5-3.0 mg/dL",
+        "3.0-5.0 mg/dL",
+        "5.0-7.0 mg/dL"
+      ],
+      "answer": 0,
+      "explanation": "Creatinine excretion in healthy individuals usually falls between 0.5 and 1.5 mg per deciliter of urine.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "Which electrolyte is excreted in the greatest amount in normal urine?",
+      "options": [
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "answer": 0,
+      "explanation": "Sodium is the major cation eliminated in urine, with its excretion exceeding that of potassium, calcium, and magnesium.",
+      "topic": "Composition of normal urine"
+    },
+    {
+      "question": "The specific gravity of normal urine most commonly lies within:",
+      "options": [
+        "1.001-1.005",
+        "1.010-1.030",
+        "1.035-1.045",
+        "1.050-1.060"
+      ],
+      "answer": 1,
+      "explanation": "Normal urine specific gravity ranges from about 1.010 to 1.030, reflecting its solute concentration relative to water.",
+      "topic": "Composition of normal urine"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 27,
+    "mcqCount": 186
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appName": "Vidhwaan NEET",
+  "tagline": "365-Day NEET Preparation",
+  "language": "en",
+  "defaultLanguage": "en",
+  "supportedLanguages": [
+    "en"
+  ],
+  "totalDays": 365,
+  "programStartDateIST": "2026-08-30",
+  "dailyGenerationHourIST": 1,
+  "dailyActivationHourIST": 6,
+  "contentDirectory": "data/days",
+  "liveContent": true,
+  "cacheContent": false,
+  "version": "1.0.0",
+  "releaseStartDate": "2026-08-30",
+  "timezone": "Asia/Kolkata",
+  "generationTime": "01:00",
+  "releaseTime": "06:00",
+  "courseStartDate": "2026-08-30",
+  "publishTime": "06:00"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vidhwaan-neet",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate:syllabus": "node scripts/validate-syllabus.mjs",
+    "dev": "python3 -m http.server 8080 -d public",
+    "start": "python3 -m http.server 8080 -d public",
+    "generate:day": "node generator/generate-day.js",
+    "validate": "node scripts/validate-syllabus.mjs"
+  }
+}

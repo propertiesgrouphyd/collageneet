@@ -1,0 +1,2893 @@
+{
+  "day": 73,
+  "courseDate": "2026-11-10",
+  "publishAt": "2026-11-10T06:00:00+05:30",
+  "title": "Day 73: Osmoregulation, Hormonal Control and Excretory Disorders",
+  "introduction": "This lesson integrates the mechanisms that maintain body fluid homeostasis, the hormonal regulators of renal function, and common renal pathologies relevant to NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Osmoregulation",
+      "heading": "Fundamentals of Osmoregulation",
+      "content": "Osmoregulation is the process by which organisms maintain plasma osmolality within narrow limits (~285‑295 mOsm kg⁻¹). It involves coordinated actions of the hypothalamus, kidneys, and endocrine hormones to balance water intake and loss.",
+      "keyPoints": [
+        "Plasma osmolality is tightly regulated to protect cellular function",
+        "Kidney nephrons adjust water reabsorption in response to hormonal signals"
+      ],
+      "neetTips": [
+        "Remember the normal plasma osmolality range for quick recall"
+      ]
+    },
+    {
+      "topic": "Water balance",
+      "heading": "Components of Water Balance",
+      "content": "Water balance is the net difference between water intake (drinks, metabolic water, food) and water loss (urine, feces, sweat, respiration). The kidneys excrete ~1‑2 L/day, fine‑tuned by ADH and natriuretic peptides.",
+      "keyPoints": [
+        "Intake sources: oral, metabolic, food",
+        "Loss routes: renal, insensible, fecal"
+      ],
+      "neetTips": [
+        "Link high urine output to low ADH states"
+      ]
+    },
+    {
+      "topic": "Osmotic concentration of body fluids",
+      "heading": "Determinants of Osmotic Concentration",
+      "content": "Osmotic concentration depends on solutes such as Na⁺, Cl⁻, glucose, urea. Sodium is the principal extracellular osmole; its concentration largely dictates plasma osmolality.",
+      "keyPoints": [
+        "Na⁺ contributes ~90 % of extracellular osmoles",
+        "Hyper‑osmolar states raise plasma osmolality, stimulating ADH release"
+      ],
+      "neetTips": [
+        "Associate hypernatremia with increased thirst and ADH secretion"
+      ]
+    },
+    {
+      "topic": "Role of hypothalamus",
+      "heading": "Hypothalamic Control of Osmoregulation",
+      "content": "The hypothalamus houses osmoreceptors in the supraoptic and paraventricular nuclei. It detects plasma osmolality changes and modulates ADH synthesis and release from the posterior pituitary.",
+      "keyPoints": [
+        "Supraoptic nucleus synthesizes ADH",
+        "Hypothalamic osmoreceptors are sensitive to 1‑2 % changes in osmolality"
+      ],
+      "neetTips": [
+        "Link hypothalamic lesions to diabetes insipidus"
+      ]
+    },
+    {
+      "topic": "Osmoreceptors",
+      "heading": "Function of Osmoreceptors",
+      "content": "Osmoreceptors are specialized neurons that shrink or swell with plasma osmolality shifts, altering their firing rate to regulate ADH secretion.",
+      "keyPoints": [
+        "Cell shrinkage → increased firing → ADH release",
+        "Cell swelling → decreased firing → ADH inhibition"
+      ],
+      "neetTips": [
+        "Visualise osmoreceptor response as a volume‑sensor"
+      ]
+    },
+    {
+      "topic": "Antidiuretic hormone",
+      "heading": "Antidiuretic Hormone (ADH) Overview",
+      "content": "ADH, also called vasopressin, is a peptide hormone (9‑aa) that promotes water reabsorption in the collecting ducts by inserting aquaporin‑2 channels.",
+      "keyPoints": [
+        "ADH is synthesized in hypothalamic nuclei",
+        "Stored in posterior pituitary for rapid release"
+      ],
+      "neetTips": [
+        "Remember ADH = vasopressin = water‑conserving hormone"
+      ]
+    },
+    {
+      "topic": "ADH",
+      "heading": "Biochemistry and Regulation of ADH",
+      "content": "ADH release is stimulated by increased plasma osmolality and decreased blood volume/pressure. It acts via V2 receptors (cAMP pathway) to increase aquaporin‑2 expression.",
+      "keyPoints": [
+        "V2 receptor activation → ↑cAMP → AQP2 insertion",
+        "Low osmolality suppresses ADH"
+      ],
+      "neetTips": [
+        "Link V2 receptor agonists to treatment of central diabetes insipidus"
+      ]
+    },
+    {
+      "topic": "Role of ADH in kidney",
+      "heading": "ADH Action in Nephron Segments",
+      "content": "ADH acts primarily on the principal cells of the cortical and medullary collecting ducts, making them permeable to water, allowing osmotic water reabsorption into the interstitium.",
+      "keyPoints": [
+        "Collecting duct is the final site of water regulation",
+        "ADH effect is maximal in the medullary portion"
+      ],
+      "neetTips": [
+        "High ADH → concentrated urine; low ADH → dilute urine"
+      ]
+    },
+    {
+      "topic": "Water reabsorption",
+      "heading": "Mechanism of Water Reabsorption",
+      "content": "Water follows the osmotic gradient created by NaCl reabsorption in the loop of Henle. ADH‑mediated aquaporin‑2 channels permit transcellular water movement back to the circulation.",
+      "keyPoints": [
+        "Counter‑current multiplier creates medullary gradient",
+        "Aquaporin‑2 channels are regulated by ADH"
+      ],
+      "neetTips": [
+        "Remember the sequence: NaCl reabsorption → gradient → water follows"
+      ]
+    },
+    {
+      "topic": "Diuresis",
+      "heading": "Physiology of Diuresis",
+      "content": "Diuresis is increased urine output resulting from reduced ADH, increased atrial natriuretic factor, or osmotic diuretics. It lowers plasma volume and osmolality.",
+      "keyPoints": [
+        "Low ADH → decreased water reabsorption",
+        "ANF promotes natriuresis and diuresis"
+      ],
+      "neetTips": [
+        "Distinguish osmotic diuresis (glucose) from water diuresis (low ADH)"
+      ]
+    },
+    {
+      "topic": "Renin-angiotensin system",
+      "heading": "Renin‑Angiotensin‑Aldosterone System (RAAS) Overview",
+      "content": "RAAS is a hormonal cascade that restores blood pressure and volume. Renin cleaves angiotensinogen to Ang I; ACE converts Ang I to Ang II, which stimulates aldosterone release.",
+      "keyPoints": [
+        "Renin release triggered by ↓BP, ↓NaCl at macula densa, sympathetic β1"
+      ],
+      "neetTips": [
+        "RAAS activation → vasoconstriction + Na⁺ retention"
+      ]
+    },
+    {
+      "topic": "Renin",
+      "heading": "Renin Secretion and Action",
+      "content": "Renin, an aspartyl protease from juxtaglomerular cells, initiates the cascade by generating Ang I. Its release is modulated by baroreceptors, macula densa NaCl sensing, and β‑adrenergic input.",
+      "keyPoints": [
+        "Macula densa detects ↓NaCl → ↑renin"
+      ],
+      "neetTips": [
+        "Renin is the rate‑limiting step of RAAS"
+      ]
+    },
+    {
+      "topic": "Angiotensin",
+      "heading": "Angiotensin I and II Functions",
+      "content": "Ang I is inactive; ACE on pulmonary endothelium converts it to Ang II, a potent vasoconstrictor that also stimulates aldosterone, ADH, and thirst centers.",
+      "keyPoints": [
+        "Ang II ↑ systemic vascular resistance",
+        "Ang II stimulates ADH release"
+      ],
+      "neetTips": [
+        "ACE inhibitors block Ang II formation – key therapeutic point"
+      ]
+    },
+    {
+      "topic": "Aldosterone",
+      "heading": "Aldosterone Mechanism of Action",
+      "content": "Aldosterone, a mineralocorticoid from the adrenal cortex, binds intracellular receptors in distal tubule and collecting duct cells, enhancing Na⁺ reabsorption and K⁺/H⁺ secretion.",
+      "keyPoints": [
+        "Increases ENaC and Na⁺/K⁺‑ATPase activity"
+      ],
+      "neetTips": [
+        "Aldosterone excess → hypertension, hypokalemia"
+      ]
+    },
+    {
+      "topic": "Role of adrenal cortex",
+      "heading": "Adrenal Cortex in Fluid Homeostasis",
+      "content": "The zona glomerulosa synthesizes aldosterone under Ang II and K⁺ stimulation. This hormone completes the RAAS loop by conserving Na⁺ and water, raising extracellular volume.",
+      "keyPoints": [
+        "Zona glomerulosa is the mineralocorticoid zone"
+      ],
+      "neetTips": [
+        "Link high K⁺ to aldosterone secretion"
+      ]
+    },
+    {
+      "topic": "Atrial natriuretic factor",
+      "heading": "ANF Production and Release",
+      "content": "ANF is a peptide hormone released from atrial myocytes in response to atrial stretch (↑blood volume). It promotes natriuresis, diuresis, and vasodilation.",
+      "keyPoints": [
+        "ANF antagonizes RAAS"
+      ],
+      "neetTips": [
+        "ANF rise → ↓BP, ↓Na⁺ reabsorption"
+      ]
+    },
+    {
+      "topic": "ANF",
+      "heading": "Physiological Actions of ANF",
+      "content": "ANF increases glomerular filtration rate by dilating afferent arterioles, constricts efferent arterioles, and inhibits renin release, thereby reducing Ang II and aldosterone levels.",
+      "keyPoints": [
+        "Inhibits renin → ↓RAAS activity"
+      ],
+      "neetTips": [
+        "Remember ANF’s three actions: natriuresis, vasodilation, renin inhibition"
+      ]
+    },
+    {
+      "topic": "Regulation of blood pressure by kidney",
+      "heading": "Kidney‑Mediated Blood Pressure Control",
+      "content": "The kidney regulates BP via GFR adjustments, RAAS, and ANF. Alterations in Na⁺ balance directly affect extracellular fluid volume, influencing arterial pressure.",
+      "keyPoints": [
+        "Pressure‑natriuresis curve links BP to Na⁺ excretion"
+      ],
+      "neetTips": [
+        "High BP → pressure natriuresis → increased Na⁺ excretion"
+      ]
+    },
+    {
+      "topic": "Micturition",
+      "heading": "Overview of Micturition Process",
+      "content": "Micturition is the coordinated emptying of the urinary bladder involving detrusor muscle contraction and urethral sphincter relaxation, controlled by autonomic and somatic nerves.",
+      "keyPoints": [
+        "Detrusor muscle is smooth muscle"
+      ],
+      "neetTips": [
+        "Distinguish storage (sympathetic) vs voiding (parasympathetic) phases"
+      ]
+    },
+    {
+      "topic": "Micturition reflex",
+      "heading": "Neural Pathways of Micturition Reflex",
+      "content": "Afferent stretch receptors in the bladder wall send signals to the sacral spinal cord. The pontine micturition center integrates voluntary control, triggering parasympathetic efferents to contract detrusor and relax sphincter.",
+      "keyPoints": [
+        "Pontine micturition center provides conscious control"
+      ],
+      "neetTips": [
+        "Lesion in sacral cord → neurogenic bladder"
+      ]
+    },
+    {
+      "topic": "Kidney disorders",
+      "heading": "Classification of Renal Disorders",
+      "content": "Kidney disorders are broadly categorized into functional (e.g., failure, uraemia) and structural (e.g., calculi, glomerulonephritis). They disrupt filtration, reabsorption, and excretion processes.",
+      "keyPoints": [
+        "Functional disorders affect GFR"
+      ],
+      "neetTips": [
+        "Link clinical signs to specific disorder types"
+      ]
+    },
+    {
+      "topic": "Uraemia",
+      "heading": "Pathophysiology of Uraemia",
+      "content": "Uraemia results from accumulation of nitrogenous wastes (urea, creatinine) due to severe reduction in GFR (<15 mL/min). It manifests as nausea, pericarditis, and altered mental status.",
+      "keyPoints": [
+        "GFR <15 mL/min defines end‑stage renal disease"
+      ],
+      "neetTips": [
+        "Remember urea and creatinine as key laboratory markers"
+      ]
+    },
+    {
+      "topic": "Renal failure",
+      "heading": "Acute vs Chronic Renal Failure",
+      "content": "Acute renal failure (ARF) is a rapid decline in kidney function, often reversible. Chronic renal failure (CRF) progresses over months‑years, leading to irreversible loss of nephrons and uraemia.",
+      "keyPoints": [
+        "ARF: oliguria, recent insult; CRF: gradual GFR decline"
+      ],
+      "neetTips": [
+        "Distinguish prerenal, intrinsic, postrenal causes"
+      ]
+    },
+    {
+      "topic": "Renal calculi",
+      "heading": "Formation of Renal Calculi",
+      "content": "Renal calculi (kidney stones) form when supersaturation of solutes (Ca²⁺, oxalate, uric acid, cystine) leads to crystal nucleation, growth, and aggregation within the renal pelvis.",
+      "keyPoints": [
+        "Calcium oxalate is the most common type"
+      ],
+      "neetTips": [
+        "Low fluid intake ↑ stone risk"
+      ]
+    },
+    {
+      "topic": "Kidney stones",
+      "heading": "Clinical Presentation and Management",
+      "content": "Kidney stones cause colicky flank pain, hematuria, and possible obstruction. Management includes hydration, analgesia, lithotripsy, or surgical removal depending on size and location.",
+      "keyPoints": [
+        "Stones >5 mm often need intervention"
+      ],
+      "neetTips": [
+        "CT KUB is the imaging modality of choice"
+      ]
+    },
+    {
+      "topic": "Glomerulonephritis",
+      "heading": "Immunopathology of Glomerulonephritis",
+      "content": "Glomerulonephritis involves inflammation of glomerular capillaries due to immune complex deposition or anti‑GBM antibodies, leading to hematuria, proteinuria, and reduced GFR.",
+      "keyPoints": [
+        "Post‑streptococcal GN is a classic example"
+      ],
+      "neetTips": [
+        "Low complement levels suggest immune‑complex GN"
+      ]
+    },
+    {
+      "topic": "Dialysis",
+      "heading": "Principles of Dialysis Therapy",
+      "content": "Dialysis artificially removes waste solutes and excess fluid from blood using a semipermeable membrane, exploiting diffusion and ultrafiltration gradients.",
+      "keyPoints": [
+        "Two main types: haemodialysis and peritoneal dialysis"
+      ],
+      "neetTips": [
+        "Dialysis does not replace endocrine functions of kidney"
+      ]
+    },
+    {
+      "topic": "Haemodialysis",
+      "heading": "Haemodialysis Procedure",
+      "content": "In haemodialysis, blood is pumped through an external dialyzer where diffusion removes urea, creatinine, and electrolytes; ultrafiltration removes excess water under controlled pressure.",
+      "keyPoints": [
+        "Typical session: 3‑4 h, thrice weekly"
+      ],
+      "neetTips": [
+        "Heparin is used to prevent clotting in the circuit"
+      ]
+    },
+    {
+      "topic": "Artificial kidney",
+      "heading": "Artificial Kidney (Dialyzer) Design",
+      "content": "The artificial kidney consists of hollow‑fiber membranes providing a large surface area for solute exchange, mimicking glomerular filtration but lacking selective reabsorption.",
+      "keyPoints": [
+        "Membrane material determines biocompatibility"
+      ],
+      "neetTips": [
+        "High‑flux membranes improve middle‑molecule clearance"
+      ]
+    },
+    {
+      "topic": "Kidney transplantation",
+      "heading": "Kidney Transplantation Overview",
+      "content": "Kidney transplantation replaces a failed organ with a donor kidney, restoring filtration, endocrine, and regulatory functions. Immunosuppression (calcineurin inhibitors, steroids) prevents rejection.",
+      "keyPoints": [
+        "Living‑related donors have better outcomes"
+      ],
+      "neetTips": [
+        "Monitor for acute rejection signs: rising creatinine, oliguria"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand the important NEET concepts, facts, and applications covered in Osmoregulation, Hormonal Control and Excretory Disorders."
+  ],
+  "mcqs": [
+    {
+      "question": "Which part of the nephron is the primary site where antidiuretic hormone (ADH) increases water permeability?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Collecting duct",
+        "Ascending limb of loop of Henle"
+      ],
+      "answer": 2,
+      "explanation": "ADH binds to V2 receptors on the principal cells of the collecting duct, causing insertion of aquaporin‑2 channels and increased water reabsorption.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "Osmoreceptors in the hypothalamus detect an increase in which plasma ion concentration to stimulate ADH release?",
+      "options": [
+        "Sodium (Na+)",
+        "Potassium (K+)",
+        "Calcium (Ca2+)",
+        "Chloride (Cl-)"
+      ],
+      "answer": 0,
+      "explanation": "A rise in plasma Na+ concentration raises extracellular osmolality, which is sensed by hypothalamic osmoreceptors, leading to ADH secretion.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "A patient with central diabetes insipidus is most likely to present with which urinary finding?",
+      "options": [
+        "Decreased urine volume",
+        "Increased urine osmolality",
+        "Polyuria with dilute urine",
+        "Hypernatremia due to water retention"
+      ],
+      "answer": 2,
+      "explanation": "Lack of ADH results in inability to concentrate urine, producing large volumes of dilute urine (polyuria).",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "Which hormone antagonizes the renal actions of ADH, promoting water excretion?",
+      "options": [
+        "Aldosterone",
+        "Atrial natriuretic factor (ANF)",
+        "Renin",
+        "Angiotensin II"
+      ],
+      "answer": 1,
+      "explanation": "ANF reduces water reabsorption by decreasing aquaporin insertion in the collecting duct, counteracting ADH effects.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "During dehydration, which renal tubular change contributes most to water conservation?",
+      "options": [
+        "Increased water reabsorption in the proximal tubule",
+        "Decreased aquaporin insertion in the collecting duct",
+        "Increased urea recycling in the medullary loop",
+        "Decreased Na+ reabsorption in the distal tubule"
+      ],
+      "answer": 0,
+      "explanation": "Sympathetic stimulation and elevated ADH enhance Na+ and water reabsorption in the proximal tubule, aiding water conservation.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "How does the renin‑angiotensin‑aldosterone system (RAAS) aid osmoregulation?",
+      "options": [
+        "It directly increases water permeability of collecting ducts",
+        "It stimulates the thirst center in the hypothalamus",
+        "It promotes Na+ reabsorption leading to water retention",
+        "It causes vasodilation of afferent arterioles"
+      ],
+      "answer": 2,
+      "explanation": "Angiotensin II stimulates aldosterone release, which enhances Na+ (and consequently water) reabsorption in the distal nephron, helping to restore plasma volume and osmolality.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "A drug that blocks V2 receptors of ADH is administered to a patient with high plasma osmolality. What is the expected renal response?",
+      "options": [
+        "Decreased urine volume",
+        "Increased urine osmolality",
+        "Increased urine volume with low osmolality",
+        "Increased Na+ excretion without water loss"
+      ],
+      "answer": 2,
+      "explanation": "V2‑receptor blockade prevents aquaporin insertion, so the kidney cannot concentrate urine, leading to a larger volume of dilute urine.",
+      "topic": "Osmoregulation"
+    },
+    {
+      "question": "Which of the following statements best describes the primary determinant of water movement across the renal tubule epithelium?",
+      "options": [
+        "Active transport of Na⁺ creates an osmotic gradient that drives water reabsorption",
+        "Water follows glucose reabsorption irrespective of solute gradients",
+        "Aquaporin channels are regulated solely by aldosterone",
+        "Water movement is independent of solute transport"
+      ],
+      "answer": 0,
+      "explanation": "Water follows the osmotic gradient generated mainly by active Na⁺ reabsorption; this gradient pulls water through aquaporins in the tubular epithelium.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "In a person with normal ADH levels, which segment of the nephron is most permeable to water?",
+      "options": [
+        "Descending limb of the loop of Henle",
+        "Proximal convoluted tubule",
+        "Thick ascending limb of the loop of Henle",
+        "Distal convoluted tubule"
+      ],
+      "answer": 0,
+      "explanation": "The descending limb has high water permeability due to abundant aquaporin channels, allowing water to exit passively while solutes remain.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "During dehydration, plasma osmolality rises to 310 mOsm/kg. Which physiological response is most immediate to restore water balance?",
+      "options": [
+        "Increased thirst sensation",
+        "Increased ADH secretion from posterior pituitary",
+        "Activation of the renin‑angiotensin system",
+        "Increased atrial natriuretic factor release"
+      ],
+      "answer": 1,
+      "explanation": "A rise in plasma osmolality is sensed by hypothalamic osmoreceptors, which promptly stimulate ADH release to promote water reabsorption.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "Which of the following best explains why urine becomes more concentrated during antidiuretic hormone action?",
+      "options": [
+        "Increased water reabsorption in the collecting ducts",
+        "Increased Na⁺ excretion in the distal tubule",
+        "Decreased urea recycling in the medulla",
+        "Increased glomerular filtration rate"
+      ],
+      "answer": 0,
+      "explanation": "ADH inserts aquaporin‑2 channels into the collecting‑duct epithelium, markedly increasing water permeability and allowing water to be reabsorbed, concentrating the urine.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "A subject drinks 2 L of pure water rapidly. Which change occurs in plasma osmolality and ADH secretion?",
+      "options": [
+        "Plasma osmolality decreases and ADH secretion is suppressed",
+        "Plasma osmolality remains unchanged and ADH secretion is unchanged",
+        "Plasma osmolality increases and ADH secretion rises",
+        "Plasma osmolality decreases but ADH secretion rises"
+      ],
+      "answer": 0,
+      "explanation": "Ingestion of hypotonic water lowers plasma osmolality; hypothalamic osmoreceptors inhibit ADH release, reducing water reabsorption.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "Which of the following best describes the role of the hypothalamic osmoreceptors in water balance?",
+      "options": [
+        "They detect changes in plasma volume and stimulate thirst",
+        "They sense plasma osmolality and regulate ADH release",
+        "They monitor blood pressure and release ANF",
+        "They control renin secretion from juxtaglomerular cells"
+      ],
+      "answer": 1,
+      "explanation": "Hypothalamic osmoreceptors respond to plasma osmolality; an increase triggers ADH release, while a decrease inhibits it, thereby adjusting water reabsorption.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "In a person with diabetes insipidus, which of the following abnormalities is expected?",
+      "options": [
+        "Low plasma osmolality",
+        "High urine osmolality",
+        "Inability to concentrate urine despite normal ADH levels",
+        "Excessive ADH secretion"
+      ],
+      "answer": 2,
+      "explanation": "Diabetes insipidus is characterized by deficient ADH action, leading to the excretion of large volumes of dilute urine; the kidneys cannot concentrate urine.",
+      "topic": "Water balance"
+    },
+    {
+      "question": "What is the normal range of plasma osmolarity in a healthy adult?",
+      "options": [
+        "285 mOsm/kg",
+        "300 mOsm/kg",
+        "315 mOsm/kg",
+        "340 mOsm/kg"
+      ],
+      "answer": 0,
+      "explanation": "Normal plasma osmolarity is approximately 285–295 mOsm/kg, which maintains water balance between body compartments.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Which solute contributes the greatest proportion to the osmotic concentration of extracellular fluid?",
+      "options": [
+        "Sodium ions (Na⁺)",
+        "Potassium ions (K⁺)",
+        "Glucose",
+        "Urea"
+      ],
+      "answer": 0,
+      "explanation": "Na⁺ together with its anions accounts for about 90 % of the extracellular osmolarity; other solutes are present in much lower concentrations.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "In hypernatremia, the extracellular fluid becomes ______ relative to the intracellular fluid.",
+      "options": [
+        "hypertonic",
+        "hypotonic",
+        "isotonic",
+        "iso‑osmotic"
+      ],
+      "answer": 0,
+      "explanation": "Elevated Na⁺ raises extracellular osmolarity, making it hypertonic compared with the intracellular compartment, causing water to shift out of cells.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Calculate the approximate plasma osmolarity (mOsm/kg) for a plasma containing 140 mM Na⁺, 5 mM K⁺, 1 mM glucose and 5 mM urea (assume complete dissociation of Na⁺ and K⁺).",
+      "options": [
+        "286",
+        "296",
+        "306",
+        "316"
+      ],
+      "answer": 1,
+      "explanation": "Osmolarity ≈2[Na⁺+K⁺]+glucose+urea =2(140+5)+1+5 = 290+1+5 = 296 mOsm/kg.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Which condition is most likely to cause a decrease in plasma osmolarity?",
+      "options": [
+        "Dehydration",
+        "Diabetes insipidus",
+        "Excess water intake",
+        "Hypernatremia"
+      ],
+      "answer": 2,
+      "explanation": "Ingesting large volumes of water dilutes plasma solutes, lowering osmolarity; the other conditions raise or do not change it.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Osmoreceptors located in the hypothalamus primarily monitor changes in:",
+      "options": [
+        "Plasma osmolarity",
+        "Blood pressure",
+        "Plasma glucose concentration",
+        "Plasma calcium levels"
+      ],
+      "answer": 0,
+      "explanation": "Hypothalamic osmoreceptors are sensitive to minute changes in plasma osmolarity and trigger ADH release accordingly.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Which statement about isotonic intravenous fluids is correct?",
+      "options": [
+        "They have lower osmolarity than plasma",
+        "They have the same osmolarity as plasma",
+        "They have higher osmolarity than plasma",
+        "They contain no electrolytes"
+      ],
+      "answer": 1,
+      "explanation": "Isotonic IV solutions are formulated to match plasma osmolarity (~285 mOsm/kg) so they do not cause net water movement across cell membranes.",
+      "topic": "Osmotic concentration of body fluids"
+    },
+    {
+      "question": "Which hypothalamic nucleus is primarily responsible for the synthesis of antidiuretic hormone (ADH)?",
+      "options": [
+        "Supraoptic nucleus",
+        "Paraventricular nucleus",
+        "Anterior hypothalamic area",
+        "Lateral hypothalamic area"
+      ],
+      "answer": 0,
+      "explanation": "ADH (vasopressin) is synthesized in magnocellular neurons of the supraoptic nucleus and then transported to the posterior pituitary for release.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "The specialized circumventricular organ that contains osmoreceptors detecting changes in plasma osmolality is:",
+      "options": [
+        "Median preoptic nucleus",
+        "Organum vasculosum of the lamina terminalis (OVLT)",
+        "Suprachiasmatic nucleus",
+        "Mammillary bodies"
+      ],
+      "answer": 1,
+      "explanation": "The OVLT lacks a blood‑brain barrier and houses osmoreceptive cells that sense plasma osmolality, relaying the information to hypothalamic nuclei controlling ADH and thirst.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "An acute rise in plasma osmolality most directly triggers which response mediated by the hypothalamus?",
+      "options": [
+        "Increased secretion of ADH",
+        "Decreased secretion of ADH",
+        "Increased secretion of aldosterone",
+        "Suppression of thirst sensation"
+      ],
+      "answer": 0,
+      "explanation": "Higher plasma osmolality stimulates osmoreceptors, leading to activation of supraoptic neurons and enhanced ADH release to promote water reabsorption.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "A lesion confined to the supraoptic nucleus would most likely produce which clinical picture?",
+      "options": [
+        "Central diabetes insipidus",
+        "Syndrome of inappropriate ADH secretion (SIADH)",
+        "Cushing's disease",
+        "Primary hyperaldosteronism"
+      ],
+      "answer": 0,
+      "explanation": "Destruction of ADH‑producing neurons in the supraoptic nucleus eliminates ADH release, resulting in polyuria and polydipsia characteristic of central diabetes insipidus.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "Which hormone is released from hypothalamic neurons directly into the posterior pituitary for storage and later secretion?",
+      "options": [
+        "Antidiuretic hormone (ADH)",
+        "Adrenocorticotropic hormone (ACTH)",
+        "Thyroid‑stimulating hormone (TSH)",
+        "Luteinizing hormone (LH)"
+      ],
+      "answer": 0,
+      "explanation": "ADH and oxytocin are synthesized in hypothalamic magnocellular neurons and transported down axons to the posterior pituitary, where they are stored and released into the bloodstream.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "Which hypothalamic region integrates osmotic information to generate the conscious sensation of thirst?",
+      "options": [
+        "Lateral hypothalamic area",
+        "Median preoptic nucleus",
+        "Posterior pituitary",
+        "Suprachiasmatic nucleus"
+      ],
+      "answer": 1,
+      "explanation": "The median preoptic nucleus receives input from osmoreceptors and is crucial for initiating thirst when plasma osmolality rises.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "During dehydration, the hypothalamic stimulation of ADH release occurs primarily through:",
+      "options": [
+        "Direct osmotic activation of supraoptic neurons",
+        "Baroreceptor‑mediated increase in plasma volume",
+        "Decrease in plasma sodium concentration",
+        "Exclusive activation of the renin‑angiotensin system"
+      ],
+      "answer": 0,
+      "explanation": "Elevated plasma osmolality directly depolarizes magnocellular neurons of the supraoptic nucleus, causing rapid ADH release independent of baroreceptor or renin‑angiotensin inputs.",
+      "topic": "Role of hypothalamus"
+    },
+    {
+      "question": "Where are the primary osmoreceptors that detect changes in plasma osmolality located?",
+      "options": [
+        "Anterior hypothalamus (supraoptic nucleus)",
+        "Posterior pituitary gland",
+        "Organum vasculosum of lamina terminalis (OVLT)",
+        "Substantia nigra"
+      ],
+      "answer": 2,
+      "explanation": "The organum vasculosum of lamina terminalis (OVLT), a circumventricular organ lacking a blood‑brain barrier, contains the main osmoreceptive neurons that monitor plasma osmolality.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "How do hypothalamic osmoreceptive neurons become activated when plasma osmolality rises?",
+      "options": [
+        "Cell swelling opens potassium channels causing hyperpolarization",
+        "Cell shrinkage opens stretch‑activated sodium channels leading to depolarization",
+        "Increased intracellular calcium directly inhibits firing",
+        "Reduced ATP production triggers action potentials"
+      ],
+      "answer": 1,
+      "explanation": "Hyperosmolar plasma draws water out of the neuron, causing cell shrinkage; this mechanically opens stretch‑activated Na⁺ channels, depolarizing the cell and increasing its firing rate.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "A lesion of the hypothalamic osmoreceptors would most likely produce which effect on antidiuretic hormone (ADH) secretion?",
+      "options": [
+        "Excessive ADH release irrespective of osmolality",
+        "Absence of ADH release even when plasma osmolality is high",
+        "Normal ADH release but loss of thirst sensation",
+        "Increased ADH release only during hypovolemia"
+      ],
+      "answer": 1,
+      "explanation": "Without functional osmoreceptors, the brain cannot sense hyperosmolarity, so the stimulus for ADH release is lost, leading to little or no ADH secretion despite high plasma osmolality.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "Which statement correctly describes the adaptability of osmoreceptor sensitivity?",
+      "options": [
+        "Sensitivity decreases after chronic dehydration",
+        "Sensitivity remains unchanged by chronic hypernatremia",
+        "Sensitivity can be reset by prolonged alterations in plasma osmolality",
+        "Sensitivity is independent of any hormonal influences"
+      ],
+      "answer": 2,
+      "explanation": "Osmoreceptors can undergo a reset; prolonged high or low plasma osmolality shifts their threshold, allowing the body to adapt to new osmotic conditions.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "Osmoreceptors are best classified as which type of sensory receptors?",
+      "options": [
+        "Chemoreceptors",
+        "Mechanoreceptors",
+        "Thermoreceptors",
+        "Photoreceptors"
+      ],
+      "answer": 1,
+      "explanation": "Osmoreceptors respond to mechanical stretch of the neuronal membrane caused by osmotic water movement, fitting the definition of mechanoreceptors.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "Which ion channel primarily mediates depolarization of hypothalamic osmoreceptive neurons during hyperosmotic stimulation?",
+      "options": [
+        "Voltage‑gated calcium channels",
+        "Stretch‑activated sodium channels",
+        "ATP‑sensitive potassium channels",
+        "Chloride channels"
+      ],
+      "answer": 1,
+      "explanation": "Stretch‑activated Na⁺ channels open when the neuron shrinks in hyperosmotic conditions, allowing Na⁺ influx and depolarization.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "In response to increased plasma osmolality, activation of osmoreceptors leads to which physiological response?",
+      "options": [
+        "Release of atrial natriuretic peptide",
+        "Inhibition of renin secretion",
+        "Secretion of antidiuretic hormone (ADH) from the posterior pituitary",
+        "Decrease in thirst sensation"
+      ],
+      "answer": 2,
+      "explanation": "Activated osmoreceptors stimulate the supraoptic and paraventricular nuclei, causing the posterior pituitary to release ADH, which promotes water reabsorption in the kidneys.",
+      "topic": "Osmoreceptors"
+    },
+    {
+      "question": "Where is antidiuretic hormone (ADH) synthesized in the brain?",
+      "options": [
+        "Supraoptic nucleus of the hypothalamus",
+        "Paraventricular nucleus of the hypothalamus",
+        "Anterior pituitary gland",
+        "Medulla oblongata"
+      ],
+      "answer": 0,
+      "explanation": "ADH is produced by magnocellular neurons in the supraoptic nucleus and then transported to the posterior pituitary for release.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "What is the primary physiological stimulus that triggers the release of ADH into the bloodstream?",
+      "options": [
+        "Increase in plasma osmolality",
+        "Decrease in plasma volume",
+        "Rise in arterial blood pressure",
+        "Decrease in plasma sodium concentration"
+      ],
+      "answer": 0,
+      "explanation": "Osmoreceptors detect an increase in plasma osmolality, which is the main trigger for ADH secretion.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "ADH increases water permeability primarily in which segment of the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of the loop of Henle",
+        "Collecting duct principal cells",
+        "Distal convoluted tubule"
+      ],
+      "answer": 2,
+      "explanation": "ADH acts on V2 receptors of principal cells in the collecting duct, causing insertion of aquaporin‑2 channels and increased water reabsorption.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "Through which intracellular second messenger does ADH mediate the insertion of aquaporin‑2 channels?",
+      "options": [
+        "cAMP",
+        "IP3/DAG",
+        "Ca2+ ions",
+        "cGMP"
+      ],
+      "answer": 0,
+      "explanation": "Binding of ADH to V2 receptors activates adenylate cyclase, raising cAMP levels, which triggers aquaporin‑2 trafficking to the apical membrane.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "Which clinical condition is characterized by excessive secretion of ADH?",
+      "options": [
+        "Diabetes mellitus",
+        "Diabetes insipidus",
+        "Syndrome of inappropriate ADH secretion (SIADH)",
+        "Addison's disease"
+      ],
+      "answer": 2,
+      "explanation": "SIADH involves inappropriate, continued release of ADH leading to water retention and hyponatremia.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "Desmopressin, a synthetic analogue of ADH, selectively stimulates which receptor subtype?",
+      "options": [
+        "V1 receptors (vascular smooth muscle)",
+        "V2 receptors (renal collecting duct)",
+        "V3 receptors (pituitary)",
+        "V4 receptors (none)"
+      ],
+      "answer": 1,
+      "explanation": "Desmopressin has high affinity for V2 receptors, enhancing water reabsorption without significant vasoconstrictive effects.",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "A patient with central diabetes insipidus is most likely to present with which urinary finding?",
+      "options": [
+        "Low plasma osmolality",
+        "High urine osmolality",
+        "Polyuria with dilute urine",
+        "Decreased thirst sensation"
+      ],
+      "answer": 2,
+      "explanation": "Lack of ADH leads to inability to concentrate urine, resulting in large volumes of dilute urine (polyuria).",
+      "topic": "Antidiuretic hormone"
+    },
+    {
+      "question": "From which hypothalamic nuclei is antidiuretic hormone (ADH) synthesized before being stored in the posterior pituitary?",
+      "options": [
+        "Supraoptic nucleus",
+        "Paraventricular nucleus",
+        "Arcuate nucleus",
+        "Ventromedial nucleus"
+      ],
+      "answer": 0,
+      "explanation": "ADH is produced in the magnocellular neurons of the supraoptic (and to a lesser extent paraventricular) nuclei and then transported to the posterior pituitary for storage.",
+      "topic": "ADH"
+    },
+    {
+      "question": "What is the primary physiological stimulus that triggers the release of ADH into the bloodstream?",
+      "options": [
+        "Increase in plasma osmolality",
+        "Decrease in arterial blood pressure",
+        "Increase in plasma volume",
+        "Low plasma glucose concentration"
+      ],
+      "answer": 0,
+      "explanation": "Osmoreceptors in the hypothalamus detect a rise in plasma osmolality and stimulate ADH secretion; baroreceptor-mediated release is secondary.",
+      "topic": "ADH"
+    },
+    {
+      "question": "ADH increases water reabsorption mainly by acting on which segment of the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Collecting duct",
+        "Thick ascending limb of loop of Henle"
+      ],
+      "answer": 2,
+      "explanation": "ADH binds to receptors on the principal cells of the cortical collecting duct, causing insertion of aquaporin‑2 channels and increasing water permeability.",
+      "topic": "ADH"
+    },
+    {
+      "question": "Which receptor subtype mediates the renal actions of ADH?",
+      "options": [
+        "V1a receptor",
+        "V2 receptor",
+        "V1b receptor",
+        "AT1 receptor"
+      ],
+      "answer": 1,
+      "explanation": "The V2 (vasopressin‑2) receptor located on the basolateral membrane of collecting‑duct cells couples to Gs proteins and triggers cAMP production.",
+      "topic": "ADH"
+    },
+    {
+      "question": "Binding of ADH to its renal V2 receptor primarily raises the level of which intracellular second messenger?",
+      "options": [
+        "cAMP",
+        "IP3",
+        "DAG",
+        "Ca2+"
+      ],
+      "answer": 0,
+      "explanation": "Activation of V2 receptors stimulates adenylate cyclase via Gs proteins, increasing intracellular cyclic AMP, which drives aquaporin‑2 insertion.",
+      "topic": "ADH"
+    },
+    {
+      "question": "A patient with central diabetes insipidus is most likely to present with which urinary finding?",
+      "options": [
+        "Highly concentrated urine",
+        "Polyuria with low urine osmolality",
+        "Hypernatremia with high urine osmolality",
+        "Decreased plasma osmolality"
+      ],
+      "answer": 1,
+      "explanation": "Lack of ADH leads to inability to concentrate urine, resulting in large volumes of dilute urine (low osmolality) and risk of hypernatremia.",
+      "topic": "ADH"
+    },
+    {
+      "question": "Syndrome of inappropriate ADH secretion (SIADH) most commonly produces which electrolyte abnormality?",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hypercalcemia"
+      ],
+      "answer": 0,
+      "explanation": "Excess ADH causes water retention without solute gain, diluting serum sodium and leading to hyponatremia.",
+      "topic": "ADH"
+    },
+    {
+      "question": "Which part of the nephron shows the greatest increase in water permeability under the action of antidiuretic hormone (ADH)?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Collecting duct",
+        "Distal convoluted tubule"
+      ],
+      "answer": 2,
+      "explanation": "ADH acts mainly on the principal cells of the collecting duct, causing insertion of aquaporin‑2 channels and markedly increasing water permeability there.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "ADH exerts its renal effects by binding to which specific receptor on the principal cells of the collecting duct?",
+      "options": [
+        "V1a receptor",
+        "V1b receptor",
+        "V2 receptor",
+        "Alpha‑1 adrenergic receptor"
+      ],
+      "answer": 2,
+      "explanation": "The V2 (vasopressin‑2) receptor is a G‑protein‑coupled receptor on collecting‑duct cells; its activation triggers the cascade that leads to water reabsorption.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "The water channels inserted into the apical membrane of collecting‑duct cells in response to ADH are:",
+      "options": [
+        "Aquaporin‑1",
+        "Aquaporin‑2",
+        "Aquaporin‑3",
+        "Aquaporin‑4"
+      ],
+      "answer": 1,
+      "explanation": "ADH stimulates the translocation of intracellular vesicles containing aquaporin‑2 (AQP2) to the apical membrane, allowing water to pass through.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "Which intracellular second messenger is primarily increased in collecting‑duct cells after ADH binds to its V2 receptor?",
+      "options": [
+        "cAMP",
+        "IP3",
+        "DAG",
+        "Ca2+"
+      ],
+      "answer": 0,
+      "explanation": "V2‑receptor activation couples to Gs proteins, raising cyclic AMP levels, which activate protein kinase A and promote AQP2 insertion.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "A patient with central diabetes insipidus (ADH deficiency) would most likely exhibit which change in urine compared with a healthy individual?",
+      "options": [
+        "High urine osmolality",
+        "Low urine volume",
+        "Low urine osmolality",
+        "High urine specific gravity"
+      ],
+      "answer": 2,
+      "explanation": "Lack of ADH prevents water reabsorption in the collecting duct, producing a large volume of dilute urine with low osmolality.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "How does ADH contribute to the maintenance of the renal medullary concentration gradient?",
+      "options": [
+        "By increasing NaCl reabsorption in the thick ascending limb",
+        "By enhancing urea recycling into the medullary interstitium",
+        "By stimulating aldosterone secretion",
+        "By reducing interstitial osmolarity"
+      ],
+      "answer": 1,
+      "explanation": "ADH promotes urea permeability in the inner medullary collecting duct, allowing urea to be reabsorbed into the interstitium and augmenting the osmotic gradient.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "During dehydration, ADH secretion rises. Which of the following is NOT a direct effect of ADH?",
+      "options": [
+        "Increased water reabsorption in collecting ducts",
+        "Vasoconstriction of arterioles",
+        "Stimulation of renin release",
+        "Increased thirst sensation"
+      ],
+      "answer": 2,
+      "explanation": "ADH does not directly stimulate renin release; renin secretion is mainly regulated by renal baroreceptors, sympathetic activity, and macula densa signals.",
+      "topic": "Role of ADH in kidney"
+    },
+    {
+      "question": "Under the action of antidiuretic hormone (ADH), which nephron segment shows a marked increase in water reabsorption?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Descending limb of loop of Henle",
+        "Collecting duct",
+        "Thick ascending limb of loop of Henle"
+      ],
+      "answer": 2,
+      "explanation": "ADH induces insertion of aquaporin‑2 channels into the apical membrane of principal cells in the collecting duct, greatly enhancing its water permeability and allowing most of the regulated water reabsorption.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "ADH exerts its effect on water permeability by promoting the insertion of which channel protein into the apical membrane?",
+      "options": [
+        "Na+/K+ ATPase",
+        "Aquaporin‑2",
+        "Epithelial Na+ channel (ENaC)",
+        "Na+/glucose cotransporter"
+      ],
+      "answer": 1,
+      "explanation": "The hormone triggers the translocation of vesicles containing aquaporin‑2 water channels to the apical membrane, increasing water permeability of the collecting duct cells.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "A patient with central diabetes insipidus is most likely to have which characteristic of his urine?",
+      "options": [
+        "High urine osmolality",
+        "Low urine osmolality",
+        "High urine volume with high osmolality",
+        "Low urine volume with low osmolality"
+      ],
+      "answer": 1,
+      "explanation": "Deficiency of ADH prevents water reabsorption in the collecting ducts, resulting in a large volume of dilute urine with low osmolality.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "Which segment of the nephron is impermeable to water and actively transports NaCl out of the tubular fluid, thereby contributing to the corticomedullary osmotic gradient?",
+      "options": [
+        "Descending limb of loop of Henle",
+        "Thin ascending limb of loop of Henle",
+        "Thick ascending limb of loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": 2,
+      "explanation": "The thick ascending limb contains Na⁺‑K⁺‑2Cl⁻ cotransporters and is water‑impermeable, actively reabsorbing NaCl and generating the medullary concentration gradient (counter‑current multiplication).",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "How does an increase in plasma osmolality affect ADH secretion?",
+      "options": [
+        "It decreases ADH release",
+        "It has no effect on ADH release",
+        "It increases ADH release",
+        "It increases atrial natriuretic factor release"
+      ],
+      "answer": 2,
+      "explanation": "Osmoreceptors in the hypothalamus detect rising plasma osmolality and stimulate the supraoptic and paraventricular nuclei to secrete more ADH, promoting water reabsorption to restore osmotic balance.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "Approximately what percentage of the filtered water is reabsorbed in the proximal tubule?",
+      "options": [
+        "15%",
+        "30%",
+        "65%",
+        "85%"
+      ],
+      "answer": 2,
+      "explanation": "The proximal tubule is highly permeable to water and reabsorbs about 65% of the filtered load, largely following solute (Na⁺, glucose) reabsorption.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "In the presence of high ADH levels, the osmolarity of the renal medullary interstitium is highest in which region?",
+      "options": [
+        "Cortex",
+        "Outer medulla",
+        "Inner medulla",
+        "Papilla"
+      ],
+      "answer": 2,
+      "explanation": "ADH‑mediated water reabsorption concentrates urine, and the counter‑current multiplication system creates the steepest osmotic gradient in the inner medulla, making its interstitial osmolarity the highest.",
+      "topic": "Water reabsorption"
+    },
+    {
+      "question": "Which of the following best describes diuresis?",
+      "options": [
+        "Increased excretion of water without a proportional increase in solutes",
+        "Decreased glomerular filtration rate leading to reduced urine output",
+        "Selective excretion of potassium ions over sodium ions",
+        "Retention of water in the interstitial spaces"
+      ],
+      "answer": 0,
+      "explanation": "Diuresis is the process of increased urine formation, primarily due to enhanced water excretion while solute excretion may not increase proportionally.",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "A patient with central diabetes insipidus is expected to show which of the following changes in urine parameters?",
+      "options": [
+        "Very dilute urine with low specific gravity",
+        "Concentrated urine with high specific gravity",
+        "Acidic urine with low pH",
+        "Protein-rich urine with high specific gravity"
+      ],
+      "answer": 0,
+      "explanation": "Central diabetes insipidus results from deficient ADH, leading to inability to concentrate urine; thus the urine is very dilute and has low specific gravity.",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "Atrial natriuretic factor (ANF) promotes diuresis mainly by:",
+      "options": [
+        "Inhibiting renin release from juxtaglomerular cells",
+        "Stimulating ADH secretion from posterior pituitary",
+        "Increasing Na⁺‑K⁺‑2Cl⁻ transporter activity in the thick ascending limb",
+        "Enhancing water reabsorption in the collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "ANF acts on the juxtaglomerular apparatus to suppress renin release, leading to reduced aldosterone and increased sodium and water excretion (diuresis).",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "Which segment of the nephron is the primary site of action of loop diuretics such as furosemide?",
+      "options": [
+        "Thick ascending limb of Henle’s loop",
+        "Proximal convoluted tubule",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Loop diuretics inhibit the Na⁺‑K⁺‑2Cl⁻ cotransporter in the thick ascending limb, preventing solute reabsorption and causing marked diuresis.",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "In a hyperosmolar plasma state, the body reduces diuresis primarily through:",
+      "options": [
+        "Increased secretion of ADH",
+        "Decreased glomerular filtration rate",
+        "Inhibition of aldosterone secretion",
+        "Increased atrial natriuretic factor release"
+      ],
+      "answer": 0,
+      "explanation": "High plasma osmolarity stimulates osmoreceptors, leading to increased ADH release, which enhances water reabsorption and reduces diuresis.",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "Which of the following drugs induces diuresis by antagonizing aldosterone receptors?",
+      "options": [
+        "Spironolactone",
+        "Furosemide",
+        "Hydrochlorothiazide",
+        "Acetazolamide"
+      ],
+      "answer": 0,
+      "explanation": "Spironolactone is a potassium‑sparing diuretic that blocks aldosterone receptors, reducing Na⁺ reabsorption and promoting diuresis.",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "Caffeine causes a mild diuretic effect mainly because it:",
+      "options": [
+        "Inhibits renal tubular Na⁺‑K⁺‑ATPase activity",
+        "Blocks adenosine receptors leading to increased renal blood flow",
+        "Stimulates ADH release from posterior pituitary",
+        "Enhances Na⁺‑K⁺‑2Cl⁻ cotransporter activity"
+      ],
+      "answer": 1,
+      "explanation": "Caffeine antagonizes adenosine receptors, causing vasodilation of renal vessels, increased renal blood flow, and a modest increase in urine output (diuresis).",
+      "topic": "Diuresis"
+    },
+    {
+      "question": "Which of the following is the primary physiological trigger for renin release from juxtaglomerular cells?",
+      "options": [
+        "Decreased renal perfusion pressure",
+        "Increased atrial stretch",
+        "High plasma sodium concentration",
+        "Increased plasma osmolarity"
+      ],
+      "answer": 0,
+      "explanation": "Renin secretion is stimulated mainly by a fall in renal arterial pressure sensed by baroreceptors in the afferent arteriole, leading to decreased perfusion pressure.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "The conversion of angiotensin I to the active peptide angiotensin II is catalyzed by which enzyme?",
+      "options": [
+        "Renin",
+        "Angiotensin‑converting enzyme (ACE)",
+        "Angiotensinogenase",
+        "Aldosterone synthase"
+      ],
+      "answer": 1,
+      "explanation": "ACE, present on endothelial cells of pulmonary and systemic vasculature, cleaves the decapeptide angiotensin I to the octapeptide angiotensin II.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "Angiotensin II raises arterial pressure by all of the following mechanisms EXCEPT:",
+      "options": [
+        "Vasoconstriction of arterioles",
+        "Stimulation of aldosterone secretion from the adrenal cortex",
+        "Direct increase in glomerular filtration rate",
+        "Promotion of antidiuretic hormone (ADH) release"
+      ],
+      "answer": 2,
+      "explanation": "Angiotensin II does not directly increase GFR; it actually reduces renal blood flow, and the rise in GFR is secondary to efferent arteriole constriction, not a primary action.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "Aldosterone exerts its main effect on sodium reabsorption in which segment of the nephron?",
+      "options": [
+        "Proximal convoluted tubule",
+        "Thick ascending limb of Loop of Henle",
+        "Distal convoluted tubule and collecting duct",
+        "Glomerulus"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone binds to mineralocorticoid receptors in the distal convoluted tubule and cortical collecting duct, increasing Na⁺ reabsorption and K⁺ secretion.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "Which class of antihypertensive drugs prevents the formation of angiotensin II?",
+      "options": [
+        "Beta‑blockers",
+        "ACE inhibitors",
+        "Loop diuretics",
+        "Calcium channel blockers"
+      ],
+      "answer": 1,
+      "explanation": "ACE inhibitors block angiotensin‑converting enzyme, thereby reducing angiotensin II synthesis and lowering blood pressure.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "The most important stimulus for renin secretion in the juxtaglomerular apparatus is:",
+      "options": [
+        "Elevated plasma potassium",
+        "Low arterial pressure sensed by baroreceptors in the afferent arteriole",
+        "High circulating angiotensin II",
+        "Reduced plasma ADH levels"
+      ],
+      "answer": 1,
+      "explanation": "Baroreceptor-mediated detection of reduced renal perfusion pressure is the dominant trigger for renin release.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "Atrial natriuretic factor (ANF) opposes the actions of the renin‑angiotensin‑aldosterone system primarily by:",
+      "options": [
+        "Increasing sodium reabsorption in the distal tubule",
+        "Inducing vasoconstriction of afferent arterioles",
+        "Stimulating aldosterone secretion",
+        "Promoting natriuresis and vasodilation"
+      ],
+      "answer": 3,
+      "explanation": "ANF causes vasodilation and increases sodium and water excretion, counteracting the vasoconstrictive and sodium‑retaining effects of angiotensin II and aldosterone.",
+      "topic": "Renin-angiotensin system"
+    },
+    {
+      "question": "Which specialized cells in the kidney are responsible for the synthesis and secretion of renin?",
+      "options": [
+        "Juxtaglomerular cells of the afferent arteriole",
+        "Macula densa cells of the distal tubule",
+        "Podocytes of the glomerulus",
+        "Proximal tubule epithelial cells"
+      ],
+      "answer": 0,
+      "explanation": "Renin is produced and released by the juxtaglomerular (JG) cells located in the wall of the afferent arteriole, forming part of the juxtaglomerular apparatus.",
+      "topic": "Renin"
+    },
+    {
+      "question": "A decrease in which of the following is a primary physiological stimulus for renin release?",
+      "options": [
+        "Increased renal perfusion pressure",
+        "Decreased NaCl delivery to the macula densa",
+        "Increased atrial stretch",
+        "Elevated plasma osmolarity"
+      ],
+      "answer": 1,
+      "explanation": "Low NaCl concentration reaching the macula densa signals reduced glomerular filtration, triggering renin secretion from juxtaglomerular cells.",
+      "topic": "Renin"
+    },
+    {
+      "question": "Renin catalyzes the conversion of which substrate into its product?",
+      "options": [
+        "Angiotensinogen to angiotensin I",
+        "Angiotensin I to angiotensin II",
+        "Aldosterone to cortisone",
+        "ADH to vasopressin"
+      ],
+      "answer": 0,
+      "explanation": "Renin is an aspartyl protease that cleaves the liver‑derived plasma protein angiotensinogen, producing the decapeptide angiotensin I.",
+      "topic": "Renin"
+    },
+    {
+      "question": "Which drug acts by directly inhibiting renin activity?",
+      "options": [
+        "Captopril (ACE inhibitor)",
+        "Losartan (angiotensin receptor blocker)",
+        "Aliskiren (renin inhibitor)",
+        "Spironolactone (aldosterone antagonist)"
+      ],
+      "answer": 2,
+      "explanation": "Aliskiren is a specific renin inhibitor that blocks the conversion of angiotensinogen to angiotensin I, thereby attenuating the entire RAAS cascade.",
+      "topic": "Renin"
+    },
+    {
+      "question": "The secretion of aldosterone from the adrenal cortex is primarily stimulated by which peptide of the RAAS?",
+      "options": [
+        "Angiotensin I",
+        "Angiotensin II",
+        "Renin",
+        "Atrial natriuretic factor"
+      ],
+      "answer": 1,
+      "explanation": "Angiotensin II binds to AT1 receptors on zona glomerulosa cells, markedly increasing aldosterone synthesis and release.",
+      "topic": "Renin"
+    },
+    {
+      "question": "In a patient with unilateral renal artery stenosis, which change in plasma renin activity is most expected?",
+      "options": [
+        "Decreased plasma renin activity",
+        "Increased plasma renin activity",
+        "Decreased angiotensin II levels",
+        "Decreased aldosterone secretion"
+      ],
+      "answer": 1,
+      "explanation": "Reduced renal perfusion pressure due to arterial narrowing stimulates the affected kidney to release more renin, raising plasma renin activity.",
+      "topic": "Renin"
+    },
+    {
+      "question": "Which feedback mechanism predominantly regulates renin secretion under normal physiological conditions?",
+      "options": [
+        "Positive feedback by angiotensin II",
+        "Negative feedback by angiotensin II",
+        "Positive feedback by aldosterone",
+        "Negative feedback by ADH"
+      ],
+      "answer": 1,
+      "explanation": "Elevated levels of angiotensin II inhibit further renin release, providing a negative feedback loop that prevents excessive activation of the RAAS.",
+      "topic": "Renin"
+    },
+    {
+      "question": "Which enzyme converts angiotensin I to angiotensin II?",
+      "options": [
+        "Angiotensin‑converting enzyme (ACE)",
+        "Renin",
+        "Angiotensinogen",
+        "Aldosterone synthase"
+      ],
+      "answer": 0,
+      "explanation": "ACE, present on endothelial cells of lungs and other tissues, cleaves the decapeptide angiotensin I to the octapeptide angiotensin II, the key step in the renin‑angiotensin system.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "Angiotensin II exerts its primary physiological effects via which receptor subtype?",
+      "options": [
+        "AT1 receptor",
+        "AT2 receptor",
+        "β1‑adrenergic receptor",
+        "Muscarinic receptor"
+      ],
+      "answer": 0,
+      "explanation": "The AT1 receptor mediates most classical actions of angiotensin II such as vasoconstriction, aldosterone release, and stimulation of ADH and thirst.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "Which of the following is NOT a direct action of angiotensin II?",
+      "options": [
+        "Vasoconstriction of arterioles",
+        "Stimulation of aldosterone secretion from zona glomerulosa",
+        "Increase of glomerular filtration rate by dilating afferent arteriole",
+        "Stimulation of ADH release from posterior pituitary"
+      ],
+      "answer": 2,
+      "explanation": "Angiotensin II constricts both afferent and efferent arterioles; it does not dilate the afferent arteriole to raise GFR. The net effect is a modest increase in GFR due to greater efferent constriction, not direct dilation.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "In the renin‑angiotensin system, the substrate for renin is:",
+      "options": [
+        "Angiotensinogen",
+        "Angiotensin I",
+        "Angiotensin II",
+        "Aldosterone"
+      ],
+      "answer": 0,
+      "explanation": "Renin, an aspartyl protease released by juxtaglomerular cells, cleaves the liver‑derived plasma protein angiotensinogen to produce angiotensin I.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "Which statement about the feedback regulation of renin release is correct?",
+      "options": [
+        "High plasma Ang II stimulates renin secretion",
+        "Low renal perfusion pressure inhibits renin release",
+        "Increased Na+ delivery to macula densa suppresses renin secretion",
+        "Elevated sympathetic activity decreases renin release"
+      ],
+      "answer": 2,
+      "explanation": "When the macula densa senses increased NaCl delivery, it signals juxtaglomerular cells to reduce renin secretion, providing a negative feedback loop.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "ACE inhibitors lower blood pressure primarily by:",
+      "options": [
+        "Reducing angiotensin II formation",
+        "Blocking AT1 receptors",
+        "Inhibiting renin release",
+        "Stimulating ANP release"
+      ],
+      "answer": 0,
+      "explanation": "ACE inhibitors block the conversion of angiotensin I to angiotensin II, decreasing vasoconstriction, aldosterone secretion, and sympathetic activation, thereby lowering blood pressure.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "Angiotensin II contributes to thirst sensation by acting on:",
+      "options": [
+        "Hypothalamic thirst center",
+        "Posterior pituitary",
+        "Adrenal medulla",
+        "Renal collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Angiotensin II crosses the blood‑brain barrier at the circumventricular organs and stimulates the hypothalamic osmoreceptors, generating the conscious feeling of thirst.",
+      "topic": "Angiotensin"
+    },
+    {
+      "question": "What is the primary physiological stimulus for aldosterone secretion from the adrenal cortex?",
+      "options": [
+        "Increased plasma Angiotensin II",
+        "Increased plasma ADH",
+        "Decreased plasma osmolarity",
+        "Increased plasma ANF"
+      ],
+      "answer": 0,
+      "explanation": "Elevated Angiotensin II, generated by the renin‑angiotensin system, is the main trigger for aldosterone release; high K⁺ is a secondary stimulus.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "Aldosterone exerts its major effect on sodium reabsorption at which nephron segment?",
+      "options": [
+        "Proximal tubule",
+        "Loop of Henle descending limb",
+        "Distal convoluted tubule",
+        "Collecting duct principal cells"
+      ],
+      "answer": 3,
+      "explanation": "Aldosterone binds to mineralocorticoid receptors in principal cells of the cortical collecting duct, increasing Na⁺ channels (ENaC) and Na⁺/K⁺‑ATPase activity.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "How does aldosterone influence potassium handling in the kidney?",
+      "options": [
+        "Increases potassium reabsorption",
+        "Decreases potassium secretion",
+        "Increases potassium secretion",
+        "Has no effect on potassium"
+      ],
+      "answer": 2,
+      "explanation": "By stimulating Na⁺ reabsorption, aldosterone creates a negative lumen potential that drives K⁺ secretion into the tubular fluid.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "The intracellular receptor for aldosterone belongs to which class of receptors?",
+      "options": [
+        "Activates adenylate cyclase",
+        "Opens ligand‑gated ion channel",
+        "Translocates to nucleus and modulates gene transcription",
+        "Directly phosphorylates Na⁺/K⁺‑ATPase"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone binds to a cytosolic mineralocorticoid receptor; the hormone‑receptor complex moves to the nucleus and alters transcription of genes encoding ENaC and Na⁺/K⁺‑ATPase.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "Which electrolyte abnormality is most characteristic of primary hyperaldosteronism?",
+      "options": [
+        "Hyponatremia",
+        "Hypernatremia",
+        "Hypokalemia",
+        "Hyperkalemia"
+      ],
+      "answer": 2,
+      "explanation": "Excess aldosterone causes Na⁺ retention and K⁺ loss, leading to hypokalemia; serum Na⁺ may be normal due to water retention.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "Which hormone counteracts the renal actions of aldosterone?",
+      "options": [
+        "Atrial natriuretic factor (ANF)",
+        "Antidiuretic hormone (ADH)",
+        "Renin",
+        "Angiotensin II"
+      ],
+      "answer": 0,
+      "explanation": "ANF promotes natriuresis and vasodilation, opposing aldosterone‑induced Na⁺ reabsorption and volume expansion.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "A deficiency of aldosterone most likely produces which clinical manifestation?",
+      "options": [
+        "Hypertension",
+        "Metabolic alkalosis",
+        "Hypernatremia",
+        "Volume depletion"
+      ],
+      "answer": 3,
+      "explanation": "Lack of aldosterone reduces Na⁺ reabsorption, leading to loss of Na⁺ and water, causing extracellular fluid volume depletion and hypotension.",
+      "topic": "Aldosterone"
+    },
+    {
+      "question": "Which zone of the adrenal cortex is primarily responsible for the synthesis of aldosterone?",
+      "options": [
+        "Zona glomerulosa",
+        "Zona fasciculata",
+        "Zona reticularis",
+        "Adrenal medulla"
+      ],
+      "answer": 0,
+      "explanation": "Aldosterone, the mineralocorticoid, is produced in the zona glomerulosa under the influence of angiotensin II and plasma potassium.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "The most important physiological stimulus for aldosterone secretion is:",
+      "options": [
+        "Increased plasma potassium",
+        "Increased plasma renin activity",
+        "Increased ACTH secretion",
+        "Decreased plasma calcium"
+      ],
+      "answer": 1,
+      "explanation": "Renin release leads to angiotensin II formation, which is the principal regulator of aldosterone secretion; high K+ also stimulates but is secondary.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "Cortisol exerts negative feedback on which pituitary hormone?",
+      "options": [
+        "Thyroid‑stimulating hormone (TSH)",
+        "Luteinising hormone (LH)",
+        "Adrenocorticotropic hormone (ACTH)",
+        "Growth hormone (GH)"
+      ],
+      "answer": 2,
+      "explanation": "Elevated cortisol levels inhibit the hypothalamic‑pituitary‑adrenal axis by suppressing ACTH release from the anterior pituitary.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "Which of the following is NOT a direct action of aldosterone on the nephron?",
+      "options": [
+        "Increase Na⁺ reabsorption in the distal tubule",
+        "Increase K⁺ secretion into the tubular lumen",
+        "Increase water reabsorption directly",
+        "Stimulate H⁺ secretion in intercalated cells"
+      ],
+      "answer": 2,
+      "explanation": "Aldosterone promotes Na⁺ reabsorption and K⁺/H⁺ secretion; water follows Na⁺ osmotically but aldosterone does not act directly on water channels.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "The adrenal cortex hormone that contributes to the development of secondary sexual characteristics in males is:",
+      "options": [
+        "Aldosterone",
+        "Cortisol",
+        "Dehydroepiandrosterone (DHEA)",
+        "Epinephrine"
+      ],
+      "answer": 2,
+      "explanation": "DHEA, an androgen produced in the zona reticularis, serves as a precursor for peripheral conversion to testosterone, influencing secondary sexual traits.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "A patient with Addison's disease (primary adrenal insufficiency) is most likely to present with which electrolyte disturbance?",
+      "options": [
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hyperkalemia",
+        "Hypocalcemia"
+      ],
+      "answer": 1,
+      "explanation": "Deficiency of aldosterone leads to loss of Na⁺ and water, causing hyponatremia; concomitant K⁺ retention causes hyperkalemia, but the asked most characteristic is hyponatremia.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "Which adrenal cortex hormone potentiates the vasoconstrictive action of catecholamines on vascular smooth muscle?",
+      "options": [
+        "Aldosterone",
+        "Cortisol",
+        "Dehydroepiandrosterone (DHEA)",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "Cortisol up‑regulates adrenergic receptors and enhances the responsiveness of vascular smooth muscle to catecholamines, augmenting vasoconstriction.",
+      "topic": "Role of adrenal cortex"
+    },
+    {
+      "question": "The primary site of synthesis and secretion of atrial natriuretic factor (ANF) in humans is:",
+      "options": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "ANF is produced mainly by the cardiac myocytes of the right atrium in response to increased atrial pressure.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "The main physiological trigger that leads to the release of ANF from the heart is:",
+      "options": [
+        "Decrease in plasma osmolarity",
+        "Increase in atrial stretch due to increased blood volume",
+        "Decrease in sympathetic tone",
+        "Increase in ADH secretion"
+      ],
+      "answer": 1,
+      "explanation": "Stretch of the atrial wall caused by elevated blood volume or pressure stimulates ANF release.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "ANF increases glomerular filtration rate (GFR) by:",
+      "options": [
+        "Constriction of afferent arteriole",
+        "Dilation of efferent arteriole",
+        "Increased Na+ reabsorption in distal tubule",
+        "Dilation of afferent arteriole and constriction of efferent arteriole"
+      ],
+      "answer": 3,
+      "explanation": "ANF dilates the afferent arteriole and constricts the efferent arteriole, raising glomerular capillary pressure and GFR.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "The intracellular second messenger that mediates most of the actions of ANF is:",
+      "options": [
+        "cAMP",
+        "cGMP",
+        "IP3/DAG",
+        "Ca2+"
+      ],
+      "answer": 1,
+      "explanation": "ANF binds to membrane receptors linked to guanylate cyclase, increasing intracellular cGMP.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "ANF exerts its natriuretic effect partly by inhibiting which components of the renin‑angiotensin‑aldosterone system?",
+      "options": [
+        "Renin only",
+        "Aldosterone only",
+        "Both renin and aldosterone",
+        "ADH only"
+      ],
+      "answer": 2,
+      "explanation": "ANF suppresses renin release from juxtaglomerular cells and reduces aldosterone secretion from the adrenal cortex.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "The vascular effect of ANF that contributes to the reduction of arterial blood pressure is:",
+      "options": [
+        "Vasoconstriction of systemic arterioles",
+        "Vasodilation of afferent arterioles in kidney only",
+        "Generalized vasodilation leading to reduced peripheral resistance",
+        "No effect on vascular tone"
+      ],
+      "answer": 2,
+      "explanation": "ANF causes systemic vasodilation, lowering peripheral resistance and thereby decreasing blood pressure.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "In a patient with chronic heart failure who has markedly reduced plasma ANF levels, which of the following changes is most likely?",
+      "options": [
+        "Decreased urinary sodium excretion",
+        "Increased plasma renin activity",
+        "Increased blood pressure",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Low ANF removes its inhibitory influence on renin, aldosterone and ADH, leading to sodium retention, higher renin activity and elevated blood pressure.",
+      "topic": "Atrial natriuretic factor"
+    },
+    {
+      "question": "Where is atrial natriuretic factor (ANF) primarily synthesized and secreted?",
+      "options": [
+        "Juxtaglomerular cells of the kidney",
+        "Atrial myocytes of the heart",
+        "Posterior pituitary gland",
+        "Adrenal cortex"
+      ],
+      "answer": 1,
+      "explanation": "ANF is produced by the cardiac atrial myocytes in response to atrial stretch caused by increased blood volume.",
+      "topic": "ANF"
+    },
+    {
+      "question": "The principal renal effect of ANF that contributes to reduction of blood volume is:",
+      "options": [
+        "Inhibition of glomerular filtration rate (GFR)",
+        "Stimulation of sodium reabsorption in the distal tubule",
+        "Increase in GFR together with inhibition of sodium reabsorption (natriuresis)",
+        "Activation of aldosterone secretion"
+      ],
+      "answer": 2,
+      "explanation": "ANF dilates the afferent arteriole and constricts the efferent arteriole, raising GFR, while it also reduces Na⁺ reabsorption in the proximal tubule and collecting duct, promoting natriuresis.",
+      "topic": "ANF"
+    },
+    {
+      "question": "ANF exerts its inhibitory effect on the renin‑angiotensin‑aldosterone system by:",
+      "options": [
+        "Stimulating renin release from juxtaglomerular cells",
+        "Inhibiting renin release from juxtaglomerular cells",
+        "Enhancing conversion of angiotensin I to angiotensin II",
+        "Increasing aldosterone synthesis"
+      ],
+      "answer": 1,
+      "explanation": "ANF directly suppresses renin secretion, thereby lowering angiotensin II and aldosterone levels, which helps lower blood pressure.",
+      "topic": "ANF"
+    },
+    {
+      "question": "Which intracellular second messenger is chiefly responsible for mediating the actions of ANF in its target cells?",
+      "options": [
+        "Cyclic AMP (cAMP)",
+        "Cyclic GMP (cGMP)",
+        "Inositol 1,4,5‑trisphosphate (IP3) and diacylglycerol (DAG)",
+        "Intracellular calcium ions"
+      ],
+      "answer": 1,
+      "explanation": "Binding of ANF to its receptor activates particulate guanylate cyclase, increasing intracellular cGMP, which drives the downstream effects.",
+      "topic": "ANF"
+    },
+    {
+      "question": "ANF induces vasodilation primarily through:",
+      "options": [
+        "Release of endothelin from endothelial cells",
+        "Direct relaxation of vascular smooth muscle via cGMP",
+        "Stimulation of sympathetic nervous activity",
+        "Activation of angiotensin II receptors"
+      ],
+      "answer": 1,
+      "explanation": "cGMP generated after ANF binding causes smooth‑muscle relaxation, leading to vasodilation and reduced peripheral resistance.",
+      "topic": "ANF"
+    },
+    {
+      "question": "An increase in circulating ANF levels leads to which change in antidiuretic hormone (ADH) secretion?",
+      "options": [
+        "Enhanced ADH release from posterior pituitary",
+        "Reduced ADH release from posterior pituitary",
+        "No effect on ADH secretion",
+        "Conversion of ADH to a more active form"
+      ],
+      "answer": 1,
+      "explanation": "Elevated ANF signals volume overload, which suppresses ADH secretion, decreasing water reabsorption and aiding diuresis.",
+      "topic": "ANF"
+    },
+    {
+      "question": "A deficiency or reduced activity of ANF is most likely to contribute to which clinical condition?",
+      "options": [
+        "Hypertension due to volume overload",
+        "Diabetes insipidus",
+        "Hyperaldosteronism",
+        "Congestive heart failure"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient ANF fails to promote natriuresis and vasodilation, leading to sodium and water retention and consequently hypertension.",
+      "topic": "ANF"
+    },
+    {
+      "question": "Which hormone secreted by the juxtaglomerular cells initiates the cascade that ultimately raises blood pressure?",
+      "options": [
+        "Renin",
+        "Atrial natriuretic factor",
+        "Antidiuretic hormone",
+        "Erythropoietin"
+      ],
+      "answer": 0,
+      "explanation": "Renin is released by JG cells in response to low BP, low NaCl, or sympathetic stimulation; it starts the renin‑angiotensin‑aldosterone system.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "The conversion of angiotensin I to the potent vasoconstrictor angiotensin II occurs mainly in which organ?",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Kidneys",
+        "Adrenal cortex"
+      ],
+      "answer": 1,
+      "explanation": "Angiotensin‑converting enzyme (ACE) is abundant on the endothelial surface of pulmonary capillaries, so the lungs are the primary site.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "Angiotensin II raises arterial pressure by all of the following EXCEPT:",
+      "options": [
+        "Constriction of arterioles",
+        "Stimulating aldosterone secretion from the adrenal cortex",
+        "Increasing thirst and ADH release",
+        "Decreasing glomerular filtration rate"
+      ],
+      "answer": 3,
+      "explanation": "Angiotensin II actually constricts the efferent arteriole, which raises GFR; it does not decrease GFR.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "An increase in renal perfusion pressure leads to enhanced sodium excretion (pressure natriuresis) mainly because of:",
+      "options": [
+        "Increased glomerular filtration rate",
+        "Decreased tubular reabsorption in the proximal tubule",
+        "Increased release of atrial natriuretic factor",
+        "Suppression of renin secretion"
+      ],
+      "answer": 3,
+      "explanation": "Higher perfusion pressure suppresses renin release, reducing angiotensin II and aldosterone, thereby decreasing Na+ reabsorption and promoting natriuresis.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "Atrial natriuretic factor (ANF) reduces blood pressure primarily by which renal action?",
+      "options": [
+        "Stimulating renin release",
+        "Increasing sodium reabsorption in the distal tubule",
+        "Dilating afferent arterioles and increasing GFR",
+        "Promoting aldosterone secretion"
+      ],
+      "answer": 2,
+      "explanation": "ANF causes afferent arteriole dilation and efferent constriction, raising GFR and promoting Na+ and water excretion, lowering BP.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "In tubuloglomerular feedback, an increase in NaCl concentration at the macula densa causes the afferent arteriole to:",
+      "options": [
+        "Constrict",
+        "Dilate",
+        "Remain unchanged",
+        "Vasodilate the efferent arteriole"
+      ],
+      "answer": 0,
+      "explanation": "High NaCl at the macula densa signals the juxtaglomerular apparatus to constrict the afferent arteriole, reducing GFR to prevent excess Na+ loss.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "The myogenic response that contributes to renal autoregulation is best described as:",
+      "options": [
+        "Increased afferent arteriolar resistance when blood pressure falls",
+        "Decreased afferent arteriolar resistance when blood pressure rises",
+        "Increased afferent arteriolar resistance when blood pressure rises",
+        "No change in arteriolar tone with pressure changes"
+      ],
+      "answer": 2,
+      "explanation": "Vascular smooth muscle in the afferent arteriole contracts when intravascular pressure rises, limiting the rise in glomerular pressure and protecting the filtration barrier.",
+      "topic": "Regulation of blood pressure by kidney"
+    },
+    {
+      "question": "During the storage phase of micturition, which of the following events is most characteristic?",
+      "options": [
+        "Activation of parasympathetic fibers leading to detrusor contraction",
+        "Activation of sympathetic fibers causing relaxation of the internal sphincter",
+        "Activation of somatic fibers causing contraction of the external urethral sphincter",
+        "Inhibition of sympathetic fibers resulting in contraction of the internal sphincter"
+      ],
+      "answer": 2,
+      "explanation": "In the storage phase, somatic (pudendal) nerves keep the external urethral sphincter contracted to prevent urine leakage, while sympathetic activity relaxes the detrusor and contracts the internal sphincter.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "The pontine micturition center (PMC) primarily functions by:",
+      "options": [
+        "Inhibiting parasympathetic outflow from the sacral spinal cord",
+        "Stimulating sympathetic outflow to the bladder neck",
+        "Coordinating simultaneous contraction of the detrusor muscle and relaxation of urethral sphincters",
+        "Initiating afferent signals from bladder stretch receptors"
+      ],
+      "answer": 2,
+      "explanation": "The PMC integrates signals and sends descending commands that cause the detrusor to contract while the internal and external sphincters relax, enabling voiding.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "Which nerve carries the afferent sensory fibers from the bladder that initiate the micturition reflex?",
+      "options": [
+        "Pelvic nerve",
+        "Pudendal nerve",
+        "Hypogastric nerve",
+        "Vagus nerve"
+      ],
+      "answer": 0,
+      "explanation": "Stretch receptors in the bladder wall send afferent impulses via the pelvic (pelvic splanchnic) nerves to the sacral spinal cord, triggering the reflex.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "A lesion of the sacral spinal cord (S2‑S4) would most likely produce:",
+      "options": [
+        "Urinary incontinence due to loss of sphincter control",
+        "Urinary retention due to detrusor areflexia",
+        "Increased frequency of micturition",
+        "No appreciable change in bladder function"
+      ],
+      "answer": 1,
+      "explanation": "S2‑S4 contain parasympathetic pre‑ganglionic neurons that drive detrusor contraction; their loss leads to an atonic bladder and retention.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "During micturition, the internal urethral sphincter is primarily under the control of which autonomic division?",
+      "options": [
+        "Parasympathetic division",
+        "Sympathetic division",
+        "Somatic division",
+        "Both sympathetic and parasympathetic equally"
+      ],
+      "answer": 1,
+      "explanation": "The internal sphincter is smooth muscle regulated by sympathetic (hypogastric) fibers that maintain tone; it relaxes when sympathetic activity is withdrawn during voiding.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "Anticholinergic drugs affect bladder function by:",
+      "options": [
+        "Increasing detrusor contractility",
+        "Blocking parasympathetic stimulation, thereby reducing bladder contraction",
+        "Enhancing sympathetic tone leading to sphincter contraction",
+        "Stimulating afferent pathways and increasing urge sensation"
+      ],
+      "answer": 1,
+      "explanation": "Anticholinergics block muscarinic receptors on the detrusor, diminishing parasympathetic‑mediated contraction and helping in conditions like overactive bladder.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "The external urethral sphincter, composed of skeletal muscle, receives its motor innervation from:",
+      "options": [
+        "Pelvic splanchnic nerves",
+        "Inferior hypogastric plexus",
+        "Pudendal nerve",
+        "Pelvic ganglion"
+      ],
+      "answer": 2,
+      "explanation": "The pudendal nerve (S2‑S4) provides somatic motor fibers to the striated external urethral sphincter, allowing voluntary control over urination.",
+      "topic": "Micturition"
+    },
+    {
+      "question": "Which spinal cord segments receive afferent signals from stretch receptors in the bladder wall that initiate the micturition reflex?",
+      "options": [
+        "S2‑S4",
+        "T10‑L2",
+        "C5‑C8",
+        "L5‑S1"
+      ],
+      "answer": 0,
+      "explanation": "Afferent fibers from bladder stretch receptors travel via pelvic nerves to the sacral spinal cord segments S2‑S4, where the micturition reflex is integrated.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "The pontine micturition center (PMC) primarily functions to:",
+      "options": [
+        "Initiate detrusor contraction",
+        "Coordinate relaxation of urethral sphincter with detrusor contraction",
+        "Increase sympathetic outflow to bladder",
+        "Inhibit parasympathetic activity"
+      ],
+      "answer": 1,
+      "explanation": "The PMC sends descending excitatory signals that synchronize detrusor contraction with relaxation of the internal and external urethral sphincters, allowing voiding.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "During the storage phase of micturition, which autonomic activity predominates?",
+      "options": [
+        "Parasympathetic activity causing detrusor contraction",
+        "Sympathetic activity causing detrusor relaxation and internal sphincter contraction",
+        "Somatic activity causing external sphincter relaxation",
+        "No autonomic activity is involved"
+      ],
+      "answer": 1,
+      "explanation": "Sympathetic fibers (hypogastric nerve) dominate during storage, relaxing the detrusor and contracting the internal urethral sphincter to retain urine.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "A lesion at the sacral spinal cord (S2‑S4) most directly disrupts which component of the micturition reflex?",
+      "options": [
+        "Afferent sensory pathway from bladder",
+        "Parasympathetic efferent pathway to detrusor muscle",
+        "Sympathetic efferent pathway to bladder neck",
+        "Somatic pathway to external urethral sphincter"
+      ],
+      "answer": 1,
+      "explanation": "Parasympathetic pre‑ganglionic neurons that innervate the detrusor arise from S2‑S4; damage here impairs the efferent limb that triggers bladder contraction.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "What is the primary neurotransmitter released by parasympathetic post‑ganglionic fibers onto the detrusor muscle?",
+      "options": [
+        "Acetylcholine",
+        "Norepinephrine",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "answer": 0,
+      "explanation": "Parasympathetic post‑ganglionic neurons release acetylcholine, which binds to muscarinic receptors on detrusor smooth muscle causing contraction.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "The external urethral sphincter is under voluntary control via which nerve?",
+      "options": [
+        "Pelvic nerve",
+        "Hypogastric nerve",
+        "Pudendal nerve",
+        "Vagus nerve"
+      ],
+      "answer": 2,
+      "explanation": "The pudendal nerve (S2‑S4) supplies somatic motor fibers to the striated external urethral sphincter, allowing conscious regulation of urine flow.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "A patient with urgency, frequency, and involuntary daytime leakage most likely has which abnormality of the micturition reflex?",
+      "options": [
+        "Detrusor underactivity",
+        "Detrusor overactivity (hyperreflexia)",
+        "Failure of internal sphincter relaxation",
+        "Excessive sympathetic tone"
+      ],
+      "answer": 1,
+      "explanation": "Detrusor overactivity leads to involuntary contractions during the storage phase, producing urgency, frequency, and urge incontinence.",
+      "topic": "Micturition reflex"
+    },
+    {
+      "question": "Which of the following is the most common cause of acute renal failure in adults?",
+      "options": [
+        "Acute tubular necrosis due to ischemia",
+        "Post‑renal obstruction due to stones",
+        "Acute interstitial nephritis due to drugs",
+        "Glomerulonephritis"
+      ],
+      "answer": 0,
+      "explanation": "Ischemic acute tubular necrosis accounts for the majority of acute kidney injury in adults, often following severe hypotension or shock.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "In chronic renal failure, which metabolic disturbance is most characteristic?",
+      "options": [
+        "Metabolic alkalosis",
+        "Hyperkalemia",
+        "Hypocalcemia",
+        "Hypernatremia"
+      ],
+      "answer": 1,
+      "explanation": "Reduced excretion of potassium by failing nephrons leads to persistent hyperkalemia, a hallmark of chronic kidney disease.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "Which statement about renal calculi is FALSE?",
+      "options": [
+        "Calcium oxalate stones are the most common type",
+        "Cystine stones are radiolucent on plain X‑ray",
+        "Struvite stones are associated with urinary tract infections",
+        "Uric acid stones are radiopaque"
+      ],
+      "answer": 3,
+      "explanation": "Uric acid stones are radiolucent on plain radiographs; they are usually seen only on CT or ultrasound.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "The primary purpose of haemodialysis in end‑stage renal disease is to:",
+      "options": [
+        "Remove excess glucose",
+        "Replace erythropoietin",
+        "Eliminate nitrogenous waste products",
+        "Increase renal blood flow"
+      ],
+      "answer": 2,
+      "explanation": "Haemodialysis provides clearance of urea, creatinine and other nitrogenous wastes that the kidneys can no longer excrete.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "In glomerulonephritis, the presence of red blood cell casts in urine indicates:",
+      "options": [
+        "Tubular necrosis",
+        "Glomerular bleeding",
+        "Interstitial inflammation",
+        "Urinary tract infection"
+      ],
+      "answer": 1,
+      "explanation": "RBC casts form when red cells leak through a damaged glomerular basement membrane and become trapped in tubular fluid.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "Which hormone level is typically elevated in patients with chronic kidney disease due to reduced renal clearance?",
+      "options": [
+        "Aldosterone",
+        "Parathyroid hormone",
+        "Insulin",
+        "Cortisol"
+      ],
+      "answer": 1,
+      "explanation": "Impaired phosphate excretion and reduced activation of vitamin D stimulate secondary hyperparathyroidism, raising PTH levels.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "The most important immunological factor responsible for graft rejection after kidney transplantation is:",
+      "options": [
+        "Antibody‑mediated complement activation",
+        "T‑cell mediated cellular immunity",
+        "NK‑cell cytotoxicity",
+        "Macrophage infiltration"
+      ],
+      "answer": 1,
+      "explanation": "T‑cell mediated cellular immunity drives acute and chronic rejection; it recognizes donor antigens presented on recipient antigen‑presenting cells.",
+      "topic": "Kidney disorders"
+    },
+    {
+      "question": "Uraemia is best defined as the accumulation of which substances in the blood?",
+      "options": [
+        "Urea and creatinine",
+        "Glucose",
+        "Bilirubin",
+        "Ketone bodies"
+      ],
+      "answer": 0,
+      "explanation": "Uraemia refers to the retention of nitrogenous waste products, primarily urea and creatinine, due to impaired renal excretory function.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "Which of the following is NOT a typical clinical manifestation of uraemia?",
+      "options": [
+        "Pericarditis",
+        "Asterixis",
+        "Polyuria",
+        "Pruritus"
+      ],
+      "answer": 2,
+      "explanation": "Uraemia usually presents with oliguria or anuria; polyuria is uncommon, whereas pericarditis, asterixis, and pruritus are recognized features.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "In patients with chronic renal failure leading to uraemia, which hormone level is most commonly elevated?",
+      "options": [
+        "Erythropoietin",
+        "Renin",
+        "Antidiuretic hormone (ADH)",
+        "Aldosterone"
+      ],
+      "answer": 2,
+      "explanation": "Reduced water excretion stimulates ADH release, leading to its elevated plasma concentration in uraemic patients.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "Which laboratory finding most reliably distinguishes intrinsic renal failure (ureaemia) from pre‑renal azotemia?",
+      "options": [
+        "BUN/Creatinine ratio >20",
+        "BUN/Creatinine ratio <15",
+        "High urine specific gravity",
+        "Fractional excretion of sodium >2%"
+      ],
+      "answer": 3,
+      "explanation": "A fractional excretion of sodium (FeNa) >2% indicates tubular damage typical of intrinsic renal failure, whereas pre‑renal states show FeNa <1%.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "What is the most definitive treatment for severe uraemia?",
+      "options": [
+        "Fluid restriction",
+        "Low protein diet",
+        "Hemodialysis",
+        "Erythropoietin therapy"
+      ],
+      "answer": 2,
+      "explanation": "Hemodialysis efficiently removes accumulated uremic toxins and is the treatment of choice for severe uraemia.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "Uraemic pericarditis is primarily caused by accumulation of which type of toxins?",
+      "options": [
+        "Urea",
+        "Middle‑molecule toxins",
+        "Electrolytes",
+        "Hormones"
+      ],
+      "answer": 1,
+      "explanation": "Middle‑molecule toxins (e.g., β2‑microglobulin) that are not cleared by conventional dialysis precipitate inflammation of the pericardium in uraemia.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "Which statement about uremic frost is correct?",
+      "options": [
+        "White crystalline deposits on skin due to high urea in sweat",
+        "Result of hyperglycemia",
+        "Calcium deposition in skin",
+        "Sign of hepatic failure"
+      ],
+      "answer": 0,
+      "explanation": "Uremic frost appears as white, salt‑like crystals on the skin surface caused by the evaporation of sweat containing high concentrations of urea.",
+      "topic": "Uraemia"
+    },
+    {
+      "question": "Renal failure is defined by which of the following criteria?",
+      "options": [
+        "Glomerular filtration rate <60 ml/min/1.73 m²",
+        "Urine output >3 L per day",
+        "Plasma osmolarity below 260 mOsm/kg",
+        "Serum albumin above 5 g/dL"
+      ],
+      "answer": 0,
+      "explanation": "Renal failure is diagnosed when the GFR falls below 60 ml/min/1.73 m², indicating significant loss of kidney function.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "Which clinical feature is more characteristic of chronic renal failure than acute renal failure?",
+      "options": [
+        "Sudden oliguria after exposure to a nephrotoxin",
+        "Persistent anemia due to low erythropoietin production",
+        "Rapid rise in serum creatinine within 24 hours",
+        "Severe hyperkalemia developing within a few hours"
+      ],
+      "answer": 1,
+      "explanation": "Chronic renal failure leads to reduced erythropoietin synthesis, causing a persistent normocytic anemia, whereas acute failure presents with rapid functional changes.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "Uraemia in renal failure is mainly caused by accumulation of which nitrogenous waste product?",
+      "options": [
+        "Urea",
+        "Creatinine",
+        "Uric acid",
+        "Ammonia"
+      ],
+      "answer": 0,
+      "explanation": "Urea, the primary end‑product of protein metabolism, accumulates in the blood when the kidneys cannot excrete it, producing the uremic syndrome.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "The most common acid‑base disturbance in advanced renal failure is:",
+      "options": [
+        "Metabolic alkalosis",
+        "Respiratory acidosis",
+        "Metabolic acidosis with high anion gap",
+        "Respiratory alkalosis"
+      ],
+      "answer": 2,
+      "explanation": "Impaired excretion of hydrogen ions and reduced bicarbonate regeneration cause a high‑anion‑gap metabolic acidosis in renal failure.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "Which of the following is an absolute indication for initiating dialysis in a patient with renal failure?",
+      "options": [
+        "Serum creatinine of 2 mg/dL",
+        "Persistent hyperkalemia >6.5 mEq/L",
+        "Mild fluid overload responsive to diuretics",
+        "Asymptomatic urea level of 80 mg/dL"
+      ],
+      "answer": 1,
+      "explanation": "Severe hyperkalemia (>6.5 mEq/L) that does not respond to medical therapy is an absolute indication for urgent dialysis.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "Hemodialysis differs from peritoneal dialysis mainly because it:",
+      "options": [
+        "Uses the patient's peritoneal membrane as a filter",
+        "Requires vascular access and an extracorporeal circuit",
+        "Can be performed at home without any equipment",
+        "Removes only water but not solutes"
+      ],
+      "answer": 1,
+      "explanation": "Hemodialysis involves drawing blood out of the body through a vascular access, passing it through an artificial membrane, and returning it, whereas peritoneal dialysis uses the peritoneal membrane in situ.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "Which condition is a contraindication for kidney transplantation?",
+      "options": [
+        "Well‑controlled hypertension",
+        "Active systemic infection",
+        "Type 2 diabetes mellitus with good control",
+        "Recipient age of 55 years"
+      ],
+      "answer": 1,
+      "explanation": "Active systemic infection must be cleared before transplantation to avoid postoperative sepsis and graft loss.",
+      "topic": "Renal failure"
+    },
+    {
+      "question": "What is the most common type of renal stone encountered in clinical practice?",
+      "options": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite (magnesium ammonium phosphate)",
+        "Cystine"
+      ],
+      "answer": 0,
+      "explanation": "Calcium oxalate stones account for about 70-80% of all renal calculi, making them the most prevalent type.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "A patient with a history of gout develops renal stones. Which type of stone is most likely associated with this condition?",
+      "options": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite",
+        "Cystine"
+      ],
+      "answer": 1,
+      "explanation": "Hyperuricemia in gout leads to supersaturation of uric acid in urine, predisposing to uric acid stones, especially in acidic urine.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "Magnesium ammonium phosphate stones (struvite) are most commonly associated with infection by which organism?",
+      "options": [
+        "Proteus mirabilis",
+        "Staphylococcus aureus",
+        "Escherichia coli",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": 0,
+      "explanation": "Proteus mirabilis produces urease, raising urinary pH and promoting precipitation of magnesium ammonium phosphate, the main component of struvite stones.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "Which urinary pH range most favors the formation of calcium phosphate stones?",
+      "options": [
+        "pH 5.5",
+        "pH 6.0",
+        "pH 7.5",
+        "pH 4.5"
+      ],
+      "answer": 2,
+      "explanation": "Calcium phosphate stones precipitate in alkaline urine; a pH around 7.5 provides optimal conditions for their formation.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "A 6 mm lower pole calcium oxalate stone is detected in a patient with normal renal function. What is the most appropriate initial treatment?",
+      "options": [
+        "Extracorporeal shock wave lithotripsy (ESWL)",
+        "Percutaneous nephrolithotomy (PCNL)",
+        "Open surgical removal",
+        "Conservative observation"
+      ],
+      "answer": 0,
+      "explanation": "ESWL is the first‑line therapy for stones ≤2 cm, especially those ≤10 mm, and is effective for lower pole stones of this size.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "Which dietary modification helps prevent recurrence of calcium oxalate stones?",
+      "options": [
+        "Increase animal protein intake",
+        "Decrease fluid intake",
+        "Increase dietary calcium intake",
+        "Decrease citrate intake"
+      ],
+      "answer": 2,
+      "explanation": "Adequate dietary calcium binds intestinal oxalate, reducing its absorption and urinary excretion, thereby lowering calcium oxalate stone risk.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "Urine microscopy shows hexagonal crystals in a patient with recurrent stones. Which metabolic disorder is most likely?",
+      "options": [
+        "Hyperoxaluria",
+        "Cystinuria",
+        "Hyperuricosuria",
+        "Hypercalciuria"
+      ],
+      "answer": 1,
+      "explanation": "Hexagonal crystals are characteristic of cystine; cystinuria is an inherited defect in renal tubular reabsorption of cystine and dibasic amino acids.",
+      "topic": "Renal calculi"
+    },
+    {
+      "question": "What is the most common chemical composition of kidney stones in the general population?",
+      "options": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite (magnesium ammonium phosphate)",
+        "Cystine"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 70-80% of all renal calculi are composed of calcium oxalate, making it the most prevalent type.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "A patient with a history of gout develops kidney stones. Which type of stone is most likely associated with this condition?",
+      "options": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite",
+        "Cystine"
+      ],
+      "answer": 1,
+      "explanation": "Hyperuricemia in gout leads to supersaturation of uric acid in urine, especially at low pH, resulting in uric acid stones.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Urine analysis shows a high level of citrate. Which stone type is least likely to form under this condition?",
+      "options": [
+        "Calcium oxalate",
+        "Calcium phosphate",
+        "Uric acid",
+        "Struvite"
+      ],
+      "answer": 0,
+      "explanation": "Citrate binds calcium, reducing supersaturation of calcium salts; thus calcium oxalate stones are least likely when urinary citrate is high.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Which imaging modality provides the highest sensitivity for detecting radiolucent kidney stones such as uric acid stones?",
+      "options": [
+        "Plain X‑ray KUB",
+        "Ultrasound abdomen",
+        "Non‑contrast computed tomography (CT) scan",
+        "Intravenous pyelogram"
+      ],
+      "answer": 2,
+      "explanation": "Non‑contrast CT can detect stones of any composition, including radiolucent uric acid stones, with near‑100% sensitivity.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Thiazide diuretics help prevent calcium oxalate stones primarily by:",
+      "options": [
+        "Increasing urinary citrate excretion",
+        "Decreasing urinary calcium excretion",
+        "Raising urine pH",
+        "Increasing urine volume"
+      ],
+      "answer": 1,
+      "explanation": "Thiazides reduce calcium excretion in urine, lowering supersaturation of calcium oxalate and thus preventing stone formation.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Struvite (magnesium ammonium phosphate) stones are most commonly associated with which condition?",
+      "options": [
+        "Hyperparathyroidism",
+        "Chronic urinary tract infection with urease‑producing bacteria",
+        "Gout",
+        "Cystinuria"
+      ],
+      "answer": 1,
+      "explanation": "Urease‑producing bacteria hydrolyze urea to ammonia, increasing urinary pH and favoring precipitation of struvite crystals.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "A 6 mm stone is located in the renal pelvis of a patient with normal renal function. What is the most appropriate initial treatment?",
+      "options": [
+        "Observation with increased fluid intake",
+        "Extracorporeal shock wave lithotripsy (ESWL)",
+        "Percutaneous nephrolithotomy",
+        "Ureteroscopic stone removal"
+      ],
+      "answer": 1,
+      "explanation": "Stones ≤10 mm in the renal pelvis are effectively managed with ESWL as a first‑line, non‑invasive option.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Which dietary modification is recommended to reduce the risk of calcium oxalate stone formation?",
+      "options": [
+        "Increase animal protein intake",
+        "Decrease fluid intake",
+        "Increase consumption of citrus fruits rich in citrate",
+        "Increase sodium intake"
+      ],
+      "answer": 2,
+      "explanation": "Citrate from citrus fruits binds calcium, reducing calcium oxalate supersaturation and lowering stone risk.",
+      "topic": "Kidney stones"
+    },
+    {
+      "question": "Which of the following is the most characteristic histopathological finding in acute post‑streptococcal glomerulonephritis?",
+      "options": [
+        "Subepithelial humps on electron microscopy",
+        "Linear IgG deposition along the glomerular basement membrane",
+        "Mesangial proliferation with IgA deposits",
+        "Thickening of the basement membrane with spikes"
+      ],
+      "answer": 0,
+      "explanation": "Acute post‑streptococcal GN shows electron‑dense subepithelial immune complex 'humps' on EM, reflecting immune complex deposition after streptococcal infection.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "Low serum complement C3 levels are most commonly associated with which type of glomerulonephritis?",
+      "options": [
+        "IgA nephropathy",
+        "Membranous nephropathy",
+        "Acute post‑streptococcal glomerulonephritis",
+        "Minimal change disease"
+      ],
+      "answer": 2,
+      "explanation": "In acute post‑streptococcal GN, activation of the classical complement pathway leads to a transient fall in serum C3, which recovers as the disease resolves.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "A 10‑year‑old child presents with hematuria, periorbital edema, and hypertension two weeks after a sore throat. Which serological test best supports the diagnosis?",
+      "options": [
+        "Anti‑DNAse B titre",
+        "Serum antinuclear antibody (ANA)",
+        "Serum IgE level",
+        "Serum cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Anti‑DNAse B antibodies rise after streptococcal infection and are used to confirm recent streptococcal pharyngitis in post‑streptococcal GN.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "Rapidly progressive glomerulonephritis (RPGN) is characterized histologically by which finding?",
+      "options": [
+        "Crescent formation in Bowman's space",
+        "Subendothelial deposits only",
+        "Diffuse podocyte foot‑process effacement",
+        "Absence of inflammatory cells"
+      ],
+      "answer": 0,
+      "explanation": "RPGN shows proliferating parietal epithelial cells and infiltrating macrophages forming crescents in Bowman's space, indicating severe glomerular injury.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "Which clinical finding is least likely in a patient with nephritic syndrome due to glomerulonephritis?",
+      "options": [
+        "Heavy proteinuria (>3.5 g/day)",
+        "Microscopic hematuria",
+        "Hypertension",
+        "Red blood cell casts"
+      ],
+      "answer": 0,
+      "explanation": "Nephritic syndrome typically presents with mild to moderate proteinuria (<3.5 g/day); massive proteinuria is characteristic of nephrotic syndrome.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "In IgA nephropathy, the predominant immunoglobulin deposited in the mesangium is:",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "C3"
+      ],
+      "answer": 2,
+      "explanation": "IgA nephropathy (Berger disease) is defined by dominant IgA immune complex deposition in the mesangium, leading to hematuria.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "Which statement about complement involvement in post‑streptococcal glomerulonephritis is correct?",
+      "options": [
+        "Complement activation occurs via the alternative pathway only",
+        "C5a mediates recruitment of neutrophils to glomeruli",
+        "Complement levels remain normal throughout disease",
+        "C1q deficiency predisposes to the disease"
+      ],
+      "answer": 1,
+      "explanation": "C5a, a potent chemotactic peptide generated during complement activation, attracts neutrophils to the glomerulus, contributing to inflammation in post‑streptococcal GN.",
+      "topic": "Glomerulonephritis"
+    },
+    {
+      "question": "What is the primary therapeutic goal of dialysis in patients with end‑stage renal disease?",
+      "options": [
+        "Removal of metabolic waste products and excess fluid",
+        "Stimulation of residual kidney function to increase glomerular filtration rate",
+        "Production of urine to replace lost fluids",
+        "Enhancement of erythropoietin synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Dialysis provides an artificial route for eliminating uremic toxins and excess water that the failing kidneys can no longer excrete.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "In conventional hemodialysis, the main mechanism by which urea is cleared from the blood is:",
+      "options": [
+        "Active transport across the dialyzer membrane",
+        "Diffusion across a semipermeable membrane driven by concentration gradient",
+        "Osmosis due to differences in water potential",
+        "Convection caused by ultrafiltration pressure"
+      ],
+      "answer": 1,
+      "explanation": "Urea, being a small, freely diffusible solute, moves from blood to dialysate down its concentration gradient by diffusion.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "Which of the following dialysate potassium concentrations is most commonly used to avoid severe hypokalemia during routine hemodialysis sessions?",
+      "options": [
+        "0 mEq/L",
+        "2 mEq/L",
+        "4 mEq/L",
+        "6 mEq/L"
+      ],
+      "answer": 1,
+      "explanation": "A dialysate potassium of about 2 mEq/L closely matches the normal plasma level and prevents excessive potassium removal that could cause hypokalemia.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "Among dialyzer membranes, which type offers the highest clearance of middle‑molecular‑weight uremic toxins?",
+      "options": [
+        "Low‑flux cellulose membrane",
+        "High‑flux polysulfone membrane",
+        "Cuprophane membrane",
+        "Nylon membrane"
+      ],
+      "answer": 1,
+      "explanation": "High‑flux polysulfone membranes have larger pores and higher permeability, allowing better removal of middle molecules such as β2‑microglobulin.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "The osmotic agent most frequently employed in continuous ambulatory peritoneal dialysis (CAPD) solutions is:",
+      "options": [
+        "Glucose",
+        "Mannitol",
+        "Urea",
+        "Sodium chloride"
+      ],
+      "answer": 0,
+      "explanation": "Glucose creates an osmotic gradient that draws water from the capillary blood into the peritoneal cavity, facilitating ultrafiltration.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "A single‑pool Kt/V value of 1.2 in a chronic hemodialysis patient indicates:",
+      "options": [
+        "Adequate dialysis dose as per KDOQI guidelines",
+        "Inadequate dialysis requiring longer or more frequent sessions",
+        "Excessive dialysis leading to loss of essential solutes",
+        "No clinical significance; Kt/V is not used for dosing"
+      ],
+      "answer": 0,
+      "explanation": "KDOQI recommends a minimum single‑pool Kt/V of 1.2 per session for thrice‑weekly hemodialysis, indicating sufficient clearance.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "A common long‑term complication specifically related to the vascular access used for hemodialysis is:",
+      "options": [
+        "Peritonitis",
+        "Arteriovenous fistula stenosis or thrombosis",
+        "Hyperkalemia due to inadequate clearance",
+        "Metabolic alkalosis from bicarbonate‑rich dialysate"
+      ],
+      "answer": 1,
+      "explanation": "Repeated needle cannulation and turbulent flow can cause intimal hyperplasia, leading to stenosis or thrombosis of the AV fistula, a frequent access problem.",
+      "topic": "Dialysis"
+    },
+    {
+      "question": "What is the primary mechanism by which urea is removed from the blood during haemodialysis?",
+      "options": [
+        "Diffusion across a semipermeable membrane",
+        "Active transport by membrane proteins",
+        "Osmosis driven by water movement",
+        "Ultrafiltration due to pressure gradient"
+      ],
+      "answer": 0,
+      "explanation": "Urea removal relies on diffusion; it moves from blood (higher concentration) to dialysate (lower concentration) across the dialysis membrane.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "Which factor most directly determines the rate of ultrafiltration in a haemodialysis session?",
+      "options": [
+        "Blood flow rate through the dialyzer",
+        "Dialysate flow rate",
+        "Transmembrane pressure gradient",
+        "Surface area of the dialysis membrane"
+      ],
+      "answer": 2,
+      "explanation": "Ultrafiltration is driven by the pressure difference across the membrane; a higher transmembrane pressure increases fluid removal.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "In the adequacy index Kt/V used for haemodialysis, what does the \"K\" denote?",
+      "options": [
+        "Blood flow rate (mL/min)",
+        "Dialysate flow rate (mL/min)",
+        "Clearance of urea by the dialyzer (mL/min)",
+        "Average pore size of the membrane (µm)"
+      ],
+      "answer": 2,
+      "explanation": "\"K\" represents the dialyzer’s urea clearance; it quantifies how efficiently the machine removes urea from the blood.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "Which membrane material is most commonly employed in modern high‑flux haemodialyzers for its biocompatibility?",
+      "options": [
+        "Cellulose",
+        "Cuprophane",
+        "Polysulfone",
+        "Silicone"
+      ],
+      "answer": 2,
+      "explanation": "Synthetic polysulfone membranes provide high flux and low activation of complement, making them the preferred choice today.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "A patient undergoing chronic haemodialysis develops muscle cramps and a drop in blood pressure during the session. What is the most likely cause?",
+      "options": [
+        "Hyperkalaemia",
+        "Inadequate sodium concentration in dialysate",
+        "Excessive ultrafiltration leading to intravascular volume depletion",
+        "Clotting of the dialyzer fibers"
+      ],
+      "answer": 2,
+      "explanation": "Rapid removal of excess fluid (excessive ultrafiltration) reduces circulating volume, producing cramps and hypotension.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "Which clinical condition is an absolute indication for starting haemodialysis in a patient with end‑stage renal disease?",
+      "options": [
+        "Mild normocytic anemia",
+        "Well‑controlled hypertension",
+        "Severe metabolic acidosis with pH < 7.1",
+        "Isolated proteinuria without renal dysfunction"
+      ],
+      "answer": 2,
+      "explanation": "Life‑threatening metabolic acidosis (pH <7.1) cannot be corrected medically and mandates immediate dialysis.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "Which solute is removed more efficiently by convection (ultrafiltration) rather than by diffusion during haemodialysis?",
+      "options": [
+        "Urea",
+        "Creatinine",
+        "β2‑microglobulin (a middle‑molecule)",
+        "Sodium"
+      ],
+      "answer": 2,
+      "explanation": "Middle‑molecule toxins such as β2‑microglobulin are larger than urea and are cleared better by convective transport (ultrafiltration) than by diffusion.",
+      "topic": "Haemodialysis"
+    },
+    {
+      "question": "What component of an artificial kidney (dialyzer) primarily determines the rate of solute clearance?",
+      "options": [
+        "Surface area of the semipermeable membrane",
+        "Length of the tubing",
+        "Color of the dialysate",
+        "Temperature of the blood"
+      ],
+      "answer": 0,
+      "explanation": "A larger membrane surface area provides more area for diffusion, directly increasing the clearance of solutes such as urea and creatinine.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "In hemodialysis, which principle allows removal of urea from blood?",
+      "options": [
+        "Active transport",
+        "Simple diffusion across a concentration gradient",
+        "Osmosis of water only",
+        "Facilitated diffusion of ions"
+      ],
+      "answer": 1,
+      "explanation": "Urea moves from blood (higher concentration) to dialysate (lower concentration) by simple diffusion across the semipermeable membrane.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "Which of the following is NOT a typical indication for initiating artificial kidney therapy?",
+      "options": [
+        "End‑stage renal disease",
+        "Acute severe hyperkalemia",
+        "Mild dehydration",
+        "Severe metabolic acidosis refractory to medical therapy"
+      ],
+      "answer": 2,
+      "explanation": "Mild dehydration can be corrected with fluid therapy; it does not warrant dialysis, unlike the other listed conditions.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "In peritoneal dialysis, which factor most influences the ultrafiltration rate?",
+      "options": [
+        "Dialysate glucose concentration",
+        "Patient's blood pressure",
+        "Ambient temperature of the room",
+        "Patient's age"
+      ],
+      "answer": 0,
+      "explanation": "Glucose in the dialysate creates an osmotic gradient that draws water from the peritoneal capillaries into the peritoneal cavity, increasing ultrafiltration.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "Which complication is most specifically associated with low‑flux hemodialysis membranes?",
+      "options": [
+        "Hypotension due to rapid fluid removal",
+        "β2‑microglobulin amyloidosis",
+        "Hyperkalemia",
+        "Hyperphosphatemia"
+      ],
+      "answer": 1,
+      "explanation": "Low‑flux membranes are less permeable to middle‑molecular‑weight proteins like β2‑microglobulin, leading to its accumulation and amyloid deposition over long‑term dialysis.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "The term \"dialysate\" in an artificial kidney refers to:",
+      "options": [
+        "Blood entering the dialyzer",
+        "Fluid that surrounds the semipermeable membrane to receive waste solutes",
+        "Anticoagulant added to blood",
+        "Sterile saline used for line flushing"
+      ],
+      "answer": 1,
+      "explanation": "Dialysate is the external solution that contacts the membrane; waste solutes diffuse from blood into this fluid, while excess electrolytes and water can be removed.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "Compared to a normal kidney, an artificial kidney cannot perform which of the following functions?",
+      "options": [
+        "Removal of urea",
+        "Regulation of erythropoietin production",
+        "Correction of electrolyte imbalance",
+        "Removal of excess water"
+      ],
+      "answer": 1,
+      "explanation": "Dialysis machines can clear urea, electrolytes, and excess water, but they cannot synthesize erythropoietin, a hormone produced by renal interstitial fibroblasts.",
+      "topic": "Artificial kidney"
+    },
+    {
+      "question": "Which of the following is the most common cause of end‑stage renal disease leading to kidney transplantation in adults?",
+      "options": [
+        "Diabetic nephropathy",
+        "Acute tubular necrosis",
+        "Polycystic kidney disease",
+        "Minimal change disease"
+      ],
+      "answer": 0,
+      "explanation": "Diabetic nephropathy accounts for the largest proportion of patients reaching end‑stage renal disease and therefore is the most frequent indication for renal transplantation.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "Among the factors listed, which is the strongest predictor of long‑term graft survival after kidney transplantation?",
+      "options": [
+        "Recipient age",
+        "Degree of HLA matching",
+        "Cold ischemia time",
+        "Donor gender"
+      ],
+      "answer": 1,
+      "explanation": "Better HLA compatibility between donor and recipient reduces immunologic injury and is the most important determinant of graft longevity.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "Which drug, belonging to the calcineurin inhibitor class, is routinely used in the standard triple‑therapy immunosuppressive regimen after kidney transplantation?",
+      "options": [
+        "Mycophenolate mofetil",
+        "Azathioprine",
+        "Cyclosporine",
+        "Prednisone"
+      ],
+      "answer": 2,
+      "explanation": "Cyclosporine inhibits calcineurin, suppressing T‑cell activation, and is a cornerstone of post‑transplant immunosuppression.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "Acute cellular rejection of a renal graft is primarily mediated by which immune cell type?",
+      "options": [
+        "Antibody‑dependent cytotoxic cells",
+        "CD8+ T lymphocytes",
+        "Complement proteins",
+        "Natural killer cells"
+      ],
+      "answer": 1,
+      "explanation": "Acute cellular rejection is driven mainly by host CD8+ cytotoxic T‑cells that recognize donor HLA antigens and attack the graft.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "For a living related kidney donation, which donor‑recipient relationship offers the best HLA compatibility?",
+      "options": [
+        "Sibling sharing one HLA haplotype",
+        "Parent with two HLA mismatches",
+        "Unrelated volunteer donor",
+        "Cousin with no HLA match"
+      ],
+      "answer": 0,
+      "explanation": "A sibling who shares one HLA haplotype (half‑match) provides the highest likelihood of acceptable compatibility among living related donors.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "Which condition is an absolute contraindication to proceeding with kidney transplantation?",
+      "options": [
+        "Controlled hypertension",
+        "Active systemic infection",
+        "Type 2 diabetes mellitus",
+        "Prior successful dialysis"
+      ],
+      "answer": 1,
+      "explanation": "An active systemic infection poses a high risk of postoperative sepsis under immunosuppression and is a contraindication until resolved.",
+      "topic": "Kidney transplantation"
+    },
+    {
+      "question": "The main purpose of administering anti‑thymocyte globulin (ATG) around the time of kidney transplantation is to:",
+      "options": [
+        "Prevent bacterial infection",
+        "Induce long‑term immune tolerance",
+        "Deplete T lymphocytes to reduce acute rejection",
+        "Enhance renal blood flow"
+      ],
+      "answer": 2,
+      "explanation": "ATG is a polyclonal antibody preparation that depletes circulating T cells, thereby lowering the incidence of early acute rejection.",
+      "topic": "Kidney transplantation"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 30,
+    "mcqCount": 211
+  }
+}

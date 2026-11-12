@@ -1,0 +1,15 @@
+{
+  "appName": "VIDHWAAN NEET",
+  "courseName": "VIDHWAAN NEET — 365-Day Preparation",
+  "totalDays": 365,
+  "publishHour": 6,
+  "publishMinute": 0,
+  "timezone": "Asia/Kolkata",
+  "languageModes": [
+    "english",
+    "telugu"
+  ],
+  "defaultLanguage": "english",
+  "generationHour": 1,
+  "generationMinute": 0
+}

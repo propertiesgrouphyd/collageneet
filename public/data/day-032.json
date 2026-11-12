@@ -1,0 +1,1397 @@
+{
+  "day": 32,
+  "courseDate": "2026-09-30",
+  "publishAt": "2026-09-30T06:00:00+05:30",
+  "title": "Day 32: Animal Tissue Comparison and Structural Organisation",
+  "introduction": "This lesson explores the major animal tissues, their structural variations, and how they integrate to form organs and organ systems. Emphasis is placed on comparative features, matrix composition, muscle types, and nervous tissue, all aligned with NEET high‑yield concepts.",
+  "sections": [
+    {
+      "topic": "Epithelial tissue comparison",
+      "heading": "Comparison of Epithelial Tissue Types",
+      "content": "Epithelial tissues are classified by cell layers (simple = one layer, stratified = multiple layers) and cell shape (squamous, cuboidal, columnar). Simple epithelium facilitates diffusion, absorption, and secretion, whereas stratified epithelium provides protection against mechanical stress. Pseudostratified epithelium appears multilayered but all cells contact the basement membrane. Transitional epithelium, a specialized stratified type, stretches in urinary bladder.",
+      "keyPoints": [
+        "Simple epithelium: one cell layer; stratified: multiple layers",
+        "Cell shape determines functional specialization",
+        "Pseudostratified = single layer with varying nuclei depth",
+        "Transitional epithelium adapts to stretch"
+      ],
+      "neetTips": [
+        "Recall the three criteria—layers, shape, and specialization—for quick identification in diagrams"
+      ]
+    },
+    {
+      "topic": "Simple and compound epithelium",
+      "heading": "Simple vs. Compound (Stratified) Epithelium",
+      "content": "Simple epithelium includes simple squamous (gas exchange), simple cuboidal (secretion, absorption in glands), and simple columnar (intestinal absorption, mucus). Compound epithelium, i.e., stratified, includes stratified squamous (skin, oral cavity), stratified cuboidal (ducts of sweat glands), and stratified columnar (rare, male urethra). The basement membrane underlies all epithelia, providing support and selective permeability.",
+      "keyPoints": [
+        "Simple squamous – thin, for diffusion",
+        "Simple cuboidal – cube‑shaped, secretory",
+        "Simple columnar – tall, absorptive",
+        "Stratified squamous – protective",
+        "Stratified cuboidal/columnar – ductal roles"
+      ],
+      "neetTips": [
+        "Link each epithelial type to its primary physiological role for faster recall"
+      ]
+    },
+    {
+      "topic": "Connective tissue matrix",
+      "heading": "Composition of Connective Tissue Matrix",
+      "content": "The extracellular matrix (ECM) of connective tissue consists of ground substance (glycosaminoglycans, proteoglycans, hyaluronic acid) and protein fibers. Ground substance provides a gel-like medium for nutrient diffusion, while fibers confer tensile strength and elasticity. The proportion of cells, fibers, and ground substance varies among connective tissue types.",
+      "keyPoints": [
+        "Ground substance = gel‑like, contains GAGs",
+        "Proteoglycans = protein core + GAG chains",
+        "Matrix determines tissue resilience",
+        "Cell density inversely related to matrix volume"
+      ],
+      "neetTips": [
+        "Remember GAGs = \"glycosaminoglycans\" – long, unbranched polysaccharides that attract water"
+      ]
+    },
+    {
+      "topic": "Fibres of connective tissue",
+      "heading": "Types of Fibres in Connective Tissue",
+      "content": "Three principal fibers: collagen fibers (high tensile strength, low elasticity), elastic fibers (high elasticity, low tensile strength, composed of elastin), and reticular fibers (thin collagen type III forming supportive networks). Collagen is the most abundant protein in the body and is crucial for bone, tendons, and ligaments.",
+      "keyPoints": [
+        "Collagen – tensile strength, slow turnover",
+        "Elastic – stretch‑recoil, rich in elastin",
+        "Reticular – supportive mesh in lymphoid organs"
+      ],
+      "neetTips": [
+        "Associate collagen with 'strength', elastic with 'stretch', reticular with 'network'"
+      ]
+    },
+    {
+      "topic": "Cartilage versus bone",
+      "heading": "Structural Differences Between Cartilage and Bone",
+      "content": "Cartilage is a flexible connective tissue with chondrocytes in lacunae, surrounded by a dense ECM rich in type II collagen and proteoglycans; it lacks blood vessels, nerves, and periosteum. Bone is a rigid tissue with osteocytes in lacunae, a mineralized matrix containing type I collagen and hydroxyapatite crystals; it is vascularized, innervated, and covered by periosteum. Growth occurs via appositional and endochondral ossification.",
+      "keyPoints": [
+        "Cartilage: avascular, flexible, type II collagen",
+        "Bone: vascular, rigid, type I collagen + Ca‑phosphate",
+        "Osteocytes in lacunae within canaliculi",
+        "Periosteum supplies nutrients to bone"
+      ],
+      "neetTips": [
+        "Key NEET cue: \"Cartilage = flexible, bone = hard\""
+      ]
+    },
+    {
+      "topic": "Blood as a connective tissue",
+      "heading": "Blood – A Fluid Connective Tissue",
+      "content": "Blood consists of cellular elements (erythrocytes, leukocytes, platelets) suspended in plasma, the liquid extracellular matrix. Plasma contains water, proteins (albumin, globulins, fibrinogen), electrolytes, nutrients, and waste. The fluid nature allows transport of gases, nutrients, and immune cells, fulfilling connective tissue functions of support and protection.",
+      "keyPoints": [
+        "Plasma = liquid matrix",
+        "Erythrocytes transport O₂/CO₂",
+        "Leukocytes = immunity",
+        "Platelets = clotting"
+      ],
+      "neetTips": [
+        "Think of blood as a ‘connective tissue in motion’ for NEET"
+      ]
+    },
+    {
+      "topic": "Muscle tissue comparison",
+      "heading": "Comparison of Muscle Tissue Types",
+      "content": "Three muscle types: skeletal (striated, voluntary, multinucleated, attached to bones), cardiac (striated, involuntary, single nucleus, intercalated discs with gap junctions), and smooth (non‑striated, involuntary, spindle‑shaped, single nucleus). Functional differences arise from structural specializations such as sarcomere organization in striated muscles and dense bodies in smooth muscle.",
+      "keyPoints": [
+        "Skeletal – voluntary, striated, multinucleated",
+        "Cardiac – involuntary, striated, intercalated discs",
+        "Smooth – involuntary, non‑striated, spindle‑shaped"
+      ],
+      "neetTips": [
+        "Link striation to presence of sarcomeres; only skeletal and cardiac have them"
+      ]
+    },
+    {
+      "topic": "Striated and non-striated muscles",
+      "heading": "Striated vs. Non‑Striated Muscle Structure",
+      "content": "Striated muscles display alternating light (I‑band) and dark (A‑band) bands due to orderly sarcomere arrangement of actin and myosin. Non‑striated (smooth) muscle lacks sarcomeres; contractile proteins are anchored to dense bodies, producing a uniform appearance. This structural difference dictates contraction speed and control.",
+      "keyPoints": [
+        "Striated = sarcomeres → rapid, forceful contraction",
+        "Non‑striated = dense bodies → slower, sustained contraction"
+      ],
+      "neetTips": [
+        "Visualize a zebra’s stripes for striated muscle; smooth muscle looks like a plain sheet"
+      ]
+    },
+    {
+      "topic": "Voluntary and involuntary muscles",
+      "heading": "Control Mechanisms of Muscle Types",
+      "content": "Voluntary muscles (skeletal) are under somatic nervous system control, allowing conscious movement. Involuntary muscles (cardiac and smooth) are regulated by the autonomic nervous system and intrinsic pacemaker activity (cardiac) or hormonal signals (smooth). This distinction influences response time and fatigue resistance.",
+      "keyPoints": [
+        "Skeletal – somatic, conscious control",
+        "Cardiac – autonomic, intrinsic pacemaker",
+        "Smooth – autonomic, hormonal regulation"
+      ],
+      "neetTips": [
+        "NEET often asks which muscle type is under voluntary control – answer: skeletal"
+      ]
+    },
+    {
+      "topic": "Cardiac muscle characteristics",
+      "heading": "Unique Features of Cardiac Muscle",
+      "content": "Cardiac muscle is striated, branched, and interconnected by intercalated discs containing desmosomes (mechanical coupling) and gap junctions (electrical coupling). It has a single central nucleus, abundant mitochondria, and intrinsic rhythmicity due to pacemaker cells in the SA node. The refractory period is long, preventing tetany.",
+      "keyPoints": [
+        "Branched fibers with intercalated discs",
+        "Gap junctions enable rapid impulse spread",
+        "Long refractory period prevents tetanus"
+      ],
+      "neetTips": [
+        "Remember: \"Cardiac = striated + branched + intercalated\""
+      ]
+    },
+    {
+      "topic": "Neuron and neuroglia",
+      "heading": "Neuronal and Glial Cell Types",
+      "content": "Neurons consist of a soma, dendrites, and an axon; they transmit electrical impulses via action potentials. Neuroglia (support cells) include astrocytes (blood‑brain barrier, nutrient support), oligodendrocytes (myelinate CNS axons), Schwann cells (myelinate PNS axons), microglia (phagocytosis), and ependymal cells (CSF circulation). Glia outnumber neurons ~10:1 and are essential for homeostasis.",
+      "keyPoints": [
+        "Neuron = signal transmission unit",
+        "Astrocyte – BBB, metabolic support",
+        "Oligodendrocyte/Schwann – myelination",
+        "Microglia – immune defense"
+      ],
+      "neetTips": [
+        "NEET tip: Glial cells = ‘glue’ – support, not conduct"
+      ]
+    },
+    {
+      "topic": "Tissue-level organisation",
+      "heading": "From Cells to Tissues",
+      "content": "Tissues are groups of similar cells performing a common function, classified into four basic types: epithelial, connective, muscle, and nervous. Each tissue type exhibits characteristic cell morphology, extracellular components, and functional roles, forming the building blocks for organs.",
+      "keyPoints": [
+        "Four tissue types: epithelial, connective, muscle, nervous",
+        "Cells with common function form a tissue"
+      ],
+      "neetTips": [
+        "Recall the mnemonic \"ECMN\" for tissue types"
+      ]
+    },
+    {
+      "topic": "Organ and organ-system organisation",
+      "heading": "Integration of Tissues into Organs and Systems",
+      "content": "An organ comprises two or more tissue types working together (e.g., stomach – epithelial lining, connective layer, smooth muscle, nerves). Organs are organized into organ systems that perform coordinated physiological functions (digestive, circulatory, nervous, etc.). Hierarchical organization ensures efficiency and regulation.",
+      "keyPoints": [
+        "Organ = multiple tissue types",
+        "Organ system = group of organs with related function"
+      ],
+      "neetTips": [
+        "NEET often asks to match tissue type to organ function – think of stomach layers"
+      ]
+    },
+    {
+      "topic": "Structural organisation in animals",
+      "heading": "Overall Structural Hierarchy in Animals",
+      "content": "The animal body exhibits a hierarchical organization: cells → tissues → organs → organ systems → organism. This arrangement allows specialization at each level, from molecular mechanisms in cells to integrated physiological processes in systems, essential for survival and adaptation.",
+      "keyPoints": [
+        "Hierarchy: cell → tissue → organ → system → organism",
+        "Specialization increases with each level"
+      ],
+      "neetTips": [
+        "Visualize a pyramid: base = cells, apex = whole animal"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and compare the structural features of all animal tissue types",
+    "Explain the matrix composition and fibre types of connective tissue",
+    "Differentiate skeletal, cardiac and smooth muscles based on morphology and control",
+    "Describe the roles of neurons and various neuroglial cells",
+    "Outline the hierarchical organization from cells to organ systems in animals"
+  ],
+  "mcqs": [
+    {
+      "question": "Which type of epithelium lines the alveolar sacs of the lungs, facilitating gas exchange?",
+      "options": [
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Alveolar walls are composed of a single thin layer of flat cells (simple squamous) that minimizes diffusion distance for O₂ and CO₂.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Which epithelial tissue provides the greatest protection against mechanical abrasion?",
+      "options": [
+        "Stratified cuboidal epithelium",
+        "Stratified columnar epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Stratified squamous epithelium has multiple layers of cells, with the outermost layer often keratinized, making it ideal for resisting abrasion.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "The lining of the esophagus is composed of which type of epithelium?",
+      "options": [
+        "Keratinized stratified squamous epithelium",
+        "Non‑keratinized stratified squamous epithelium",
+        "Simple columnar epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The esophagus is lined by non‑keratinized stratified squamous epithelium, protecting against friction while remaining moist.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Which epithelium is characteristic of the respiratory tract and contains cilia and goblet cells?",
+      "options": [
+        "Simple columnar epithelium",
+        "Pseudostratified columnar ciliated epithelium",
+        "Stratified cuboidal epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The trachea and larger bronchi are lined by pseudostratified columnar ciliated epithelium with interspersed goblet cells that secrete mucus.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Which epithelial type is specially adapted to accommodate stretching in the urinary bladder?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified columnar epithelium",
+        "Transitional epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Transitional epithelium can change shape from cuboidal to squamous, allowing the bladder to expand and contract.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Kidney distal convoluted tubules are lined by which epithelium?",
+      "options": [
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Stratified cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The distal convoluted tubule consists of a single layer of cube‑shaped cells with abundant mitochondria, typical of simple cuboidal epithelium.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes simple columnar epithelium from stratified columnar epithelium?",
+      "options": [
+        "Simple columnar epithelium consists of a single layer of tall cells, whereas stratified columnar epithelium has multiple layers of cells.",
+        "Both are multilayered but differ in cell shape.",
+        "Simple columnar epithelium is keratinized while stratified columnar is not.",
+        "Stratified columnar epithelium lines the intestine, whereas simple columnar lines the skin."
+      ],
+      "answer": 0,
+      "explanation": "Simple columnar epithelium has one layer of elongated cells; stratified columnar epithelium has several layers, with the superficial layer being columnar.",
+      "topic": "Epithelial tissue comparison"
+    },
+    {
+      "question": "Which type of simple epithelium, characterized by a single thin flattened cell layer, is most suited for gas exchange and lines the alveolar walls?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium is thin and facilitates diffusion, making it ideal for gas exchange in alveoli.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "The epithelium that appears stratified because the nuclei are at different heights but is actually a single layer of cells is called:",
+      "options": [
+        "Stratified cuboidal epithelium",
+        "Pseudostratified columnar epithelium",
+        "Stratified squamous epithelium",
+        "Simple columnar epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Pseudostratified columnar epithelium looks multilayered due to varied nuclear positions, yet all cells rest on the basement membrane.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "Which stratified (compound) epithelium is keratinized and provides protection against abrasion in the external surface of skin?",
+      "options": [
+        "Stratified cuboidal epithelium",
+        "Stratified columnar epithelium",
+        "Keratinized stratified squamous epithelium",
+        "Non-keratinized stratified squamous epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Keratinized stratified squamous epithelium forms the epidermis, offering a tough, protective barrier.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "In the renal tubules, which type of simple epithelium is primarily involved in secretion and selective reabsorption?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Stratified cuboidal epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Simple cuboidal epithelium lines kidney tubules and is specialized for secretion and selective reabsorption.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "Which compound epithelium lines the larger ducts of some glands and the male urethra?",
+      "options": [
+        "Stratified columnar epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Stratified columnar epithelium lines larger glandular ducts and portions of the male urethra, providing protection and secretion.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "The primary structural difference between simple and compound epithelium is:",
+      "options": [
+        "Presence of cilia",
+        "Number of cell layers",
+        "Type of basement membrane",
+        "Degree of keratinization"
+      ],
+      "answer": 1,
+      "explanation": "Simple epithelium consists of a single cell layer, whereas compound (stratified) epithelium has multiple layers.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "Which simple epithelium type possesses apical microvilli to increase absorptive surface area, especially in the small intestine?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Simple columnar epithelium in the intestine has a brush border of microvilli that greatly expands the surface area for absorption.",
+      "topic": "Simple and compound epithelium"
+    },
+    {
+      "question": "Which component of the connective tissue matrix primarily provides resistance to compressive forces?",
+      "options": [
+        "Collagen fibers",
+        "Elastic fibers",
+        "Ground substance (proteoglycans)",
+        "Reticular fibers"
+      ],
+      "answer": 2,
+      "explanation": "Proteoglycans in the ground substance trap water, creating a gel that resists compression, unlike the tensile strength provided by collagen.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "The major glycosaminoglycan (GAG) that contributes to the viscosity of the ground substance in most loose connective tissues is:",
+      "options": [
+        "Heparan sulfate",
+        "Chondroitin sulfate",
+        "Hyaluronic acid",
+        "Dermatan sulfate"
+      ],
+      "answer": 2,
+      "explanation": "Hyaluronic acid is a large, non‑sulfated GAG that imparts high viscosity to the ground substance, allowing it to act as a lubricant and shock absorber.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "The extracellular matrix of hyaline cartilage is especially rich in which type of collagen?",
+      "options": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV"
+      ],
+      "answer": 1,
+      "explanation": "Hyaline cartilage matrix contains abundant type II collagen, which forms fine fibrils that provide tensile strength while maintaining flexibility.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "Which cell type is chiefly responsible for synthesizing the fibers and ground substance of most connective tissue matrices?",
+      "options": [
+        "Osteoblast",
+        "Fibroblast",
+        "Chondrocyte",
+        "Adipocyte"
+      ],
+      "answer": 1,
+      "explanation": "Fibroblasts are the principal matrix‑producing cells in most connective tissues, secreting collagen, elastin, and ground‑substance components.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "A deficiency of vitamin C impairs which specific biochemical step in connective tissue matrix formation?",
+      "options": [
+        "Synthesis of proteoglycans",
+        "Hydroxylation of proline and lysine residues in collagen",
+        "Cross‑linking of elastin fibers",
+        "Secretion of hyaluronic acid"
+      ],
+      "answer": 1,
+      "explanation": "Vitamin C is a co‑factor for prolyl and lysyl hydroxylases; without it, collagen cannot be properly hydroxylated, leading to weak matrix formation (scurvy).",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "Compared with loose connective tissue, the ground substance of dense regular connective tissue contains:",
+      "options": [
+        "A higher proportion of elastin fibers",
+        "A lower concentration of proteoglycans",
+        "More hyaluronic acid",
+        "More reticular fibers"
+      ],
+      "answer": 1,
+      "explanation": "Dense regular tissue has tightly packed collagen bundles and relatively less ground substance, resulting in a lower proteoglycan content than loose connective tissue.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "Which matrix component chiefly enables tissues to resist shear stress?",
+      "options": [
+        "Type I collagen fibers",
+        "Elastic fibers",
+        "Proteoglycans",
+        "Reticular fibers"
+      ],
+      "answer": 0,
+      "explanation": "Type I collagen fibers are thick and strong, providing the primary tensile strength that allows tissues to withstand shear forces.",
+      "topic": "Connective tissue matrix"
+    },
+    {
+      "question": "Which type of connective tissue fiber provides the greatest tensile strength to tissues such as tendons and ligaments?",
+      "options": [
+        "Collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers",
+        "Ground substance"
+      ],
+      "answer": 0,
+      "explanation": "Collagen fibers, especially type I, are rich in the amino acid hydroxyproline and form thick, rope‑like bundles that resist pulling forces, giving tendons and ligaments high tensile strength.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "The primary protein component of elastic fibers in the extracellular matrix is:",
+      "options": [
+        "Elastin",
+        "Collagen",
+        "Keratin",
+        "Fibrillin"
+      ],
+      "answer": 0,
+      "explanation": "Elastic fibers consist of a core of elastin protein surrounded by a sheath of microfibrils containing fibrillin; elastin confers stretchability and recoil.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "Which special stain is most commonly used to demonstrate reticular fibers in histological sections?",
+      "options": [
+        "Masson's trichrome",
+        "Verhoeff's elastic stain",
+        "Silver impregnation",
+        "Hematoxylin and eosin"
+      ],
+      "answer": 2,
+      "explanation": "Reticular fibers are visualized by silver impregnation techniques (e.g., Gomori's silver stain) which deposit metallic silver on the fine fibrillar network.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "Type I collagen fibers are predominantly found in which of the following tissues?",
+      "options": [
+        "Skin, tendons and bone",
+        "Cartilage matrix",
+        "Blood vessel walls",
+        "Basement membranes"
+      ],
+      "answer": 0,
+      "explanation": "Type I collagen is the most abundant collagen, forming thick fibrils that provide strength to skin, tendons, ligaments and bone.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "Elastic fibers are most abundant in which connective tissue layer of the body?",
+      "options": [
+        "Dermis of the skin",
+        "Hyaline cartilage",
+        "Liver capsule",
+        "Spleen capsule"
+      ],
+      "answer": 0,
+      "explanation": "The dermis contains numerous elastic fibers that allow the skin to stretch and recoil, especially in areas such as the neck and scalp.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "Which of the following statements about reticular fibers is correct?",
+      "options": [
+        "They form a supportive meshwork in lymphoid organs",
+        "They provide elasticity to large arteries",
+        "They are composed mainly of elastin",
+        "They stain red with Masson's trichrome"
+      ],
+      "answer": 0,
+      "explanation": "Reticular fibers, composed of type III collagen, create a delicate supporting framework in organs like lymph nodes, spleen and bone marrow.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "The recoil of lung tissue after inhalation is primarily due to which connective tissue fiber?",
+      "options": [
+        "Collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers",
+        "None of the above"
+      ],
+      "answer": 1,
+      "explanation": "Elastic fibers in the lung interstitium stretch during inhalation and return to their original length during exhalation, providing the elastic recoil essential for ventilation.",
+      "topic": "Fibres of connective tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes cartilage from bone regarding vascularity?",
+      "options": [
+        "Cartilage is highly vascular, bone is avascular",
+        "Both cartilage and bone are avascular",
+        "Cartilage is avascular, bone is richly vascularized",
+        "Both cartilage and bone are richly vascularized"
+      ],
+      "answer": 2,
+      "explanation": "Cartilage lacks blood vessels and receives nutrients by diffusion, whereas bone has an extensive vascular network that supplies nutrients and removes waste.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "The predominant collagen type in the extracellular matrix of hyaline cartilage is:",
+      "options": [
+        "Type I collagen",
+        "Type II collagen",
+        "Type III collagen",
+        "Type IV collagen"
+      ],
+      "answer": 1,
+      "explanation": "Hyaline cartilage matrix is rich in type II collagen fibers, which provide tensile strength while allowing flexibility.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "Which structure is present in bone but absent in cartilage?",
+      "options": [
+        "Periosteum",
+        "Perichondrium",
+        "Growth plate",
+        "Lacunae"
+      ],
+      "answer": 0,
+      "explanation": "Bone is covered by a periosteum, a dense fibrous membrane containing blood vessels and nerves; cartilage is covered by a perichondrium, which lacks the osteogenic layer of the periosteum.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "During endochondral ossification, which cell type deposits the bone matrix that replaces the cartilage model?",
+      "options": [
+        "Chondroblasts",
+        "Osteoblasts",
+        "Fibroblasts",
+        "Osteoclasts"
+      ],
+      "answer": 1,
+      "explanation": "Osteoblasts are the bone‑forming cells that synthesize and mineralize the osteoid, converting the cartilage template into bone.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "Which type of cartilage is found in intervertebral discs and contains abundant type I collagen fibers?",
+      "options": [
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Fibrocartilage",
+        "Articular cartilage"
+      ],
+      "answer": 2,
+      "explanation": "Fibrocartilage, rich in type I collagen, provides high tensile strength and is the main component of intervertebral discs.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "Which statement about the repair capacity of cartilage and bone is correct?",
+      "options": [
+        "Cartilage repairs rapidly due to its rich blood supply",
+        "Bone repairs slowly because it is avascular",
+        "Cartilage has limited repair capacity because it is avascular",
+        "Bone cannot repair itself"
+      ],
+      "answer": 2,
+      "explanation": "Because cartilage lacks blood vessels, its ability to heal after injury is poor, whereas bone, being vascular, can repair efficiently.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "The presence of which mineral distinguishes compact bone from cartilage matrix?",
+      "options": [
+        "Calcium pyrophosphate crystals",
+        "Hydroxyapatite crystals",
+        "Glycosaminoglycans",
+        "Elastic fibers"
+      ],
+      "answer": 1,
+      "explanation": "Compact bone matrix contains hydroxyapatite (calcium phosphate) crystals that provide hardness, a feature absent in cartilage, which contains mainly proteoglycans and collagen.",
+      "topic": "Cartilage versus bone"
+    },
+    {
+      "question": "Which component of blood serves as the ground substance of its connective tissue matrix?",
+      "options": [
+        "Plasma",
+        "Erythrocytes",
+        "Leukocytes",
+        "Platelets"
+      ],
+      "answer": 0,
+      "explanation": "Plasma is the liquid extracellular matrix (ground substance) in which blood cells are suspended, analogous to the ground substance of other connective tissues.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "During the clotting cascade, which plasma protein is directly converted into fibrin to form a clot?",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Fibrinogen",
+        "Prothrombin"
+      ],
+      "answer": 2,
+      "explanation": "Fibrinogen is the soluble plasma protein that thrombin converts into insoluble fibrin strands, which constitute the clot.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "Which type of connective‑tissue fiber is transiently present in blood?",
+      "options": [
+        "Collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers",
+        "Fibrin fibers"
+      ],
+      "answer": 3,
+      "explanation": "Fibrin fibers are formed during clotting and are the only true fibers found in blood, unlike the permanent fibers of other connective tissues.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes blood from most other connective tissues?",
+      "options": [
+        "Blood has a solid extracellular matrix.",
+        "Blood contains abundant ground substance but no fibers.",
+        "Blood cells are embedded in a liquid matrix.",
+        "Blood lacks any extracellular matrix."
+      ],
+      "answer": 2,
+      "explanation": "Blood is unique among connective tissues because its cells are suspended in a fluid (liquid) extracellular matrix (plasma), whereas most other connective tissues have a solid or semi‑solid matrix.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "The principal function of erythrocytes is to:",
+      "options": [
+        "Phagocytose bacteria",
+        "Transport oxygen",
+        "Produce antibodies",
+        "Form clots"
+      ],
+      "answer": 1,
+      "explanation": "Erythrocytes (red blood cells) contain hemoglobin, which binds and transports oxygen from the lungs to tissues.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "Which of the following is NOT a function of plasma proteins?",
+      "options": [
+        "Maintaining osmotic pressure",
+        "Transport of lipids",
+        "Blood clotting",
+        "Generating ATP"
+      ],
+      "answer": 3,
+      "explanation": "Plasma proteins are involved in osmotic balance, transport of substances (including lipids via lipoproteins), and clotting, but they do not directly generate ATP.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "In connective‑tissue classification, blood is considered a:",
+      "options": [
+        "Dense regular connective tissue",
+        "Loose connective tissue",
+        "Fluid connective tissue",
+        "Specialized connective tissue"
+      ],
+      "answer": 2,
+      "explanation": "Blood is classified as a fluid connective tissue because its matrix (plasma) is liquid, distinguishing it from solid connective tissue types.",
+      "topic": "Blood as a connective tissue"
+    },
+    {
+      "question": "Which type of muscle tissue typically contains a single centrally located nucleus per cell?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle fibers are spindle‑shaped and possess a single nucleus positioned centrally, unlike multinucleated skeletal fibers and branched cardiac cells with peripheral nuclei.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "The presence of intercalated discs is a distinguishing feature of which muscle type?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both skeletal and cardiac muscle"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs, containing fascia adherens and desmosomes, are unique to cardiac muscle and facilitate synchronized contraction.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes skeletal and cardiac muscle regarding control?",
+      "options": [
+        "Both are under voluntary control",
+        "Both are under involuntary control",
+        "Skeletal muscle is voluntary, cardiac muscle is involuntary",
+        "Skeletal muscle is involuntary, cardiac muscle is voluntary"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle contraction is consciously regulated, whereas cardiac muscle contracts automatically under autonomic control.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "Which muscle type has the highest density of mitochondria to meet its continuous energy demand?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All have similar mitochondrial density"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle cells contain abundant mitochondria (≈30–40% of cell volume) to sustain relentless rhythmic activity.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "In terms of contraction speed, which muscle tissue contracts the fastest?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All contract at the same speed"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers can generate rapid, brief twitches, whereas cardiac and smooth muscles contract more slowly.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "Which muscle type lacks sarcomeres and therefore does not exhibit striations?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both skeletal and cardiac muscle"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle cells have actin and myosin filaments arranged irregularly without sarcomeres, giving them a non‑striated appearance.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "Which muscle tissue can initiate rhythmic, automatic contractions without any neural input?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All require neural input"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle possesses intrinsic pacemaker cells (e.g., SA node) that generate spontaneous action potentials, enabling autonomous beating.",
+      "topic": "Muscle tissue comparison"
+    },
+    {
+      "question": "Which type of muscle fibers typically contain multiple centrally located nuclei?",
+      "options": [
+        "Skeletal muscle fibers",
+        "Cardiac muscle fibers",
+        "Smooth muscle fibers",
+        "All muscle fibers have a single peripheral nucleus"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle fibers are non‑striated and characteristically possess several nuclei situated in the centre of the cell.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "The presence of intercalated discs is a distinctive feature of which muscle type?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both skeletal and cardiac muscles"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs, containing desmosomes and gap junctions, are unique to cardiac muscle and are absent in skeletal and smooth muscles.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "In which muscle type are transverse (T‑) tubules positioned at the level of the Z‑discs?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both skeletal and cardiac muscles"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle T‑tubules are aligned with the Z‑discs, whereas in skeletal muscle they are located at the A‑I junction.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "Which muscle type is primarily under voluntary control?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both cardiac and smooth muscles"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle contraction is consciously controlled via the somatic nervous system, unlike cardiac and smooth muscles which are involuntary.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "Which muscle type lacks well‑defined sarcomeres?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All three muscle types have sarcomeres"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle does not possess the regular, repeating sarcomeric units that give rise to striations in skeletal and cardiac muscles.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "Which muscle type can generate rhythmic contractions autonomously due to intrinsic pacemaker cells?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both cardiac and smooth muscles"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle contains specialized pacemaker cells (e.g., SA node) that initiate spontaneous rhythmic contractions without external neural input.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "Which statement about striated muscles is FALSE?",
+      "options": [
+        "They contain sarcomeres",
+        "Their nuclei are located peripherally",
+        "They are under voluntary control",
+        "They possess intercalated discs"
+      ],
+      "answer": 3,
+      "explanation": "Intercalated discs are a feature of cardiac muscle, which is striated but involuntary; skeletal (striated) muscle does not have intercalated discs.",
+      "topic": "Striated and non-striated muscles"
+    },
+    {
+      "question": "Which feature is present in skeletal (voluntary) muscle but absent in smooth (involuntary) muscle?",
+      "options": [
+        "Striated appearance",
+        "Multinucleated cells",
+        "Presence of intercalated discs",
+        "Gap junctions"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers show transverse striations due to the regular arrangement of actin and myosin, whereas smooth muscle fibers are non‑striated.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "Cardiac muscle is involuntary but differs from smooth muscle because it:",
+      "options": [
+        "has intercalated discs",
+        "lacks striations",
+        "has multiple nuclei per fiber",
+        "is under voluntary control"
+      ],
+      "answer": 0,
+      "explanation": "Intercalated discs containing desmosomes and gap junctions are unique to cardiac muscle and are absent in smooth muscle.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "Which type of muscle tissue exhibits the fastest contraction speed?",
+      "options": [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "All contract at the same speed"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle fibers can contract in milliseconds, which is faster than the slower, more sustained contractions of smooth and cardiac muscles.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "The primary neurotransmitter released at the neuromuscular junction of voluntary skeletal muscles is:",
+      "options": [
+        "Acetylcholine",
+        "Norepinephrine",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholine is the excitatory neurotransmitter that binds to nicotinic receptors on skeletal muscle fibers to trigger contraction.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "In which muscle type is the contractile unit called a \"sarcomere\"?",
+      "options": [
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Both skeletal and cardiac muscle"
+      ],
+      "answer": 3,
+      "explanation": "Sarcomeres, the repeating contractile units, are present in both skeletal and cardiac muscle; smooth muscle lacks sarcomeres.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "Which statement correctly describes the regeneration capacity of skeletal muscle compared to cardiac muscle?",
+      "options": [
+        "Both regenerate equally well",
+        "Skeletal muscle regenerates via satellite cells, cardiac muscle has limited regeneration",
+        "Cardiac muscle regenerates via satellite cells, skeletal muscle cannot regenerate",
+        "Neither can regenerate"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle possesses satellite cells that can proliferate and repair damaged fibers, whereas cardiac muscle has very limited intrinsic regenerative ability.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "Which of the following is true regarding the control of involuntary muscles?",
+      "options": [
+        "They are innervated by the somatic nervous system",
+        "They are under conscious control",
+        "They are regulated by the autonomic nervous system",
+        "They lack any neural innervation"
+      ],
+      "answer": 2,
+      "explanation": "Involuntary muscles such as smooth and cardiac muscle are regulated by the autonomic nervous system, not by conscious (somatic) control.",
+      "topic": "Voluntary and involuntary muscles"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of cardiac muscle fibers?",
+      "options": [
+        "Presence of intercalated discs",
+        "Multinucleated cells",
+        "Abundant mitochondria",
+        "Striated appearance"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle cells are typically uninucleate; multinucleation is a feature of skeletal muscle.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "The specialized junctions that allow rapid transmission of action potentials between cardiac muscle cells are called:",
+      "options": [
+        "Desmosomes",
+        "Gap junctions",
+        "Tight junctions",
+        "Hemidesmosomes"
+      ],
+      "answer": 1,
+      "explanation": "Gap junctions contain connexin proteins that form channels for ions, enabling swift electrical coupling.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "Which protein component of intercalated discs provides mechanical strength by anchoring actin filaments?",
+      "options": [
+        "Desmoplakin",
+        "Connexin",
+        "Cadherin",
+        "Integrin"
+      ],
+      "answer": 0,
+      "explanation": "Desmoplakin links the intermediate filaments of the cytoskeleton to desmosomal cadherins, giving mechanical integrity.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "The intrinsic pacemaker activity of the heart is primarily due to which type of cardiac muscle cell?",
+      "options": [
+        "Purkinje fibers",
+        "Atrial myocytes",
+        "Ventricular myocytes",
+        "Sinoatrial node cells"
+      ],
+      "answer": 3,
+      "explanation": "Sinoatrial (SA) node cells possess automaticity and set the heart rate.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "Compared to skeletal muscle, cardiac muscle has a higher ratio of which organelle, reflecting its metabolic demand?",
+      "options": [
+        "Nuclei",
+        "Sarcoplasmic reticulum",
+        "Mitochondria",
+        "Myofibrils"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac myocytes contain many mitochondria to meet continuous aerobic energy requirements.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "Which of the following statements correctly describes the contraction mechanism of cardiac muscle?",
+      "options": [
+        "Calcium influx through voltage-gated L-type channels triggers release from sarcoplasmic reticulum",
+        "Contraction is solely dependent on extracellular calcium",
+        "Action potential duration is shorter than in skeletal muscle",
+        "Troponin C does not bind calcium in cardiac muscle"
+      ],
+      "answer": 0,
+      "explanation": "L-type calcium channels allow Ca2+ entry, which then induces Ca2+ release from the sarcoplasmic reticulum (calcium-induced calcium release).",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "In cardiac muscle, the presence of which structure ensures that the force generated by one cell is transmitted to adjacent cells?",
+      "options": [
+        "Sarcolemma",
+        "Intercalated discs",
+        "T-tubules",
+        "Myofibrils"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs contain desmosomes and fascia adherens that mechanically couple adjacent cardiomyocytes.",
+      "topic": "Cardiac muscle characteristics"
+    },
+    {
+      "question": "Which part of a neuron primarily receives synaptic inputs?",
+      "options": [
+        "Dendrites",
+        "Axon hillock",
+        "Myelin sheath",
+        "Node of Ranvier"
+      ],
+      "answer": 0,
+      "explanation": "Dendrites possess numerous receptors and a large surface area, making them the main sites for receiving incoming signals.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "In the peripheral nervous system, which glial cell forms the myelin sheath around axons?",
+      "options": [
+        "Oligodendrocyte",
+        "Schwann cell",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "answer": 1,
+      "explanation": "Schwann cells are the PNS glial cells that wrap around axons to produce the myelin sheath; oligodendrocytes perform this function in the CNS.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "Which neuroglial cell is chiefly responsible for establishing the blood‑brain barrier?",
+      "options": [
+        "Oligodendrocyte",
+        "Microglia",
+        "Astrocyte",
+        "Ependymal cell"
+      ],
+      "answer": 2,
+      "explanation": "Astrocyte end‑feet surround cerebral capillaries, regulating substance passage and thus forming the blood‑brain barrier.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "The segment of a myelinated axon between two successive nodes of Ranvier is called:",
+      "options": [
+        "Internode",
+        "Synaptic cleft",
+        "Axon hillock",
+        "Neurolemma"
+      ],
+      "answer": 0,
+      "explanation": "The internode is the myelinated portion of the axon that lies between adjacent nodes of Ranvier.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "Which type of neuron has its cell body in the CNS and an axon that terminates on skeletal muscle?",
+      "options": [
+        "Sensory neuron",
+        "Motor neuron",
+        "Interneuron",
+        "Bipolar neuron"
+      ],
+      "answer": 1,
+      "explanation": "Motor (efferent) neurons convey impulses from the CNS to skeletal muscles, controlling voluntary movement.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "Which glial cell in the CNS acts as the resident immune cell by phagocytosing debris?",
+      "options": [
+        "Astrocyte",
+        "Oligodendrocyte",
+        "Microglia",
+        "Schwann cell"
+      ],
+      "answer": 2,
+      "explanation": "Microglia are macrophage‑like cells that survey the CNS environment and remove pathogens and cellular debris.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "The presence of which structure distinguishes a myelinated axon from an unmyelinated one?",
+      "options": [
+        "Nodes of Ranvier",
+        "Axon hillock",
+        "Dendritic spines",
+        "Synaptic vesicles"
+      ],
+      "answer": 0,
+      "explanation": "Nodes of Ranvier are periodic gaps in the myelin sheath that enable rapid, saltatory conduction, a feature absent in unmyelinated axons.",
+      "topic": "Neuron and neuroglia"
+    },
+    {
+      "question": "Which of the following correctly describes the sequence of structural organization from simplest to most complex in animals?",
+      "options": [
+        "Organ → Tissue → Cell → Organ system",
+        "Cell → Tissue → Organ → Organ system",
+        "Tissue → Cell → Organ → Organ system",
+        "Organ system → Organ → Tissue → Cell"
+      ],
+      "answer": 1,
+      "explanation": "The basic hierarchy is cell → tissue (group of similar cells) → organ (different tissues working together) → organ system (multiple organs).",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "In the formation of a typical organ, which two tissue types are most commonly combined?",
+      "options": [
+        "Epithelial and connective",
+        "Muscle and nervous",
+        "Connective and nervous",
+        "Epithelial and muscular"
+      ],
+      "answer": 0,
+      "explanation": "Most organs consist of an epithelial lining supported by connective tissue that provides support, nourishment, and attachment.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "Which statement best reflects the functional significance of the basement membrane in epithelial‑connective tissue organization?",
+      "options": [
+        "It provides contractile force to epithelial cells.",
+        "It acts as a selective barrier and anchoring site for epithelium.",
+        "It synthesizes blood cells.",
+        "It transmits nerve impulses."
+      ],
+      "answer": 1,
+      "explanation": "The basement membrane separates epithelium from underlying connective tissue, anchoring the epithelium and regulating passage of molecules.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "Which organ is an example where simple squamous epithelium is closely associated with a thin connective tissue layer to facilitate diffusion?",
+      "options": [
+        "Skin",
+        "Alveoli of lungs",
+        "Small intestine villi",
+        "Skeletal muscle"
+      ],
+      "answer": 1,
+      "explanation": "Alveolar walls consist of simple squamous epithelium and a minimal connective tissue layer, allowing efficient gas exchange.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "In the hierarchy of tissue organization, which of the following is NOT a characteristic of a tissue?",
+      "options": [
+        "Group of similar cells performing a specific function",
+        "Presence of extracellular matrix",
+        "Integration of multiple organ systems",
+        "Presence of a common developmental origin"
+      ],
+      "answer": 2,
+      "explanation": "A tissue is a collection of similar cells and matrix; integration of multiple organ systems occurs at the organ‑system level, not at the tissue level.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "Which of the following best illustrates the concept of functional integration at the tissue level?",
+      "options": [
+        "Cardiac muscle cells forming intercalated discs",
+        "Neurons forming synaptic connections with muscle fibers",
+        "Epithelial cells secreting mucus over a glandular duct",
+        "Fibroblasts producing collagen fibers in the dermis"
+      ],
+      "answer": 2,
+      "explanation": "Secretion of mucus by epithelial cells into a duct demonstrates how epithelial tissue works together with underlying connective tissue to perform a specific organ function.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "Which of the following correctly pairs a tissue type with its typical structural organization in an organ?",
+      "options": [
+        "Simple columnar epithelium – forms the contractile layer of the heart",
+        "Dense regular connective tissue – lines the lumen of the intestine",
+        "Cardiac muscle tissue – interspersed with collagen fibers in the myocardium",
+        "Nervous tissue – provides structural support to bone"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle fibers are embedded in a matrix rich in collagen fibers, providing both contractile function and structural support within the myocardium.",
+      "topic": "Tissue-level organisation"
+    },
+    {
+      "question": "Which of the following best defines an organ in the context of animal structural organization?",
+      "options": [
+        "A group of similar cells performing a specific function",
+        "A collection of different tissues that work together to perform a specific function",
+        "A system of organs that coordinate a physiological process",
+        "A single type of tissue specialized for secretion"
+      ],
+      "answer": 1,
+      "explanation": "An organ is formed by two or more different types of tissues (e.g., epithelial, connective, muscular, nervous) that cooperate to carry out a particular function, such as the stomach or heart.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "Which of the following is an example of an organ system rather than a single organ?",
+      "options": [
+        "Heart",
+        "Liver",
+        "Digestive system",
+        "Kidney"
+      ],
+      "answer": 2,
+      "explanation": "The digestive system comprises multiple organs (mouth, esophagus, stomach, intestines, etc.) that work together for digestion, whereas heart, liver, and kidney are individual organs.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "Arrange the levels of biological organization in the correct ascending order.",
+      "options": [
+        "Tissues → Cells → Organs → Organ systems → Organism",
+        "Cells → Tissues → Organs → Organ systems → Organism",
+        "Cells → Organs → Tissues → Organ systems → Organism",
+        "Organs → Tissues → Cells → Organ systems → Organism"
+      ],
+      "answer": 1,
+      "explanation": "The hierarchy proceeds from the smallest unit (cell) to tissues, then organs, organ systems, and finally the whole organism.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "The skin (integument) is considered an organ because it is composed of which combination of tissue types?",
+      "options": [
+        "Only epithelial tissue",
+        "Epithelial and connective tissue only",
+        "Epithelial, connective, muscular and nervous tissues",
+        "Connective and muscular tissues only"
+      ],
+      "answer": 2,
+      "explanation": "Skin contains epidermis (epithelial), dermis (connective), a thin layer of smooth muscle (arrector pili), and numerous nerve endings, fulfilling the definition of an organ.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "The pancreas has both exocrine and endocrine functions. Accordingly, it is part of which organ system(s)?",
+      "options": [
+        "Digestive system only",
+        "Endocrine system only",
+        "Both digestive and endocrine systems",
+        "Neither system"
+      ],
+      "answer": 2,
+      "explanation": "Exocrine secretions aid digestion, linking the pancreas to the digestive system, while its hormonal secretions (insulin, glucagon) make it a component of the endocrine system.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between an organ and an organ system?",
+      "options": [
+        "An organ system is a collection of organs that work together to perform a common function.",
+        "An organ is a collection of organ systems that perform a single function.",
+        "Organs and organ systems are synonymous terms.",
+        "An organ system consists of a single organ that performs multiple functions."
+      ],
+      "answer": 0,
+      "explanation": "An organ system comprises multiple organs that cooperate for a broader physiological role, e.g., the respiratory system includes nose, trachea, lungs.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "In the human body, the functional unit of the circulatory system is the heart. Which tissue type forms the contractile component of the heart?",
+      "options": [
+        "Skeletal muscle tissue",
+        "Cardiac muscle tissue",
+        "Smooth muscle tissue",
+        "Nervous tissue"
+      ],
+      "answer": 1,
+      "explanation": "The heart wall is primarily made of cardiac muscle tissue, which is involuntary, striated, and possesses intercalated discs for coordinated contraction.",
+      "topic": "Organ and organ-system organisation"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes simple epithelium from compound epithelium?",
+      "options": [
+        "Simple epithelium consists of a single layer of cells, whereas compound epithelium has multiple layers.",
+        "Simple epithelium is always keratinized, while compound epithelium is never keratinized.",
+        "Simple epithelium contains only cuboidal cells, whereas compound epithelium contains only squamous cells.",
+        "Simple epithelium is found only in the digestive tract, whereas compound epithelium is exclusive to the skin."
+      ],
+      "answer": 0,
+      "explanation": "Simple epithelium is a single cell layer; compound (stratified) epithelium has two or more layers, which is the key structural difference.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "Which fibre type in connective tissue provides the greatest tensile strength?",
+      "options": [
+        "Reticular fibres",
+        "Elastic fibres",
+        "Collagen fibres",
+        "Basal lamina fibres"
+      ],
+      "answer": 2,
+      "explanation": "Collagen fibres are the strongest tensile fibres in connective tissue, resisting stretching forces.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "Which statement correctly compares cartilage and bone?",
+      "options": [
+        "Both cartilage and bone have a calcified matrix, but only bone contains blood vessels.",
+        "Cartilage contains chondrocytes within lacunae, whereas bone contains osteocytes within lacunae.",
+        "Bone matrix is primarily composed of type I collagen, while cartilage matrix contains type II collagen.",
+        "Cartilage is more rigid than bone due to higher mineral content."
+      ],
+      "answer": 2,
+      "explanation": "Bone matrix is rich in type I collagen; cartilage matrix is rich in type II collagen, reflecting their different mechanical properties.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "Blood is classified as a connective tissue because:",
+      "options": [
+        "It contains epithelial cells that line blood vessels.",
+        "Its cells are suspended in an extracellular matrix called plasma.",
+        "It has a high content of keratin.",
+        "It forms the outermost protective layer of the body."
+      ],
+      "answer": 1,
+      "explanation": "Blood has cells (RBCs, WBCs, platelets) dispersed in plasma, which functions as the extracellular matrix, meeting the definition of connective tissue.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "Which muscle type is characterized by being multinucleated, striated, and under voluntary control?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Myocardial muscle"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle fibers are multinucleated, exhibit transverse striations, and are under conscious (voluntary) control.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "The presence of intercalated discs is a distinctive feature of:",
+      "options": [
+        "Skeletal muscle fibers",
+        "Smooth muscle cells",
+        "Cardiac muscle cells",
+        "Myoepithelial cells"
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs connect cardiac muscle cells, allowing synchronized contraction and electrical coupling.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "Which of the following correctly describes a function of neuroglial cells?",
+      "options": [
+        "Transmit electrical impulses over long distances.",
+        "Form the myelin sheath around axons in the peripheral nervous system.",
+        "Generate action potentials in response to stimuli.",
+        "Store glycogen for neuronal energy."
+      ],
+      "answer": 1,
+      "explanation": "Schwann cells, a type of neuroglia in the PNS, produce the myelin sheath that insulates axons.",
+      "topic": "Structural organisation in animals"
+    },
+    {
+      "question": "In the hierarchical organization of animal bodies, which sequence correctly represents increasing complexity?",
+      "options": [
+        "Organ → Tissue → Organ system → Cell",
+        "Cell → Tissue → Organ → Organ system",
+        "Tissue → Cell → Organ → Organ system",
+        "Organ system → Organ → Tissue → Cell"
+      ],
+      "answer": 1,
+      "explanation": "The correct order from simplest to most complex is: cell → tissue (group of similar cells) → organ (different tissues) → organ system (group of organs).",
+      "topic": "Structural organisation in animals"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 14,
+    "mcqCount": 99
+  }
+}

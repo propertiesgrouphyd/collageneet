@@ -1,0 +1,1770 @@
+{
+  "day": 47,
+  "courseDate": "2026-10-15",
+  "publishAt": "2026-10-15T06:00:00+05:30",
+  "title": "Day 47: Water Absorption and Movement in Plants",
+  "introduction": "This lesson explores how plants take up water through roots and transport it to aerial parts. Understanding the cellular pathways, driving forces and physiological significance is essential for NEET biology.",
+  "sections": [
+    {
+      "topic": "Water absorption by roots",
+      "heading": "Mechanism of Water Uptake by Roots",
+      "content": "Water enters the root system from the soil due to a water potential gradient (soil water potential > root water potential). The gradient is maintained by solute accumulation in root cells and by transpiration pull. Osmosis across the plasma membrane of epidermal cells initiates the uptake, followed by movement through defined pathways to the xylem.",
+      "keyPoints": [
+        "Water moves from higher to lower water potential.",
+        "Root cells maintain low water potential by active solute transport.",
+        "Osmosis across plasma membrane is the first step of uptake."
+      ],
+      "neetTips": [
+        "Remember that water potential (Ψ) = Ψs + Ψp; solute potential drives uptake.",
+        "Link root water uptake directly to transpiration pull for NEET questions."
+      ]
+    },
+    {
+      "topic": "Root hairs",
+      "heading": "Role of Root Hairs in Water Absorption",
+      "content": "Root hairs are single‑cell extensions of epidermal cells that increase the absorptive surface area up to 10‑fold. Their thin cell walls and high surface‑to‑volume ratio facilitate rapid water and mineral uptake by osmosis.",
+      "keyPoints": [
+        "Root hairs increase root surface area dramatically.",
+        "They are sites of maximum water and ion uptake.",
+        "Absence of root hairs reduces water absorption efficiency."
+      ],
+      "neetTips": [
+        "NEET often asks why root hairs are crucial for water uptake – focus on surface area."
+      ]
+    },
+    {
+      "topic": "Pathways of water movement",
+      "heading": "Three Distinct Pathways for Water Transport",
+      "content": "Water moves from root cortex to the central stele via (i) apoplast, (ii) symplast, and (iii) transmembrane (cell‑to‑cell) routes. The choice of pathway depends on the presence of Casparian strips and the water potential gradient.",
+      "keyPoints": [
+        "Apoplast: movement through cell walls and intercellular spaces.",
+        "Symplast: movement through cytoplasm via plasmodesmata.",
+        "Transmembrane: crossing plasma membranes repeatedly."
+      ],
+      "neetTips": [
+        "NEET frequently contrasts apoplast vs. symplast – memorize the key differences."
+      ]
+    },
+    {
+      "topic": "Apoplast pathway",
+      "heading": "Water Flow Through the Apoplast",
+      "content": "In the apoplast pathway, water travels extracellularly through cell walls and intercellular spaces without crossing membranes. This route is rapid but is blocked at the endodermis by the Casparian strip, forcing water into the symplast.",
+      "keyPoints": [
+        "Fast, non‑selective movement.",
+        "Blocked by Casparian strip in the endodermis.",
+        "Does not involve cytoplasmic transport."
+      ],
+      "neetTips": [
+        "Remember that the Casparian strip forces a switch from apoplast to symplast."
+      ]
+    },
+    {
+      "topic": "Symplast pathway",
+      "heading": "Cytoplasmic Continuum for Water Transport",
+      "content": "The symplast pathway uses plasmodesmata to connect the cytoplasm of adjacent cells, allowing water to move cell‑to‑cell. This route is selective because plasma membranes regulate solute entry, and it bypasses the Casparian strip restriction.",
+      "keyPoints": [
+        "Water moves through cytoplasm via plasmodesmata.",
+        "Selective – membranes control solute entry.",
+        "Continuity maintained from cortex to stele."
+      ],
+      "neetTips": [
+        "Highlight that symplastic movement is slower but regulated."
+      ]
+    },
+    {
+      "topic": "Transmembrane pathway",
+      "heading": "Cell‑to‑Cell Water Transfer Across Membranes",
+      "content": "In the transmembrane (or transcellular) pathway, water repeatedly crosses plasma membranes, entering the cell by osmosis and exiting into the next cell’s apoplast. This route is the most regulated and contributes to selective ion uptake.",
+      "keyPoints": [
+        "Involves repeated crossing of plasma membranes.",
+        "Highly regulated by aquaporins.",
+        "Contributes to selective ion transport."
+      ],
+      "neetTips": [
+        "Aquaporins increase membrane permeability – a potential NEET point."
+      ]
+    },
+    {
+      "topic": "Casparian strips",
+      "heading": "Selective Barrier in the Endodermis",
+      "content": "Casparian strips are bands of suberin‑rich cell wall material in the radial and transverse walls of endodermal cells. They block apoplastic flow, forcing water and solutes to enter the symplast, thereby regulating ion uptake into the vascular cylinder.",
+      "keyPoints": [
+        "Made of suberin – impermeable to water and solutes.",
+        "Force apoplastic water into the symplast.",
+        "Crucial for selective mineral uptake."
+      ],
+      "neetTips": [
+        "NEET often asks the functional significance of Casparian strips – focus on selective uptake."
+      ]
+    },
+    {
+      "topic": "Endodermis",
+      "heading": "Inner Cortex Layer Controlling Vascular Entry",
+      "content": "The endodermis surrounds the pericycle and vascular tissues. Its cells possess Casparian strips and, in mature roots, develop a suberized layer that further restricts apoplastic flow, ensuring that all substances entering the stele pass through the symplast.",
+      "keyPoints": [
+        "Located just inside the cortex.",
+        "Contains Casparian strips and later suberin lamellae.",
+        "Regulates entry of water and solutes into the xylem."
+      ],
+      "neetTips": [
+        "Link endodermal function with root pressure generation."
+      ]
+    },
+    {
+      "topic": "Root pressure",
+      "heading": "Positive Pressure Generated in Roots",
+      "content": "Root pressure arises when active uptake of mineral ions into the xylem lowers its water potential, causing water to flow osmotically from the soil into the xylem. This generates a positive pressure (up to 0.2 MPa) that can push sap upward, especially at night when transpiration is low.",
+      "keyPoints": [
+        "Result of active ion accumulation in xylem.",
+        "Creates positive pressure that can move water upward.",
+        "Most evident in well‑watered plants during night."
+      ],
+      "neetTips": [
+        "Distinguish root pressure from transpiration pull – NEET frequently contrasts them."
+      ]
+    },
+    {
+      "topic": "Guttation",
+      "heading": "Exudation of Water Droplets from Leaf Tips",
+      "content": "Guttation occurs when root pressure forces water out through hydathodes at leaf margins or tips, forming visible droplets. It happens in high humidity, low transpiration conditions, and is not a result of evaporative pull.",
+      "keyPoints": [
+        "Driven by root pressure, not transpiration.",
+        "Occurs through hydathodes.",
+        "Visible as droplets on leaf edges."
+      ],
+      "neetTips": [
+        "NEET may ask to differentiate guttation from transpiration – focus on driving force and conditions."
+      ]
+    },
+    {
+      "topic": "Transpiration",
+      "heading": "Loss of Water Vapor from Stomata",
+      "content": "Transpiration is the diffusion of water vapor from the internal leaf air spaces to the atmosphere through stomatal pores. It creates a negative pressure (tension) in the xylem, constituting the main driving force for upward water movement.",
+      "keyPoints": [
+        "Occurs mainly through stomata.",
+        "Creates a negative pressure (tension) in the xylem.",
+        "Regulated by stomatal opening."
+      ],
+      "neetTips": [
+        "Remember the three components: stomatal, cuticular, and lenticular transpiration."
+      ]
+    },
+    {
+      "topic": "Factors affecting transpiration",
+      "heading": "Environmental and Physiological Variables",
+      "content": "Transpiration rate is influenced by (i) temperature (higher temperature increases kinetic energy), (ii) humidity (low humidity raises vapor pressure deficit), (iii) wind speed (removes boundary layer), (iv) light intensity (opens stomata), and (v) leaf surface area.",
+      "keyPoints": [
+        "Temperature, humidity, wind, light, and leaf area are key factors.",
+        "Stomatal aperture is the primary physiological control.",
+        "High wind and low humidity maximize transpiration."
+      ],
+      "neetTips": [
+        "NEET often presents scenarios – link each factor to its effect on rate."
+      ]
+    },
+    {
+      "topic": "Significance of transpiration",
+      "heading": "Physiological Roles of Water Loss",
+      "content": "Transpiration cools the plant, maintains nutrient transport via mass flow, provides turgor for cell expansion, and creates the suction force needed for the cohesion‑tension mechanism. It also influences mineral uptake from the soil.",
+      "keyPoints": [
+        "Cooling effect on leaf temperature.",
+        "Drives upward movement of minerals.",
+        "Maintains cell turgor and growth."
+      ],
+      "neetTips": [
+        "Highlight cooling and nutrient transport as high‑yield points."
+      ]
+    },
+    {
+      "topic": "Cohesion-tension theory",
+      "heading": "Fundamental Theory of Water Ascent",
+      "content": "The cohesion‑tension theory states that water is pulled upward as a continuous column due to cohesion between water molecules and tension generated by transpiration. Adhesion to xylem walls prevents column breakage, while the negative pressure is transmitted from leaves to roots.",
+      "keyPoints": [
+        "Cohesion: water molecules stick together via hydrogen bonds.",
+        "Tension: negative pressure created by transpiration pull.",
+        "Adhesion: water adheres to xylem walls, preventing cavitation."
+      ],
+      "neetTips": [
+        "NEET may ask which forces prevent cavitation – focus on adhesion."
+      ]
+    },
+    {
+      "topic": "Ascent of sap",
+      "heading": "Movement of Water from Roots to Shoots",
+      "content": "Sap ascent is achieved primarily by the cohesion‑tension mechanism, supplemented by root pressure in some species. The continuous water column in xylem vessels transmits the tension generated at the leaf surface down to the roots, pulling water upward.",
+      "keyPoints": [
+        "Mainly driven by transpiration pull.",
+        "Root pressure contributes under low transpiration.",
+        "Requires uninterrupted water column."
+      ],
+      "neetTips": [
+        "Remember that ascent can occur even in tall trees due to cohesion."
+      ]
+    },
+    {
+      "topic": "Role of cohesion",
+      "heading": "Molecular Attraction Between Water Molecules",
+      "content": "Cohesion arises from hydrogen bonding between adjacent water molecules, allowing the formation of a tensile, continuous column in xylem vessels. This property enables the transmission of tension over long distances without breaking.",
+      "keyPoints": [
+        "Hydrogen bonds provide strong intermolecular attraction.",
+        "Maintains column integrity under tension.",
+        "Essential for long‑distance water transport."
+      ],
+      "neetTips": [
+        "Cohesion is the basis of the tensile strength of water – a frequent NEET fact."
+      ]
+    },
+    {
+      "topic": "Role of adhesion",
+      "heading": "Water Interaction with Xylem Walls",
+      "content": "Adhesion is the attraction of water molecules to the polar surfaces of cellulose in xylem walls. It counteracts gravity, helps lift water, and prevents cavitation by keeping the water column attached to vessel walls.",
+      "keyPoints": [
+        "Adhesion to cellulose walls opposes gravity.",
+        "Reduces risk of embolism.",
+        "Works together with cohesion for upward movement."
+      ],
+      "neetTips": [
+        "Link adhesion to the prevention of column breakage in NEET questions."
+      ]
+    },
+    {
+      "topic": "Role of transpiration pull",
+      "heading": "Driving Force Generated by Leaf Water Loss",
+      "content": "Transpiration pull is the negative pressure generated when water evaporates from mesophyll cells into the intercellular air spaces and exits through stomata. This creates a tension that is transmitted down the water column, pulling sap upward.",
+      "keyPoints": [
+        "Generated by evaporation from leaf mesophyll.",
+        "Creates a continuous tension throughout the xylem.",
+        "Primary force for water ascent in most plants."
+      ],
+      "neetTips": [
+        "Emphasize that transpiration pull is a passive process driven by water potential gradient."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the mechanisms of water uptake by roots and the role of root hairs.",
+    "Differentiate among apoplast, symplast and transmembrane pathways and describe the function of Casparian strips and endodermis.",
+    "Describe root pressure, guttation, transpiration and the cohesion‑tension theory governing ascent of sap.",
+    "Identify factors affecting transpiration and relate them to NEET‑focused concepts."
+  ],
+  "mcqs": [
+    {
+      "question": "In the root, which pathway allows water to bypass the Casparian strip and reach the stele?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transpiration stream",
+        "Xylem loading"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip blocks the apoplastic route, so water must move cell‑to‑cell through plasmodesmata (symplast pathway) to enter the stele.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "The primary function of root hairs in water absorption is to:",
+      "options": [
+        "Conduct photosynthesis",
+        "Increase surface area for water uptake",
+        "Store carbohydrates",
+        "Produce root pressure"
+      ],
+      "answer": 1,
+      "explanation": "Root hairs are extensions of epidermal cells that greatly increase the root surface area, enhancing water and mineral uptake from the soil.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "Which component of water potential in dry soil contributes most to the movement of water into the root?",
+      "options": [
+        "Gravitational potential",
+        "Pressure potential",
+        "Matric potential",
+        "Osmotic potential"
+      ],
+      "answer": 2,
+      "explanation": "In dry soil, the matric potential (adhesive forces between water and soil particles) is highly negative and creates the main gradient driving water into the root.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "Root pressure is most likely to be observed under which condition?",
+      "options": [
+        "High atmospheric humidity and night time",
+        "Strong wind during midday",
+        "Drought stress",
+        "High leaf transpiration"
+      ],
+      "answer": 0,
+      "explanation": "Root pressure develops when roots actively uptake ions, generating an osmotic gradient; it is most evident at night or in high humidity when transpiration is minimal.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "Aquaporins in root cell membranes primarily facilitate:",
+      "options": [
+        "Active transport of ions",
+        "Passive diffusion of water",
+        "Synthesis of ATP",
+        "Uptake of nitrate"
+      ],
+      "answer": 1,
+      "explanation": "Aquaporins are channel proteins that increase the permeability of the plasma membrane to water, allowing rapid passive water movement.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "If the solute concentration inside root cortical cells increases, the water potential of those cells will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become positive"
+      ],
+      "answer": 1,
+      "explanation": "Higher solute concentration lowers the solute (osmotic) potential, making the overall water potential more negative and favoring water influx.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "Guttation differs from transpiration in that it occurs:",
+      "options": [
+        "Through stomata during the day",
+        "Due to root pressure at night",
+        "As a result of high leaf temperature",
+        "Only in xerophytic plants"
+      ],
+      "answer": 1,
+      "explanation": "Guttation is the exudation of water droplets from hydathodes, driven by root pressure, typically observed at night when transpiration is low.",
+      "topic": "Water absorption by roots"
+    },
+    {
+      "question": "What is the primary function of root hairs in plants?",
+      "options": [
+        "Increase surface area for water and mineral absorption",
+        "Transport photosynthates from leaves to roots",
+        "Provide mechanical support to the root tip",
+        "Store starch reserves"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs are tubular extensions of epidermal cells that greatly increase the root surface area, facilitating efficient uptake of water and dissolved minerals from the soil.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "Root hairs are extensions of which type of root cell?",
+      "options": [
+        "Epidermal cells",
+        "Endodermal cells",
+        "Pericycle cells",
+        "Xylem parenchyma cells"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs develop as outgrowths of the epidermal (specifically, the trichoblast) cells, not from endodermal, pericycle, or vascular tissues.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "In which region of the root are root hairs most abundant?",
+      "options": [
+        "Root cap",
+        "Meristematic zone",
+        "Zone of elongation",
+        "Zone of maturation (just behind the root tip)"
+      ],
+      "answer": 3,
+      "explanation": "Root hairs appear just behind the root tip in the zone of maturation where cells have completed elongation and can differentiate into hair cells.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "Which statement about the cell wall of root hair cells is true?",
+      "options": [
+        "They have thick lignified walls",
+        "They possess Casparian strips",
+        "They are thin and lack suberin",
+        "They contain secondary thickening"
+      ],
+      "answer": 2,
+      "explanation": "Root hair cell walls are thin and lack suberin or lignin, allowing easy diffusion of water and solutes across the wall.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "How does the presence of root hairs affect water uptake when soil moisture is low?",
+      "options": [
+        "It decreases uptake due to higher resistance",
+        "It increases uptake due to larger surface area",
+        "It has no effect on uptake",
+        "It increases uptake by active transport of water"
+      ],
+      "answer": 1,
+      "explanation": "Even under low moisture, the enlarged absorptive surface provided by root hairs enhances the rate of water entry into the root.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "Why are root hairs not part of the Casparian strip barrier in roots?",
+      "options": [
+        "They are located outside the endodermis",
+        "They have lignified walls that block apoplastic flow",
+        "They are part of the symplastic pathway",
+        "They are dead cells"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs lie in the epidermal layer, external to the endodermis where the Casparian strip is present; therefore they are not subject to that barrier.",
+      "topic": "Root hairs"
+    },
+    {
+      "question": "In root tissues, water that moves from cell to cell through plasmodesmata follows which pathway?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Xylem pathway"
+      ],
+      "answer": 1,
+      "explanation": "The symplast pathway involves movement through the cytoplasmic continuum connected by plasmodesmata, allowing water to pass from one cell to another without crossing cell walls.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "Which pathway describes water movement through cell walls and intercellular spaces without crossing any plasma membrane?",
+      "options": [
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Apoplast pathway",
+        "Phloem loading"
+      ],
+      "answer": 2,
+      "explanation": "The apoplast pathway is extracellular; water travels through the cell walls and spaces between cells, bypassing plasma membranes.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "The Casparian strip in the endodermis forces water to cross which membrane before entering the vascular cylinder?",
+      "options": [
+        "Plasma membrane of endodermal cells",
+        "Cell wall of cortex cells",
+        "Tonoplast of endodermal cells",
+        "Plasmodesmata of endodermal cells"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip makes the endodermal cell wall impermeable, so water must cross the plasma membrane of endodermal cells to reach the stele.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "Among the three routes of water movement in roots, which contributes the least to bulk flow of water to the xylem in mature roots?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Both apoplast and symplast equally"
+      ],
+      "answer": 2,
+      "explanation": "The transmembrane (cell‑to‑cell) pathway involves crossing two membranes per cell and is much slower, contributing minimally to overall water transport compared with apoplastic and symplastic routes.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "Water moving radially inward through the apoplast pathway is halted at which structure, requiring entry into the symplast?",
+      "options": [
+        "Endodermis",
+        "Pericycle",
+        "Casparian strip",
+        "Phloem"
+      ],
+      "answer": 2,
+      "explanation": "The Casparian strip, a band of suberin in the endodermal cell walls, blocks further apoplastic flow, forcing water to cross the plasma membrane into the symplast.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "Arrange the sequence of water movement from soil to xylem in a typical root: (i) Apoplast pathway, (ii) Symplast pathway, (iii) Transmembrane pathway, (iv) Passage through Casparian strip.",
+      "options": [
+        "Apoplast → Casparian strip → Symplast → Xylem",
+        "Symplast → Apoplast → Casparian strip → Xylem",
+        "Apoplast → Symplast → Casparian strip → Xylem",
+        "Transmembrane → Apoplast → Symplast → Xylem"
+      ],
+      "answer": 0,
+      "explanation": "Water first moves apoplastically until it reaches the Casparian strip, then crosses the plasma membrane into the symplast, and finally enters the xylem vessels.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "The deposition of suberin in the endodermal cell walls primarily restricts which water movement pathway?",
+      "options": [
+        "Apoplast pathway",
+        "Symplast pathway",
+        "Transmembrane pathway",
+        "Phloem loading"
+      ],
+      "answer": 0,
+      "explanation": "Suberin makes the endodermal cell walls hydrophobic, blocking the apoplastic route and forcing water to move via the symplast.",
+      "topic": "Pathways of water movement"
+    },
+    {
+      "question": "Which statement best describes the apoplast pathway of water movement in roots?",
+      "options": [
+        "Movement through the cytoplasm via plasmodesmata",
+        "Movement through cell walls and intercellular spaces",
+        "Active transport across the plasma membrane",
+        "Transport via xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "In the apoplast pathway water moves extracellularly, passing through the porous cell walls and the spaces between cells without entering the cytoplasm.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "In a root, the apoplast pathway is blocked at which structure, forcing water to enter the symplast?",
+      "options": [
+        "Pericycle",
+        "Casparian strip",
+        "Root hair",
+        "Endodermal cortex"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip, a band of suberin in the endodermal cell walls, is impermeable to water and solutes, so water must cross the plasma membrane of endodermal cells to continue inward.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "Which factor most directly influences the rate of water movement through the apoplast pathway?",
+      "options": [
+        "Presence of aquaporins in the plasma membrane",
+        "Cell wall porosity and hydraulic conductivity",
+        "ATP‑dependent membrane pumps",
+        "Density of plasmodesmata between cells"
+      ],
+      "answer": 1,
+      "explanation": "Water moves through the cell wall matrix; the size of pores and the hydraulic conductivity of the wall determine how quickly water can travel apoplastically.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "Which structure forces water moving apoplastically to enter the symplast before reaching the stele?",
+      "options": [
+        "Casparian strip",
+        "Endodermal cell plasma membrane",
+        "Pericycle",
+        "Root hair"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip blocks the apoplastic route, requiring water to cross the endodermal plasma membrane (symplastic entry) to reach the vascular cylinder.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "In which region of the root is the apoplast pathway most extensive?",
+      "options": [
+        "Root tip (meristematic zone)",
+        "Zone of elongation",
+        "Mature zone",
+        "Root cap"
+      ],
+      "answer": 2,
+      "explanation": "In the mature zone, cells have fully differentiated walls that are highly porous, allowing extensive apoplastic water flow toward the stele.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "Which of the following statements about apoplastic water movement is FALSE?",
+      "options": [
+        "It does not require metabolic energy",
+        "It is driven by a water‑potential gradient",
+        "It can bypass the Casparian strip",
+        "It occurs through cell walls"
+      ],
+      "answer": 2,
+      "explanation": "The apoplastic pathway cannot bypass the Casparian strip; the strip forces water to cross a membrane, making the statement false.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "During prolonged drought, the contribution of the apoplast pathway to root water uptake generally:",
+      "options": [
+        "Increases because the symplastic route is limited",
+        "Decreases due to suberization of cell walls",
+        "Remains unchanged",
+        "Becomes the sole pathway for water movement"
+      ],
+      "answer": 1,
+      "explanation": "Drought induces further suberization and lignification of cell walls, reducing apoplastic conductivity and thus decreasing its contribution to water uptake.",
+      "topic": "Apoplast pathway"
+    },
+    {
+      "question": "In the symplast pathway, water moves from one cell to another through which structure?",
+      "options": [
+        "Cell walls",
+        "Plasmodesmata",
+        "Xylem vessels",
+        "Casparian strip"
+      ],
+      "answer": 1,
+      "explanation": "The symplast pathway involves movement of water and solutes through the cytoplasm of adjacent cells connected by plasmodesmata, bypassing the cell walls.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Which statement about the symplast pathway is correct?",
+      "options": [
+        "It bypasses the Casparian strip completely",
+        "It requires water to cross the plasma membrane at each cell",
+        "It involves movement through plasmodesmata",
+        "It is the exclusive route for mineral ions in roots"
+      ],
+      "answer": 2,
+      "explanation": "In the symplast route, water and dissolved substances pass from cell to cell via plasmodesmata, allowing cytoplasmic continuity.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Before water in the symplast pathway can enter the xylem, it must cross which structure in the root?",
+      "options": [
+        "Casparian strip",
+        "Endodermal cell wall",
+        "Pericycle",
+        "Stomata"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip in the endodermis blocks the apoplastic route, forcing water in the symplast to cross the plasma membrane of endodermal cells before entering the stele and xylem.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Compared with the apoplast pathway, the symplast pathway is more selective because:",
+      "options": [
+        "Water moves only through cell walls",
+        "The plasma membrane controls entry of solutes",
+        "It bypasses plasmodesmata",
+        "It uses root hairs exclusively"
+      ],
+      "answer": 1,
+      "explanation": "Each cell’s plasma membrane can regulate the uptake of ions and solutes, making the symplast route more selective than the unrestricted apoplastic route.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Why is the symplast pathway generally slower than the apoplast pathway for water movement?",
+      "options": [
+        "Higher resistance due to plasmodesmata",
+        "Higher water potential in the apoplast",
+        "Presence of the Casparian strip",
+        "Lower temperature in the cortex"
+      ],
+      "answer": 0,
+      "explanation": "Plasmodesmata are narrow channels, offering greater hydraulic resistance than the relatively open cell wall spaces of the apoplast, thus slowing water flow.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "During root pressure, the symplast pathway contributes primarily by:",
+      "options": [
+        "Generating tension in the xylem",
+        "Transporting ions into the stele via plasmodesmata",
+        "Evaporating water from leaf surfaces",
+        "Forming the Casparian strip"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure arises from active uptake of ions into the stele through the symplast; the resulting osmotic gradient draws water in, creating a positive pressure.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Which experimental observation would most strongly indicate that water is moving predominantly via the symplast pathway?",
+      "options": [
+        "A dye moves through cell walls but not cells",
+        "A dye accumulates inside cells after uptake by root hairs",
+        "No dye movement is observed in the root",
+        "A dye moves only in the xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "If a water‑soluble dye taken up by root hairs is found inside cortical cells, it shows that water entered the symplast and moved cell‑to‑cell through plasmodesmata.",
+      "topic": "Symplast pathway"
+    },
+    {
+      "question": "Which statement best describes the transmembrane pathway for water movement in roots?",
+      "options": [
+        "Water moves exclusively through cell walls and intercellular spaces without crossing any plasma membrane.",
+        "Water moves through the cytoplasm of root cells, crossing plasma membranes of each cell, and is forced to cross the endodermal plasma membrane due to the Casparian strip.",
+        "Water moves only through plasmodesmata directly from soil to xylem.",
+        "Water moves via root hairs directly into the xylem vessels."
+      ],
+      "answer": 1,
+      "explanation": "In the transmembrane pathway, water enters root cells, traverses the cytoplasm, and must cross the plasma membrane of endodermal cells because the Casparian strip blocks apoplastic flow.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "Which protein in the plasma membrane of root cortical cells most directly facilitates rapid water movement in the transmembrane pathway?",
+      "options": [
+        "ATP synthase",
+        "Aquaporin",
+        "Cellulose synthase",
+        "Rubisco"
+      ],
+      "answer": 1,
+      "explanation": "Aquaporins are channel proteins that increase membrane permeability to water, allowing fast water transport across the plasma membrane.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "In the transmembrane pathway, water movement across the endodermal cell plasma membrane is primarily driven by:",
+      "options": [
+        "Active transport of water by pumps",
+        "Osmotic gradient generated by solute accumulation in the stele",
+        "Capillary action",
+        "Root pressure generated by root hairs"
+      ],
+      "answer": 1,
+      "explanation": "Solutes accumulate in the stele, lowering its water potential; the resulting osmotic gradient drives water across the endodermal plasma membrane.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "Which condition would most likely decrease the rate of water movement through the transmembrane pathway in roots?",
+      "options": [
+        "Decrease in temperature",
+        "Increase in soil water potential",
+        "Increase in root hair density",
+        "Presence of a functional Casparian strip"
+      ],
+      "answer": 0,
+      "explanation": "Lower temperature reduces membrane fluidity and aquaporin activity, thereby slowing water transport across the plasma membrane.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "How does the Casparian strip influence the transmembrane pathway?",
+      "options": [
+        "It provides a channel for water to bypass plasma membranes.",
+        "It blocks apoplastic flow, forcing water to cross the plasma membrane of endodermal cells.",
+        "It enhances the number of aquaporins in the plasma membrane.",
+        "It pumps solutes into the xylem to create a pressure gradient."
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip is a band of suberin that blocks the apoplastic route, compelling water to enter the symplast and cross the endodermal plasma membrane.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "Why is the transmembrane pathway considered more selective than the apoplastic pathway?",
+      "options": [
+        "Water can only move through plasmodesmata in this pathway.",
+        "The plasma membrane contains selective channels and transport proteins that regulate solute entry.",
+        "The Casparian strip actively pumps water into the stele.",
+        "The transmembrane pathway bypasses the endodermis."
+      ],
+      "answer": 1,
+      "explanation": "Selectivity arises because water must cross plasma membranes that possess specific channels (aquaporins) and transporters, controlling solute and water entry.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "During drought stress, plants often down‑regulate aquaporin expression. What is the direct effect of this on the transmembrane pathway?",
+      "options": [
+        "Increases water uptake by increasing membrane permeability.",
+        "Decreases water permeability of root cell membranes, reducing water flow through the transmembrane route.",
+        "Enhances root pressure to compensate for reduced water flow.",
+        "Converts the transmembrane pathway into an apoplastic pathway."
+      ],
+      "answer": 1,
+      "explanation": "Reduced aquaporin levels lower membrane water conductivity, thereby diminishing water movement via the transmembrane pathway.",
+      "topic": "Transmembrane pathway"
+    },
+    {
+      "question": "Where are Casparian strips located in a typical dicot root?",
+      "options": [
+        "Outer epidermal cell walls",
+        "Endodermal cell walls",
+        "Pericycle cell walls",
+        "Xylem vessel walls"
+      ],
+      "answer": 1,
+      "explanation": "Casparian strips are bands of suberin‑lignin impregnated material in the radial and transverse walls of endodermal cells, forming a barrier around the stele.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "What is the primary physiological role of the Casparian strip?",
+      "options": [
+        "Facilitate symplastic transport",
+        "Prevent apoplastic flow of water and solutes into the stele",
+        "Increase root surface area for absorption",
+        "Store carbohydrates in the root cortex"
+      ],
+      "answer": 1,
+      "explanation": "The strip blocks the apoplastic pathway, forcing water and dissolved minerals to cross the plasma membrane of endodermal cells, thus regulating entry into the vascular cylinder.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "Which substance is the main component of Casparian strips?",
+      "options": [
+        "Lignin",
+        "Suberin",
+        "Cellulose",
+        "Pectin"
+      ],
+      "answer": 1,
+      "explanation": "Casparian strips are primarily composed of suberin, a waxy, hydrophobic polymer, often together with lignin, which makes the strip impermeable to water and solutes.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "How does the presence of Casparian strips influence root pressure?",
+      "options": [
+        "Enhances root pressure by allowing free apoplastic flow",
+        "Reduces root pressure by blocking apoplastic entry of water",
+        "Has no effect on root pressure",
+        "Generates root pressure by active transport"
+      ],
+      "answer": 1,
+      "explanation": "By blocking the apoplastic route, Casparian strips force water to enter the symplast, where it can be actively loaded into the xylem, contributing to the generation of root pressure.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "When do Casparian strips first appear during root development?",
+      "options": [
+        "At seed germination",
+        "In mature roots only",
+        "During primary root growth after the meristematic zone",
+        "Only in secondary growth"
+      ],
+      "answer": 2,
+      "explanation": "Casparian strips develop in the endodermis after the meristematic zone, typically in the zone of elongation of the primary root.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "Which experimental observation demonstrates the functional barrier of Casparian strips?",
+      "options": [
+        "A dye penetrates the cortex but stops at the endodermis",
+        "A dye moves freely into the xylem",
+        "Roots lose water rapidly in hypertonic solution",
+        "No change in dye movement after removal of the endodermis"
+      ],
+      "answer": 0,
+      "explanation": "When a water‑soluble dye (e.g., berberine) is applied, it moves through the apoplast of the cortex but is halted at the endodermis because the Casparian strip blocks further apoplastic diffusion.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "How do Casparian strips aid selective ion uptake by the root?",
+      "options": [
+        "By allowing only cations to pass through plasmodesmata",
+        "By forcing ions to cross the plasma membrane where transport proteins can regulate entry",
+        "By actively pumping ions into the xylem",
+        "By storing ions in the cell wall"
+      ],
+      "answer": 1,
+      "explanation": "The barrier forces ions to cross the endodermal plasma membrane, where specific transporters and channels can selectively permit or reject particular ions, ensuring controlled uptake.",
+      "topic": "Casparian strips"
+    },
+    {
+      "question": "What is the primary function of the endodermis in plant roots?",
+      "options": [
+        "Site of photosynthesis",
+        "Regulate water and solute entry into the vascular cylinder",
+        "Store starch reserves",
+        "Produce root hairs"
+      ],
+      "answer": 1,
+      "explanation": "The endodermis forms a selective barrier that controls the movement of water and dissolved minerals from the cortex into the stele (vascular cylinder).",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "The Casparian strip in endodermal cells is mainly composed of which substance?",
+      "options": [
+        "Suberin",
+        "Lignin",
+        "Cellulose",
+        "Pectin"
+      ],
+      "answer": 0,
+      "explanation": "Casparian strips are impregnated with suberin, a waxy, hydrophobic polymer that blocks apoplastic flow.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "Which pathway of water movement is blocked by the Casparian strip, forcing solutes to cross a membrane?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Transmembrane pathway",
+        "Xylem pathway"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip blocks the apoplastic route, so water and solutes must enter the symplast by crossing plasma membranes.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "Endodermal cells are derived from which meristematic tissue during root development?",
+      "options": [
+        "Procambium",
+        "Ground meristem",
+        "Pericycle",
+        "Epidermis"
+      ],
+      "answer": 1,
+      "explanation": "The endodermis originates from the ground meristem, which also gives rise to the cortex.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "Under which environmental condition does the endodermis become suberized earlier than normal?",
+      "options": [
+        "Drought stress",
+        "High humidity",
+        "Low temperature",
+        "Nutrient excess"
+      ],
+      "answer": 0,
+      "explanation": "Drought induces earlier suberization of the endodermis to reduce water loss and limit uncontrolled ion influx.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "How does the endodermis contribute to the generation of root pressure?",
+      "options": [
+        "By actively loading ions into the xylem",
+        "By preventing backflow of water",
+        "By generating an osmotic gradient in the pericycle",
+        "By providing mechanical support"
+      ],
+      "answer": 1,
+      "explanation": "The endodermal barrier prevents backflow of water from the xylem to the cortex, helping maintain the positive pressure generated by ion uptake.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "Which statement about the endodermis is FALSE?",
+      "options": [
+        "It contains Casparian strips",
+        "It is part of the vascular cylinder",
+        "It allows free apoplastic flow of solutes into the stele",
+        "It is a single cell layer"
+      ],
+      "answer": 2,
+      "explanation": "The endodermis does NOT allow free apoplastic flow; the Casparian strip forces solutes to cross membranes, making option 2 false.",
+      "topic": "Endodermis"
+    },
+    {
+      "question": "What best describes root pressure in vascular plants?",
+      "options": [
+        "A positive pressure generated in the xylem due to osmotic uptake of water by roots",
+        "A negative pressure created by transpiration pull in the leaves",
+        "Capillary action that moves water upward in narrow vessels",
+        "Pressure produced by stomatal opening in leaves"
+      ],
+      "answer": 0,
+      "explanation": "Root pressure arises when mineral ions are actively transported into the root xylem, lowering its water potential and causing water to enter osmotically, creating a positive pressure that can push water upward.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Which physiological condition is essential for the development of root pressure?",
+      "options": [
+        "High rate of transpiration from leaves",
+        "Active uptake of mineral ions into the root xylem",
+        "Presence of a well‑developed Casparian strip only",
+        "Low soil water potential relative to the root interior"
+      ],
+      "answer": 1,
+      "explanation": "Active transport of ions into the xylem lowers its water potential, drawing water in osmotically and generating the positive pressure known as root pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Root pressure is most prominently observed during which time of day?",
+      "options": [
+        "Midday when sunlight is intense",
+        "Night when transpiration is minimal",
+        "Early morning at sunrise",
+        "During periods of severe drought"
+      ],
+      "answer": 1,
+      "explanation": "At night stomata are closed, transpiration is negligible, and the osmotic influx of water can raise xylem pressure, making root pressure most evident.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Guttation in many herbaceous plants is primarily a consequence of:",
+      "options": [
+        "Transpiration pull generated by leaf evaporation",
+        "Root pressure developing in the xylem",
+        "Cohesion‑tension mechanism acting in the stem",
+        "Capillary rise in narrow vessels"
+      ],
+      "answer": 1,
+      "explanation": "Guttation droplets exuded from leaf margins are driven by the positive pressure of root pressure that forces water out through hydathodes when transpiration is low.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "If a plant develops a root pressure of about 0.2 MPa, which statement is correct?",
+      "options": [
+        "It can lift water only up to about 1 m height",
+        "It can push water to the top of a tall tree alone",
+        "It helps refill embolised xylem vessels after cavitation",
+        "It is sufficient to sustain daytime transpiration rates"
+      ],
+      "answer": 2,
+      "explanation": "Root pressure of this magnitude is insufficient to raise water great heights but can re‑pressurise and refill xylem vessels that have become air‑filled (cavitation) during the night.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Which ion contributes most to the generation of root pressure in most plants?",
+      "options": [
+        "Nitrate (NO₃⁻)",
+        "Potassium (K⁺)",
+        "Calcium (Ca²⁺)",
+        "Magnesium (Mg²⁺)"
+      ],
+      "answer": 1,
+      "explanation": "Potassium ions are actively accumulated in the xylem sap, creating a strong osmotic gradient that draws water in and generates root pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Root pressure is generally absent or very weak in which type of plants?",
+      "options": [
+        "Herbaceous annuals",
+        "Xerophytic shrubs adapted to arid environments",
+        "Aquatic plants living in waterlogged soils",
+        "All vascular plants exhibit noticeable root pressure"
+      ],
+      "answer": 1,
+      "explanation": "Xerophytic plants experience low soil moisture and often close their stomata; the limited water uptake and high leaf water potential prevent the development of appreciable root pressure.",
+      "topic": "Root pressure"
+    },
+    {
+      "question": "Guttation is the process by which plants:",
+      "options": [
+        "lose water vapor through stomata",
+        "exude liquid water droplets from leaf margins",
+        "absorb water through root hairs",
+        "pull water upward in the xylem by cohesion"
+      ],
+      "answer": 1,
+      "explanation": "Guttation refers to the exudation of liquid water droplets, usually at leaf margins or tips, through specialized structures called hydathodes.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "Which set of environmental conditions most favor guttation in a typical garden plant?",
+      "options": [
+        "Dry soil and high temperature during midday",
+        "High humidity and low light in the early morning",
+        "High soil moisture combined with cool night temperatures",
+        "Strong wind and intense sunlight"
+      ],
+      "answer": 2,
+      "explanation": "Guttation occurs when soil water is abundant, root pressure is high, and transpiration is minimal, conditions commonly found on cool, humid nights.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "The fluid released during guttation differs from xylem sap mainly because it:",
+      "options": [
+        "contains only pure water",
+        "has a high concentration of sugars",
+        "is identical to phloem sap",
+        "contains a higher concentration of mineral ions than typical xylem sap"
+      ],
+      "answer": 3,
+      "explanation": "Guttation fluid is essentially xylem sap that is enriched with mineral ions absorbed by the roots, giving it a higher ionic concentration than ordinary xylem water.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "Root pressure contributes to guttation by:",
+      "options": [
+        "providing upward force for water movement during the day",
+        "creating a negative pressure in the leaf mesophyll",
+        "driving water out through hydathodes when transpiration is low",
+        "preventing water loss through stomata"
+      ],
+      "answer": 2,
+      "explanation": "Root pressure, generated by active ion uptake in the root, pushes water upward; when transpiration is low, this pressure forces water out through hydathodes as guttation.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "A key difference between guttation and transpiration is that:",
+      "options": [
+        "guttation is the loss of water vapor, while transpiration is liquid exudation",
+        "guttation occurs via stomata and transpiration via hydathodes",
+        "guttation occurs when transpiration rate is low, whereas transpiration occurs when stomata are open",
+        "both processes are identical"
+      ],
+      "answer": 2,
+      "explanation": "Guttation takes place when transpiration is minimal (often at night) and water is expelled as liquid through hydathodes; transpiration involves vapor loss through open stomata during the day.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "The specialized leaf structures that facilitate guttation are:",
+      "options": [
+        "stomata",
+        "lenticels",
+        "hydathodes",
+        "trichomes"
+      ],
+      "answer": 2,
+      "explanation": "Hydathodes are modified stomatal complexes located at leaf margins or tips that allow the release of guttation droplets.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "Guttation is especially common in grasses because they:",
+      "options": [
+        "have a thick waxy cuticle",
+        "lack stomata on their leaves",
+        "possess numerous hydathodes and develop high root pressure",
+        "perform C4 photosynthesis"
+      ],
+      "answer": 2,
+      "explanation": "Grasses typically have many hydathodes at leaf tips and can generate substantial root pressure, making guttation a frequent phenomenon.",
+      "topic": "Guttation"
+    },
+    {
+      "question": "Which factor has the greatest effect on the rate of transpiration in a typical plant leaf?",
+      "options": [
+        "Light intensity",
+        "Soil moisture",
+        "Atmospheric CO2 concentration",
+        "Wind speed"
+      ],
+      "answer": 0,
+      "explanation": "Higher light intensity opens stomata, increasing water vapor loss; it is the primary driver of transpiration compared to other factors.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "In the cohesion‑tension theory, the upward movement of water in the xylem is primarily due to:",
+      "options": [
+        "Root pressure",
+        "Capillary action",
+        "Cohesion between water molecules",
+        "Transpiration pull"
+      ],
+      "answer": 2,
+      "explanation": "Cohesion between water molecules transmits the tension generated by transpiration from leaves to the roots, pulling the water column upward.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Which statement about cuticular transpiration is correct?",
+      "options": [
+        "It accounts for >90% of total water loss",
+        "It occurs only when stomata are closed",
+        "It is independent of temperature",
+        "It is negligible in xerophytic plants"
+      ],
+      "answer": 1,
+      "explanation": "Cuticular water loss becomes noticeable mainly when stomata are closed; otherwise stomatal transpiration dominates.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Stomatal opening is regulated by guard cells accumulating which ion?",
+      "options": [
+        "K+",
+        "Cl-",
+        "Ca2+",
+        "Na+"
+      ],
+      "answer": 0,
+      "explanation": "Guard cells actively take up K+; the resulting osmotic increase draws water in, causing the cells to swell and open the stomatal pore.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Transpiration rate decreases when atmospheric relative humidity is high because:",
+      "options": [
+        "Vapor pressure deficit is low",
+        "Stomata close due to low CO2",
+        "Cuticle thickens",
+        "Xylem tension increases"
+      ],
+      "answer": 0,
+      "explanation": "High humidity reduces the vapor pressure gradient between leaf interior and air, lowering the driving force for water loss.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Which best describes the role of adhesion in the ascent of sap?",
+      "options": [
+        "Water molecules stick to each other",
+        "Water molecules stick to xylem walls",
+        "Adhesion creates root pressure",
+        "Adhesion reduces leaf temperature"
+      ],
+      "answer": 1,
+      "explanation": "Adhesion allows water to cling to the hydrophilic walls of xylem vessels, counteracting gravity and helping maintain a continuous water column.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Guttation occurs primarily during:",
+      "options": [
+        "Nighttime under high humidity",
+        "Daytime under high light",
+        "Early morning when soil moisture is high and transpiration is low",
+        "Drought conditions"
+      ],
+      "answer": 2,
+      "explanation": "When soil water is abundant and transpiration is minimal (early morning), root pressure forces water out through hydathodes as guttation.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "The presence of a well‑developed Casparian strip in the endodermis primarily affects transpiration by:",
+      "options": [
+        "Reducing water loss through roots",
+        "Preventing backflow of water from xylem to cortex",
+        "Enhancing root pressure",
+        "Increasing cuticular transpiration"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip blocks apoplastic flow, forcing water to cross cell membranes, thus preventing uncontrolled backflow and aiding regulated water movement toward the xylem.",
+      "topic": "Transpiration"
+    },
+    {
+      "question": "Which environmental factor most directly increases the rate of transpiration in a plant leaf?",
+      "options": [
+        "High temperature",
+        "Low atmospheric humidity",
+        "High wind speed",
+        "Low light intensity"
+      ],
+      "answer": 0,
+      "explanation": "High temperature raises the vapor pressure deficit between the leaf interior and the air, enhancing water loss through stomata.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "How does an increase in wind speed affect transpiration?",
+      "options": [
+        "It decreases transpiration by cooling the leaf surface",
+        "It increases transpiration by removing the saturated air layer around the leaf",
+        "It has no effect on transpiration rate",
+        "It only affects transpiration at night"
+      ],
+      "answer": 1,
+      "explanation": "Wind thins the boundary layer, continuously replacing humid air with drier air, thereby increasing the gradient for water vapor diffusion.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "What is the effect of a thicker cuticular wax layer on leaf transpiration?",
+      "options": [
+        "It reduces transpiration by providing a barrier to water loss",
+        "It increases transpiration by trapping more water inside the leaf",
+        "It has no effect on transpiration",
+        "It only affects gas exchange of CO₂, not water loss"
+      ],
+      "answer": 0,
+      "explanation": "A thicker cuticle creates a longer diffusion path for water vapor, lowering the rate of cuticular transpiration.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "Among leaves with different stomatal characteristics, which adaptation leads to the lowest transpiration rate?",
+      "options": [
+        "High stomatal density",
+        "Low stomatal density",
+        "Large stomatal aperture",
+        "Sunken stomata on the leaf surface"
+      ],
+      "answer": 1,
+      "explanation": "Fewer stomata per unit area limit the total pore area available for water vapor escape, thereby reducing transpiration.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "When atmospheric CO₂ concentration rises, how does transpiration typically respond?",
+      "options": [
+        "Stomata partially close, decreasing transpiration",
+        "Stomata open wider, increasing transpiration",
+        "Transpiration remains unchanged",
+        "Root pressure increases, enhancing transpiration"
+      ],
+      "answer": 0,
+      "explanation": "Elevated CO₂ allows the plant to maintain photosynthesis with partially closed stomata, reducing water loss.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "How does an increase in total leaf area of a plant affect its transpiration?",
+      "options": [
+        "Transpiration rate increases because more stomatal surface is exposed",
+        "Transpiration rate decreases due to greater water storage capacity",
+        "Transpiration rate remains unchanged as leaf area does not matter",
+        "Transpiration rate increases only if cuticle thickness also increases"
+      ],
+      "answer": 0,
+      "explanation": "A larger leaf area provides more stomatal surface for water vapor diffusion, leading to higher overall transpiration.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "If soil water potential becomes very low (dry soil), what is the typical response of transpiration?",
+      "options": [
+        "Transpiration decreases as stomata close to conserve water",
+        "Transpiration increases due to higher root pressure",
+        "Transpiration remains constant regardless of soil moisture",
+        "Transpiration increases because leaf temperature rises"
+      ],
+      "answer": 0,
+      "explanation": "Dry soil triggers abscisic acid production, causing stomatal closure and a consequent reduction in transpiration to prevent excessive water loss.",
+      "topic": "Factors affecting transpiration"
+    },
+    {
+      "question": "How does transpiration contribute to the upward movement of water in a plant?",
+      "options": [
+        "Generates root pressure",
+        "Creates negative pressure (tension) in xylem",
+        "Increases leaf turgor",
+        "Facilitates phloem loading"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration causes loss of water from leaves, creating a continuous column of water under tension (negative pressure) that pulls water upward through the xylem according to the cohesion‑tension theory.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "Which of the following is NOT a significance of transpiration?",
+      "options": [
+        "Cooling of leaf surface",
+        "Maintaining mineral nutrient uptake",
+        "Providing oxygen for photosynthesis",
+        "Driving mass flow of water"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration does not produce oxygen; oxygen is released as a by‑product of photosynthesis, not as a result of water loss.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "One major physiological benefit of a high transpiration rate under windy conditions is:",
+      "options": [
+        "Increased photosynthetic rate",
+        "Enhanced leaf cooling",
+        "Reduced nutrient uptake",
+        "Stomatal closure"
+      ],
+      "answer": 1,
+      "explanation": "Wind removes the humid boundary layer around leaves, increasing evaporation and providing evaporative cooling, which helps maintain optimal leaf temperature.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "In the cohesion‑tension theory, transpiration is essential because it:",
+      "options": [
+        "Increases xylem sap viscosity",
+        "Generates a pulling force that moves water upward",
+        "Produces root exudates",
+        "Opens stomata"
+      ],
+      "answer": 1,
+      "explanation": "Evaporation of water from stomata creates a tension (negative pressure) that pulls the continuous water column upward through cohesive forces.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "Transpiration facilitates the transport of mineral nutrients from roots to shoots primarily by:",
+      "options": [
+        "Phloem loading",
+        "Mass flow of water",
+        "Active transport in root hairs",
+        "Diffusion through plasmodesmata"
+      ],
+      "answer": 1,
+      "explanation": "As water moves upward by mass flow, dissolved mineral ions are carried along, allowing efficient long‑distance transport of nutrients.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "How does transpiration affect leaf temperature?",
+      "options": [
+        "Raises temperature by absorbing solar radiation",
+        "Lowers temperature through evaporative cooling",
+        "Has no effect",
+        "Increases temperature by increasing metabolic activity"
+      ],
+      "answer": 1,
+      "explanation": "The phase change of water from liquid to vapor absorbs latent heat, cooling the leaf surface and preventing overheating.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "Which statement best describes the ecological significance of transpiration in plants?",
+      "options": [
+        "It limits water loss to conserve resources",
+        "It creates a water potential gradient that enables nutrient uptake and cooling",
+        "It primarily functions to store water in vacuoles",
+        "It is a by‑product with no adaptive advantage"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration establishes a water potential gradient from soil to atmosphere, driving water and mineral uptake and providing evaporative cooling, both crucial for plant survival.",
+      "topic": "Significance of transpiration"
+    },
+    {
+      "question": "What is the primary driving force for upward movement of water in xylem according to the cohesion‑tension theory?",
+      "options": [
+        "Root pressure",
+        "Transpiration‑induced tension",
+        "Capillary action",
+        "Osmotic pressure"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration creates a negative pressure (tension) in the leaf air spaces, which pulls water upward through the continuous column in the xylem.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which property of water is essential for the formation of a continuous water column in xylem vessels?",
+      "options": [
+        "High surface tension",
+        "High viscosity",
+        "Cohesion between water molecules",
+        "Low boiling point"
+      ],
+      "answer": 2,
+      "explanation": "Cohesion, the attraction between water molecules, allows them to stick together and form an unbroken column that can transmit tension from leaves to roots.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "In the cohesion‑tension mechanism, what role does adhesion play?",
+      "options": [
+        "Pulls water upward by binding to xylem walls",
+        "Generates root pressure",
+        "Prevents cavitation by stabilizing the water column",
+        "Increases transpiration rate"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion is the attraction of water molecules to the polar walls of xylem vessels, helping to counteract gravity and keep the water column intact.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which condition most likely leads to cavitation (embolism) in the xylem?",
+      "options": [
+        "High humidity",
+        "Low temperature",
+        "High transpiration rate under drought",
+        "Presence of root hairs"
+      ],
+      "answer": 2,
+      "explanation": "When transpiration demand is high and water supply is limited, the tension becomes so great that the water column can break, forming air bubbles (cavitation).",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "In the cohesion‑tension theory, water moves from regions of higher water potential to regions of lower water potential. Which sequence correctly represents this direction within the plant?",
+      "options": [
+        "Soil → Roots → Stem → Leaves",
+        "Leaves → Stem → Roots → Soil",
+        "Roots → Leaves → Atmosphere",
+        "Atmosphere → Leaves → Roots"
+      ],
+      "answer": 0,
+      "explanation": "Water potential is highest in the soil and decreases through roots, stem, and leaves, creating a gradient that drives upward flow.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which structural feature of xylem vessels enhances the effectiveness of the cohesion‑tension mechanism?",
+      "options": [
+        "Lignified walls providing rigidity",
+        "Presence of perforation plates",
+        "Wide lumen diameter",
+        "Presence of living parenchyma cells"
+      ],
+      "answer": 0,
+      "explanation": "Lignified, rigid walls prevent collapse of vessels under the negative pressures generated by transpiration pull.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "During a hot, dry day, stomatal closure reduces transpiration. How does this affect the cohesion‑tension pull?",
+      "options": [
+        "Increases the tension",
+        "Decreases the tension",
+        "No effect on tension",
+        "Reverses the direction of water flow"
+      ],
+      "answer": 1,
+      "explanation": "Closing stomata lowers water loss, reducing the negative pressure (tension) in the leaf, thereby weakening the pull on the water column.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which of the following statements best describes the primary driving force for the ascent of sap in tall trees?",
+      "options": [
+        "Root pressure generated by active ion uptake",
+        "Cohesion of water molecules and transpiration pull",
+        "Capillary action in xylem vessels",
+        "Growth pressure from expanding cells"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration creates a negative pressure (tension) in the leaf xylem; cohesion between water molecules transmits this tension down the continuous water column, pulling water upward.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "In the cohesion‑tension theory, the negative pressure (tension) in the xylem is transmitted because of which property of water?",
+      "options": [
+        "High surface tension",
+        "High viscosity",
+        "Cohesion between water molecules",
+        "Low boiling point"
+      ],
+      "answer": 2,
+      "explanation": "Cohesion, the attraction between water molecules, allows the tensile stress generated at the leaf surface to be transmitted throughout the continuous water column in the xylem.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "Which factor does NOT significantly affect the rate of transpiration pull contributing to ascent of sap?",
+      "options": [
+        "Ambient temperature",
+        "Relative humidity",
+        "Soil water potential",
+        "Light intensity"
+      ],
+      "answer": 2,
+      "explanation": "Soil water potential influences water availability but does not directly alter the magnitude of the transpiration pull, which is mainly governed by leaf‑air vapor pressure gradient, temperature, humidity and light.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "The presence of which structure in roots prevents the backflow of water and forces it to move radially through the symplast before entering the xylem?",
+      "options": [
+        "Casparian strip",
+        "Root hairs",
+        "Endodermal plasmodesmata",
+        "Pericycle"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip in the endodermis blocks the apoplastic pathway, forcing water to cross cell membranes (symplast) and ensuring unidirectional movement toward the xylem.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "Why is adhesion of water to the walls of xylem vessels important for the ascent of sap?",
+      "options": [
+        "It increases the viscosity of sap",
+        "It helps maintain a continuous water column against gravity",
+        "It generates root pressure",
+        "It reduces the rate of transpiration"
+      ],
+      "answer": 1,
+      "explanation": "Adhesion to the hydrophilic walls of xylem vessels counteracts gravity and helps keep the water column intact, supporting the tension generated by transpiration.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "Which observation would directly support the cohesion‑tension mechanism?",
+      "options": [
+        "Measurement of positive pressure in xylem during night",
+        "Detection of water under tension (negative pressure) in xylem sap",
+        "Increase in sap flow after application of auxin",
+        "Presence of air bubbles in xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "Finding water under negative pressure in the xylem confirms that tension, not positive pressure, is responsible for pulling water upward, as predicted by the cohesion‑tension theory.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "During periods of low transpiration (e.g., high humidity), which mechanism can still contribute to the upward movement of water in some plants?",
+      "options": [
+        "Transpiration pull",
+        "Root pressure",
+        "Capillary action alone",
+        "Phloem loading"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure, generated by active ion uptake in root cells, can create a positive pressure that pushes water upward when transpiration pull is weak.",
+      "topic": "Ascent of sap"
+    },
+    {
+      "question": "What property of water molecules is primarily responsible for the cohesion that enables the formation of a continuous water column in xylem?",
+      "options": [
+        "Hydrogen bonding",
+        "High specific heat",
+        "Low viscosity",
+        "High solubility of gases"
+      ],
+      "answer": 0,
+      "explanation": "Hydrogen bonds between water molecules create strong intermolecular attraction, giving water its high cohesion essential for maintaining an uninterrupted column in xylem.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "In the cohesion‑tension mechanism, how does cohesion contribute to the upward movement of water?",
+      "options": [
+        "It allows water molecules to stick to xylem walls",
+        "It transmits the tension generated at the leaf surface down the water column",
+        "It generates root pressure",
+        "It reduces the rate of evaporation"
+      ],
+      "answer": 1,
+      "explanation": "Cohesion links water molecules so that the negative pressure (tension) produced by transpiration at the leaf surface is transmitted throughout the continuous water column to the roots, pulling water upward.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "Which experimental observation supports the role of cohesion in the ascent of sap?",
+      "options": [
+        "Water can rise in a narrow glass tube above atmospheric pressure",
+        "Water can be drawn up in a capillary tube when the top is exposed to dry air",
+        "Water column breaks when a cut xylem is exposed to high temperature",
+        "Water moves faster in dead cells than living cells"
+      ],
+      "answer": 1,
+      "explanation": "When the top of a capillary tube is exposed to dry air, water evaporates, creating tension that is transmitted down the column by cohesion, demonstrating the cohesion‑tension principle.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "How would a decrease in cohesion between water molecules affect the transpiration pull?",
+      "options": [
+        "Increase the magnitude of pull",
+        "Have no effect",
+        "Decrease the magnitude of pull",
+        "Convert pull into root pressure"
+      ],
+      "answer": 2,
+      "explanation": "Weaker cohesion reduces the ability of the water column to transmit tension, thereby diminishing the transpiration pull that drives upward water movement.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "Which statement best describes the difference between cohesion and adhesion in plant water transport?",
+      "options": [
+        "Cohesion is attraction between water molecules; adhesion is attraction between water and xylem walls",
+        "Cohesion occurs only in roots; adhesion only in leaves",
+        "Cohesion is responsible for root pressure; adhesion for transpiration",
+        "Both are identical phenomena"
+      ],
+      "answer": 0,
+      "explanation": "Cohesion refers to water‑water attraction, while adhesion refers to water‑wall attraction; both are essential but distinct forces in the transport system.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "In a tall tree, which structural feature of xylem vessels most directly supports the role of cohesion in maintaining a continuous water column?",
+      "options": [
+        "Lignified secondary walls",
+        "Presence of pits with perforation plates",
+        "Narrow diameter of tracheids",
+        "Thickened end walls"
+      ],
+      "answer": 2,
+      "explanation": "Narrow tracheids limit the size of air bubbles and help preserve the continuous water column, allowing cohesive forces to act effectively over great heights.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "Which factor is most likely to disrupt cohesive forces in the xylem and cause cavitation?",
+      "options": [
+        "High relative humidity",
+        "Rapid increase in temperature",
+        "Low soil water potential",
+        "Presence of dissolved sugars"
+      ],
+      "answer": 1,
+      "explanation": "A sudden rise in temperature weakens hydrogen bonds, reducing cohesion and increasing the risk of vapor bubble formation (cavitation) that breaks the water column.",
+      "topic": "Role of cohesion"
+    },
+    {
+      "question": "In the context of water transport in xylem, adhesion refers to which of the following interactions?",
+      "options": [
+        "Attraction between water molecules and the walls of xylem vessels",
+        "Attraction between water molecules themselves",
+        "Repulsion between water and dissolved minerals",
+        "Attraction between dissolved gases and water"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion is the attractive force between water molecules and the hydrophilic surfaces of xylem walls, allowing water to cling to the conduit walls.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "How does adhesion assist the upward movement of water in tall plants?",
+      "options": [
+        "It prevents the water column from breaking by sticking to the vessel walls",
+        "It creates a positive pressure that pushes water upward",
+        "It reduces the rate of transpiration at the leaf surface",
+        "It increases the temperature of the sap, reducing viscosity"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion to the xylem walls counteracts gravity and helps maintain a continuous water column, preventing cavitation during ascent.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "Which structural characteristic of xylem tracheids most enhances the effect of adhesion?",
+      "options": [
+        "Narrow diameter providing a high surface‑to‑volume ratio",
+        "Presence of large perforation plates",
+        "Thick lignified secondary walls",
+        "Abundant pits connecting adjacent cells"
+      ],
+      "answer": 0,
+      "explanation": "Narrow tracheids have a larger surface area relative to their volume, increasing the contact between water and wall surfaces and thus strengthening adhesive forces.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "Within the cohesion‑tension theory, adhesion is essential because it:",
+      "options": [
+        "Counters gravity by holding water to the vessel walls",
+        "Generates the negative pressure that pulls water upward",
+        "Facilitates the evaporation of water from leaf stomata",
+        "Increases root pressure during night time"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion to the walls provides a supportive force that, together with cohesion, allows the continuous water column to rise against gravity.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "Which experimental treatment would most directly diminish the role of adhesion in xylem water transport?",
+      "options": [
+        "Coating the inner walls of vessels with a hydrophobic wax layer",
+        "Increasing ambient temperature by 10 °C",
+        "Reducing atmospheric humidity to 30 %",
+        "Increasing leaf area by 50 %"
+      ],
+      "answer": 0,
+      "explanation": "A hydrophobic coating reduces the water‑wall attractive forces, thereby weakening adhesion and potentially causing breakage of the water column.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "How does adhesion differ from cohesion at the molecular level?",
+      "options": [
+        "Adhesion is water‑wall attraction; cohesion is water‑water attraction",
+        "Adhesion is repulsive; cohesion is attractive",
+        "Adhesion involves water‑air interaction; cohesion involves water‑soil interaction",
+        "Adhesion and cohesion are both water‑water attractions but differ in strength"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion describes the attraction between water molecules and solid surfaces, whereas cohesion describes the attraction among water molecules themselves.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "In a plant species that possesses unusually wide xylem vessels, the relative importance of adhesion compared to cohesion is:",
+      "options": [
+        "Reduced, because the surface‑to‑volume ratio is lower",
+        "Increased, because wider vessels hold more water",
+        "Unchanged, as adhesion is independent of vessel dimensions",
+        "Negligible, because adhesion does not occur in wide vessels"
+      ],
+      "answer": 0,
+      "explanation": "Wider vessels have a smaller surface‑to‑volume ratio, decreasing the area available for water‑wall contact, thus making adhesion less significant relative to cohesion.",
+      "topic": "Role of adhesion"
+    },
+    {
+      "question": "What is the primary driving force behind transpiration pull in the cohesion‑tension mechanism?",
+      "options": [
+        "Cohesive forces between water molecules creating a continuous water column",
+        "Root pressure generated by osmotic uptake in roots",
+        "Active loading of solutes into the xylem",
+        "Capillary action in leaf veins"
+      ],
+      "answer": 0,
+      "explanation": "Cohesive forces between water molecules allow a continuous column of water to be pulled upward when water evaporates from leaf stomata, generating the negative pressure (tension) known as transpiration pull.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "How does transpiration pull facilitate the upward movement of water in tall trees?",
+      "options": [
+        "It generates a negative pressure (tension) in the leaf xylem that is transmitted down the water column",
+        "It increases turgor pressure in root cells, pushing water upward",
+        "It causes active transport of ions into the xylem, creating an osmotic gradient",
+        "It relies on diffusion of water through the phloem tissue"
+      ],
+      "answer": 0,
+      "explanation": "Evaporation of water from stomata creates a tension in the leaf xylem; this tension is transmitted through the continuous water column to the roots, pulling water upward without the need for a positive pressure source.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "Which environmental condition would most reduce the effectiveness of transpiration pull?",
+      "options": [
+        "High relative humidity around the leaf surface",
+        "High ambient temperature",
+        "Strong wind across the leaf surface",
+        "Low soil water potential"
+      ],
+      "answer": 0,
+      "explanation": "High humidity lowers the water‑vapor gradient between the leaf interior and the atmosphere, decreasing the rate of transpiration and consequently reducing the magnitude of the pulling force.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "In the cohesion‑tension theory, what role does adhesion play alongside transpiration pull?",
+      "options": [
+        "It helps water molecules cling to the walls of xylem vessels, preventing breakage of the water column",
+        "It creates a positive pressure in the roots that pushes water upward",
+        "It drives the active transport of sugars in the phloem",
+        "It is responsible for opening of stomata"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion of water to the hydrophilic walls of xylem vessels counteracts gravity and helps maintain continuity of the water column, supporting the tension generated by transpiration pull.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "Transpiration pull is most effective in which part of the plant’s conducting system?",
+      "options": [
+        "Xylem vessels and tracheids of mature leaves",
+        "Phloem sieve tubes",
+        "Root cortical cells",
+        "Guard cells of stomata"
+      ],
+      "answer": 0,
+      "explanation": "Xylem vessels and tracheids provide the low‑resistance, continuous pathways required for the tension generated by transpiration pull to be transmitted from leaves to roots.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between transpiration pull and root pressure?",
+      "options": [
+        "Transpiration pull dominates upward water movement in tall plants, whereas root pressure is significant only in small or young plants",
+        "Root pressure is the main driver of water ascent in all plants",
+        "Both forces act simultaneously with equal magnitude in all species",
+        "Root pressure enhances transpiration pull by raising leaf water potential"
+      ],
+      "answer": 0,
+      "explanation": "In most tall plants, the negative pressure generated by transpiration pull is the principal force moving water upward; root pressure contributes mainly in small seedlings or during periods of low transpiration.",
+      "topic": "Role of transpiration pull"
+    },
+    {
+      "question": "During daylight, the magnitude of transpiration pull is directly proportional to which factor?",
+      "options": [
+        "Rate of water loss through stomata",
+        "Concentration of nutrients in the soil solution",
+        "Light intensity independent of stomatal behavior",
+        "Number of root hairs"
+      ],
+      "answer": 0,
+      "explanation": "A higher rate of water loss through open stomata increases the water‑vapor gradient, enhancing transpiration and thus increasing the tension (pull) generated in the xylem.",
+      "topic": "Role of transpiration pull"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 18,
+    "mcqCount": 126
+  }
+}

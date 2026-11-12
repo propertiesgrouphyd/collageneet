@@ -1,0 +1,981 @@
+{
+  "day": 11,
+  "courseDate": "2026-09-09",
+  "publishAt": "2026-09-09T06:00:00+05:30",
+  "title": "Day 11: Cell – The Unit of Life",
+  "introduction": "This lesson covers the fundamental concepts of cell theory, the two major cell types, their structural features, and the key organelles that define cellular function, as outlined in the NCERT syllabus for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Cell theory",
+      "heading": "Cell Theory – Historical Development and Modern Concept",
+      "content": "The first observation of a cell was made by Robert Hooke (1665) using a cork slice, coining the term \"cell\". The cell theory was formulated in three stages: (1) Matthias Schleiden (1838) proposed that all plants are composed of cells; (2) Theodor Schwann (1839) extended this to animals; (3) Rudolf Virchow (1855) added that all cells arise from pre‑existing cells (Omnis cellula e cellula). Modern cell theory incorporates four statements: (i) Cell is the basic structural and functional unit of life; (ii) All living organisms are composed of one or more cells; (iii) All cells arise from pre‑existing cells; (iv) The cell contains hereditary information and metabolic machinery. These concepts are repeatedly emphasized in NCERT diagrams and statements.",
+      "keyPoints": [
+        "Hooke discovered cells in 1665; Schleiden, Schwann and Virchow formulated the classic cell theory",
+        "Modern cell theory adds genetic continuity and metabolic autonomy",
+        "Cell is the fundamental unit of structure, function, and reproduction"
+      ],
+      "neetTips": [
+        "Memorise the contributors and their years for quick recall",
+        "Link each statement of modern cell theory to NEET‑style questions on cell function"
+      ]
+    },
+    {
+      "topic": "Types of cells",
+      "heading": "Classification of Cells: Prokaryotes and Eukaryotes",
+      "content": "Cells are broadly classified into prokaryotic and eukaryotic types. Prokaryotes (bacteria and archaea) lack a true nucleus and membrane‑bound organelles, whereas eukaryotes (plants, animals, fungi, protists) possess a nucleus and a suite of organelles. This dichotomy underlies many NEET questions on cellular organization and metabolic compartmentalisation.",
+      "keyPoints": [
+        "Two major cell types: prokaryotic (no nucleus) and eukaryotic (nucleus present)",
+        "Prokaryotes are generally smaller and simpler",
+        "Eukaryotes exhibit compartmentalisation with membrane‑bound organelles"
+      ],
+      "neetTips": [
+        "Remember the mnemonic \"P‑E\" – Prokaryotes are Primitive, Eukaryotes are Elaborate"
+      ]
+    },
+    {
+      "topic": "Prokaryotic cells",
+      "heading": "Prokaryotic Cell Organisation",
+      "content": "Prokaryotic cells have a nucleoid region where circular DNA resides, ribosomes (70S) dispersed in the cytoplasm, and often plasmids that carry extra‑genetic information. The cell wall, composed of peptidoglycan in bacteria, provides shape and protection. Internal organisation is minimal; metabolic pathways occur in the cytoplasm or attached to the plasma membrane.",
+      "keyPoints": [
+        "Nucleoid contains a single circular chromosome",
+        "Cell wall of bacteria is peptidoglycan; lacks cellulose or chitin",
+        "Plasmids are extrachromosomal DNA circles",
+        "Ribosomes are 70S, free in cytoplasm"
+      ],
+      "neetTips": [
+        "Focus on structural differences: no nucleus, peptidoglycan wall, 70S ribosomes"
+      ]
+    },
+    {
+      "topic": "Eukaryotic cells",
+      "heading": "Eukaryotic Cell Organisation",
+      "content": "Eukaryotic cells possess a true nucleus bounded by a double membrane (nuclear envelope) and a variety of membrane‑bound organelles such as mitochondria, endoplasmic reticulum, Golgi apparatus, lysosomes, and in plants, chloroplasts. The cytoskeleton provides shape and intracellular transport. This compartmentalisation enables specialised metabolic functions.",
+      "keyPoints": [
+        "Nucleus enclosed by nuclear envelope with pores",
+        "Organelles include mitochondria, ER, Golgi, lysosome, chloroplast (plants)",
+        "Cytoskeleton (microtubules, microfilaments) maintains shape"
+      ],
+      "neetTips": [
+        "Link each organelle to its primary function for quick NEET recall"
+      ]
+    },
+    {
+      "topic": "Cell size and shape",
+      "heading": "Cell Size, Surface Area and Shape",
+      "content": "Typical cell dimensions range from 1 µm (bacteria) to 100 µm (plant cells). The surface‑area‑to‑volume (SA:V) ratio dictates diffusion efficiency; smaller cells have higher SA:V, facilitating rapid exchange of nutrients and wastes. Cells adopt shapes (spherical, elongated, flattened) to optimise SA:V for their specific functions.",
+      "keyPoints": [
+        "Cell size varies 1–100 µm",
+        "High SA:V ratio favours diffusion; low ratio limits it",
+        "Shape adaptations (e.g., elongated root hairs) increase SA"
+      ],
+      "neetTips": [
+        "Remember the SA:V rule: as size increases, SA:V decreases – a frequent NEET concept"
+      ]
+    },
+    {
+      "topic": "Plasma membrane",
+      "heading": "Structure of the Plasma Membrane",
+      "content": "The plasma membrane follows the fluid‑mosaic model: a phospholipid bilayer with embedded proteins, cholesterol (in animal cells) for fluidity, and carbohydrate chains on the extracellular side forming glycocalyx. Integral proteins act as channels or carriers, while peripheral proteins assist in signaling.",
+      "keyPoints": [
+        "Phospholipid bilayer with hydrophilic heads outward, hydrophobic tails inward",
+        "Integral proteins span the membrane; peripheral proteins lie on surfaces",
+        "Cholesterol modulates fluidity; glycocalyx contains carbohydrate moieties"
+      ],
+      "neetTips": [
+        "Visualise the bilayer layers; NCERT diagrams label each component"
+      ]
+    },
+    {
+      "topic": "Cell wall",
+      "heading": "Composition and Function of the Cell Wall",
+      "content": "Plant cell walls are primarily cellulose fibres embedded in a matrix of pectin and hemicellulose; lignin adds rigidity in secondary walls. Bacterial walls consist of peptidoglycan, while fungal walls contain chitin. The wall provides mechanical support, protection, and determines cell shape.",
+      "keyPoints": [
+        "Plant wall: cellulose + pectin + lignin (secondary)",
+        "Bacterial wall: peptidoglycan",
+        "Fungal wall: chitin"
+      ],
+      "neetTips": [
+        "Link each kingdom to its characteristic wall polymer for quick matching"
+      ]
+    },
+    {
+      "topic": "Cytoplasm",
+      "heading": "Cytoplasmic Organisation",
+      "content": "Cytoplasm comprises the cytosol (aqueous matrix) and the organelles suspended within. It contains inclusion bodies (glycogen granules, lipid droplets) and the cytoskeleton (microtubules, microfilaments, intermediate filaments) that maintain cell shape and facilitate intracellular transport.",
+      "keyPoints": [
+        "Cytosol is the fluid matrix; organelles are suspended within",
+        "Inclusion bodies store reserves (e.g., glycogen)",
+        "Cytoskeleton provides structural support and transport"
+      ],
+      "neetTips": [
+        "Remember the three cytoskeletal components and their functions"
+      ]
+    },
+    {
+      "topic": "Cell organelles",
+      "heading": "Major Cell Organelles and Their Functions",
+      "content": "Key organelles include mitochondria (ATP production via oxidative phosphorylation), endoplasmic reticulum (rough – protein synthesis; smooth – lipid synthesis), Golgi apparatus (modification and packaging), lysosomes (digestive enzymes), peroxisomes (fatty acid oxidation), vacuoles (storage), and chloroplasts (photosynthesis in plants). Each organelle’s membrane system creates distinct biochemical environments.",
+      "keyPoints": [
+        "Mitochondria – power house, double membrane, cristae",
+        "Rough ER – ribosome‑studded, protein synthesis",
+        "Golgi – packaging and modification",
+        "Lysosome – hydrolytic enzymes"
+      ],
+      "neetTips": [
+        "Associate each organelle with a single hallmark function for rapid recall"
+      ]
+    },
+    {
+      "topic": "Nucleus",
+      "heading": "Nuclear Structure and Components",
+      "content": "The nucleus is bounded by a double‑membrane nuclear envelope perforated by nuclear pores that regulate macromolecular traffic. Inside, the nucleoplasm contains chromatin (DNA‑protein complex) and the nucleolus, a dense region where ribosomal RNA is transcribed and ribosomal subunits assembled. Chromatin exists as euchromatin (active) and heterochromatin (inactive).",
+      "keyPoints": [
+        "Nuclear envelope: inner & outer membranes with pores",
+        "Nucleolus synthesises rRNA and assembles ribosomal subunits",
+        "Chromatin = DNA + histone proteins; euchromatin active, heterochromatin inactive"
+      ],
+      "neetTips": [
+        "NCERT emphasises the nucleolus as the site of ribosome biogenesis – a high‑yield fact"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand the cell as the basic structural and functional unit of life and clearly distinguish prokaryotic and eukaryotic cellular organisation."
+  ],
+  "mcqs": [
+    {
+      "question": "Which scientist is credited with proposing that all plants are composed of cells?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "answer": 0,
+      "explanation": "Matthias Schleiden, in 1838, formulated the idea that the plant kingdom is made up of cells, forming a cornerstone of the cell theory.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which of the following statements is NOT included in the modern cell theory?",
+      "options": [
+        "All living organisms are composed of one or more cells",
+        "Cells are the basic unit of structure and function",
+        "All cells arise spontaneously from non-living matter",
+        "All cells contain hereditary material"
+      ],
+      "answer": 2,
+      "explanation": "The modern cell theory rejects spontaneous generation; it states that cells arise only from pre‑existing cells.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "According to the cell theory, which statement correctly describes the origin of new cells?",
+      "options": [
+        "New cells can arise only from pre-existing cells",
+        "Cells can arise de novo from inorganic molecules",
+        "Cell division does not involve DNA replication",
+        "Only plant cells divide"
+      ],
+      "answer": 0,
+      "explanation": "Rudolf Virchow’s addition to the cell theory emphasizes that all cells arise from pre‑existing cells (omnis cellula e cellula).",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "The concept that all cells arise from pre‑existing cells was introduced by which scientist?",
+      "options": [
+        "Theodor Schwann",
+        "Matthias Schleiden",
+        "Rudolf Virchow",
+        "Louis Pasteur"
+      ],
+      "answer": 2,
+      "explanation": "Rudolf Virchow, in 1855, coined the phrase \"omnis cellula e cellula,\" reinforcing the continuity of cellular life.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Modern cell theory states that cells maintain internal order primarily through which process?",
+      "options": [
+        "Diffusion only",
+        "Active transport",
+        "Homeostasis",
+        "Osmosis"
+      ],
+      "answer": 2,
+      "explanation": "Homeostasis describes the ability of cells to regulate their internal environment, a key principle of modern cell theory.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which statement best reflects the cell theory’s view on the relationship between structure and function?",
+      "options": [
+        "Structure and function are unrelated",
+        "Structure determines function",
+        "Function determines structure",
+        "Both are independent of each other"
+      ],
+      "answer": 1,
+      "explanation": "The cell theory asserts that the structure of a cell dictates its specific functions, emphasizing the structure‑function relationship.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes prokaryotic cells from eukaryotic cells?",
+      "options": [
+        "Prokaryotes possess a membrane‑bound nucleus, eukaryotes do not",
+        "Prokaryotes have linear chromosomes, eukaryotes have circular chromosomes",
+        "Prokaryotes lack membrane‑bound organelles, eukaryotes contain them",
+        "Prokaryotes have mitochondria, eukaryotes have chloroplasts"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotic cells are characterized by the absence of membrane‑bound organelles such as nucleus, mitochondria, etc., whereas eukaryotic cells possess these organelles.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "The size range most commonly observed for typical bacterial (prokaryotic) cells is:",
+      "options": [
+        "0.1–0.5 µm",
+        "0.5–5 µm",
+        "5–10 µm",
+        "10–100 µm"
+      ],
+      "answer": 1,
+      "explanation": "Most bacteria are 0.5 to 5 µm in length; this size allows efficient diffusion of nutrients and waste across the plasma membrane.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "Which cellular structure is present in plant cells but absent in animal cells, making it a characteristic of a specific type of eukaryotic cell?",
+      "options": [
+        "Nucleolus",
+        "Central vacuole",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells contain a large central vacuole that stores water and solutes, a feature not found in animal cells.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "Which of the following is a correct example of a unicellular eukaryote?",
+      "options": [
+        "Paramecium caudatum",
+        "Escherichia coli",
+        "Mycelium of Aspergillus",
+        "Human erythrocyte"
+      ],
+      "answer": 0,
+      "explanation": "Paramecium caudatum is a single‑celled protozoan belonging to the kingdom Protista, thus a unicellular eukaryote.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "The cell wall of a typical Gram‑positive bacterium differs from that of a plant cell primarily because it contains:",
+      "options": [
+        "Cellulose",
+        "Peptidoglycan",
+        "Lignin",
+        "Pectin"
+      ],
+      "answer": 1,
+      "explanation": "Gram‑positive bacterial cell walls are rich in peptidoglycan, whereas plant cell walls are mainly composed of cellulose.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic feature of eukaryotic cells?",
+      "options": [
+        "Presence of linear DNA chromosomes",
+        "Presence of mitochondria",
+        "Absence of a defined nucleus",
+        "Presence of endoplasmic reticulum"
+      ],
+      "answer": 2,
+      "explanation": "Eukaryotic cells always have a defined nucleus; its absence is a feature of prokaryotes.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "Considering the surface‑area‑to‑volume ratio, why are most prokaryotic cells smaller than eukaryotic cells?",
+      "options": [
+        "Prokaryotes lack a cell wall, limiting size",
+        "Higher metabolic rate requires larger size",
+        "Efficient diffusion across the plasma membrane necessitates small size",
+        "Presence of multiple nuclei restricts size"
+      ],
+      "answer": 2,
+      "explanation": "A high surface‑area‑to‑volume ratio facilitates rapid diffusion of nutrients and waste, favoring a smaller size for prokaryotic cells.",
+      "topic": "Types of cells"
+    },
+    {
+      "question": "Which of the following structures is absent in prokaryotic cells?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Cell wall",
+        "Plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotic cells lack a membrane‑bound nucleus; their genetic material is free in the nucleoid region.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "The genetic material of most bacteria is organized as:",
+      "options": [
+        "Linear chromosomes in a nucleus",
+        "Circular DNA in a nucleoid region",
+        "Multiple linear chromosomes in the cytoplasm",
+        "RNA genome enclosed in a capsid"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial chromosomes are typically a single circular DNA molecule located in the nucleoid, not enclosed by a membrane.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "Which component distinguishes bacterial flagella from eukaryotic flagella?",
+      "options": [
+        "They are composed of microtubules",
+        "They are powered by ATP hydrolysis",
+        "They are made of flagellin protein",
+        "They have a 9+2 arrangement of microtubules"
+      ],
+      "answer": 2,
+      "explanation": "Bacterial flagella are helical filaments of the protein flagellin and rotate like a propeller, unlike the microtubule‑based eukaryotic flagella.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "In Gram‑positive bacteria, the thick layer outside the plasma membrane is primarily composed of:",
+      "options": [
+        "Lipopolysaccharide",
+        "Peptidoglycan",
+        "Chitin",
+        "Cellulose"
+      ],
+      "answer": 1,
+      "explanation": "Gram‑positive cell walls have a thick peptidoglycan layer that retains the crystal violet stain.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "Which statement about plasmids is correct?",
+      "options": [
+        "They are essential for bacterial survival",
+        "They replicate independently of chromosomal DNA",
+        "They code for ribosomal RNA",
+        "They are linear double‑stranded DNA"
+      ],
+      "answer": 1,
+      "explanation": "Plasmids are extrachromosomal circular DNA molecules that replicate autonomously from the bacterial chromosome.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "The simultaneous occurrence of transcription and translation in prokaryotes is possible because:",
+      "options": [
+        "Presence of a nucleus",
+        "Lack of introns",
+        "Absence of membrane‑bound organelles",
+        "Presence of mitochondria"
+      ],
+      "answer": 2,
+      "explanation": "Since prokaryotes lack a nucleus and other membrane‑bound organelles, the nascent mRNA can be translated by ribosomes while being transcribed.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "Which of the following is a characteristic feature of the bacterial cell wall that is targeted by the antibiotic penicillin?",
+      "options": [
+        "Synthesis of peptidoglycan cross‑links",
+        "Formation of lipopolysaccharide",
+        "Production of flagellin",
+        "Synthesis of teichoic acids"
+      ],
+      "answer": 0,
+      "explanation": "Penicillin inhibits the enzymes that form the peptide cross‑links in peptidoglycan, weakening the bacterial cell wall.",
+      "topic": "Prokaryotic cells"
+    },
+    {
+      "question": "Which of the following statements correctly describes the nuclear envelope in eukaryotic cells?",
+      "options": [
+        "It is a single lipid bilayer continuous with the plasma membrane.",
+        "It consists of two concentric lipid bilayers perforated by nuclear pores.",
+        "It is composed of a rigid protein meshwork without pores.",
+        "It is absent in plant cells."
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope is composed of two parallel lipid bilayers (inner and outer) that contain nuclear pore complexes allowing regulated exchange of molecules.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "In eukaryotic cells, the site of synthesis of ribosomal RNA (except 5S rRNA) is:",
+      "options": [
+        "Nucleolus",
+        "Nucleoplasm",
+        "Cytoplasm",
+        "Mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "The nucleolus is the subnuclear region where rRNA genes (28S, 18S, 5.8S) are transcribed and ribosomal subunits begin assembly.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "Which organelle is primarily responsible for the modification, sorting, and packaging of proteins destined for secretion or for lysosomes?",
+      "options": [
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Peroxisome",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "The Golgi apparatus receives proteins from the ER, modifies them (e.g., glycosylation), and sorts them into vesicles for secretion or lysosomal targeting.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "The presence of which of the following structures distinguishes eukaryotic cells from prokaryotic cells?",
+      "options": [
+        "Peptidoglycan cell wall",
+        "Linear DNA chromosomes",
+        "70S ribosomes",
+        "Plasmids"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic chromosomes are linear and associated with histones, whereas prokaryotes have circular DNA without histones.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "Which of the following statements about mitochondria is FALSE?",
+      "options": [
+        "They have their own circular DNA.",
+        "They are the site of oxidative phosphorylation.",
+        "They possess double membranes with inner folds called cristae.",
+        "They are synthesized de novo only by the cell nucleus."
+      ],
+      "answer": 3,
+      "explanation": "Mitochondria replicate by growth and division of pre‑existing mitochondria; they are not assembled entirely from nuclear‑encoded components.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "In plant eukaryotic cells, which organelle is directly involved in the synthesis of starch granules?",
+      "options": [
+        "Chloroplast",
+        "Amyloplast",
+        "Vacuole",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Amyloplasts are non‑photosynthetic plastids that store and synthesize starch granules in plant cells.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "Which of the following best explains why eukaryotic cells can be larger than prokaryotic cells?",
+      "options": [
+        "Presence of a rigid cell wall that supports larger size.",
+        "Compartmentalization of metabolic processes within membrane-bound organelles.",
+        "Higher concentration of cytoplasmic enzymes.",
+        "Larger genome size alone."
+      ],
+      "answer": 1,
+      "explanation": "Membrane‑bound organelles allow spatial segregation of biochemical pathways, reducing diffusion constraints and permitting larger cell volumes.",
+      "topic": "Eukaryotic cells"
+    },
+    {
+      "question": "Why is the surface area‑to‑volume ratio crucial for determining the size of a cell?",
+      "options": [
+        "It determines the rate of diffusion of nutrients and waste across the membrane",
+        "It controls the amount of genetic material a cell can contain",
+        "It dictates the cell's ability to undergo mitosis",
+        "It influences the cell's membrane potential"
+      ],
+      "answer": 0,
+      "explanation": "A higher surface area relative to volume allows efficient exchange of substances by diffusion; as cell size increases, volume grows faster than surface area, limiting diffusion rates.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which cell shape provides the maximum surface area for a given volume?",
+      "options": [
+        "Spherical",
+        "Cuboidal",
+        "Flattened disc (thin sheet)",
+        "Columnar"
+      ],
+      "answer": 2,
+      "explanation": "A flattened disc spreads the cell's contents over a larger area while keeping volume low, giving the highest surface area‑to‑volume ratio among the listed shapes.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which of the following is an example of a cell that is unusually large because of its specialized function?",
+      "options": [
+        "Red blood cell",
+        "Neuron",
+        "Sperm cell",
+        "Guard cell"
+      ],
+      "answer": 1,
+      "explanation": "Neurons can extend long processes (axons and dendrites) to transmit signals over distances, making them among the largest cells in the body.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "The limitation on cell size due to diffusion of metabolites is best illustrated by which statement?",
+      "options": [
+        "Larger cells have more mitochondria",
+        "Small cells have higher surface area to volume ratio",
+        "Cell size does not affect diffusion",
+        "Larger cells have thicker cell walls"
+      ],
+      "answer": 1,
+      "explanation": "Small cells possess a larger surface area relative to their volume, facilitating rapid diffusion of nutrients and waste; this limits how large a cell can become.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which cell shape is typical for absorptive epithelium in the small intestine?",
+      "options": [
+        "Squamous epithelium",
+        "Cuboidal epitheliating",
+        "Columnar epithelium with microvilli",
+        "Transitional epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Intestinal absorptive cells are columnar and bear dense microvilli on their apical surface to increase surface area for nutrient uptake.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "In plant cells, a large central vacuole influences cell shape by:",
+      "options": [
+        "It reduces cytoplasmic volume, making the cell turgid and often elongated",
+        "It increases cytoplasmic volume, causing the cell to become spherical",
+        "It provides structural support but does not affect shape",
+        "It has no effect on cell shape"
+      ],
+      "answer": 0,
+      "explanation": "The central vacuole occupies most of the cell's interior, pushing the cytoplasm against the cell wall; turgor pressure then determines the final shape, often elongating the cell.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Why are most unicellular organisms microscopic?",
+      "options": [
+        "Because they lack a nucleus",
+        "Because their metabolic rate is independent of size",
+        "Because diffusion limits restrict their size",
+        "Because they have rigid cell walls"
+      ],
+      "answer": 2,
+      "explanation": "Diffusion of nutrients and waste becomes inefficient beyond a certain size; therefore unicellular organisms remain small to maintain adequate surface area‑to‑volume ratios.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which of the following statements about the fluid mosaic model is correct?",
+      "options": [
+        "The lipid bilayer is rigid and immobile",
+        "Membrane proteins are fixed in one position",
+        "Lipids and proteins can move laterally within the bilayer",
+        "Carbohydrate chains are embedded within the hydrophobic core"
+      ],
+      "answer": 2,
+      "explanation": "The fluid mosaic model describes the membrane as a dynamic structure where both lipids and proteins diffuse laterally, giving the membrane fluidity.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "The main component that determines the selective permeability of the plasma membrane is:",
+      "options": [
+        "Cholesterol",
+        "Phospholipid bilayer",
+        "Integral membrane proteins",
+        "Glycolipids"
+      ],
+      "answer": 1,
+      "explanation": "The phospholipid bilayer forms the basic barrier; its hydrophilic heads and hydrophobic tails allow only small non‑polar molecules to pass freely, governing selective permeability.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which transport process does NOT require energy directly from ATP?",
+      "options": [
+        "Primary active transport",
+        "Secondary active transport",
+        "Facilitated diffusion",
+        "Endocytosis"
+      ],
+      "answer": 2,
+      "explanation": "Facilitated diffusion uses carrier or channel proteins to move substances down their concentration gradient without direct ATP consumption.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "In animal cells, the presence of which molecule in the plasma membrane contributes most to membrane fluidity at physiological temperature?",
+      "options": [
+        "Saturated fatty acids",
+        "Cholesterol",
+        "Phosphatidylcholine",
+        "Unsaturated fatty acids"
+      ],
+      "answer": 3,
+      "explanation": "Unsaturated fatty acids contain cis‑double bonds that create kinks, preventing tight packing of phospholipids and thus increasing membrane fluidity.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which of the following correctly pairs a membrane protein type with its function?",
+      "options": [
+        "Channel proteins – facilitate passive diffusion of ions",
+        "Carrier proteins – form pores for large molecules",
+        "Receptor proteins – hydrolyze ATP",
+        "Peripheral proteins – embed within the lipid bilayer"
+      ],
+      "answer": 0,
+      "explanation": "Channel proteins provide aqueous pores that allow specific ions or small molecules to diffuse passively across the membrane.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "The extracellular carbohydrate chains attached to membrane proteins are collectively known as:",
+      "options": [
+        "Glycolipids",
+        "Glycocalyx",
+        "Proteoglycans",
+        "Lipopolysaccharide"
+      ],
+      "answer": 1,
+      "explanation": "The glycocalyx consists of carbohydrate moieties of glycoproteins and glycolipids on the outer surface, playing roles in protection and cell recognition.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which statement about cholesterol in the plasma membrane of animal cells is FALSE?",
+      "options": [
+        "It decreases membrane permeability to small water‑soluble molecules",
+        "It increases membrane fluidity at low temperatures",
+        "It makes the membrane completely rigid at body temperature",
+        "It is intercalated between phospholipid fatty acid tails"
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol modulates fluidity; it prevents the membrane from becoming too rigid at low temperatures but does not make it completely rigid at physiological temperature.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which polysaccharide is the major component of the primary cell wall in most dicotyledonous plants?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lignin"
+      ],
+      "answer": 0,
+      "explanation": "Cellulose microfibrils form the main load‑bearing framework of the primary wall in dicots, providing tensile strength.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "In bacterial cell walls, which component is characteristic of Gram‑positive bacteria and absent in Gram‑negative bacteria?",
+      "options": [
+        "Lipopolysaccharide",
+        "Teichoic acids",
+        "Mycolic acid",
+        "Porin proteins"
+      ],
+      "answer": 1,
+      "explanation": "Teichoic acids are polymers embedded in the thick peptidoglycan layer of Gram‑positive bacteria and are not found in Gram‑negative cells.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which statement about lignin in secondary cell walls is correct?",
+      "options": [
+        "It provides flexibility to the wall",
+        "It increases water permeability",
+        "It provides rigidity and resistance to decay",
+        "It acts as a primary energy source"
+      ],
+      "answer": 2,
+      "explanation": "Lignin is a complex phenolic polymer that impregnates secondary walls, making them rigid and resistant to microbial degradation.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Plasmodesmata are channels that traverse which part of the plant cell wall?",
+      "options": [
+        "Middle lamella",
+        "Primary wall",
+        "Secondary wall",
+        "Tonoplast"
+      ],
+      "answer": 1,
+      "explanation": "Plasmodesmata pass through the primary cell wall, connecting the cytoplasm of adjacent cells while being lined by the plasma membrane.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "The cell wall of most fungi is primarily composed of which polymer?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Pectin"
+      ],
+      "answer": 1,
+      "explanation": "Chitin, a β‑1,4‑linked N‑acetylglucosamine polymer, is the main structural component of fungal cell walls.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Plant cells can maintain turgor pressure primarily because:",
+      "options": [
+        "They have a rigid cell wall",
+        "They contain a high concentration of mitochondria",
+        "They actively transport Na⁺ ions",
+        "They possess numerous chloroplasts"
+      ],
+      "answer": 0,
+      "explanation": "The rigid cell wall resists the outward force of the protoplast, allowing the cell to develop and sustain turgor pressure.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "During plasmolysis, the plasma membrane separates from the cell wall because:",
+      "options": [
+        "The cell wall collapses",
+        "The vacuole expands",
+        "The cell loses water and the protoplast shrinks",
+        "The cell wall becomes permeable to ions"
+      ],
+      "answer": 2,
+      "explanation": "Loss of water reduces turgor, causing the protoplast to contract and pull away from the rigid cell wall, producing plasmolysis.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which of the following statements correctly describes the cytoplasm in a typical eukaryotic cell?",
+      "options": [
+        "It consists only of the aqueous matrix called cytosol, without any organelles.",
+        "It includes cytosol, organelles (except nucleus), and cytoskeletal elements.",
+        "It is bounded by the plasma membrane and contains the nucleus only.",
+        "It is a rigid structure that provides shape to the cell."
+      ],
+      "answer": 1,
+      "explanation": "The cytoplasm comprises the cytosol, all organelles except the nucleus, and the cytoskeleton, providing a site for metabolic activities.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "In plant cells, the large central vacuole occupies most of the cell volume. What is the proportion of true cytoplasm (excluding vacuole) relative to total cell volume?",
+      "options": [
+        "About 10%",
+        "About 30%",
+        "About 50%",
+        "About 70%"
+      ],
+      "answer": 0,
+      "explanation": "The central vacuole can occupy up to 80-90% of the cell volume, leaving roughly 10% for the actual cytoplasmic region.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which of the following structures is NOT considered part of the cytoplasmic organization in prokaryotes?",
+      "options": [
+        "Nucleoid",
+        "Ribosomes",
+        "Cytoplasmic membrane",
+        "Mitochondria"
+      ],
+      "answer": 3,
+      "explanation": "Prokaryotes lack membrane-bound organelles such as mitochondria; the other components are present in the prokaryotic cytoplasm.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Cytoplasmic streaming in plant cells primarily facilitates:",
+      "options": [
+        "DNA replication",
+        "Distribution of nutrients and organelles",
+        "Generation of ATP",
+        "Cell wall synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Streaming moves chloroplasts, nutrients, and other organelles throughout the cell, enhancing metabolic efficiency.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "The gel-like consistency of the cytosol is mainly due to:",
+      "options": [
+        "High concentration of DNA",
+        "Presence of microtubules",
+        "Dissolved proteins and salts forming a colloidal solution",
+        "Lipid bilayer fragments"
+      ],
+      "answer": 2,
+      "explanation": "Cytosol is a colloidal solution of proteins, ions, and small molecules, giving it a viscous, gel-like nature.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which of the following statements about the cytoplasm of animal cells is correct?",
+      "options": [
+        "It contains chloroplasts for photosynthesis.",
+        "It has a well-developed cell wall composed of cellulose.",
+        "It contains numerous lysosomes involved in intracellular digestion.",
+        "It lacks any membrane-bound organelles."
+      ],
+      "answer": 2,
+      "explanation": "Animal cell cytoplasm houses lysosomes, which are essential for degrading macromolecules and cellular debris.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "During cell division, the cytoplasm of a eukaryotic cell is divided by:",
+      "options": [
+        "Formation of a new plasma membrane",
+        "Cytokinesis through a contractile ring of actin‑myosin",
+        "Fusion of vacuoles",
+        "Disintegration of the nuclear envelope"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinesis is achieved by a contractile actin‑myosin ring that pinches the cell into two daughter cells, partitioning the cytoplasm.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which organelle is the primary site of oxidative phosphorylation in eukaryotic cells?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria contain the inner membrane where the electron transport chain and ATP synthase carry out oxidative phosphorylation, producing most of the cell's ATP.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "In plant cells, which organelle contains the thylakoid membranes where the light‑dependent reactions of photosynthesis occur?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Endoplasmic reticulum",
+        "Peroxisome"
+      ],
+      "answer": 1,
+      "explanation": "Thylakoid membranes are stacked in the chloroplasts and house chlorophyll and the protein complexes required for the light‑dependent reactions.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which organelle is chiefly responsible for the synthesis of secretory proteins that are destined for export from the cell?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "The rough ER is studded with ribosomes that translate mRNA of secretory proteins, inserting the nascent polypeptide into its lumen for further processing.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "The main function of the Golgi apparatus in a eukaryotic cell is to:",
+      "options": [
+        "Modify, sort and package proteins for secretion or delivery",
+        "Produce ATP through oxidative phosphorylation",
+        "Replicate DNA",
+        "Synthesize phospholipids for the plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "Golgi cisternae modify proteins (e.g., glycosylation), sort them into vesicles, and direct them to their appropriate cellular or extracellular destinations.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which organelle contains hydrolytic enzymes that degrade macromolecules delivered to it?",
+      "options": [
+        "Peroxisome",
+        "Lysosome",
+        "Vacuole",
+        "Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes are membrane‑bound organelles packed with acid hydrolases that break down proteins, nucleic acids, lipids and carbohydrates.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which membrane‑bound organelle is absent in prokaryotic cells but present in eukaryotic cells?",
+      "options": [
+        "Ribosome",
+        "Nucleus",
+        "Plasma membrane",
+        "Cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cells possess a true nucleus enclosed by a double membrane, whereas prokaryotes have no membrane‑bound nucleus; their DNA is free in the nucleoid region.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Peroxisomes are involved in which of the following metabolic processes?",
+      "options": [
+        "Protein synthesis",
+        "β‑oxidation of very long‑chain fatty acids",
+        "Photosynthesis",
+        "Cell‑wall synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Peroxisomes carry out β‑oxidation of very long‑chain fatty acids and also detoxify hydrogen peroxide using catalase.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which statement about the nuclear envelope is correct?",
+      "options": [
+        "It is continuous with the endoplasmic reticulum",
+        "Its pores allow free diffusion of macromolecules",
+        "It consists of a single phospholipid bilayer",
+        "It lacks any associated proteins"
+      ],
+      "answer": 0,
+      "explanation": "The nuclear envelope is a double membrane that is continuous with the rough endoplasmic reticulum, allowing exchange of membrane components.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "The nucleolus is primarily involved in:",
+      "options": [
+        "DNA replication",
+        "Ribosome biogenesis",
+        "Lipid synthesis",
+        "mRNA splicing"
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus assembles ribosomal RNA and combines it with ribosomal proteins to form ribosomal subunits.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Chromatin that is transcriptionally active is called:",
+      "options": [
+        "Heterochromatin",
+        "Euchromatin",
+        "Nucleosome",
+        "Histone"
+      ],
+      "answer": 1,
+      "explanation": "Euchromatin is less condensed, allowing transcription machinery access to DNA.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Which nuclear component directly regulates gene expression by altering DNA accessibility?",
+      "options": [
+        "Nuclear pores",
+        "Nucleolus",
+        "Histone proteins",
+        "Nuclear lamina"
+      ],
+      "answer": 2,
+      "explanation": "Histone proteins can be chemically modified, changing chromatin structure and thereby influencing gene expression.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "During interphase, the nuclear envelope:",
+      "options": [
+        "Disassembles completely",
+        "Remains intact",
+        "Forms vesicles that become mitochondria",
+        "Becomes a single membrane"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope stays intact throughout interphase and only breaks down during mitosis.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Which statement about nuclear pores is FALSE?",
+      "options": [
+        "They allow passive diffusion of ions and small molecules",
+        "They are composed of nucleoporins",
+        "They mediate active transport of macromolecules",
+        "They are absent in plant cells"
+      ],
+      "answer": 3,
+      "explanation": "All eukaryotic cells, including plant cells, possess nuclear pores; the statement that they are absent in plant cells is false.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "The nuclear lamina is mainly composed of:",
+      "options": [
+        "Microtubules",
+        "Intermediate filament proteins called lamins",
+        "Actin filaments",
+        "Collagen fibers"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear lamina is a meshwork of lamin proteins, a type of intermediate filament, providing structural support to the nucleus.",
+      "topic": "Nucleus"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 10,
+    "mcqCount": 69
+  }
+}

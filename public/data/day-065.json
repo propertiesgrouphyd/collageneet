@@ -1,0 +1,2623 @@
+{
+  "day": 65,
+  "courseDate": "2026-11-02",
+  "publishAt": "2026-11-02T06:00:00+05:30",
+  "title": "Human Respiratory System and Mechanism of Breathing",
+  "introduction": "This lesson covers the complete anatomy of the human respiratory tract, distinguishes breathing from cellular respiration, and explains the mechanics of ventilation as required for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Respiration versus breathing",
+      "heading": "Respiration vs. Breathing – Definitions and Differences",
+      "content": "Respiration is the biochemical process of gas exchange at the cellular level (oxidation of glucose producing CO₂ and H₂O). Breathing (ventilation) is the mechanical movement of air into and out of the lungs. Both are linked but distinct; breathing supplies O₂ for cellular respiration and removes CO₂.",
+      "keyPoints": [
+        "Cellular respiration occurs in mitochondria; breathing is a physical process",
+        "Respiration is chemical, breathing is mechanical",
+        "Ventilation provides the partial pressure gradient needed for diffusion"
+      ],
+      "neetTips": [
+        "Never confuse the two terms in answer‑keys; focus on the process described"
+      ]
+    },
+    {
+      "topic": "Human respiratory system",
+      "heading": "Overview of the Human Respiratory System",
+      "content": "The respiratory system consists of the conducting zone (air‑passageways) and the respiratory zone (sites of gas exchange). It includes nose, pharynx, larynx, trachea, bronchi, bronchioles, alveoli, lungs and pleural membranes.",
+      "keyPoints": [
+        "Divided into conducting and exchange parts",
+        "Protects lower tract and conditions inspired air",
+        "Lungs are paired, each with three lobes (right) or two (left)"
+      ],
+      "neetTips": [
+        "Remember the sequence of structures for diagram‑based questions"
+      ]
+    },
+    {
+      "topic": "Nostrils",
+      "heading": "Nostrils (External Nares)",
+      "content": "Nostrils are the external openings of the nasal cavity. They are lined with hairs (vibrissae) that filter large particles and are surrounded by alae that regulate airflow through nasal valve mechanism.",
+      "keyPoints": [
+        "Vibrissae filter dust",
+        "Alae create nasal valve – important for airflow resistance"
+      ],
+      "neetTips": [
+        "Nasal valve dysfunction can affect breathing efficiency – a potential clinical point"
+      ]
+    },
+    {
+      "topic": "Nasal passage",
+      "heading": "Nasal Passage – Structure and Functions",
+      "content": "The nasal passage is a warm, moist, and turbulent conduit lined with pseudostratified ciliated columnar epithelium, goblet cells, and a rich vascular plexus. It humidifies, warms, and filters inhaled air.",
+      "keyPoints": [
+        "Ciliated epithelium moves mucus toward pharynx",
+        "Rich capillary network warms air",
+        "Mucus traps microbes"
+      ],
+      "neetTips": [
+        "Link each function (warm, humidify, filter) to the corresponding histology"
+      ]
+    },
+    {
+      "topic": "Pharynx",
+      "heading": "Pharynx – Common Passage for Air and Food",
+      "content": "The pharynx is a muscular tube divided into nasopharynx, oropharynx, and laryngopharynx. It conducts air to the larynx and food to the esophagus, aided by the soft palate and epiglottis.",
+      "keyPoints": [
+        "Three regions with distinct roles",
+        "Soft palate closes nasopharynx during swallowing",
+        "Epiglottis prevents aspiration"
+      ],
+      "neetTips": [
+        "NEET often asks about the role of epiglottis in protecting airway"
+      ]
+    },
+    {
+      "topic": "Larynx",
+      "heading": "Larynx – Voice Box and Airway Guard",
+      "content": "The larynx, located between the pharynx and trachea, contains the vocal cords (true cords) and the epiglottis. It regulates airflow, produces sound, and prevents entry of foreign particles via the glottic closure.",
+      "keyPoints": [
+        "Vocal cords vibrate to produce sound",
+        "Epiglottis covers glottis during swallowing",
+        "Cartilaginous framework (thyroid, cricoid)"
+      ],
+      "neetTips": [
+        "Remember the mnemonic ‘TV = True Vocal cords",
+        "FV = False Vocal cords (vestibular)",
+        ""
+      ]
+    },
+    {
+      "topic": "Trachea",
+      "heading": "Trachea – Rigid Airway Tube",
+      "content": "The trachea is a 10‑12 cm long tube reinforced by C‑shaped hyaline cartilage rings, lined by pseudostratified ciliated columnar epithelium. It bifurcates at the carina into primary bronchi.",
+      "keyPoints": [
+        "C‑shaped rings prevent collapse",
+        "Mucociliary escalator clears debris",
+        "Carina is a sensitive cough reflex trigger"
+      ],
+      "neetTips": [
+        "Carina irritation is clinically important for bronchoscopy"
+      ]
+    },
+    {
+      "topic": "Bronchi",
+      "heading": "Bronchi – Primary Branches of Trachea",
+      "content": "Each primary bronchus enters a lung hilum and further divides into secondary (lobar) bronchi. Bronchi have cartilage plates, smooth muscle, and mucous glands, forming part of the conducting zone.",
+      "keyPoints": [
+        "Cartilage present up to tertiary bronchi",
+        "Smooth muscle regulates airway diameter",
+        "Lobar bronchi correspond to lung lobes"
+      ],
+      "neetTips": [
+        "Identify the level where cartilage disappears – at bronchioles"
+      ]
+    },
+    {
+      "topic": "Bronchioles",
+      "heading": "Bronchioles – Smallest Conducting Airways",
+      "content": "Bronchioles are <1 mm in diameter, lack cartilage, and contain abundant smooth muscle and Clara (Club) cells that secrete surfactant‑like material and detoxify xenobiotics.",
+      "keyPoints": [
+        "No cartilage – rely on smooth muscle tone",
+        "Clara cells produce surfactant components and detox enzymes"
+      ],
+      "neetTips": [
+        "Bronchiolar constriction is a key feature in asthma"
+      ]
+    },
+    {
+      "topic": "Alveoli",
+      "heading": "Alveoli – Site of Gas Exchange",
+      "content": "Alveoli are sac‑like structures with a thin (0.2 µm) respiratory membrane composed of type I pneumocytes, capillary endothelium, and fused basement membranes. Surfactant from type II pneumocytes reduces surface tension.",
+      "keyPoints": [
+        "Type I cells cover 95 % of surface area",
+        "Type II cells secrete surfactant",
+        "Alveolar capillaries form a dense network"
+      ],
+      "neetTips": [
+        "Surfactant deficiency leads to neonatal respiratory distress – a high‑yield fact"
+      ]
+    },
+    {
+      "topic": "Lungs",
+      "heading": "Lungs – Paired Respiratory Organs",
+      "content": "The right lung has three lobes; the left has two and a cardiac notch. Each lung is enclosed by visceral pleura and divided into lobes by fissures. The hilum contains bronchi, vessels, and nerves.",
+      "keyPoints": [
+        "Right: 3 lobes; Left: 2 lobes + cardiac notch",
+        "Visceral pleura covers lung surface",
+        "Hilum is the gateway for bronchovascular structures"
+      ],
+      "neetTips": [
+        "Remember the lobar count for imaging‑based questions"
+      ]
+    },
+    {
+      "topic": "Pleura",
+      "heading": "Pleura – Double‑Layered Membrane",
+      "content": "Pleura consists of visceral (covers lung) and parietal (lines thoracic cavity) layers, with a potential pleural cavity containing ~10 ml of lubricating fluid. The pleural pressure is always negative relative to atmospheric.",
+      "keyPoints": [
+        "Visceral and parietal layers are continuous at the hilum",
+        "Pleural fluid reduces friction",
+        "Negative intrapleural pressure keeps lungs expanded"
+      ],
+      "neetTips": [
+        "Pneumothorax occurs when this negative pressure is lost"
+      ]
+    },
+    {
+      "topic": "Respiratory membrane",
+      "heading": "Respiratory Membrane – Thin Barrier for Diffusion",
+      "content": "The respiratory membrane comprises alveolar epithelium (type I cells), capillary endothelium, and fused basement membranes, totaling ~0.6 µm thickness, allowing rapid O₂ and CO₂ diffusion driven by partial pressure gradients.",
+      "keyPoints": [
+        "Total thickness ~0.6 µm",
+        "Surface area ≈ 70 m² in adult"
+      ],
+      "neetTips": [
+        "Surface area and thickness are inversely related to diffusion resistance"
+      ]
+    },
+    {
+      "topic": "Conducting part",
+      "heading": "Conducting Part of the Respiratory Tract",
+      "content": "The conducting zone includes nose, pharynx, larynx, trachea, bronchi, and bronchioles up to terminal bronchioles. Its primary role is to condition inspired air and provide a passage for gas flow.",
+      "keyPoints": [
+        "No gas exchange occurs here",
+        "Mucociliary clearance is active",
+        "Temperature ≈ 37 °C, humidity ≈ 100 % at terminal bronchioles"
+      ],
+      "neetTips": [
+        "Distinguish conducting vs. exchange parts in diagram questions"
+      ]
+    },
+    {
+      "topic": "Exchange part",
+      "heading": "Exchange Part – Respiratory Zone",
+      "content": "The exchange zone starts at respiratory bronchioles and includes alveolar ducts and alveoli. Here, O₂ diffuses into blood and CO₂ diffuses out across the respiratory membrane.",
+      "keyPoints": [
+        "Thin barrier, large surface area",
+        "Rich capillary network ensures rapid diffusion"
+      ],
+      "neetTips": [
+        "Only alveoli have type I cells – a frequent MCQ point"
+      ]
+    },
+    {
+      "topic": "Mechanism of inspiration",
+      "heading": "Inspiration – Active Expansion of Thoracic Cavity",
+      "content": "During inspiration, the diaphragm contracts (flattens) and external intercostals elevate ribs, increasing thoracic volume. This reduces intrapulmonary pressure below atmospheric, causing air inflow.",
+      "keyPoints": [
+        "Diaphragm contraction ↑ vertical dimension",
+        "External intercostals ↑ AP and lateral dimensions",
+        "Intrapulmonary pressure becomes negative"
+      ],
+      "neetTips": [
+        "Remember the sign convention: pressure falls → air enters"
+      ]
+    },
+    {
+      "topic": "Mechanism of expiration",
+      "heading": "Expiration – Passive Recoil of Thoracic Structures",
+      "content": "Normal expiration is passive; diaphragm relaxes and ribs descend due to elastic recoil, decreasing thoracic volume, raising intrapulmonary pressure above atmospheric, forcing air out.",
+      "keyPoints": [
+        "Elastic recoil of lungs and chest wall drives flow",
+        "Intrapulmonary pressure becomes positive"
+      ],
+      "neetTips": [
+        "Forced expiration involves internal intercostals and abdominal muscles"
+      ]
+    },
+    {
+      "topic": "Diaphragm",
+      "heading": "Diaphragm – Primary Inspiratory Muscle",
+      "content": "The dome‑shaped diaphragm separates thoracic and abdominal cavities. Its central tendon moves caudally during contraction, increasing vertical thoracic dimension and decreasing intrapleural pressure.",
+      "keyPoints": [
+        "Innervated by phrenic nerve (C3‑C5)",
+        "Contraction causes ~2 cm descent"
+      ],
+      "neetTips": [
+        "Phrenic nerve injury leads to paradoxical breathing"
+      ]
+    },
+    {
+      "topic": "External intercostal muscles",
+      "heading": "External Intercostals – Elevate Ribs",
+      "content": "External intercostals run obliquely downward and forward. Contraction lifts ribs upward and outward, expanding the thoracic cavity in the anteroposterior and lateral dimensions.",
+      "keyPoints": [
+        "Active during inspiration",
+        "Increase thoracic volume"
+      ],
+      "neetTips": [
+        "Remember they work opposite to internal intercostals"
+      ]
+    },
+    {
+      "topic": "Thoracic volume",
+      "heading": "Thoracic Volume Changes During Breathing",
+      "content": "Thoracic volume increases during inspiration (due to diaphragm descent and rib elevation) and decreases during expiration. Volume change is directly proportional to the amount of air moved (tidal volume).",
+      "keyPoints": [
+        "Volume ↑ → pressure ↓ (inspiration)",
+        "Volume ↓ → pressure ↑ (expiration)"
+      ],
+      "neetTips": [
+        "Apply Boyle’s law: P₁V₁ = P₂V₂"
+      ]
+    },
+    {
+      "topic": "Intrapulmonary pressure",
+      "heading": "Intrapulmonary (Alveolar) Pressure Dynamics",
+      "content": "Intrapulmonary pressure is the pressure within the alveolar air space. It falls below atmospheric during inspiration (~‑1 cm H₂O) and rises above atmospheric during expiration (~+1 cm H₂O).",
+      "keyPoints": [
+        "Negative during inspiration, positive during expiration"
+      ],
+      "neetTips": [
+        "NEET often asks the exact pressure values in cm H₂O"
+      ]
+    },
+    {
+      "topic": "Intrapleural pressure",
+      "heading": "Intrapleural Pressure – Always Negative",
+      "content": "Intrapleural pressure is the pressure in the pleural cavity, normally about –5 cm H₂O at rest. It becomes more negative during inspiration (≈ –8 cm H₂O) and less negative during expiration (≈ –4 cm H₂O).",
+      "keyPoints": [
+        "Keeps lungs expanded by creating a suction effect"
+      ],
+      "neetTips": [
+        "Loss of negative pressure → pneumothorax"
+      ]
+    },
+    {
+      "topic": "Pressure-volume relationship",
+      "heading": "Pressure‑Volume Relationship in Ventilation",
+      "content": "According to Boyle’s law, pressure and volume are inversely related. During inspiration, thoracic volume ↑ → intrapulmonary pressure ↓; during expiration, volume ↓ → pressure ↑. The pressure‑volume curve is sigmoidal for the lung alone and linear for the chest wall.",
+      "keyPoints": [
+        "Lung compliance = ΔV/ΔP"
+      ],
+      "neetTips": [
+        "High compliance = easy expansion; low compliance = stiff lungs (e.g., fibrosis)"
+      ]
+    },
+    {
+      "topic": "Role of ribs",
+      "heading": "Rib Cage – Structural Support in Breathing",
+      "content": "Ribs, attached to the sternum via costal cartilages, move upward and outward during inspiration (bucket‑handle movement) and downward during expiration, contributing to changes in thoracic dimensions.",
+      "keyPoints": [
+        "Bucket‑handle motion increases lateral diameter",
+        "Pump‑handle motion increases AP diameter"
+      ],
+      "neetTips": [
+        "Visualize rib movements for diagram‑based questions"
+      ]
+    },
+    {
+      "topic": "Normal breathing",
+      "heading": "Normal (Quiet) Breathing – Tidal Ventilation",
+      "content": "Normal breathing involves rhythmic, involuntary cycles with tidal volume ≈ 500 ml, respiratory rate 12–20 breaths/min, and minute ventilation ≈ 6 L/min. It is primarily diaphragmatic with minimal intercostal contribution.",
+      "keyPoints": [
+        "Tidal volume ≈ 500 ml"
+      ],
+      "neetTips": [
+        "Compare tidal volume with vital capacity for capacity‑related questions"
+      ]
+    },
+    {
+      "topic": "Respiratory movements",
+      "heading": "Respiratory Movements – Kinematics of Breathing",
+      "content": "Respiratory movements include diaphragm descent, rib elevation, chest wall expansion, and lung inflation. The coordinated action results in cyclic changes in thoracic volume and pressures.",
+      "keyPoints": [
+        "Coordinated action of diaphragm and intercostals"
+      ],
+      "neetTips": [
+        "Sequence: diaphragm → external intercostals → rib elevation"
+      ]
+    },
+    {
+      "topic": "Pulmonary ventilation",
+      "heading": "Pulmonary Ventilation – Air Flow In and Out of Lungs",
+      "content": "Pulmonary ventilation is the total volume of air moved per minute (minute ventilation = tidal volume × respiratory rate). It depends on airway resistance, lung compliance, and muscle strength.",
+      "keyPoints": [
+        "Minute ventilation = tidal volume × frequency"
+      ],
+      "neetTips": [
+        "NEET may ask to calculate minute ventilation from given values"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Distinguish between breathing (ventilation) and cellular respiration",
+    "Identify and describe each component of the human respiratory tract",
+    "Explain the mechanics of inspiration and expiration with pressure‑volume changes",
+    "Relate structure of alveoli and respiratory membrane to efficient gas exchange"
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly defines \"breathing\" as compared to \"respiration\"?",
+      "options": [
+        "Breathing is the exchange of gases between alveolar air and blood",
+        "Breathing is the mechanical movement of air into and out of the lungs",
+        "Breathing is the cellular utilization of oxygen to produce carbon dioxide",
+        "Breathing is the transport of oxygen by hemoglobin in the blood"
+      ],
+      "answer": 1,
+      "explanation": "Breathing (ventilation) refers to the rhythmic expansion and contraction of the thoracic cavity that moves air in and out of the lungs, whereas respiration includes gas exchange at the alveolar membrane and cellular metabolism.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "External respiration (gas exchange) takes place at which anatomical site?",
+      "options": [
+        "Alveolar walls (respiratory membrane)",
+        "Nasal cavity",
+        "Trachea",
+        "Bronchi"
+      ],
+      "answer": 0,
+      "explanation": "External respiration is the diffusion of O₂ and CO₂ between the alveolar air and the pulmonary capillary blood across the thin respiratory membrane formed by alveolar epithelium, capillary endothelium and their fused basement membranes.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "Which of the following processes is a component of breathing but not of respiration?",
+      "options": [
+        "Contraction of the diaphragm and external intercostal muscles",
+        "Diffusion of O₂ across the respiratory membrane",
+        "Cellular oxidative phosphorylation in mitochondria",
+        "Transport of CO₂ in the form of bicarbonate in plasma"
+      ],
+      "answer": 0,
+      "explanation": "Breathing involves the mechanical actions of the diaphragm and intercostal muscles that change thoracic volume, whereas respiration refers to gas exchange at the alveolar membrane and subsequent cellular metabolism.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "Which of the following is NOT a part of the overall process of respiration?",
+      "options": [
+        "Alveolar ventilation",
+        "Diffusion of gases across the respiratory membrane",
+        "Cellular oxidative phosphorylation",
+        "Movement of the ribs outward during inspiration"
+      ],
+      "answer": 3,
+      "explanation": "Movement of the ribs outward is a mechanical aspect of breathing (ventilation) and does not belong to the biochemical or gas‑exchange phases of respiration.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "During vigorous exercise, the increase in tidal volume is primarily achieved by:",
+      "options": [
+        "Greater contraction of the diaphragm",
+        "Increased diffusion rate across the alveolar membrane",
+        "Enhanced activity of mitochondrial enzymes",
+        "Elevated hemoglobin affinity for oxygen"
+      ],
+      "answer": 0,
+      "explanation": "An increase in tidal volume during exercise is produced by a deeper contraction of the diaphragm (and external intercostals), which expands the thoracic cavity more than at rest.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "Which statement correctly distinguishes external respiration from internal respiration?",
+      "options": [
+        "External respiration occurs between alveolar air and blood; internal respiration occurs between blood and body cells",
+        "External respiration occurs in the tissues; internal respiration occurs in the lungs",
+        "Both occur at the same anatomical site but differ in direction of gas flow",
+        "External respiration involves hemoglobin binding, internal respiration does not"
+      ],
+      "answer": 0,
+      "explanation": "External respiration is the gas exchange between alveolar air and pulmonary capillary blood, while internal respiration is the exchange between systemic capillary blood and tissue cells.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "How does the rate of breathing relate to the rate of cellular respiration under normal resting conditions?",
+      "options": [
+        "Breathing rate is adjusted to match the CO₂ production of cellular respiration",
+        "Breathing rate is independent of cellular respiration and is controlled solely by the medulla",
+        "Breathing rate exceeds cellular respiration to maintain a reserve of O₂",
+        "Cellular respiration rate determines tidal volume but not breathing frequency"
+      ],
+      "answer": 0,
+      "explanation": "Chemoreceptors detect the rise in arterial CO₂ (product of cellular respiration) and stimulate the respiratory centre to increase breathing rate and depth, ensuring CO₂ removal and O₂ supply are balanced.",
+      "topic": "Respiration versus breathing"
+    },
+    {
+      "question": "What is the correct sequential order of the respiratory tract from the external opening to the site of gas exchange?",
+      "options": [
+        "Nostrils → Nasal cavity → Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli",
+        "Nasal cavity → Nostrils → Pharynx → Larynx → Trachea → Bronchi → Alveoli → Bronchioles",
+        "Pharynx → Nostrils → Nasal cavity → Larynx → Trachea → Bronchioles → Bronchi → Alveoli",
+        "Nostrils → Pharynx → Nasal cavity → Larynx → Trachea → Bronchi → Alveoli → Bronchioles"
+      ],
+      "answer": 0,
+      "explanation": "Air enters through the nostrils, passes the nasal cavity, pharynx, larynx, trachea, then the bronchi, bronchioles and finally reaches the alveoli where gas exchange occurs.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "Which of the following structures belongs to the conducting zone of the respiratory system?",
+      "options": [
+        "Alveolar duct",
+        "Terminal bronchiole",
+        "Bronchi",
+        "Respiratory bronchiole"
+      ],
+      "answer": 2,
+      "explanation": "The conducting zone includes all passages that transport air to the respiratory zone; bronchi are part of this zone, whereas the other options are in the respiratory zone.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "Which anatomical feature most directly contributes to the large surface area available for gas exchange in the alveoli?",
+      "options": [
+        "Thin Type I pneumocytes",
+        "Presence of surfactant",
+        "Large number of capillaries surrounding each alveolus",
+        "Alveolar macrophages"
+      ],
+      "answer": 2,
+      "explanation": "Each alveolus is surrounded by a dense network of capillaries, providing an extensive blood‑air interface that maximizes the surface area for diffusion.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "During quiet inspiration, which muscles are primarily responsible for increasing thoracic volume?",
+      "options": [
+        "Diaphragm contraction only",
+        "External intercostal contraction only",
+        "Both diaphragm and external intercostal muscles",
+        "Internal intercostal muscles"
+      ],
+      "answer": 2,
+      "explanation": "Inspiration involves downward movement of the diaphragm and upward‑outward movement of the ribs by external intercostals, together expanding the thoracic cavity.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "In normal quiet breathing, the intrapulmonary pressure during inspiration is:",
+      "options": [
+        "Greater than atmospheric pressure",
+        "Equal to atmospheric pressure",
+        "Slightly less than atmospheric pressure",
+        "Highly negative relative to atmospheric pressure"
+      ],
+      "answer": 2,
+      "explanation": "When the thoracic volume increases, the pressure inside the lungs falls slightly below atmospheric pressure, causing air to flow inward.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "Which statement about intrapleural pressure under normal physiological conditions is correct?",
+      "options": [
+        "It is always equal to atmospheric pressure",
+        "It is always negative relative to atmospheric pressure",
+        "It becomes positive during forced expiration",
+        "It is zero at the end of expiration"
+      ],
+      "answer": 1,
+      "explanation": "The intrapleural pressure remains sub‑atmospheric (negative) throughout the respiratory cycle, providing a suction that keeps the lungs expanded.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "The primary physiological role of pulmonary surfactant is to:",
+      "options": [
+        "Increase surface tension of the alveolar lining fluid",
+        "Decrease surface tension of the alveolar lining fluid",
+        "Increase alveolar compliance",
+        "Prevent alveolar collapse by decreasing surface tension"
+      ],
+      "answer": 3,
+      "explanation": "Surfactant reduces the surface tension at the air‑liquid interface, preventing alveolar collapse (atelectasis) especially at low lung volumes.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "According to the pressure‑volume relationship, what happens to intrapulmonary pressure when thoracic volume decreases during forced expiration?",
+      "options": [
+        "It becomes less than atmospheric pressure",
+        "It becomes equal to atmospheric pressure",
+        "It becomes greater than atmospheric pressure",
+        "It remains unchanged"
+      ],
+      "answer": 2,
+      "explanation": "A reduction in thoracic volume raises the pressure inside the lungs above atmospheric pressure, forcing air out of the respiratory system.",
+      "topic": "Human respiratory system"
+    },
+    {
+      "question": "Which type of epithelium lines the inner surface of the nostrils and is chiefly responsible for humidifying the inhaled air?",
+      "options": [
+        "Stratified squamous epithelium",
+        "Pseudostratified ciliated columnar epithelium with goblet cells",
+        "Simple squamous epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The nasal vestibule is lined by pseudostratified ciliated columnar epithelium containing goblet cells that secrete mucus, thereby humidifying the incoming air.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "The term \"nasal cycle\" refers to:",
+      "options": [
+        "Alternating congestion and decongestion of the two nostrils",
+        "Simultaneous dilation of both nostrils during exercise",
+        "Periodic shedding of nasal epithelium",
+        "Variation in olfactory receptor activity"
+      ],
+      "answer": 0,
+      "explanation": "The nasal cycle is an autonomic phenomenon in which one nostril becomes more congested while the other is relatively decongested, and the pattern reverses roughly every 2–6 hours.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "Which arterial branch primarily supplies blood to the mucosa of the nostrils?",
+      "options": [
+        "Facial artery",
+        "Maxillary artery (sphenopalatine branch)",
+        "Superior thyroid artery",
+        "Ophthalmic artery"
+      ],
+      "answer": 1,
+      "explanation": "The sphenopalatine branch of the maxillary artery provides the main vascular supply to the nasal mucosa, including the nostril region.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "Sensory innervation of the nostrils is provided mainly by:",
+      "options": [
+        "Greater petrosal nerve",
+        "Nasopalatine nerve",
+        "Anterior ethmoidal nerve (branch of ophthalmic division of trigeminal)",
+        "Lesser occipital nerve"
+      ],
+      "answer": 2,
+      "explanation": "The anterior ethmoidal nerve, a branch of the ophthalmic (V1) division of the trigeminal nerve, carries general sensory fibers from the skin of the nostrils and the nasal mucosa.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "During quiet breathing, the greatest resistance to airflow occurs across which part of the nasal passage?",
+      "options": [
+        "Nasal vestibule (nostrils)",
+        "Nasal turbinates",
+        "Nasopharynx",
+        "Larynx"
+      ],
+      "answer": 0,
+      "explanation": "The narrow external openings of the nostrils (nasal vestibule) create the highest airflow resistance in the upper respiratory tract during normal breathing.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "Which statement about the functional role of the nostrils in respiration is FALSE?",
+      "options": [
+        "They filter large particles via nasal hairs",
+        "They warm inhaled air to body temperature",
+        "They are the primary site of gas exchange",
+        "They humidify inhaled air"
+      ],
+      "answer": 2,
+      "explanation": "Gas exchange occurs in the alveoli, not in the nostrils; the nostrils serve mainly for filtration, warming, and humidification of inspired air.",
+      "topic": "Nostrils"
+    },
+    {
+      "question": "Which of the following structures is NOT part of the nasal passage?",
+      "options": [
+        "Superior nasal concha",
+        "Inferior nasal concha",
+        "Nasal septum",
+        "Epiglottis"
+      ],
+      "answer": 3,
+      "explanation": "The epiglottis belongs to the laryngeal inlet and prevents food entry into the airway; it is not a component of the nasal passage.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "The primary function of the highly vascular nasal mucosa is to:",
+      "options": [
+        "Produce mucus",
+        "Warm and humidify inspired air",
+        "Filter dust via cilia",
+        "Detect odors"
+      ],
+      "answer": 1,
+      "explanation": "The rich capillary network in the nasal mucosa transfers heat and moisture to the inspired air, ensuring it reaches the lower respiratory tract at body temperature and near saturation.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "The nasal passage is lined by pseudostratified columnar epithelium containing goblet cells and cilia. Which type of epithelium is this?",
+      "options": [
+        "Simple squamous",
+        "Simple columnar",
+        "Pseudostratified ciliated columnar",
+        "Stratified squamous"
+      ],
+      "answer": 2,
+      "explanation": "The respiratory epithelium of the nasal cavity is pseudostratified ciliated columnar, which appears layered due to varying nuclear positions but is a single cell layer.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "The nasal passage is divided into how many meatuses and what are they named?",
+      "options": [
+        "Two: superior and middle meatus",
+        "Three: superior, middle, inferior meatus",
+        "Four: superior, middle, inferior, and nasopharyngeal meatus",
+        "Three: anterior, middle, posterior meatus"
+      ],
+      "answer": 1,
+      "explanation": "The lateral wall of each nasal cavity has three nasal meatuses—superior, middle, and inferior—located respectively below the superior, middle, and inferior nasal conchae.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "Which artery primarily supplies the nasal septum?",
+      "options": [
+        "Greater palatine artery",
+        "Sphenopalatine artery",
+        "Superior labial artery",
+        "Facial artery"
+      ],
+      "answer": 1,
+      "explanation": "The sphenopalatine artery, a branch of the maxillary artery, provides the main blood supply to the nasal septum and lateral wall.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "The sensory innervation of the nasal mucosa (except the olfactory region) is provided by which nerve?",
+      "options": [
+        "Olfactory nerve (CN I)",
+        "Maxillary division of trigeminal nerve (V2)",
+        "Facial nerve (VII)",
+        "Glossopharyngeal nerve (IX)"
+      ],
+      "answer": 1,
+      "explanation": "General somatic sensation from the nasal mucosa is carried by the maxillary division (V2) of the trigeminal nerve; the olfactory nerve supplies only the olfactory epithelium.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "During inspiration, the nasal passage contributes to increasing airway resistance. Which structural feature primarily accounts for this?",
+      "options": [
+        "Nasal turbinates (conchae)",
+        "Nasal septum",
+        "Nasal vestibule",
+        "Nasal hair (vibrissae)"
+      ],
+      "answer": 0,
+      "explanation": "The nasal turbinates create turbulence and increase the surface area of the airway, thereby raising resistance while aiding filtration, warming, and humidification of inhaled air.",
+      "topic": "Nasal passage"
+    },
+    {
+      "question": "Which part of the pharynx lies directly behind the nasal cavity and contains the opening of the auditory (Eustachian) tube?",
+      "options": [
+        "Nasopharynx",
+        "Oropharynx",
+        "Laryngopharynx",
+        "Hypopharynx"
+      ],
+      "answer": 0,
+      "explanation": "The nasopharynx is the superior portion of the pharynx situated posterior to the nasal cavity and houses the opening of the auditory (pharyngotympanic) tube.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "The palatine tonsil is located in which part of the pharynx?",
+      "options": [
+        "Nasopharynx",
+        "Oropharynx",
+        "Laryngopharynx",
+        "Upper esophageal sphincter"
+      ],
+      "answer": 1,
+      "explanation": "Palatine tonsils are situated in the lateral walls of the oropharynx, between the palatoglossal and palatopharyngeal arches.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Which of the following muscles is NOT a constrictor muscle of the pharynx?",
+      "options": [
+        "Superior pharyngeal constrictor",
+        "Middle pharyngeal constrictor",
+        "Inferior pharyngeal constrictor",
+        "Stylopharyngeus"
+      ],
+      "answer": 3,
+      "explanation": "Stylopharyngeus is a longitudinal muscle that elevates the pharynx; the three constrictor muscles are superior, middle, and inferior.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Sensory innervation of the mucosa of the nasopharynx above the soft palate is supplied by which cranial nerve?",
+      "options": [
+        "Glossopharyngeal (IX)",
+        "Vagus (X)",
+        "Trigeminal (V)",
+        "Facial (VII)"
+      ],
+      "answer": 2,
+      "explanation": "The maxillary division of the trigeminal nerve (CN V) provides general sensory fibers to the mucosa of the nasopharynx above the soft palate.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "The pharyngeal plexus, which supplies motor fibers to the pharyngeal muscles, is formed by branches of which two cranial nerves?",
+      "options": [
+        "IX and X",
+        "VII and IX",
+        "X and XII",
+        "V and IX"
+      ],
+      "answer": 0,
+      "explanation": "The pharyngeal plexus is formed by the pharyngeal branch of the glossopharyngeal nerve (IX) and the vagus nerve (X), providing motor innervation to most pharyngeal muscles.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "During swallowing, the elevation of the pharynx is primarily performed by which muscle?",
+      "options": [
+        "Stylopharyngeus",
+        "Palatopharyngeus",
+        "Superior constrictor",
+        "Cricopharyngeus"
+      ],
+      "answer": 0,
+      "explanation": "Stylopharyngeus, innervated by CN IX, lifts the pharynx and larynx upward during the pharyngeal phase of swallowing.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "The opening of the auditory tube (pharyngotympanic tube) is located in which part of the pharyngeal wall?",
+      "options": [
+        "Lateral wall of nasopharynx",
+        "Posterior wall of oropharynx",
+        "Anterior wall of laryngopharynx",
+        "Superior wall of hypopharynx"
+      ],
+      "answer": 0,
+      "explanation": "The auditory tube opens into the lateral wall of the nasopharynx, just behind the opening of the nasal cavity.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Which cartilage forms the anterior wall of the larynx and is commonly known as the Adam's apple?",
+      "options": [
+        "Thyroid cartilage",
+        "Cricoid cartilage",
+        "Arytenoid cartilage",
+        "Epiglottis"
+      ],
+      "answer": 0,
+      "explanation": "The thyroid cartilage is the largest laryngeal cartilage and forms the anterior wall, giving the prominence called Adam's apple.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "The vocal folds are attached posteriorly to which pair of cartilages?",
+      "options": [
+        "Arytenoid cartilages",
+        "Cricoid cartilages",
+        "Thyroid cartilages",
+        "Corniculate cartilages"
+      ],
+      "answer": 0,
+      "explanation": "Each vocal fold is anchored posteriorly to an arytenoid cartilage, allowing tension adjustment for phonation.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "Which nerve supplies motor innervation to all intrinsic muscles of the larynx except the cricothyroid muscle?",
+      "options": [
+        "Recurrent laryngeal nerve",
+        "Superior laryngeal nerve (internal branch)",
+        "Vagus nerve",
+        "Glossopharyngeal nerve"
+      ],
+      "answer": 0,
+      "explanation": "The recurrent laryngeal nerve, a branch of the vagus, innervates all intrinsic laryngeal muscles except the cricothyroid, which is supplied by the external branch of the superior laryngeal nerve.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "During quiet inspiration, the position of the vocal cords is:",
+      "options": [
+        "Abducted (open)",
+        "Adducted (closed)",
+        "Partially abducted",
+        "Unchanged"
+      ],
+      "answer": 0,
+      "explanation": "Inspiration requires the vocal cords to be abducted, widening the glottic opening to allow airflow into the lungs.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "Which of the following is NOT a function of the larynx?",
+      "options": [
+        "Phonation",
+        "Protection of the airway during swallowing",
+        "Swallowing coordination",
+        "Gas exchange in the lungs"
+      ],
+      "answer": 3,
+      "explanation": "The larynx is involved in phonation, airway protection, and assists in swallowing, but it does not participate in gas exchange, which occurs in the alveoli.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "The space between the vocal folds is termed the:",
+      "options": [
+        "Glottis",
+        "Vestibule",
+        "Subglottic region",
+        "Supraglottic region"
+      ],
+      "answer": 0,
+      "explanation": "The glottis refers to the opening between the vocal folds; it is the narrowest part of the laryngeal airway.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "The cricothyroid muscle, which lengthens the vocal cords, is innervated by which branch of the vagus nerve?",
+      "options": [
+        "External branch of the superior laryngeal nerve",
+        "Internal branch of the superior laryngeal nerve",
+        "Recurrent laryngeal nerve",
+        "Pharyngeal branch of the vagus"
+      ],
+      "answer": 0,
+      "explanation": "The external branch of the superior laryngeal nerve (a branch of the vagus) supplies the cricothyroid muscle, enabling tension adjustment of the vocal cords.",
+      "topic": "Larynx"
+    },
+    {
+      "question": "Which of the following statements correctly describes the cartilaginous rings of the trachea?",
+      "options": [
+        "They are complete rings of hyaline cartilage encircling the lumen.",
+        "They are C-shaped hyaline cartilage rings with a membranous posterior wall.",
+        "They are composed of elastic cartilage and are complete.",
+        "They are absent in the lower one-third of the trachea."
+      ],
+      "answer": 1,
+      "explanation": "The tracheal rings are C-shaped hyaline cartilage structures that are incomplete posteriorly, where the trachealis muscle forms a flexible membranous wall.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "The epithelial lining of the trachea is best described as:",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified ciliated columnar epithelium with goblet cells",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 2,
+      "explanation": "The trachea is lined by pseudostratified ciliated columnar epithelium containing goblet cells that secrete mucus.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "The primary role of the cilia present on the tracheal epithelium is to:",
+      "options": [
+        "Secrete surfactant to reduce surface tension",
+        "Produce mucus for humidification",
+        "Transport mucus-loaded particles toward the larynx",
+        "Facilitate gas exchange across the tracheal wall"
+      ],
+      "answer": 2,
+      "explanation": "Ciliary beating moves the mucus layer, together with trapped particles, upward toward the larynx for clearance (mucociliary escalator).",
+      "topic": "Trachea"
+    },
+    {
+      "question": "The lower part of the trachea receives its arterial blood supply mainly from:",
+      "options": [
+        "Superior thyroid artery",
+        "Inferior thyroid artery",
+        "Bronchial arteries",
+        "Internal thoracic artery"
+      ],
+      "answer": 2,
+      "explanation": "The lower two‑thirds of the trachea are supplied by bronchial arteries, whereas the upper part receives branches from the inferior thyroid artery.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "Sensory innervation of the trachea above the carina is primarily carried by which nerve?",
+      "options": [
+        "Phrenic nerve",
+        "Vagus nerve via recurrent laryngeal branch",
+        "Glossopharyngeal nerve",
+        "Greater splanchnic nerve"
+      ],
+      "answer": 1,
+      "explanation": "Afferent fibers from the trachea above the carina travel with the vagus nerve, especially via the recurrent laryngeal branch.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "In a standard surgical tracheostomy, the incision is made through which tracheal ring?",
+      "options": [
+        "First",
+        "Second",
+        "Fourth",
+        "Sixth"
+      ],
+      "answer": 1,
+      "explanation": "Clinically, a tracheostomy is usually performed by making an incision through the second tracheal ring to provide a safe airway.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "The trachea is positioned in relation to the esophagus as:",
+      "options": [
+        "Posterior to the esophagus",
+        "Anterior to the esophagus",
+        "Lateral to the esophagus on the right side",
+        "Lateral to the esophagus on the left side"
+      ],
+      "answer": 1,
+      "explanation": "Anatomically, the trachea lies anterior (ventral) to the esophagus in the neck and thorax.",
+      "topic": "Trachea"
+    },
+    {
+      "question": "Which structural feature distinguishes the bronchi from the trachea?",
+      "options": [
+        "Complete C-shaped cartilaginous rings",
+        "C-shaped hyaline cartilage plates",
+        "Absence of cartilage",
+        "Prominent smooth muscle layer"
+      ],
+      "answer": 1,
+      "explanation": "Bronchi have C-shaped hyaline cartilage plates that are incomplete posteriorly, whereas the trachea possesses complete C-shaped cartilaginous rings.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "Why is the right primary bronchus more prone to aspiration of foreign bodies compared to the left?",
+      "options": [
+        "It is longer than the left bronchus",
+        "It has a larger diameter but is more horizontal",
+        "It is wider and more vertical",
+        "It contains fewer mucosal glands"
+      ],
+      "answer": 2,
+      "explanation": "The right primary bronchus is wider and descends more vertically, providing a straighter path for inhaled objects to enter the right lung.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "Which statement about the bronchial tree is correct?",
+      "options": [
+        "Each secondary (lobar) bronchus supplies one lung lobe",
+        "Tertiary bronchi are identical to segmental bronchi",
+        "Primary bronchi lack cartilaginous support",
+        "Bronchioles contain cartilage plates"
+      ],
+      "answer": 0,
+      "explanation": "Secondary or lobar bronchi branch from the primary bronchi and each supplies a distinct lobe of the lung; cartilage is absent only in bronchioles.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "The bronchial circulation belongs to which circulatory system?",
+      "options": [
+        "Pulmonary circulation",
+        "Systemic circulation",
+        "Portal circulation",
+        "Lymphatic system"
+      ],
+      "answer": 1,
+      "explanation": "Bronchial arteries arise from the systemic (aortic) circulation and supply oxygenated blood to the conducting airways, including the bronchi.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "In bronchial asthma, the principal cause of bronchial narrowing is:",
+      "options": [
+        "Loss of cartilaginous support",
+        "Contraction of bronchial smooth muscle",
+        "Thickening of alveolar walls",
+        "Accumulation of pleural fluid"
+      ],
+      "answer": 1,
+      "explanation": "Asthmatic episodes involve intense contraction of the smooth muscle in the bronchial walls, leading to reversible airway narrowing.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "The mucosal lining of the bronchi is composed of:",
+      "options": [
+        "Simple squamous epithelium",
+        "Pseudostratified ciliated columnar epithelium",
+        "Stratified squamous epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Bronchial mucosa is lined by pseudostratified ciliated columnar epithelium, which traps particles and propels mucus upward.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "Which of the following statements about bronchial branching is true?",
+      "options": [
+        "The left lung has three primary bronchi",
+        "The right lung has two lobar bronchi",
+        "The left lung has two secondary bronchi",
+        "The right lung has four tertiary bronchi"
+      ],
+      "answer": 2,
+      "explanation": "The left lung, having two lobes, receives two secondary (lobar) bronchi, each supplying a lobe; the right lung has three secondary bronchi.",
+      "topic": "Bronchi"
+    },
+    {
+      "question": "Which structural feature distinguishes bronchioles from bronchi?",
+      "options": [
+        "Bronchioles lack cartilage in their walls whereas bronchi contain hyaline cartilage",
+        "Bronchioles have a thicker layer of cartilage than bronchi",
+        "Bronchioles possess abundant goblet cells while bronchi do not",
+        "Bronchioles are lined by stratified squamous epithelium unlike bronchi"
+      ],
+      "answer": 0,
+      "explanation": "Bronchi contain C-shaped hyaline cartilage rings that keep them open, whereas bronchioles have no cartilage in their walls.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "The smallest airways where gas exchange first begins are:",
+      "options": [
+        "Alveolar ducts",
+        "Respiratory bronchioles",
+        "Terminal bronchioles",
+        "Alveoli"
+      ],
+      "answer": 1,
+      "explanation": "Respiratory bronchioles have outpouchings of alveoli and mark the transition from purely conducting to exchange zones.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "Which cell type progressively decreases in number from the bronchi to the bronchioles?",
+      "options": [
+        "Goblet cells",
+        "Ciliated cells",
+        "Basal cells",
+        "Clara (Club) cells"
+      ],
+      "answer": 0,
+      "explanation": "Goblet cells are abundant in the larger airways but become scarce in the bronchioles, being replaced largely by Clara cells.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "The primary determinant of airway resistance in bronchioles is:",
+      "options": [
+        "Cartilage",
+        "Smooth muscle tone",
+        "Alveolar pressure",
+        "Mucociliary clearance"
+      ],
+      "answer": 1,
+      "explanation": "Bronchiolar smooth muscle can contract or relax, markedly altering the lumen diameter and thus airway resistance.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "During an acute asthma attack, which change occurs in the bronchioles?",
+      "options": [
+        "Increased cartilage rigidity",
+        "Bronchiolar smooth muscle contraction",
+        "Increased number of goblet cells",
+        "Dilation of alveolar ducts"
+      ],
+      "answer": 1,
+      "explanation": "Asthma is characterized by bronchoconstriction due to contraction of bronchiolar smooth muscle, leading to airway narrowing.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "Which statement about terminal bronchioles is correct?",
+      "options": [
+        "They contain alveoli",
+        "They are part of the conducting zone",
+        "They have cartilage plates",
+        "They are lined by stratified squamous epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Terminal bronchioles are the last purely conducting airways; they lack cartilage and alveoli and are lined by ciliated columnar epithelium.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "Which secretory cell in bronchioles helps detoxify inhaled xenobiotics?",
+      "options": [
+        "Goblet cells",
+        "Clara (Club) cells",
+        "Type I pneumocytes",
+        "Type II pneumocytes"
+      ],
+      "answer": 1,
+      "explanation": "Clara (Club) cells secrete protective proteins and enzymes that metabolize harmful substances inhaled into the lower airways.",
+      "topic": "Bronchioles"
+    },
+    {
+      "question": "Which type of alveolar cell is primarily responsible for the synthesis and secretion of pulmonary surfactant?",
+      "options": [
+        "Type I pneumocytes",
+        "Type II pneumocytes",
+        "Alveolar macrophages",
+        "Goblet cells"
+      ],
+      "answer": 1,
+      "explanation": "Type II pneumocytes contain lamellar bodies that store and release surfactant, which reduces surface tension in the alveoli.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "The total internal surface area available for gas exchange in the adult human lungs is approximately:",
+      "options": [
+        "30-40 m²",
+        "70-80 m²",
+        "100-120 m²",
+        "150-180 m²"
+      ],
+      "answer": 1,
+      "explanation": "The combined surface area of all alveoli in an adult is about 70–80 square metres, providing a large area for diffusion of O₂ and CO₂.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "Which cell type forms the thin barrier that constitutes the primary site of gas exchange in the alveolar wall?",
+      "options": [
+        "Type I pneumocytes",
+        "Type II pneumocytes",
+        "Both type I and type II pneumocytes",
+        "Alveolar macrophages"
+      ],
+      "answer": 0,
+      "explanation": "Type I pneumocytes are extremely thin (≈0.2 µm) and cover ~95% of the alveolar surface, allowing efficient diffusion of gases.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "The reduction of surface tension in alveoli by surfactant is best explained by which physical law?",
+      "options": [
+        "Laplace's law",
+        "Henry's law",
+        "Boyle's law",
+        "Dalton's law"
+      ],
+      "answer": 0,
+      "explanation": "Laplace's law (P = 2T/r) shows that decreasing surface tension (T) lowers the collapsing pressure (P) of a spherical alveolus.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "The diffusion distance for O₂ and CO₂ across the alveolar–capillary membrane is minimized mainly because:",
+      "options": [
+        "Alveoli are spherical",
+        "The alveolar wall is extremely thin (~0.2 µm)",
+        "High capillary blood flow",
+        "Presence of surfactant"
+      ],
+      "answer": 1,
+      "explanation": "A thin alveolar wall (~0.2 µm) shortens the diffusion path, facilitating rapid gas exchange.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "Alveolar dead space refers to:",
+      "options": [
+        "Alveoli that are ventilated but not perfused with blood",
+        "Alveoli that are perfused but not ventilated",
+        "Alveoli where gas exchange is maximal",
+        "Alveoli that contain surfactant"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar dead space is the portion of the alveolar volume that receives air but lacks adequate blood flow, so no gas exchange occurs.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "During forced expiration, the primary change occurring in the alveoli is:",
+      "options": [
+        "Expansion of alveolar walls",
+        "Collapse of alveolar walls due to loss of surfactant",
+        "Decrease in alveolar volume because intrapulmonary pressure exceeds atmospheric pressure",
+        "Increase in alveolar surface area"
+      ],
+      "answer": 2,
+      "explanation": "Forced expiration raises intrapulmonary pressure above atmospheric pressure, forcing air out and reducing alveolar volume.",
+      "topic": "Alveoli"
+    },
+    {
+      "question": "How many lobes are present in the right lung of an adult human?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "The right lung is divided into three lobes – superior, middle and inferior.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "Which structure in the lungs provides the primary site for gas exchange?",
+      "options": [
+        "Bronchioles",
+        "Alveolar sacs",
+        "Pleural cavity",
+        "Trachea"
+      ],
+      "answer": 1,
+      "explanation": "Alveolar sacs (clusters of alveoli) have thin walls and a large surface area, making them the main site for diffusion of O₂ and CO₂.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "The visceral pleura is continuous with which pleural layer at the lung root?",
+      "options": [
+        "Parietal pleura",
+        "Mediastinal pleura",
+        "Diaphragmatic pleura",
+        "Pericardial pleura"
+      ],
+      "answer": 1,
+      "explanation": "At the hilum, the visceral pleura blends with the mediastinal (parietal) pleura, forming the pulmonary ligament.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "The pulmonary artery that enters the lungs carries which type of blood?",
+      "options": [
+        "Deoxygenated blood",
+        "Oxygenated blood",
+        "Lymph",
+        "Air"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonary artery transports deoxygenated blood from the right ventricle to the lungs for oxygenation.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "Approximate total surface area available for gas exchange in a healthy adult lung is:",
+      "options": [
+        "50 cm²",
+        "70 cm²",
+        "70 m²",
+        "150 m²"
+      ],
+      "answer": 2,
+      "explanation": "The combined surface area of alveoli is about 70 square metres, providing an extensive interface for diffusion.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "Which statement about lung parenchyma is correct?",
+      "options": [
+        "It receives blood only from the bronchial circulation",
+        "It contains both alveoli and respiratory bronchioles",
+        "It is lined by stratified squamous epithelium",
+        "It lacks lymphatic drainage"
+      ],
+      "answer": 1,
+      "explanation": "Lung parenchyma includes the respiratory bronchioles, alveolar ducts and alveoli, all participating in gas exchange.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "A region of lung with a high ventilation‑perfusion (V/Q) ratio primarily contributes to:",
+      "options": [
+        "Hypoxemia",
+        "Hypercapnia",
+        "Wasted ventilation (dead space)",
+        "Shunt"
+      ],
+      "answer": 2,
+      "explanation": "High V/Q means ventilation exceeds perfusion, creating physiologic dead space where air does not participate in gas exchange.",
+      "topic": "Lungs"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between visceral and parietal pleura?",
+      "options": [
+        "Both are continuous with each other at the hilum",
+        "Visceral pleura lines the thoracic cavity",
+        "Parietal pleura receives blood from the pulmonary arteries",
+        "Visceral pleura is innervated by somatic nerves"
+      ],
+      "answer": 0,
+      "explanation": "Visceral pleura covers the lung surface and parietal pleura lines the thoracic wall; they meet and become continuous at the lung hilum.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "The thin film of fluid in the pleural cavity primarily functions to:",
+      "options": [
+        "Increase surface tension to keep the lungs collapsed",
+        "Reduce friction between pleural surfaces during respiration",
+        "Facilitate gas exchange between pleurae",
+        "Produce surfactant for alveoli"
+      ],
+      "answer": 1,
+      "explanation": "Pleural fluid acts as a lubricant, allowing the visceral and parietal pleurae to glide smoothly over each other during breathing.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "During a thoracentesis performed in the mid‑axillary line, which pleural recess is most commonly accessed?",
+      "options": [
+        "Costodiaphragmatic recess",
+        "Cervical pleural recess",
+        "Mediastinal pleural recess",
+        "Pulmonary recess"
+      ],
+      "answer": 0,
+      "explanation": "The costodiaphragmatic recess is the inferior extension of the pleural cavity at the lateral thoracic wall and is the usual site for fluid aspiration.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "The parietal pleura covering the central surface of the diaphragm receives its sensory innervation from:",
+      "options": [
+        "Phrenic nerve",
+        "Vagus nerve",
+        "Intercostal nerves",
+        "Sympathetic trunk"
+      ],
+      "answer": 0,
+      "explanation": "The central diaphragmatic pleura is innervated by the phrenic nerve (C3‑C5), which conveys pain and sensory information.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "In a pneumothorax, air entering the pleural cavity causes:",
+      "options": [
+        "Intrapleural pressure to become less negative (increase)",
+        "Intrapleural pressure to become more negative (decrease)",
+        "No change in intrapleural pressure",
+        "Increase in surface tension of pleural fluid"
+      ],
+      "answer": 0,
+      "explanation": "Air in the pleural space eliminates the negative intrapleural pressure, making it less negative or even positive, leading to lung collapse.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "Lymph from the diaphragmatic surface of the parietal pleura primarily drains into which lymph node group?",
+      "options": [
+        "Parasternal nodes",
+        "Mediastinal nodes",
+        "Phrenic (diaphragmatic) nodes",
+        "Supraclavicular nodes"
+      ],
+      "answer": 2,
+      "explanation": "Lymphatic vessels from the diaphragmatic pleura follow the phrenic nerve and drain into the phrenic (diaphragmatic) lymph nodes.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "Which of the following correctly describes the intrapleural pressure change during normal inspiration?",
+      "options": [
+        "It becomes more negative",
+        "It becomes less negative",
+        "It remains unchanged",
+        "It becomes positive"
+      ],
+      "answer": 0,
+      "explanation": "During inspiration, the thoracic cavity expands, making intrapleural pressure more negative relative to atmospheric pressure, which helps the lungs expand.",
+      "topic": "Pleura"
+    },
+    {
+      "question": "Which structures together constitute the respiratory membrane in the human lung?",
+      "options": [
+        "Type I alveolar cells, capillary endothelial cells and a fused basement membrane",
+        "Type II alveolar cells, bronchial cartilage and elastic fibers",
+        "Alveolar macrophages, surfactant layer and mucous membrane",
+        "Bronchiolar smooth muscle, goblet cells and ciliated epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The respiratory membrane is formed by the thin type I pneumocytes, the capillary endothelium and a common (fused) basement membrane, providing a minimal diffusion barrier.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "What is the approximate total thickness of the respiratory membrane in a healthy adult?",
+      "options": [
+        "0.5 µm",
+        "0.2 µm",
+        "1.0 µm",
+        "2.0 µm"
+      ],
+      "answer": 0,
+      "explanation": "The combined thickness of the alveolar epithelium, fused basement membrane and capillary endothelium is about 0.5 micrometre, allowing rapid gas diffusion.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "Which factor most directly limits the rate of diffusion of gases across the respiratory membrane?",
+      "options": [
+        "Partial pressure gradient of the gas",
+        "Diffusion coefficient of the gas",
+        "Surface area of the alveoli",
+        "Thickness of the membrane"
+      ],
+      "answer": 3,
+      "explanation": "According to Fick's law, diffusion rate is inversely proportional to the thickness of the barrier; a thicker membrane markedly reduces gas exchange.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "In pulmonary fibrosis, the primary alteration affecting the respiratory membrane is:",
+      "options": [
+        "Increase in its thickness",
+        "Decrease in its surface area",
+        "Increase in the diffusion coefficient of gases",
+        "Decrease in the alveolar‑capillary partial pressure gradient"
+      ],
+      "answer": 0,
+      "explanation": "Fibrotic deposition adds collagen layers, thickening the alveolar‑capillary barrier and impairing O₂ and CO₂ diffusion.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "Which gas diffuses most rapidly across the respiratory membrane under normal physiological conditions?",
+      "options": [
+        "O₂",
+        "CO₂",
+        "N₂",
+        "H₂O vapor"
+      ],
+      "answer": 1,
+      "explanation": "CO₂ has a diffusion coefficient about 20 times that of O₂, so it traverses the thin membrane faster despite a smaller partial pressure gradient.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "Which statement about the alveolar‑capillary barrier is FALSE?",
+      "options": [
+        "Type I pneumocytes cover about 95% of the alveolar surface",
+        "The basement membranes of the alveolar epithelium and capillary endothelium are separate structures",
+        "Simple diffusion is the mode of gas transport across the barrier",
+        "The barrier thickness is minimized to facilitate efficient gas exchange"
+      ],
+      "answer": 1,
+      "explanation": "In the respiratory membrane the two basement membranes are fused into a single thin layer, not separate.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "During adaptation to high altitude, which change in the respiratory membrane helps preserve O₂ diffusion?",
+      "options": [
+        "Increase in alveolar surface area",
+        "Decrease in membrane thickness",
+        "Increase in the number of type II pneumocytes",
+        "Increase in pulmonary capillary blood volume"
+      ],
+      "answer": 0,
+      "explanation": "High altitude induces alveolar recruitment and slight hyperinflation, expanding the effective surface area and compensating for the lower ambient PO₂.",
+      "topic": "Respiratory membrane"
+    },
+    {
+      "question": "Which structure in the conducting part of the respiratory system contains C-shaped hyaline cartilage rings that prevent its collapse during respiration?",
+      "options": [
+        "Trachea",
+        "Bronchi",
+        "Bronchioles",
+        "Alveoli"
+      ],
+      "answer": 0,
+      "explanation": "The trachea is reinforced by C-shaped hyaline cartilage rings that keep the airway open, whereas bronchi have cartilage plates and bronchioles lack cartilage.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "The primary function of the ciliated pseudostratified columnar epithelium lining most of the conducting airways is to:",
+      "options": [
+        "Facilitate gas exchange",
+        "Produce surfactant",
+        "Transport mucus and trapped particles toward the pharynx",
+        "Secrete alveolar fluid"
+      ],
+      "answer": 2,
+      "explanation": "Ciliary action, together with mucus, moves inhaled dust and microbes upward (mucociliary clearance), protecting the lower respiratory tract.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "Which statement about bronchioles is correct?",
+      "options": [
+        "They contain cartilage plates",
+        "Their walls are rich in goblet cells",
+        "They belong to the conducting zone of the respiratory system",
+        "They are the principal site of gas exchange"
+      ],
+      "answer": 2,
+      "explanation": "Bronchioles are the smallest airways of the conducting zone; they lack cartilage and have few goblet cells, and gas exchange occurs only beyond them in the alveolar region.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "The nasal cavity conditions inspired air by all of the following EXCEPT:",
+      "options": [
+        "Warming the air",
+        "Humidifying the air",
+        "Filtering dust particles",
+        "Participating in gas exchange"
+      ],
+      "answer": 3,
+      "explanation": "The nasal cavity warms, humidifies, and filters inhaled air, but gas exchange takes place in the alveoli, not in the nasal cavity.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "Within the conducting zone, airway resistance is greatest in which segment?",
+      "options": [
+        "Trachea",
+        "Primary bronchi",
+        "Medium-sized bronchi",
+        "Terminal bronchioles"
+      ],
+      "answer": 2,
+      "explanation": "Resistance peaks in the medium bronchi (around the 2nd–3rd generation) because of the combined effect of decreasing radius and branching.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "During swallowing, the epiglottis primarily functions to:",
+      "options": [
+        "Close the glottis during inspiration",
+        "Prevent entry of food into the larynx",
+        "Produce vocal sounds",
+        "Regulate airflow resistance"
+      ],
+      "answer": 1,
+      "explanation": "The epiglottis folds down over the glottis during swallowing, directing food toward the esophagus and protecting the airway.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "The transition from cartilage‑supported bronchi to smooth‑muscle‑dominated bronchioles is marked by:",
+      "options": [
+        "Appearance of alveolar sacs",
+        "Loss of cartilage in the airway wall",
+        "Increase in goblet cell density",
+        "Development of a thick basement membrane"
+      ],
+      "answer": 1,
+      "explanation": "Bronchioles differ from bronchi by the absence of cartilage; their walls are primarily composed of smooth muscle and lack the cartilage plates found in bronchi.",
+      "topic": "Conducting part"
+    },
+    {
+      "question": "Which of the following components together form the respiratory membrane?",
+      "options": [
+        "Alveolar epithelium only",
+        "Capillary endothelium only",
+        "Alveolar epithelium, capillary endothelium and fused basement membranes",
+        "Bronchial cartilage"
+      ],
+      "answer": 2,
+      "explanation": "The respiratory membrane consists of the thin alveolar epithelium, the capillary endothelium and their fused basement membranes, providing a minimal diffusion barrier.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "According to Fick's law, which change will most effectively increase the rate of O₂ diffusion across the respiratory membrane?",
+      "options": [
+        "Decrease the surface area",
+        "Increase the thickness of the membrane",
+        "Increase the partial pressure difference between alveolus and blood",
+        "Decrease the diffusion coefficient of O₂"
+      ],
+      "answer": 2,
+      "explanation": "Fick's law states that diffusion rate is directly proportional to the surface area and the partial pressure difference, and inversely proportional to thickness and diffusion distance. Raising the pressure gradient most directly speeds diffusion.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "Type I pneumocytes cover approximately what proportion of the alveolar surface area?",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "95%"
+      ],
+      "answer": 3,
+      "explanation": "Type I pneumocytes are thin squamous cells that line about 95% of the alveolar surface, providing the main site for gas exchange.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "Surfactant, which reduces alveolar surface tension, is secreted by:",
+      "options": [
+        "Type I pneumocytes",
+        "Type II pneumocytes",
+        "Clara cells",
+        "Goblet cells"
+      ],
+      "answer": 1,
+      "explanation": "Type II pneumocytes synthesize and secrete pulmonary surfactant, a phospholipid‑protein mixture that lowers surface tension and prevents alveolar collapse.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "The direction of O₂ diffusion between alveolar air (PO₂ ≈ 100 mmHg) and pulmonary capillary blood (PO₂ ≈ 40 mmHg) is best explained by:",
+      "options": [
+        "Higher PO₂ in blood drives diffusion into alveoli",
+        "Higher PO₂ in alveoli drives diffusion into blood",
+        "Equal PO₂ leads to no net diffusion",
+        "Diffusion occurs only when PO₂ is lower in blood than in alveoli"
+      ],
+      "answer": 1,
+      "explanation": "Gases diffuse from a region of higher partial pressure to lower partial pressure; thus O₂ moves from the alveolar air (higher PO₂) into the blood (lower PO₂).",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "Which statement about the pulmonary capillary network surrounding each alveolus is true?",
+      "options": [
+        "Capillaries form a dense plexus enveloping the alveolus",
+        "Capillaries are absent in the alveolar wall",
+        "Each alveolus is supplied by a single capillary",
+        "Capillary walls are thick to prevent gas exchange"
+      ],
+      "answer": 0,
+      "explanation": "A dense capillary plexus closely surrounds each alveolus, minimizing diffusion distance and maximizing gas exchange efficiency.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "Among the structures of the exchange part, which contributes the most to gas exchange?",
+      "options": [
+        "Respiratory bronchioles",
+        "Alveolar ducts",
+        "Alveoli",
+        "Terminal bronchioles"
+      ],
+      "answer": 2,
+      "explanation": "Alveoli provide the largest surface area (≈70 m²) and the thinnest barrier, accounting for the majority of pulmonary gas exchange.",
+      "topic": "Exchange part"
+    },
+    {
+      "question": "Which muscle is primarily responsible for increasing the vertical dimension of the thoracic cavity during quiet inspiration?",
+      "options": [
+        "Diaphragm",
+        "External intercostal muscles",
+        "Internal intercostal muscles",
+        "Sternocleidomastoid"
+      ],
+      "answer": 0,
+      "explanation": "Contraction of the diaphragm flattens its dome, increasing the vertical height of the thoracic cavity and creating a negative intrapulmonary pressure that draws air in.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "During inspiration, the intrapulmonary pressure becomes:",
+      "options": [
+        "Equal to atmospheric pressure",
+        "Greater than atmospheric pressure",
+        "Less than atmospheric pressure",
+        "Equal to intrapleural pressure"
+      ],
+      "answer": 2,
+      "explanation": "The increase in thoracic volume lowers intrapulmonary pressure below atmospheric pressure, causing air to flow into the lungs.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "Contraction of the external intercostal muscles during inspiration produces which movement of the ribs?",
+      "options": [
+        "Elevation and outward rotation",
+        "Depression and inward rotation",
+        "No movement",
+        "Retraction toward the spine"
+      ],
+      "answer": 0,
+      "explanation": "External intercostals pull the ribs upward and outward, expanding the thoracic cavity in the anteroposterior and lateral dimensions.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "The increase in thoracic cavity volume during inspiration changes intrapleural pressure from about -5 cm H2O to:",
+      "options": [
+        "-8 cm H2O",
+        "-2 cm H2O",
+        "0 cm H2O",
+        "+5 cm H2O"
+      ],
+      "answer": 0,
+      "explanation": "Expansion of the chest wall makes the intrapleural pressure more negative (approximately -8 cm H2O), helping keep the lungs expanded.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "Which statement best describes the pressure‑volume relationship during normal inspiration?",
+      "options": [
+        "As volume increases, intrapulmonary pressure decreases below atmospheric pressure",
+        "As volume decreases, intrapulmonary pressure increases above atmospheric pressure",
+        "Volume and pressure change in the same direction",
+        "There is no change in intrapulmonary pressure"
+      ],
+      "answer": 0,
+      "explanation": "Increasing thoracic volume lowers intrapulmonary pressure relative to atmospheric pressure, producing airflow into the lungs.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "In addition to the diaphragm, which muscle significantly increases the anteroposterior diameter of the thorax during forced inspiration?",
+      "options": [
+        "Internal intercostal muscles",
+        "Scalenes",
+        "Sternocleidomastoid",
+        "Rectus abdominis"
+      ],
+      "answer": 1,
+      "explanation": "The scalenes elevate the first two ribs, enlarging the anteroposterior diameter and aiding deep inspiration.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "The primary driving force for airflow into the lungs during inspiration is:",
+      "options": [
+        "Difference between atmospheric pressure and intrapulmonary pressure",
+        "Difference between intrapleural and intrapulmonary pressure",
+        "Contraction of alveolar walls",
+        "Elastic recoil of the lungs"
+      ],
+      "answer": 0,
+      "explanation": "Air moves because intrapulmonary pressure becomes lower than atmospheric pressure, creating a pressure gradient that drives airflow inward.",
+      "topic": "Mechanism of inspiration"
+    },
+    {
+      "question": "Which of the following best describes the mechanism of quiet (resting) expiration?",
+      "options": [
+        "Elastic recoil of lungs and chest wall reduces thoracic volume",
+        "Contraction of diaphragm and external intercostals increase thoracic volume",
+        "Contraction of internal intercostals decreases thoracic volume",
+        "Active contraction of abdominal muscles forces air out"
+      ],
+      "answer": 0,
+      "explanation": "During quiet expiration no muscles contract; the lungs and chest wall recoil elastically, decreasing thoracic volume and raising intrapulmonary pressure, causing air to flow out.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "During forced expiration, which muscle group contributes most to decreasing thoracic volume?",
+      "options": [
+        "Internal intercostal muscles",
+        "External intercostal muscles",
+        "Diaphragm",
+        "Scalene muscles"
+      ],
+      "answer": 0,
+      "explanation": "Forced expiration is an active process; the internal intercostals contract to pull the ribs downward and inward, markedly reducing thoracic volume.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "In forced expiration, the intrapulmonary pressure becomes:",
+      "options": [
+        "Less than atmospheric pressure",
+        "Equal to atmospheric pressure",
+        "Greater than atmospheric pressure",
+        "Same as intrapleural pressure"
+      ],
+      "answer": 2,
+      "explanation": "Active reduction of thoracic volume raises the pressure inside the alveoli above atmospheric pressure, driving air out of the lungs.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "Which pressure change occurs in the intrapleural space during active expiration?",
+      "options": [
+        "It becomes more negative",
+        "It becomes less negative (approaches zero)",
+        "It becomes positive",
+        "It remains unchanged"
+      ],
+      "answer": 1,
+      "explanation": "When thoracic volume decreases, the chest wall pulls inward, reducing the magnitude of the negative intrapleural pressure (it becomes less negative).",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "The role of abdominal muscles in forced expiration is to:",
+      "options": [
+        "Elevate the ribs",
+        "Depress the diaphragm",
+        "Increase thoracic volume",
+        "Decrease abdominal pressure"
+      ],
+      "answer": 1,
+      "explanation": "Contracting abdominal muscles push the abdominal viscera upward, forcing the diaphragm upward (depression), which further reduces thoracic volume.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "During expiration, the volume of the thoracic cavity decreases from approximately 5 L to 4.5 L. According to Boyle’s law, what happens to the intrapulmonary pressure?",
+      "options": [
+        "It decreases",
+        "It remains the same",
+        "It increases",
+        "It becomes zero"
+      ],
+      "answer": 2,
+      "explanation": "Boyle’s law (P₁V₁ = P₂V₂) states that when volume decreases, pressure increases; thus intrapulmonary pressure rises above atmospheric.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "In patients with COPD, expiration is prolonged because:",
+      "options": [
+        "Decreased lung compliance",
+        "Increased airway resistance due to loss of elastic recoil",
+        "Overactive diaphragm",
+        "Reduced intrapleural pressure"
+      ],
+      "answer": 1,
+      "explanation": "COPD destroys elastic fibers, reducing recoil and increasing airway resistance, so expiratory flow is slowed and expiration takes longer.",
+      "topic": "Mechanism of expiration"
+    },
+    {
+      "question": "Which nerve provides the primary motor innervation to the diaphragm?",
+      "options": [
+        "Phrenic nerve",
+        "Vagus nerve",
+        "Intercostal nerves",
+        "Accessory nerve"
+      ],
+      "answer": 0,
+      "explanation": "The diaphragm is innervated by the phrenic nerve, which arises from the C3‑C5 spinal cord segments (C3, C4, C5 – \"keep the diaphragm alive\").",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "During quiet inspiration, contraction of the diaphragm leads to which change in intrathoracic pressure?",
+      "options": [
+        "Increase in pressure",
+        "Decrease in pressure",
+        "No change in pressure",
+        "Irregular fluctuation of pressure"
+      ],
+      "answer": 1,
+      "explanation": "When the diaphragm contracts, the thoracic cavity expands, causing intrathoracic pressure to fall below atmospheric pressure, allowing air to flow into the lungs.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "The central tendon of the diaphragm is directly attached to which structure?",
+      "options": [
+        "Xiphoid process",
+        "Lower ribs",
+        "Vertebral bodies",
+        "Fibrous pericardium"
+      ],
+      "answer": 3,
+      "explanation": "The central tendon is fused with the fibrous pericardium, anchoring the diaphragm to the heart's outer covering.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "Which statement correctly describes the diaphragm's role during passive expiration?",
+      "options": [
+        "It actively contracts during forced expiration",
+        "It relaxes and moves upward during passive expiration",
+        "It remains tonically contracted throughout breathing",
+        "It is innervated by the vagus nerve during expiration"
+      ],
+      "answer": 1,
+      "explanation": "In normal (passive) expiration the diaphragm relaxes, recoils upward due to elastic forces, and the thoracic volume decreases.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "The diaphragm helps increase intra‑abdominal pressure during which of the following actions?",
+      "options": [
+        "Coughing",
+        "Quiet breathing",
+        "Inspiration only",
+        "Exhalation through the nose"
+      ],
+      "answer": 0,
+      "explanation": "During coughing, the diaphragm contracts forcefully while the glottis is closed, raising intra‑abdominal pressure to expel air.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "The main arterial supply to the muscular part of the diaphragm is derived from which artery?",
+      "options": [
+        "Internal thoracic artery",
+        "Superior phrenic artery",
+        "Inferior phrenic artery",
+        "Coronary artery"
+      ],
+      "answer": 2,
+      "explanation": "The inferior phrenic arteries, arising from the abdominal aorta, supply the bulk of the diaphragm muscle.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "In unilateral diaphragmatic paralysis, the most characteristic chest‑X‑ray finding during inspiration is:",
+      "options": [
+        "Elevated hemidiaphragm on the affected side",
+        "Flattened diaphragm bilaterally",
+        "Reduced lung volume on the opposite side",
+        "Hyperinflated lung fields"
+      ],
+      "answer": 0,
+      "explanation": "Paralysis prevents the affected hemidiaphragm from descending, so it remains higher than the normal side on inspiratory films.",
+      "topic": "Diaphragm"
+    },
+    {
+      "question": "What is the primary action of the external intercostal muscles during inspiration?",
+      "options": [
+        "Elevate the ribs, increasing the anteroposterior diameter of the thorax",
+        "Depress the ribs, decreasing the anteroposterior diameter of the thorax",
+        "Rotate the ribs outward",
+        "Stabilize the thoracic cage during expiration"
+      ],
+      "answer": 0,
+      "explanation": "Contraction lifts the ribs, expanding the thoracic cavity in the anteroposterior direction and lowering intrapleural pressure.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "Which nerves provide the motor innervation to the external intercostal muscles?",
+      "options": [
+        "Phrenic nerve",
+        "Intercostal nerves (ventral rami of thoracic spinal nerves)",
+        "Vagus nerve",
+        "Subcostal nerve"
+      ],
+      "answer": 1,
+      "explanation": "The external intercostals receive somatic motor fibers from the intercostal nerves, which are the ventral rami of T1‑T11.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "How are the muscle fibers of the external intercostal muscles oriented?",
+      "options": [
+        "Oblique fibers running infero‑posterior to supero‑anterior",
+        "Horizontal fibers",
+        "Vertical fibers",
+        "Circular fibers"
+      ],
+      "answer": 0,
+      "explanation": "External intercostal fibers run obliquely downward and forward (infero‑posterior to supero‑anterior), enabling rib elevation.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "During forced expiration, what is the state of the external intercostal muscles?",
+      "options": [
+        "Contract",
+        "Relax",
+        "Remain tonically active",
+        "Switch to antagonist role"
+      ],
+      "answer": 1,
+      "explanation": "In forced expiration they relax, allowing the ribs to be pulled down by the internal intercostals and abdominal muscles.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "Which statement about the external intercostal muscles is FALSE?",
+      "options": [
+        "They are active during inspiration",
+        "They are innervated by intercostal nerves",
+        "They have fibers running obliquely downward and forward",
+        "They are innervated by the phrenic nerve"
+      ],
+      "answer": 3,
+      "explanation": "The phrenic nerve supplies the diaphragm, not the external intercostal muscles; they are innervated by intercostal nerves.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "The external intercostal muscles attach between which borders of adjacent ribs?",
+      "options": [
+        "Lower border of the rib above to the upper border of the rib below",
+        "Upper border of the rib above to the lower border of the rib below",
+        "Lateral surface of the rib only",
+        "Costal cartilage only"
+      ],
+      "answer": 0,
+      "explanation": "Each external intercostal muscle originates from the lower border of the superior rib and inserts on the upper border of the inferior rib.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "Contraction of the external intercostal muscles during inspiration leads to which change in intrapleural pressure?",
+      "options": [
+        "Increase in intrapleural pressure (becomes less negative)",
+        "Decrease in intrapleural pressure (more negative)",
+        "No change in intrapleural pressure",
+        "Increase in intrapulmonary pressure"
+      ],
+      "answer": 1,
+      "explanation": "Rib elevation expands the thoracic cavity, making intrapleural pressure more negative, which draws air into the lungs.",
+      "topic": "External intercostal muscles"
+    },
+    {
+      "question": "During quiet inspiration, which of the following changes occurs in thoracic volume and intrapulmonary pressure?",
+      "options": [
+        "Thoracic volume increases and intrapulmonary pressure decreases",
+        "Thoracic volume decreases and intrapulmonary pressure increases",
+        "Both thoracic volume and intrapulmonary pressure increase",
+        "Both thoracic volume and intrapulmonary pressure decrease"
+      ],
+      "answer": 0,
+      "explanation": "When the thoracic cavity expands, lung volume increases, causing intrapulmonary pressure to fall below atmospheric pressure, allowing air to flow in.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "The primary muscle responsible for increasing thoracic volume during forced inspiration is:",
+      "options": [
+        "External intercostal muscles",
+        "Internal intercostal muscles",
+        "Diaphragm",
+        "Scalene muscles"
+      ],
+      "answer": 2,
+      "explanation": "During forced inspiration the diaphragm contracts forcefully, flattening and pulling the lower ribs outward, producing the greatest increase in thoracic volume.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "Which volume measurement represents the maximum amount of air that can be exhaled after a maximal inhalation?",
+      "options": [
+        "Tidal volume",
+        "Inspiratory reserve volume",
+        "Expiratory reserve volume",
+        "Vital capacity"
+      ],
+      "answer": 3,
+      "explanation": "Vital capacity is the sum of tidal volume, inspiratory reserve volume and expiratory reserve volume – the total air that can be moved in and out after a maximal inhalation.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "In the pressure‑volume curve of the lungs, the point where intrapleural pressure equals atmospheric pressure corresponds to:",
+      "options": [
+        "End of inspiration",
+        "End of expiration",
+        "Functional residual capacity",
+        "Residual volume"
+      ],
+      "answer": 2,
+      "explanation": "At functional residual capacity (FRC) the intrapleural pressure is zero (equal to atmospheric), representing the equilibrium position after a normal tidal exhalation.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "During expiration, the ribs move in which direction, and how does thoracic volume change?",
+      "options": [
+        "Ribs elevate, thoracic volume increases",
+        "Ribs depress, thoracic volume decreases",
+        "Ribs depress, thoracic volume increases",
+        "Ribs elevate, thoracic volume decreases"
+      ],
+      "answer": 1,
+      "explanation": "Expiration is produced by the relaxation of the diaphragm and contraction of internal intercostals, causing the ribs to move downward (depress) and the thoracic cavity to shrink.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "Which of the following statements about residual volume (RV) is correct?",
+      "options": [
+        "RV is the volume of air remaining in the lungs after maximal expiration",
+        "RV is equal to the tidal volume",
+        "RV can be measured directly by a standard spirometer",
+        "RV is zero in a healthy adult"
+      ],
+      "answer": 0,
+      "explanation": "Residual volume is the air that remains in the lungs after a maximal forced exhalation; it prevents lung collapse and cannot be measured directly by spirometry.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "The increase in thoracic volume during inspiration is primarily due to which mechanism?",
+      "options": [
+        "Contraction of internal intercostal muscles pulling the ribs upward",
+        "Contraction of the diaphragm flattening and pulling the ribs outward",
+        "Relaxation of the diaphragm creating negative pressure",
+        "Contraction of abdominal muscles pushing the diaphragm upward"
+      ],
+      "answer": 1,
+      "explanation": "When the diaphragm contracts, it flattens and pulls the lower ribs outward, enlarging the thoracic cavity and lowering intrapulmonary pressure, which draws air into the lungs.",
+      "topic": "Thoracic volume"
+    },
+    {
+      "question": "What does intrapulmonary pressure refer to in the respiratory system?",
+      "options": [
+        "Pressure within the alveolar air space relative to atmospheric pressure",
+        "Pressure in the pleural cavity surrounding the lungs",
+        "Blood pressure within the pulmonary capillaries",
+        "Pressure exerted by the chest wall on the lungs"
+      ],
+      "answer": 0,
+      "explanation": "Intrapulmonary pressure is the pressure of the air inside the lungs (alveoli) measured relative to the atmospheric pressure.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "At the end of a normal quiet inspiration, the intrapulmonary pressure is approximately:",
+      "options": [
+        "-1 cm H2O",
+        "-5 cm H2O",
+        "-7.5 cm H2O",
+        "0 cm H2O"
+      ],
+      "answer": 2,
+      "explanation": "During quiet inspiration the alveolar (intrapulmonary) pressure falls to about -7.5 cm H2O, creating a pressure gradient that draws air into the lungs.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "During a forced expiration (e.g., blowing out forcefully), the intrapulmonary pressure typically rises to:",
+      "options": [
+        "+10 cm H2O",
+        "+30 cm H2O",
+        "+5 cm H2O",
+        "+1 cm H2O"
+      ],
+      "answer": 1,
+      "explanation": "Forced expiration generates high intrapulmonary pressures, often reaching +30 cm H2O, due to strong contraction of expiratory muscles and reduced airway caliber.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between intrapulmonary pressure and the direction of airflow?",
+      "options": [
+        "Air flows from a region of higher intrapulmonary pressure to a region of lower intrapulmonary pressure",
+        "Air flows from lower to higher intrapulmonary pressure",
+        "Airflow direction is independent of intrapulmonary pressure",
+        "Air flows only when intrapulmonary pressure equals atmospheric pressure"
+      ],
+      "answer": 0,
+      "explanation": "Air moves from higher pressure to lower pressure; during inspiration alveolar pressure is lower than atmospheric, and during expiration it is higher, driving airflow accordingly.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "In obstructive lung diseases (e.g., asthma), how is intrapulmonary pressure affected during expiration compared to normal?",
+      "options": [
+        "It becomes higher than normal due to airway narrowing",
+        "It becomes lower than normal because of increased lung compliance",
+        "It remains the same as in healthy individuals",
+        "It becomes negative throughout expiration"
+      ],
+      "answer": 0,
+      "explanation": "Airway narrowing in obstructive diseases increases resistance, so greater expiratory effort is needed, raising intrapulmonary pressure above normal values.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "What is the intrapulmonary pressure at the end of a normal tidal expiration?",
+      "options": [
+        "0 cm H2O",
+        "+1 cm H2O",
+        "-1 cm H2O",
+        "+5 cm H2O"
+      ],
+      "answer": 0,
+      "explanation": "At the end of a normal expiration alveolar pressure equilibrates with atmospheric pressure, making intrapulmonary pressure effectively 0 cm H2O.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "Why does intrapulmonary pressure fall during quiet inspiration?",
+      "options": [
+        "Diaphragmatic contraction increases thoracic volume, reducing pressure",
+        "Relaxation of intercostal muscles decreases thoracic volume",
+        "Lung elastic recoil increases pressure",
+        "Airway resistance increases, raising pressure"
+      ],
+      "answer": 0,
+      "explanation": "Contraction of the diaphragm (and external intercostals) expands the thoracic cavity, increasing lung volume and thereby lowering intrapulmonary pressure relative to atmospheric pressure, allowing air to flow in.",
+      "topic": "Intrapulmonary pressure"
+    },
+    {
+      "question": "What best describes intrapleural pressure in the thoracic cavity at rest?",
+      "options": [
+        "The pressure within the alveoli",
+        "The pressure between the visceral and parietal pleura",
+        "The atmospheric pressure outside the body",
+        "The pressure inside the pulmonary capillaries"
+      ],
+      "answer": 1,
+      "explanation": "Intrapleural pressure is the pressure in the pleural cavity, i.e., the space between the visceral and parietal pleura, and it is slightly sub‑atmospheric at rest.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "At the end of a normal quiet expiration, the intrapleural pressure is approximately:",
+      "options": [
+        "+5 cm H₂O",
+        "0 cm H₂O (atmospheric)",
+        "-5 cm H₂O",
+        "-15 cm H₂O"
+      ],
+      "answer": 2,
+      "explanation": "During quiet breathing, intrapleural pressure is about –5 cm H₂O at the end of normal expiration, reflecting the slight suction that keeps the lungs expanded.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "During quiet inspiration, how does intrapleural pressure change relative to its value at the end of expiration?",
+      "options": [
+        "It becomes more positive",
+        "It becomes more negative",
+        "It remains unchanged",
+        "It fluctuates randomly"
+      ],
+      "answer": 1,
+      "explanation": "When the thoracic cavity expands during inspiration, the intrapleural pressure becomes more negative (e.g., from –5 to about –8 cm H₂O), enhancing lung expansion.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "What is the typical intrapleural pressure during a forced (vigorous) expiration?",
+      "options": [
+        "Around –2 cm H₂O",
+        "Around –8 cm H₂O",
+        "Around +2 cm H₂O",
+        "Around 0 cm H₂O"
+      ],
+      "answer": 2,
+      "explanation": "During forced expiration, the intrapleural pressure can become slightly positive (≈ +2 cm H₂O) because the chest wall recoils inward while the air is being expelled.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "Why does a negative intrapleural pressure prevent lung collapse?",
+      "options": [
+        "It pushes the lungs outward against the chest wall",
+        "It creates a suction that counteracts the elastic recoil of the lungs",
+        "It increases blood flow to the alveoli",
+        "It raises the alveolar oxygen tension"
+      ],
+      "answer": 1,
+      "explanation": "The negative intrapleural pressure acts like a suction, balancing the lungs' natural elastic recoil and keeping them inflated within the thoracic cavity.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "In a pneumothorax where air enters the pleural cavity, what happens to the intrapleural pressure and the lung?",
+      "options": [
+        "Pressure becomes more negative and the lung inflates further",
+        "Pressure becomes equal to atmospheric pressure and the lung collapses partially or completely",
+        "Pressure becomes highly positive and the lung expands beyond normal limits",
+        "Pressure remains unchanged but the lung becomes hyperinflated"
+      ],
+      "answer": 1,
+      "explanation": "Air entering the pleural space equalizes intrapleural pressure with atmospheric pressure, eliminating the negative pressure that holds the lung open, leading to lung collapse.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "Which clinical technique is most commonly used to estimate intrapleural pressure in vivo?",
+      "options": [
+        "Insertion of a catheter directly into the pleural cavity and connecting it to a water manometer",
+        "Measuring pressure in the pulmonary artery with a Swan‑Ganz catheter",
+        "Using an esophageal balloon catheter as a surrogate for pleural pressure",
+        "Directly attaching a pressure transducer to the lung surface during surgery"
+      ],
+      "answer": 2,
+      "explanation": "An esophageal balloon catheter provides a reliable indirect measurement of intrapleural pressure because the esophagus lies within the mediastinum and reflects pleural pressure changes.",
+      "topic": "Intrapleural pressure"
+    },
+    {
+      "question": "During normal inspiration, intrapulmonary pressure becomes ___ relative to atmospheric pressure?",
+      "options": [
+        "lower than atmospheric pressure",
+        "equal to atmospheric pressure",
+        "higher than atmospheric pressure",
+        "fluctuates unpredictably"
+      ],
+      "answer": 0,
+      "explanation": "Inspiration expands the thoracic cavity, increasing lung volume; by Boyle's law the intrapulmonary pressure falls below atmospheric pressure, allowing air to flow in.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "According to Boyle's law, if lung volume doubles at constant temperature, intrapulmonary pressure becomes ___?",
+      "options": [
+        "half of its original value",
+        "twice its original value",
+        "remains unchanged",
+        "drops to zero"
+      ],
+      "answer": 0,
+      "explanation": "Boyle's law (P1V1 = P2V2) dictates that at constant temperature, doubling the volume halves the pressure.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "Intrapleural pressure is always ___ relative to atmospheric pressure?",
+      "options": [
+        "negative (sub-atmospheric)",
+        "positive (super-atmospheric)",
+        "equal to atmospheric pressure",
+        "variable depending on phase of breathing"
+      ],
+      "answer": 0,
+      "explanation": "The pleural cavity is a sealed space where the opposing elastic forces of lungs and chest wall maintain a sub‑atmospheric (negative) pressure throughout the respiratory cycle.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "Which of the following best describes the pressure‑volume curve of the lung during a normal tidal breath?",
+      "options": [
+        "Linear relationship",
+        "Exponential relationship",
+        "Sigmoidal relationship",
+        "Rectangular relationship"
+      ],
+      "answer": 1,
+      "explanation": "Lung compliance is high at low volumes; a small increase in pressure produces a large volume change, giving an exponential shape to the pressure‑volume curve.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "During forced expiration, which pressure changes occur?",
+      "options": [
+        "Intrapulmonary pressure rises above atmospheric pressure only",
+        "Intrapleural pressure becomes positive only",
+        "Both intrapulmonary pressure rises above atmospheric and intrapleural pressure becomes positive",
+        "Neither pressure changes"
+      ],
+      "answer": 2,
+      "explanation": "Active contraction of internal intercostals and abdominal muscles raises intrapulmonary pressure above atmospheric and also makes intrapleural pressure positive (above atmospheric) due to compression of the thoracic cavity.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "Contraction of the diaphragm during inspiration leads to which change in thoracic volume and intrapleural pressure?",
+      "options": [
+        "Increase in thoracic volume and more negative intrapleural pressure",
+        "Decrease in thoracic volume and more negative intrapleural pressure",
+        "Increase in thoracic volume and less negative intrapleural pressure",
+        "Decrease in thoracic volume and less negative intrapleural pressure"
+      ],
+      "answer": 0,
+      "explanation": "Diaphragmatic descent enlarges the thoracic cavity, increasing volume and rendering the intrapleural pressure more negative (more sub‑atmospheric).",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "Lung compliance is defined as ΔV/ΔP. If a lung segment shows a volume change of 0.5 L for a pressure change of 2 cm H₂O, its compliance is?",
+      "options": [
+        "0.25 L cm⁻¹ H₂O⁻¹",
+        "0.5 L cm⁻¹ H₂O⁻¹",
+        "1 L cm⁻¹ H₂O⁻¹",
+        "2 L cm⁻¹ H₂O⁻¹"
+      ],
+      "answer": 0,
+      "explanation": "Compliance = ΔV/ΔP = 0.5 L ÷ 2 cm H₂O = 0.25 L per cm H₂O.",
+      "topic": "Pressure-volume relationship"
+    },
+    {
+      "question": "During inspiration, the ribs move in which direction?",
+      "options": [
+        "Depress and inward",
+        "Elevate and outward",
+        "Remain stationary",
+        "Rotate posteriorly"
+      ],
+      "answer": 1,
+      "explanation": "Contraction of external intercostal muscles lifts the ribs upward and outward, increasing thoracic volume.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "Which rib movement contributes most to the increase in the anteroposterior diameter of the thorax?",
+      "options": [
+        "Bucket‑handle movement of the lower ribs",
+        "Pump‑handle movement of the upper ribs",
+        "Elevation of the sternum",
+        "Depression of the diaphragm"
+      ],
+      "answer": 1,
+      "explanation": "The pump‑handle action of the upper ribs raises the sternum, expanding the front‑to‑back dimension of the thoracic cavity.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "The bucket‑handle movement of ribs primarily increases which thoracic dimension?",
+      "options": [
+        "Anteroposterior diameter",
+        "Vertical height",
+        "Transverse diameter",
+        "Lung volume only"
+      ],
+      "answer": 2,
+      "explanation": "Bucket‑handle motion of the lower ribs moves them laterally, widening the transverse (side‑to‑side) diameter of the thorax.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "In forced expiration, what is the primary action of the ribs?",
+      "options": [
+        "Elevation of ribs",
+        "Depression of ribs",
+        "No movement",
+        "Lateral expansion"
+      ],
+      "answer": 1,
+      "explanation": "External intercostals relax and internal intercostals contract, pulling the ribs downward and inward, reducing thoracic volume.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "The costal cartilages allow the ribs to:",
+      "options": [
+        "Prevent any movement",
+        "Move anteriorly and laterally during inspiration",
+        "Remain rigid to protect organs",
+        "Transmit forces to the sternum only"
+      ],
+      "answer": 1,
+      "explanation": "Costal cartilages provide flexibility, permitting the ribs to swing outward and forward during inspiration.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "How does elevation of the ribs affect intrapulmonary pressure?",
+      "options": [
+        "Depression of ribs increases thoracic volume, decreasing intrapulmonary pressure",
+        "Elevation of ribs increases thoracic volume, decreasing intrapulmonary pressure",
+        "Elevation of ribs decreases thoracic volume, increasing intrapulmonary pressure",
+        "Rib movement does not affect intrapulmonary pressure"
+      ],
+      "answer": 1,
+      "explanation": "When ribs are lifted, thoracic volume expands, causing intrapulmonary pressure to fall below atmospheric pressure, drawing air into the lungs.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "During quiet breathing, what is the contribution of the ribs?",
+      "options": [
+        "Ribs are passive and do not move",
+        "External intercostal contraction lifts ribs, augmenting thoracic expansion",
+        "Ribs compress lungs",
+        "Ribs only move during forced breathing"
+      ],
+      "answer": 1,
+      "explanation": "External intercostal muscles contract, elevating the ribs slightly, which together with diaphragmatic descent increases thoracic volume in normal breathing.",
+      "topic": "Role of ribs"
+    },
+    {
+      "question": "During quiet inspiration in normal breathing, which muscle contributes the most to the increase in thoracic volume?",
+      "options": [
+        "Diaphragm",
+        "External intercostal muscles",
+        "Internal intercostal muscles",
+        "Abdominal muscles"
+      ],
+      "answer": 0,
+      "explanation": "Contraction of the diaphragm flattens its dome, increasing the vertical dimension of the thoracic cavity and is the primary driver of quiet inspiration.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "What happens to intrapulmonary pressure relative to atmospheric pressure during normal inspiration?",
+      "options": [
+        "It becomes slightly negative",
+        "It becomes slightly positive",
+        "It remains equal to atmospheric pressure",
+        "It fluctuates unpredictably"
+      ],
+      "answer": 0,
+      "explanation": "When the thoracic cavity expands, lung volume increases, causing intrapulmonary pressure to drop below atmospheric pressure, allowing air inflow.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "During normal quiet expiration, the thoracic volume:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains unchanged",
+        "First increases then decreases"
+      ],
+      "answer": 1,
+      "explanation": "Relaxation of the diaphragm and external intercostals reduces the thoracic cavity size, decreasing its volume during expiration.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "The typical tidal volume in a healthy adult at rest is about:",
+      "options": [
+        "500 mL",
+        "1500 mL",
+        "250 mL",
+        "1000 mL"
+      ],
+      "answer": 0,
+      "explanation": "Tidal volume, the volume of air moved in a normal breath, is approximately 0.5 L (500 mL) in resting adults.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "Which muscles are primarily recruited during forced expiration?",
+      "options": [
+        "Internal intercostal muscles",
+        "Diaphragm",
+        "External intercostal muscles",
+        "Sternocleidomastoid muscles"
+      ],
+      "answer": 0,
+      "explanation": "Forced expiration requires active contraction of internal intercostals (and abdominal muscles) to push air out rapidly.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "In normal breathing, the intrapleural pressure is:",
+      "options": [
+        "Slightly negative relative to atmospheric pressure",
+        "Slightly positive relative to atmospheric pressure",
+        "Equal to atmospheric pressure",
+        "Highly variable during each breath"
+      ],
+      "answer": 0,
+      "explanation": "The pleural cavity maintains a sub‑atmospheric (negative) pressure, which keeps the lungs expanded.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "Which statement correctly describes the pressure‑volume changes during a normal breath?",
+      "options": [
+        "Intrapulmonary pressure falls below atmospheric during inspiration and rises above during expiration",
+        "Intrapulmonary pressure rises above atmospheric during inspiration and falls below during expiration",
+        "Both pressures remain equal to atmospheric throughout the cycle",
+        "Intrapulmonary pressure is always higher than intrapleural pressure"
+      ],
+      "answer": 0,
+      "explanation": "During inspiration, lung expansion lowers intrapulmonary pressure below atmospheric, drawing air in; during expiration, the pressure rises above atmospheric, expelling air.",
+      "topic": "Normal breathing"
+    },
+    {
+      "question": "During quiet inspiration, which muscle is primarily responsible for increasing the thoracic volume?",
+      "options": [
+        "Diaphragm",
+        "External intercostal muscles",
+        "Internal intercostal muscles",
+        "Abdominal muscles"
+      ],
+      "answer": 0,
+      "explanation": "Contraction of the diaphragm flattens it, enlarging the vertical dimension of the thoracic cavity and causing lung expansion.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "According to Boyle's law, what happens to intrapulmonary pressure during inspiration?",
+      "options": [
+        "It decreases below atmospheric pressure",
+        "It increases above atmospheric pressure",
+        "It remains equal to atmospheric pressure",
+        "It fluctuates randomly"
+      ],
+      "answer": 0,
+      "explanation": "When thoracic volume increases, the pressure inside the lungs falls below atmospheric pressure, allowing air to flow inward.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "What is the change in intrapleural pressure during normal inspiration?",
+      "options": [
+        "It becomes more negative",
+        "It becomes less negative (approaches zero)",
+        "It equals atmospheric pressure",
+        "It becomes positive"
+      ],
+      "answer": 0,
+      "explanation": "Expansion of the chest wall pulls the pleural surface outward, making the intrapleural pressure more sub‑atmospheric (more negative).",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "Which muscle group is actively recruited during forced expiration?",
+      "options": [
+        "Internal intercostal muscles",
+        "External intercostal muscles",
+        "Diaphragm",
+        "Scalenes"
+      ],
+      "answer": 0,
+      "explanation": "Internal intercostals contract to depress the ribs, decreasing thoracic volume and forcing air out during vigorous expiration.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "The increase in thoracic cavity volume during inspiration is contributed mainly by which rib movement?",
+      "options": [
+        "Elevation of ribs",
+        "Depression of ribs",
+        "Rotation of ribs outward",
+        "Rotation of ribs inward"
+      ],
+      "answer": 0,
+      "explanation": "Elevation (and outward rotation) of the ribs enlarges the anteroposterior and transverse dimensions of the thorax, aiding lung expansion.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "The point on the pressure‑volume curve where alveolar pressure equals atmospheric pressure corresponds to:",
+      "options": [
+        "End of inspiration",
+        "End of expiration",
+        "Mid‑inspiration",
+        "Mid‑expiration"
+      ],
+      "answer": 1,
+      "explanation": "At the end of a complete expiration, no airflow occurs and alveolar pressure equilibrates with atmospheric pressure.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "Why do the lungs not collapse despite their inherent elastic recoil?",
+      "options": [
+        "Negative intrapleural pressure keeps them expanded",
+        "Positive intrapulmonary pressure pushes them outward",
+        "Surface tension of alveolar fluid counteracts recoil",
+        "The rigid chest wall prevents collapse"
+      ],
+      "answer": 0,
+      "explanation": "The continuous negative pressure in the pleural cavity (intrapleural pressure) opposes the lungs' elastic recoil, keeping them inflated.",
+      "topic": "Respiratory movements"
+    },
+    {
+      "question": "During quiet inspiration, what happens to the intrapulmonary pressure relative to atmospheric pressure?",
+      "options": [
+        "Intrapulmonary pressure falls below atmospheric pressure",
+        "Intrapulmonary pressure rises above atmospheric pressure",
+        "Intrapulmonary pressure remains equal to atmospheric pressure",
+        "Intrapulmonary pressure fluctuates irregularly"
+      ],
+      "answer": 0,
+      "explanation": "Contraction of the diaphragm and external intercostals expands the thoracic cavity, increasing lung volume and causing intrapulmonary pressure to drop below atmospheric, allowing air inflow.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "Which muscle is the primary driver of thoracic volume increase during quiet inspiration?",
+      "options": [
+        "External intercostal muscles",
+        "Internal intercostal muscles",
+        "Diaphragm",
+        "Abdominal muscles"
+      ],
+      "answer": 2,
+      "explanation": "The diaphragm contracts and moves downward, creating the greatest increase in vertical thoracic dimension, making it the main muscle for quiet inspiration.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "Which muscle(s) are predominantly recruited during forced expiration?",
+      "options": [
+        "Internal intercostal muscles",
+        "External intercostal muscles",
+        "Diaphragm",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Forced expiration requires active reduction of thoracic volume; internal intercostals contract to pull ribs downward, and abdominal muscles also assist, while external intercostals and diaphragm relax.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "The pressure‑volume relationship of the lungs during a normal breath is best described by which type of curve?",
+      "options": [
+        "Linear increase of pressure with volume",
+        "Exponential increase",
+        "Sigmoidal curve",
+        "Inverse relationship"
+      ],
+      "answer": 2,
+      "explanation": "Lung compliance changes with volume, producing a sigmoidal (S‑shaped) pressure‑volume curve where compliance is low at very low and very high volumes and highest in the mid‑range.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "What is the correct change in intrapleural pressure during inspiration?",
+      "options": [
+        "Intrapleural pressure becomes more negative",
+        "Intrapleural pressure becomes less negative",
+        "Intrapleural pressure equals atmospheric pressure",
+        "Intrapleural pressure rises above atmospheric pressure"
+      ],
+      "answer": 0,
+      "explanation": "Expansion of the thoracic cavity pulls the pleural surface outward, making the intrapleural pressure more sub‑atmospheric (more negative) than at rest.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "The conducting zone of the respiratory system ends at which structure?",
+      "options": [
+        "Terminal bronchioles",
+        "Respiratory bronchioles",
+        "Alveolar ducts",
+        "Alveoli"
+      ],
+      "answer": 1,
+      "explanation": "The conducting zone includes all passages up to the respiratory bronchioles; beyond this point, the respiratory zone (site of gas exchange) begins.",
+      "topic": "Pulmonary ventilation"
+    },
+    {
+      "question": "In pulmonary ventilation, \"tidal volume\" refers to:",
+      "options": [
+        "Volume of air inhaled during a maximal effort",
+        "Volume of air remaining after maximal expiration",
+        "Volume of air moved in a normal breath",
+        "Volume of air in the dead space"
+      ],
+      "answer": 2,
+      "explanation": "Tidal volume is the amount of air that is inhaled or exhaled in a single, normal (quiet) breath, typically about 500 mL in an adult.",
+      "topic": "Pulmonary ventilation"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 27,
+    "mcqCount": 189
+  }
+}

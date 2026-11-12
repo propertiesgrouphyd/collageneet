@@ -1,0 +1,809 @@
+{
+  "day": 6,
+  "courseDate": "2026-09-04",
+  "publishAt": "2026-09-04T06:00:00+05:30",
+  "title": "Day 6 – Morphology of Flowering Plants",
+  "introduction": "This lesson covers the external morphology of flowering plants, focusing on roots, stems, leaves, inflorescences, flowers, fruits, seeds and three important families. Emphasis is on modifications, venation patterns, floral formulae and diagnostic features frequently asked in NEET.",
+  "sections": [
+    {
+      "topic": "Root",
+      "heading": "Root System and Modifications",
+      "content": "Roots anchor the plant, absorb water and minerals and store food. Two major root systems are taproot (single primary root with lateral branches) and fibrous (numerous thin adventitious roots). Modifications include storage roots (e.g., carrot), prop roots (e.g., mangrove), pneumatophores (air‑roots in water‑logged soils) and haustorial roots (parasitic). A typical root consists of epidermis, cortex, endodermis, pericycle and central vascular cylinder (xylem and phloem).",
+      "keyPoints": [
+        "Taproot vs fibrous systems; primary and lateral roots",
+        "Root modifications: storage, prop, pneumatophore, haustorial",
+        "Root anatomy: epidermis → cortex → endodermis → pericycle → stele"
+      ],
+      "neetTips": [
+        "Remember the functional significance of each modification for NEET diagram questions",
+        "Link root types to common plant examples given in NCERT"
+      ]
+    },
+    {
+      "topic": "Stem",
+      "heading": "Stem Types and Modifications",
+      "content": "Stems support leaves, transport fluids and store nutrients. Primary stems are herbaceous (soft) or woody (lignified). Modifications include cladodes (flattened stems acting as leaves, e.g., Asparagus), tubers (e.g., potato), rhizomes (horizontal underground stems, e.g., ginger), stolons (above‑ground runners, e.g., strawberry) and thorns (e.g., cactus). Internally, stems have epidermis, cortex, vascular bundles (arranged in a ring in dicots, scattered in monocots) and pith.",
+      "keyPoints": [
+        "Herbaceous vs woody stems",
+        "Modified stems: cladodes, tubers, rhizomes, stolons, thorns",
+        "Vascular bundle arrangement distinguishes monocots and dicots"
+      ],
+      "neetTips": [
+        "Visualise cross‑section diagrams from NCERT for bundle patterns"
+      ]
+    },
+    {
+      "topic": "Leaf",
+      "heading": "Leaf Structure, Venation and Modifications",
+      "content": "Leaves are the primary photosynthetic organs. A typical leaf has a blade (lamina), petiole and stipules. Venation patterns: parallel in monocots, reticulate (net) in dicots; dichotomous venation in some ferns. Modifications include spines (e.g., cactus), tendrils (e.g., pea), succulent leaves (e.g., aloe), and floating leaves (e.g., water lily).",
+      "keyPoints": [
+        "Blade, petiole, stipules are basic parts",
+        "Parallel vs reticulate venation; diagnostic for monocot/dicot",
+        "Leaf modifications serve protection, support, water storage"
+      ],
+      "neetTips": [
+        "Associate leaf venation with family examples in NCERT diagrams"
+      ]
+    },
+    {
+      "topic": "Inflorescence",
+      "heading": "Types of Inflorescence",
+      "content": "Inflorescence is the arrangement of flowers on a stem. Main types: raceme (axillary, e.g., mustard), spike (sessile flowers, e.g., plantain), panicle (branched raceme, e.g., rice), umbel (all pedicels arise from a common point, e.g., carrot), and capitulum (dense head, e.g., sunflower).",
+      "keyPoints": [
+        "Raceme, spike, panicle, umbel, capitulum are common types",
+        "Position of pedicels (sessile vs pedicellate) distinguishes them"
+      ],
+      "neetTips": [
+        "Recall NCERT figures for each type; NEET often asks to identify from a sketch"
+      ]
+    },
+    {
+      "topic": "Flower",
+      "heading": "Floral Parts, Aestivation and Placentation",
+      "content": "A typical flower consists of calyx (sepals), corolla (petals), androecium (stamens) and gynoecium (carpels). Aestivation describes the arrangement of sepals/petals in bud: valvate, imbricate, twisted, etc. Placentation refers to ovule attachment within the ovary: axile (multiple carpels, ovules on a central column), parietal (ovules on ovary wall), free central, basal. Floral formula encodes these features (e.g., *K₅ C₅ A₁₀₊₁ G(2)”).",
+      "keyPoints": [
+        "Four whorls: calyx, corolla, androecium, gynoecium",
+        "Aestivation types: valvate, imbricate, twisted, etc.",
+        "Placentation patterns: axile, parietal, free central, basal"
+      ],
+      "neetTips": [
+        "Practice writing floral formulae for common flowers; NCERT examples are essential"
+      ]
+    },
+    {
+      "topic": "Fruit",
+      "heading": "Fruit Types and Classification",
+      "content": "Fruits develop from the ovary after fertilisation. Categories: simple (fleshy – berry, drupe; dry – capsule, achene), aggregate (multiple ovaries of one flower, e.g., raspberry), and multiple (inflorescence-derived, e.g., pineapple). Important distinctions: dehiscent vs indehiscent, and seed‑bearing structures.",
+      "keyPoints": [
+        "Simple fruits: fleshy (berry, drupe) vs dry (capsule, achene)",
+        "Aggregate vs multiple fruits based on flower origin",
+        "Dehiscence indicates seed release mechanism"
+      ],
+      "neetTips": [
+        "Link fruit type to the corresponding plant family for quick recall"
+      ]
+    },
+    {
+      "topic": "Seed",
+      "heading": "Seed Structure and Components",
+      "content": "A seed comprises a seed coat (testa), embryo (radicle, plumule, cotyledons) and stored food (endosperm or cotyledonary). In monocots, the embryo typically has a single cotyledon and abundant endosperm; dicots have two cotyledons and reduced endosperm. Seed dormancy mechanisms include physical (hard coat) and physiological (hormonal).",
+      "keyPoints": [
+        "Seed coat protects; embryo contains radicle, plumule, cotyledons",
+        "Monocot vs dicot seed anatomy differences",
+        "Dormancy types are important for germination studies"
+      ],
+      "neetTips": [
+        "Remember NCERT diagrams of monocot and dicot seeds for NEET visual questions"
+      ]
+    },
+    {
+      "topic": "Families of flowering plants",
+      "heading": "Key Diagnostic Families – Fabaceae, Solanaceae, Liliaceae",
+      "content": "Fabaceae (legume family) shows papilionaceous flowers (standard, wings, keel), compound leaves and fruit as a pod (legume). Solanaceae (nightshade) exhibits actinomorphic flowers with fused corolla, five stamens, and berry or capsule fruits; leaves are alternate, often with stipules. Liliaceae (lily family) has monocot characteristics: parallel venation, flower parts in multiples of three, and often a superior ovary. NCERT provides representative species: *Pisum* (Fabaceae), *Solanum* (Solanaceae), *Lilium* (Liliaceae).",
+      "keyPoints": [
+        "Fabaceae: papilionaceous flower, pod fruit, compound leaves",
+        "Solanaceae: fused corolla, five stamens, berry/capsule",
+        "Liliaceae: monocot, trimerous flower, parallel venation"
+      ],
+      "neetTips": [
+        "Focus on floral formulae and fruit type for each family; NCERT examples are high‑yield"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and describe the external morphology and modifications of roots, stems, leaves, inflorescences, flowers, fruits and seeds in flowering plants.",
+    "Apply knowledge of floral parts, aestivation, placentation and family‑specific traits to solve NEET‑level identification and diagram questions."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following plants typically exhibits a taproot system?",
+      "options": [
+        "Carrot",
+        "Grass",
+        "Rice",
+        "Wheat"
+      ],
+      "answer": 0,
+      "explanation": "Carrot develops a prominent primary root that grows deep, characteristic of a taproot system, unlike the fibrous roots of grasses, rice, and wheat.",
+      "topic": "Root"
+    },
+    {
+      "question": "Which root modification primarily functions as a storage organ for carbohydrates?",
+      "options": [
+        "Sweet potato",
+        "Mangrove prop root",
+        "Coconut pneumatophore",
+        "Lotus rhizome"
+      ],
+      "answer": 0,
+      "explanation": "Sweet potato forms a swollen, fleshy root that stores starch, classifying it as a storage root.",
+      "topic": "Root"
+    },
+    {
+      "question": "Which root tissue is responsible for the selective uptake of minerals due to the presence of the Casparian strip?",
+      "options": [
+        "Epidermis",
+        "Cortex",
+        "Endodermis",
+        "Pericycle"
+      ],
+      "answer": 2,
+      "explanation": "The endodermis contains the Casparian strip, which forces solutes to pass through the plasma membrane, allowing selective mineral uptake.",
+      "topic": "Root"
+    },
+    {
+      "question": "Root hairs are best described as:",
+      "options": [
+        "Extensions of epidermal cells",
+        "Part of the vascular cylinder",
+        "Present only on mature zones",
+        "Involved in transport of water to xylem"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs are tubular outgrowths of epidermal cells that increase surface area for water and mineral absorption.",
+      "topic": "Root"
+    },
+    {
+      "question": "Which root modification provides aerial support to the plant?",
+      "options": [
+        "Prop root",
+        "Storage root",
+        "Adventitious root",
+        "Tuberous root"
+      ],
+      "answer": 0,
+      "explanation": "Prop roots grow from the stem or branches and anchor the plant, offering support above ground, as seen in mangroves.",
+      "topic": "Root"
+    },
+    {
+      "question": "Which of the following is NOT a type of root system?",
+      "options": [
+        "Taproot",
+        "Fibrous",
+        "Adventitious",
+        "Lateral"
+      ],
+      "answer": 3,
+      "explanation": "Taproot, fibrous, and adventitious are recognized root system types; 'lateral' refers to a branch of a root, not a system type.",
+      "topic": "Root"
+    },
+    {
+      "question": "In a dicot root, the pericycle is located just inside which tissue?",
+      "options": [
+        "Endodermis",
+        "Cortex",
+        "Epidermis",
+        "Vascular cylinder"
+      ],
+      "answer": 0,
+      "explanation": "The pericycle lies immediately interior to the endodermis and gives rise to lateral roots in dicotyledonous plants.",
+      "topic": "Root"
+    },
+    {
+      "question": "Which stem modification is a horizontal underground stem that gives rise to new shoots and roots at the nodes?",
+      "options": [
+        "Tuber",
+        "Rhizome",
+        "Stolon",
+        "Bulb"
+      ],
+      "answer": 1,
+      "explanation": "A rhizome is a horizontal underground stem that produces shoots and roots from its nodes, aiding vegetative propagation.",
+      "topic": "Stem"
+    },
+    {
+      "question": "In dicot stems, which tissue is primarily responsible for secondary thickening (increase in girth)?",
+      "options": [
+        "Vascular cambium",
+        "Cork cambium",
+        "Pith",
+        "Cortex"
+      ],
+      "answer": 0,
+      "explanation": "The vascular cambium generates secondary xylem (wood) inward and secondary phloem outward, leading to secondary growth in dicots.",
+      "topic": "Stem"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a herbaceous stem?",
+      "options": [
+        "Presence of lignified secondary xylem",
+        "Presence of pith",
+        "Flexible and green",
+        "Absence of secondary growth"
+      ],
+      "answer": 0,
+      "explanation": "Herbaceous stems lack lignified secondary xylem; they are typically non-woody, flexible, and do not undergo secondary growth.",
+      "topic": "Stem"
+    },
+    {
+      "question": "A swollen underground stem used for storage of nutrients is called?",
+      "options": [
+        "Tuber",
+        "Bulb",
+        "Corm",
+        "Rhizome"
+      ],
+      "answer": 0,
+      "explanation": "A tuber is a modified, enlarged underground stem that stores starch and other nutrients, e.g., potato.",
+      "topic": "Stem"
+    },
+    {
+      "question": "In monocot stems, vascular bundles are arranged:",
+      "options": [
+        "in a ring",
+        "scattered throughout ground tissue",
+        "in two concentric rings",
+        "in a single central column"
+      ],
+      "answer": 1,
+      "explanation": "Monocot stems have vascular bundles dispersed irregularly in the ground tissue, unlike the ring arrangement in dicots.",
+      "topic": "Stem"
+    },
+    {
+      "question": "Which stem modification is adapted for climbing by coiling around supports?",
+      "options": [
+        "Tendril",
+        "Thorns",
+        "Stolons",
+        "Bulbils"
+      ],
+      "answer": 0,
+      "explanation": "Tendrils are slender, coiling structures derived from stems (or leaves) that enable plants to climb by wrapping around supports.",
+      "topic": "Stem"
+    },
+    {
+      "question": "The region of a stem between two successive nodes is called:",
+      "options": [
+        "Internode",
+        "Node",
+        "Axil",
+        "Apical meristem"
+      ],
+      "answer": 0,
+      "explanation": "The internode is the stem segment between two nodes, where leaves and buds are attached at the nodes.",
+      "topic": "Stem"
+    },
+    {
+      "question": "In a typical dicot leaf, which tissue layer is most specialized for photosynthesis?",
+      "options": [
+        "Palisade mesophyll",
+        "Spongy mesophyll",
+        "Upper epidermis",
+        "Lower epidermis"
+      ],
+      "answer": 0,
+      "explanation": "The palisade mesophyll consists of tightly packed columnar cells rich in chloroplasts, making it the primary site of photosynthesis in dicot leaves.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "Dichotomous venation is characteristic of which group of plants?",
+      "options": [
+        "Monocot grasses",
+        "Ferns",
+        "Dicot maples",
+        "Liliaceae monocots"
+      ],
+      "answer": 1,
+      "explanation": "Ferns display dichotomous venation where each vein repeatedly forks into two, unlike the parallel venation of monocots or reticulate venation of most dicots.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "A leaf that has been transformed into a sharp spine is an example of which leaf modification?",
+      "options": [
+        "Storage leaf",
+        "Defensive leaf",
+        "Photosynthetic leaf",
+        "Tendril"
+      ],
+      "answer": 1,
+      "explanation": "Spines are hardened leaf structures that protect the plant from herbivory, representing a defensive modification of the leaf.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "Which statement best describes stomatal distribution in most xerophytic leaves?",
+      "options": [
+        "Stomata are present on both surfaces (amphistomatic)",
+        "Stomata are only on the upper surface (hypostomatic)",
+        "Stomata are predominantly on the lower surface (hypostomatic)",
+        "Stomata are completely absent"
+      ],
+      "answer": 2,
+      "explanation": "Xerophytic leaves usually have stomata confined to the lower surface (hypostomatic) and often sunken to reduce water loss.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "Parallel venation in leaves is identified by which pattern of vascular bundles?",
+      "options": [
+        "Radiating from a single point",
+        "Parallel lines running the length of the leaf",
+        "A net-like reticulate pattern",
+        "Dichotomous branching"
+      ],
+      "answer": 1,
+      "explanation": "Parallel venation, typical of monocots, shows vascular bundles running side‑by‑side from the leaf base to the tip without forming a network.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "Which internal leaf adaptation enables many aquatic plants to float on water?",
+      "options": [
+        "Aerenchyma tissue",
+        "Thick cuticular wax",
+        "Sunken stomata",
+        "Thick palisade layer"
+      ],
+      "answer": 0,
+      "explanation": "Aerenchyma consists of large air spaces that provide buoyancy, allowing aquatic leaves to float and facilitate gas exchange.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "The term \"heterophyllous\" refers to plants that:",
+      "options": [
+        "Produce leaves of different shapes on the same individual",
+        "Have leaves with different venation patterns",
+        "Exhibit leaves of varying colors",
+        "Develop leaves with varying thickness"
+      ],
+      "answer": 0,
+      "explanation": "Heterophyllous plants bear leaves of markedly different shapes (e.g., juvenile vs. adult leaves) on the same plant, a useful taxonomic feature.",
+      "topic": "Leaf"
+    },
+    {
+      "question": "Which of the following is a determinate inflorescence?",
+      "options": [
+        "Raceme",
+        "Spike",
+        "Corymb",
+        "Cyme"
+      ],
+      "answer": 3,
+      "explanation": "Cyme is determinate because the terminal flower blooms first, stopping further elongation of the axis.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "In a typical raceme, the oldest flowers are located at which position?",
+      "options": [
+        "Tip",
+        "Base",
+        "Middle",
+        "Both tip and base"
+      ],
+      "answer": 1,
+      "explanation": "Raceme is indeterminate; growth continues at the apex, so lower (base) flowers open first and are older.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "Which inflorescence type is characteristic of the family Apiaceae?",
+      "options": [
+        "Umbel",
+        "Spike",
+        "Panicle",
+        "Raceme"
+      ],
+      "answer": 0,
+      "explanation": "Members of Apiaceae (e.g., carrot, dill) bear compound umbels, a hallmark of the family.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "A corymb is best described as:",
+      "options": [
+        "An inflorescence with pedicels of unequal length giving a flat top",
+        "A dense spike with sessile flowers",
+        "A branched raceme with secondary racemes",
+        "A solitary flower"
+      ],
+      "answer": 0,
+      "explanation": "In a corymb, lower pedicels are longer than upper ones, producing a flat‑topped appearance.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "In a spike inflorescence, the flowers are:",
+      "options": [
+        "Sessile",
+        "Pedicellate",
+        "Arranged in whorls",
+        "Borne on a branched axis"
+      ],
+      "answer": 0,
+      "explanation": "A spike has flowers attached directly to the axis without pedicels, i.e., they are sessile.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "The term \"panicle\" refers to:",
+      "options": [
+        "A compound raceme with branched pedicels",
+        "A simple unbranched inflorescence",
+        "A determinate inflorescence",
+        "A flower cluster with opposite leaves"
+      ],
+      "answer": 0,
+      "explanation": "A panicle is a highly branched, indeterminate inflorescence, essentially a branched raceme.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "In a floral formula, the symbol \"∞\" denotes:",
+      "options": [
+        "An indeterminate inflorescence",
+        "A determinate inflorescence",
+        "A bisexual flower",
+        "A unisexual flower"
+      ],
+      "answer": 0,
+      "explanation": "The infinity symbol (∞) in a floral formula indicates an indeterminate (continuously growing) inflorescence.",
+      "topic": "Inflorescence"
+    },
+    {
+      "question": "Which floral whorl is composed of sepals?",
+      "options": [
+        "Calyx",
+        "Corolla",
+        "Androecium",
+        "Gynoecium"
+      ],
+      "answer": 0,
+      "explanation": "The outermost whorl of a flower consists of sepals and is collectively called the calyx.",
+      "topic": "Flower"
+    },
+    {
+      "question": "In which type of aestivation do the petals overlap each other like roof tiles?",
+      "options": [
+        "Imbricate",
+        "Valvate",
+        "Twisted",
+        "Quincuncial"
+      ],
+      "answer": 0,
+      "explanation": "Imbricate aestivation is characterized by overlapping of adjacent petals or sepals, similar to overlapping roof tiles.",
+      "topic": "Flower"
+    },
+    {
+      "question": "The ovary of a typical Fabaceae flower exhibits which type of placentation?",
+      "options": [
+        "Axile",
+        "Parietal",
+        "Basal",
+        "Free central"
+      ],
+      "answer": 0,
+      "explanation": "Legume (Fabaceae) flowers usually have a superior ovary with axile placentation, where ovules are attached to a central column.",
+      "topic": "Flower"
+    },
+    {
+      "question": "Choose the correct floral formula for a typical monocot flower with 3 sepals, 3 petals, 6 stamens, and a superior ovary composed of three fused carpels.",
+      "options": [
+        "K3 C3 A6 G(3)",
+        "K3 C3 A6 G3",
+        "K3 C3 A6 G(3)↓",
+        "K3 C3 A6 G(3)↑"
+      ],
+      "answer": 0,
+      "explanation": "The formula K3 C3 A6 G(3) denotes 3 sepals (K), 3 petals (C), 6 stamens (A), and a superior ovary with three fused carpels (G(3)).",
+      "topic": "Flower"
+    },
+    {
+      "question": "Which family is characterized by a superior ovary?",
+      "options": [
+        "Fabaceae",
+        "Solanaceae",
+        "Asteraceae",
+        "Orchidaceae"
+      ],
+      "answer": 0,
+      "explanation": "Members of Fabaceae (legumes) have a superior ovary, whereas Solanaceae typically have an inferior ovary.",
+      "topic": "Flower"
+    },
+    {
+      "question": "A flower whose corolla is formed by fused petals is described as:",
+      "options": [
+        "Gamopetalous",
+        "Polypetalous",
+        "Apopetalous",
+        "Synsepalous"
+      ],
+      "answer": 0,
+      "explanation": "When petals are united to form a tube or cup, the corolla is termed gamopetalous.",
+      "topic": "Flower"
+    },
+    {
+      "question": "A flower that is radially symmetrical is termed:",
+      "options": [
+        "Zygomorphic",
+        "Actinomorphic",
+        "Asymmetrical",
+        "Bilateral"
+      ],
+      "answer": 1,
+      "explanation": "Radial symmetry in flowers is called actinomorphic, meaning the flower can be divided into similar halves along multiple planes.",
+      "topic": "Flower"
+    },
+    {
+      "question": "Which of the following statements correctly describes a drupe?",
+      "options": [
+        "It is a dry dehiscent fruit.",
+        "It has a fleshy pericarp with a hard endocarp surrounding the seed.",
+        "It develops from an inferior ovary.",
+        "It is formed from an aggregate of multiple ovaries."
+      ],
+      "answer": 1,
+      "explanation": "A drupe (e.g., peach, cherry) possesses a fleshy outer pericarp and a hard, stony endocarp that encloses the seed, distinguishing it from dry or aggregate fruits.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "In the Fabaceae family, the typical fruit is best described as:",
+      "options": [
+        "A fleshy berry containing many seeds",
+        "A dry, indehiscent fruit that splits along two sutures",
+        "A dry, dehiscent fruit that splits along two sutures",
+        "A dry, dehiscent fruit that opens by pores"
+      ],
+      "answer": 2,
+      "explanation": "Legume fruits are dry and dehiscent; they split open along both sutures (valves) to release the seeds, as seen in peas and beans.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "Which fruit is an example of an accessory fruit?",
+      "options": [
+        "Apple",
+        "Peach",
+        "Grape",
+        "Walnut"
+      ],
+      "answer": 0,
+      "explanation": "In apples, the edible part is derived largely from the floral receptacle (accessory tissue) while the true fruit (the core) is a small pome, making it an accessory fruit.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "A capsule, a type of dry fruit, typically:",
+      "options": [
+        "Opens by a single longitudinal slit",
+        "Opens by pores or valves",
+        "Remains indehiscent",
+        "Is derived from a single carpel with a fleshy pericarp"
+      ],
+      "answer": 1,
+      "explanation": "Capsules (e.g., poppy, cotton) are dehiscent dry fruits that release seeds by splitting into valves or by forming pores.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "The term \"schizocarp\" refers to:",
+      "options": [
+        "A fruit that splits into two halves (bivalve)",
+        "A fruit that splits into multiple indehiscent one‑seeded segments",
+        "A fleshy fruit with many seeds embedded in pulp",
+        "A dry fruit that opens by a single pore"
+      ],
+      "answer": 1,
+      "explanation": "Schizocarps (e.g., maple samara, Geranium fruit) break apart at maturity into several one‑seeded mericarps that do not open further.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "In a berry, the pericarp is:",
+      "options": [
+        "Differentiated into distinct exocarp, mesocarp, and endocarp",
+        "Entirely fleshy without distinct layers",
+        "Hard and woody",
+        "Reduced to a thin papery layer"
+      ],
+      "answer": 1,
+      "explanation": "Berries (e.g., tomato, grape) have a pericarp that is uniformly fleshy; the three layers are not distinctly differentiated.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "Which of the following fruits develops from an inferior ovary?",
+      "options": [
+        "Tomato",
+        "Pea pod",
+        "Sunflower achene",
+        "Wheat caryopsis"
+      ],
+      "answer": 0,
+      "explanation": "Tomato flowers possess an inferior ovary; the ovary is positioned below the attachment of other floral parts, resulting in an inferiorly derived fruit.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "In fruit biology, \"dehiscence\" refers to:",
+      "options": [
+        "The process of fruit becoming fleshy",
+        "The opening of a mature fruit to release seeds",
+        "The formation of a hard endocarp",
+        "The fusion of multiple carpels"
+      ],
+      "answer": 1,
+      "explanation": "Dehiscence is the splitting open of a mature fruit (or anther) to allow seed dispersal; it is characteristic of many dry fruits such as legumes and capsules.",
+      "topic": "Fruit"
+    },
+    {
+      "question": "Which of the following correctly lists the major components of a typical dicot seed?",
+      "options": [
+        "Seed coat, endosperm, cotyledon, embryo axis",
+        "Seed coat, perisperm, cotyledon, radicle",
+        "Seed coat, endosperm, plumule, hypocotyl",
+        "Seed coat, perisperm, cotyledon, embryo axis"
+      ],
+      "answer": 0,
+      "explanation": "A dicot seed generally consists of a protective seed coat, a thin layer of endosperm (often absent), one or two cotyledons, and the embryo axis (radicle and plumule).",
+      "topic": "Seed"
+    },
+    {
+      "question": "In most monocot seeds, the tissue that stores food for the developing embryo is the:",
+      "options": [
+        "Cotyledon",
+        "Endosperm",
+        "Perisperm",
+        "Seed coat"
+      ],
+      "answer": 1,
+      "explanation": "Monocot seeds such as wheat and rice retain a large endosperm that provides starch and proteins to the embryo during germination.",
+      "topic": "Seed"
+    },
+    {
+      "question": "The term \"orthodox seed\" refers to seeds that:",
+      "options": [
+        "Cannot survive drying",
+        "Can be stored at low moisture and sub‑zero temperatures",
+        "Require immediate germination after shedding",
+        "Lack any form of dormancy"
+      ],
+      "answer": 1,
+      "explanation": "Orthodox seeds tolerate desiccation and can be stored for long periods under low moisture and low temperature conditions, unlike recalcitrant seeds.",
+      "topic": "Seed"
+    },
+    {
+      "question": "Which of the following is NOT a recognized type of seed dormancy?",
+      "options": [
+        "Physical dormancy due to a hard seed coat",
+        "Physiological dormancy caused by hormonal imbalance",
+        "Morphological dormancy due to an under‑developed embryo",
+        "Photosynthetic dormancy"
+      ],
+      "answer": 3,
+      "explanation": "Physical, physiological and morphological dormancies are well‑documented; \"photosynthetic dormancy\" does not exist as a seed dormancy mechanism.",
+      "topic": "Seed"
+    },
+    {
+      "question": "In the seed of a typical legume (e.g., pea), the main storage tissue is:",
+      "options": [
+        "Cotyledon",
+        "Endosperm",
+        "Perisperm",
+        "Seed coat"
+      ],
+      "answer": 0,
+      "explanation": "Legume seeds are exalbuminous; the cotyledons are enlarged and store most of the food reserves, while the endosperm is usually absent.",
+      "topic": "Seed"
+    },
+    {
+      "question": "The uptake of water that initiates the metabolic processes of germination is called:",
+      "options": [
+        "Imbibition",
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "answer": 0,
+      "explanation": "Imbibition is the rapid absorption of water by dry seed tissues, leading to swelling and activation of enzymatic processes required for germination.",
+      "topic": "Seed"
+    },
+    {
+      "question": "In a seed, the part that will develop into the primary root is the:",
+      "options": [
+        "Plumule",
+        "Radicle",
+        "Hypocotyl",
+        "Cotyledon"
+      ],
+      "answer": 1,
+      "explanation": "The radicle is the embryonic root; it emerges first during germination and gives rise to the primary root system.",
+      "topic": "Seed"
+    },
+    {
+      "question": "Which family is characterized by a papilionaceous (butterfly‑shaped) corolla and fruit that is a legume?",
+      "options": [
+        "Fabaceae",
+        "Solanaceae",
+        "Liliaceae",
+        "Asteraceae"
+      ],
+      "answer": 0,
+      "explanation": "Fabaceae (legume family) bears a distinctive papilionaceous corolla and its fruit is a legume (pod).",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "The family Solanaceae typically produces which type of fruit?",
+      "options": [
+        "Capsule",
+        "Berry",
+        "Samara",
+        "Drupe"
+      ],
+      "answer": 1,
+      "explanation": "Most Solanaceae members, such as tomato and pepper, develop fleshy berries as their mature fruit.",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "Members of Liliaceae are monocots with which typical floral formula?",
+      "options": [
+        "K5 C3 A6 G(3)",
+        "K4 C4 A4 G(2)",
+        "K3 C3 A6 G(3)",
+        "K5 C5 A5 G(5)"
+      ],
+      "answer": 2,
+      "explanation": "Liliaceae flowers usually have 3 sepals (K3), 3 petals (C3), 6 stamens (A6) and a superior ovary with 3 fused carpels (G3).",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "Which family includes economically important crops such as pea, bean and lentil?",
+      "options": [
+        "Solanaceae",
+        "Fabaceae",
+        "Liliaceae",
+        "Rutaceae"
+      ],
+      "answer": 1,
+      "explanation": "Pea, bean, lentil and many other pulse crops belong to the Fabaceae family.",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "A plant with alternate, compound leaves and stipules is most likely a member of which family?",
+      "options": [
+        "Liliaceae",
+        "Solanaceae",
+        "Fabaceae",
+        "Asteraceae"
+      ],
+      "answer": 2,
+      "explanation": "Stipules and compound leaves are characteristic features of many Fabaceae species.",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "The presence of alkaloids such as nicotine and solanine is characteristic of which family?",
+      "options": [
+        "Fabaceae",
+        "Solanaceae",
+        "Liliaceae",
+        "Poaceae"
+      ],
+      "answer": 1,
+      "explanation": "Nicotine (in tobacco) and solanine (in potato) are typical alkaloids found in Solanaceae plants.",
+      "topic": "Families of flowering plants"
+    },
+    {
+      "question": "Which family is known for flowers with six tepals arranged in two whorls and fruits usually in the form of a capsule?",
+      "options": [
+        "Asteraceae",
+        "Liliaceae",
+        "Fabaceae",
+        "Solanaceae"
+      ],
+      "answer": 1,
+      "explanation": "Liliaceae flowers have six tepals (often indistinguishable sepals and petals) in two whorls and commonly produce capsule fruits.",
+      "topic": "Families of flowering plants"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 8,
+    "mcqCount": 57
+  }
+}

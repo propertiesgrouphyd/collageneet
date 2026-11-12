@@ -1,0 +1,1988 @@
+{
+  "day": 34,
+  "courseDate": "2026-10-02",
+  "publishAt": "2026-10-02T06:00:00+05:30",
+  "title": "Cockroach – Circulatory, Respiratory, Excretory and Nervous Systems",
+  "introduction": "This lesson explores the structural organisation of the cockroach, focusing on its open circulatory system, tracheal respiration, Malpighian excretory apparatus, ventral nerve cord and reproductive adaptations including the ootheca. Each component is described from basic anatomy to NEET‑relevant functional details.",
+  "sections": [
+    {
+      "topic": "Cockroach circulatory system",
+      "heading": "Cockroach Circulatory System Overview",
+      "content": "Cockroaches possess an open circulatory system where the haemolymph bathes internal organs directly in a haemocoel. The heart, a tubular dorsal vessel, pumps haemolymph anteriorly, while ostia allow ingress of fluid from the body cavity. This arrangement provides nutrient transport, waste removal and hydrostatic support but lacks high pressure arterial flow.",
+      "keyPoints": [
+        "Open system: haemolymph not confined to vessels",
+        "Heart is a dorsal tube with paired ostia",
+        "Low‑pressure circulation suitable for small arthropods"
+      ],
+      "neetTips": [
+        "Remember the term ‘open circulation’ when linking to haemolymph function"
+      ]
+    },
+    {
+      "topic": "Open circulatory system",
+      "heading": "Open Circulatory System in Cockroaches",
+      "content": "In an open system, the circulatory fluid (haemolymph) leaves the heart through sinuses and directly surrounds tissues. Exchange of gases, nutrients and metabolites occurs across cell membranes rather than within capillaries. The system is efficient for diffusion over short distances typical of insects.",
+      "keyPoints": [
+        "Haemolymph circulates freely in haemocoel",
+        "No true capillaries; diffusion across tissue surfaces",
+        "Supports rapid immune responses"
+      ],
+      "neetTips": [
+        "Contrast with closed circulation of vertebrates for NEET comparative questions"
+      ]
+    },
+    {
+      "topic": "Haemolymph",
+      "heading": "Composition and Functions of Haemolymph",
+      "content": "Haemolymph is a plasma‑like fluid containing water, ions, sugars, lipids, proteins (including hemocyanin in some insects) and immune cells (hemocytes). It transports nutrients, hormones, and waste, and participates in osmoregulation and immune defence.",
+      "keyPoints": [
+        "Mainly water with dissolved nutrients and ions",
+        "Contains hemocytes for cellular immunity",
+        "Functions as transport medium and hydrostatic skeleton"
+      ],
+      "neetTips": [
+        "Link haemolymph’s role in nitrogen balance to excretory system"
+      ]
+    },
+    {
+      "topic": "Heart and dorsal vessel",
+      "heading": "Heart (Dorsal Vessel) Structure and Function",
+      "content": "The cockroach heart is a muscular tube located dorsally, extending from the posterior abdomen to the anterior thorax. It consists of chambers separated by septa and possesses paired ostia that open during diastole to admit haemolymph. Contractions are peristaltic, propelling fluid forward.",
+      "keyPoints": [
+        "Tubular heart with anterior opening",
+        "Peristaltic contractions move haemolymph forward",
+        "Ostia act as inlet valves"
+      ],
+      "neetTips": [
+        "Visualise the heart as a ‘pump’ with multiple entry points"
+      ]
+    },
+    {
+      "topic": "Respiratory system",
+      "heading": "Cockroach Respiratory System Overview",
+      "content": "Cockroaches respire through a network of external spiracles connected to internal tracheae and fine tracheoles. This tracheal system delivers atmospheric oxygen directly to tissues and removes CO₂, eliminating the need for a circulatory respiratory carrier.",
+      "keyPoints": [
+        "Air enters via spiracles",
+        "Tracheae branch into tracheoles",
+        "Direct gas exchange at cellular level"
+      ],
+      "neetTips": [
+        "Emphasise the absence of respiratory pigments"
+      ]
+    },
+    {
+      "topic": "Spiracles",
+      "heading": "Spiracles – External Respiratory Openings",
+      "content": "Spiracles are paired, valve‑like openings on each thoracic and abdominal segment. They can open or close to regulate gas exchange and minimize water loss. Each spiracle connects to a primary trachea.",
+      "keyPoints": [
+        "Located on thorax and abdomen",
+        "Valves prevent desiccation",
+        "Lead to primary tracheae"
+      ],
+      "neetTips": [
+        "Remember spiracle regulation during drought conditions"
+      ]
+    },
+    {
+      "topic": "Tracheae",
+      "heading": "Primary Tracheae Structure and Function",
+      "content": "Tracheae are rigid, chitin‑reinforced tubes that branch from spiracles. Their walls contain taenidia (spiral thickenings) that prevent collapse while allowing flexibility. Tracheae transport air to larger body regions.",
+      "keyPoints": [
+        "Chitinous tubes with taenidia",
+        "Connect spiracles to finer branches",
+        "Provide structural support"
+      ],
+      "neetTips": [
+        "Taenidia = spiral ribs; useful for diagram labeling"
+      ]
+    },
+    {
+      "topic": "Tracheoles",
+      "heading": "Tracheoles – Fine Gas‑Exchange Units",
+      "content": "Tracheoles are the terminal, highly branched extensions of tracheae, with diameters comparable to a cell. Their walls are thin, allowing diffusion of O₂ and CO₂ directly across cell membranes. They closely associate with mitochondria‑rich tissues.",
+      "keyPoints": [
+        "Diameter ~ cell size",
+        "Thin walls for diffusion",
+        "Terminate near mitochondria"
+      ],
+      "neetTips": [
+        "Link tracheoles to high metabolic tissues like flight muscles"
+      ]
+    },
+    {
+      "topic": "Mechanism of respiration",
+      "heading": "Mechanism of Gas Exchange in Cockroaches",
+      "content": "Air enters through open spiracles, moves down tracheae by diffusion and occasional muscular contractions (ventilatory movements). Oxygen diffuses across tracheole walls into hemolymph‑adjacent cells, while CO₂ follows the reverse gradient. No blood‑borne transport of gases occurs.",
+      "keyPoints": [
+        "Diffusion primary mechanism",
+        "Muscular ventilation augments flow",
+        "Direct delivery to cells"
+      ],
+      "neetTips": [
+        "Contrast with vertebrate alveolar ventilation"
+      ]
+    },
+    {
+      "topic": "Excretory system",
+      "heading": "Excretory System Overview",
+      "content": "Cockroaches eliminate nitrogenous waste and maintain water balance via Malpighian tubules, which secrete primary urine into the hindgut. Reabsorption of water and ions occurs in the ileum, producing concentrated feces.",
+      "keyPoints": [
+        "Primary urine formed in Malpighian tubules",
+        "Hindgut reabsorbs water and ions",
+        "Final waste expelled as feces"
+      ],
+      "neetTips": [
+        "Focus on the role of tubules in nitrogen excretion"
+      ]
+    },
+    {
+      "topic": "Malpighian tubules",
+      "heading": "Structure and Function of Malpighian Tubules",
+      "content": "These are blind‑ending epithelial tubes arising from the junction of the midgut and hindgut. Active transport of K⁺ and uric acid into the lumen creates an osmotic gradient that draws water, forming a dilute urine. They are analogous to vertebrate kidneys.",
+      "keyPoints": [
+        "Blind‑ending tubes from midgut‑hindgut junction",
+        "Active K⁺ and uric acid transport",
+        "Generate osmotic gradient for urine"
+      ],
+      "neetTips": [
+        "Remember uric acid is the main nitrogenous waste"
+      ]
+    },
+    {
+      "topic": "Water and nitrogen balance",
+      "heading": "Regulation of Water and Nitrogen in Cockroaches",
+      "content": "Cockroaches conserve water by reabsorbing most of the filtrate in the hindgut and excreting nitrogen mainly as insoluble uric acid, which requires minimal water. This adaptation suits their terrestrial habitat.",
+      "keyPoints": [
+        "Uric acid excretion conserves water",
+        "Hindgut reabsorption maximises water retention",
+        "Nitrogen balance achieved via uricotelism"
+      ],
+      "neetTips": [
+        "Link uric acid precipitation to desert survival"
+      ]
+    },
+    {
+      "topic": "Nervous system",
+      "heading": "Cockroach Nervous System Overview",
+      "content": "The nervous system consists of a brain (supra‑esophageal ganglion), a ventral nerve cord with segmental ganglia, and peripheral nerves. Sensory input is processed centrally, and motor output is coordinated via the ganglia.",
+      "keyPoints": [
+        "Brain located above esophagus",
+        "Ventral nerve cord with paired ganglia",
+        "Peripheral nerves innervate muscles and sense organs"
+      ],
+      "neetTips": [
+        "Remember the term ‘ventral nerve cord’ for NEET"
+      ]
+    },
+    {
+      "topic": "Brain and ganglia",
+      "heading": "Brain (Supra‑esophageal Ganglion) and Segmental Ganglia",
+      "content": "The brain comprises fused protocerebrum, deutocerebrum and tritocerebrum, integrating sensory information from antennae, eyes and palps. Each body segment contains a ganglion that controls local musculature and reflexes.",
+      "keyPoints": [
+        "Three fused cerebral regions",
+        "Processes antennal and visual inputs",
+        "Segmental ganglia handle local reflexes"
+      ],
+      "neetTips": [
+        "Associate brain regions with specific sensory modalities"
+      ]
+    },
+    {
+      "topic": "Ventral nerve cord",
+      "heading": "Structure of the Ventral Nerve Cord",
+      "content": "The ventral nerve cord runs longitudinally along the belly, composed of a chain of ganglia linked by connectives. It transmits motor commands to appendages and conveys sensory signals to the brain.",
+      "keyPoints": [
+        "Runs along ventral midline",
+        "Series of ganglia connected by longitudinal tracts",
+        "Coordinates locomotion"
+      ],
+      "neetTips": [
+        "Visualise it as a ‘ladder’ with rungs (ganglia)"
+      ]
+    },
+    {
+      "topic": "Sense organs",
+      "heading": "Sensory Organs of the Cockroach",
+      "content": "Key sense organs include compound eyes (vision), antennae (chemoreception and mechanoreception), cerci (air current detection), and tactile hairs. These organs feed information to the brain and ganglia for rapid behavioural responses.",
+      "keyPoints": [
+        "Compound eyes for motion detection",
+        "Antennae detect chemicals and touch",
+        "Cerci sense airflow"
+      ],
+      "neetTips": [
+        "Highlight the role of cerci in escape responses"
+      ]
+    },
+    {
+      "topic": "Reproductive system overview",
+      "heading": "Overview of Cockroach Reproductive System",
+      "content": "Cockroaches are oviparous with internal fertilisation. Males possess paired testes, vas deferens and accessory glands; females have paired ovaries, oviducts, and a specialised uterus where oothecae are formed and deposited.",
+      "keyPoints": [
+        "Internal fertilisation",
+        "Males: testes, vas deferens, accessory glands",
+        "Females: ovaries, oviducts, uterus for ootheca"
+      ],
+      "neetTips": [
+        "Remember ‘ootheca’ = egg case"
+      ]
+    },
+    {
+      "topic": "Male reproductive system",
+      "heading": "Male Reproductive Anatomy",
+      "content": "Each testis produces sperm that travel through the vas deferens to the seminal vesicles. Accessory glands add nutritive secretions, forming spermatophore. The ejaculatory duct opens at the genital opening on the ventral abdomen.",
+      "keyPoints": [
+        "Paired testes produce sperm",
+        "Vas deferens transports sperm",
+        "Accessory glands contribute seminal fluid"
+      ],
+      "neetTips": [
+        "Link accessory gland secretions to sperm viability"
+      ]
+    },
+    {
+      "topic": "Female reproductive system",
+      "heading": "Female Reproductive Anatomy",
+      "content": "Females have paired ovaries releasing oocytes into the oviducts. The oviducts converge into a common uterus where the ootheca (egg case) is assembled, surrounded by a proteinaceous matrix before being deposited externally.",
+      "keyPoints": [
+        "Paired ovaries release oocytes",
+        "Oviducts join to form uterus",
+        "Uterus secretes ootheca matrix"
+      ],
+      "neetTips": [
+        "Emphasise internal fertilisation before ootheca formation"
+      ]
+    },
+    {
+      "topic": "Ootheca",
+      "heading": "Ootheca Formation and Significance",
+      "content": "The ootheca is a protective capsule containing 10‑30 eggs. It is formed in the uterus, coated with a hardening protein layer, and deposited in a safe environment. The capsule provides desiccation resistance and predator protection.",
+      "keyPoints": [
+        "Contains 10‑30 eggs",
+        "Proteinaceous hardening layer",
+        "Protects against desiccation and predation"
+      ],
+      "neetTips": [
+        "Recall ootheca as a key adaptation for terrestrial reproduction"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the open circulatory system and role of haemolymph in cockroaches",
+    "Explain the tracheal respiratory mechanism including spiracles, tracheae and tracheoles",
+    "Summarise the function of Malpighian tubules in water and nitrogen balance",
+    "Outline the organization of the ventral nerve cord and its associated ganglia",
+    "Identify the structure and reproductive significance of the ootheca"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following best describes the circulatory system of a cockroach?",
+      "options": [
+        "Closed system with blood confined to vessels",
+        "Open system where haemolymph bathes organs directly",
+        "Lymphatic system only",
+        "No circulatory fluid"
+      ],
+      "answer": 1,
+      "explanation": "Insects, including cockroaches, possess an open circulatory system in which the haemolymph is released into the body cavity (hemocoel) and directly bathes the internal organs.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "The dorsal vessel of a cockroach functions as:",
+      "options": [
+        "Venous sinus",
+        "Muscular heart pumping haemolymph anteriorly",
+        "Lymphatic pump moving fluid posteriorly",
+        "Respiratory organ"
+      ],
+      "answer": 1,
+      "explanation": "The dorsal vessel is a contractile tube that acts as the heart, propelling haemolymph forward (from posterior to anterior) through rhythmic contractions.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "In the cockroach dorsal vessel, the ostia are:",
+      "options": [
+        "Posterior openings allowing haemolymph entry",
+        "Anterior valves preventing backflow",
+        "Lateral pores for gas exchange",
+        "Sensory structures"
+      ],
+      "answer": 0,
+      "explanation": "Ostia are small inlet openings located on the posterior side of the dorsal vessel; they permit haemolymph from the hemocoel to enter the vessel during diastole.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "Which component is NOT present in cockroach haemolymph?",
+      "options": [
+        "Hemocyanin",
+        "Plasma proteins",
+        "Red blood cells",
+        "Nutrients"
+      ],
+      "answer": 2,
+      "explanation": "Insect haemolymph lacks red blood cells; oxygen transport is carried out by tracheae, and the fluid contains plasma, hemocyanin (in some species), and dissolved nutrients.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "The primary function of the cockroach's open circulatory system is:",
+      "options": [
+        "Transport of oxygen to tissues",
+        "Distribution of nutrients, hormones, and waste removal",
+        "Generation of body heat",
+        "Production of gametes"
+      ],
+      "answer": 1,
+      "explanation": "Because insects rely on tracheae for oxygen, the open circulatory system mainly distributes nutrients, hormones, and removes metabolic wastes.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "The direction of haemolymph flow in the cockroach dorsal vessel is:",
+      "options": [
+        "From posterior to anterior",
+        "From anterior to posterior",
+        "Bidirectional",
+        "No net flow"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal vessel contracts rhythmically, pushing haemolymph forward from the posterior abdomen toward the head (anterior direction).",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "Which statement correctly compares cockroach haemolymph with vertebrate blood?",
+      "options": [
+        "Both contain hemoglobin as oxygen carrier",
+        "Cockroach haemolymph is confined within vessels",
+        "Cockroach haemolymph lacks red blood cells and circulates in an open cavity",
+        "Both have similar osmotic pressure"
+      ],
+      "answer": 2,
+      "explanation": "Cockroach haemolymph does not contain red blood cells and circulates freely in the hemocoel, unlike vertebrate blood which is confined to a closed vascular network and contains red blood cells with hemoglobin.",
+      "topic": "Cockroach circulatory system"
+    },
+    {
+      "question": "Which statement correctly describes the open circulatory system of a cockroach?",
+      "options": [
+        "Blood is confined within a network of vessels and capillaries.",
+        "Haemolymph is pumped into a body cavity where it directly bathes tissues.",
+        "The heart consists of multiple chambers with valves separating them.",
+        "Oxygen is transported bound to hemoglobin in the haemolymph."
+      ],
+      "answer": 1,
+      "explanation": "In insects the circulatory system is open; the heart (dorsal vessel) pumps haemolymph into the hemocoel, a cavity that surrounds the organs, allowing direct bathing.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "In the cockroach, the dorsal vessel primarily functions as:",
+      "options": [
+        "A muscular pump that propels haemolymph anteriorly.",
+        "A valve that prevents backflow of haemolymph into the gut.",
+        "A respiratory organ for gas exchange.",
+        "A storage organ for nutrients."
+      ],
+      "answer": 0,
+      "explanation": "The dorsal vessel is a contractile tube (heart) that rhythmically contracts to push haemolymph forward through the hemocoel.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "The openings through which haemolymph re‑enters the dorsal vessel are called:",
+      "options": [
+        "Ostia",
+        "Tracheae",
+        "Spiracles",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "Ostia are slit‑like openings in the dorsal vessel that allow haemolymph to flow back into the heart during each contraction cycle.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "Which component is NOT typically found in insect haemolymph?",
+      "options": [
+        "Hemoglobin",
+        "Nutrients",
+        "Immune cells (hemocytes)",
+        "Waste metabolites"
+      ],
+      "answer": 0,
+      "explanation": "Insects generally lack hemoglobin; oxygen diffuses directly from tracheae into tissues, so haemolymph does not contain hemoglobin.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "Compared with a closed circulatory system, the open system of a cockroach results in:",
+      "options": [
+        "Higher hydrostatic pressure in the vessels",
+        "Slower circulation but efficient nutrient distribution",
+        "Presence of capillaries for exchange",
+        "Separation of blood and interstitial fluid"
+      ],
+      "answer": 1,
+      "explanation": "Open circulation has lower pressure and slower flow, but the haemolymph bathing the tissues allows efficient distribution of nutrients and removal of wastes without capillaries.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "The primary function of haemolymph in an open circulatory system is to:",
+      "options": [
+        "Transport oxygen bound to hemoglobin",
+        "Provide a medium for nutrient, hormone, waste transport and immune defense",
+        "Generate ATP for muscle contraction",
+        "Regulate body temperature through convection"
+      ],
+      "answer": 1,
+      "explanation": "Haemolymph serves as a transport medium for nutrients, hormones, metabolic wastes, and contains hemocytes for immune functions; oxygen transport is handled by the tracheal system.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "In the open circulatory system of a cockroach, the term \"hemocoel\" refers to:",
+      "options": [
+        "The dorsal vessel itself",
+        "The cavity that contains haemolymph bathing the organs",
+        "The network of tracheae",
+        "The excretory tubules"
+      ],
+      "answer": 1,
+      "explanation": "The hemocoel is the primary body cavity filled with haemolymph, surrounding internal organs and allowing direct exchange with tissues.",
+      "topic": "Open circulatory system"
+    },
+    {
+      "question": "What is the primary physiological role of haemolymph in a cockroach?",
+      "options": [
+        "Gas exchange",
+        "Transport of nutrients, hormones, and waste products, and participation in immune defense",
+        "Structural support",
+        "Storage of calcium"
+      ],
+      "answer": 1,
+      "explanation": "Haemolymph mainly carries nutrients, hormones, metabolic wastes and contains hemocytes for immune functions; it is not primarily involved in gas exchange.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "Which cellular component of cockroach haemolymph is chiefly responsible for clot formation after injury?",
+      "options": [
+        "Hemocytes",
+        "Plasma proteins",
+        "Lipoproteins",
+        "Uric acid"
+      ],
+      "answer": 0,
+      "explanation": "Granular hemocytes release clotting factors that aggregate to form a haemolymph clot, analogous to platelets in vertebrates.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "In the open circulatory system of a cockroach, haemolymph directly bathes which of the following?",
+      "options": [
+        "Only within the dorsal vessel",
+        "Interstitium (tissues surrounding organs)",
+        "Only the heart chambers",
+        "Only the tracheal system"
+      ],
+      "answer": 1,
+      "explanation": "Because the system is open, haemolymph flows into the hemocoel and surrounds internal organs, bathing the interstitial tissues.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "Compared with vertebrate blood, cockroach haemolymph lacks which of the following components?",
+      "options": [
+        "Erythrocytes (red blood cells)",
+        "Plasma",
+        "Hemocytes",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Insects do not have red blood cells or hemoglobin; their haemolymph contains plasma and hemocytes but no erythrocytes.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "The dorsal vessel of a cockroach pumps haemolymph in which direction?",
+      "options": [
+        "From head towards abdomen (anterior to posterior)",
+        "From abdomen towards head (posterior to anterior)",
+        "Alternates direction periodically",
+        "Only circulates locally around each organ"
+      ],
+      "answer": 1,
+      "explanation": "The dorsal vessel contracts posteriorly and pushes haemolymph forward toward the head, ensuring circulation throughout the body.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "Which of the following substances is NOT normally dissolved in cockroach haemolymph?",
+      "options": [
+        "Glucose",
+        "Uric acid",
+        "Cholesterol",
+        "Hemoglobin"
+      ],
+      "answer": 3,
+      "explanation": "Insects lack hemoglobin; their haemolymph contains sugars, uric acid (nitrogen waste) and lipids like cholesterol, but no hemoglobin.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "The osmotic pressure of cockroach haemolymph is primarily regulated by which ions?",
+      "options": [
+        "Sodium (Na+) and Chloride (Cl-)",
+        "Potassium (K+) and Calcium (Ca2+)",
+        "Magnesium (Mg2+) and Phosphate (PO4^3-)",
+        "Bicarbonate (HCO3-) and Carbon dioxide (CO2)"
+      ],
+      "answer": 0,
+      "explanation": "Na+ and Cl- are the dominant extracellular ions in insect haemolymph and maintain its osmotic balance.",
+      "topic": "Haemolymph"
+    },
+    {
+      "question": "Which structure functions as the main pumping organ in the cockroach circulatory system?",
+      "options": [
+        "Dorsal vessel (heart)",
+        "Ventral nerve cord",
+        "Malpighian tubules",
+        "Tracheal system"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal vessel, whose anterior part is called the heart, contracts rhythmically to pump haemolymph throughout the open circulatory system of the cockroach.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "In which direction does haemolymph flow within the cockroach dorsal vessel?",
+      "options": [
+        "From posterior to anterior",
+        "From anterior to posterior",
+        "Bidirectional flow",
+        "No specific direction"
+      ],
+      "answer": 0,
+      "explanation": "Haemolymph enters the dorsal vessel through ostia along the body and is propelled forward, moving from the posterior end toward the anterior end (head).",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "Where are the ostia of the cockroach heart located?",
+      "options": [
+        "On the dorsal side of each heart segment",
+        "On the ventral side of each heart segment",
+        "Only at the posterior end of the heart",
+        "Only at the anterior end of the heart"
+      ],
+      "answer": 0,
+      "explanation": "Each segment of the tubular heart possesses dorsal openings called ostia that allow haemolymph from the hemocoel to enter the heart lumen.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "Which neurohormone primarily increases the contraction rate of the cockroach heart?",
+      "options": [
+        "Proctolin",
+        "Octopamine",
+        "Serotonin",
+        "Acetylcholine"
+      ],
+      "answer": 1,
+      "explanation": "Octopamine, an insect analogue of norepinephrine, acts as a cardioacceleratory neurohormone, raising the heart rate during activity or stress.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "The pericardial sinus in the cockroach circulatory system is situated:",
+      "options": [
+        "Around the heart",
+        "Ventral to the heart",
+        "Forming the lumen of the dorsal vessel",
+        "Within the tracheal system"
+      ],
+      "answer": 0,
+      "explanation": "The pericardial sinus is a cavity that surrounds the heart, collecting haemolymph that has passed through the heart before it re‑enters the hemocoel.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "The cockroach heart is divided into how many muscular chambers?",
+      "options": [
+        "7-10",
+        "2",
+        "12-15",
+        "20-25"
+      ],
+      "answer": 0,
+      "explanation": "NCERT describes the insect heart as a series of 7 to 10 contractile chambers (segments) that work sequentially to propel haemolymph.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "Which statement about the open circulatory system of the cockroach is FALSE?",
+      "options": [
+        "Haemolymph directly bathes the tissues",
+        "Blood is confined to vessels",
+        "Heart pumps haemolymph into the hemocoel",
+        "Ostia allow haemolymph entry into the heart"
+      ],
+      "answer": 1,
+      "explanation": "In an open circulatory system, haemolymph is not confined to vessels; it circulates freely in the hemocoel, making the second statement false.",
+      "topic": "Heart and dorsal vessel"
+    },
+    {
+      "question": "Which structure in a cockroach serves as the external opening to its tracheal respiratory system?",
+      "options": [
+        "Spiracle",
+        "Malpighian tubule",
+        "Dorsal vessel",
+        "Ootheca"
+      ],
+      "answer": 0,
+      "explanation": "Spiracles are paired openings on the body surface that lead directly into the tracheal network, allowing air entry and exit.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "In the cockroach tracheal system, gas exchange with tissues occurs primarily across the walls of which structures?",
+      "options": [
+        "Tracheoles",
+        "Spiracles",
+        "Dorsal vessel",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "Tracheoles are the finest terminal branches of the tracheae; their thin walls and close proximity to cells facilitate diffusion of O₂ and CO₂.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "The primary mechanism by which a cockroach ventilates its tracheal system is:",
+      "options": [
+        "Diffusion alone",
+        "Active pumping by the dorsal vessel",
+        "Body wall movements (muscular contractions)",
+        "Osmotic pressure changes"
+      ],
+      "answer": 2,
+      "explanation": "Cockroaches rhythmically contract and relax body wall muscles, creating pressure changes that force air in and out of the tracheae.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "Which of the following statements about cockroach spiracles is FALSE?",
+      "options": [
+        "They can open and close to reduce water loss",
+        "They are present on each abdominal segment",
+        "They contain muscular valves",
+        "They are connected directly to the heart"
+      ],
+      "answer": 3,
+      "explanation": "Spiracles are not connected to the heart; they open to the external environment and are regulated by surrounding muscles.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "The primary mode of gas transport within the cockroach tracheal system is:",
+      "options": [
+        "Dissolved in haemolymph",
+        "Diffusion through tracheal tubes",
+        "Active transport by hemocytes",
+        "Bulk flow driven by the heart"
+      ],
+      "answer": 1,
+      "explanation": "Oxygen moves by simple diffusion through the air-filled tracheal tubes directly to tissues, without reliance on the circulatory fluid.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "The smallest terminal branches of the cockroach tracheal system, where gas exchange occurs, are called:",
+      "options": [
+        "Tracheae",
+        "Tracheoles",
+        "Spiracles",
+        "Dorsal vessel"
+      ],
+      "answer": 1,
+      "explanation": "Tracheoles are the fine, highly branched extensions of tracheae that increase surface area for efficient diffusion with cells.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "During periods of high metabolic demand, cockroaches increase oxygen uptake mainly by:",
+      "options": [
+        "Increasing heart rate",
+        "Expanding the volume of the dorsal vessel",
+        "Opening more spiracles and increasing ventilation movements",
+        "Producing more haemolymph"
+      ],
+      "answer": 2,
+      "explanation": "Enhanced ventilation is achieved by opening additional spiracles and intensifying body wall movements, allowing greater airflow into the tracheal system.",
+      "topic": "Respiratory system"
+    },
+    {
+      "question": "Which of the following statements correctly describes the structure of spiracles in cockroaches?",
+      "options": [
+        "Paired lateral openings on each abdominal segment connected directly to the tracheal system, lacking any muscular control.",
+        "Paired openings on each thoracic and abdominal segment equipped with a valve formed by a thin cuticular lid that can be opened or closed.",
+        "Single dorsal opening on each segment with surrounding setae that prevent water loss.",
+        "Multiple minute pores scattered over the cuticle without any defined opening."
+      ],
+      "answer": 1,
+      "explanation": "In cockroaches each thoracic and abdominal segment possesses a paired spiracle that is covered by a thin cuticular valve (or lid) which can be opened or closed to regulate gas exchange.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "The primary function of spiracles in insects is to:",
+      "options": [
+        "Secrete digestive enzymes into the gut.",
+        "Facilitate gas exchange by allowing entry of oxygen and exit of carbon dioxide.",
+        "Excrete nitrogenous waste.",
+        "Produce silk for cocoon formation."
+      ],
+      "answer": 1,
+      "explanation": "Spiracles are external openings that permit atmospheric oxygen to enter the tracheal system and carbon dioxide to be expelled, constituting the main route of respiration in insects.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "In cockroaches, spiracle opening is regulated to minimize water loss. Which mechanism is responsible?",
+      "options": [
+        "Active contraction of surrounding abdominal muscles forming a sphincter.",
+        "Osmotic pressure changes in haemolymph.",
+        "Evaporation‑driven capillary action.",
+        "Neural control of cuticular pores via hormonal secretion."
+      ],
+      "answer": 0,
+      "explanation": "A ring of muscles around each spiracle acts as a sphincter; contraction closes the spiracle, reducing transpiration, while relaxation opens it for gas exchange.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "Which segment(s) of a cockroach typically lack functional spiracles?",
+      "options": [
+        "The first thoracic segment (prothorax) only.",
+        "All abdominal segments have spiracles.",
+        "The first abdominal segment (A1) lacks a functional spiracle.",
+        "The terminal abdominal segment (A10) lacks a functional spiracle."
+      ],
+      "answer": 2,
+      "explanation": "In most cockroaches, functional spiracles are present on the three thoracic segments and on abdominal segments 2 to 8; the first abdominal segment (A1) either lacks a spiracle or has a reduced, non‑functional one.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "During intense activity, the rate of gas exchange in cockroaches increases primarily due to:",
+      "options": [
+        "Increase in the number of spiracles.",
+        "Opening of the valves of spiracles to a greater extent, reducing diffusion distance.",
+        "Active pumping of air by the dorsal vessel.",
+        "Production of additional tracheae."
+      ],
+      "answer": 1,
+      "explanation": "When metabolic demand rises, the muscular sphincters relax, widening the spiracular openings and allowing a larger volume of air to flow through the tracheal network, thereby enhancing diffusion.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "Which of the following best explains why spiracles are absent on the dorsal side of insects?",
+      "options": [
+        "Dorsal cuticle is too thick for gas diffusion.",
+        "Placement on lateral/ventral sides reduces exposure to predators and water loss.",
+        "Dorsal side houses the nervous system, which requires protection.",
+        "Dorsal side is involved in locomotion, making openings impractical."
+      ],
+      "answer": 1,
+      "explanation": "Locating spiracles laterally or ventrally shields them from direct exposure, helping to limit desiccation and predation, whereas the dorsal surface is more exposed.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "In the context of the tracheal system, spiracles are considered:",
+      "options": [
+        "End points of the circulatory system.",
+        "External openings that connect the external atmosphere to the internal tracheal network.",
+        "Sites of haemolymph filtration.",
+        "Glands secreting surfactants for cuticle lubrication."
+      ],
+      "answer": 1,
+      "explanation": "Spiracles serve as the external portals through which air enters and leaves the internal tracheal tubes, linking the insect's internal respiratory system with the environment.",
+      "topic": "Spiracles"
+    },
+    {
+      "question": "Which structural feature of insect tracheae prevents collapse of the tube during respiration?",
+      "options": [
+        "Spiracular valves",
+        "Taenidia",
+        "Tracheolar hairs",
+        "Air sacs"
+      ],
+      "answer": 1,
+      "explanation": "Taenidia are ring‑like thickenings of the chitinous cuticle that provide rigidity and prevent the tracheal tube from collapsing under pressure changes.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "In a cockroach, the primary tracheae branch directly from which external structure?",
+      "options": [
+        "Spiracles",
+        "Heart",
+        "Malpighian tubules",
+        "Ventral nerve cord"
+      ],
+      "answer": 0,
+      "explanation": "Each pair of spiracles opens to the exterior and gives rise to the primary tracheae that conduct air into the internal tracheal network.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "Which statement about tracheoles is correct?",
+      "options": [
+        "They are larger than primary tracheae",
+        "They terminate near cells to facilitate diffusion",
+        "They contain chitinous cuticle thickened with taenidia",
+        "They are involved in hemolymph circulation"
+      ],
+      "answer": 1,
+      "explanation": "Tracheoles are the finest branches of the tracheal system; they end in close proximity to individual cells, allowing efficient diffusion of gases across the thin cuticular wall.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "The primary mechanism by which a cockroach ventilates its tracheal system involves:",
+      "options": [
+        "Active pumping by a muscular heart",
+        "Diffusion only",
+        "Contractions of abdominal muscles causing pressure changes",
+        "Osmotic water movement"
+      ],
+      "answer": 2,
+      "explanation": "Cockroaches use rhythmic contractions of abdominal muscles to create pressure gradients that draw air in through spiracles and expel it, a process called abdominal pumping.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "Why does the tracheal system impose a limit on the maximum size of insects?",
+      "options": [
+        "Limited hemolymph flow",
+        "Diffusion distance constraints for O₂",
+        "Insufficient number of spiracles",
+        "Lack of mitochondria in tracheal cells"
+      ],
+      "answer": 1,
+      "explanation": "Oxygen must diffuse through the tracheal tubes; as body size increases, the diffusion distance becomes too great for adequate O₂ supply, restricting maximum insect size.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "In the cockroach tracheal system, air sacs primarily function to:",
+      "options": [
+        "Store oxygen for later use",
+        "Increase surface area for gas exchange",
+        "Act as a reservoir to buffer pressure changes during ventilation",
+        "Produce hemolymph"
+      ],
+      "answer": 2,
+      "explanation": "Air sacs are expandable extensions of the tracheae that act as pressure reservoirs, smoothing out the rapid pressure fluctuations generated by abdominal pumping.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "Which of the following statements about spiracles is FALSE?",
+      "options": [
+        "They are openings on the body surface leading to tracheae",
+        "They possess muscular valves to regulate airflow",
+        "They are lined with chitinous cuticle similar to tracheae",
+        "They are directly connected to the circulatory system"
+      ],
+      "answer": 3,
+      "explanation": "Spiracles are part of the respiratory system only; they are not connected to the circulatory system, which in insects consists of hemolymph flowing in an open cavity.",
+      "topic": "Tracheae"
+    },
+    {
+      "question": "Which structural feature distinguishes tracheoles from larger tracheae in the cockroach respiratory system?",
+      "options": [
+        "Presence of taenidia",
+        "Absence of taenidia",
+        "Presence of valves",
+        "Presence of spiracles"
+      ],
+      "answer": 1,
+      "explanation": "Tracheoles are the finest tubes and, unlike larger tracheae, they do not have the spiral thickenings (taenidia) that provide rigidity.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "What is the primary role of tracheoles in a cockroach?",
+      "options": [
+        "Transport hemolymph",
+        "Gas exchange at the cellular level",
+        "Excretion of nitrogenous waste",
+        "Conduct nerve impulses"
+      ],
+      "answer": 1,
+      "explanation": "Tracheoles form the terminal network that delivers oxygen directly to, and removes carbon dioxide from, individual cells.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "Tracheoles are most closely associated with which tissue to facilitate efficient gas exchange?",
+      "options": [
+        "Malpighian tubules",
+        "Fat body",
+        "Muscle fibers",
+        "Epidermis"
+      ],
+      "answer": 1,
+      "explanation": "The fat body lies adjacent to tracheoles, allowing rapid diffusion of gases between the respiratory system and metabolically active tissue.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "Which characteristic of tracheoles minimizes the diffusion distance for oxygen?",
+      "options": [
+        "Large diameter",
+        "Thin walls",
+        "Presence of respiratory pigments",
+        "Active transport mechanisms"
+      ],
+      "answer": 1,
+      "explanation": "Tracheoles have extremely thin cuticular walls, reducing the barrier thickness and thus the diffusion distance for gases.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "Tracheoles lack which structural reinforcement found in larger tracheae?",
+      "options": [
+        "Taenidia",
+        "Cuticular lining",
+        "Valves",
+        "Spiracular openings"
+      ],
+      "answer": 0,
+      "explanation": "Larger tracheae possess taenidia (spiral thickenings) for support; tracheoles are unreinforced to allow flexibility and maximal diffusion.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "Which statement about tracheoles is false?",
+      "options": [
+        "They possess muscular walls for active ventilation",
+        "They lack taenidia",
+        "They are lined by a thin cuticle",
+        "They deliver gases directly to cells"
+      ],
+      "answer": 0,
+      "explanation": "Tracheoles do not have muscular walls; ventilation is achieved by movements of the whole body and spiracular opening, not by tracheolar muscles.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "In a cockroach, the terminal branching of the tracheal system that ends in tracheoles is primarily adapted for which function?",
+      "options": [
+        "Storage of air",
+        "Rapid diffusion of gases",
+        "Production of hemolymph",
+        "Sensory perception"
+      ],
+      "answer": 1,
+      "explanation": "The fine network of tracheoles maximizes surface area and minimizes diffusion distance, optimizing rapid gas exchange with tissues.",
+      "topic": "Tracheoles"
+    },
+    {
+      "question": "Which structure primarily regulates the entry of air into the cockroach tracheal system?",
+      "options": [
+        "Spiracles",
+        "Malpighian tubules",
+        "Dorsal vessel",
+        "Ootheca"
+      ],
+      "answer": 0,
+      "explanation": "Spiracles are the external openings that can open or close to control airflow into the tracheal network.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "In cockroach respiration, the movement of air through the tracheae is mainly achieved by:",
+      "options": [
+        "Contractions of the dorsal vessel",
+        "Abdominal pumping (muscular contractions of the body wall)",
+        "Diffusion through haemolymph",
+        "Active transport by tracheal epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Rhythmic contractions of abdominal muscles generate pressure differences that force air in and out of the tracheal tubes.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "The fine terminal branches of the tracheal system where gas exchange occurs are called:",
+      "options": [
+        "Tracheoles",
+        "Spiracles",
+        "Haemolymph vessels",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "Tracheoles are the smallest tracheal tubes that closely surround cells, providing a large surface area for diffusion of O₂ and CO₂.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "Which of the following best describes the mechanism by which CO₂ is eliminated from cockroach tissues?",
+      "options": [
+        "Dissolved in haemolymph and carried to spiracles",
+        "Direct diffusion from tissues into tracheoles and out through spiracles",
+        "Conversion to bicarbonate in Malpighian tubules",
+        "Active transport into the dorsal vessel"
+      ],
+      "answer": 1,
+      "explanation": "CO₂ produced in cells diffuses into the surrounding tracheoles and follows the pressure gradient to exit via the spiracles without involving the haemolymph.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "During periods of high metabolic demand, cockroaches increase oxygen uptake primarily by:",
+      "options": [
+        "Enlarging spiracle openings",
+        "Increasing haemolymph flow",
+        "Increasing the rate of abdominal ventilation",
+        "Producing more tracheoles"
+      ],
+      "answer": 2,
+      "explanation": "Faster abdominal muscle contractions raise the ventilation rate, delivering more air to the tracheal system to meet metabolic needs.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "The tracheal system of cockroaches is considered an example of:",
+      "options": [
+        "Open circulatory system",
+        "Closed circulatory system",
+        "Diffusion‑based respiratory system without circulatory transport of gases",
+        "Counter‑current exchange system"
+      ],
+      "answer": 2,
+      "explanation": "In insects, gases are transported directly through the tracheal network by diffusion and ventilation, not by the circulatory fluid.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "Which statement about the mechanism of respiration in cockroaches is FALSE?",
+      "options": [
+        "Oxygen diffuses from ambient air through spiracles into tracheae",
+        "Haemolymph plays a major role in oxygen transport",
+        "Tracheoles increase surface area for gas exchange",
+        "Abdominal muscles create pressure gradients to move air"
+      ],
+      "answer": 1,
+      "explanation": "Insects rely on the tracheal system for oxygen transport; haemolymph does not carry significant amounts of O₂.",
+      "topic": "Mechanism of respiration"
+    },
+    {
+      "question": "What is the primary organ responsible for nitrogenous waste excretion in cockroaches?",
+      "options": [
+        "Malpighian tubules",
+        "Hindgut",
+        "Fat body",
+        "Salivary glands"
+      ],
+      "answer": 0,
+      "explanation": "In insects, the Malpighian tubules are the main excretory organs that secrete nitrogenous wastes such as uric acid into the lumen for elimination.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "Which mechanism best describes primary urine formation in the Malpighian tubules of cockroaches?",
+      "options": [
+        "Active transport of uric acid and other wastes into the tubule lumen",
+        "Passive diffusion of water across the tubule wall",
+        "Filtration of haemolymph through a glomerulus",
+        "Secretion of urea via potassium ion channels"
+      ],
+      "answer": 0,
+      "explanation": "Primary urine is generated by active transport of ions and nitrogenous wastes (mainly uric acid) from the haemolymph into the tubule lumen, creating an osmotic gradient that draws water.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "Reabsorption of valuable solutes (e.g., sugars, ions) from the primary urine of cockroaches occurs mainly in which region?",
+      "options": [
+        "Hindgut (ileum)",
+        "Midgut",
+        "Foregut",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "After secretion by Malpighian tubules, the filtrate passes into the hindgut where extensive reabsorption of water, ions, and nutrients takes place.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "Which nitrogenous waste product is predominantly excreted by cockroaches?",
+      "options": [
+        "Uric acid",
+        "Urea",
+        "Ammonia",
+        "Creatinine"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches, like most insects, excrete nitrogen mainly as insoluble uric acid, which conserves water.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "How does the open circulatory system of cockroaches aid waste removal by the Malpighian tubules?",
+      "options": [
+        "Haemolymph bathes the tubules allowing diffusion of wastes into them",
+        "Blood flows directly through the tubules like a closed system",
+        "Lymphatic vessels transport waste from the tubules to the gut",
+        "Tracheal system carries waste gases away from the tubules"
+      ],
+      "answer": 0,
+      "explanation": "In an open circulatory system, haemolymph directly surrounds the Malpighian tubules, permitting diffusion of waste metabolites into the tubule lumen.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "Which statement correctly compares insect Malpighian tubules with vertebrate kidneys?",
+      "options": [
+        "Both perform ultrafiltration of blood plasma",
+        "Both lack a glomerular filtration step",
+        "Both secrete uric acid actively as the main waste",
+        "Both rely on active ion transport to create an osmotic gradient that drives water movement"
+      ],
+      "answer": 3,
+      "explanation": "In both systems, active transport of ions into the tubular lumen generates an osmotic gradient that pulls water, facilitating urine formation, although the structural details differ.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "During dehydration, cockroaches reduce water loss mainly by:",
+      "options": [
+        "Decreasing secretion by Malpighian tubules",
+        "Increasing reabsorption of water and solutes in the hindgut",
+        "Increasing excretion of uric acid",
+        "Increasing tracheal respiration rate"
+      ],
+      "answer": 1,
+      "explanation": "When water is scarce, cockroaches enhance water reabsorption in the hindgut, concentrating the waste and minimizing water loss.",
+      "topic": "Excretory system"
+    },
+    {
+      "question": "The principal role of Malpighian tubules in cockroaches is to:",
+      "options": [
+        "Produce digestive enzymes for carbohydrate breakdown",
+        "Filter hemolymph to form primary urine",
+        "Store lipids for metamorphosis",
+        "Transport oxygen to tissues"
+      ],
+      "answer": 1,
+      "explanation": "Malpighian tubules actively filter hemolymph, secreting a primary urine that contains waste products.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "The main nitrogenous waste eliminated by Malpighian tubules of cockroaches is:",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 2,
+      "explanation": "In insects, nitrogen is excreted mainly as uric acid, which is less toxic and conserves water.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "Which mechanism primarily drives the movement of water into the lumen of Malpighian tubules?",
+      "options": [
+        "Active transport of glucose",
+        "Osmotic gradient created by active ion transport",
+        "Passive diffusion of water through aquaporins only",
+        "Contractile movements of tubule walls"
+      ],
+      "answer": 1,
+      "explanation": "Active transport of ions into the tubule lumen creates an osmotic gradient that draws water passively into the lumen.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "After primary urine is secreted by Malpighian tubules, useful ions and water are reabsorbed mainly in the:",
+      "options": [
+        "Midgut",
+        "Foregut",
+        "Hindgut",
+        "Salivary glands"
+      ],
+      "answer": 2,
+      "explanation": "Reabsorption of valuable solutes and water occurs primarily in the hindgut, concentrating the waste.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "Which structural feature distinguishes Malpighian tubules from the vertebrate kidney?",
+      "options": [
+        "They are blind‑ended tubules opening into the hemocoel",
+        "They possess glomeruli with Bowman's capsule",
+        "They contain loops of Henle",
+        "They are lined by stratified squamous epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Malpighian tubules are blind‑ended and open directly into the hemocoel, unlike the closed nephron system of vertebrates.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "Malpighian tubules of insects are most analogous to which structure of the vertebrate excretory system?",
+      "options": [
+        "Glomerulus",
+        "Proximal convoluted tubule",
+        "Loop of Henle",
+        "Collecting duct"
+      ],
+      "answer": 0,
+      "explanation": "Both Malpighian tubules and the glomerulus perform the initial filtration of body fluids to form a primary filtrate.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "The excretion of uric acid by Malpighian tubules is advantageous to cockroaches because:",
+      "options": [
+        "It requires large amounts of water to excrete",
+        "It is highly soluble and easily eliminated in liquid form",
+        "It is a solid precipitate allowing water conservation",
+        "It can be directly used as an energy source by muscles"
+      ],
+      "answer": 2,
+      "explanation": "Uric acid precipitates as a solid, enabling cockroaches to excrete nitrogenous waste with minimal water loss.",
+      "topic": "Malpighian tubules"
+    },
+    {
+      "question": "What is the principal nitrogenous waste excreted by cockroaches?",
+      "options": [
+        "Uric acid",
+        "Urea",
+        "Ammonia",
+        "Creatinine"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches, like most insects, convert nitrogenous waste to uric acid, which is insoluble and excreted as a paste, minimizing water loss.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Which part of the insect alimentary canal is chiefly responsible for reabsorbing water from the primary urine?",
+      "options": [
+        "Malpighian tubules",
+        "Hindgut (colon)",
+        "Midgut",
+        "Fat body"
+      ],
+      "answer": 1,
+      "explanation": "After the Malpighian tubules secrete a dilute primary urine, the hindgut (especially the colon) reabsorbs most of the water, concentrating the waste.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Which structure in the cockroach respiratory system helps limit water loss during gas exchange?",
+      "options": [
+        "Spiracles equipped with muscular valves",
+        "Tracheae",
+        "Tracheoles",
+        "Lateral pores on the cuticle"
+      ],
+      "answer": 0,
+      "explanation": "Spiracles can be opened and closed by surrounding muscles, allowing gas exchange while preventing excessive water loss.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Which statement about Malpighian tubules is FALSE?",
+      "options": [
+        "They secrete primary urine into the gut lumen",
+        "They actively transport K⁺ into the lumen",
+        "They reabsorb most of the water from the filtrate",
+        "They are functionally analogous to vertebrate kidneys"
+      ],
+      "answer": 2,
+      "explanation": "Malpighian tubules primarily secrete a dilute urine; most water reabsorption occurs later in the hindgut, not within the tubules.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Why does excretion of uric acid enable cockroaches to conserve water?",
+      "options": [
+        "It is insoluble and excreted as a dry paste",
+        "It is highly soluble and requires large amounts of water",
+        "It is volatile and evaporates readily",
+        "It is stored in the fat body before excretion"
+      ],
+      "answer": 0,
+      "explanation": "Uric acid’s low solubility allows it to be eliminated as a solid or semi‑solid, reducing the need for water in its excretion.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Which hormone reduces water loss by causing closure of spiracles in insects?",
+      "options": [
+        "Diuretic hormone",
+        "Anti‑diuretic hormone (CAPA peptide)",
+        "Ecdysone",
+        "Juvenile hormone"
+      ],
+      "answer": 1,
+      "explanation": "Anti‑diuretic hormones (e.g., CAPA peptides) act on the spiracular muscles to close the openings, thereby limiting water loss during desiccation.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "When a cockroach experiences dehydration, activity of which organ increases to conserve water?",
+      "options": [
+        "Malpighian tubules",
+        "Hindgut (colon)",
+        "Salivary glands",
+        "Fat body"
+      ],
+      "answer": 1,
+      "explanation": "During dehydration, the hindgut enhances water reabsorption, concentrating the waste and conserving body water.",
+      "topic": "Water and nitrogen balance"
+    },
+    {
+      "question": "Which part of the insect nervous system is homologous to the vertebrate brain?",
+      "options": [
+        "Ventral nerve cord",
+        "Subesophageal ganglion",
+        "Cerebral ganglion",
+        "Thoracic ganglion"
+      ],
+      "answer": 2,
+      "explanation": "The cerebral ganglion, commonly called the brain, is the anterior fused ganglion in insects and is considered homologous to the vertebrate brain.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "In a cockroach, which segmental ganglion primarily controls the movements of the forelegs?",
+      "options": [
+        "Prothoracic ganglion",
+        "Mesothoracic ganglion",
+        "Metathoracic ganglion",
+        "Abdominal ganglion"
+      ],
+      "answer": 0,
+      "explanation": "The prothoracic ganglion innervates the first pair of legs (forelegs) and coordinates their movements.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "Which sensory organ in a cockroach detects changes in ambient humidity?",
+      "options": [
+        "Chordotonal organ",
+        "Campaniform sensilla",
+        "Hygroreceptor",
+        "Thermoreceptor"
+      ],
+      "answer": 2,
+      "explanation": "Hygroreceptors are specialized cuticular sensilla that respond to variations in humidity levels.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "The primary neurotransmitter at the cockroach leg neuromuscular junction is:",
+      "options": [
+        "Acetylcholine",
+        "Glutamate",
+        "GABA",
+        "Octopamine"
+      ],
+      "answer": 0,
+      "explanation": "In insects, acetylcholine mediates excitatory transmission at most neuromuscular junctions, including those of cockroach leg muscles.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "Which region of the insect brain processes visual information?",
+      "options": [
+        "Mushroom bodies",
+        "Optic lobes",
+        "Antennal lobes",
+        "Subesophageal ganglion"
+      ],
+      "answer": 1,
+      "explanation": "The optic lobes, located laterally on the brain, receive input from the compound eyes and handle visual processing.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "Neurosecretory cells that regulate molting in cockroaches are located in:",
+      "options": [
+        "Corpora cardiaca",
+        "Corpora allata",
+        "Neurosecretory cells of the brain",
+        "Ventral nerve cord ganglia"
+      ],
+      "answer": 2,
+      "explanation": "Neurosecretory cells in the pars intercerebralis of the brain release hormones such as ecdysone that control molting.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "The protective sheath surrounding the ventral nerve cord of a cockroach is formed by:",
+      "options": [
+        "Epidermis",
+        "Perineurium",
+        "Glial cells",
+        "Basement membrane"
+      ],
+      "answer": 1,
+      "explanation": "The ventral nerve cord is encased by a perineurial sheath, analogous to the vertebrate perineurium, providing mechanical protection and a diffusion barrier.",
+      "topic": "Nervous system"
+    },
+    {
+      "question": "Which pair of ganglia in a cockroach is primarily responsible for processing sensory information from the antennae and mouthparts?",
+      "options": [
+        "Supraesophageal ganglion and subesophageal ganglion",
+        "Thoracic ganglia and abdominal ganglia",
+        "Cerebral ganglion and optic ganglion",
+        "Ventral nerve cord and dorsal vessel"
+      ],
+      "answer": 0,
+      "explanation": "The supraesophageal ganglion receives input from the antennae, while the subesophageal ganglion processes sensory signals from the mouthparts, together forming the main cephalic processing centers.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "In each segmental ganglion of the cockroach ventral nerve cord, which structural description is correct?",
+      "options": [
+        "A fused mass of neuropil surrounded by a thick perineurium",
+        "A central neuropil surrounded by a cortex of neuronal cell bodies",
+        "A hollow tube of hemolymph lined by glial cells",
+        "A collection of muscle fibers innervated by motor neurons"
+      ],
+      "answer": 1,
+      "explanation": "A typical insect ganglion consists of a central neuropil (synaptic region) encircled by a cortex of neuronal cell bodies, allowing integration of signals within each segment.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "The subesophageal ganglion in a cockroach receives afferent inputs mainly from which structure?",
+      "options": [
+        "Antennae",
+        "Legs",
+        "Mouthparts",
+        "Wings"
+      ],
+      "answer": 2,
+      "explanation": "Sensory nerves from the labrum, mandibles, maxillae and labium project to the subesophageal ganglion, making it the primary center for processing mouthpart information.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "Which neurotransmitter is most abundant in the insect brain and plays a key role in modulating locomotor activity?",
+      "options": [
+        "Acetylcholine",
+        "Glutamate",
+        "Octopamine",
+        "GABA"
+      ],
+      "answer": 2,
+      "explanation": "Octopamine functions as the insect analogue of norepinephrine and is widely distributed in the brain, where it regulates arousal and locomotion.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "Where is the brain of a cockroach situated?",
+      "options": [
+        "Dorsal side of the thorax",
+        "Anterior part of the head, dorsal to the esophagus",
+        "Ventral side of the abdomen",
+        "Posterior end of the head"
+      ],
+      "answer": 1,
+      "explanation": "The cockroach brain (supraesophageal ganglion) lies in the anterior head region, positioned dorsally above the esophagus.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "What is the functional significance of the ganglia present in the cockroach ventral nerve cord?",
+      "options": [
+        "They allow decentralized control of segmental movements",
+        "They store hemolymph for circulation",
+        "They produce digestive enzymes",
+        "They are sites of gas exchange"
+      ],
+      "answer": 0,
+      "explanation": "Each ganglion can independently generate motor patterns for its segment, enabling rapid, localized control without central processing.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "The brain together with the subesophageal ganglion in a cockroach is collectively called:",
+      "options": [
+        "Supraesophageal complex",
+        "Cerebral ganglion",
+        "Central nervous system",
+        "Cephalic ganglion"
+      ],
+      "answer": 3,
+      "explanation": "The combined cephalic ganglia (brain + subesophageal ganglion) are referred to as the cephalic ganglion, forming the anterior part of the insect central nervous system.",
+      "topic": "Brain and ganglia"
+    },
+    {
+      "question": "In insects, the ventral nerve cord is positioned relative to the gut as:",
+      "options": [
+        "Dorsal to the gut",
+        "Ventral to the gut",
+        "Within the dorsal blood sinus",
+        "Only in the head region"
+      ],
+      "answer": 1,
+      "explanation": "The ventral nerve cord runs along the ventral side of the body, beneath the digestive tract, within the hemocoel.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "The ganglia of the cockroach ventral nerve cord are linked to each other by:",
+      "options": [
+        "Nerve roots only",
+        "Paired longitudinal connectives",
+        "Transverse commissures",
+        "Both paired longitudinal connectives and transverse commissures"
+      ],
+      "answer": 3,
+      "explanation": "Each ganglion is connected to the next by paired longitudinal connectives, and each ganglion has transverse commissures that join the left and right halves.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "Which segmental ganglion primarily controls the foreleg movements in a cockroach?",
+      "options": [
+        "Prothoracic ganglion",
+        "Mesothoracic ganglion",
+        "Metathoracic ganglion",
+        "Subesophageal ganglion"
+      ],
+      "answer": 0,
+      "explanation": "The prothoracic ganglion innervates the muscles of the first thoracic segment, which bear the forelegs.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "The region of the ventral nerve cord that contains dense synaptic connections is called:",
+      "options": [
+        "Perikaryal zone",
+        "Neuropil",
+        "Ganglionic sheath",
+        "Axonal tract"
+      ],
+      "answer": 1,
+      "explanation": "Neuropil is the area of intertwined neuronal processes where most synapses occur in the insect CNS.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "Which statement about the cockroach ventral nerve cord is FALSE?",
+      "options": [
+        "It contains a pair of giant interneurons that mediate rapid escape responses",
+        "It is surrounded by a protective cuticular sheath",
+        "It lacks myelin sheaths around its axons",
+        "It is continuous with the brain via the circumesophageal connectives"
+      ],
+      "answer": 1,
+      "explanation": "The ventral nerve cord is not encased in cuticle; it is protected by a thin glial sheath, not a rigid cuticular sheath.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "Sensory information from peripheral receptors reaches the ventral nerve cord in cockroaches via:",
+      "options": [
+        "Dorsal roots only",
+        "Ventral roots only",
+        "Both dorsal and ventral roots",
+        "Direct axonal projections without distinct roots"
+      ],
+      "answer": 3,
+      "explanation": "In insects, segmental nerves carry mixed afferent and efferent fibers; there are no separate dorsal or ventral roots as in vertebrates.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "The principal excitatory neurotransmitter mediating fast synaptic transmission in the cockroach ventral nerve cord is:",
+      "options": [
+        "Acetylcholine",
+        "GABA",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholine is the main excitatory neurotransmitter at central synapses and neuromuscular junctions in insects, including the ventral nerve cord.",
+      "topic": "Ventral nerve cord"
+    },
+    {
+      "question": "Which structure in a cockroach is primarily responsible for detecting volatile chemicals?",
+      "options": [
+        "Spiracles",
+        "Antennae",
+        "Compound eyes",
+        "Malpighian tubules"
+      ],
+      "answer": 1,
+      "explanation": "The antennae are covered with chemosensory sensilla that bind odor molecules, making them the main olfactory organs in insects.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "The visual unit of the cockroach compound eye is called:",
+      "options": [
+        "Retina",
+        "Ommatidium",
+        "Lens",
+        "Facet"
+      ],
+      "answer": 1,
+      "explanation": "Each ommatidium functions as an independent photoreceptive unit containing its own lens, crystalline cone, and photoreceptor cells.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "Cockroach hearing is mediated by which organ?",
+      "options": [
+        "Spiracles",
+        "Tympanal organ on the abdomen",
+        "Antennae",
+        "Ocelli"
+      ],
+      "answer": 1,
+      "explanation": "The tympanal organ, a thin membrane on the abdomen, vibrates in response to sound waves and transduces them into neural signals.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "Which type of sensilla on cockroach legs is specialized for detecting substrate vibrations?",
+      "options": [
+        "Trichoid sensilla",
+        "Campaniform sensilla",
+        "Basiconic sensilla",
+        "Coelocapitular sensilla"
+      ],
+      "answer": 1,
+      "explanation": "Campaniform sensilla are dome-shaped mechanoreceptors that sense cuticular strain caused by vibrations or pressure.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "The cockroach's ability to sense humidity is mainly due to which sensilla type?",
+      "options": [
+        "Thermoreceptive sensilla",
+        "Hygroreceptive sensilla",
+        "Chemosensory sensilla",
+        "Mechanosensory sensilla"
+      ],
+      "answer": 1,
+      "explanation": "Hygroreceptive sensilla contain pores that allow water molecules to interact with the receptor, enabling detection of ambient humidity.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "In a cockroach, the brain region that processes olfactory information from the antennae is the:",
+      "options": [
+        "Mushroom body",
+        "Antennal lobe",
+        "Optic lobe",
+        "Subesophageal ganglion"
+      ],
+      "answer": 1,
+      "explanation": "The antennal lobe receives input from olfactory receptor neurons and organizes it into glomeruli for further processing.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "Which statement about cockroach ocelli is correct?",
+      "options": [
+        "They are simple eyes that detect light intensity",
+        "They provide high-resolution images",
+        "They are involved in sound detection",
+        "They are located on the abdomen"
+      ],
+      "answer": 0,
+      "explanation": "Ocelli are simple, non-imaging eyes that sense overall light intensity and help regulate circadian rhythms.",
+      "topic": "Sense organs"
+    },
+    {
+      "question": "What is the primary function of the ootheca in cockroach reproduction?",
+      "options": [
+        "It serves as a protective case containing eggs",
+        "It acts as a site for sperm storage",
+        "It secretes hormones for molting",
+        "It functions as a respiratory organ"
+      ],
+      "answer": 0,
+      "explanation": "The ootheca is a hardened capsule in which cockroach eggs develop, providing protection until hatching.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "In insects, the mature male gamete is termed:",
+      "options": [
+        "Spermatozoon",
+        "Oocyte",
+        "Spermatophore",
+        "Spermatid"
+      ],
+      "answer": 0,
+      "explanation": "The mature male gamete in insects, as in other animals, is the spermatozoon, which is capable of fertilizing an oocyte.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "Which hormone predominantly stimulates vitellogenin synthesis in female insects?",
+      "options": [
+        "Juvenile hormone",
+        "Ecdysone",
+        "Prothoracicotropic hormone",
+        "Insulin-like peptide"
+      ],
+      "answer": 0,
+      "explanation": "Juvenile hormone is the key regulator of vitellogenesis, promoting the production of yolk proteins (vitellogenin) in the fat body.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "The transfer of sperm from male to female cockroach during mating is called:",
+      "options": [
+        "Copulation",
+        "Oviposition",
+        "Spermatophore deposition",
+        "Parthenogenesis"
+      ],
+      "answer": 0,
+      "explanation": "Copulation refers to the physical act of mating during which sperm are transferred from the male to the female.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "In insect reproductive anatomy, accessory glands are primarily responsible for:",
+      "options": [
+        "Producing seminal fluid that supports sperm viability",
+        "Storing mature eggs before oviposition",
+        "Facilitating gas exchange during respiration",
+        "Excreting nitrogenous wastes"
+      ],
+      "answer": 0,
+      "explanation": "Accessory glands secrete components of seminal fluid that provide nutrients and protective substances for sperm.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "Which statement correctly describes the structure of an insect ovary?",
+      "options": [
+        "It consists of multiple ovarioles that each produce a series of oocytes",
+        "It contains testes that generate sperm cells",
+        "It is part of the digestive tract and aids in nutrient absorption",
+        "It secretes juvenile hormone directly into the hemolymph"
+      ],
+      "answer": 0,
+      "explanation": "Insects have paired ovaries composed of tubular units called ovarioles, each of which develops a linear series of oocytes.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "After mating, cockroach sperm are stored in a specialized organ called the:",
+      "options": [
+        "Spermatheca",
+        "Oviduct",
+        "Bursa copulatrix",
+        "Testis"
+      ],
+      "answer": 0,
+      "explanation": "The spermatheca is a sac-like organ in female insects where sperm are stored viable for extended periods before fertilization.",
+      "topic": "Reproductive system overview"
+    },
+    {
+      "question": "Which cells of the male reproductive system are primarily responsible for testosterone synthesis?",
+      "options": [
+        "Leydig cells",
+        "Sertoli cells",
+        "Epididymal duct cells",
+        "Bulbourethral gland cells"
+      ],
+      "answer": 0,
+      "explanation": "Leydig (interstitial) cells, located between the seminiferous tubules, secrete testosterone in response to luteinizing hormone (LH).",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "The blood‑testis barrier, which protects developing germ cells, is formed by tight junctions between which type of cells?",
+      "options": [
+        "Myoid cells",
+        "Sertoli cells",
+        "Leydig cells",
+        "Peritubular fibroblasts"
+      ],
+      "answer": 1,
+      "explanation": "Tight junctions between adjacent Sertoli cells create the blood‑testis barrier, restricting passage of substances from the bloodstream into the seminiferous tubule lumen.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "Sperm acquire motility and the ability to fertilize an ovum primarily during their passage through which structure?",
+      "options": [
+        "Seminiferous tubules",
+        "Epididymis",
+        "Vas deferens",
+        "Prostatic urethra"
+      ],
+      "answer": 1,
+      "explanation": "In the epididymis, sperm undergo maturation, acquiring progressive motility and fertilizing capacity.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "Which pituitary hormone acts directly on Sertoli cells to stimulate spermatogenesis?",
+      "options": [
+        "Luteinizing hormone (LH)",
+        "Follicle‑stimulating hormone (FSH)",
+        "Testosterone",
+        "Inhibin"
+      ],
+      "answer": 1,
+      "explanation": "FSH binds to receptors on Sertoli cells, promoting the support of developing germ cells and thus spermatogenesis.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "The duct that transports sperm from the epididymis to the ejaculatory duct is:",
+      "options": [
+        "Urethra",
+        "Seminal vesicle duct",
+        "Vas deferens",
+        "Ejaculatory duct"
+      ],
+      "answer": 2,
+      "explanation": "The vas deferens (ductus deferens) carries sperm from the tail of the epididymis toward the ejaculatory duct.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "Which male accessory gland contributes the alkaline fluid that neutralizes the acidic environment of the female reproductive tract?",
+      "options": [
+        "Bulbourethral glands",
+        "Seminal vesicles",
+        "Testes",
+        "Prostate gland"
+      ],
+      "answer": 3,
+      "explanation": "The prostate gland secretes a slightly alkaline fluid rich in enzymes and zinc, which helps neutralize vaginal acidity.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "The lower temperature of the testes compared with core body temperature is mainly maintained by:",
+      "options": [
+        "Thick scrotal skin",
+        "Presence of scrotal hair",
+        "Counter‑current heat exchange in the pampiniform plexus",
+        "High metabolic rate of testicular tissue"
+      ],
+      "answer": 2,
+      "explanation": "The pampiniform plexus surrounds the testicular artery, allowing counter‑current heat exchange that cools arterial blood before it reaches the testes.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "During ejaculation, the correct sequence of events is:",
+      "options": [
+        "Emission → Ejaculation",
+        "Emission → Expulsion → Ejaculation",
+        "Ejaculation → Emission",
+        "Expulsion → Emission → Ejaculation"
+      ],
+      "answer": 0,
+      "explanation": "First, emission moves sperm and accessory gland secretions into the posterior urethra; then ejaculation (expulsion) forcefully ejects the semen through the urethra.",
+      "topic": "Male reproductive system"
+    },
+    {
+      "question": "Which ovarian cells are primarily responsible for estrogen secretion during the follicular phase?",
+      "options": [
+        "Theca interna cells",
+        "Granulosa cells",
+        "Corpus luteum",
+        "Placenta"
+      ],
+      "answer": 1,
+      "explanation": "Granulosa cells convert androgens from theca cells to estradiol via aromatase, making them the main source of estrogen in the follicular phase.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "At which stage of meiosis is the primary oocyte arrested until the onset of puberty?",
+      "options": [
+        "Prophase I of meiosis",
+        "Metaphase I of meiosis",
+        "Prophase II of meiosis",
+        "Metaphase II of meiosis"
+      ],
+      "answer": 0,
+      "explanation": "Primary oocytes are formed during fetal life and remain arrested in prophase I (dictyate stage) until puberty.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "During the mid‑follicular phase, the rise in estrogen exerts what type of feedback on the anterior pituitary?",
+      "options": [
+        "Positive feedback on LH only",
+        "Positive feedback on FSH only",
+        "Negative feedback on both FSH and LH",
+        "Positive feedback on both FSH and LH"
+      ],
+      "answer": 2,
+      "explanation": "Elevated estrogen in the mid‑follicular phase suppresses both FSH and LH secretion via negative feedback; only the pre‑ovulatory surge switches to positive feedback.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "Where does fertilization of the ovum most commonly occur in the female reproductive tract?",
+      "options": [
+        "Uterus",
+        "Cervix",
+        "Ampulla of the fallopian tube",
+        "Isthmus of the fallopian tube"
+      ],
+      "answer": 2,
+      "explanation": "The ampullary region of the fallopian tube provides the optimal environment for sperm‑egg encounter and fusion.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "Which uterine layer is shed during menstruation?",
+      "options": [
+        "Perimetrium",
+        "Myometrium",
+        "Endometrium",
+        "Basal layer"
+      ],
+      "answer": 2,
+      "explanation": "The functional layer of the endometrium is shed cyclically, while the basal layer remains to regenerate the next cycle.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "Which hormone maintains the corpus luteum during early pregnancy?",
+      "options": [
+        "Luteinizing hormone (LH)",
+        "Human chorionic gonadotropin (hCG)",
+        "Progesterone",
+        "Estrogen"
+      ],
+      "answer": 1,
+      "explanation": "hCG, produced by the trophoblast, binds LH receptors on the corpus luteum, sustaining progesterone secretion until the placenta takes over.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "What structure connects the ovary to the uterus?",
+      "options": [
+        "Oviduct (fallopian tube)",
+        "Broad ligament",
+        "Round ligament",
+        "Uterosacral ligament"
+      ],
+      "answer": 0,
+      "explanation": "The oviduct (fallopian tube) extends from the uterine cornua to the ovary, providing the passage for the ovum.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "Which of the following is NOT a function of the female reproductive system?",
+      "options": [
+        "Production of ova",
+        "Secretion of testosterone",
+        "Providing site for implantation",
+        "Production of progesterone"
+      ],
+      "answer": 1,
+      "explanation": "Testosterone is primarily a male sex hormone; in females it is produced in small amounts by the ovaries and adrenal cortex, not a primary reproductive function.",
+      "topic": "Female reproductive system"
+    },
+    {
+      "question": "What is an ootheca in cockroaches?",
+      "options": [
+        "A single large egg",
+        "A protective case containing multiple eggs",
+        "The male reproductive organ",
+        "A type of wing"
+      ],
+      "answer": 1,
+      "explanation": "An ootheca is a proteinaceous case produced by female cockroaches that encloses several eggs, providing protection until they hatch.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "The primary material of the ootheca is secreted by which part of the female cockroach?",
+      "options": [
+        "Malpighian tubules",
+        "Accessory glands of the female reproductive tract",
+        "Dorsal vessel",
+        "Spiracles"
+      ],
+      "answer": 1,
+      "explanation": "Accessory glands in the female reproductive tract secrete the protein-rich material that hardens to form the ootheca.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "Approximately how many eggs are enclosed in a typical ootheca of Periplaneta americana?",
+      "options": [
+        "5-10",
+        "15-20",
+        "30-40",
+        "60-70"
+      ],
+      "answer": 2,
+      "explanation": "The American cockroach usually produces an ootheca containing about 30 to 40 eggs, though the exact number can vary.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "After formation, a female cockroach usually deposits the ootheca in which environment?",
+      "options": [
+        "Open water surface",
+        "Directly on leaf surface",
+        "Hidden crevices or sheltered locations",
+        "Inside the male's abdomen"
+      ],
+      "answer": 2,
+      "explanation": "Females carry the ootheca briefly and then place it in concealed, moist crevices to protect the developing embryos from desiccation and predators.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "Which of the following is NOT a function of the ootheca?",
+      "options": [
+        "Preventing desiccation of eggs",
+        "Providing mechanical protection",
+        "Supplying nutrients to developing embryos",
+        "Reducing predation risk"
+      ],
+      "answer": 2,
+      "explanation": "The ootheca protects eggs mechanically and against drying and predation, but it does not provide nutrients; embryos obtain nutrients from the yolk within each egg.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "The presence of an ootheca is a characteristic reproductive feature of which insect orders?",
+      "options": [
+        "Lepidoptera and Diptera",
+        "Blattodea and Mantodea",
+        "Hymenoptera and Coleoptera",
+        "Orthoptera and Hemiptera"
+      ],
+      "answer": 1,
+      "explanation": "Both cockroaches (order Blattodea) and mantids (order Mantodea) produce oothecae, distinguishing them from many other insect orders.",
+      "topic": "Ootheca"
+    },
+    {
+      "question": "Which environmental factor most directly influences the incubation period of eggs within an ootheca?",
+      "options": [
+        "Ambient temperature",
+        "Soil pH",
+        "Light intensity",
+        "Atmospheric CO2 concentration"
+      ],
+      "answer": 0,
+      "explanation": "Higher ambient temperatures accelerate embryonic development, shortening the incubation period, while lower temperatures prolong it.",
+      "topic": "Ootheca"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 20,
+    "mcqCount": 142
+  }
+}

@@ -1,0 +1,1736 @@
+{
+  "day": 1,
+  "courseDate": "2026-08-30",
+  "publishAt": "2026-08-30T06:00:00+05:30",
+  "title": "Day 1 – The Living World",
+  "introduction": "This lesson introduces the fundamental criteria that distinguish living from non‑living matter, explores the seven characteristics of life, and outlines the hierarchical system used to name and classify the immense biodiversity on Earth.",
+  "sections": [
+    {
+      "topic": "What is living",
+      "heading": "What is Living?",
+      "content": "Living entities are organized systems that exhibit the seven characteristics of life. They maintain internal order (homeostasis), grow, reproduce, metabolize, respond to stimuli, possess cellular organization, and display some level of consciousness. The definition integrates both structural and functional aspects.",
+      "keyPoints": [
+        "Living = organized, dynamic, and self‑maintaining systems",
+        "All living things share the seven characteristics",
+        "Definition is a synthesis, not a single trait"
+      ],
+      "neetTips": [
+        "Memorise the phrase “organized, dynamic, self‑maintaining” to recall the definition"
+      ]
+    },
+    {
+      "topic": "Characteristics of living organisms",
+      "heading": "Characteristics of Living Organisms",
+      "content": "The seven criteria are: (1) Cellular organization, (2) Metabolism, (3) Growth, (4) Reproduction, (5) Response to stimuli, (6) Homeostasis, and (7) Consciousness (or sensitivity). No single characteristic alone can define life; the combination is essential.",
+      "keyPoints": [
+        "Cellular organization – basic unit of life",
+        "Metabolism – all chemical transformations",
+        "Growth – increase in size/number of cells",
+        "Reproduction – generation of offspring",
+        "Response – adaptation to external cues",
+        "Homeostasis – internal constancy",
+        "Consciousness – awareness of environment"
+      ],
+      "neetTips": [
+        "Remember the mnemonic “CMGRRHC” for the seven characteristics"
+      ]
+    },
+    {
+      "topic": "Growth",
+      "heading": "Growth",
+      "content": "Growth is the irreversible increase in size or number of cells. It occurs by cell division (mitosis) in multicellular organisms and by cell enlargement in unicellular organisms. Growth is regulated by hormones and nutrients.",
+      "keyPoints": [
+        "Irreversible increase in mass/size",
+        "Cell division (mitosis) in multicellular organisms",
+        "Hormonal control (e.g., auxins in plants)"
+      ],
+      "neetTips": [
+        "Distinguish between growth (size) and development (complexity) for NEET questions"
+      ]
+    },
+    {
+      "topic": "Reproduction",
+      "heading": "Reproduction",
+      "content": "Reproduction ensures continuity of species. It is of two types: asexual (single parent, e.g., binary fission) and sexual (fusion of gametes). Sexual reproduction introduces genetic variation.",
+      "keyPoints": [
+        "Asexual – no gamete fusion, offspring genetically identical",
+        "Sexual – meiosis → gametes, fertilization → zygote",
+        "Genetic variation is a key advantage of sexual reproduction"
+      ],
+      "neetTips": [
+        "Link meiosis stages to generation of haploid gametes"
+      ]
+    },
+    {
+      "topic": "Metabolism",
+      "heading": "Metabolism",
+      "content": "Metabolism comprises all chemical reactions that provide energy and building blocks for the cell. Catabolism breaks down molecules releasing energy; anabolism builds complex molecules using energy. Enzymes catalyse these reactions.",
+      "keyPoints": [
+        "Catabolism – energy release",
+        "Anabolism – energy consumption",
+        "Enzymes lower activation energy",
+        "Metabolic pathways are highly regulated"
+      ],
+      "neetTips": [
+        "Recall that metabolic reactions are evidence of living systems (subtopic)"
+      ]
+    },
+    {
+      "topic": "Cellular organization",
+      "heading": "Cellular Organization",
+      "content": "All organisms are composed of one or more cells, the fundamental structural and functional unit. Prokaryotes lack a true nucleus; eukaryotes possess membrane‑bound organelles.",
+      "keyPoints": [
+        "Cell – basic unit of life",
+        "Prokaryotes – no nucleus, simple structure",
+        "Eukaryotes – nucleus, organelles"
+      ],
+      "neetTips": [
+        "Associate prokaryotes with bacteria and archaea; eukaryotes with plants, animals, fungi, protists"
+      ]
+    },
+    {
+      "topic": "Response to stimuli",
+      "heading": "Response to Stimuli",
+      "content": "Living organisms detect and react to environmental changes. Responses can be tropic (directional) or nontropic (non‑directional). The ability to sense external cues is a prerequisite for survival.",
+      "keyPoints": [
+        "Stimulus → receptor → response",
+        "Tropic vs. nontropic responses",
+        "Rapid (e.g., nerve impulse) and slow (e.g., growth) responses"
+      ],
+      "neetTips": [
+        "Link “Response to external stimuli” subtopic with this section"
+      ]
+    },
+    {
+      "topic": "Consciousness",
+      "heading": "Consciousness",
+      "content": "Consciousness refers to the ability to perceive, process, and respond to stimuli in a coordinated manner. In higher organisms, it manifests as behavior, learning, and memory. It is considered a higher‑order characteristic of life.",
+      "keyPoints": [
+        "Awareness and purposeful response",
+        "Higher organisms exhibit learning and memory",
+        "Not all living forms show consciousness"
+      ],
+      "neetTips": [
+        "Remember that consciousness is a defining property but not present in all life forms"
+      ]
+    },
+    {
+      "topic": "Biodiversity",
+      "heading": "Biodiversity",
+      "content": "Biodiversity denotes the variety of life at genetic, species, and ecosystem levels. It results from evolutionary processes and is essential for ecosystem stability.",
+      "keyPoints": [
+        "Genetic, species, ecosystem diversity",
+        "Evolution generates new species",
+        "Biodiversity supports ecosystem services"
+      ],
+      "neetTips": [
+        "NEET often asks about the importance of biodiversity in ecological balance"
+      ]
+    },
+    {
+      "topic": "Taxonomy",
+      "heading": "Taxonomy",
+      "content": "Taxonomy is the science of naming, describing, and classifying organisms. It provides a universal language and facilitates communication among biologists.",
+      "keyPoints": [
+        "Classification based on shared characteristics",
+        "Provides a framework for identification",
+        "Essential for organizing biodiversity"
+      ],
+      "neetTips": [
+        "Link “Need for classification” subtopic here"
+      ]
+    },
+    {
+      "topic": "Systematics",
+      "heading": "Systematics",
+      "content": "Systematics studies the evolutionary relationships among organisms. It integrates taxonomy with phylogeny to reflect common ancestry.",
+      "keyPoints": [
+        "Phylogeny – evolutionary tree",
+        "Cladistics – grouping by shared derived traits",
+        "Systematics = taxonomy + evolutionary history"
+      ],
+      "neetTips": [
+        "NEET may ask to differentiate taxonomy (naming) from systematics (relationships)"
+      ]
+    },
+    {
+      "topic": "Nomenclature",
+      "heading": "Nomenclature",
+      "content": "Nomenclature is the set of rules governing the scientific naming of organisms. It ensures each species has a unique, universally accepted name.",
+      "keyPoints": [
+        " governed by International Codes (ICBN, ICZN)",
+        "Names are Latinised",
+        "Stability and priority are key principles"
+      ],
+      "neetTips": [
+        "Recall that nomenclature avoids ambiguity in scientific communication"
+      ]
+    },
+    {
+      "topic": "Binomial nomenclature",
+      "heading": "Binomial Nomenclature",
+      "content": "Proposed by Linnaeus, each species is identified by a two‑part name: genus (capitalised) and specific epithet (lowercase), both italicised. Example: *Homo sapiens*.",
+      "keyPoints": [
+        "Genus + specific epithet",
+        "Both italicised; genus capitalised",
+        "Rules: gender agreement, priority"
+      ],
+      "neetTips": [
+        "Remember the rule: genus name can be abbreviated after first use (e.g., *H. sapiens*)"
+      ]
+    },
+    {
+      "topic": "Taxonomic hierarchy",
+      "heading": "Taxonomic Hierarchy",
+      "content": "The hierarchical classification from broad to specific is: Kingdom → Phylum → Class → Order → Family → Genus → Species. Each level groups organisms sharing increasing similarity.",
+      "keyPoints": [
+        "Seven principal ranks",
+        "Each rank nests within the higher rank",
+        "Reflects evolutionary relationships"
+      ],
+      "neetTips": [
+        "Mnemonic “King Philip Came Over For Good Soup” helps recall order"
+      ]
+    },
+    {
+      "topic": "Species",
+      "heading": "Species",
+      "content": "A species is the basic unit of classification, defined as a group of interbreeding natural populations that are reproductively isolated from other such groups.",
+      "keyPoints": [
+        "Reproductive isolation",
+        "Genetic cohesion",
+        "Morphological similarity"
+      ],
+      "neetTips": [
+        "NEET may test the biological species concept versus morphological concept"
+      ]
+    },
+    {
+      "topic": "Genus",
+      "heading": "Genus",
+      "content": "A genus comprises one or more species that are closely related and share a recent common ancestor. The genus name forms the first part of the binomial.",
+      "keyPoints": [
+        "Group of related species",
+        "First part of binomial name",
+        "Capitalised"
+      ],
+      "neetTips": [
+        "Examples: *Rosa* (roses), *Canis* (dogs, wolves)"
+      ]
+    },
+    {
+      "topic": "Family",
+      "heading": "Family",
+      "content": "Family groups related genera. Families often end with the suffix “‑aceae” in plants and “‑idae” in animals.",
+      "keyPoints": [
+        "Higher than genus, lower than order",
+        "Standard suffixes aid recognition"
+      ],
+      "neetTips": [
+        "Remember plant family suffix “‑aceae” for quick identification"
+      ]
+    },
+    {
+      "topic": "Order",
+      "heading": "Order",
+      "content": "Order contains related families. In zoology, orders often end with “‑iformes” (birds) or “‑a” (mammals).",
+      "keyPoints": [
+        "Groups families with common traits",
+        "Intermediate rank"
+      ],
+      "neetTips": [
+        "Example: Order *Primates* includes families *Hominidae*, *Cebidae*"
+      ]
+    },
+    {
+      "topic": "Class",
+      "heading": "Class",
+      "content": "Class aggregates related orders. For plants, classes end with “‑opsida”; for animals, no fixed suffix.",
+      "keyPoints": [
+        "Broad grouping of orders",
+        "Reflects major structural similarities"
+      ],
+      "neetTips": [
+        "Class *Mammalia* includes orders *Primates*, *Carnivora*, etc."
+      ]
+    },
+    {
+      "topic": "Phylum",
+      "heading": "Phylum",
+      "content": "Phylum groups classes that share a fundamental body plan. In plants, the term “division” is used synonymously.",
+      "keyPoints": [
+        "Based on basic organization (e.g., presence of backbone)",
+        "Major evolutionary lineages"
+      ],
+      "neetTips": [
+        "Chordata (vertebrates) vs. Arthropoda (insects, crustaceans)"
+      ]
+    },
+    {
+      "topic": "Kingdom",
+      "heading": "Kingdom",
+      "content": "Kingdom is the highest traditional rank, grouping phyla with fundamental cellular organization (e.g., prokaryotic vs. eukaryotic). Modern systems use domains above kingdom.",
+      "keyPoints": [
+        "Five‑kingdom model: Monera, Protista, Fungi, Plantae, Animalia",
+        "Reflects major cellular differences"
+      ],
+      "neetTips": [
+        "NEET may ask to place an organism in the correct kingdom"
+      ]
+    },
+    {
+      "topic": "Taxonomical aids",
+      "heading": "Taxonomical Aids",
+      "content": "Various tools assist identification and classification: (1) Herbarium – preserved plant specimens; (2) Botanical gardens – living collections; (3) Museums – animal specimens; (4) Zoological parks – live animal displays; (5) Identification keys – dichotomous or multi‑access keys.",
+      "keyPoints": [
+        "Herbarium – dried, labelled plant sheets",
+        "Botanical garden – living reference for morphology",
+        "Museum – skeletal, taxidermy specimens",
+        "Zoological park – behavior observation",
+        "Keys – stepwise choices based on characters"
+      ],
+      "neetTips": [
+        "Remember “Herbarium, Garden, Museum, Zoo, Keys” as aids for plant and animal taxonomy"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand why organisms are considered living and how scientists identify, name, classify, and organize biological diversity."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT considered a characteristic that defines a living organism?",
+      "options": [
+        "Metabolism",
+        "Growth",
+        "Ability to move",
+        "Response to external stimuli"
+      ],
+      "answer": 2,
+      "explanation": "All living organisms exhibit metabolism, growth and response to stimuli. Ability to move is not universal (e.g., plants), so it is not a defining characteristic.",
+      "topic": "The Living World"
+    },
+    {
+      "question": "According to the rules of binomial nomenclature, the scientific name of a species is written as:",
+      "options": [
+        "Genus species (both italicised)",
+        "Species genus (both italicised)",
+        "Family genus (both italicised)",
+        "Order species (both italicised)"
+      ],
+      "answer": 0,
+      "explanation": "The correct format is the genus name followed by the specific epithet, both italicised, e.g., *Homo sapiens*.",
+      "topic": "The Living World"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank comes immediately after the rank of 'Family'?",
+      "options": [
+        "Order",
+        "Genus",
+        "Class",
+        "Phylum"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy proceeds as: Kingdom > Phylum > Class > Order > Family > Genus > Species. Thus, Order follows Family.",
+      "topic": "The Living World"
+    },
+    {
+      "question": "Which taxonomic aid is primarily used for the long‑term preservation of plant specimens for reference and study?",
+      "options": [
+        "Herbarium",
+        "Botanical garden",
+        "Zoological park",
+        "Museum"
+      ],
+      "answer": 0,
+      "explanation": "A herbarium is a collection of dried, pressed plant specimens that are stored and catalogued for scientific research.",
+      "topic": "The Living World"
+    },
+    {
+      "question": "Which of the following is NOT considered a universal characteristic of living organisms as per NCERT?",
+      "options": [
+        "Metabolism",
+        "Growth",
+        "Ability to move spontaneously",
+        "Response to external stimuli"
+      ],
+      "answer": 2,
+      "explanation": "Movement is not universal; many organisms such as trees and fungi are sessile yet are alive.",
+      "topic": "Characteristics of living organisms"
+    },
+    {
+      "question": "The capacity of an organism to maintain internal stability despite external fluctuations is called:",
+      "options": [
+        "Homeostasis",
+        "Metabolism",
+        "Adaptation",
+        "Growth"
+      ],
+      "answer": 0,
+      "explanation": "Homeostasis refers to the regulation of the internal environment to keep conditions within a narrow, optimal range.",
+      "topic": "Characteristics of living organisms"
+    },
+    {
+      "question": "Why can a single characteristic not be used alone to define life?",
+      "options": [
+        "Viruses show some life‑like traits but lack others such as independent metabolism",
+        "All bacteria lack cellular organization",
+        "Plants do not respond to stimuli",
+        "Every living thing exhibits all characteristics simultaneously"
+      ],
+      "answer": 0,
+      "explanation": "Viruses possess certain features like genetic material and can reproduce inside a host, yet they lack independent metabolism and cellular organization, illustrating that no single trait defines life.",
+      "topic": "Characteristics of living organisms"
+    },
+    {
+      "question": "Which process provides direct evidence of metabolism in a living cell?",
+      "options": [
+        "Photosynthesis",
+        "Cell division",
+        "DNA replication",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Metabolism encompasses all chemical reactions that provide energy and building blocks, including photosynthesis, cell division, and DNA replication.",
+      "topic": "Characteristics of living organisms"
+    },
+    {
+      "question": "Growth in living organisms is best described as:",
+      "options": [
+        "An increase in size resulting from cell division and enlargement",
+        "A process of producing offspring",
+        "The ability to adapt to environmental changes",
+        "The capacity to store genetic information"
+      ],
+      "answer": 0,
+      "explanation": "Growth refers to the increase in size of an organism due to both cell division (increase in cell number) and cell enlargement (increase in cell size).",
+      "topic": "Growth"
+    },
+    {
+      "question": "Primary growth in plants leads to:",
+      "options": [
+        "Increase in stem girth due to lateral meristems",
+        "Formation of secondary xylem and phloem",
+        "Lengthening of roots and shoots",
+        "Development of flowers"
+      ],
+      "answer": 2,
+      "explanation": "Primary growth, driven by apical meristems, results in the elongation of roots and shoots, extending the plant's length.",
+      "topic": "Growth"
+    },
+    {
+      "question": "Most animals exhibit which type of growth pattern after reaching sexual maturity?",
+      "options": [
+        "Indeterminate growth",
+        "Determinate growth",
+        "Secondary growth",
+        "Continuous hyperplasia"
+      ],
+      "answer": 1,
+      "explanation": "After sexual maturity, most animals show determinate growth, meaning they stop increasing in size and further growth is limited to tissue repair.",
+      "topic": "Growth"
+    },
+    {
+      "question": "Which statement correctly distinguishes sexual reproduction from asexual reproduction in terms of genetic variation?",
+      "options": [
+        "Sexual reproduction always involves fusion of haploid gametes, leading to offspring genetically identical to parents.",
+        "Asexual reproduction involves meiosis, resulting in genetically diverse offspring.",
+        "Sexual reproduction involves meiosis and fusion of gametes, producing genetically varied offspring.",
+        "Asexual reproduction always produces diploid offspring through binary fission."
+      ],
+      "answer": 2,
+      "explanation": "In sexual reproduction, meiosis creates haploid gametes and their fusion (fertilization) restores diploidy, introducing new genetic combinations. Asexual reproduction bypasses meiosis, so offspring are clones of the parent.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "In the life cycle of a typical fern, the dominant, photosynthetic phase is the:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Zygote",
+        "Embryo"
+      ],
+      "answer": 1,
+      "explanation": "Ferns exhibit alternation of generations where the diploid sporophyte is the large, photosynthetic plant commonly recognized, while the haploid gametophyte is small and short-lived.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "Which of the following is a correct statement about the role of hormones in animal reproduction?",
+      "options": [
+        "Oxytocin is secreted by the testes and stimulates spermatogenesis.",
+        "Estrogen is produced by the corpus luteum and maintains pregnancy.",
+        "Progesterone secreted by the corpus luteum prepares the uterine lining for implantation.",
+        "Luteinizing hormone (LH) inhibits ovulation in females."
+      ],
+      "answer": 2,
+      "explanation": "Progesterone, released by the corpus luteum after ovulation, makes the endometrium receptive for implantation and sustains early pregnancy. The other statements misrepresent hormone sources or functions.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "The term \"apomixis\" in plants refers to:",
+      "options": [
+        "Formation of seeds without fertilization, producing offspring genetically identical to the mother.",
+        "Production of male gametes in the absence of female structures.",
+        "Alternation of generations where the sporophyte is dominant.",
+        "Development of a new individual from a detached leaf fragment."
+      ],
+      "answer": 0,
+      "explanation": "Apomixis is an asexual mode of seed formation where embryos develop without fertilization, resulting in clonal progeny. It is distinct from vegetative propagation (leaf fragments) or normal sexual alternation of generations.",
+      "topic": "Reproduction"
+    },
+    {
+      "question": "Which statement correctly distinguishes prokaryotic cells from eukaryotic cells?",
+      "options": [
+        "Prokaryotes possess a membrane‑bound nucleus",
+        "Eukaryotes have linear chromosomes while prokaryotes have circular chromosomes",
+        "Both groups contain mitochondria",
+        "Both groups contain chloroplasts"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cells have linear chromosomes housed in a nucleus; prokaryotic cells typically have a single circular chromosome and lack a membrane‑bound nucleus.",
+      "topic": "Cellular organization"
+    },
+    {
+      "question": "In a typical plant cell, the middle lamella primarily functions to:",
+      "options": [
+        "Carry out photosynthesis",
+        "Provide cell‑to‑cell adhesion",
+        "Store starch granules",
+        "Synthesize proteins"
+      ],
+      "answer": 1,
+      "explanation": "The middle lamella, rich in pectins, cements adjacent plant cells together, facilitating adhesion.",
+      "topic": "Cellular organization"
+    },
+    {
+      "question": "Which organelle is chiefly responsible for lipid synthesis and detoxification in animal cells?",
+      "options": [
+        "Lysosome",
+        "Golgi apparatus",
+        "Smooth endoplasmic reticulum",
+        "Rough endoplasmic reticulum"
+      ],
+      "answer": 2,
+      "explanation": "The smooth endoplasmic reticulum lacks ribosomes and is the main site for phospholipid and steroid synthesis as well as detoxifying enzymes.",
+      "topic": "Cellular organization"
+    },
+    {
+      "question": "The presence of which feature is used as a taxonomic aid to separate the phyla Arthropoda and Annelida?",
+      "options": [
+        "A true coelom",
+        "Segmented body with jointed appendages",
+        "A pseudocoelom",
+        "A notochord"
+      ],
+      "answer": 1,
+      "explanation": "Arthropods are characterized by a segmented body bearing jointed appendages, a feature absent in annelids, which have unjointed segmented bodies.",
+      "topic": "Cellular organization"
+    },
+    {
+      "question": "Which of the following best describes the role of auxin in a plant’s response to unilateral light?",
+      "options": [
+        "Inhibits cell elongation on the illuminated side causing upward bending",
+        "Promotes cell elongation on the shaded side causing upward bending",
+        "Causes uniform cell expansion leading to leaf thickening",
+        "Triggers stomatal closure in response to light"
+      ],
+      "answer": 1,
+      "explanation": "Auxin accumulates on the shaded side of the stem, promoting cell elongation there, which results in the stem bending towards the light (positive phototropism).",
+      "topic": "Response to stimuli"
+    },
+    {
+      "question": "The rapid withdrawal reflex of a hand from a painful stimulus is primarily mediated by which type of neuron in the spinal cord?",
+      "options": [
+        "Sensory neuron",
+        "Motor neuron",
+        "Interneuron",
+        "Autonomic neuron"
+      ],
+      "answer": 2,
+      "explanation": "The sensory input activates interneurons in the spinal cord, which directly synapse with motor neurons to produce the quick withdrawal response without involving the brain.",
+      "topic": "Response to stimuli"
+    },
+    {
+      "question": "In thigmotropism of climbing plants, the curvature towards a support is due to:",
+      "options": [
+        "Perception of the stimulus by root hairs",
+        "Differential cell elongation on the side opposite to the support",
+        "Ethylene acting as the primary signalling hormone",
+        "A response that is independent of auxin distribution"
+      ],
+      "answer": 1,
+      "explanation": "Touch stimulus causes auxin to accumulate on the side opposite the support, leading to greater cell elongation there and causing the shoot to curl around the support.",
+      "topic": "Response to stimuli"
+    },
+    {
+      "question": "Phototaxis in motile microorganisms refers to:",
+      "options": [
+        "Movement towards higher temperature",
+        "Movement towards or away from light",
+        "Movement in response to chemical gradients",
+        "Movement triggered by mechanical disturbance"
+      ],
+      "answer": 1,
+      "explanation": "Phototaxis is the directed movement of organisms in response to light, either positive (towards light) or negative (away from light).",
+      "topic": "Response to stimuli"
+    },
+    {
+      "question": "According to the NCERT definition, consciousness in living organisms primarily refers to:",
+      "options": [
+        "The ability to carry out metabolic reactions",
+        "The ability to respond to external stimuli in a coordinated manner",
+        "The ability to reproduce sexually",
+        "The ability to grow and develop"
+      ],
+      "answer": 1,
+      "explanation": "Consciousness is described as the capacity of an organism to perceive and respond to external stimuli in a coordinated way, distinguishing it from mere metabolic activity.",
+      "topic": "Consciousness"
+    },
+    {
+      "question": "Which of the following groups of organisms exhibits the highest level of consciousness as defined by the presence of a well‑developed central nervous system?",
+      "options": [
+        "Bacteria",
+        "Ferns",
+        "Mammals",
+        "Fungi"
+      ],
+      "answer": 2,
+      "explanation": "Mammals possess a complex brain and central nervous system that enable advanced perception, learning and decision‑making, representing the highest level of consciousness among the listed groups.",
+      "topic": "Consciousness"
+    },
+    {
+      "question": "An experiment shows that a garden snail can navigate a maze more efficiently after repeated trials, remembering the correct path. This observation most directly demonstrates:",
+      "options": [
+        "Metabolic activity",
+        "Phototaxis",
+        "Learning and memory",
+        "Cell division"
+      ],
+      "answer": 2,
+      "explanation": "Learning and memory indicate that the organism can modify its behavior based on past experience, a key aspect of consciousness beyond simple stimulus response.",
+      "topic": "Consciousness"
+    },
+    {
+      "question": "The presence of which anatomical feature most clearly distinguishes conscious organisms from those that only exhibit simple reflex responses?",
+      "options": [
+        "Hormone‑producing glands",
+        "A well‑developed central nervous system",
+        "Chloroplasts for photosynthesis",
+        "Cell wall composed of cellulose"
+      ],
+      "answer": 1,
+      "explanation": "A well‑developed central nervous system allows integration of sensory information and coordinated responses, which is essential for consciousness.",
+      "topic": "Consciousness"
+    },
+    {
+      "question": "Which statement best defines biodiversity?",
+      "options": [
+        "The variety of ecosystems present in a region",
+        "The total number of individuals in a population",
+        "The variety of living organisms at genetic, species, and ecosystem levels",
+        "The total biomass accumulated in a habitat"
+      ],
+      "answer": 2,
+      "explanation": "Biodiversity encompasses variation at three hierarchical levels – genetic diversity within species, species diversity, and ecosystem diversity.",
+      "topic": "Biodiversity"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which sequence correctly orders the ranks from the most inclusive to the least inclusive?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Class, Phylum, Order, Family, Species, Genus",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species"
+      ],
+      "answer": 1,
+      "explanation": "The correct order from highest to lowest rank is Kingdom → Phylum → Class → Order → Family → Genus → Species.",
+      "topic": "Biodiversity"
+    },
+    {
+      "question": "Which of the following is NOT a taxonomic aid used for the identification of plant species?",
+      "options": [
+        "Herbarium specimen",
+        "Dichotomous key",
+        "DNA barcoding",
+        "Zoological park"
+      ],
+      "answer": 3,
+      "explanation": "A zoological park houses live animals and is not used as a taxonomic aid for plant identification, unlike herbarium specimens, dichotomous keys, and DNA barcoding.",
+      "topic": "Biodiversity"
+    },
+    {
+      "question": "According to the rules of binomial nomenclature, the scientific name of a species consists of:",
+      "options": [
+        "Family name followed by species epithet",
+        "Genus name followed by specific epithet",
+        "Order name followed by genus name",
+        "Species epithet followed by subspecies name"
+      ],
+      "answer": 1,
+      "explanation": "Binomial nomenclature uses two names: the genus name (capitalized) followed by the specific epithet (lowercase), e.g., *Homo sapiens*.",
+      "topic": "Biodiversity"
+    },
+    {
+      "question": "Which of the following correctly lists the taxonomic hierarchy from the most inclusive to the most specific?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Class, Order, Phylum, Kingdom",
+        "Genus, Species, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "answer": 1,
+      "explanation": "The standard hierarchy from highest (most inclusive) to lowest (most specific) rank is Kingdom → Phylum → Class → Order → Family → Genus → Species.",
+      "topic": "Taxonomy"
+    },
+    {
+      "question": "In the binomial name *Homo sapiens*, the specific epithet is:",
+      "options": [
+        "Homo",
+        "sapiens",
+        "Homo sapiens",
+        "Homo sapiens Linnaeus"
+      ],
+      "answer": 1,
+      "explanation": "The first part of a binomial name is the genus (Homo) and the second part is the specific epithet (sapiens). Together they form the species name.",
+      "topic": "Taxonomy"
+    },
+    {
+      "question": "Which taxonomic aid is primarily used for preserving dried plant specimens for future reference?",
+      "options": [
+        "Herbarium",
+        "Botanical garden",
+        "Zoological park",
+        "Museum"
+      ],
+      "answer": 0,
+      "explanation": "A herbarium is a collection of preserved plant specimens, usually pressed and dried, stored for taxonomic study and reference.",
+      "topic": "Taxonomy"
+    },
+    {
+      "question": "Why is a taxonomic hierarchy essential in biological classification?",
+      "options": [
+        "It reflects evolutionary relationships and provides a universal language for scientists.",
+        "It is only useful for plants, not animals.",
+        "It groups organisms solely based on habitat similarity.",
+        "It eliminates the need for molecular studies."
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy organizes organisms based on shared characteristics and evolutionary ancestry, allowing scientists worldwide to communicate unambiguously.",
+      "topic": "Taxonomy"
+    },
+    {
+      "question": "Which statement best describes the primary objective of systematics?",
+      "options": [
+        "To assign a unique scientific name to each organism.",
+        "To study the evolutionary relationships among organisms and classify them accordingly.",
+        "To catalogue all known species in a database.",
+        "To describe the morphological features of organisms."
+      ],
+      "answer": 1,
+      "explanation": "Systematics aims to understand the evolutionary relationships (phylogeny) among organisms and to classify them based on these relationships, not merely to name or describe them.",
+      "topic": "Systematics"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank directly follows 'Order'?",
+      "options": [
+        "Family",
+        "Class",
+        "Genus",
+        "Phylum"
+      ],
+      "answer": 0,
+      "explanation": "The standard hierarchy is: Kingdom > Phylum > Class > Order > Family > Genus > Species. Hence, Family follows Order.",
+      "topic": "Systematics"
+    },
+    {
+      "question": "A dichotomous key is most useful for:",
+      "options": [
+        "Determining the phylogenetic tree of mammals.",
+        "Identifying an unknown plant specimen based on observable characters.",
+        "Estimating the population size of a species.",
+        "Measuring the metabolic rate of an organism."
+      ],
+      "answer": 1,
+      "explanation": "Dichotomous keys provide a step‑wise series of choices based on morphological traits, enabling identification of unknown specimens.",
+      "topic": "Systematics"
+    },
+    {
+      "question": "In systematics, a 'type specimen' refers to:",
+      "options": [
+        "The most common specimen of a species found in nature.",
+        "A specimen designated as the reference for the application of a species name.",
+        "Any specimen used for DNA sequencing.",
+        "The first fossil discovered of a taxon."
+      ],
+      "answer": 1,
+      "explanation": "A type specimen is the single physical example of an organism upon which the description and name of a new species is based.",
+      "topic": "Systematics"
+    },
+    {
+      "question": "In a correctly written scientific name, which part is always in lowercase?",
+      "options": [
+        "Genus",
+        "Specific epithet",
+        "Family",
+        "Order"
+      ],
+      "answer": 1,
+      "explanation": "The specific epithet (species name) is written in lowercase, while the genus name starts with a capital letter.",
+      "topic": "Nomenclature"
+    },
+    {
+      "question": "How should the authority be cited for the plant species Rosa indica L.?",
+      "options": [
+        "Rosa indica L.",
+        "Rosa indica (L.)",
+        "Rosa indica L. ex Smith",
+        "Rosa indica (L.) Smith"
+      ],
+      "answer": 0,
+      "explanation": "The author’s abbreviated name follows the binomial without parentheses when the original classification remains unchanged.",
+      "topic": "Nomenclature"
+    },
+    {
+      "question": "Which statement correctly describes the principle of priority in nomenclature?",
+      "options": [
+        "The earliest validly published name is retained even if later names are more widely used.",
+        "Later names replace earlier ones if they are more descriptive.",
+        "Names are prioritized based on the number of species in the genus.",
+        "Priority is decided by the ICZN only for animals."
+      ],
+      "answer": 0,
+      "explanation": "The principle of priority gives precedence to the first validly published name, regardless of later usage.",
+      "topic": "Nomenclature"
+    },
+    {
+      "question": "In the binomial Homo sapiens, the term \"sapiens\" represents:",
+      "options": [
+        "the genus",
+        "the specific epithet",
+        "the family name",
+        "the order name"
+      ],
+      "answer": 1,
+      "explanation": "\"sapiens\" is the specific epithet; together with the genus \"Homo\" it forms the species name.",
+      "topic": "Nomenclature"
+    },
+    {
+      "question": "In binomial nomenclature, how should the specific epithet be written?",
+      "options": [
+        "lowercase and italicized",
+        "uppercase and italicized",
+        "lowercase and underlined",
+        "uppercase and underlined"
+      ],
+      "answer": 0,
+      "explanation": "The specific epithet is always written in lowercase letters and the whole binomial (genus + specific epithet) is italicized.",
+      "topic": "Binomial nomenclature"
+    },
+    {
+      "question": "In the scientific name *Rosa chinensis*, the term \"chinensis\" denotes:",
+      "options": [
+        "genus",
+        "family",
+        "specific epithet",
+        "order"
+      ],
+      "answer": 2,
+      "explanation": "\"chinensis\" is the specific epithet that, together with the genus name *Rosa*, uniquely identifies the species.",
+      "topic": "Binomial nomenclature"
+    },
+    {
+      "question": "Which of the following is NOT a rule of the International Code of Nomenclature (ICN) for binomial names?",
+      "options": [
+        "The genus name must be a single word",
+        "The specific epithet may be a noun in apposition",
+        "The author's name is always written in parentheses",
+        "The whole name is italicized"
+      ],
+      "answer": 2,
+      "explanation": "The author's name is placed in parentheses only when the species has been moved to a different genus; it is not required in all cases.",
+      "topic": "Binomial nomenclature"
+    },
+    {
+      "question": "When a species is transferred to a new genus, how is the original author's name shown?",
+      "options": [
+        "It is omitted",
+        "It is placed in parentheses before the new author's name",
+        "It is placed after the new author's name without parentheses",
+        "It remains unchanged"
+      ],
+      "answer": 1,
+      "explanation": "If a species is re‑classified, the original author's name is retained in parentheses followed by the name of the author who made the new combination.",
+      "topic": "Binomial nomenclature"
+    },
+    {
+      "question": "Which of the following lists the taxonomic ranks in the correct order from the most inclusive to the most specific?",
+      "options": [
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchical classification proceeds from the broadest rank (Kingdom) to the narrowest (Species) as: Kingdom > Phylum > Class > Order > Family > Genus > Species.",
+      "topic": "Taxonomic hierarchy"
+    },
+    {
+      "question": "In the binomial name *Rosa chinensis*, the term *Rosa* denotes which taxonomic rank?",
+      "options": [
+        "Family",
+        "Genus",
+        "Species",
+        "Order"
+      ],
+      "answer": 1,
+      "explanation": "In binomial nomenclature, the first word represents the genus, while the second word (specific epithet) together with the genus forms the species name.",
+      "topic": "Taxonomic hierarchy"
+    },
+    {
+      "question": "Which taxonomic rank is immediately higher than the genus *Panthera*?",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Class"
+      ],
+      "answer": 1,
+      "explanation": "The hierarchy around genus is: Family > Genus > Species. Hence, the rank directly above genus *Panthera* is the family Felidae.",
+      "topic": "Taxonomic hierarchy"
+    },
+    {
+      "question": "If a botanist identifies a plant up to the family level, which of the following ranks is still unknown for that plant?",
+      "options": [
+        "Order",
+        "Class",
+        "Genus",
+        "Phylum"
+      ],
+      "answer": 2,
+      "explanation": "Knowing the family does not reveal the genus; the hierarchy proceeds as Order > Family > Genus > Species. Therefore, the genus remains to be determined.",
+      "topic": "Taxonomic hierarchy"
+    },
+    {
+      "question": "According to the biological species concept, which statement best defines a species?",
+      "options": [
+        "A group of organisms that share similar morphological traits",
+        "A group of organisms that can interbreed and produce fertile offspring in natural conditions",
+        "A group of organisms occupying the same habitat",
+        "A group of organisms with the same chromosome number"
+      ],
+      "answer": 1,
+      "explanation": "The biological species concept defines a species as a set of actually or potentially interbreeding natural populations which are reproductively isolated from other such groups.",
+      "topic": "Species"
+    },
+    {
+      "question": "In binomial nomenclature, the specific epithet is always written in which format?",
+      "options": [
+        "First letter capitalised and italicised",
+        "All letters lower‑case and italicised",
+        "All letters upper‑case and underlined",
+        "Bold and capitalised"
+      ],
+      "answer": 1,
+      "explanation": "The specific epithet (second part of the scientific name) is written in lowercase letters and both genus and species names are italicised (e.g., Rosa chinensis).",
+      "topic": "Species"
+    },
+    {
+      "question": "Which of the following is NOT considered a taxonomic aid for species identification?",
+      "options": [
+        "Herbarium specimens",
+        "Dichotomous key",
+        "DNA barcoding",
+        "Botanical garden"
+      ],
+      "answer": 3,
+      "explanation": "Herbarium, dichotomous keys and DNA barcoding are direct tools for identification. A botanical garden is a living collection for conservation and education, not a primary taxonomic aid.",
+      "topic": "Species"
+    },
+    {
+      "question": "Which scenario best illustrates reproductive isolation that can lead to the formation of new species?",
+      "options": [
+        "Two frog populations interbreed but show a preference for different mates",
+        "Two beetle populations occupy different habitats yet produce fertile hybrids",
+        "Two bird populations have distinct mating calls and no longer interbreed",
+        "Two plant populations differ in leaf shape but share the same pollinators"
+      ],
+      "answer": 2,
+      "explanation": "Distinct mating calls that prevent interbreeding represent a pre‑zygotic reproductive barrier, a classic mechanism driving speciation.",
+      "topic": "Species"
+    },
+    {
+      "question": "In the binomial nomenclature of a species, how is the genus name correctly written?",
+      "options": [
+        "First letter capitalized and the whole name italicised",
+        "All letters lowercase and the whole name underlined",
+        "First letter lowercase and the whole name bolded",
+        "All letters capitalized and the whole name in quotation marks"
+      ],
+      "answer": 0,
+      "explanation": "The genus name starts with a capital letter and, together with the specific epithet, is written in italics (or underlined when handwritten).",
+      "topic": "Genus"
+    },
+    {
+      "question": "Which taxonomic rank is immediately higher than genus?",
+      "options": [
+        "Family",
+        "Order",
+        "Species",
+        "Class"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy is Species < Genus < Family < Order < Class …; therefore, family is the rank directly above genus.",
+      "topic": "Genus"
+    },
+    {
+      "question": "The genus name in a scientific name is shared by:",
+      "options": [
+        "Only one species worldwide",
+        "Two or more closely related species",
+        "All organisms belonging to the same family",
+        "All organisms that share the same habitat"
+      ],
+      "answer": 1,
+      "explanation": "A genus groups together two or more species that are closely related; the same genus name appears in the binomial names of all those species.",
+      "topic": "Genus"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank directly follows the order and precedes the genus?",
+      "options": [
+        "Family",
+        "Class",
+        "Phylum",
+        "Species"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy is: Kingdom > Phylum > Class > Order > Family > Genus > Species. Hence, family comes immediately after order.",
+      "topic": "Family"
+    },
+    {
+      "question": "The family Felidae includes which of the following genera?",
+      "options": [
+        "Canis",
+        "Panthera",
+        "Equus",
+        "Bos"
+      ],
+      "answer": 1,
+      "explanation": "Felidae is the cat family; Panthera (e.g., lion, tiger) is a genus within this family. Canis belongs to Canidae, Equus to Equidae, Bos to Bovidae.",
+      "topic": "Family"
+    },
+    {
+      "question": "According to the International Code of Zoological Nomenclature, the suffix added to the type‑genus name to form a family name is:",
+      "options": [
+        "-inae",
+        "-aceae",
+        "-idae",
+        "-ales"
+      ],
+      "answer": 2,
+      "explanation": "In zoological nomenclature, family names are formed by adding the suffix -idae to the stem of the type genus (e.g., Felis → Felidae).",
+      "topic": "Family"
+    },
+    {
+      "question": "Which statement about taxonomic families is correct?",
+      "options": [
+        "Family rank is above class.",
+        "Family names end with -aceae in zoology.",
+        "Families contain only one genus.",
+        "Family names are derived from the type genus and end with -idae in animals."
+      ],
+      "answer": 3,
+      "explanation": "In animal taxonomy, a family name is based on the type genus and takes the suffix -idae (e.g., Canis → Canidae). The other statements are false.",
+      "topic": "Family"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank directly follows the class?",
+      "options": [
+        "Order",
+        "Family",
+        "Genus",
+        "Species"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy is Kingdom > Phylum > Class > Order > Family > Genus > Species; thus Order comes immediately after Class.",
+      "topic": "Order"
+    },
+    {
+      "question": "The domestic dog (Canis lupus familiaris) belongs to which order?",
+      "options": [
+        "Carnivora",
+        "Primates",
+        "Rodentia",
+        "Lagomorpha"
+      ],
+      "answer": 0,
+      "explanation": "Dogs are members of the order Carnivora, which includes meat‑eating mammals such as cats, bears and weasels.",
+      "topic": "Order"
+    },
+    {
+      "question": "Which statement about the taxonomic rank 'order' is correct?",
+      "options": [
+        "All members of an order share a common phylum but not necessarily a common class.",
+        "Orders are grouped into families based on morphological similarities.",
+        "Orders are more inclusive than families but less inclusive than classes.",
+        "The rank of order is used only in zoological nomenclature, not in botanical classification."
+      ],
+      "answer": 2,
+      "explanation": "An order is a higher rank than family and a lower rank than class, making it more inclusive than families but less inclusive than classes.",
+      "topic": "Order"
+    },
+    {
+      "question": "In the classification of flowering plants, the order Rosales includes which of the following families?",
+      "options": [
+        "Rosaceae",
+        "Poaceae",
+        "Fabaceae",
+        "Solanaceae"
+      ],
+      "answer": 0,
+      "explanation": "Rosales comprises families such as Rosaceae (rose family); Poaceae belongs to the order Poales, Fabaceae to Fabales, and Solanaceae to Solanales.",
+      "topic": "Order"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank directly follows the rank of Class?",
+      "options": [
+        "Order",
+        "Family",
+        "Phylum",
+        "Genus"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy proceeds as Kingdom > Phylum > Class > Order > Family > Genus > Species; thus Order follows Class.",
+      "topic": "Class"
+    },
+    {
+      "question": "The class Mammalia is primarily distinguished from other vertebrate classes by which characteristic?",
+      "options": [
+        "Presence of feathers",
+        "Presence of mammary glands",
+        "Presence of scales",
+        "Presence of gills"
+      ],
+      "answer": 1,
+      "explanation": "Mammals are defined by the presence of mammary glands that produce milk for their young, a feature absent in other vertebrate classes.",
+      "topic": "Class"
+    },
+    {
+      "question": "Which of the following correctly pairs a plant class with one of its representative orders?",
+      "options": [
+        "Class Liliopsida – Order Rosales",
+        "Class Magnoliopsida – Order Rosales",
+        "Class Bryopsida – Order Poales",
+        "Class Pinopsida – Order Rosales"
+      ],
+      "answer": 1,
+      "explanation": "Class Magnoliopsida (dicotyledons) includes the order Rosales; the other pairings are mismatched.",
+      "topic": "Class"
+    },
+    {
+      "question": "In zoological nomenclature, the suffix \"-ia\" is most commonly associated with which taxonomic rank?",
+      "options": [
+        "Class",
+        "Order",
+        "Family",
+        "Genus"
+      ],
+      "answer": 0,
+      "explanation": "Many animal class names end with \"-ia\" (e.g., Mammalia, Aves, Reptilia), whereas order, family, and genus names use different suffix conventions.",
+      "topic": "Class"
+    },
+    {
+      "question": "Which of the following statements correctly describes the basis for grouping organisms into a phylum?",
+      "options": [
+        "Similarities in overall body plan and organization of organ systems",
+        "Same number of chromosomes",
+        "Same habitat preference",
+        "Same reproductive mode"
+      ],
+      "answer": 0,
+      "explanation": "Phyla are defined primarily on the basis of fundamental body plans and the organization of major organ systems, not on chromosome number, habitat, or reproductive mode.",
+      "topic": "Phylum"
+    },
+    {
+      "question": "The phylum Porifera is distinguished from other animal phyla because its members:",
+      "options": [
+        "possess true tissues and organs",
+        "have a complete digestive tract",
+        "lack true tissues and have porous bodies",
+        "exhibit bilateral symmetry"
+      ],
+      "answer": 2,
+      "explanation": "Sponges (Porifera) are characterized by the absence of true tissues and organs and by a porous body through which water flows.",
+      "topic": "Phylum"
+    },
+    {
+      "question": "Which pair correctly matches a phylum with a characteristic feature unique to that phylum?",
+      "options": [
+        "Arthropoda – presence of a water vascular system",
+        "Mollusca – radula as a feeding organ",
+        "Echinodermata – chitinous exoskeleton",
+        "Nematoda – presence of a notochord"
+      ],
+      "answer": 1,
+      "explanation": "The radula, a rasping feeding organ, is a distinctive feature of the phylum Mollusca. The other options pair incorrect features with the phyla.",
+      "topic": "Phylum"
+    },
+    {
+      "question": "In the taxonomic hierarchy, the rank immediately higher than 'phylum' is:",
+      "options": [
+        "Class",
+        "Kingdom",
+        "Order",
+        "Domain"
+      ],
+      "answer": 1,
+      "explanation": "The hierarchy proceeds as Species < Genus < Family < Order < Class < Phylum < Kingdom < Domain; thus, Kingdom is directly above Phylum.",
+      "topic": "Phylum"
+    },
+    {
+      "question": "In the modern five‑kingdom classification, the primary criterion used to separate organisms into different kingdoms is",
+      "options": [
+        "Cellular organization (prokaryotic vs eukaryotic)",
+        "Presence or absence of a nucleus",
+        "Mode of nutrition (autotrophic vs heterotrophic)",
+        "Number of chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "The five‑kingdom system distinguishes Monera (prokaryotes) from the other kingdoms, which are eukaryotic. Hence cellular organization is the primary basis.",
+      "topic": "Kingdom"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank comes immediately after 'Class' and before 'Family'?",
+      "options": [
+        "Order",
+        "Phylum",
+        "Genus",
+        "Species"
+      ],
+      "answer": 0,
+      "explanation": "The correct sequence is: Class → Order → Family. Therefore, Order follows Class and precedes Family.",
+      "topic": "Kingdom"
+    },
+    {
+      "question": "In the binomial name *Rana temporaria*, the term *Rana* represents the",
+      "options": [
+        "species",
+        "genus",
+        "family",
+        "order"
+      ],
+      "answer": 1,
+      "explanation": "The first part of a binomial name denotes the genus, while the second part denotes the specific epithet (species).",
+      "topic": "Kingdom"
+    },
+    {
+      "question": "Which statement about the kingdom Fungi is FALSE?",
+      "options": [
+        "They are heterotrophic by absorption",
+        "Their cell walls contain cellulose",
+        "They reproduce by spores",
+        "Their cell walls contain chitin"
+      ],
+      "answer": 1,
+      "explanation": "Fungal cell walls are composed of chitin, not cellulose. The other statements are true for fungi.",
+      "topic": "Kingdom"
+    },
+    {
+      "question": "Which of the following is NOT a primary purpose of a herbarium?",
+      "options": [
+        "Preservation of plant specimens for reference",
+        "Study of plant morphology and taxonomy",
+        "Cultivation of living plants for experimental research",
+        "Providing material for DNA analysis"
+      ],
+      "answer": 2,
+      "explanation": "Herbaria store dried, pressed plant specimens; they do not involve cultivation of living plants, which is done in botanical gardens or research farms.",
+      "topic": "Taxonomical aids"
+    },
+    {
+      "question": "Which taxonomic aid is primarily used for the study of animal diversity and includes preserved specimens in fluid?",
+      "options": [
+        "Herbarium",
+        "Zoological park",
+        "Museum",
+        "Botanical garden"
+      ],
+      "answer": 2,
+      "explanation": "Museums maintain collections of animal specimens, often preserved in alcohol or formalin, facilitating comparative studies of animal diversity.",
+      "topic": "Taxonomical aids"
+    },
+    {
+      "question": "In a botanical garden, the main advantage over a herbarium for teaching plant anatomy is:",
+      "options": [
+        "Availability of live specimens showing functional traits",
+        "Larger collection of fossilized plants",
+        "Ability to store DNA samples",
+        "Standardized dichotomous keys"
+      ],
+      "answer": 0,
+      "explanation": "Botanical gardens grow living plants, allowing observation of functional anatomy (e.g., stomatal opening, flower development) that cannot be seen in dried herbarium specimens.",
+      "topic": "Taxonomical aids"
+    },
+    {
+      "question": "Which statement best explains why a virus is not classified as a living organism according to NCERT criteria?",
+      "options": [
+        "It lacks cellular organization",
+        "It cannot metabolize on its own",
+        "It cannot reproduce independently",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "NCERT lists cellular organization, independent metabolism and independent reproduction as essential criteria for life. A virus lacks all three, so all statements are correct.",
+      "topic": "Living versus non-living"
+    },
+    {
+      "question": "A fresh leaf and a piece of quartz are kept in identical sealed containers under light. Which observation would most directly indicate that the leaf is living while the quartz is not?",
+      "options": [
+        "Increase in mass of the leaf",
+        "Release of oxygen from the leaf",
+        "Rise in temperature of both containers",
+        "Emission of light from the leaf"
+      ],
+      "answer": 1,
+      "explanation": "Photosynthetic release of oxygen is a metabolic activity unique to living green plants; minerals like quartz do not exhibit this.",
+      "topic": "Living versus non-living"
+    },
+    {
+      "question": "According to NCERT, which characteristic alone cannot be used to define life because it is also exhibited by some non‑living systems?",
+      "options": [
+        "Growth",
+        "Metabolism",
+        "Response to stimuli",
+        "Cellular organization"
+      ],
+      "answer": 0,
+      "explanation": "Crystals can increase in size (grow) without being alive, whereas metabolism, response, and cellular organization are not shown by non‑living matter.",
+      "topic": "Living versus non-living"
+    },
+    {
+      "question": "Which of the following is NOT considered a criterion for life in the NCERT textbook?",
+      "options": [
+        "Consciousness",
+        "Metabolism",
+        "Growth",
+        "Reproduction"
+      ],
+      "answer": 0,
+      "explanation": "NCERT lists metabolism, growth, reproduction, response to stimuli, cellular organization and consciousness as characteristics, but consciousness is not a mandatory criterion for defining life.",
+      "topic": "Living versus non-living"
+    },
+    {
+      "question": "Which taxonomic aid is primarily used for the identification of plants based on their morphological characters?",
+      "options": [
+        "Herbarium",
+        "Molecular phylogeny",
+        "Fossil record",
+        "Biogeographic maps"
+      ],
+      "answer": 0,
+      "explanation": "A herbarium preserves pressed plant specimens, allowing comparison of morphological features for identification.",
+      "topic": "Living versus non-living"
+    },
+    {
+      "question": "Phototropism in seedlings is primarily mediated by which plant hormone?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Auxin accumulates on the shaded side of the stem, causing cell elongation and bending towards light, which is the basis of phototropism.",
+      "topic": "Response to external stimuli"
+    },
+    {
+      "question": "A rapid withdrawal of a hand from a hot surface is an example of:",
+      "options": [
+        "Voluntary movement",
+        "Reflex action",
+        "Hormonal response",
+        "Tropism"
+      ],
+      "answer": 1,
+      "explanation": "The withdrawal is a spinal reflex that does not require conscious processing, characteristic of a reflex action.",
+      "topic": "Response to external stimuli"
+    },
+    {
+      "question": "Statocytes, which contain dense starch‑filled organelles called statoliths, are involved in:",
+      "options": [
+        "Phototropism",
+        "Gravitropism",
+        "Thigmotropism",
+        "Chemotropism"
+      ],
+      "answer": 1,
+      "explanation": "Statoliths settle under gravity within statocytes, providing the positional information needed for gravitropic responses in roots and shoots.",
+      "topic": "Response to external stimuli"
+    },
+    {
+      "question": "Which of the following best describes the term \"taxis\" in the context of response to external stimuli?",
+      "options": [
+        "Random movement without direction",
+        "Directional movement toward or away from a stimulus",
+        "Growth response over a period of days",
+        "Regulation of metabolism by hormones"
+      ],
+      "answer": 1,
+      "explanation": "Taxis refers to a rapid, directed movement of an organism (usually motile microorganisms) toward (positive) or away from (negative) a stimulus such as light, chemicals, or temperature.",
+      "topic": "Response to external stimuli"
+    },
+    {
+      "question": "Which statement best reflects why consciousness is considered a defining property of living organisms in NCERT biology?",
+      "options": [
+        "All living organisms can move voluntarily.",
+        "Living organisms exhibit coordinated responses to external stimuli indicating awareness.",
+        "Only multicellular organisms possess consciousness.",
+        "Consciousness is required for metabolism."
+      ],
+      "answer": 1,
+      "explanation": "NCERT emphasizes that consciousness involves the ability to perceive and integrate external cues, leading to coordinated, purposeful responses, distinguishing it from simple metabolic activity.",
+      "topic": "Consciousness as a defining property"
+    },
+    {
+      "question": "In the list of life characteristics, which feature specifically distinguishes organisms that possess consciousness from those that only respond to stimuli?",
+      "options": [
+        "Ability to undergo metabolism",
+        "Ability to grow and develop",
+        "Ability to exhibit purposeful behavior based on internal perception",
+        "Ability to reproduce"
+      ],
+      "answer": 2,
+      "explanation": "Consciousness adds a layer of internal perception and purposeful decision‑making beyond the basic stimulus‑response mechanisms shared by all living things.",
+      "topic": "Consciousness as a defining property"
+    },
+    {
+      "question": "Which example best illustrates consciousness as a property distinct from a simple reflex or automatic response?",
+      "options": [
+        "Phototropism in plants",
+        "Reflex withdrawal of a hand from a hot surface",
+        "A dog learning to navigate a maze using memory",
+        "Bacterial chemotaxis towards nutrients"
+      ],
+      "answer": 2,
+      "explanation": "Learning and memory in the dog require perception, processing, and integration of information, hallmarks of consciousness, unlike automatic reflexes or chemotaxis.",
+      "topic": "Consciousness as a defining property"
+    },
+    {
+      "question": "According to NCERT, consciousness in living organisms is primarily associated with which of the following?",
+      "options": [
+        "Presence of a nervous system",
+        "Ability to sense, process, and integrate information to produce adaptive behavior",
+        "Ability to reproduce sexually",
+        "Presence of chlorophyll"
+      ],
+      "answer": 1,
+      "explanation": "Consciousness is defined as the capacity to receive, interpret, and integrate sensory information, leading to adaptive, coordinated actions, not merely the presence of a nervous system or other traits.",
+      "topic": "Consciousness as a defining property"
+    },
+    {
+      "question": "Why are metabolic reactions considered a hallmark of living systems?",
+      "options": [
+        "They involve the synthesis of complex molecules from simple precursors using energy.",
+        "They occur only in multicellular organisms.",
+        "They are irreversible processes that cannot be regulated.",
+        "They require the presence of chlorophyll."
+      ],
+      "answer": 0,
+      "explanation": "Living systems continuously build complex biomolecules (anabolism) and break down substrates (catabolism) using energy. This organized transformation of matter is a defining feature of metabolism.",
+      "topic": "Metabolic reactions as evidence of living systems"
+    },
+    {
+      "question": "Which of the following correctly lists the taxonomic ranks from the most specific to the most inclusive?",
+      "options": [
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Family, Genus, Order, Class, Phylum, Kingdom",
+        "Genus, Species, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy proceeds from Species → Genus → Family → Order → Class → Phylum → Kingdom.",
+      "topic": "Hierarchy from species to kingdom"
+    },
+    {
+      "question": "In the binomial name *Rosa chinensis*, the term \"Rosa\" denotes which taxonomic rank?",
+      "options": [
+        "Species",
+        "Genus",
+        "Family",
+        "Order"
+      ],
+      "answer": 1,
+      "explanation": "The first part of a binomial name is the genus; the second part is the specific epithet (species).",
+      "topic": "Hierarchy from species to kingdom"
+    },
+    {
+      "question": "The domestic dog (Canis lupus familiaris) belongs to the family Canidae. Which sequence correctly places its higher ranks up to kingdom?",
+      "options": [
+        "Canidae, Carnivora, Mammalia, Chordata, Animalia",
+        "Canidae, Mammalia, Carnivora, Chordata, Animalia",
+        "Canidae, Carnivora, Mammalia, Animalia, Chordata",
+        "Canidae, Carnivora, Mammalia, Chordata, Plantae"
+      ],
+      "answer": 0,
+      "explanation": "Family Canidae → Order Carnivora → Class Mammalia → Phylum Chordata → Kingdom Animalia.",
+      "topic": "Hierarchy from species to kingdom"
+    },
+    {
+      "question": "Which of the following statements about the taxonomic hierarchy is FALSE?",
+      "options": [
+        "Species is the basic unit of classification.",
+        "Two organisms in the same genus must belong to the same family.",
+        "All members of a phylum share a common body plan.",
+        "Kingdom is the most specific rank."
+      ],
+      "answer": 3,
+      "explanation": "Kingdom is the most inclusive (broadest) rank, not the most specific.",
+      "topic": "Hierarchy from species to kingdom"
+    },
+    {
+      "question": "What is the primary purpose of a herbarium in botanical studies?",
+      "options": [
+        "To preserve live plants for cultivation",
+        "To store dried plant specimens for reference",
+        "To maintain genetic material solely for DNA extraction",
+        "To display ornamental plants for public exhibition"
+      ],
+      "answer": 1,
+      "explanation": "Herbaria preserve pressed and dried plant specimens on sheets, providing a permanent reference for identification, taxonomy and research.",
+      "topic": "Herbarium"
+    },
+    {
+      "question": "Which of the following details is least likely to be found on a standard herbarium specimen label?",
+      "options": [
+        "Collector's name",
+        "Date of collection",
+        "Soil pH at the collection site",
+        "Habitat description"
+      ],
+      "answer": 2,
+      "explanation": "Typical labels record collector, date, locality, habitat, and sometimes altitude, but soil pH is not routinely noted.",
+      "topic": "Herbarium"
+    },
+    {
+      "question": "Herbarium specimens are usually mounted on which of the following materials to ensure long‑term preservation?",
+      "options": [
+        "Glass slides",
+        "Plastic sheets",
+        "Acid‑free paper",
+        "Wooden boards"
+      ],
+      "answer": 2,
+      "explanation": "Acid‑free paper prevents deterioration of the dried plant material and is the standard mounting medium in herbaria.",
+      "topic": "Herbarium"
+    },
+    {
+      "question": "How does a herbarium facilitate accurate taxonomic identification of a plant species?",
+      "options": [
+        "By providing live specimens for cross‑breeding experiments",
+        "By offering a reference collection of authenticated specimens for morphological comparison",
+        "By sequencing the genome of every stored plant",
+        "By recreating the plant's natural habitat within the collection"
+      ],
+      "answer": 1,
+      "explanation": "Taxonomists compare unknown material with authenticated herbarium specimens, examining morphological characters to confirm identity.",
+      "topic": "Herbarium"
+    },
+    {
+      "question": "Which of the following is NOT a primary function of a botanical garden?",
+      "options": [
+        "Conservation of endangered plant species",
+        "Public education about plant diversity",
+        "Long-term storage of dried plant specimens",
+        "Research on plant physiology"
+      ],
+      "answer": 2,
+      "explanation": "Botanical gardens maintain living plant collections for conservation, education, and research. Long-term storage of dried specimens is the role of a herbarium, not a botanical garden.",
+      "topic": "Botanical gardens"
+    },
+    {
+      "question": "In a botanical garden, a \"living collection\" is maintained primarily to facilitate which activity?",
+      "options": [
+        "Taxonomic identification using morphological keys",
+        "Study of plant reproductive biology under natural conditions",
+        "Preservation of genetic material in seed banks",
+        "Display of ornamental plants for tourism"
+      ],
+      "answer": 1,
+      "explanation": "Living collections allow observation of growth, flowering, pollination and seed set, providing direct insight into plant reproductive biology, which cannot be studied with dried specimens.",
+      "topic": "Botanical gardens"
+    },
+    {
+      "question": "Which statement correctly distinguishes a botanical garden from a zoological park?",
+      "options": [
+        "Botanical gardens conserve only animal species",
+        "Zoological parks maintain living collections of plants",
+        "Botanical gardens focus on ex‑situ conservation of plant species",
+        "Zoological parks are primarily used for seed banking"
+      ],
+      "answer": 2,
+      "explanation": "Botanical gardens are dedicated to the ex‑situ conservation, study, and display of plant species, whereas zoological parks focus on animal conservation and display.",
+      "topic": "Botanical gardens"
+    },
+    {
+      "question": "The International Union for Conservation of Nature (IUCN) recognises botanical gardens as important for ex‑situ conservation. Which activity performed by botanical gardens directly contributes to this role?",
+      "options": [
+        "Maintaining a seed bank for rare species",
+        "Conducting field surveys in natural habitats",
+        "Publishing taxonomic monographs",
+        "Organising botanical illustration workshops"
+      ],
+      "answer": 0,
+      "explanation": "Seed banks store viable seeds of rare and endangered plants, providing a safety net against extinction and enabling future re‑introduction, which is a core ex‑situ conservation activity of botanical gardens.",
+      "topic": "Botanical gardens"
+    },
+    {
+      "question": "What is the principal purpose of a museum collection in biological taxonomy?",
+      "options": [
+        "To display live organisms for entertainment",
+        "To preserve type specimens that serve as definitive references for species identification",
+        "To conduct field expeditions for discovering new taxa",
+        "To provide facilities for genetic manipulation of organisms"
+      ],
+      "answer": 1,
+      "explanation": "Museums maintain preserved type specimens, which are the reference material on which the original description of a species is based, ensuring stability and consistency in nomenclature.",
+      "topic": "Museums"
+    },
+    {
+      "question": "A dried plant specimen mounted on a herbarium sheet stored in a museum is an example of which taxonomic aid?",
+      "options": [
+        "A dichotomous key",
+        "A museum collection",
+        "Binomial nomenclature",
+        "A phylogenetic tree"
+      ],
+      "answer": 1,
+      "explanation": "Herbarium sheets are part of museum collections; they serve as physical reference material for identification and comparison of plant species.",
+      "topic": "Museums"
+    },
+    {
+      "question": "Which statement about a \"type specimen\" kept in a zoological museum is correct?",
+      "options": [
+        "It must be a living individual of the species",
+        "Any individual of the species can serve as the type",
+        "It is the specimen on which the original species description is based",
+        "It is always the most abundant specimen found in nature"
+      ],
+      "answer": 2,
+      "explanation": "A type specimen is the particular specimen designated by the original describer that anchors the species name; it need not be living or abundant.",
+      "topic": "Museums"
+    },
+    {
+      "question": "Which activity is NOT a typical function of a museum in the context of taxonomy?",
+      "options": [
+        "Preserving type and reference specimens",
+        "Maintaining live breeding colonies of organisms",
+        "Providing material for comparative morphological studies",
+        "Disseminating taxonomic information through exhibitions"
+      ],
+      "answer": 1,
+      "explanation": "Museums focus on preserving dead, fixed specimens; maintaining live breeding colonies is generally the role of research laboratories or zoos, not museums.",
+      "topic": "Museums"
+    },
+    {
+      "question": "Which of the following is NOT a primary purpose of zoological parks as taxonomic aids?",
+      "options": [
+        "Conservation of endangered species",
+        "Providing a natural habitat identical to the wild",
+        "Public education about biodiversity",
+        "Facilitating research on animal behavior"
+      ],
+      "answer": 1,
+      "explanation": "Zoological parks aim to conserve species, educate the public and support research, but they cannot replicate the exact natural habitat of wild ecosystems.",
+      "topic": "Zoological parks"
+    },
+    {
+      "question": "In a zoological park, maintaining a studbook for a captive species primarily helps in:",
+      "options": [
+        "Determining phylogenetic relationships",
+        "Managing genetic diversity in captive breeding",
+        "Classifying species into taxonomic hierarchy",
+        "Recording daily feeding schedules"
+      ],
+      "answer": 1,
+      "explanation": "A studbook records pedigree and breeding data, enabling managers to minimize inbreeding and retain genetic variability in the captive population.",
+      "topic": "Zoological parks"
+    },
+    {
+      "question": "Which statement correctly describes the role of zoological parks in ex‑situ conservation?",
+      "options": [
+        "They replace the need for in‑situ conservation",
+        "They serve as insurance populations for species threatened in the wild",
+        "They only display animals for entertainment without breeding programs",
+        "They focus solely on indigenous species"
+      ],
+      "answer": 1,
+      "explanation": "Ex‑situ conservation in zoos provides backup (insurance) populations that can be used for future re‑introduction if wild populations decline.",
+      "topic": "Zoological parks"
+    },
+    {
+      "question": "A Species Survival Plan (SSP) implemented for a carnivore in a zoological park primarily aims to:",
+      "options": [
+        "Increase the number of individuals in the wild by releasing captive‑bred animals",
+        "Ensure that the captive population maintains genetic variability comparable to wild populations",
+        "Classify subspecies based on morphological traits",
+        "Provide a recreational area for visitors"
+      ],
+      "answer": 1,
+      "explanation": "SSPs are coordinated breeding programmes designed to preserve genetic diversity and demographic stability of threatened species in captivity.",
+      "topic": "Zoological parks"
+    },
+    {
+      "question": "Which type of identification tool presents a series of two contrasting statements to lead the user to the correct taxon?",
+      "options": [
+        "Dichotomous key",
+        "Phylogenetic tree",
+        "Cladogram",
+        "Taxonomic rank"
+      ],
+      "answer": 0,
+      "explanation": "A dichotomous key uses paired, mutually exclusive statements at each step, guiding the user toward the correct identification.",
+      "topic": "Keys for identification"
+    },
+    {
+      "question": "A flowering plant exhibits opposite leaf arrangement. Based on this characteristic, it most likely belongs to which family?",
+      "options": [
+        "Lamiaceae (mint family)",
+        "Poaceae (grass family)",
+        "Cyperaceae (sedge family)",
+        "Fabaceae (legume family)"
+      ],
+      "answer": 0,
+      "explanation": "Opposite leaf arrangement is a typical feature of many members of the Lamiaceae, whereas the other listed families usually have alternate or spiral leaf patterns.",
+      "topic": "Keys for identification"
+    },
+    {
+      "question": "Which of the following is NOT considered a taxonomic aid for the identification of organisms?",
+      "options": [
+        "Herbarium specimens",
+        "DNA barcoding",
+        "Dichotomous key",
+        "Zoological park"
+      ],
+      "answer": 3,
+      "explanation": "Herbaria, DNA barcoding and dichotomous keys are directly used for identification, while a zoological park is a facility for keeping live animals, not an identification aid.",
+      "topic": "Keys for identification"
+    },
+    {
+      "question": "In a standard dichotomous key for plants, the first couplet most commonly separates organisms based on which feature?",
+      "options": [
+        "Habitat type",
+        "Number of cotyledons",
+        "Presence or absence of vascular tissue",
+        "Type of fruit"
+      ],
+      "answer": 2,
+      "explanation": "The initial couplet often distinguishes vascular from non‑vascular plants, a fundamental division that simplifies subsequent identification steps.",
+      "topic": "Keys for identification"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "3-5 MCQs per syllabus topic",
+    "topicCount": 37,
+    "mcqCount": 119
+  }
+}

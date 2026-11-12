@@ -1,0 +1,2016 @@
+{
+  "day": 58,
+  "courseDate": "2026-10-26",
+  "publishAt": "2026-10-26T06:00:00+05:30",
+  "title": "Respiration — Energy Yield, Amphibolic Pathway and Respiratory Quotient",
+  "introduction": "This lesson covers the quantitative and qualitative aspects of plant respiration, linking energy yield, amphibolic nature, and respiratory quotient (RQ). It integrates carbohydrate, fat and protein metabolism with respiration and highlights factors influencing the process.",
+  "sections": [
+    {
+      "topic": "Overall respiratory balance",
+      "heading": "Overall Respiratory Balance in Plants",
+      "content": "Respiration converts organic substrates to CO₂ and H₂O, releasing energy. The overall equation for glucose is C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (≈30‑32 ATP). The balance reflects O₂ consumption and CO₂ evolution, essential for plant metabolic homeostasis.",
+      "keyPoints": [
+        "Glucose oxidation yields CO₂, H₂O and ATP",
+        "O₂ is the final electron acceptor in mitochondria",
+        "Net reaction: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O"
+      ],
+      "neetTips": [
+        "Memorise the overall equation; it is the basis for RQ calculations."
+      ]
+    },
+    {
+      "topic": "ATP yield from glucose",
+      "heading": "ATP Yield from One Molecule of Glucose",
+      "content": "Complete aerobic oxidation of one glucose molecule generates ~30‑32 ATP: 2 ATP (substrate‑level) from glycolysis, 2 ATP (substrate‑level) from TCA cycle, and ~26‑28 ATP via oxidative phosphorylation (electron transport chain).",
+      "keyPoints": [
+        "Glycolysis: 2 ATP (net)",
+        "Citric acid cycle: 2 ATP (GTP)",
+        "Oxidative phosphorylation: ~26‑28 ATP",
+        "Total ≈30‑32 ATP"
+      ],
+      "neetTips": [
+        "Remember the range 30‑32 ATP; variations arise from shuttle systems (glycerol‑3‑phosphate vs malate‑aspartate)."
+      ]
+    },
+    {
+      "topic": "Energy accounting",
+      "heading": "Energy Accounting in Cellular Respiration",
+      "content": "Energy from glucose is partitioned into ATP, heat, and biosynthetic precursors. Approximately 40% of the free energy of glucose is captured as ATP; the rest dissipates as heat, maintaining plant temperature. NADH and FADH₂ serve as energy carriers to the electron transport chain.",
+      "keyPoints": [
+        "~40% of glucose energy stored as ATP",
+        "NADH/FADH₂ transport electrons to ETC",
+        "Heat production is physiologically important"
+      ],
+      "neetTips": [
+        "Link ATP yield to NADH/FADH₂ numbers for quick calculations in NEET questions."
+      ]
+    },
+    {
+      "topic": "Substrate-level phosphorylation",
+      "heading": "Substrate‑Level Phosphorylation (SLP)",
+      "content": "SLP occurs in glycolysis (phosphoglycerate kinase, pyruvate kinase) and the TCA cycle (succinyl‑CoA synthetase), directly transferring a phosphate group to ADP without involving the electron transport chain. It yields a fixed 4 ATP per glucose (2 from each stage).",
+      "keyPoints": [
+        "Occurs in glycolysis and TCA cycle",
+        "Direct transfer of phosphate to ADP",
+        "Provides 4 ATP per glucose"
+      ],
+      "neetTips": [
+        "Distinguish SLP from oxidative phosphorylation; SLP is independent of O₂ availability."
+      ]
+    },
+    {
+      "topic": "Oxidative phosphorylation",
+      "heading": "Oxidative Phosphorylation (OXPHOS)",
+      "content": "Electrons from NADH and FADH₂ travel through complexes I‑IV, creating a proton gradient across the inner mitochondrial membrane. ATP synthase uses this gradient to synthesize ~26‑28 ATP per glucose. Oxygen acts as the terminal electron acceptor, forming H₂O.",
+      "keyPoints": [
+        "Electron transport chain creates proton motive force",
+        "ATP synthase converts gradient to ATP",
+        "O₂ is reduced to H₂O"
+      ],
+      "neetTips": [
+        "Remember P/O ratios: ~2.5 ATP per NADH, ~1.5 ATP per FADH₂."
+      ]
+    },
+    {
+      "topic": "Respiration as an amphibolic pathway",
+      "heading": "Amphibolic Nature of Respiration",
+      "content": "Respiration is amphibolic: it catabolises substrates to generate energy and provides intermediates (e.g., oxaloacetate, α‑ketoglutarate) for biosynthetic pathways. The TCA cycle intermediates serve as precursors for amino acids, nucleotides, and lipids.",
+      "keyPoints": [
+        "Catabolic and anabolic roles",
+        "TCA intermediates are biosynthetic precursors",
+        "Links to amino acid, nucleotide, and lipid synthesis"
+      ],
+      "neetTips": [
+        "Amphibolic concept often appears in integration questions; focus on TCA cycle intermediates."
+      ]
+    },
+    {
+      "topic": "Respiration and carbohydrate metabolism",
+      "heading": "Integration with Carbohydrate Metabolism",
+      "content": "Glycolysis feeds pyruvate into the TCA cycle. Gluconeogenesis can run in reverse, using TCA intermediates. Starch breakdown provides glucose, while the pentose phosphate pathway supplies NADPH and ribose‑5‑P, intersecting with respiration at the level of G3P.",
+      "keyPoints": [
+        "Glycolysis → pyruvate → TCA",
+        "Starch → glucose → respiration",
+        "PPP provides NADPH, links via G3P"
+      ],
+      "neetTips": [
+        "NEET often asks which pathway supplies NADPH vs ATP; keep PPP vs respiration distinction clear."
+      ]
+    },
+    {
+      "topic": "Respiration and fat metabolism",
+      "heading": "Respiration Coupled with Fat Metabolism",
+      "content": "Fatty acids undergo β‑oxidation to generate acetyl‑CoA, NADH, and FADH₂, which enter the TCA cycle and ETC. Glycerol from triglycerides is converted to DHAP, entering glycolysis. Thus, fats provide more ATP per carbon than carbohydrates.",
+      "keyPoints": [
+        "β‑oxidation yields acetyl‑CoA, NADH, FADH₂",
+        "Glycerol → DHAP → glycolysis",
+        "Higher ATP yield per gram than carbs"
+      ],
+      "neetTips": [
+        "Remember that each round of β‑oxidation shortens the fatty acid by 2 carbons, producing 1 NADH and 1 FADH₂."
+      ]
+    },
+    {
+      "topic": "Respiration and protein metabolism",
+      "heading": "Respiration Linked to Protein Catabolism",
+      "content": "Amino acids are deaminated; carbon skeletons enter respiration at various points: glucogenic amino acids form pyruvate or TCA intermediates, while ketogenic amino acids form acetyl‑CoA or acetoacetate. The amino group is converted to urea (in animals) or reassimilated in plants.",
+      "keyPoints": [
+        "Glucogenic AA → pyruvate/TCA intermediates",
+        "Ketogenic AA → acetyl‑CoA or acetoacetate",
+        "Deamination removes amino group"
+      ],
+      "neetTips": [
+        "NEET may ask entry points of specific amino acids; memorize key examples (e.g., leucine → acetyl‑CoA)."
+      ]
+    },
+    {
+      "topic": "Entry of fatty acids into respiration",
+      "heading": "Entry of Fatty Acids into the Respiratory Pathway",
+      "content": "Long‑chain fatty acids are activated to fatty acyl‑CoA, transported into mitochondria via the carnitine shuttle, and undergo β‑oxidation. Each cycle yields 1 acetyl‑CoA, 1 NADH, and 1 FADH₂, feeding directly into the TCA cycle and ETC.",
+      "keyPoints": [
+        "Activation to fatty acyl‑CoA",
+        "Carnitine shuttle for mitochondrial entry",
+        "β‑oxidation produces acetyl‑CoA, NADH, FADH₂"
+      ],
+      "neetTips": [
+        "Carnitine‑acyl‑carnitine translocase deficiency is a clinical correlate; remember its role in transport."
+      ]
+    },
+    {
+      "topic": "Entry of glycerol into respiration",
+      "heading": "Glycerol Utilisation in Respiration",
+      "content": "Glycerol is phosphorylated by glycerol kinase to glycerol‑3‑phosphate, then oxidized by glycerol‑3‑phosphate dehydrogenase to DHAP, which enters glycolysis. This provides an alternative carbon source during carbohydrate scarcity.",
+      "keyPoints": [
+        "Glycerol → glycerol‑3‑P → DHAP",
+        "Enters glycolysis at the DHAP step",
+        "Important during seed germination"
+      ],
+      "neetTips": [
+        "Link glycerol entry to the glycerol‑3‑P shuttle, which also transfers electrons to the ETC."
+      ]
+    },
+    {
+      "topic": "Entry of amino acids into respiration",
+      "heading": "Amino Acid Entry Points into the TCA Cycle",
+      "content": "Amino acids are deaminated; their carbon skeletons become pyruvate (e.g., alanine), oxaloacetate (e.g., aspartate), α‑ketoglutarate (e.g., glutamate), succinyl‑CoA (e.g., isoleucine), or acetyl‑CoA (e.g., leucine). These intermediates integrate directly into respiration.",
+      "keyPoints": [
+        "Alanine → pyruvate",
+        "Aspartate → oxaloacetate",
+        "Glutamate → α‑ketoglutarate",
+        "Isoleucine → succinyl‑CoA",
+        "Leucine → acetyl‑CoA"
+      ],
+      "neetTips": [
+        "Create a table of amino acids vs entry points; it speeds up answer retrieval."
+      ]
+    },
+    {
+      "topic": "Respiratory quotient",
+      "heading": "Respiratory Quotient (RQ) Definition",
+      "content": "RQ is the ratio of CO₂ produced to O₂ consumed (RQ = VCO₂/VO₂). It reflects the substrate being oxidised. RQ values help infer metabolic fuel usage in plants under varying conditions.",
+      "keyPoints": [
+        "RQ = CO₂ produced ÷ O₂ consumed",
+        "Indicative of dominant substrate",
+        "Measured via gas exchange"
+      ],
+      "neetTips": [
+        "Remember: RQ ≈ 1 for carbs, ≈ 0.7 for fats, ≈ 0.8 for proteins."
+      ]
+    },
+    {
+      "topic": "RQ of carbohydrates",
+      "heading": "RQ Value for Carbohydrates",
+      "content": "Complete oxidation of carbohydrates (e.g., glucose) yields an RQ of 1 because the number of CO₂ molecules produced equals the O₂ molecules consumed (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O).",
+      "keyPoints": [
+        "Carbohydrate RQ = 1",
+        "CO₂ produced = O₂ consumed"
+      ],
+      "neetTips": [
+        "Use the balanced equation to quickly verify RQ = 1."
+      ]
+    },
+    {
+      "topic": "RQ of fats",
+      "heading": "RQ Value for Fats",
+      "content": "Fats have a lower RQ (~0.7) because they contain more hydrogen relative to oxygen. Example: Palmitic acid oxidation yields 16 CO₂ for 23 O₂ (RQ = 16/23 ≈ 0.70).",
+      "keyPoints": [
+        "Fat RQ ≈ 0.7",
+        "Higher O₂ requirement per CO₂"
+      ],
+      "neetTips": [
+        "Remember the trend: more reduced substrates → lower RQ."
+      ]
+    },
+    {
+      "topic": "RQ of proteins",
+      "heading": "RQ Value for Proteins",
+      "content": "Proteins exhibit an RQ around 0.8–0.85, reflecting the presence of nitrogenous groups and variable carbon skeletons. The average value used in NEET is 0.8.",
+      "keyPoints": [
+        "Protein RQ ≈ 0.8",
+        "Intermediate between carbs and fats"
+      ],
+      "neetTips": [
+        "NEET often gives 0.8 for proteins; keep this number handy."
+      ]
+    },
+    {
+      "topic": "RQ of organic acids",
+      "heading": "RQ of Organic Acids (e.g., Citric Acid)",
+      "content": "Organic acids such as citric acid have RQ values between 0.8 and 0.9 because they are partially oxidised. For citric acid, oxidation yields 6 CO₂ for 8 O₂ (RQ = 0.75).",
+      "keyPoints": [
+        "Organic acid RQ ≈ 0.75‑0.9",
+        "Depends on degree of oxidation"
+      ],
+      "neetTips": [
+        "When asked for RQ of a specific organic acid, write the balanced oxidation equation to compute."
+      ]
+    },
+    {
+      "topic": "Factors affecting respiration",
+      "heading": "Factors Modulating Respiratory Rate in Plants",
+      "content": "Respiration rate varies with temperature, O₂ availability, substrate concentration, developmental stage, and stress conditions. Enzyme kinetics (Q₁₀) explains temperature dependence, while hypoxia reduces ETC efficiency.",
+      "keyPoints": [
+        "Temperature, O₂, substrate levels are primary factors",
+        "Q₁₀ ≈ 2–3 for most enzymes",
+        "Hypoxia limits oxidative phosphorylation"
+      ],
+      "neetTips": [
+        "Link Q₁₀ concept to a 10 °C rise → ~2‑fold increase in rate."
+      ]
+    },
+    {
+      "topic": "Temperature",
+      "heading": "Temperature Influence on Respiration",
+      "content": "Respiration increases with temperature up to an optimum (≈30‑35 °C for many plants). Beyond the optimum, enzyme denaturation reduces rate. The Q₁₀ coefficient quantifies the rate change for a 10 °C rise.",
+      "keyPoints": [
+        "Rate rises up to optimum temperature",
+        "Q₁₀ = rate at T+10 °C ÷ rate at T"
+      ],
+      "neetTips": [
+        "Remember Q₁₀ ≈ 2 for most plant respiratory enzymes."
+      ]
+    },
+    {
+      "topic": "Oxygen availability",
+      "heading": "Effect of Oxygen Availability on Respiration",
+      "content": "Adequate O₂ is essential for oxidative phosphorylation. Low O₂ (hypoxia) forces reliance on substrate‑level phosphorylation, drastically lowering ATP yield. Some plants switch to anaerobic pathways (fermentation) under severe O₂ deficit.",
+      "keyPoints": [
+        "O₂ is final electron acceptor in ETC",
+        "Hypoxia → ↓ ATP, ↑ fermentation",
+        "Aerobic vs anaerobic yield contrast"
+      ],
+      "neetTips": [
+        "NEET may ask ATP difference: aerobic ≈30 ATP vs anaerobic ≈2 ATP per glucose."
+      ]
+    },
+    {
+      "topic": "Integrated respiration revision",
+      "heading": "Integrated Revision of Plant Respiration",
+      "content": "Respiration interlinks carbohydrate, fat, and protein catabolism, providing ATP, heat, and biosynthetic precursors. RQ values help identify the predominant fuel. Environmental factors modulate the overall rate, influencing growth and stress responses.",
+      "keyPoints": [
+        "Amphibolic pathway supplies energy and precursors",
+        "RQ distinguishes fuel type",
+        "Temperature and O₂ are key modulators"
+      ],
+      "neetTips": [
+        "Create a mind‑map linking substrates, entry points, ATP yield, and RQ for quick revision."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the overall respiratory balance and write the net equation for glucose oxidation",
+    "Calculate ATP yield from glucose, distinguishing substrate‑level and oxidative phosphorylation contributions",
+    "Analyse energy accounting, including heat production and efficiency",
+    "Describe substrate‑level and oxidative phosphorylation mechanisms",
+    "Interpret respiration as an amphibolic pathway and identify its anabolic outputs",
+    "Integrate carbohydrate, fat and protein metabolism with the respiratory chain",
+    "Identify entry points of fatty acids, glycerol and amino acids into respiration",
+    "Define respiratory quotient and recall RQ values for carbohydrates, fats, proteins and organic acids",
+    "Evaluate the impact of temperature and oxygen availability on respiratory rate",
+    "Apply the above concepts to solve NEET‑style quantitative and application‑based questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following equations correctly represents the overall stoichiometry of aerobic respiration of one molecule of glucose in plants?",
+      "options": [
+        "C6H12O6 + 6 O2 → 6 CO2 + 6 H2O",
+        "C6H12O6 + 6 O2 → 6 CO2 + 12 H2O",
+        "C6H12O6 + 3 O2 → 3 CO2 + 3 H2O",
+        "C6H12O6 + 6 O2 → 12 CO2 + 6 H2O"
+      ],
+      "answer": 0,
+      "explanation": "In aerobic respiration, one glucose molecule is oxidized by six molecules of O2 to yield six molecules each of CO2 and H2O, giving the balanced equation C6H12O6 + 6 O2 → 6 CO2 + 6 H2O.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "What is the net ATP yield from the complete aerobic oxidation of one molecule of glucose in plant cells, as described in NCERT?",
+      "options": [
+        "24 ATP",
+        "30 ATP",
+        "36 ATP",
+        "38 ATP"
+      ],
+      "answer": 1,
+      "explanation": "Aerobic respiration of glucose yields 2 ATP by substrate‑level phosphorylation in glycolysis, 2 ATP (or GTP) in the citric acid cycle, and about 26 ATP from oxidative phosphorylation, giving a net yield of roughly 30 ATP.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of a pure carbohydrate substrate is:",
+      "options": [
+        "0.7",
+        "0.8",
+        "1.0",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "Carbohydrate oxidation follows the equation C6H12O6 + 6 O2 → 6 CO2 + 6 H2O, producing equal moles of CO2 and O2 consumed, so RQ = CO2/O2 = 1.0.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "Which of the following values best approximates the respiratory quotient for the oxidation of a typical fatty acid such as palmitic acid?",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1.0"
+      ],
+      "answer": 0,
+      "explanation": "Fat oxidation consumes more O2 relative to CO2 produced; for long‑chain fatty acids the RQ is about 0.7.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "If a plant cell simultaneously oxidizes equal amounts of carbohydrate and fat, the overall respiratory quotient of the mixture will be:",
+      "options": [
+        "Exactly 1.0",
+        "Exactly 0.7",
+        "Between 0.7 and 1.0",
+        "Less than 0.7"
+      ],
+      "answer": 2,
+      "explanation": "The overall RQ is a weighted average of the individual RQs; mixing a substrate with RQ = 1.0 (carbohydrate) and one with RQ ≈ 0.7 (fat) yields a value between 0.7 and 1.0.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "Approximately how many molecules of ATP are generated per molecule of O2 consumed during aerobic respiration of glucose?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "The net yield is about 30 ATP for 6 O2 molecules, giving 30/6 ≈ 5 ATP per O2 consumed.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "When temperature rises within the physiological range, what happens to the overall respiratory balance (RQ) in plant cells?",
+      "options": [
+        "RQ increases",
+        "RQ decreases",
+        "RQ remains unchanged while rates of O2 consumption and CO2 evolution increase",
+        "Both O2 consumption and CO2 evolution decrease"
+      ],
+      "answer": 2,
+      "explanation": "Higher temperature speeds up metabolic rates, increasing both O2 uptake and CO2 release proportionally, so the ratio (RQ) stays essentially the same.",
+      "topic": "Overall respiratory balance"
+    },
+    {
+      "question": "In aerobic respiration of one molecule of glucose, how many ATP are produced by substrate‑level phosphorylation?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "Substrate‑level phosphorylation yields 2 ATP in glycolysis (net) and 2 ATP in the citric acid cycle, totaling 4 ATP per glucose.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "Assuming a P/O ratio of 2.5 for NADH and 1.5 for FADH2, what is the total ATP yield from one glucose molecule under aerobic conditions?",
+      "options": [
+        "30",
+        "32",
+        "36",
+        "38"
+      ],
+      "answer": 1,
+      "explanation": "Glucose generates 10 NADH (2 cytosolic, 2 pyruvate dehydrogenase, 6 TCA) and 2 FADH2. ATP = 10×2.5 + 2×1.5 + 4 (substrate‑level) = 32.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "If the glycerol‑phosphate shuttle is used to transfer cytosolic NADH into mitochondria, what is the total ATP yield from one glucose?",
+      "options": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "answer": 0,
+      "explanation": "Cytosolic NADH (2) yield 1.5 ATP each via the glycerol‑phosphate shuttle (3 ATP). Mitochondrial NADH (8) give 8×2.5=20 ATP, FADH2 (2) give 2×1.5=3 ATP, plus 4 substrate‑level ATP. Total = 30 ATP.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "During anaerobic glycolysis (fermentation) in muscle, how many ATP are generated per glucose molecule?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Anaerobic glycolysis yields a net gain of 2 ATP per glucose (4 produced minus 2 consumed in the investment phase).",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "Which step(s) in glycolysis involve substrate‑level phosphorylation of ATP?",
+      "options": [
+        "Phosphoglycerate kinase only",
+        "Pyruvate kinase only",
+        "Both phosphoglycerate kinase and pyruvate kinase",
+        "Neither enzyme produces ATP"
+      ],
+      "answer": 2,
+      "explanation": "Both phosphoglycerate kinase (1,3‑BPG → 3‑PG) and pyruvate kinase (PEP → pyruvate) generate ATP by substrate‑level phosphorylation.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "If the cost of transporting ADP and Pi into mitochondria equals 1 ATP per glucose, what is the revised total ATP yield assuming the malate‑aspartate shuttle?",
+      "options": [
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "answer": 0,
+      "explanation": "The standard yield with the malate‑aspartate shuttle is 32 ATP. Subtracting the transport cost of 1 ATP gives 31 ATP per glucose.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "Regarding the P/O ratio used for ATP calculations, which statement is correct?",
+      "options": [
+        "P/O ratio for NADH is 3",
+        "P/O ratio for FADH2 is 2",
+        "P/O ratio for NADH is 2.5",
+        "P/O ratio for FADH2 is 3"
+      ],
+      "answer": 2,
+      "explanation": "Current consensus assigns a P/O ratio of about 2.5 for NADH and 1.5 for FADH2 in oxidative phosphorylation.",
+      "topic": "ATP yield from glucose"
+    },
+    {
+      "question": "What is the total number of ATP molecules generated from the complete aerobic oxidation of one molecule of glucose in plant mitochondria, considering both substrate‑level and oxidative phosphorylation?",
+      "options": [
+        "30",
+        "32",
+        "36",
+        "38"
+      ],
+      "answer": 0,
+      "explanation": "In plants, each NADH yields ~2.5 ATP and each FADH2 yields ~1.5 ATP. From one glucose: 2 ATP (substrate‑level) + 8 NADH (20 ATP) + 2 FADH2 (3 ATP) + 4 NADH from glycolysis (10 ATP) = 30 ATP.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "How many ATP molecules are produced by substrate‑level phosphorylation per glucose molecule during glycolysis and the citric acid cycle combined?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "Glycolysis yields 2 ATP by substrate‑level phosphorylation and the TCA cycle yields 2 GTP (equivalent to ATP), giving a total of 4 ATP.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "In plant mitochondria, each molecule of NADH that enters the electron transport chain typically results in the synthesis of how many ATP molecules?",
+      "options": [
+        "2",
+        "2.5",
+        "3",
+        "3.5"
+      ],
+      "answer": 1,
+      "explanation": "The P/O ratio for NADH in plant mitochondria is about 2.5 ATP per NADH.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "Each molecule of FADH2 entering the electron transport chain contributes to the formation of how many ATP molecules in plant cells?",
+      "options": [
+        "1",
+        "1.5",
+        "2",
+        "2.5"
+      ],
+      "answer": 1,
+      "explanation": "The P/O ratio for FADH2 is approximately 1.5 ATP per FADH2 in plant mitochondria.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "Which step of glycolysis directly generates ATP by substrate‑level phosphorylation?",
+      "options": [
+        "Conversion of glucose to glucose‑6‑phosphate",
+        "Conversion of 1,3‑bisphosphoglycerate to 3‑phosphoglycerate",
+        "Conversion of phosphoenolpyruvate to pyruvate",
+        "Conversion of pyruvate to acetyl‑CoA"
+      ],
+      "answer": 2,
+      "explanation": "Phosphoenolpyruvate is converted to pyruvate by pyruvate kinase, producing one ATP per molecule.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "Approximately how many ATP molecules are obtained from the complete aerobic oxidation of one molecule of palmitic acid (C16) in plant cells?",
+      "options": [
+        "106",
+        "112",
+        "120",
+        "128"
+      ],
+      "answer": 0,
+      "explanation": "Palmitic acid yields 8 acetyl‑CoA (80 ATP) plus 7 NADH (17.5 ATP) and 7 FADH2 (10.5 ATP) from β‑oxidation, totaling about 108 ATP; the nearest option is 106.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "Under hypoxic conditions in a plant cell, which component of ATP production is most directly compromised?",
+      "options": [
+        "Substrate‑level phosphorylation in glycolysis",
+        "Oxidative phosphorylation",
+        "Substrate‑level phosphorylation in the TCA cycle",
+        "Photophosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Hypoxia limits the availability of oxygen as the final electron acceptor, thereby reducing oxidative phosphorylation, the major ATP source under aerobic conditions.",
+      "topic": "Energy accounting"
+    },
+    {
+      "question": "Which enzyme catalyzes the substrate‑level phosphorylation step that converts 1,3‑bisphosphoglycerate to 3‑phosphoglycerate in glycolysis?",
+      "options": [
+        "phosphoglycerate kinase",
+        "pyruvate kinase",
+        "hexokinase",
+        "lactate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3‑bisphosphoglycerate to ADP, forming ATP and 3‑phosphoglycerate.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "In the citric acid cycle, substrate‑level phosphorylation occurs when succinyl‑CoA is converted to which molecule?",
+      "options": [
+        "succinate",
+        "fumarate",
+        "malate",
+        "citrate"
+      ],
+      "answer": 0,
+      "explanation": "Succinyl‑CoA synthetase converts succinyl‑CoA to succinate while generating GTP (or ATP) by substrate‑level phosphorylation.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "What is the total number of ATP (or equivalent) molecules generated by substrate‑level phosphorylation from one molecule of glucose during aerobic respiration?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "Two ATP are formed in glycolysis and two GTP (equivalent to ATP) are formed in the TCA cycle, giving a total of four substrate‑level phosphorylated ATP equivalents.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "Which statement correctly describes substrate‑level phosphorylation?",
+      "options": [
+        "It requires a proton gradient across the inner mitochondrial membrane.",
+        "It directly transfers a phosphate group from a phosphorylated metabolic intermediate to ADP.",
+        "It occurs only in the presence of oxygen.",
+        "It involves the reduction of NAD+ to NADH."
+      ],
+      "answer": 1,
+      "explanation": "Substrate‑level phosphorylation involves direct transfer of a phosphate from a high‑energy intermediate to ADP, without a membrane gradient or oxygen.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "During anaerobic glycolysis in skeletal muscle, how many ATP molecules are generated per glucose molecule by substrate‑level phosphorylation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Anaerobic glycolysis yields a net gain of 2 ATP per glucose through two substrate‑level phosphorylation steps.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "Which high‑energy intermediate donates its phosphate group to ADP in the pyruvate kinase reaction of glycolysis?",
+      "options": [
+        "phosphoenolpyruvate",
+        "1,3‑bisphosphoglycerate",
+        "glyceraldehyde‑3‑phosphate",
+        "fructose‑1,6‑bisphosphate"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate kinase transfers the phosphate from phosphoenolpyruvate to ADP, producing ATP and pyruvate.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "In the mitochondrial matrix, succinyl‑CoA synthetase generates GTP from GDP and Pi. The phosphate donor in this reaction is derived from which bond in succinyl‑CoA?",
+      "options": [
+        "a high‑energy thioester bond",
+        "a phosphoanhydride bond",
+        "a peptide bond",
+        "a glycosidic bond"
+      ],
+      "answer": 0,
+      "explanation": "The thioester bond of succinyl‑CoA is a high‑energy bond that provides the phosphate equivalent for GTP synthesis via substrate‑level phosphorylation.",
+      "topic": "Substrate-level phosphorylation"
+    },
+    {
+      "question": "What is the primary role of molecular oxygen in oxidative phosphorylation?",
+      "options": [
+        "It donates electrons to Complex I",
+        "It serves as the final electron acceptor, forming water",
+        "It directly phosphorylates ADP to ATP",
+        "It transports protons across the inner mitochondrial membrane"
+      ],
+      "answer": 1,
+      "explanation": "Oxygen accepts electrons at Complex IV and combines with protons to form water, allowing continuous flow of electrons through the chain.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "According to the chemiosmotic theory, ATP synthesis in mitochondria is driven by:",
+      "options": [
+        "Substrate‑level phosphorylation of ADP",
+        "The movement of electrons through the respiratory complexes",
+        "The flow of protons back into the matrix through ATP synthase",
+        "Direct binding of ADP to Complex V"
+      ],
+      "answer": 2,
+      "explanation": "Proton re‑entry through the F₀F₁‑ATP synthase (Complex V) provides the energy that drives the phosphorylation of ADP to ATP.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Approximately how many molecules of ATP are synthesized per molecule of NADH oxidized in oxidative phosphorylation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Each NADH typically yields about 3 ATP molecules (P/O ratio ≈ 2.5–3) as electrons pass through Complex I, III and IV, pumping protons at each step.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Which of the following inhibitors blocks electron transfer at Complex IV by binding to its heme‑a₃ site?",
+      "options": [
+        "Oligomycin",
+        "Rotenone",
+        "Antimycin A",
+        "Cyanide"
+      ],
+      "answer": 3,
+      "explanation": "Cyanide binds to the ferric iron of cytochrome a₃ in Complex IV, preventing reduction of oxygen and halting the electron transport chain.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "The major sites of proton pumping in the mitochondrial electron transport chain are:",
+      "options": [
+        "Complex I only",
+        "Complex II only",
+        "Complex III only",
+        "Complexes I, III and IV"
+      ],
+      "answer": 3,
+      "explanation": "Complex I, Complex III and Complex IV each translocate protons from the matrix to the intermembrane space, establishing the electrochemical gradient.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Treatment of cells with an uncoupler such as 2,4‑dinitrophenol (DNP) results in:",
+      "options": [
+        "Increased ATP synthesis",
+        "Decreased oxygen consumption",
+        "Increased heat production",
+        "Inhibition of Complex II activity"
+      ],
+      "answer": 2,
+      "explanation": "Uncouplers dissipate the proton gradient, so electron flow (and oxygen consumption) continues but ATP synthesis falls, releasing energy as heat.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Why does oxidation of FADH₂ generate fewer ATP molecules than oxidation of NADH?",
+      "options": [
+        "FADH₂ donates electrons to Complex I",
+        "FADH₂ bypasses Complex I and enters at Complex II",
+        "FADH₂ reduces oxygen directly",
+        "FADH₂ is oxidized in the mitochondrial matrix"
+      ],
+      "answer": 1,
+      "explanation": "FADH₂ transfers electrons to Complex II, which does not pump protons, so the electrons pass through only Complex III and IV, yielding about 2 ATP per FADH₂.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Which statement best describes why the citric acid cycle is considered amphibolic?",
+      "options": [
+        "It only oxidizes acetyl‑CoA to CO2.",
+        "It generates ATP directly by substrate‑level phosphorylation.",
+        "Its intermediates serve both energy‑producing catabolic reactions and provide precursors for biosynthetic (anabolic) pathways.",
+        "It occurs exclusively in the cytosol."
+      ],
+      "answer": 2,
+      "explanation": "The cycle oxidizes acetyl‑CoA for energy (catabolism) and its intermediates such as oxaloacetate, α‑ketoglutarate, and citrate are withdrawn for synthesis of amino acids, fatty acids, and glucose, reflecting its amphibolic nature.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "Oxaloacetate, an intermediate of the citric acid cycle, is a direct precursor for the synthesis of which amino acid?",
+      "options": [
+        "Leucine",
+        "Aspartate",
+        "Phenylalanine",
+        "Tryptophan"
+      ],
+      "answer": 1,
+      "explanation": "Oxaloacetate undergoes transamination to form aspartate, making it the immediate precursor for this amino acid.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "During fatty acid synthesis, citrate is exported from mitochondria to the cytosol. Which enzyme action on citrate provides the acetyl‑CoA required for fatty acid chain elongation?",
+      "options": [
+        "ATP‑citrate lyase",
+        "Citrate synthase",
+        "Isocitrate dehydrogenase",
+        "Malate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "ATP‑citrate lyase cleaves citrate in the cytosol to yield acetyl‑CoA and oxaloacetate, supplying the two‑carbon units for fatty acid synthesis.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "Which step of the citric acid cycle yields GTP (or ATP) by substrate‑level phosphorylation, illustrating its amphibolic character?",
+      "options": [
+        "Conversion of succinyl‑CoA to succinate",
+        "Conversion of malate to oxaloacetate",
+        "Decarboxylation of isocitrate",
+        "Oxidation of NADH by complex I"
+      ],
+      "answer": 0,
+      "explanation": "Succinyl‑CoA synthetase catalyzes the conversion of succinyl‑CoA to succinate, coupling it to the synthesis of GTP (or ATP) directly, a substrate‑level phosphorylation event.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "In the context of amphibolic metabolism, the conversion of pyruvate to oxaloacetate by pyruvate carboxylase is important because:",
+      "options": [
+        "It generates NADH for oxidative phosphorylation.",
+        "It replenishes TCA cycle intermediates (anaplerosis) for biosynthesis.",
+        "It directly produces ATP.",
+        "It releases CO2 without any energy gain."
+      ],
+      "answer": 1,
+      "explanation": "Pyruvate carboxylase adds CO2 to pyruvate, forming oxaloacetate, which refills TCA cycle intermediates needed for both energy production and biosynthetic pathways.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "Which of the following statements about the malate‑aspartate shuttle is true regarding its role in the amphibolic nature of respiration?",
+      "options": [
+        "It transports acetyl‑CoA directly into the cytosol.",
+        "It transfers reducing equivalents (NADH) from cytosol to mitochondria, linking glycolysis to oxidative phosphorylation.",
+        "It converts oxaloacetate to malate for fatty acid β‑oxidation.",
+        "It is the primary pathway for ATP export from mitochondria."
+      ],
+      "answer": 1,
+      "explanation": "The malate‑aspartate shuttle moves electrons from cytosolic NADH into the mitochondrial matrix as malate, allowing glycolytic NADH to contribute to oxidative phosphorylation.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "In a cell where the enzyme isocitrate dehydrogenase is inhibited, which biosynthetic pathway is most likely to be affected due to reduced availability of a key TCA intermediate?",
+      "options": [
+        "Synthesis of cholesterol",
+        "Synthesis of non‑essential amino acids derived from α‑ketoglutarate",
+        "Synthesis of ribose‑5‑phosphate",
+        "Synthesis of urea"
+      ],
+      "answer": 1,
+      "explanation": "Isocitrate dehydrogenase produces α‑ketoglutarate; its shortage limits the synthesis of glutamate and other amino acids derived from α‑ketoglutarate, impacting non‑essential amino acid biosynthesis.",
+      "topic": "Respiration as an amphibolic pathway"
+    },
+    {
+      "question": "What is the overall balanced equation for aerobic respiration of one molecule of glucose?",
+      "options": [
+        "C6H12O6 + 6O2 → 6CO2 + 6H2O",
+        "C6H12O6 → 2C2H5OH + 2CO2",
+        "C6H12O6 + 6O2 → 6CO2 + 6H2O + 38 ATP",
+        "C6H12O6 + 6O2 → 6CO2 + 12H2O"
+      ],
+      "answer": 0,
+      "explanation": "Aerobic oxidation of glucose consumes six molecules of O2 and yields six molecules each of CO2 and H2O; ATP is not a reactant or product in the stoichiometric equation.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "How many net ATP molecules are produced directly by substrate‑level phosphorylation in glycolysis per glucose molecule?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis generates 4 ATP by substrate‑level phosphorylation but uses 2 ATP in the investment phase, giving a net gain of 2 ATP per glucose.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "During glycolysis and the subsequent conversion of pyruvate to acetyl‑CoA, how many NADH molecules are formed per glucose?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "Glycolysis produces 2 NADH and each of the two pyruvate molecules yields 1 NADH in the pyruvate dehydrogenase step, totaling 4 NADH per glucose.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "According to the current P/O ratio, how many ATP molecules are synthesized per NADH oxidized in oxidative phosphorylation?",
+      "options": [
+        "2",
+        "2.5",
+        "3",
+        "3.5"
+      ],
+      "answer": 1,
+      "explanation": "Modern bioenergetics assigns a P/O ratio of about 2.5 ATP per NADH, reflecting the proton translocation efficiency of the electron transport chain.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "Which enzyme catalyzes the substrate‑level phosphorylation step that directly generates ATP in the glycolytic pathway?",
+      "options": [
+        "Hexokinase",
+        "Phosphofructokinase‑1",
+        "Pyruvate kinase",
+        "Lactate dehydrogenase"
+      ],
+      "answer": 2,
+      "explanation": "Pyruvate kinase transfers a phosphate from phosphoenolpyruvate to ADP, producing ATP and pyruvate as the final step of glycolysis.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "What is the respiratory quotient (RQ) when a carbohydrate is the sole oxidized substrate?",
+      "options": [
+        "0.7",
+        "0.8",
+        "1.0",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "Carbohydrate oxidation consumes O2 and produces CO2 in a 1:1 molar ratio, giving an RQ of 1.0.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "In the amphibolic nature of respiration, which molecule links glycolysis to the citric acid cycle?",
+      "options": [
+        "Oxaloacetate",
+        "Acetyl‑CoA",
+        "Pyruvate",
+        "Citrate"
+      ],
+      "answer": 1,
+      "explanation": "Pyruvate generated from glycolysis is converted to acetyl‑CoA, which then enters the citric acid cycle, illustrating the amphibolic connection.",
+      "topic": "Respiration and carbohydrate metabolism"
+    },
+    {
+      "question": "Which statement correctly describes the entry of long‑chain fatty acids into the mitochondrial matrix for β‑oxidation?",
+      "options": [
+        "They are directly transported by the carnitine shuttle as free fatty acids.",
+        "They are first activated to fatty acyl‑CoA in the cytosol, then converted to fatty acyl‑carnitine for transport.",
+        "They enter as glycerol‑3‑phosphate.",
+        "They are transported as triglycerides."
+      ],
+      "answer": 1,
+      "explanation": "Long‑chain fatty acids are activated to fatty acyl‑CoA in the cytosol, then the carnitine shuttle converts them to fatty acyl‑carnitine, which is translocated into the matrix where the acyl group is transferred back to CoA.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "The complete oxidation of one molecule of palmitic acid (C16:0) yields the greatest net ATP count under the following assumptions: P/O = 2.5 for NADH, 1.5 for FADH2, and accounting for activation and transport costs. What is the net ATP yield?",
+      "options": [
+        "106",
+        "108",
+        "105",
+        "100"
+      ],
+      "answer": 2,
+      "explanation": "Palmitate undergoes 8 β‑oxidation cycles producing 8 acetyl‑CoA, 7 NADH and 7 FADH2. Each acetyl‑CoA yields 3 NADH, 1 FADH2 and 1 GTP in the TCA cycle. Total: 31 NADH (31×2.5=77.5 ATP), 15 FADH2 (15×1.5=22.5 ATP), 8 GTP (8 ATP). Sum =108 ATP. Activation consumes 2 ATP and the carnitine shuttle costs 1 ATP equivalent, giving a net of 108‑3 = 105 ATP.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of a typical fatty acid is closest to:",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1.0"
+      ],
+      "answer": 0,
+      "explanation": "RQ = CO2 produced / O2 consumed. Fat oxidation consumes relatively more O2 than carbohydrates, giving an RQ around 0.7.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "Glycerol released from triglyceride breakdown enters glycolysis at which intermediate?",
+      "options": [
+        "Dihydroxyacetone phosphate",
+        "Pyruvate",
+        "Acetyl‑CoA",
+        "Oxaloacetate"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol is phosphorylated to glycerol‑3‑phosphate and then oxidized to dihydroxyacetone phosphate, which is an intermediate of glycolysis.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "During prolonged fasting, increased reliance on fat oxidation leads to a rise in which blood metabolite?",
+      "options": [
+        "Glucose",
+        "Lactate",
+        "Ketone bodies",
+        "Urea"
+      ],
+      "answer": 2,
+      "explanation": "Fatty‑acid oxidation in the liver generates excess acetyl‑CoA, which is converted to ketone bodies (acetoacetate, β‑hydroxybutyrate) that appear in the blood during fasting.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "Which enzyme catalyzes the rate‑limiting step of mitochondrial β‑oxidation of fatty acids?",
+      "options": [
+        "Acetyl‑CoA carboxylase",
+        "Carnitine acyl‑transferase I (CPT I)",
+        "Hormone‑sensitive lipase",
+        "Acyl‑CoA dehydrogenase"
+      ],
+      "answer": 1,
+      "explanation": "CPT I controls the entry of long‑chain acyl‑CoA into mitochondria, making it the rate‑limiting step of β‑oxidation.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "In metabolic terminology, the pathway of respiration is described as \"amphibolic\" because it:",
+      "options": [
+        "Produces only ATP",
+        "Is involved both in catabolism and anabolism",
+        "Occurs only in the mitochondria",
+        "Generates only NADH"
+      ],
+      "answer": 1,
+      "explanation": "An amphibolic pathway serves both catabolic (energy‑producing) and anabolic (biosynthetic) functions; the citric acid cycle provides precursors for biosynthesis while also oxidizing substrates for ATP.",
+      "topic": "Respiration and fat metabolism"
+    },
+    {
+      "question": "Which amino acid directly yields acetyl‑CoA after deamination?",
+      "options": [
+        "Leucine",
+        "Lysine",
+        "Phenylalanine",
+        "Valine"
+      ],
+      "answer": 0,
+      "explanation": "Leucine is a purely ketogenic amino acid; after transamination and oxidative decarboxylation its carbon skeleton is converted to acetyl‑CoA, which then enters the citric acid cycle.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "During protein catabolism, the carbon skeleton of glutamate enters the TCA cycle as which intermediate?",
+      "options": [
+        "α‑Ketoglutarate",
+        "Oxaloacetate",
+        "Succinate",
+        "Fumarate"
+      ],
+      "answer": 0,
+      "explanation": "Oxidative deamination of glutamate by glutamate dehydrogenase produces α‑ketoglutarate, a direct intermediate of the citric acid cycle.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of a pure protein substrate is closest to:",
+      "options": [
+        "0.8",
+        "0.9",
+        "1.0",
+        "0.7"
+      ],
+      "answer": 0,
+      "explanation": "Proteins contain both carbon and nitrogen; their oxidation yields an RQ of about 0.8, intermediate between carbohydrates (≈1) and fats (≈0.7).",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "Which pathway is primarily responsible for removal of the amino group from amino acids before they enter the TCA cycle?",
+      "options": [
+        "Transamination",
+        "Oxidative deamination",
+        "Decarboxylation",
+        "Phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Oxidative deamination (e.g., via glutamate dehydrogenase) removes the amino group as NH₃, allowing the carbon skeleton to be funneled into the TCA cycle.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "In the urea cycle, which intermediate directly receives the carbamoyl group from carbamoyl phosphate?",
+      "options": [
+        "Ornithine",
+        "Citrulline",
+        "Argininosuccinate",
+        "Arginine"
+      ],
+      "answer": 0,
+      "explanation": "Carbamoyl phosphate reacts with ornithine to form citrulline; thus ornithine is the direct acceptor of the carbamoyl group.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "Oxidative deamination of one molecule of glutamate yields how many molecules of NADH?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "The reaction catalyzed by glutamate dehydrogenase produces one NADH per glutamate molecule converted to α‑ketoglutarate.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "Increased protein catabolism at rest would cause the measured respiratory quotient to:",
+      "options": [
+        "Increase towards 1.0",
+        "Decrease towards 0.8",
+        "Remain unchanged",
+        "Fluctuate unpredictably"
+      ],
+      "answer": 1,
+      "explanation": "Because proteins have an RQ of about 0.8, greater reliance on protein oxidation lowers the overall RQ compared with predominant carbohydrate oxidation.",
+      "topic": "Respiration and protein metabolism"
+    },
+    {
+      "question": "In which cellular compartment does the activation of a fatty acid to fatty acyl‑CoA occur?",
+      "options": [
+        "Cytosol",
+        "Mitochondrial matrix",
+        "Endoplasmic reticulum",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Fatty acid activation is catalyzed by fatty acyl‑CoA synthetase in the cytosol (or on the outer mitochondrial membrane), converting fatty acid + CoA + ATP to fatty acyl‑CoA + AMP + PPi.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "Which enzyme transfers the acyl group from CoA to carnitine during mitochondrial import of fatty acids?",
+      "options": [
+        "Carnitine palmitoyltransferase I",
+        "Carnitine palmitoyltransferase II",
+        "Acyl‑CoA dehydrogenase",
+        "Malonyl‑CoA decarboxylase"
+      ],
+      "answer": 0,
+      "explanation": "Carnitine palmitoyltransferase I (CPT I), located on the outer mitochondrial membrane, catalyzes the formation of acyl‑carnitine, the first step of the carnitine shuttle.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "Which molecule allosterically inhibits the transport of fatty acids into mitochondria?",
+      "options": [
+        "Acetyl‑CoA",
+        "Malonyl‑CoA",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": 1,
+      "explanation": "Malonyl‑CoA, the first product of fatty acid synthesis, binds to and inhibits CPT I, preventing fatty acid entry into the mitochondrion when synthesis is active.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "During each round of β‑oxidation of a saturated fatty acid, which reduced coenzymes are generated?",
+      "options": [
+        "NADH and FADH2",
+        "NADPH and FADH2",
+        "NADH only",
+        "FADH2 only"
+      ],
+      "answer": 0,
+      "explanation": "One cycle of β‑oxidation yields one molecule of NADH (via acyl‑CoA dehydrogenase) and one molecule of FADH2 (via electron‑transfer flavoprotein).",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "What is the approximate net ATP yield from complete oxidation of a 16‑carbon saturated fatty acid (palmitic acid) in eukaryotic cells?",
+      "options": [
+        "106",
+        "108",
+        "100",
+        "112"
+      ],
+      "answer": 0,
+      "explanation": "Palmitoyl‑CoA undergoes 7 β‑oxidation cycles producing 7 NADH, 7 FADH2 and 8 acetyl‑CoA. Using 2.5 ATP per NADH, 1.5 per FADH2 and 10 ATP per acetyl‑CoA gives 108 + 17.5 + 10.5 = 136 ATP; subtracting 2 ATP spent in activation yields ~106 ATP net.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "The three‑carbon fragment generated from β‑oxidation of an odd‑chain fatty acid enters the TCA cycle as which intermediate?",
+      "options": [
+        "Acetyl‑CoA",
+        "Succinyl‑CoA",
+        "Oxaloacetate",
+        "α‑Ketoglutarate"
+      ],
+      "answer": 1,
+      "explanation": "Propionyl‑CoA formed from the last three carbons is carboxylated to methylmalonyl‑CoA and then rearranged to succinyl‑CoA, which feeds into the TCA cycle.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "In plant cells, the initial breakdown of fatty acids that supplies acetyl‑CoA for respiration during seed germination occurs primarily in which organelle?",
+      "options": [
+        "Mitochondria",
+        "Peroxisome",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "answer": 1,
+      "explanation": "Plants conduct the first steps of fatty acid β‑oxidation in peroxisomes (glyoxysomes); the resulting acetyl‑CoA is then transferred to mitochondria for the TCA cycle.",
+      "topic": "Entry of fatty acids into respiration"
+    },
+    {
+      "question": "Which enzyme catalyzes the phosphorylation of glycerol to glycerol‑3‑phosphate, the first step of glycerol entry into respiration?",
+      "options": [
+        "Glycerol kinase",
+        "Glycerol‑3‑phosphate dehydrogenase",
+        "Hexokinase",
+        "Phosphofructokinase"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol kinase transfers a phosphate from ATP to glycerol, forming glycerol‑3‑phosphate, which is the initial activation step before further oxidation.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "Glycerol‑3‑phosphate is oxidized to dihydroxyacetone phosphate (DHAP) by which enzyme, and which cofactor is reduced in the process?",
+      "options": [
+        "Glycerol‑3‑phosphate dehydrogenase (NAD⁺)",
+        "Glycerol‑3‑phosphate dehydrogenase (FAD)",
+        "Aldolase",
+        "Phosphoglycerate kinase"
+      ],
+      "answer": 0,
+      "explanation": "The NAD⁺‑dependent glycerol‑3‑phosphate dehydrogenase converts glycerol‑3‑phosphate to DHAP while reducing NAD⁺ to NADH, linking glycerol metabolism to glycolysis.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "What is the approximate net ATP yield from the complete aerobic oxidation of one molecule of glycerol (entering metabolism as DHAP) in NEET‑type calculations?",
+      "options": [
+        "18 ATP",
+        "20 ATP",
+        "22 ATP",
+        "24 ATP"
+      ],
+      "answer": 0,
+      "explanation": "Glycerol consumes 1 ATP (phosphorylation) and produces 2 NADH (one from glycerol‑3‑phosphate dehydrogenase, one from glycolysis). Each NADH yields ~3 ATP, giving 6 ATP. The resulting pyruvate yields ~12 ATP via the TCA cycle. Net ATP ≈ 6 + 12 = 18 ATP.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "Which statement correctly describes the metabolic fate of glycerol carbon atoms during aerobic respiration?",
+      "options": [
+        "All three carbons are converted to acetyl‑CoA before entering the TCA cycle",
+        "Glycerol is first converted to pyruvate, which then forms acetyl‑CoA",
+        "Glycerol is converted to DHAP and follows the glycolytic pathway to pyruvate",
+        "Glycerol enters the TCA cycle directly as succinate"
+      ],
+      "answer": 2,
+      "explanation": "Glycerol is phosphorylated and oxidized to DHAP, an intermediate of glycolysis. DHAP proceeds through glycolysis to pyruvate, which is then converted to acetyl‑CoA for the TCA cycle.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of glycerol is closest to which value?",
+      "options": [
+        "0.8",
+        "1.0",
+        "1.2",
+        "1.5"
+      ],
+      "answer": 1,
+      "explanation": "Glycerol is a three‑carbon carbohydrate; its oxidation releases CO₂ and consumes O₂ in a 1:1 molar ratio, giving an RQ of approximately 1.0, the same as other carbohydrates.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "Which of the following is NOT required for glycerol to enter the glycolytic pathway?",
+      "options": [
+        "ATP",
+        "NAD+",
+        "Coenzyme A",
+        "Glycerol kinase"
+      ],
+      "answer": 2,
+      "explanation": "Coenzyme A is not involved in the conversion of glycerol to DHAP. The process needs ATP (for phosphorylation), NAD⁺ (for oxidation), and glycerol kinase.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "During prolonged fasting, which organ primarily utilizes glycerol released from triglyceride breakdown for gluconeogenesis rather than direct oxidation in the TCA cycle?",
+      "options": [
+        "Liver",
+        "Skeletal muscle",
+        "Adipose tissue",
+        "Brain"
+      ],
+      "answer": 0,
+      "explanation": "The liver possesses the necessary enzymes (e.g., glycerol kinase, gluconeogenic enzymes) to convert glycerol into glucose, making it the main site for glycerol‑derived gluconeogenesis during fasting.",
+      "topic": "Entry of glycerol into respiration"
+    },
+    {
+      "question": "Which amino acid is exclusively ketogenic and enters respiration as acetyl‑CoA?",
+      "options": [
+        "Leucine",
+        "Isoleucine",
+        "Alanine",
+        "Aspartate"
+      ],
+      "answer": 0,
+      "explanation": "Leucine is purely ketogenic; its carbon skeleton is degraded to acetyl‑CoA, which enters the TCA cycle.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "Which amino acid directly forms oxaloacetate via transamination before entering the TCA cycle?",
+      "options": [
+        "Aspartate",
+        "Lysine",
+        "Leucine",
+        "Phenylalanine"
+      ],
+      "answer": 0,
+      "explanation": "Aspartate undergoes transamination with α‑ketoglutarate to give oxaloacetate, which then feeds into the TCA cycle.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "Which amino acid yields both acetyl‑CoA and succinyl‑CoA upon catabolism?",
+      "options": [
+        "Isoleucine",
+        "Threonine",
+        "Methionine",
+        "Histidine"
+      ],
+      "answer": 0,
+      "explanation": "Isoleucine is both glucogenic and ketogenic; its degradation produces acetyl‑CoA and propionyl‑CoA, the latter being converted to succinyl‑CoA.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "During deamination, the amino group is transferred to which α‑keto acid to form glutamate?",
+      "options": [
+        "Oxaloacetate",
+        "Pyruvate",
+        "α‑Ketoglutarate",
+        "Fumarate"
+      ],
+      "answer": 2,
+      "explanation": "In transamination, the amino group is transferred to α‑ketoglutarate, producing glutamate and the corresponding α‑keto acid of the donor amino acid.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "Which amino acid is classified as glucogenic because its carbon skeleton is converted to pyruvate?",
+      "options": [
+        "Leucine",
+        "Lysine",
+        "Alanine",
+        "Phenylalanine"
+      ],
+      "answer": 2,
+      "explanation": "Alanine undergoes transamination to pyruvate, making it a glucogenic amino acid that can enter respiration via pyruvate.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "The carbon skeleton of phenylalanine enters the TCA cycle as which intermediate?",
+      "options": [
+        "Acetyl‑CoA",
+        "Succinyl‑CoA",
+        "Fumarate",
+        "α‑Ketoglutarate"
+      ],
+      "answer": 2,
+      "explanation": "Phenylalanine is first converted to tyrosine, then degraded to fumarate and acetoacetate; fumarate feeds directly into the TCA cycle.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "In the catabolism of amino acids for respiration, removal of the amino group primarily occurs via which process?",
+      "options": [
+        "Oxidative decarboxylation",
+        "Transamination",
+        "Dehydrogenation",
+        "Phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Transamination transfers the amino group to α‑ketoglutarate, forming glutamate; the amino group is later removed as ammonia in oxidative deamination of glutamate.",
+      "topic": "Entry of amino acids into respiration"
+    },
+    {
+      "question": "Respiratory quotient (RQ) is defined as the ratio of which two gases during metabolism?",
+      "options": [
+        "CO₂ produced to O₂ consumed",
+        "O₂ consumed to CO₂ produced",
+        "ATP produced to O₂ consumed",
+        "Glucose consumed to CO₂ produced"
+      ],
+      "answer": 0,
+      "explanation": "RQ = volume of CO₂ generated ÷ volume of O₂ utilized; it reflects the stoichiometry of substrate oxidation.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "What is the typical respiratory quotient when a person oxidizes only carbohydrate (e.g., glucose)?",
+      "options": [
+        "0.7",
+        "0.8",
+        "1.0",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "Complete oxidation of carbohydrate yields equal moles of CO₂ and O₂ (6 CO₂/6 O₂), giving an RQ of 1.0.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "The oxidation of a typical long‑chain fatty acid such as palmitic acid yields an RQ closest to:",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1.0"
+      ],
+      "answer": 0,
+      "explanation": "Fat oxidation consumes more O₂ relative to CO₂ produced; for palmitic acid the RQ is about 0.7.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "A measured RQ of 0.85 in a resting individual most likely indicates:",
+      "options": [
+        "Predominant carbohydrate oxidation",
+        "Predominant fat oxidation",
+        "Predominant protein oxidation",
+        "Mixed oxidation of carbohydrate and fat"
+      ],
+      "answer": 3,
+      "explanation": "An RQ between 0.7 (fat) and 1.0 (carbohydrate) suggests simultaneous utilization of both, with a higher proportion of carbs raising the value toward 0.85.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "During prolonged fasting, an individual's RQ falls to ~0.72. This value primarily reflects oxidation of:",
+      "options": [
+        "Carbohydrate",
+        "Fat",
+        "Protein",
+        "Nucleic acids"
+      ],
+      "answer": 1,
+      "explanation": "Fasting shifts metabolism toward fat oxidation, which has an RQ around 0.7; the observed 0.72 is consistent with predominant fatty‑acid utilization.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "A diet provides 60% of calories from carbohydrate, 30% from fat and 10% from protein. Approximate the expected overall RQ (use RQ values 1.0 for carbs, 0.7 for fats, 0.8 for proteins).",
+      "options": [
+        "0.78",
+        "0.85",
+        "0.89",
+        "0.95"
+      ],
+      "answer": 2,
+      "explanation": "Weighted RQ = 0.6×1.0 + 0.3×0.7 + 0.1×0.8 = 0.60 + 0.21 + 0.08 = 0.89.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "Which of the following statements about respiratory quotient is FALSE?",
+      "options": [
+        "RQ > 1 indicates net lipogenesis",
+        "RQ of 1.0 is observed during pure carbohydrate oxidation",
+        "RQ of 0.7 indicates exclusive fat oxidation",
+        "RQ remains constant irrespective of metabolic state"
+      ],
+      "answer": 3,
+      "explanation": "RQ varies with the substrate being oxidized; it is not a constant value across different metabolic conditions.",
+      "topic": "Respiratory quotient"
+    },
+    {
+      "question": "What is the respiratory quotient (RQ) for the complete oxidation of a typical carbohydrate such as glucose?",
+      "options": [
+        "0.7",
+        "0.8",
+        "1.0",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "Carbohydrate oxidation (C6H12O6 + 6O2 → 6CO2 + 6H2O) consumes 6 moles of O2 and produces 6 moles of CO2, giving RQ = CO2 produced / O2 consumed = 6/6 = 1.0.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "Which of the following reactions correctly represents the oxidation of a carbohydrate and yields an RQ of 1?",
+      "options": [
+        "C6H12O6 + 6O2 → 6CO2 + 6H2O",
+        "C6H12O6 + 5O2 → 5CO2 + 5H2O",
+        "C6H12O6 + 7O2 → 7CO2 + 7H2O",
+        "C6H12O6 + 4O2 → 4CO2 + 4H2O"
+      ],
+      "answer": 0,
+      "explanation": "The balanced equation for glucose oxidation consumes 6 O2 and produces 6 CO2, giving an RQ of 6/6 = 1.0. The other equations are unbalanced and would not give RQ = 1.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "During intense exercise, a subject’s measured RQ is close to 1.0. Which substrate is predominantly being utilized?",
+      "options": [
+        "Fatty acids",
+        "Amino acids",
+        "Carbohydrates",
+        "Ketone bodies"
+      ],
+      "answer": 2,
+      "explanation": "An RQ of ~1.0 indicates that CO2 production equals O2 consumption, characteristic of carbohydrate metabolism. Fat oxidation gives RQ ~0.7, protein ~0.8.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "If a person consumes only sucrose (C12H22O11) as the carbohydrate source, what is the expected RQ for its oxidation?",
+      "options": [
+        "0.85",
+        "0.95",
+        "1.00",
+        "1.10"
+      ],
+      "answer": 2,
+      "explanation": "Sucrose is a disaccharide of glucose and fructose; its complete oxidation ultimately yields the same stoichiometry as glucose (12 C, 22 H, 11 O → 12 CO2 + 11 H2O), giving CO2/O2 = 1.0.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "A respiratory gas analysis shows CO2 production of 300 mL/min and O2 consumption of 300 mL/min. Which statement best describes the metabolic state?",
+      "options": [
+        "Predominant fat oxidation",
+        "Mixed substrate oxidation with high protein contribution",
+        "Predominant carbohydrate oxidation",
+        "Predominant ketone body oxidation"
+      ],
+      "answer": 2,
+      "explanation": "CO2 production equals O2 consumption, giving an RQ of 1.0, which is indicative of predominant carbohydrate oxidation.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "When the RQ measured during resting metabolism drops from 1.0 to 0.85, what does this change most likely reflect?",
+      "options": [
+        "Increased carbohydrate utilization",
+        "Increased fat utilization",
+        "Increased protein utilization",
+        "Decreased overall metabolic rate"
+      ],
+      "answer": 1,
+      "explanation": "A decrease in RQ from 1.0 toward the value for fat oxidation (~0.7) indicates a shift toward greater fat utilization relative to carbohydrates.",
+      "topic": "RQ of carbohydrates"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of a typical dietary fat is closest to:",
+      "options": [
+        "1.00",
+        "0.85",
+        "0.70",
+        "0.55"
+      ],
+      "answer": 2,
+      "explanation": "RQ = CO2 produced / O2 consumed. Oxidation of fats consumes more O2 per CO2 generated, giving an RQ of about 0.7.",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "For a saturated fatty acid with the formula C_nH_{2n}O2, the theoretical respiratory quotient is:",
+      "options": [
+        "2/(3-2/n)",
+        "1",
+        "(3n-2)/(2n)",
+        "n/(2n-1)"
+      ],
+      "answer": 0,
+      "explanation": "Complete oxidation: C_nH_{2n}O2 + (3n/2-1)O2 → nCO2 + nH2O, so RQ = n / (3n/2-1) = 2/(3-2/n).",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "Among the following substrates, which yields the lowest respiratory quotient when completely oxidized?",
+      "options": [
+        "Glucose",
+        "Protein",
+        "Fat",
+        "Lactate"
+      ],
+      "answer": 2,
+      "explanation": "Fats have the lowest RQ (~0.7) because they contain more hydrogen relative to carbon, requiring more O2 per CO2 produced.",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "Compared to a saturated fatty acid, the oxidation of a monounsaturated fatty acid (e.g., oleic acid) will have a respiratory quotient that is:",
+      "options": [
+        "Slightly higher",
+        "The same",
+        "Slightly lower",
+        "Much higher"
+      ],
+      "answer": 0,
+      "explanation": "The presence of a double bond reduces the amount of O2 needed per CO2 released, raising the RQ marginally (≈0.71 vs ≈0.69 for saturated fats).",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "If a resting individual’s measured RQ is 0.72, the predominant fuel being oxidized is most likely:",
+      "options": [
+        "Carbohydrate",
+        "Fat",
+        "Protein",
+        "A mixture of all three in equal proportion"
+      ],
+      "answer": 1,
+      "explanation": "An RQ around 0.7 indicates predominant fat oxidation; values near 1.0 indicate carbohydrate, and ~0.8 indicate protein.",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "During prolonged fasting, the RQ measured in expired air typically:",
+      "options": [
+        "Increases towards 1.0",
+        "Decreases towards 0.7",
+        "Remains unchanged",
+        "Fluctuates randomly"
+      ],
+      "answer": 1,
+      "explanation": "Fasting shifts metabolism toward fat utilization, lowering the RQ toward the characteristic value for fats (~0.7).",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "Which statement about the respiratory quotient of fats is FALSE?",
+      "options": [
+        "It is less than 1 because fats contain more hydrogen per carbon.",
+        "It remains constant irrespective of fatty‑acid chain length.",
+        "It is higher for polyunsaturated fats than for saturated fats.",
+        "It reflects the ratio of CO2 produced to O2 consumed."
+      ],
+      "answer": 1,
+      "explanation": "RQ of fats varies slightly with chain length and degree of unsaturation; it is not strictly constant for all fatty acids.",
+      "topic": "RQ of fats"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of a typical protein is closest to:",
+      "options": [
+        "0.8",
+        "0.9",
+        "1.0",
+        "0.7"
+      ],
+      "answer": 0,
+      "explanation": "Proteins have an average empirical formula that yields an RQ of about 0.8, lower than carbohydrates (1.0) and higher than fats (0.7).",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "Using the average empirical formula C5H7O2N for proteins, what is the theoretical respiratory quotient?",
+      "options": [
+        "0.75",
+        "0.82",
+        "0.90",
+        "1.00"
+      ],
+      "answer": 1,
+      "explanation": "For C5H7O2N, CO2 produced = 5 – 0.5(N) = 4.5 mol; O2 consumed = 5 + 0.5(O) – 0.5(N) = 5.5 mol. RQ = 4.5/5.5 ≈ 0.82.",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "During protein catabolism, nitrogen is excreted mainly as urea, which does not involve CO2 production. How does this affect the respiratory quotient compared to carbohydrate oxidation?",
+      "options": [
+        "It lowers the RQ",
+        "It raises the RQ",
+        "It does not change the RQ",
+        "It makes the RQ equal to 1"
+      ],
+      "answer": 0,
+      "explanation": "Loss of nitrogen as urea reduces the amount of CO2 generated per O2 consumed, thereby lowering the RQ relative to carbohydrate oxidation (RQ = 1).",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "If a subject’s measured RQ is 0.78, which substrate is predominantly being oxidized?",
+      "options": [
+        "Carbohydrate",
+        "Fat",
+        "Protein",
+        "A mixture of carbohydrate and fat"
+      ],
+      "answer": 2,
+      "explanation": "An RQ around 0.8 is characteristic of protein oxidation; carbohydrate gives ~1.0 and fat ~0.7.",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "A high‑protein diet, compared with a high‑carbohydrate diet, will most likely cause the average RQ to:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Exceed 1.0"
+      ],
+      "answer": 1,
+      "explanation": "Proteins have a lower RQ (~0.8) than carbohydrates (1.0); thus a protein‑rich diet lowers the overall RQ.",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "Which statement about the respiratory quotient of proteins is correct?",
+      "options": [
+        "The RQ of proteins is exactly 1.0",
+        "The RQ of proteins is lower than that of carbohydrates but higher than that of fats",
+        "The RQ of proteins is higher than that of both carbohydrates and fats",
+        "The RQ of proteins is independent of nitrogen excretion"
+      ],
+      "answer": 1,
+      "explanation": "Protein oxidation yields an RQ of about 0.8, which is lower than carbohydrates (1.0) and higher than fats (≈0.7).",
+      "topic": "RQ of proteins"
+    },
+    {
+      "question": "The respiratory quotient (RQ) is defined as:",
+      "options": [
+        "Ratio of O2 consumed to CO2 produced",
+        "Ratio of CO2 produced to O2 consumed",
+        "Difference between CO2 produced and O2 consumed",
+        "Product of CO2 produced and O2 consumed"
+      ],
+      "answer": 1,
+      "explanation": "RQ is the ratio of the volume (or moles) of CO2 generated to the volume (or moles) of O2 utilized during oxidation of a substrate.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "When oxalic acid (C2H2O4) is completely oxidized to CO2 and H2O, the balanced equation is C2H2O4 + 0.5 O2 → 2 CO2 + H2O. What is the respiratory quotient for oxalic acid?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "CO2 produced = 2 mol, O2 consumed = 0.5 mol, so RQ = 2 / 0.5 = 4.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "Among the following organic acids, which one yields the highest respiratory quotient when fully oxidized?",
+      "options": [
+        "Oxalic acid",
+        "Citric acid",
+        "Malic acid",
+        "Succinic acid"
+      ],
+      "answer": 0,
+      "explanation": "Oxalic acid gives RQ = 4, whereas citric and malic acids give ~1.33 and succinic acid ~1.14; thus oxalic acid has the highest RQ.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "What is the respiratory quotient for the complete oxidation of malic acid (C4H6O5) to CO2 and H2O?",
+      "options": [
+        "1.0",
+        "1.33",
+        "1.5",
+        "2.0"
+      ],
+      "answer": 1,
+      "explanation": "Balanced oxidation: C4H6O5 + 3 O2 → 4 CO2 + 3 H2O. CO2 = 4 mol, O2 = 3 mol, RQ = 4/3 ≈ 1.33.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "An organism shows an RQ of 1.33 during respiration. Which substrate is most consistent with this value?",
+      "options": [
+        "Glucose",
+        "Fatty acid",
+        "Oxalic acid",
+        "Citric acid"
+      ],
+      "answer": 3,
+      "explanation": "Carbohydrates give RQ≈1, fats ≈0.7, oxalic acid gives RQ=4, while citric acid oxidation yields RQ≈1.33, matching the observed value.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "In a metabolic experiment, the measured respiratory quotient is 1.20. Which organic acid is the most likely primary substrate being oxidized?",
+      "options": [
+        "Pyruvic acid",
+        "Malic acid",
+        "Succinic acid",
+        "Oxalic acid"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvic acid oxidation gives RQ = 3/2.5 = 1.20, matching the measured value; the others give different RQ values.",
+      "topic": "RQ of organic acids"
+    },
+    {
+      "question": "Which of the following best describes the effect of increasing temperature from 20°C to 35°C on the rate of respiration in plant tissues, assuming other conditions are optimal?",
+      "options": [
+        "The rate decreases because enzymes become inhibited",
+        "The rate increases up to an optimum temperature and then declines",
+        "The rate remains unchanged over this temperature range",
+        "The rate continuously increases with temperature"
+      ],
+      "answer": 1,
+      "explanation": "Respiratory enzymes have an optimum temperature (usually around 30-35°C for many plants). Within this range the rate rises, but beyond the optimum enzyme denaturation reduces the rate.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "A sudden drop in ambient oxygen concentration around plant roots primarily leads to which immediate metabolic change?",
+      "options": [
+        "An increase in aerobic respiration",
+        "A shift to anaerobic fermentation producing ethanol",
+        "No change in metabolic pathways",
+        "An increase in oxidative phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Low O2 limits the final electron acceptor for the electron transport chain, forcing cells to rely on anaerobic fermentation (e.g., ethanol production in plants) to regenerate NAD+.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "The initial rate of respiration in isolated mitochondria shows a hyperbolic dependence on pyruvate concentration. This relationship is best described by:",
+      "options": [
+        "First‑order kinetics",
+        "Zero‑order kinetics",
+        "Michaelis‑Menten kinetics",
+        "Cooperative (sigmoidal) kinetics"
+      ],
+      "answer": 2,
+      "explanation": "Enzyme‑catalyzed reactions, including those of the TCA cycle, follow Michaelis‑Menten kinetics, giving a hyperbolic substrate‑velocity curve.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "Which factor most directly lowers the respiratory quotient (RQ) of a metabolizing organism?",
+      "options": [
+        "Predominant oxidation of carbohydrates",
+        "Predominant oxidation of fats",
+        "Predominant oxidation of proteins",
+        "Equal oxidation of all macronutrients"
+      ],
+      "answer": 1,
+      "explanation": "Fats have an RQ of ~0.7, lower than carbohydrates (1.0) and proteins (~0.8). Predominant fat oxidation therefore reduces the overall RQ.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "A plant leaf exposed to high light intensity shows a lower measured respiration rate compared with darkness. This apparent reduction is mainly due to:",
+      "options": [
+        "Direct inhibition of mitochondrial enzymes by light",
+        "Increased photosynthetic CO2 fixation masking CO2 release",
+        "Light‑induced temperature rise causing enzyme denaturation",
+        "Light‑induced stomatal closure reducing O2 intake"
+      ],
+      "answer": 1,
+      "explanation": "During illumination, CO2 fixed in photosynthesis offsets CO2 released by respiration, making net CO2 evolution appear lower; the respiratory machinery itself is not inhibited.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "Uncoupling agents such as dinitrophenol (DNP) affect cellular respiration by:",
+      "options": [
+        "Inhibiting glycolysis",
+        "Blocking the electron transport chain",
+        "Dissipating the proton gradient, increasing O2 consumption but decreasing ATP synthesis",
+        "Enhancing ATP synthase activity"
+      ],
+      "answer": 2,
+      "explanation": "DNP carries protons across the inner mitochondrial membrane, collapsing the proton motive force. Electron transport speeds up (higher O2 use) but ATP synthesis falls.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "At high altitude, the reduced partial pressure of oxygen leads to which adaptive change in human respiration?",
+      "options": [
+        "Decreased ventilation rate",
+        "Increased hemoglobin affinity for O2",
+        "Increased reliance on anaerobic glycolysis",
+        "Increased ventilation and higher respiratory rate"
+      ],
+      "answer": 3,
+      "explanation": "The body compensates for lower O2 availability by stimulating the respiratory centre, raising breathing frequency and tidal volume to enhance O2 uptake.",
+      "topic": "Factors affecting respiration"
+    },
+    {
+      "question": "The temperature coefficient (Q10) for respiration in most higher plants is closest to which value?",
+      "options": [
+        "1.5",
+        "2.0",
+        "2.5",
+        "3.0"
+      ],
+      "answer": 1,
+      "explanation": "Experimental data show that the rate of respiration roughly doubles for a 10 °C rise in temperature, giving a Q10 value near 2 for most higher plants.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "If the temperature of a leaf is raised from 20 °C to 30 °C and the Q10 for its respiration is 2, the respiration rate will:",
+      "options": [
+        "double",
+        "increase by 1.5 times",
+        "remain the same",
+        "decrease by half"
+      ],
+      "answer": 0,
+      "explanation": "A Q10 of 2 means the rate doubles when the temperature is increased by 10 °C; therefore the respiration rate at 30 °C will be twice that at 20 °C.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "The temperature at which the rate of respiration in most C3 plants is maximal is approximately:",
+      "options": [
+        "10 °C",
+        "25 °C",
+        "35 °C",
+        "45 °C"
+      ],
+      "answer": 2,
+      "explanation": "C3 plant respiration typically peaks around 30–35 °C; beyond this range enzyme denaturation reduces the rate.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "When temperature exceeds the optimum for plant respiration, the decline in rate is mainly due to:",
+      "options": [
+        "decreased substrate availability",
+        "inhibition of cytochrome oxidase",
+        "denaturation of respiratory enzymes",
+        "increased ATP synthesis"
+      ],
+      "answer": 2,
+      "explanation": "High temperatures cause structural changes in respiratory enzymes, especially those of the mitochondrial electron transport chain, leading to loss of activity.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "In an experiment, seeds are germinated at 15 °C and at 25 °C. Which statement best describes the CO₂ evolution from the seeds?",
+      "options": [
+        "Higher at 15 °C",
+        "Higher at 25 °C",
+        "Same at both temperatures",
+        "Lower at 25 °C"
+      ],
+      "answer": 1,
+      "explanation": "Within the physiological range, a higher temperature (25 °C) accelerates metabolic reactions, so germinating seeds release more CO₂ than at 15 °C.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "How does temperature affect the respiratory quotient (RQ) for carbohydrate metabolism?",
+      "options": [
+        "RQ increases with temperature",
+        "RQ decreases with temperature",
+        "RQ remains unchanged",
+        "RQ becomes >1"
+      ],
+      "answer": 2,
+      "explanation": "RQ is a stoichiometric ratio (CO₂ produced/O₂ consumed) that depends on the substrate, not on temperature; therefore it stays constant.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "Which of the following statements about the temperature coefficient (Q10) is correct?",
+      "options": [
+        "Q10 is defined for a 5 °C rise",
+        "Q10 is always >1",
+        "Q10 is independent of organism",
+        "Q10 equals the activation energy"
+      ],
+      "answer": 1,
+      "explanation": "By definition, Q10 expresses the factor by which a rate increases for a 10 °C rise; since rates rise with temperature, Q10 is always greater than 1.",
+      "topic": "Temperature"
+    },
+    {
+      "question": "In plant cells, when external O₂ concentration falls below a critical threshold, which change occurs in the mitochondrial electron transport chain?",
+      "options": [
+        "Cytochrome oxidase activity increases",
+        "NADH dehydrogenase activity decreases",
+        "Reduced ubiquinol accumulates because O₂ shortage limits its oxidation",
+        "ATP synthase activity is unaffected"
+      ],
+      "answer": 2,
+      "explanation": "O₂ is the final electron acceptor at cytochrome oxidase; its shortage prevents oxidation of ubiquinol, causing its reduction to accumulate.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "The respiratory quotient (RQ) measured under oxygen‑limited conditions in a leaf is most likely to be:",
+      "options": [
+        "Close to 1.0",
+        "Greater than 1.0",
+        "Less than 0.7",
+        "Unchanged from well‑aerated conditions"
+      ],
+      "answer": 1,
+      "explanation": "Anaerobic fermentation releases CO₂ without consuming O₂, raising the CO₂ produced per O₂ consumed and giving an RQ >1.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "Which plant adaptation directly enhances oxygen availability to root mitochondria in water‑logged soils?",
+      "options": [
+        "Development of aerenchyma",
+        "Increased lignin deposition in cell walls",
+        "Stomatal closure",
+        "Production of ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Aerenchyma forms air channels that transport atmospheric O₂ from shoots to submerged roots, improving mitochondrial O₂ supply.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "In a well‑aerated leaf, which factor becomes rate‑determining for oxidative phosphorylation when oxygen availability is high?",
+      "options": [
+        "Substrate‑level phosphorylation",
+        "Availability of ADP",
+        "Oxygen diffusion into mesophyll cells",
+        "Regeneration of NAD⁺"
+      ],
+      "answer": 1,
+      "explanation": "When O₂ is abundant, the electron transport chain runs efficiently; the limiting step shifts to ADP supply for ATP synthase.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "A plant exposed to hypoxic conditions shows a drop in ATP yield per mole of glucose from ~30 to ~2. Which metabolic shift accounts for this change?",
+      "options": [
+        "Increased activity of pyruvate dehydrogenase",
+        "Activation of alcoholic fermentation",
+        "Enhanced β‑oxidation of fatty acids",
+        "Upregulation of the TCA cycle"
+      ],
+      "answer": 1,
+      "explanation": "Under low O₂, mitochondria cannot carry out oxidative phosphorylation, so pyruvate is diverted to alcoholic fermentation, yielding only 2 ATP per glucose.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "Which statement correctly describes the effect of low oxygen availability on the respiratory quotient of a carbohydrate substrate?",
+      "options": [
+        "RQ decreases because less CO₂ is produced",
+        "RQ remains at 1.0 because carbohydrate oxidation is independent of O₂",
+        "RQ increases above 1.0 due to fermentative CO₂ production without O₂ consumption",
+        "RQ becomes negative"
+      ],
+      "answer": 2,
+      "explanation": "Fermentation generates CO₂ without using O₂, so the ratio of CO₂ evolved to O₂ consumed (RQ) rises above the stoichiometric value of 1.0 for aerobic carbohydrate oxidation.",
+      "topic": "Oxygen availability"
+    },
+    {
+      "question": "Why is cellular respiration described as an amphibolic pathway?",
+      "options": [
+        "It only breaks down glucose to CO2 and H2O.",
+        "It generates ATP and also provides intermediates for anabolic reactions.",
+        "It occurs exclusively in mitochondria.",
+        "It does not involve any redox reactions."
+      ],
+      "answer": 1,
+      "explanation": "Respiration is amphibolic because the catabolic breakdown of substrates yields ATP and the cycle intermediates (e.g., oxaloacetate, α‑ketoglutarate) are withdrawn for biosynthetic (anabolic) pathways.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "What is the total number of ATP molecules produced from the complete aerobic oxidation of one molecule of glucose (assuming P/O ratios of 2.5 for NADH and 1.5 for FADH2)?",
+      "options": [
+        "30",
+        "32",
+        "28",
+        "34"
+      ],
+      "answer": 0,
+      "explanation": "Glycolysis yields 2 ATP (substrate‑level) and 2 NADH. Pyruvate dehydrogenase gives 2 NADH. The TCA cycle yields 6 NADH and 2 FADH2. Total NADH = 10 (10×2.5 = 25 ATP) and FADH2 = 2 (2×1.5 = 3 ATP). Adding the 2 substrate‑level ATP gives 25+3+2 = 30 ATP.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "The respiratory quotient (RQ) for the oxidation of the fatty acid palmitic acid (C16H32O2) is closest to:",
+      "options": [
+        "0.7",
+        "0.8",
+        "0.9",
+        "1.0"
+      ],
+      "answer": 0,
+      "explanation": "Palmitic acid oxidation produces 16 CO2 and consumes 23 O2, giving RQ = 16/23 ≈ 0.70.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "After β‑oxidation, which macronutrient enters the citric acid cycle as acetyl‑CoA?",
+      "options": [
+        "Glycerol",
+        "Fatty acids",
+        "Amino acids",
+        "Glucose"
+      ],
+      "answer": 1,
+      "explanation": "β‑oxidation of fatty acids cleaves two‑carbon units that form acetyl‑CoA, which then condenses with oxaloacetate to start the TCA cycle.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "During intense exercise when oxygen availability is limited, how does the respiratory quotient (RQ) of the working muscle typically change?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It remains unchanged",
+        "It becomes undefined"
+      ],
+      "answer": 0,
+      "explanation": "Limited O2 forces anaerobic glycolysis, producing lactate; CO2 generation relative to O2 consumption rises, causing the RQ to shift upward toward 1.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "Which statement correctly explains why fat oxidation yields more ATP per gram than carbohydrate oxidation?",
+      "options": [
+        "Carbohydrates produce more ATP per gram due to a higher glycolytic rate.",
+        "Fat oxidation yields more ATP per gram because fatty acids contain more reduced carbon atoms.",
+        "Both macronutrients give equal ATP per gram because they converge at the TCA cycle.",
+        "Carbohydrates yield more ATP because they enter metabolism directly as glucose."
+      ],
+      "answer": 1,
+      "explanation": "Fatty acids have a higher proportion of C‑H bonds (more reduced carbon), so each gram provides more electrons to the electron transport chain, resulting in greater ATP yield per gram compared with carbohydrates.",
+      "topic": "Integrated respiration revision"
+    },
+    {
+      "question": "In plant cells, the primary site of oxidative phosphorylation is:",
+      "options": [
+        "Mitochondrial inner membrane",
+        "Chloroplast thylakoid membrane",
+        "Cytosol",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Oxidative phosphorylation, the coupling of electron transport to ATP synthesis, occurs on the inner membrane of mitochondria in both plant and animal cells.",
+      "topic": "Integrated respiration revision"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 21,
+    "mcqCount": 143
+  }
+}

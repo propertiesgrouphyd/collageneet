@@ -1,0 +1,2797 @@
+{
+  "day": 68,
+  "courseDate": "2026-11-05",
+  "publishAt": "2026-11-05T06:00:00+05:30",
+  "title": "Day 68: Blood – Composition, Cells, Plasma and Blood Groups",
+  "introduction": "This lesson covers the constituents of body fluids with emphasis on blood, its plasma, formed elements, and the principles governing blood groups and transfusion compatibility, as outlined in the NEET syllabus.",
+  "sections": [
+    {
+      "topic": "Body fluids",
+      "heading": "Body Fluids Overview",
+      "content": "Body fluids constitute intracellular fluid (ICF) and extracellular fluid (ECF). ECF is further divided into interstitial fluid, plasma, and transcellular fluid. They maintain homeostasis by providing a medium for transport of nutrients, gases, and waste, and by regulating temperature and pH.",
+      "keyPoints": [
+        "ICF ~2/3 of total body water; ECF ~1/3",
+        "Plasma is the liquid component of blood",
+        "Fluid balance is governed by osmotic and hydrostatic pressures"
+      ],
+      "neetTips": [
+        "Remember the 2:1 ratio of ICF to ECF for quick calculations"
+      ]
+    },
+    {
+      "topic": "Blood",
+      "heading": "Blood as a Connective Tissue",
+      "content": "Blood is a fluid connective tissue comprising plasma (55% of volume) and formed elements (45%). It transports gases, nutrients, hormones, and immune cells, and participates in thermoregulation, pH buffering, and hemostasis.",
+      "keyPoints": [
+        "Plasma carries solutes; cells perform transport and defense",
+        "Blood viscosity is influenced by hematocrit and plasma proteins"
+      ],
+      "neetTips": [
+        "Link blood functions to its components for table‑based NCERT questions"
+      ]
+    },
+    {
+      "topic": "Composition of blood",
+      "heading": "Components and Their Proportions",
+      "content": "Blood consists of plasma (water, electrolytes, nutrients, gases, hormones, waste, plasma proteins) and formed elements (erythrocytes, leukocytes, platelets). Hematocrit (packed cell volume) is ~45% in adults.",
+      "keyPoints": [
+        "Plasma ~90% water",
+        "Hematocrit determines oxygen‑carrying capacity"
+      ],
+      "neetTips": [
+        "Memorize the approximate percentages for quick MCQs"
+      ]
+    },
+    {
+      "topic": "Plasma",
+      "heading": "Plasma – The Liquid Matrix",
+      "content": "Plasma is a straw‑coloured fluid containing water (90-92%), electrolytes, nutrients, gases, waste products, and plasma proteins (7%). It maintains osmotic pressure and serves as a transport medium.",
+      "keyPoints": [
+        "Water is the major constituent",
+        "Plasma proteins contribute ~7% of plasma volume"
+      ],
+      "neetTips": [
+        "Focus on the role of plasma in maintaining colloid osmotic pressure"
+      ]
+    },
+    {
+      "topic": "Plasma proteins",
+      "heading": "Major Plasma Proteins",
+      "content": "Plasma proteins include albumin, globulins, and fibrinogen. They are synthesized mainly by the liver and perform transport, immunity, and coagulation functions.",
+      "keyPoints": [
+        "Three major groups: albumin, globulins, fibrinogen"
+      ],
+      "neetTips": [
+        "Associate each protein group with its primary physiological role"
+      ]
+    },
+    {
+      "topic": "Fibrinogen",
+      "heading": "Fibrinogen – Precursor of Fibrin",
+      "content": "Fibrinogen (Factor I) is a soluble 340 kDa glycoprotein that is converted to insoluble fibrin by thrombin during coagulation, forming the structural basis of a blood clot.",
+      "keyPoints": [
+        "Converted to fibrin by thrombin",
+        "Essential for clot stability"
+      ],
+      "neetTips": [
+        "Remember fibrinogen's role in the final step of the coagulation cascade"
+      ]
+    },
+    {
+      "topic": "Globulins",
+      "heading": "Globulins – Transport and Immunity",
+      "content": "Globulins are divided into α, β, and γ fractions. α and β globulins transport lipids, metal ions, and hormones; γ‑globulins are immunoglobulins (antibodies) providing humoral immunity.",
+      "keyPoints": [
+        "γ‑globulins = antibodies",
+        "α/β globulins = transport proteins"
+      ],
+      "neetTips": [
+        "Link γ‑globulins to immune response questions"
+      ]
+    },
+    {
+      "topic": "Albumins",
+      "heading": "Albumin – Major Osmotic Agent",
+      "content": "Albumin is the most abundant plasma protein (~60% of total plasma protein). It maintains colloid osmotic pressure, transports fatty acids, bilirubin, and drugs, and acts as a buffer.",
+      "keyPoints": [
+        "Maintains oncotic pressure"
+      ],
+      "neetTips": [
+        "Albumin deficiency leads to edema – a high‑yield fact"
+      ]
+    },
+    {
+      "topic": "Formed elements",
+      "heading": "Formed Elements of Blood",
+      "content": "Formed elements comprise erythrocytes (45% of blood volume), leukocytes (~1%), and platelets (~0.1%). They originate from hematopoietic stem cells in bone marrow.",
+      "keyPoints": [
+        "Erythrocytes dominate cell count"
+      ],
+      "neetTips": [
+        "Recall the lineage: HSC → myeloid/lymphoid"
+      ]
+    },
+    {
+      "topic": "Erythrocytes",
+      "heading": "Erythrocytes – Oxygen Carriers",
+      "content": "Erythrocytes are biconcave, anucleate cells (~7–8 µm) packed with haemoglobin. Their shape increases surface area for gas exchange and provides flexibility to traverse capillaries.",
+      "keyPoints": [
+        "Biconcave disc maximises surface area"
+      ],
+      "neetTips": [
+        "Biconcave shape = efficient O₂/CO₂ diffusion"
+      ]
+    },
+    {
+      "topic": "Red blood cells",
+      "heading": "Red Blood Cells – Structure and Function",
+      "content": "Red blood cells (RBCs) contain ~270 million haemoglobin molecules each. They lack mitochondria, relying on glycolysis for ATP, which preserves O₂‑binding capacity of haemoglobin.",
+      "keyPoints": [
+        "Anaerobic metabolism preserves O₂"
+      ],
+      "neetTips": [
+        "Absence of nucleus allows more haemoglobin storage"
+      ]
+    },
+    {
+      "topic": "Haemoglobin",
+      "heading": "Haemoglobin – The Respiratory Pigment",
+      "content": "Haemoglobin (Hb) is a tetrameric protein (α₂β₂) with four heme groups, each binding one O₂ molecule. It exhibits cooperative binding (sigmoidal O₂‑dissociation curve) and transports CO₂ and H⁺.",
+      "keyPoints": [
+        "Cooperative binding"
+      ],
+      "neetTips": [
+        "Recall the Bohr effect for pH‑dependent O₂ release"
+      ]
+    },
+    {
+      "topic": "Leucocytes",
+      "heading": "Leucocytes – White Blood Cells Overview",
+      "content": "Leucocytes are nucleated cells involved in immunity. They are classified into granulocytes (neutrophils, eosinophils, basophils) and agranulocytes (lymphocytes, monocytes).",
+      "keyPoints": [
+        "Two major groups: granulocytes and agranulocytes"
+      ],
+      "neetTips": [
+        "Granulocyte cytoplasmic granules aid identification"
+      ]
+    },
+    {
+      "topic": "White blood cells",
+      "heading": "White Blood Cells – Types and Counts",
+      "content": "Normal WBC count is 4,000–11,000 cells/µL. Each type has distinct morphology and function, crucial for innate and adaptive immunity.",
+      "keyPoints": [
+        "Normal range 4–11 ×10³/µL"
+      ],
+      "neetTips": [
+        "Use the mnemonic \"Never Eat Bad Lunches\" for neutrophil‑eosinophil‑basophil‑lymphocyte‑monocyte"
+      ]
+    },
+    {
+      "topic": "Neutrophils",
+      "heading": "Neutrophils – First Responders",
+      "content": "Neutrophils are the most abundant granulocytes (50–70% of WBCs). They phagocytose bacteria, release lysosomal enzymes, and generate reactive oxygen species during respiratory burst.",
+      "keyPoints": [
+        "Primary phagocytes"
+      ],
+      "neetTips": [
+        "High neutrophil count indicates bacterial infection"
+      ]
+    },
+    {
+      "topic": "Eosinophils",
+      "heading": "Eosinophils – Parasite Defense and Allergy",
+      "content": "Eosinophils (1–4% of WBCs) contain acidic granules staining with eosin. They combat helminths and mediate allergic reactions by releasing major basic protein and histaminase.",
+      "keyPoints": [
+        "Target parasites; modulate allergy"
+      ],
+      "neetTips": [
+        "Elevated eosinophils → parasitic infection or asthma"
+      ]
+    },
+    {
+      "topic": "Basophils",
+      "heading": "Basophils – Histamine Reservoir",
+      "content": "Basophils (<1% of WBCs) have large basophilic granules rich in histamine and heparin. They participate in hypersensitivity reactions and release cytokines that attract other leukocytes.",
+      "keyPoints": [
+        "Source of histamine"
+      ],
+      "neetTips": [
+        "Basophil count rises in chronic inflammation"
+      ]
+    },
+    {
+      "topic": "Lymphocytes",
+      "heading": "Lymphocytes – Adaptive Immunity",
+      "content": "Lymphocytes (20–40% of WBCs) include B‑cells (humoral immunity) and T‑cells (cell‑mediated immunity). They possess specific receptors generated by gene rearrangement.",
+      "keyPoints": [
+        "B‑cells produce antibodies; T‑cells kill infected cells"
+      ],
+      "neetTips": [
+        "Lymphocyte predominance suggests viral infection"
+      ]
+    },
+    {
+      "topic": "Monocytes",
+      "heading": "Monocytes – Precursors of Macrophages",
+      "content": "Monocytes are large agranulocytes (2–8% of WBCs) that migrate into tissues to become macrophages or dendritic cells, performing phagocytosis and antigen presentation.",
+      "keyPoints": [
+        "Differentiate into macrophages"
+      ],
+      "neetTips": [
+        "Monocytosis occurs in chronic infections"
+      ]
+    },
+    {
+      "topic": "Platelets",
+      "heading": "Platelets – Cellular Fragments for Hemostasis",
+      "content": "Platelets (2–3 ×10⁵/µL) are anucleate cytoplasmic fragments derived from megakaryocytes. They adhere to damaged endothelium, release granule contents, and provide a phospholipid surface for coagulation cascade.",
+      "keyPoints": [
+        "Form platelet plug"
+      ],
+      "neetTips": [
+        "Thrombocytopenia leads to bleeding tendency"
+      ]
+    },
+    {
+      "topic": "Functions of blood cells",
+      "heading": "Physiological Roles of Blood Cells",
+      "content": "Erythrocytes transport O₂/CO₂; leukocytes provide immunity (phagocytosis, antibody production, cytotoxicity); platelets initiate clot formation and release growth factors for wound healing.",
+      "keyPoints": [
+        "O₂ delivery, defense, clotting"
+      ],
+      "neetTips": [
+        "Link each cell type to its primary function for quick recall"
+      ]
+    },
+    {
+      "topic": "Blood clotting",
+      "heading": "Blood Clotting – Hemostasis Overview",
+      "content": "Hemostasis involves vascular spasm, platelet plug formation, and coagulation cascade leading to fibrin mesh formation. It prevents excessive blood loss while maintaining fluidity elsewhere.",
+      "keyPoints": [
+        "Three overlapping phases"
+      ],
+      "neetTips": [
+        "Sequence: Vascular → Platelet → Coagulation"
+      ]
+    },
+    {
+      "topic": "Coagulation",
+      "heading": "Coagulation Cascade",
+      "content": "Coagulation proceeds via intrinsic, extrinsic, and common pathways, activating clotting factors (I–XIII). Thrombin (Factor IIa) converts fibrinogen to fibrin, stabilising the clot.",
+      "keyPoints": [
+        "Intrinsic → Factor XII; Extrinsic → Tissue factor"
+      ],
+      "neetTips": [
+        "Remember the mnemonic \"Foolish People Try Climbing Stairs\" for factor order"
+      ]
+    },
+    {
+      "topic": "Fibrin formation",
+      "heading": "Fibrin Formation and Stabilisation",
+      "content": "Thrombin cleaves fibrinogen to fibrin monomers, which polymerise into a mesh. Factor XIII (fibrin‑stabilizing factor) cross‑links fibrin strands, strengthening the clot.",
+      "keyPoints": [
+        "Factor XIII cross‑links fibrin"
+      ],
+      "neetTips": [
+        "Deficiency of Factor XIII leads to unstable clots"
+      ]
+    },
+    {
+      "topic": "ABO blood group system",
+      "heading": "ABO Blood Group System",
+      "content": "ABO antigens are carbohydrate moieties on RBC membranes. Type A has A antigen, B has B antigen, AB has both, O has none. Naturally occurring anti‑A or anti‑B antibodies are IgM and cause agglutination if incompatible blood is transfused.",
+      "keyPoints": [
+        "A, B, AB, O based on antigen presence"
+      ],
+      "neetTips": [
+        "O = universal donor (no A/B antigens)"
+      ]
+    },
+    {
+      "topic": "Rh blood group system",
+      "heading": "Rh (Rhesus) Blood Group System",
+      "content": "The Rh system is defined by the presence (+) or absence (–) of the D antigen on RBCs. Anti‑D IgG antibodies develop after exposure (e.g., pregnancy) and can cause hemolytic disease of the newborn.",
+      "keyPoints": [
+        "Rh‑positive = D antigen present"
+      ],
+      "neetTips": [
+        "Rh‑negative mother with Rh‑positive fetus requires anti‑D prophylaxis"
+      ]
+    },
+    {
+      "topic": "Universal donor concept",
+      "heading": "Universal Donor Concept",
+      "content": "Blood type O‑negative lacks A, B, and D antigens, making it compatible with all recipient blood groups for red cell transfusion. Plasma from AB donors is universal for plasma transfusion.",
+      "keyPoints": [
+        "O‑ negative red cells; AB plasma"
+      ],
+      "neetTips": [
+        "Remember O‑ negative for emergency red cell transfusion"
+      ]
+    },
+    {
+      "topic": "Universal recipient concept",
+      "heading": "Universal Recipient Concept",
+      "content": "Blood type AB‑positive possesses A, B, and D antigens, allowing it to receive red cells from any donor without hemolysis. Plasma from O donors can be given to any recipient.",
+      "keyPoints": [
+        "AB‑positive receives all red cells"
+      ],
+      "neetTips": [
+        "AB‑positive patients need no cross‑matching for red cells"
+      ]
+    },
+    {
+      "topic": "Blood transfusion compatibility",
+      "heading": "Blood Transfusion Compatibility Rules",
+      "content": "Compatibility follows antigen‑antibody principles: donor RBC antigens must not be targeted by recipient antibodies. Cross‑matching tests for unexpected antibodies before transfusion.",
+      "keyPoints": [
+        "Never transfuse antigen‑positive RBCs into antibody‑positive recipient"
+      ],
+      "neetTips": [
+        "Use the compatibility matrix: O‑→ all; AB+← all"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the composition and functional significance of plasma proteins and formed elements",
+    "Explain the structure, function, and clinical relevance of erythrocytes and leukocyte subtypes",
+    "Describe the sequential steps of blood coagulation and the role of fibrinogen and fibrin",
+    "Interpret ABO and Rh blood group systems and apply compatibility rules for safe transfusion"
+  ],
+  "mcqs": [
+    {
+      "question": "What percentage of total body water is present as intracellular fluid in a healthy adult?",
+      "options": [
+        "Approximately 40%",
+        "Approximately 20%",
+        "Approximately 60%",
+        "Approximately 80%"
+      ],
+      "answer": 2,
+      "explanation": "Intracellular fluid accounts for about 60% of the total body water, while extracellular fluid makes up the remaining ~40%.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Which plasma protein contributes most to the colloid osmotic (oncotic) pressure of blood?",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Fibrinogen",
+        "Hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Albumin, being the most abundant plasma protein, exerts the majority of the oncotic pressure that retains water within the vascular compartment.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "In which body fluid is potassium concentration the highest?",
+      "options": [
+        "Intracellular fluid",
+        "Plasma",
+        "Interstitial fluid",
+        "Lymph"
+      ],
+      "answer": 0,
+      "explanation": "Potassium is the principal intracellular cation, with concentrations around 140 mM inside cells, whereas extracellular potassium is about 4 mM.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Water movement from interstitial fluid into the capillary lumen driven by higher plasma protein concentration is an example of:",
+      "options": [
+        "Diffusion",
+        "Osmosis",
+        "Filtration",
+        "Active transport"
+      ],
+      "answer": 1,
+      "explanation": "Osmosis describes the passive movement of water across a semipermeable membrane toward the region of higher solute (protein) concentration.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Prolonged standing often leads to edema in the lower limbs primarily because:",
+      "options": [
+        "Increased hydrostatic pressure in capillaries",
+        "Decreased plasma oncotic pressure",
+        "Increased lymphatic drainage",
+        "Decreased interstitial fluid osmolarity"
+      ],
+      "answer": 0,
+      "explanation": "Gravity raises venous and capillary hydrostatic pressure in the legs, favoring fluid filtration into the interstitium and causing edema.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Cerebrospinal fluid (CSF) composition is most similar to which of the following body fluids?",
+      "options": [
+        "Plasma",
+        "Lymph",
+        "Interstitial fluid",
+        "Urine"
+      ],
+      "answer": 0,
+      "explanation": "CSF is essentially an ultrafiltrate of plasma; it has similar electrolyte composition but contains far less protein.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Which statement correctly describes the distribution of sodium ions in body fluids?",
+      "options": [
+        "Sodium concentration is higher in intracellular fluid than extracellular fluid",
+        "Sodium concentration is equal in intracellular and extracellular fluids",
+        "Sodium concentration is higher in extracellular fluid than intracellular fluid",
+        "Sodium is absent in interstitial fluid"
+      ],
+      "answer": 2,
+      "explanation": "Sodium is the major extracellular cation, with concentrations ~140 mM in plasma and interstitial fluid, while intracellular sodium is kept very low (~10 mM) by the Na⁺/K⁺‑ATPase.",
+      "topic": "Body fluids"
+    },
+    {
+      "question": "Which plasma protein is primarily responsible for maintaining the colloid osmotic pressure of blood?",
+      "options": [
+        "Albumin",
+        "Fibrinogen",
+        "Globulin",
+        "Prothrombin"
+      ],
+      "answer": 0,
+      "explanation": "Albumin, the most abundant plasma protein, exerts the major oncotic pressure that prevents excessive fluid loss from the vascular compartment.",
+      "topic": "Blood"
+    },
+    {
+      "question": "The biconcave shape of erythrocytes most directly contributes to which physiological advantage?",
+      "options": [
+        "Greater flexibility to pass through capillaries",
+        "Increased surface area to volume ratio",
+        "Higher hemoglobin content per cell",
+        "Protection against oxidative damage"
+      ],
+      "answer": 1,
+      "explanation": "The biconcave disc provides a large surface area relative to volume, facilitating efficient diffusion of O₂ and CO₂ across the cell membrane.",
+      "topic": "Blood"
+    },
+    {
+      "question": "The sigmoidal oxygen‑hemoglobin dissociation curve is explained by:",
+      "options": [
+        "Presence of two heme groups per globin chain",
+        "High intrinsic affinity of iron for O₂",
+        "Cooperative interaction among the four globin subunits",
+        "Allosteric inhibition by CO₂"
+      ],
+      "answer": 2,
+      "explanation": "Binding of O₂ to one subunit increases the affinity of the remaining subunits, producing cooperative binding and the characteristic sigmoidal curve.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Which leukocyte type is most abundant in peripheral blood and chiefly responsible for phagocytosis of bacteria?",
+      "options": [
+        "Lymphocyte",
+        "Eosinophil",
+        "Neutrophil",
+        "Basophil"
+      ],
+      "answer": 2,
+      "explanation": "Neutrophils constitute about 50‑70% of white blood cells and are the primary cells that ingest and destroy bacterial pathogens.",
+      "topic": "Blood"
+    },
+    {
+      "question": "During primary hemostasis, platelets release ADP. This released ADP:",
+      "options": [
+        "Amplifies platelet aggregation",
+        "Converts fibrinogen to fibrin",
+        "Activates the intrinsic coagulation pathway",
+        "Inhibits thrombin formation"
+      ],
+      "answer": 0,
+      "explanation": "ADP released from activated platelets binds to P2Y receptors on neighboring platelets, enhancing their aggregation and stabilizing the platelet plug.",
+      "topic": "Blood"
+    },
+    {
+      "question": "The intrinsic pathway of the coagulation cascade is initiated when blood contacts which of the following?",
+      "options": [
+        "Tissue factor (Factor III)",
+        "Negatively charged subendothelial collagen",
+        "Platelet factor 3 (PF3)",
+        "Thrombin (Factor IIa)"
+      ],
+      "answer": 1,
+      "explanation": "Exposure of blood to negatively charged surfaces such as subendothelial collagen activates Factor XII, starting the intrinsic coagulation sequence.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Which red‑cell blood group is regarded as the universal donor for transfusion?",
+      "options": [
+        "AB+",
+        "O-",
+        "A+",
+        "B+"
+      ],
+      "answer": 1,
+      "explanation": "O‑negative red cells lack A, B, and D antigens, so they can be transfused to recipients of any ABO and Rh type without causing an immune reaction.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Hemolytic disease of the newborn due to Rh incompatibility arises when:",
+      "options": [
+        "The mother is Rh‑positive and the fetus is Rh‑negative",
+        "The mother is Rh‑negative and the fetus is Rh‑positive",
+        "Both mother and fetus are Rh‑negative",
+        "Both mother and fetus are Rh‑positive"
+      ],
+      "answer": 1,
+      "explanation": "Maternal anti‑D IgG antibodies formed after exposure to Rh‑positive fetal cells cross the placenta and destroy fetal red cells in subsequent Rh‑positive pregnancies.",
+      "topic": "Blood"
+    },
+    {
+      "question": "What proportion of the total blood volume is constituted by plasma?",
+      "options": [
+        "≈55%",
+        "≈45%",
+        "≈65%",
+        "≈35%"
+      ],
+      "answer": 0,
+      "explanation": "Plasma makes up about 55% of blood volume, while the formed elements constitute the remaining ~45%.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "Which plasma protein is chiefly responsible for maintaining the colloid osmotic (oncotic) pressure of blood?",
+      "options": [
+        "Fibrinogen",
+        "Globulins",
+        "Albumin",
+        "Prothrombin"
+      ],
+      "answer": 2,
+      "explanation": "Albumin, the most abundant plasma protein, exerts the major part of the oncotic pressure that prevents excessive fluid loss from the vasculature.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "During the coagulation cascade, which plasma protein is directly converted into fibrin strands?",
+      "options": [
+        "Albumin",
+        "Globulins",
+        "Fibrinogen",
+        "Haptoglobin"
+      ],
+      "answer": 2,
+      "explanation": "Thrombin cleaves fibrinogen, a soluble plasma protein, converting it into insoluble fibrin that forms the clot mesh.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "Which of the following formed elements lacks a nucleus in its mature form?",
+      "options": [
+        "Neutrophil",
+        "Lymphocyte",
+        "Erythrocyte",
+        "Monocyte"
+      ],
+      "answer": 2,
+      "explanation": "Mature erythrocytes (red blood cells) expel their nucleus during maturation to maximize space for hemoglobin.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "Which white blood cell type is most closely associated with mediating allergic responses and releasing histamine?",
+      "options": [
+        "Eosinophil",
+        "Basophil",
+        "Neutrophil",
+        "Monocyte"
+      ],
+      "answer": 1,
+      "explanation": "Basophils contain granules rich in histamine and heparin and play a key role in immediate hypersensitivity reactions.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "The normal hemoglobin concentration in a healthy adult male (in g/dL) falls within which range?",
+      "options": [
+        "12–14",
+        "13.5–17.5",
+        "10–12",
+        "15–18"
+      ],
+      "answer": 1,
+      "explanation": "Adult males typically have hemoglobin values between 13.5 and 17.5 g/dL; values outside this range suggest anemia or polycythemia.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "In the ABO blood group system, which blood type is considered the universal donor for red cell transfusion?",
+      "options": [
+        "AB+",
+        "O-",
+        "A+",
+        "B-"
+      ],
+      "answer": 1,
+      "explanation": "O‑negative red cells lack A, B, and Rh antigens, making them compatible with all recipient blood groups.",
+      "topic": "Composition of blood"
+    },
+    {
+      "question": "Which plasma protein is primarily responsible for maintaining the colloid osmotic pressure of blood?",
+      "options": [
+        "Albumin",
+        "Fibrinogen",
+        "Globulin",
+        "Haptoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Albumin, the most abundant plasma protein, exerts the major oncotic pressure that prevents excessive fluid loss from the vascular compartment.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "Which plasma protein serves as the precursor of fibrin in the blood clotting cascade?",
+      "options": [
+        "Globulin",
+        "Fibrinogen",
+        "Albumin",
+        "Transferrin"
+      ],
+      "answer": 1,
+      "explanation": "Fibrinogen is converted by thrombin into fibrin strands, which form the meshwork of a blood clot.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "Which of the following is NOT a physiological function of plasma?",
+      "options": [
+        "Transport of hormones",
+        "Blood clotting",
+        "Gas exchange",
+        "Maintaining pH balance"
+      ],
+      "answer": 2,
+      "explanation": "Gas exchange occurs across the alveolar-capillary membrane; plasma itself does not participate directly in this process.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "The normal concentration of albumin in adult human plasma is approximately:",
+      "options": [
+        "2-3 g/dL",
+        "3-4 g/dL",
+        "4-5 g/dL",
+        "5-6 g/dL"
+      ],
+      "answer": 2,
+      "explanation": "Typical plasma albumin levels are about 4–5 g/dL, accounting for roughly 60% of total plasma protein.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "Which plasma protein functions as the main carrier of iron in the bloodstream?",
+      "options": [
+        "Albumin",
+        "Transferrin",
+        "Fibrinogen",
+        "Immunoglobulin G"
+      ],
+      "answer": 1,
+      "explanation": "Transferrin binds Fe³⁺ ions and transports them to cells, preventing free iron toxicity.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "During acute inflammation, the plasma concentration of which protein rises markedly?",
+      "options": [
+        "Albumin",
+        "Fibrinogen",
+        "Globulin (IgG)",
+        "Haptoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Fibrinogen is an acute‑phase reactant; its level increases several‑fold during inflammation, contributing to elevated ESR.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "The major source of amino acids for tissue protein synthesis is provided by:",
+      "options": [
+        "Plasma proteins",
+        "Plasma glucose",
+        "Plasma lipids",
+        "Plasma electrolytes"
+      ],
+      "answer": 0,
+      "explanation": "Amino acids released from the turnover of plasma proteins, especially albumin, supply the bulk of amino acids used by peripheral tissues.",
+      "topic": "Plasma"
+    },
+    {
+      "question": "Which plasma protein contributes most to the colloid osmotic (oncotic) pressure of blood?",
+      "options": [
+        "Albumin",
+        "Globulins",
+        "Fibrinogen",
+        "Prothrombin"
+      ],
+      "answer": 0,
+      "explanation": "Albumin, being the most abundant plasma protein (~60% of total protein), exerts the greatest oncotic pressure, preventing excess fluid loss into tissues.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "Which plasma protein is the immediate precursor that is converted to fibrin during blood clot formation?",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "Alpha‑1 antitrypsin",
+        "Transferrin"
+      ],
+      "answer": 0,
+      "explanation": "Thrombin cleaves fibrinogen to form insoluble fibrin strands, which constitute the structural framework of a clot.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "The majority of plasma proteins are synthesized in which organ?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Spleen",
+        "Bone marrow"
+      ],
+      "answer": 0,
+      "explanation": "Hepatocytes in the liver synthesize most plasma proteins, including albumin, fibrinogen, and most globulins.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "Which plasma protein primarily transports thyroid hormones (T3 and T4) in the bloodstream?",
+      "options": [
+        "Transferrin",
+        "Albumin",
+        "Lipoprotein",
+        "Haptoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Albumin binds a significant fraction of circulating thyroxine (T4) and triiodothyronine (T3), facilitating their transport.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "A sharp, isolated increase in the gamma‑globulin region on serum protein electrophoresis most strongly suggests which condition?",
+      "options": [
+        "Liver cirrhosis",
+        "Multiple myeloma",
+        "Nephrotic syndrome",
+        "Iron deficiency anemia"
+      ],
+      "answer": 1,
+      "explanation": "Multiple myeloma is characterized by monoclonal proliferation of plasma cells, producing a pronounced spike (M‑protein) in the gamma region.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "Which plasma protein binds free hemoglobin released during intravascular hemolysis, preventing renal damage?",
+      "options": [
+        "Albumin",
+        "Haptoglobin",
+        "Fibrinogen",
+        "Transferrin"
+      ],
+      "answer": 1,
+      "explanation": "Haptoglobin forms a stable complex with free hemoglobin, facilitating its removal by the reticuloendothelial system and protecting kidneys.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "A marked reduction in plasma albumin leading to peripheral edema is most commonly associated with which disorder?",
+      "options": [
+        "Dehydration",
+        "Nephrotic syndrome",
+        "Hyperthyroidism",
+        "Polycythemia"
+      ],
+      "answer": 1,
+      "explanation": "Nephrotic syndrome causes massive urinary loss of albumin, lowering plasma oncotic pressure and resulting in edema.",
+      "topic": "Plasma proteins"
+    },
+    {
+      "question": "Which of the following best describes the primary structural composition of fibrinogen?",
+      "options": [
+        "A single polypeptide chain",
+        "Two identical polypeptide chains linked by disulfide bonds",
+        "Three pairs of polypeptide chains (Aα, Bβ, γ) linked by disulfide bonds",
+        "A tetramer of identical subunits"
+      ],
+      "answer": 2,
+      "explanation": "Fibrinogen is a hexamer composed of three pairs of polypeptide chains: two Aα, two Bβ, and two γ chains, held together by disulfide bonds.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "During coagulation, thrombin converts fibrinogen into fibrin by:",
+      "options": [
+        "Cleaving the Aα chain only",
+        "Removing fibrinopeptide A and B from Aα and Bβ chains",
+        "Adding phosphate groups to the γ chain",
+        "Cross‑linking γ chains directly"
+      ],
+      "answer": 1,
+      "explanation": "Thrombin cleaves fibrinopeptide A from the Aα chain and fibrinopeptide B from the Bβ chain, exposing polymerization sites that allow fibrin monomers to assemble.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "A deficiency of which plasma protein leads to a prolonged bleeding time while platelet count remains normal?",
+      "options": [
+        "Albumin",
+        "Fibrinogen",
+        "Globulin",
+        "Haptoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Fibrinogen deficiency (afibrinogenemia) impairs fibrin formation, causing prolonged bleeding despite a normal platelet count.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "Factor XIII stabilizes a fibrin clot by:",
+      "options": [
+        "Converting fibrinogen to fibrin",
+        "Cross‑linking fibrin monomers",
+        "Activating thrombin",
+        "Inhibiting plasmin activity"
+      ],
+      "answer": 1,
+      "explanation": "Factor XIII, a transglutaminase, cross‑links adjacent fibrin monomers, strengthening and stabilizing the clot.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "In a patient with liver cirrhosis, the most likely change in fibrinogen level is:",
+      "options": [
+        "Marked increase",
+        "No change",
+        "Decrease",
+        "Spontaneous conversion to fibrin"
+      ],
+      "answer": 2,
+      "explanation": "Fibrinogen is synthesized in the liver; chronic liver disease commonly reduces its plasma concentration.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "Which laboratory test directly measures functional fibrinogen activity?",
+      "options": [
+        "Prothrombin time (PT)",
+        "Activated partial thromboplastin time (aPTT)",
+        "Thrombin time (TT)",
+        "Fibrinogen assay by Clauss method"
+      ],
+      "answer": 3,
+      "explanation": "The Clauss method determines fibrinogen concentration based on the clotting time after adding a high concentration of thrombin, reflecting functional fibrinogen.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "Fibrinogen belongs to which group of plasma proteins?",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Prothrombin group",
+        "Complement"
+      ],
+      "answer": 2,
+      "explanation": "Fibrinogen is part of the prothrombin (or clotting factor) group of plasma proteins, which are involved in the coagulation cascade.",
+      "topic": "Fibrinogen"
+    },
+    {
+      "question": "Which of the following is NOT a function of plasma globulins?",
+      "options": [
+        "Transport of lipids",
+        "Antibody formation",
+        "Maintaining osmotic pressure of blood",
+        "Carrying hormones"
+      ],
+      "answer": 2,
+      "explanation": "Plasma globulins transport lipids, act as antibodies and carry hormones, whereas the major contributor to plasma osmotic pressure is albumin, not globulins.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "In serum protein electrophoresis, the gamma region is primarily composed of which class of globulins?",
+      "options": [
+        "Alpha-1 globulins",
+        "Alpha-2 globulins",
+        "Beta globulins",
+        "Gamma globulins"
+      ],
+      "answer": 3,
+      "explanation": "The gamma region corresponds to gamma globulins, which are mainly immunoglobulins (antibodies).",
+      "topic": "Globulins"
+    },
+    {
+      "question": "Alpha-2 globulins are chiefly responsible for the transport of which substance in the blood?",
+      "options": [
+        "Bilirubin",
+        "Thyroxine (T4)",
+        "Lipoproteins",
+        "Iron"
+      ],
+      "answer": 2,
+      "explanation": "Alpha-2 globulins, such as haptoglobin and ceruloplasmin, bind and transport lipoproteins and other large molecules.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "A deficiency of which globulin fraction most directly impairs the complement system, increasing susceptibility to bacterial infections?",
+      "options": [
+        "Alpha-1 globulins",
+        "Alpha-2 globulins",
+        "Beta globulins",
+        "Gamma globulins"
+      ],
+      "answer": 2,
+      "explanation": "Key complement proteins (C3, C4) are part of the beta globulin fraction; their deficiency weakens complement-mediated bacterial killing.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "In multiple myeloma, which globulin fraction shows a characteristic sharp increase on serum electrophoresis?",
+      "options": [
+        "Alpha-1 globulins",
+        "Alpha-2 globulins",
+        "Beta globulins",
+        "Gamma globulins"
+      ],
+      "answer": 3,
+      "explanation": "Multiple myeloma involves clonal proliferation of plasma cells producing excess immunoglobulins, leading to a marked rise in the gamma globulin region.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "Which statement about the serum albumin to globulin (A:G) ratio is correct?",
+      "options": [
+        "The normal A:G ratio is 1:1",
+        "A decrease in globulins raises the A:G ratio",
+        "An increase in globulins lowers the A:G ratio",
+        "Albumin concentration does not affect the A:G ratio"
+      ],
+      "answer": 2,
+      "explanation": "The A:G ratio is calculated as albumin divided by globulins; when globulin levels rise, the denominator increases, reducing the ratio.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "Immunoglobulins that mediate the secondary (memory) immune response belong to which globulin class?",
+      "options": [
+        "Alpha-1 globulins",
+        "Alpha-2 globulins",
+        "Beta globulins",
+        "Gamma globulins"
+      ],
+      "answer": 3,
+      "explanation": "Immunoglobulins (IgG, IgM, IgA, etc.) are gamma globulins; they are central to the secondary immune response and immunological memory.",
+      "topic": "Globulins"
+    },
+    {
+      "question": "What is the principal physiological role of serum albumin in the blood plasma?",
+      "options": [
+        "Maintain colloid osmotic pressure of blood",
+        "Facilitate clot formation",
+        "Transport oxygen to tissues",
+        "Provide immune defense against pathogens"
+      ],
+      "answer": 0,
+      "explanation": "Albumin is the major plasma protein responsible for generating the colloid osmotic (oncotic) pressure that retains water within the vascular compartment.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "In which organ is the majority of plasma albumin synthesized?",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Spleen",
+        "Pancreas"
+      ],
+      "answer": 1,
+      "explanation": "Hepatocytes in the liver synthesize about 10-15 g of albumin per day, making the liver the principal source of plasma albumin.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "Which of the following substances is least likely to be bound to serum albumin for transport?",
+      "options": [
+        "Bilirubin",
+        "Calcium ions",
+        "Glucose",
+        "Thyroxine (T4)"
+      ],
+      "answer": 2,
+      "explanation": "Albumin has high‑affinity binding sites for bilirubin, calcium, fatty acids, thyroid hormones and many drugs, but glucose is transported mainly by the GLUT transporters and is not bound to albumin.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "Serum albumin has an isoelectric point (pI) of about 4.7. At the physiological pH of 7.4, the protein is:",
+      "options": [
+        "Positively charged",
+        "Negatively charged",
+        "Neutral in charge",
+        "Amphoteric with no net charge"
+      ],
+      "answer": 1,
+      "explanation": "Because the physiological pH is higher than its pI, albumin carries a net negative charge, which contributes to its solubility and its ability to bind cationic substances.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "Which plasma protein level is most markedly reduced in chronic liver disease?",
+      "options": [
+        "Fibrinogen",
+        "Globulins",
+        "Albumin",
+        "Platelet factor 4"
+      ],
+      "answer": 2,
+      "explanation": "Albumin synthesis falls in liver cirrhosis, leading to low serum albumin, whereas fibrinogen and most globulins are acute‑phase proteins that may be normal or elevated.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "A child presents with generalized edema, low serum albumin, and normal renal function. Which is the most likely underlying cause?",
+      "options": [
+        "Nephrotic syndrome",
+        "Liver disease",
+        "Malnutrition",
+        "Congestive heart failure"
+      ],
+      "answer": 2,
+      "explanation": "In the absence of renal loss or hepatic failure, reduced albumin production due to protein‑energy malnutrition is the common cause of hypoalbuminemia and resultant edema.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "Albumin contributes to which major buffering system in blood plasma?",
+      "options": [
+        "Bicarbonate buffer system",
+        "Phosphate buffer system",
+        "Protein (albumin) buffer system",
+        "Hemoglobin buffer system"
+      ],
+      "answer": 2,
+      "explanation": "Proteins, especially albumin, act as weak acids/bases and constitute an important protein buffer system that helps maintain blood pH.",
+      "topic": "Albumins"
+    },
+    {
+      "question": "Which formed element is anucleate in its mature form?",
+      "options": [
+        "Red blood cell",
+        "Neutrophil",
+        "Lymphocyte",
+        "Monocyte"
+      ],
+      "answer": 0,
+      "explanation": "Mature erythrocytes lose their nucleus during maturation, unlike leukocytes which retain nuclei.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "Approximately what percentage of blood volume is occupied by formed elements?",
+      "options": [
+        "45%",
+        "55%",
+        "35%",
+        "65%"
+      ],
+      "answer": 0,
+      "explanation": "Formed elements (cells and platelets) constitute about 45% of blood volume; the remaining 55% is plasma.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "Which leukocyte is chiefly responsible for releasing histamine during allergic reactions?",
+      "options": [
+        "Basophil",
+        "Neutrophil",
+        "Eosinophil",
+        "Lymphocyte"
+      ],
+      "answer": 0,
+      "explanation": "Basophils contain granules rich in histamine and heparin, which are released in allergic responses.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "Platelets are derived from which of the following precursor cells?",
+      "options": [
+        "Megakaryocytes",
+        "Erythroblasts",
+        "Lymphoblasts",
+        "Myeloblasts"
+      ],
+      "answer": 0,
+      "explanation": "Platelets (thrombocytes) are cytoplasmic fragments shed from the cytoplasm of large bone‑marrow cells called megakaryocytes.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "The average lifespan of a neutrophil circulating in the bloodstream is:",
+      "options": [
+        "5‑90 days",
+        "5‑7 days",
+        "1‑2 days",
+        "30‑45 days"
+      ],
+      "answer": 1,
+      "explanation": "Neutrophils survive for about 5‑7 days in circulation before undergoing apoptosis.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "Which formed element has a biconcave disc shape that maximizes surface area for gas exchange?",
+      "options": [
+        "Red blood cell",
+        "Platelet",
+        "Basophil",
+        "Monocyte"
+      ],
+      "answer": 0,
+      "explanation": "The biconcave disc shape of erythrocytes provides a large surface‑to‑volume ratio, facilitating efficient oxygen and carbon dioxide diffusion.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "A markedly elevated count of which formed element most commonly indicates a bacterial infection?",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial infections typically cause neutrophilia, an increase in circulating neutrophil numbers.",
+      "topic": "Formed elements"
+    },
+    {
+      "question": "Which structural feature of erythrocytes primarily facilitates efficient gas exchange?",
+      "options": [
+        "Presence of mitochondria",
+        "Biconcave disc shape",
+        "Nucleus",
+        "Granular cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "The biconcave disc shape increases surface‑area‑to‑volume ratio, allowing rapid diffusion of O2 and CO2 across the membrane.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "What is the main protein in erythrocytes responsible for oxygen transport?",
+      "options": [
+        "Myoglobin",
+        "Albumin",
+        "Hemoglobin",
+        "Fibrinogen"
+      ],
+      "answer": 2,
+      "explanation": "Hemoglobin, a tetrameric protein, binds O2 in the lungs and releases it in peripheral tissues.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "What is the average lifespan of a human erythrocyte in circulation?",
+      "options": [
+        "10 days",
+        "30 days",
+        "120 days",
+        "365 days"
+      ],
+      "answer": 2,
+      "explanation": "Mature red blood cells survive about 120 days before being removed by the spleen.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "Which hormone primarily regulates erythropoiesis?",
+      "options": [
+        "Erythropoietin",
+        "Thrombopoietin",
+        "G‑CSF",
+        "Insulin"
+      ],
+      "answer": 0,
+      "explanation": "Erythropoietin, produced mainly by the kidneys in response to hypoxia, stimulates red cell production in the bone marrow.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "A reduced mean corpuscular hemoglobin concentration (MCHC) in a peripheral smear most likely indicates which condition?",
+      "options": [
+        "Sickle cell disease",
+        "Iron deficiency anemia",
+        "Hereditary spherocytosis",
+        "Polycythemia vera"
+      ],
+      "answer": 1,
+      "explanation": "Iron deficiency leads to hypochromic, microcytic RBCs with low MCHC due to decreased hemoglobin synthesis.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "Which statement about erythrocyte membrane proteins is correct?",
+      "options": [
+        "Glycophorin A carries ABO blood group antigens",
+        "Band 3 protein functions as an anion exchanger",
+        "Spectrin is a transmembrane receptor for fibrinogen",
+        "Aquaporin‑1 is absent in erythrocytes"
+      ],
+      "answer": 1,
+      "explanation": "Band 3 (anion exchanger 1) facilitates Cl⁻/HCO₃⁻ exchange, crucial for CO2 transport.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "The Bohr effect in hemoglobin is best described as:",
+      "options": [
+        "Increase in O2 affinity at high CO2",
+        "Decrease in O2 affinity at low pH",
+        "Increase in O2 affinity at low temperature",
+        "Decrease in O2 affinity at high 2,3‑BPG"
+      ],
+      "answer": 1,
+      "explanation": "A fall in pH (or rise in CO2) reduces hemoglobin’s affinity for O2, promoting oxygen release to tissues.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of mature human erythrocytes?",
+      "options": [
+        "Lack of nucleus",
+        "Presence of mitochondria",
+        "High concentration of hemoglobin",
+        "Biconcave shape"
+      ],
+      "answer": 1,
+      "explanation": "Mature erythrocytes lack mitochondria; this allows them to transport O2 without consuming it.",
+      "topic": "Erythrocytes"
+    },
+    {
+      "question": "Which of the following statements correctly describes the functional advantage of the biconcave shape of red blood cells?",
+      "options": [
+        "It increases surface area for gas exchange",
+        "It provides additional intracellular volume for hemoglobin",
+        "It allows passage through capillaries without deformation",
+        "It reduces the membrane surface area"
+      ],
+      "answer": 0,
+      "explanation": "The biconcave disc maximizes surface‑to‑volume ratio, enhancing diffusion of O₂ and CO₂ across the cell membrane.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "The principal protein in red blood cells that binds and transports oxygen is:",
+      "options": [
+        "Myoglobin",
+        "Hemoglobin",
+        "Albumin",
+        "Fibrinogen"
+      ],
+      "answer": 1,
+      "explanation": "Hemoglobin, a tetrameric protein containing heme groups, is the major oxygen‑carrying molecule in erythrocytes.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "What is the average lifespan of a normal human erythrocyte in the peripheral circulation?",
+      "options": [
+        "10 days",
+        "30 days",
+        "120 days",
+        "180 days"
+      ],
+      "answer": 2,
+      "explanation": "Mature erythrocytes survive about 120 days before being removed by the spleen and liver macrophages.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "In adults, the principal site of erythropoiesis (red blood cell production) is:",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Bone marrow",
+        "Kidney"
+      ],
+      "answer": 2,
+      "explanation": "After birth, the red marrow of long bones becomes the main location for erythropoiesis.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "The blood‑group antigens expressed on the surface of red blood cells are carried by:",
+      "options": [
+        "Glycoproteins only",
+        "Glycolipids only",
+        "Both glycoproteins and glycolipids",
+        "Neither; they are polysaccharides"
+      ],
+      "answer": 2,
+      "explanation": "ABO and Rh antigens are present on both membrane glycoproteins and glycolipids of erythrocytes.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "Sickle cell disease results from a point mutation in the β‑globin gene that substitutes which amino acid for glutamic acid at position 6?",
+      "options": [
+        "Valine",
+        "Glutamic acid",
+        "Lysine",
+        "Phenylalanine"
+      ],
+      "answer": 0,
+      "explanation": "The mutation replaces glutamic acid with valine, causing hemoglobin S polymerisation under low‑oxygen conditions.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "Why do mature red blood cells lack a nucleus and most organelles?",
+      "options": [
+        "To increase metabolic rate",
+        "To provide space for hemoglobin",
+        "To enable rapid cell division",
+        "To prevent immune recognition"
+      ],
+      "answer": 1,
+      "explanation": "Absence of nucleus and organelles creates maximal intracellular space for hemoglobin, enhancing oxygen‑carrying capacity.",
+      "topic": "Red blood cells"
+    },
+    {
+      "question": "What is the composition of an adult hemoglobin (HbA) molecule?",
+      "options": [
+        "2 globin chains and 2 heme groups",
+        "4 globin chains and 4 heme groups",
+        "4 globin chains and 2 heme groups",
+        "2 globin chains and 4 heme groups"
+      ],
+      "answer": 1,
+      "explanation": "Adult hemoglobin (HbA) consists of two α and two β globin chains, each attached to one heme group, totaling four globin chains and four heme groups.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "An increase in which of the following in the blood will shift the oxygen‑hemoglobin dissociation curve to the right?",
+      "options": [
+        "Increased blood pH",
+        "Decreased CO₂ concentration",
+        "Increased CO₂ concentration",
+        "Decreased 2,3‑BPG levels"
+      ],
+      "answer": 2,
+      "explanation": "Higher CO₂ (or H⁺) lowers blood pH, reducing hemoglobin’s affinity for O₂ and shifting the curve to the right (Bohr effect).",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "Which statement about fetal hemoglobin (HbF) is correct?",
+      "options": [
+        "It contains two α and two β chains",
+        "It has a higher affinity for O₂ than adult hemoglobin",
+        "It has a lower affinity for CO₂ than adult hemoglobin",
+        "It is synthesized only after birth"
+      ],
+      "answer": 1,
+      "explanation": "HbF (α₂γ₂) binds O₂ more tightly than adult HbA, facilitating transfer of oxygen from mother to fetus.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "Sickle‑cell disease is caused by a point mutation in the β‑globin gene. Which amino‑acid substitution occurs?",
+      "options": [
+        "Valine replaces glutamic acid at position 6",
+        "Lysine replaces glutamic acid at position 6",
+        "Valine replaces lysine at position 6",
+        "Phenylalanine replaces glutamic acid at position 6"
+      ],
+      "answer": 0,
+      "explanation": "The mutation substitutes a non‑polar valine for a polar glutamic acid at the 6th position of the β‑chain, leading to polymerisation of deoxygenated HbS.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "In the heme prosthetic group of hemoglobin, iron is present in which oxidation state under normal physiological conditions?",
+      "options": [
+        "Fe⁰ (metallic)",
+        "Fe²⁺ (ferrous)",
+        "Fe³⁺ (ferric)",
+        "Fe⁴⁺ (ferryl)"
+      ],
+      "answer": 1,
+      "explanation": "The iron atom in heme is in the ferrous (Fe²⁺) state, which can reversibly bind O₂; oxidation to Fe³⁺ forms methemoglobin, which cannot bind O₂.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "The normal concentration of hemoglobin in adult human blood is approximately:",
+      "options": [
+        "5–6 g/dL",
+        "10–12 g/dL",
+        "15–16 g/dL",
+        "20–22 g/dL"
+      ],
+      "answer": 2,
+      "explanation": "Typical adult hemoglobin concentration is about 15 g/dL in males and 13–15 g/dL in females, roughly 15–16 g/dL.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "Which of the following is NOT a constituent of the hemoglobin molecule?",
+      "options": [
+        "Globin polypeptide chains",
+        "Heme groups",
+        "Iron ion",
+        "Albumin"
+      ],
+      "answer": 3,
+      "explanation": "Hemoglobin is composed of globin chains, heme groups, and an iron ion; albumin is a separate plasma protein and not part of the hemoglobin structure.",
+      "topic": "Haemoglobin"
+    },
+    {
+      "question": "Which leucocyte type is most abundant in peripheral blood and primarily responsible for phagocytosis of bacteria?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils constitute about 50-70% of leukocytes and are the chief phagocytic cells that ingest and destroy bacteria.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "Which leucocyte contains coarse granules that release histamine and heparin during allergic reactions?",
+      "options": [
+        "Basophils",
+        "Neutrophils",
+        "Eosinophils",
+        "Monocytes"
+      ],
+      "answer": 0,
+      "explanation": "Basophils have large basophilic granules rich in histamine and heparin, which are released in hypersensitivity and allergic responses.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "Which leucocyte is characterized by a bilobed nucleus and is involved in defense against parasitic helminths?",
+      "options": [
+        "Eosinophils",
+        "Basophils",
+        "Neutrophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Eosinophils possess a characteristic two‑lobed nucleus and toxic granule proteins that target multicellular parasites such as helminths.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "Which leucocyte shows a large, indented nucleus, functions as an antigen‑presenting cell and differentiates into macrophages in tissues?",
+      "options": [
+        "Monocytes",
+        "Neutrophils",
+        "Basophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Monocytes have a kidney‑shaped nucleus, act as APCs in blood, and migrate into tissues where they mature into macrophages.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "Which leucocyte type is primarily responsible for humoral immunity by producing antibodies?",
+      "options": [
+        "B lymphocytes",
+        "T lymphocytes",
+        "Natural killer cells",
+        "Neutrophils"
+      ],
+      "answer": 0,
+      "explanation": "B‑cells (a subset of lymphocytes) differentiate into plasma cells that synthesize and secrete antibodies, mediating humoral immunity.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "An increase in which leucocyte count is most commonly associated with allergic reactions and asthma?",
+      "options": [
+        "Eosinophils",
+        "Neutrophils",
+        "Basophils",
+        "Monocytes"
+      ],
+      "answer": 0,
+      "explanation": "Eosinophilia is a hallmark of allergic disorders and asthma, reflecting the role of eosinophils in mediating inflammatory responses to allergens.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "In a Wright‑stained peripheral blood smear, which leucocyte appears with a dark purple, multilobed nucleus and fine azurophilic granules?",
+      "options": [
+        "Neutrophils",
+        "Basophils",
+        "Eosinophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils display a segmented (multilobed) nucleus and fine pinkish‑purple azurophilic granules that stain lightly with Wright's stain.",
+      "topic": "Leucocytes"
+    },
+    {
+      "question": "Which of the following leukocytes constitutes about 55-70% of total white blood cell count and is the principal cell responsible for phagocytosis of bacteria?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils are the most abundant leukocytes and are the primary phagocytic cells that ingest and destroy bacteria.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "Which leukocyte releases histamine and heparin during allergic reactions?",
+      "options": [
+        "Neutrophils",
+        "Basophils",
+        "Eosinophils",
+        "Monocytes"
+      ],
+      "answer": 1,
+      "explanation": "Basophils contain granules rich in histamine and heparin, which are released during IgE‑mediated allergic responses.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "Which type of white blood cell is characterized by a large, round nucleus with a thin rim of cytoplasm and is chiefly involved in cell‑mediated immunity?",
+      "options": [
+        "Neutrophils",
+        "Lymphocytes",
+        "Eosinophils",
+        "Monocytes"
+      ],
+      "answer": 1,
+      "explanation": "Lymphocytes, especially T‑cells, have a large nucleus occupying most of the cell and are central to cell‑mediated immune responses.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "A patient with a parasitic helminth infection shows a marked increase in which leukocyte?",
+      "options": [
+        "Neutrophils",
+        "Basophils",
+        "Eosinophils",
+        "Lymphocytes"
+      ],
+      "answer": 2,
+      "explanation": "Eosinophils increase markedly in helminthic infections and release toxic granule proteins that damage parasites.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "Which leukocyte has a kidney‑shaped (horseshoe) nucleus and can differentiate into macrophages in tissues?",
+      "options": [
+        "Monocytes",
+        "Neutrophils",
+        "Basophils",
+        "Lymphocytes"
+      ],
+      "answer": 0,
+      "explanation": "Monocytes possess a kidney‑shaped nucleus and, upon migrating into tissues, differentiate into macrophages and dendritic cells.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "In a bacterial infection, the peripheral blood smear typically shows an increase in which leukocyte type?",
+      "options": [
+        "Lymphocytes",
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial infections commonly cause neutrophilia, reflecting the recruitment of neutrophils to combat the invading bacteria.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "Which leukocyte is primarily responsible for the production of antibodies?",
+      "options": [
+        "T lymphocytes",
+        "B lymphocytes",
+        "Neutrophils",
+        "Monocytes"
+      ],
+      "answer": 1,
+      "explanation": "B lymphocytes differentiate into plasma cells that synthesize and secrete specific antibodies against antigens.",
+      "topic": "White blood cells"
+    },
+    {
+      "question": "What is the principal function of neutrophils in the innate immune response?",
+      "options": [
+        "Production of antibodies",
+        "Phagocytosis of bacteria",
+        "Antigen presentation to T‑cells",
+        "Release of histamine"
+      ],
+      "answer": 1,
+      "explanation": "Neutrophils are the main phagocytic cells that ingest and destroy bacteria and fungi during the early phase of innate immunity.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "Which granule type in neutrophils contains myeloperoxidase that contributes to the respiratory burst?",
+      "options": [
+        "Specific (secondary) granules",
+        "Primary (azurophilic) granules",
+        "Tertiary granules",
+        "Secretory vesicles"
+      ],
+      "answer": 1,
+      "explanation": "Myeloperoxidase is stored in primary (azurophilic) granules and generates hypochlorous acid during the oxidative burst.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "Which of the following is a potent chemotactic factor for neutrophils?",
+      "options": [
+        "Interleukin‑2",
+        "Complement component C5a",
+        "Erythropoietin",
+        "Thrombopoietin"
+      ],
+      "answer": 1,
+      "explanation": "C5a, a complement split product, is a strong chemoattractant that directs neutrophils to sites of infection.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "A patient’s total leukocyte count is 8000 cells/µL and neutrophils constitute 60 % of the differential. What is the absolute neutrophil count (ANC)?",
+      "options": [
+        "4800 cells/µL",
+        "3200 cells/µL",
+        "5600 cells/µL",
+        "4000 cells/µL"
+      ],
+      "answer": 0,
+      "explanation": "ANC = total WBC × neutrophil % = 8000 × 0.60 = 4800 cells/µL.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "Neutrophilia is most commonly seen in which clinical condition?",
+      "options": [
+        "Viral infection",
+        "Bacterial infection",
+        "Hypothyroidism",
+        "Iron‑deficiency anemia"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial infections stimulate the bone marrow to release more neutrophils, leading to neutrophilia.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "Chronic granulomatous disease results from a defect in which enzyme of the neutrophil respiratory burst?",
+      "options": [
+        "Myeloperoxidase",
+        "NADPH oxidase",
+        "Catalase",
+        "Superoxide dismutase"
+      ],
+      "answer": 1,
+      "explanation": "A deficiency of NADPH oxidase impairs generation of superoxide radicals, causing the defective killing seen in chronic granulomatous disease.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "During acute inflammation, neutrophils exit the bloodstream by which process?",
+      "options": [
+        "Diapedesis",
+        "Pinocytosis",
+        "Exocytosis",
+        "Transcytosis"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils migrate through endothelial junctions in a process called diapedesis (or extravasation) to reach inflamed tissue.",
+      "topic": "Neutrophils"
+    },
+    {
+      "question": "Which granule protein is most characteristic of eosinophils?",
+      "options": [
+        "Major basic protein",
+        "Myeloperoxidase",
+        "Histamine",
+        "Platelet factor 4"
+      ],
+      "answer": 0,
+      "explanation": "Eosinophil granules contain abundant major basic protein, a hallmark used for their identification.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "Eosinophils play a major role in host defence against which type of pathogen?",
+      "options": [
+        "Intracellular bacteria",
+        "Extracellular parasites",
+        "Viral infections",
+        "Fungal infections"
+      ],
+      "answer": 1,
+      "explanation": "Eosinophils are especially effective against large extracellular parasites such as helminths.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "In a Wright‑Giemsa stained peripheral smear, eosinophils are identified by which combination of nuclear shape and granule colour?",
+      "options": [
+        "Bilobed nucleus and pale cytoplasm",
+        "Segmented nucleus and fine granules",
+        "Bilobed nucleus and large orange‑red granules",
+        "Multilobed nucleus and basophilic granules"
+      ],
+      "answer": 2,
+      "explanation": "Eosinophils have a characteristic bilobed (or sometimes segmented) nucleus and coarse orange‑red granules that stain eosinophilic.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "Which cytokine is most crucial for eosinophil differentiation and activation in the bone marrow?",
+      "options": [
+        "Interleukin‑5",
+        "Interleukin‑2",
+        "Interleukin‑10",
+        "Interleukin‑1"
+      ],
+      "answer": 0,
+      "explanation": "IL‑5 specifically promotes growth, differentiation, and activation of eosinophils.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "A marked increase in eosinophil count (eosinophilia) is most commonly seen in which clinical condition?",
+      "options": [
+        "Acute bacterial sepsis",
+        "Allergic asthma",
+        "Iron deficiency anemia",
+        "Hemophilia"
+      ],
+      "answer": 1,
+      "explanation": "Allergic diseases such as asthma frequently cause peripheral eosinophilia due to Th2‑mediated cytokine release.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "The approximate lifespan of eosinophils in peripheral blood is:",
+      "options": [
+        "6‑8 hours",
+        "1‑2 days",
+        "3‑5 days",
+        "7‑10 days"
+      ],
+      "answer": 1,
+      "explanation": "Eosinophils circulate for about 1–2 days before migrating into tissues, where they may survive longer.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "Which statement about eosinophil granule enzymes is FALSE?",
+      "options": [
+        "They contain eosinophil peroxidase",
+        "They generate reactive oxygen species",
+        "They release heparin",
+        "They contain major basic protein"
+      ],
+      "answer": 2,
+      "explanation": "Heparin is a granule component of mast cells and basophils, not eosinophils; eosinophils contain peroxidase, major basic protein, and generate ROS.",
+      "topic": "Eosinophils"
+    },
+    {
+      "question": "Which granule contents are characteristic of basophils?",
+      "options": [
+        "Serotonin",
+        "Histamine",
+        "Both histamine and heparin",
+        "Heparin"
+      ],
+      "answer": 2,
+      "explanation": "Basophil granules contain both histamine, which mediates vasodilation and increased permeability, and heparin, an anticoagulant.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "Basophils express a high‑affinity receptor for which immunoglobulin class?",
+      "options": [
+        "FcγRI",
+        "FcεRI",
+        "FcαRI",
+        "FcμRI"
+      ],
+      "answer": 1,
+      "explanation": "The high‑affinity IgE receptor on basophils is FcεRI, enabling them to bind IgE and participate in allergic reactions.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "During an immediate hypersensitivity reaction, basophils primarily contribute by releasing which mediator?",
+      "options": [
+        "Platelet‑activating factor",
+        "Histamine",
+        "Thromboxane A2",
+        "Prostaglandin E2"
+      ],
+      "answer": 1,
+      "explanation": "Basophils degranulate to release histamine, causing vasodilation and increased vascular permeability in allergic responses.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "Compared with mast cells, basophils are mainly found:",
+      "options": [
+        "In tissues as resident cells",
+        "Circulating in the peripheral blood",
+        "Derived from lymphoid lineage",
+        "Containing eosinophilic granules"
+      ],
+      "answer": 1,
+      "explanation": "Mast cells reside in connective tissues, whereas basophils are circulating leukocytes that can migrate to sites of inflammation.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "The normal percentage of basophils among total leukocytes in peripheral blood is:",
+      "options": [
+        "0‑1% of leukocytes",
+        "2‑8% of leukocytes",
+        "10‑15% of leukocytes",
+        "20‑30% of leukocytes"
+      ],
+      "answer": 0,
+      "explanation": "Basophils constitute a very small fraction of white blood cells, typically less than 1% of the total leukocyte count.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "Heparin released from basophils primarily functions to:",
+      "options": [
+        "Promote platelet aggregation",
+        "Inhibit thrombin formation",
+        "Increase vascular permeability",
+        "Stimulate red blood cell production"
+      ],
+      "answer": 1,
+      "explanation": "Heparin is an anticoagulant that enhances antithrombin III activity, thereby inhibiting thrombin and preventing clot formation.",
+      "topic": "Basophils"
+    },
+    {
+      "question": "Which lymphocyte is primarily responsible for the production of antibodies in the adaptive immune response?",
+      "options": [
+        "B lymphocytes",
+        "Helper T (CD4+) lymphocytes",
+        "Cytotoxic T (CD8+) lymphocytes",
+        "Natural killer (NK) cells"
+      ],
+      "answer": 0,
+      "explanation": "B lymphocytes differentiate into plasma cells that synthesize and secrete antibodies specific to the antigen.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Which surface marker is characteristic of mature T lymphocytes?",
+      "options": [
+        "CD3",
+        "CD19",
+        "CD56",
+        "CD14"
+      ],
+      "answer": 0,
+      "explanation": "CD3 is a pan‑T‑cell marker present on all mature T lymphocytes, forming part of the T‑cell receptor complex.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "In cell‑mediated immunity, which lymphocyte directly kills virus‑infected cells by recognizing antigen presented on MHC I molecules?",
+      "options": [
+        "Cytotoxic T (CD8+) lymphocytes",
+        "Helper T (CD4+) lymphocytes",
+        "B lymphocytes",
+        "Natural killer (NK) cells"
+      ],
+      "answer": 0,
+      "explanation": "CD8+ cytotoxic T cells recognize viral peptides on MHC I and induce apoptosis of the infected cell.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Which lymphocyte type can lyse tumor cells without prior sensitization and lacks antigen‑specific receptors?",
+      "options": [
+        "Natural killer (NK) cells",
+        "B lymphocytes",
+        "Helper T (CD4+) lymphocytes",
+        "Memory T cells"
+      ],
+      "answer": 0,
+      "explanation": "NK cells are part of innate immunity; they kill transformed or infected cells without needing antigen‑specific receptors.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Class‑switch recombination of immunoglobulin isotypes in B cells predominantly occurs in which anatomical site?",
+      "options": [
+        "Bone marrow",
+        "Thymus",
+        "Germinal centers of lymph nodes",
+        "Spleen red pulp"
+      ],
+      "answer": 2,
+      "explanation": "Within germinal centers, activated B cells interact with helper T cells and undergo class switching to produce different Ig isotypes.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Which cytokine is essential for the differentiation of naive CD4+ T cells into Th1 effector cells?",
+      "options": [
+        "Interleukin‑4 (IL‑4)",
+        "Interleukin‑12 (IL‑12)",
+        "Interleukin‑10 (IL‑10)",
+        "Transforming growth factor‑β (TGF‑β)"
+      ],
+      "answer": 1,
+      "explanation": "IL‑12, produced by dendritic cells and macrophages, drives naive CD4+ T cells toward the Th1 lineage, promoting cell‑mediated immunity.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Which statement correctly describes the recirculation pattern of naive lymphocytes?",
+      "options": [
+        "Naive B cells continuously recirculate between the bloodstream and secondary lymphoid organs",
+        "Memory T cells are confined exclusively to the bone marrow",
+        "NK cells never enter lymph nodes",
+        "All lymphocytes are generated in the spleen"
+      ],
+      "answer": 0,
+      "explanation": "Naive B (and T) cells constantly traffic through blood, lymph, and secondary lymphoid tissues to encounter antigen, whereas memory T cells can reside in various tissues and NK cells do enter lymph nodes.",
+      "topic": "Lymphocytes"
+    },
+    {
+      "question": "Which of the following best describes the primary function of circulating monocytes?",
+      "options": [
+        "Oxygen transport",
+        "Antibody production",
+        "Phagocytosis of pathogens and debris",
+        "Blood clot formation"
+      ],
+      "answer": 2,
+      "explanation": "Monocytes are professional phagocytes that ingest bacteria, dead cells and debris, forming the first line of innate defence.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "Monocytes differentiate into which cell type upon migration into tissues?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Macrophages",
+        "Dendritic cells"
+      ],
+      "answer": 2,
+      "explanation": "When monocytes exit the bloodstream and enter tissues, they mature into macrophages, which are long‑lived phagocytes.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "Which surface marker is characteristically expressed on human monocytes?",
+      "options": [
+        "CD3",
+        "CD14",
+        "CD19",
+        "CD56"
+      ],
+      "answer": 1,
+      "explanation": "CD14 is a co‑receptor for lipopolysaccharide and is a hallmark surface antigen of monocytes.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "In a peripheral blood smear, monocytes can be identified by which morphological feature?",
+      "options": [
+        "Biconcave disc shape",
+        "Multilobed nucleus",
+        "Large kidney‑shaped nucleus with abundant cytoplasm",
+        "Small, non‑lobulated nucleus with granules"
+      ],
+      "answer": 2,
+      "explanation": "Monocytes have a large, indented (kidney‑shaped) nucleus and a relatively abundant pale cytoplasm, distinguishing them from other leukocytes.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "Monocytes contribute to the innate immune response by secreting which cytokine?",
+      "options": [
+        "Interleukin‑1 (IL‑1)",
+        "Insulin",
+        "Erythropoietin",
+        "Thyroxine"
+      ],
+      "answer": 0,
+      "explanation": "Activated monocytes/macrophages release pro‑inflammatory cytokines such as IL‑1, which mediate fever and acute‑phase responses.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "The average lifespan of circulating monocytes in blood before they migrate into tissues is approximately:",
+      "options": [
+        "1‑2 days",
+        "1‑2 weeks",
+        "1‑2 months",
+        "6 months"
+      ],
+      "answer": 0,
+      "explanation": "Monocytes remain in the bloodstream for about 1–2 days before they exit to become tissue macrophages.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "Which statement about monocytes is FALSE?",
+      "options": [
+        "They are the largest type of leukocyte in peripheral blood",
+        "They possess phagocytic activity",
+        "They are primarily involved in antigen presentation to T cells",
+        "They contain granules rich in heparin"
+      ],
+      "answer": 3,
+      "explanation": "Monocytes do not contain heparin‑rich granules; heparin is stored in mast cells, not in monocytes.",
+      "topic": "Monocytes"
+    },
+    {
+      "question": "Which of the following statements about platelet formation is correct?",
+      "options": [
+        "Platelets are derived from megakaryocytes in bone marrow",
+        "Platelets are formed by fragmentation of erythroblasts",
+        "Platelets are produced in spleen",
+        "Platelets arise from lymphoid stem cells"
+      ],
+      "answer": 0,
+      "explanation": "Platelets are produced by cytoplasmic fragmentation of large bone‑marrow megakaryocytes, a process regulated by thrombopoietin.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "The alpha granules of platelets contain which of the following substances?",
+      "options": [
+        "ADP and serotonin",
+        "Fibrinogen and factor V",
+        "von Willebrand factor",
+        "Platelet‑derived growth factor"
+      ],
+      "answer": 1,
+      "explanation": "Alpha granules store plasma proteins such as fibrinogen, factor V, von Willebrand factor and platelet‑derived growth factor; dense granules store ADP, serotonin, calcium.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "Which plasma protein is essential for platelet adhesion to subendothelial collagen under high shear conditions?",
+      "options": [
+        "Fibrinogen",
+        "Albumin",
+        "von Willebrand factor",
+        "Prothrombin"
+      ],
+      "answer": 2,
+      "explanation": "von Willebrand factor binds to exposed collagen and to the GPIb receptor on platelets, mediating adhesion especially in high‑shear arterial flow.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "The normal platelet count in a healthy adult is approximately:",
+      "options": [
+        "1‑2 × 10^5 /µL",
+        "1.5‑4.5 × 10^5 /µL",
+        "5‑7 × 10^5 /µL",
+        "8‑10 × 10^5 /µL"
+      ],
+      "answer": 1,
+      "explanation": "Typical adult platelet count ranges from 150,000 to 450,000 per microlitre (1.5‑4.5 × 10^5 /µL).",
+      "topic": "Platelets"
+    },
+    {
+      "question": "Thrombopoietin, the principal regulator of platelet production, is primarily produced by:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Spleen",
+        "Bone marrow stromal cells"
+      ],
+      "answer": 0,
+      "explanation": "Thrombopoietin is a glycoprotein hormone mainly synthesized by the liver (and to a lesser extent by the kidney) that stimulates megakaryocyte maturation.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "In the coagulation cascade, which step directly leads to platelet activation by thromboxane A₂?",
+      "options": [
+        "Conversion of prothrombin to thrombin",
+        "Activation of factor X",
+        "Conversion of arachidonic acid by cyclooxygenase",
+        "Cleavage of fibrinogen to fibrin"
+      ],
+      "answer": 2,
+      "explanation": "Thromboxane A₂ is generated when cyclooxygenase converts arachidonic acid in activated platelets; it then amplifies platelet activation and aggregation.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "A patient with a platelet count of 30,000 /µL is most likely to present with:",
+      "options": [
+        "Polycythemia",
+        "Easy bruising and mucosal bleeding",
+        "Hypercoagulability",
+        "Elevated hematocrit"
+      ],
+      "answer": 1,
+      "explanation": "Severe thrombocytopenia (<50,000/µL) predisposes to bleeding manifestations such as easy bruising, petechiae and mucosal hemorrhage.",
+      "topic": "Platelets"
+    },
+    {
+      "question": "What is the primary physiological role of erythrocytes in human blood?",
+      "options": [
+        "Transport of oxygen and carbon dioxide",
+        "Production of antibodies",
+        "Initiation of the coagulation cascade",
+        "Phagocytosis of microorganisms"
+      ],
+      "answer": 0,
+      "explanation": "Erythrocytes contain hemoglobin, which binds O₂ in the lungs and releases it in tissues, and also carries CO₂ back to the lungs for exhalation.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "Which type of white blood cell is most important in defending the body against helminth (parasitic worm) infections?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Basophils",
+        "Monocytes"
+      ],
+      "answer": 1,
+      "explanation": "Eosinophils contain granules rich in major basic protein and eosinophil peroxidase that are toxic to multicellular parasites.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "During an allergic reaction, basophils contribute mainly by releasing which chemical mediator?",
+      "options": [
+        "Histamine",
+        "Interferon‑γ",
+        "Platelet‑derived growth factor",
+        "Lysozyme"
+      ],
+      "answer": 0,
+      "explanation": "Basophils degranulate to release histamine, which increases vascular permeability and produces the classic signs of allergy.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "Which of the following is NOT a function performed by platelets?",
+      "options": [
+        "Formation of a fibrin clot",
+        "Secretion of growth factors that aid wound healing",
+        "Phagocytosis of bacteria",
+        "Release of ADP to recruit additional platelets"
+      ],
+      "answer": 2,
+      "explanation": "Platelets are anucleate cell fragments; they do not engulf bacteria. Their main roles are in hemostasis and releasing factors that promote tissue repair.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "Neutrophils eliminate most bacterial pathogens primarily through which mechanism?",
+      "options": [
+        "Production of specific antibodies",
+        "Generation of reactive oxygen species during the respiratory burst",
+        "Presentation of antigen to T‑cells",
+        "Secretion of immunoglobulins"
+      ],
+      "answer": 1,
+      "explanation": "Neutrophils kill engulfed microbes by producing superoxide and other reactive oxygen species in a process called the respiratory burst.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "The lymphocytes that are responsible for producing antibodies are:",
+      "options": [
+        "Cytotoxic T cells",
+        "Helper T cells",
+        "B cells",
+        "Natural killer cells"
+      ],
+      "answer": 2,
+      "explanation": "B lymphocytes differentiate into plasma cells that synthesize and secrete antibodies specific to antigens.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "After migrating into tissues, circulating monocytes differentiate into which cell type?",
+      "options": [
+        "Neutrophils",
+        "Erythrocytes",
+        "Macrophages",
+        "Platelets"
+      ],
+      "answer": 2,
+      "explanation": "Tissue‑resident monocytes mature into macrophages, which are professional phagocytes involved in innate immunity and tissue remodeling.",
+      "topic": "Functions of blood cells"
+    },
+    {
+      "question": "Which clotting factor acts as a calcium‑dependent cofactor for the conversion of prothrombin to thrombin in the common pathway?",
+      "options": [
+        "Factor V",
+        "Factor VIII",
+        "Factor IX",
+        "Factor X"
+      ],
+      "answer": 0,
+      "explanation": "Factor V forms the prothrombinase complex with activated factor X; calcium ions are required for the complex to bind phospholipid surfaces and convert prothrombin to thrombin.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "In the intrinsic coagulation pathway, activation of which factor is the initiating step?",
+      "options": [
+        "Factor XII",
+        "Factor XI",
+        "Factor IX",
+        "Factor X"
+      ],
+      "answer": 0,
+      "explanation": "The intrinsic pathway is triggered when factor XII contacts negatively charged subendothelial collagen, leading to its activation as the first step.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "What is the primary role of fibrinogen during clot formation?",
+      "options": [
+        "It is converted by thrombin into fibrin forming a polymeric mesh",
+        "It acts as a cofactor for factor VIII",
+        "It binds calcium to activate platelets",
+        "It serves as a platelet adhesion receptor"
+      ],
+      "answer": 0,
+      "explanation": "Thrombin cleaves fibrinogen, releasing fibrinopeptides and generating insoluble fibrin monomers that polymerize into a mesh stabilizing the clot.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "Which clotting factor is NOT dependent on vitamin K for its synthesis?",
+      "options": [
+        "Factor II",
+        "Factor VII",
+        "Factor IX",
+        "Factor XII"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin K is required for γ‑carboxylation of factors II, VII, IX and X; factor XII is synthesized independently of vitamin K.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "The extrinsic pathway is initiated when tissue factor (TF) binds which clotting factor?",
+      "options": [
+        "Factor VII",
+        "Factor VIII",
+        "Factor IX",
+        "Factor X"
+      ],
+      "answer": 0,
+      "explanation": "Tissue factor forms a complex with factor VIIa; this TF–VIIa complex triggers the extrinsic coagulation cascade.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "At which step do the intrinsic and extrinsic pathways converge in the coagulation cascade?",
+      "options": [
+        "Activation of prothrombin to thrombin",
+        "Activation of factor X to factor Xa",
+        "Conversion of fibrinogen to fibrin",
+        "Activation of factor V"
+      ],
+      "answer": 1,
+      "explanation": "Both pathways lead to activation of factor X to Xa, the common point before prothrombin is converted to thrombin.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "A deficiency of which clotting factor characterises hemophilia A, affecting the intrinsic pathway?",
+      "options": [
+        "Factor VIII",
+        "Factor IX",
+        "Factor XI",
+        "Factor XII"
+      ],
+      "answer": 0,
+      "explanation": "Hemophilia A results from deficiency of factor VIII, which is essential for the intrinsic tenase complex (VIIIa·IXa) that activates factor X.",
+      "topic": "Blood clotting"
+    },
+    {
+      "question": "Which clotting factor is calcium‑dependent and functions in both the intrinsic and extrinsic pathways of coagulation?",
+      "options": [
+        "Factor V",
+        "Factor VII",
+        "Factor X",
+        "Factor XII"
+      ],
+      "answer": 2,
+      "explanation": "Factor X requires Ca²⁺ for its activation and acts as the common point where both intrinsic and extrinsic pathways converge to generate thrombin.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "The conversion of prothrombin to thrombin in the coagulation cascade is catalyzed by which complex?",
+      "options": [
+        "Prothrombinase complex",
+        "Tenase complex",
+        "Fibrin‑stabilizing factor",
+        "Antithrombin III"
+      ],
+      "answer": 0,
+      "explanation": "The prothrombinase complex (Factor Xa·Va·Ca²⁺·phospholipid) converts prothrombin (Factor II) into active thrombin (Factor IIa).",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "Which protein cross‑links fibrin strands to stabilize the clot?",
+      "options": [
+        "Fibrinogen",
+        "Factor XIII",
+        "Thrombin",
+        "Plasmin"
+      ],
+      "answer": 1,
+      "explanation": "Activated Factor XIII (Factor XIIIa) cross‑links fibrin polymers, giving mechanical strength to the clot.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "Which clotting factor is NOT dependent on vitamin K for γ‑carboxylation?",
+      "options": [
+        "Factor II",
+        "Factor V",
+        "Factor VII",
+        "Factor IX"
+      ],
+      "answer": 1,
+      "explanation": "Factor V lacks the γ‑carboxyglutamic acid residues that require vitamin K; factors II, VII, IX and X are vitamin K‑dependent.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "Deficiency of which factor leads to Hemophilia A?",
+      "options": [
+        "Factor VIII",
+        "Factor IX",
+        "Factor XI",
+        "Factor XII"
+      ],
+      "answer": 0,
+      "explanation": "Hemophilia A is caused by a deficiency or dysfunction of clotting factor VIII, impairing the intrinsic pathway.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "During primary hemostasis, platelets primarily contribute by:",
+      "options": [
+        "Releasing ADP and thromboxane A₂ to recruit more platelets",
+        "Secreting fibrinogen to form a fibrin mesh",
+        "Activating the intrinsic coagulation pathway",
+        "Producing prothrombin"
+      ],
+      "answer": 0,
+      "explanation": "Activated platelets release ADP and thromboxane A₂, which amplify platelet aggregation and form the platelet plug.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "The intrinsic pathway of coagulation is initiated when blood contacts which of the following?",
+      "options": [
+        "Collagen",
+        "Tissue factor",
+        "Endothelial cells",
+        "Phospholipid surfaces"
+      ],
+      "answer": 0,
+      "explanation": "Exposure of subendothelial collagen activates Factor XII, starting the intrinsic cascade.",
+      "topic": "Coagulation"
+    },
+    {
+      "question": "Which enzyme directly converts fibrinogen to fibrin during clot formation?",
+      "options": [
+        "Thrombin",
+        "Plasmin",
+        "Factor VIII",
+        "Prothrombin"
+      ],
+      "answer": 0,
+      "explanation": "Thrombin cleaves fibrinopeptides A and B from fibrinogen, converting it into insoluble fibrin strands.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "Stabilization of the fibrin polymer by covalent cross‑linking is mediated by which clotting factor?",
+      "options": [
+        "Factor XIII",
+        "Factor IX",
+        "Factor V",
+        "Factor XI"
+      ],
+      "answer": 0,
+      "explanation": "Factor XIII (fibrin‑stabilizing factor) is activated by thrombin and calcium to cross‑link fibrin monomers, making the clot resistant to mechanical stress.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "Calcium ions (Ca2+) are essential for which specific step in fibrin formation?",
+      "options": [
+        "Activation of prothrombin to thrombin",
+        "Conversion of fibrinogen to fibrin",
+        "Cross‑linking of fibrin by factor XIII",
+        "Release of ADP from platelets"
+      ],
+      "answer": 2,
+      "explanation": "Ca2+ is required for the activation of factor XIII, which then cross‑links fibrin polymers to stabilize the clot.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "Which anticoagulant primarily inhibits fibrin formation by enhancing antithrombin activity against thrombin?",
+      "options": [
+        "Heparin",
+        "Vitamin K",
+        "Aspirin",
+        "Warfarin"
+      ],
+      "answer": 0,
+      "explanation": "Heparin binds antithrombin, accelerating its inhibition of thrombin and factor Xa, thereby preventing fibrin generation.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "After polymerization, fibrin primarily exists as:",
+      "options": [
+        "Linear strands that interlace to form a meshwork",
+        "Soluble monomeric protein",
+        "Branched polysaccharide network",
+        "Lipid bilayer structure"
+      ],
+      "answer": 0,
+      "explanation": "Polymerized fibrin forms long, insoluble strands that interweave, creating a three‑dimensional mesh that traps blood cells.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "A bleeding disorder characterized by formation of clots that are easily lysed is most likely due to deficiency of which factor?",
+      "options": [
+        "Factor XIII",
+        "Factor VIII",
+        "Factor V",
+        "Factor IX"
+      ],
+      "answer": 0,
+      "explanation": "Factor XIII deficiency impairs cross‑linking of fibrin, resulting in unstable clots that break down prematurely, leading to a bleeding tendency.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "The enzymatic conversion of fibrinogen to fibrin releases which small peptides?",
+      "options": [
+        "Fibrinopeptide A and B",
+        "ADP",
+        "Calcium ions",
+        "Thromboxane A2"
+      ],
+      "answer": 0,
+      "explanation": "Thrombin cleaves fibrinopeptide A and B from the α and β chains of fibrinogen; these peptides are released into plasma during fibrin formation.",
+      "topic": "Fibrin formation"
+    },
+    {
+      "question": "Which genotype corresponds to blood group B?",
+      "options": [
+        "IAIA",
+        "IBIB",
+        "IAIB",
+        "ii"
+      ],
+      "answer": 1,
+      "explanation": "The B antigen is encoded by the IB allele; a homozygous IBIB genotype expresses only the B antigen, giving blood group B.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "A person with blood group O receives a transfusion of blood from a donor with blood group A. What immediate immunological event is most likely?",
+      "options": [
+        "Activation of complement leading to hemolysis",
+        "No reaction as O is universal donor",
+        "Formation of immune complexes without hemolysis",
+        "Suppression of antibody production"
+      ],
+      "answer": 0,
+      "explanation": "Group O plasma contains anti-A antibodies (mainly IgM) that bind A antigens on donor RBCs, activating complement and causing intravascular hemolysis.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "In the ABO system, which antibodies are present in the plasma of a person with blood group AB?",
+      "options": [
+        "Anti-A",
+        "Anti-B",
+        "Anti-A and Anti-B",
+        "None"
+      ],
+      "answer": 3,
+      "explanation": "Individuals with blood group AB possess both A and B antigens on their RBCs and therefore do not produce anti‑A or anti‑B antibodies; their plasma lacks these antibodies.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "Which statement about the inheritance of ABO blood groups is correct?",
+      "options": [
+        "Two parents with genotype IAi and IBi can have a child with blood group O",
+        "Two parents both with blood group O can have a child with blood group A",
+        "A child with blood group AB must have received IA allele from mother and IB allele from father",
+        "Blood group is determined by a single gene with three alleles"
+      ],
+      "answer": 0,
+      "explanation": "Parents IAi (type A) and IBi (type B) can each pass the i allele, producing an ii genotype, which manifests as blood group O.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "Which plasma protein is primarily responsible for the agglutination reaction observed in ABO blood typing?",
+      "options": [
+        "Immunoglobulin M",
+        "Immunoglobulin G",
+        "Fibrinogen",
+        "Albumin"
+      ],
+      "answer": 0,
+      "explanation": "IgM antibodies are large pentameric molecules that efficiently cross‑link RBC antigens, causing visible agglutination in ABO typing.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "A mother is blood group O and the fetus is blood group A. Which condition may develop in the newborn?",
+      "options": [
+        "Hemolytic disease of the newborn",
+        "Kernicterus due to ABO incompatibility",
+        "No clinical problem as O is universal donor",
+        "Thalassemia"
+      ],
+      "answer": 0,
+      "explanation": "Maternal anti‑A IgG antibodies can cross the placenta, leading to hemolysis of fetal A‑positive RBCs and causing hemolytic disease of the newborn, though usually milder than Rh disease.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "Which of the following best describes the antigenic determinant of the A blood group?",
+      "options": [
+        "N-acetylgalactosamine attached to the H antigen",
+        "Galactose attached to the H antigen",
+        "Sialic acid residues on the RBC membrane",
+        "Fucose residues on the RBC membrane"
+      ],
+      "answer": 0,
+      "explanation": "The A antigen is formed by the addition of N‑acetylgalactosamine to the precursor H antigen on the red cell surface.",
+      "topic": "ABO blood group system"
+    },
+    {
+      "question": "Which of the following statements about the Rh (D) antigen is correct?",
+      "options": [
+        "It is a carbohydrate antigen on the red blood cell membrane.",
+        "It is a protein antigen encoded by the RHD gene.",
+        "It is present in all individuals irrespective of genotype.",
+        "It is the least immunogenic blood group antigen."
+      ],
+      "answer": 1,
+      "explanation": "The Rh (D) antigen is a protein expressed on the erythrocyte membrane and is encoded by the RHD gene; its presence determines the Rh-positive phenotype.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "A Rh-negative mother gives birth to a Rh-positive baby. Which prophylactic measure prevents hemolytic disease in subsequent pregnancies?",
+      "options": [
+        "Administration of anti-A serum to the mother.",
+        "Administration of anti-D immunoglobulin to the mother within 72 hours of delivery.",
+        "Transfusion of Rh-negative blood to the newborn.",
+        "Providing the mother with oral iron supplements."
+      ],
+      "answer": 1,
+      "explanation": "Anti‑D immunoglobulin (Rho(D) immune globulin) given to the Rh‑negative mother neutralises fetal Rh‑positive cells and prevents alloimmunisation.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "In a transfusion scenario, which donor‑recipient combination is safest regarding Rh compatibility?",
+      "options": [
+        "Rh‑positive donor to Rh‑negative recipient",
+        "Rh‑negative donor to Rh‑positive recipient",
+        "Rh‑positive donor to Rh‑positive recipient",
+        "Rh‑negative donor to Rh‑negative recipient"
+      ],
+      "answer": 3,
+      "explanation": "A Rh‑negative donor to a Rh‑negative recipient eliminates any risk of anti‑D alloimmunisation in the recipient.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "The inheritance pattern of the Rh (D) antigen follows which of the following?",
+      "options": [
+        "Autosomal recessive",
+        "X‑linked recessive",
+        "Autosomal dominant with incomplete penetrance",
+        "Autosomal dominant with complete penetrance"
+      ],
+      "answer": 3,
+      "explanation": "The D antigen is dominant; a single D allele (heterozygous) confers the Rh‑positive phenotype, showing complete penetrance.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "Which immunoglobulin class is primarily responsible for hemolytic disease of the newborn due to Rh incompatibility?",
+      "options": [
+        "IgM",
+        "IgG",
+        "IgA",
+        "IgE"
+      ],
+      "answer": 1,
+      "explanation": "IgG antibodies can cross the placenta; anti‑D IgG mediates hemolysis of fetal red cells in Rh disease.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "The Rh (D) antigen is absent in a rare phenotype known as Rh null. Which clinical feature is most characteristic of individuals with Rh null phenotype?",
+      "options": [
+        "Severe anemia due to membrane instability",
+        "Increased susceptibility to malaria",
+        "Hypercoagulable state",
+        "Elevated serum ferritin"
+      ],
+      "answer": 0,
+      "explanation": "Rh null individuals lack all Rh proteins, leading to red cell membrane defects and mild to moderate hemolytic anemia.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "During an indirect Coombs test, a patient's serum causes agglutination with reagent red cells that are Rh‑positive. What does this indicate?",
+      "options": [
+        "Presence of anti‑A antibodies",
+        "Presence of anti‑D antibodies",
+        "Presence of anti‑Kell antibodies",
+        "Absence of clinically significant antibodies"
+      ],
+      "answer": 1,
+      "explanation": "Agglutination with Rh‑positive reagent cells indicates the serum contains anti‑D IgG antibodies, detected by the indirect Coombs test.",
+      "topic": "Rh blood group system"
+    },
+    {
+      "question": "Which blood group is considered the universal donor for red cell transfusion?",
+      "options": [
+        "O negative",
+        "O positive",
+        "AB negative",
+        "A positive"
+      ],
+      "answer": 0,
+      "explanation": "O negative red cells lack A, B and Rh D antigens, so they can be transfused to any ABO and Rh recipient without causing hemolysis.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "Which blood group is the universal donor for plasma transfusion?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": 2,
+      "explanation": "AB plasma does not contain anti‑A or anti‑B antibodies, making it safe to give to recipients of any ABO blood group.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "Which antigen(s) are absent on the red cells of the universal donor?",
+      "options": [
+        "A and B antigens",
+        "B and D antigens",
+        "A and D antigens",
+        "A, B, and D antigens"
+      ],
+      "answer": 3,
+      "explanation": "The universal donor (O negative) lacks A, B, and the Rh D antigens on its red cell surface.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "In an emergency when the recipient's blood group is unknown, which blood type is most suitable for immediate transfusion?",
+      "options": [
+        "O negative",
+        "A positive",
+        "B negative",
+        "AB positive"
+      ],
+      "answer": 0,
+      "explanation": "O negative is used because it lacks the major antigens that could trigger an immune reaction, making it safe for any recipient.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "A person with O negative blood can donate red cells to all except which of the following?",
+      "options": [
+        "O positive",
+        "A negative",
+        "AB positive",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "O negative can be given to every ABO and Rh group; there is no recipient type that it cannot donate to, so \"None of the above\" is correct.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "Which statement about the universal donor concept is FALSE?",
+      "options": [
+        "O negative red cells lack A, B, and D antigens",
+        "AB plasma contains anti‑A antibodies",
+        "O negative can be given to Rh positive recipients",
+        "O negative is the most scarce blood type"
+      ],
+      "answer": 1,
+      "explanation": "AB plasma does NOT contain anti‑A or anti‑B antibodies; it is actually free of these antibodies, making the statement false.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "During massive transfusion, O negative packed RBCs are given first because:",
+      "options": [
+        "they lack antigens that could cause hemolysis",
+        "they have the highest hemoglobin concentration",
+        "they contain clotting factors",
+        "they are least likely to cause allergic reactions"
+      ],
+      "answer": 0,
+      "explanation": "The primary reason is the absence of A, B, and D antigens, which prevents hemolytic reactions in unknown‑group recipients.",
+      "topic": "Universal donor concept"
+    },
+    {
+      "question": "Which blood group is considered the universal recipient in the ABO and Rh blood group systems?",
+      "options": [
+        "O negative",
+        "AB positive",
+        "A negative",
+        "B positive"
+      ],
+      "answer": 1,
+      "explanation": "AB+ individuals possess both A and B antigens and are Rh positive, so they have no anti‑A, anti‑B, or anti‑D antibodies and can receive blood from any group.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "A patient with blood group AB+ is scheduled for a transfusion. Which of the following antibodies will be present in his plasma?",
+      "options": [
+        "Anti‑A",
+        "Anti‑B",
+        "Anti‑D",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "AB+ plasma lacks anti‑A, anti‑B, and anti‑D antibodies; therefore none of these antibodies are present.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "Which of the following donor blood groups can be safely transfused to an AB+ recipient?",
+      "options": [
+        "O negative only",
+        "A positive only",
+        "All of the above",
+        "AB negative only"
+      ],
+      "answer": 2,
+      "explanation": "AB+ can receive red cells from any ABO group and any Rh type because it has no antibodies against A, B, or D antigens.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "In the context of the universal recipient concept, the red cells of an AB+ individual express which antigens on their surface?",
+      "options": [
+        "Only A antigen",
+        "Only B antigen",
+        "Both A and B antigens",
+        "No ABO antigens"
+      ],
+      "answer": 2,
+      "explanation": "AB+ red cells display both A and B antigens (and the Rh D antigen), making them compatible with all donor types.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "A trauma patient with blood group AB+ requires an emergency packed red cell transfusion. Which of the following statements is true regarding the choice of donor units?",
+      "options": [
+        "Only O negative units should be used",
+        "Any ABO and Rh compatible unit can be used",
+        "Only AB positive units are compatible",
+        "Only Rh‑negative units are safe"
+      ],
+      "answer": 1,
+      "explanation": "Since AB+ is the universal recipient, any donor red cells—regardless of ABO or Rh—can be transfused safely.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "Why is a person with blood group AB‑ not considered a universal recipient?",
+      "options": [
+        "They lack the Rh D antigen and have anti‑D antibodies",
+        "They have anti‑A antibodies",
+        "They have anti‑B antibodies",
+        "They possess anti‑D antibodies"
+      ],
+      "answer": 3,
+      "explanation": "AB‑ individuals have A and B antigens but lack the Rh D antigen; consequently they develop anti‑D antibodies and cannot receive Rh‑positive blood.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "Which plasma component, when transfused, would be incompatible with a universal recipient (AB+)?",
+      "options": [
+        "AB plasma",
+        "A plasma",
+        "B plasma",
+        "O plasma"
+      ],
+      "answer": 3,
+      "explanation": "O plasma contains anti‑A and anti‑B antibodies, which would react with the A and B antigens on AB+ red cells, making it incompatible.",
+      "topic": "Universal recipient concept"
+    },
+    {
+      "question": "Which blood group is considered the universal recipient, capable of receiving red cells from all other ABO blood groups?",
+      "options": [
+        "A positive",
+        "B positive",
+        "AB positive",
+        "O positive"
+      ],
+      "answer": 2,
+      "explanation": "AB positive individuals possess both A and B antigens on their red cells and lack anti‑A and anti‑B antibodies, allowing them to receive red cells of any ABO type.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "Which blood group can donate red cells to both A positive and B positive recipients, but cannot be given to an O negative recipient?",
+      "options": [
+        "O positive",
+        "A positive",
+        "AB positive",
+        "O negative"
+      ],
+      "answer": 0,
+      "explanation": "O positive red cells have no A or B antigens and are Rh D positive, making them compatible with A+ and B+ recipients; however, O negative recipients require O negative blood because they may have anti‑D antibodies.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "Which type of antibody is primarily detected during the immediate spin phase of a cross‑match test?",
+      "options": [
+        "IgM",
+        "IgG",
+        "IgA",
+        "IgE"
+      ],
+      "answer": 0,
+      "explanation": "The immediate spin (room‑temperature) phase detects IgM antibodies, which are responsible for ABO incompatibility agglutination.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "A patient with blood group A negative receives Rh‑positive red cells that are ABO compatible. Which transfusion reaction is most likely to develop?",
+      "options": [
+        "Acute hemolytic reaction",
+        "Delayed hemolytic reaction",
+        "Anaphylactic reaction",
+        "Febrile non‑hemolytic reaction"
+      ],
+      "answer": 1,
+      "explanation": "Rh incompatibility usually leads to a delayed hemolytic transfusion reaction, occurring days to weeks after exposure as anti‑D IgG antibodies are formed.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "Which statement about the \"universal donor\" concept is FALSE?",
+      "options": [
+        "O negative red cells lack A, B, and D antigens",
+        "O negative plasma can be given to any recipient",
+        "O negative red cells can be transfused to any ABO and Rh type",
+        "O negative is the safest red cell donor for emergency transfusion"
+      ],
+      "answer": 1,
+      "explanation": "While O negative red cells are universal donors, O negative plasma contains anti‑A and anti‑B antibodies and therefore cannot be given safely to all recipients.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "In a person with AB positive blood, which of the following antibodies are present in the plasma?",
+      "options": [
+        "Anti‑A",
+        "Anti‑B",
+        "Anti‑D",
+        "None of the above"
+      ],
+      "answer": 3,
+      "explanation": "AB positive individuals have both A and B antigens on their red cells and the D antigen; consequently, their plasma lacks anti‑A, anti‑B, and anti‑D antibodies.",
+      "topic": "Blood transfusion compatibility"
+    },
+    {
+      "question": "A blood unit is labeled: A positive, Rh D positive, containing anti‑K antibodies. Which recipient is most appropriate for this unit?",
+      "options": [
+        "A positive, Rh D positive, K antigen negative",
+        "A negative, Rh D negative, K antigen positive",
+        "O negative, K antigen negative",
+        "AB positive, K antigen positive"
+      ],
+      "answer": 0,
+      "explanation": "The unit must be given to a recipient who is ABO compatible (A), Rh compatible (positive), and lacks the K antigen to avoid a reaction with the donor's anti‑K antibodies.",
+      "topic": "Blood transfusion compatibility"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 29,
+    "mcqCount": 204
+  }
+}

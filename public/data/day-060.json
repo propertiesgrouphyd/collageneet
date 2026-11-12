@@ -1,0 +1,2523 @@
+{
+  "day": 60,
+  "courseDate": "2026-10-28",
+  "publishAt": "2026-10-28T06:00:00+05:30",
+  "title": "Plant Growth Regulators – Integrated Overview",
+  "introduction": "This lesson systematically explores the major plant growth regulators (PGRs) covered in the NEET syllabus, detailing their biosynthesis, mode of action, physiological roles, and high‑yield NEET‑focused facts.",
+  "sections": [
+    {
+      "topic": "Plant growth regulators",
+      "heading": "Definition and Classification of PGRs",
+      "content": "Plant growth regulators are endogenous low‑molecular‑weight compounds that modulate growth, development, and responses to stimuli. Based on function they are grouped into auxins, gibberellins, cytokinins, ethylene, and abscisic acid (ABA). Their action is dose‑dependent and often synergistic or antagonistic with other hormones.",
+      "keyPoints": [
+        "PGRs are not nutrients; they act at nanomolar concentrations",
+        "Five major classes dominate NEET questions",
+        "Hormonal balance determines phenotype"
+      ],
+      "neetTips": [
+        "Memorize the five primary PGR classes and their primary source tissues"
+      ]
+    },
+    {
+      "topic": "Plant hormones",
+      "heading": "General Features of Plant Hormones",
+      "content": "Plant hormones are synthesized in specific organs (e.g., auxins in shoot apices) and transported via polar transport, diffusion, or the transpiration stream. They bind to receptors, trigger second messengers (Ca2+, cGMP), and modulate gene expression through transcription factors.",
+      "keyPoints": [
+        "Synthesis sites differ among hormones",
+        "Transport mechanisms: polar auxin transport, gaseous diffusion for ethylene"
+      ],
+      "neetTips": [
+        "Link each hormone to its transport mode for quick recall"
+      ]
+    },
+    {
+      "topic": "Auxins",
+      "heading": "Auxin Biosynthesis and Transport",
+      "content": "Indole‑3‑acetic acid (IAA) is the principal auxin, synthesized via the tryptophan‑dependent pathway. Polar auxin transport (PAT) uses PIN efflux carriers, establishing auxin maxima that dictate organ patterning.",
+      "keyPoints": [
+        "IAA is derived mainly from tryptophan",
+        "PAT creates concentration gradients essential for tropisms"
+      ],
+      "neetTips": [
+        "Remember PIN proteins when answering transport‑related questions"
+      ]
+    },
+    {
+      "topic": "Physiological effects of auxins",
+      "heading": "Core Functions of Auxins",
+      "content": "Auxins promote cell elongation by acidifying the cell wall (acid growth hypothesis), stimulate apical dominance, and induce adventitious root formation. They also inhibit lateral bud growth and delay senescence in young leaves.",
+      "keyPoints": [
+        "Acid growth: H+-ATPase activation lowers pH",
+        "Apical dominance is auxin‑mediated"
+      ],
+      "neetTips": [
+        "Link auxin’s role in cell wall loosening to stem elongation questions"
+      ]
+    },
+    {
+      "topic": "Apical dominance",
+      "heading": "Mechanism of Apical Dominance",
+      "content": "The shoot apex synthesizes auxin, which moves basipetally suppressing axillary bud outgrowth. Removal of the apex reduces auxin flow, allowing cytokinin‑driven bud activation.",
+      "keyPoints": [
+        "Auxin gradient suppresses lateral buds",
+        "Cytokinin antagonism releases buds"
+      ],
+      "neetTips": [
+        "For NEET, focus on the auxin‑cytokinin antagonistic relationship"
+      ]
+    },
+    {
+      "topic": "Root initiation",
+      "heading": "Auxin‑Induced Root Formation",
+      "content": "High auxin concentrations at cut sites or in tissue culture stimulate pericycle cell division, leading to adventitious roots. Synthetic auxins (e.g., IBA) are used in horticulture for rooting.",
+      "keyPoints": [
+        "Auxin concentration threshold triggers root primordia"
+      ],
+      "neetTips": [
+        "Recall IBA’s practical application in vegetative propagation"
+      ]
+    },
+    {
+      "topic": "Cell elongation",
+      "heading": "Acid Growth Theory in Detail",
+      "content": "Auxin activates plasma‑membrane H+-ATPases, pumping protons into the apoplast, reducing pH to ~4.5. Low pH activates expansins that loosen cellulose‑hemicellulose bonds, allowing turgor‑driven expansion.",
+      "keyPoints": [
+        "Expansins are pH‑dependent proteins"
+      ],
+      "neetTips": [
+        "Connect expansin activity to rapid stem elongation in seedlings"
+      ]
+    },
+    {
+      "topic": "Tropisms",
+      "heading": "Auxin‑Mediated Tropic Responses",
+      "content": "In phototropism, unilateral light causes auxin redistribution to the shaded side, promoting cell elongation and bending towards light. Gravitropism involves statolith‑mediated auxin accumulation on the lower flank of roots, causing downward growth.",
+      "keyPoints": [
+        "Differential auxin distribution drives curvature"
+      ],
+      "neetTips": [
+        "Visualize light‑induced auxin shift for phototropism questions"
+      ]
+    },
+    {
+      "topic": "Parthenocarpy",
+      "heading": "Hormonal Induction of Seedless Fruit",
+      "content": "Exogenous auxin or gibberellin applications can trigger fruit set without fertilization, a process termed parthenocarpy. Auxin stimulates ovary growth, while gibberellins promote cell division in the pericarp.",
+      "keyPoints": [
+        "Both auxin and GA can induce parthenocarpy"
+      ],
+      "neetTips": [
+        "Remember auxin’s role in ovary enlargement for seedless fruit questions"
+      ]
+    },
+    {
+      "topic": "Gibberellins",
+      "heading": "Gibberellin Biosynthesis and Types",
+      "content": "Gibellins (GA1, GA3, GA4) are diterpenoid acids synthesized via the mevalonate pathway in young tissues. GA20‑oxidase and GA3‑oxidase convert inactive precursors to bioactive forms.",
+      "keyPoints": [
+        "GA biosynthesis occurs in plastids and cytosol"
+      ],
+      "neetTips": [
+        "GA3 is the commercially used gibberellin for dwarfism reversal"
+      ]
+    },
+    {
+      "topic": "Stem elongation",
+      "heading": "GA‑Driven Stem Growth",
+      "content": "Gibberellins stimulate cell division and elongation by degrading DELLA repressors, thereby activating growth‑promoting genes. GA deficiency leads to dwarfism, while excess causes elongated stems.",
+      "keyPoints": [
+        "DELLA proteins are GA signaling repressors"
+      ],
+      "neetTips": [
+        "Link DELLA degradation to stem elongation in NEET scenarios"
+      ]
+    },
+    {
+      "topic": "Bolting",
+      "heading": "GA Role in Bolting and Flowering Transition",
+      "content": "Elevated GA levels in long‑day plants trigger rapid stem elongation (bolting) and transition to reproductive phase. GA interacts with FT protein to promote floral meristem identity.",
+      "keyPoints": [
+        "Bolting is a GA‑mediated response to photoperiod"
+      ],
+      "neetTips": [
+        "Associate bolting with GA surge in long‑day conditions"
+      ]
+    },
+    {
+      "topic": "Breaking seed dormancy",
+      "heading": "Gibberellin‑Induced Dormancy Release",
+      "content": "GA antagonizes ABA by promoting α‑amylase synthesis in aleurone layers, mobilizing stored reserves and initiating germination. Exogenous GA application breaks physiological dormancy in many seeds.",
+      "keyPoints": [
+        "GA/ABA ratio determines dormancy status"
+      ],
+      "neetTips": [
+        "Remember GA’s role in α‑amylase induction for seed germination"
+      ]
+    },
+    {
+      "topic": "Cytokinins",
+      "heading": "Cytokinin Biosynthesis and Transport",
+      "content": "Cytokinins (e.g., zeatin) are adenine derivatives synthesized in roots via the isopentenyltransferase (IPT) pathway. They travel acropetally through the xylem to shoots, influencing meristem activity.",
+      "keyPoints": [
+        "Root‑derived, xylem‑borne"
+      ],
+      "neetTips": [
+        "Link root origin to shoot promotion in NEET questions"
+      ]
+    },
+    {
+      "topic": "Cell division",
+      "heading": "Cytokinin‑Driven Cell Proliferation",
+      "content": "Cytokinins activate cyclin‑dependent kinases, promoting G1‑S transition in the cell cycle. They synergize with auxin to maintain shoot apical meristem (SAM) activity and organogenesis.",
+      "keyPoints": [
+        "Cytokinin‑auxin balance sustains SAM"
+      ],
+      "neetTips": [
+        "Recall cytokinin’s role in shoot bud formation"
+      ]
+    },
+    {
+      "topic": "Delay of senescence",
+      "heading": "Anti‑senescence Action of Cytokinins",
+      "content": "Cytokinins up‑regulate chlorophyll biosynthesis genes and down‑regulate senescence‑associated genes (SAGs), thereby prolonging leaf longevity and photosynthetic capacity.",
+      "keyPoints": [
+        "Cytokinin suppresses SAG expression"
+      ],
+      "neetTips": [
+        "Connect cytokinin treatment to delayed leaf yellowing"
+      ]
+    },
+    {
+      "topic": "Ethylene",
+      "heading": "Ethylene Biosynthesis and Properties",
+      "content": "Ethylene (C2H4) is a gaseous hormone produced from methionine via S‑adenosyl‑L‑methionine (SAM) and 1‑aminocyclopropane‑1‑carboxylic acid (ACC) synthase. It diffuses freely and acts locally.",
+      "keyPoints": [
+        "SAM → ACC → Ethylene"
+      ],
+      "neetTips": [
+        "Remember ACC synthase as the rate‑limiting step"
+      ]
+    },
+    {
+      "topic": "Fruit ripening",
+      "heading": "Ethylene‑Mediated Climacteric Ripening",
+      "content": "Ethylene triggers a cascade activating polygalacturonase, cellulase, and pigment‑synthesizing enzymes, leading to softening, color change, and aroma development in climacteric fruits.",
+      "keyPoints": [
+        "Climacteric rise in ethylene precedes ripening"
+      ],
+      "neetTips": [
+        "Associate ethylene surge with tomato and banana ripening"
+      ]
+    },
+    {
+      "topic": "Senescence and abscission",
+      "heading": "Ethylene’s Role in Organ Senescence",
+      "content": "Elevated ethylene induces expression of cellulases and polygalacturonases in the abscission zone, facilitating leaf drop and fruit shedding. It also accelerates chlorophyll degradation during senescence.",
+      "keyPoints": [
+        "Ethylene promotes abscission zone activation"
+      ],
+      "neetTips": [
+        "Link ethylene to leaf yellowing and drop"
+      ]
+    },
+    {
+      "topic": "Triple response",
+      "heading": "Classic Ethylene Response in Seedlings",
+      "content": "In darkness, ethylene causes (i) inhibition of stem elongation, (ii) radial swelling, and (iii) exaggerated curvature (apical hook). This ‘triple response’ is a diagnostic assay for ethylene activity.",
+      "keyPoints": [
+        "Inhibition, swelling, curvature"
+      ],
+      "neetTips": [
+        "Recall triple response when identifying ethylene mutants"
+      ]
+    },
+    {
+      "topic": "Abscisic acid",
+      "heading": "ABA Biosynthesis and Stress Signalling",
+      "content": "ABA is synthesized from carotenoid cleavage (9‑cis‑neoxanthin → xanthoxin → ABA). It accumulates under drought, high salinity, and cold, mediating stomatal closure and seed dormancy.",
+      "keyPoints": [
+        "Carotenoid pathway origin"
+      ],
+      "neetTips": [
+        "Associate ABA rise with water‑deficit conditions"
+      ]
+    },
+    {
+      "topic": "Seed dormancy",
+      "heading": "ABA‑Induced Dormancy Maintenance",
+      "content": "ABA maintains dormancy by inhibiting GA biosynthesis and activating dormancy‑specific transcription factors (e.g., ABI3). High ABA/GA ratio keeps the embryo quiescent until favorable conditions arise.",
+      "keyPoints": [
+        "ABA/GA ratio critical"
+      ],
+      "neetTips": [
+        "Use ABA dominance to explain prolonged seed dormancy"
+      ]
+    },
+    {
+      "topic": "Stomatal closure",
+      "heading": "ABA‑Mediated Guard Cell Regulation",
+      "content": "ABA binds PYR/PYL receptors, inhibiting PP2C phosphatases, activating SnRK2 kinases, leading to Ca2+ influx and activation of SLAC1 anion channels. Resulting loss of turgor closes stomata.",
+      "keyPoints": [
+        "PYR/PYL‑PP2C‑SnRK2 cascade"
+      ],
+      "neetTips": [
+        "Remember the ABA‑SnRK2‑SLAC1 pathway for drought‑response questions"
+      ]
+    },
+    {
+      "topic": "Stress hormone concept",
+      "heading": "Hormonal Integration Under Stress",
+      "content": "During abiotic stress, ABA levels rise while ethylene may also increase, creating a hormonal cross‑talk that balances growth inhibition (via ABA) with stress‑adaptive responses (via ethylene).",
+      "keyPoints": [
+        "Hormonal cross‑talk modulates growth vs. survival"
+      ],
+      "neetTips": [
+        "Contrast growth‑promoting hormones with stress hormones in NEET scenarios"
+      ]
+    },
+    {
+      "topic": "Ethylene versus ABA",
+      "heading": "Comparative Actions of Ethylene and ABA",
+      "content": "Ethylene generally promotes senescence, fruit ripening, and abscission, whereas ABA suppresses growth, induces dormancy, and conserves water. Their antagonistic interaction determines outcomes like seed germination versus dormancy.",
+      "keyPoints": [
+        "Ethylene = senescence; ABA = dormancy"
+      ],
+      "neetTips": [
+        "Use hormone antagonism to answer comparative MCQs"
+      ]
+    },
+    {
+      "topic": "Integrated plant growth regulator revision",
+      "heading": "Holistic Overview and Inter‑Hormonal Relationships",
+      "content": "Auxin, GA, cytokinin, ethylene, and ABA form a regulatory network: auxin and GA promote elongation; cytokinin drives division; ethylene triggers ripening and senescence; ABA enforces dormancy and stress tolerance. Balance of these signals dictates plant architecture and reproductive success.",
+      "keyPoints": [
+        "Network view essential for integration"
+      ],
+      "neetTips": [
+        "Create a mental map linking each hormone to its primary physiological role for quick recall"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the biosynthetic origin, transport mechanisms, and primary physiological roles of each major plant growth regulator",
+    "Explain how auxin, gibberellin, cytokinin, ethylene, and abscisic acid interact to regulate growth, development, and stress responses",
+    "Apply hormone‑specific functions to solve NEET‑style questions on apical dominance, bolting, fruit ripening, seed dormancy, and stomatal closure",
+    "Compare and contrast ethylene and ABA actions in senescence, abscission, and stress adaptation"
+  ],
+  "mcqs": [
+    {
+      "question": "Removal of the apical bud leads to lateral bud growth because it causes a decrease in which plant hormone that normally suppresses lateral buds?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Gibberellin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "The apical bud synthesizes auxin which moves basipetally and suppresses lateral bud outgrowth; removal reduces auxin levels, releasing apical dominance.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Gibberellins promote seed germination primarily by stimulating which enzymatic activity in the aleurone layer?",
+      "options": [
+        "α‑amylase synthesis",
+        "Cell wall lignification",
+        "Chlorophyll degradation",
+        "Ethylene production"
+      ],
+      "answer": 0,
+      "explanation": "GA induces the synthesis of α‑amylase in the aleurone, which hydrolyses starch to provide sugars for the growing embryo.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Which effect is characteristic of cytokinins in mature leaves?",
+      "options": [
+        "Accelerate leaf senescence",
+        "Delay senescence by maintaining chlorophyll",
+        "Induce stomatal opening",
+        "Inhibit cell division"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinins delay leaf senescence by preserving chlorophyll and protein content, thereby extending leaf lifespan.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Which of the following is NOT a component of the ethylene‑induced triple response in seedlings?",
+      "options": [
+        "Inhibition of stem elongation",
+        "Radial swelling of the stem",
+        "Formation of an apical hook",
+        "Increased root length"
+      ],
+      "answer": 3,
+      "explanation": "The triple response includes inhibition of elongation, radial swelling, and apical hook formation; increased root length is not part of it.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "During drought stress, which hormone accumulates in leaves to cause stomatal closure?",
+      "options": [
+        "Abscisic acid",
+        "Ethylene",
+        "Gibberellin",
+        "Cytokinin"
+      ],
+      "answer": 0,
+      "explanation": "Drought triggers ABA synthesis, which promotes stomatal closure to reduce water loss.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Which hormone is primarily responsible for the ripening of climacteric fruits?",
+      "options": [
+        "Ethylene",
+        "Abscisic acid",
+        "Cytokinin",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene acts as the key ripening hormone in climacteric fruits, initiating biochemical changes leading to softening, colour change, and flavour development.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Induction of seedless (parthenocarpic) fruit formation in many horticultural crops is most commonly achieved by application of which hormone?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answer": 1,
+      "explanation": "Exogenous gibberellins can trigger fruit set without fertilisation, leading to parthenocarpic (seedless) fruits.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "The rapid elongation of the flowering stem (bolting) in response to long days is mainly stimulated by which plant growth regulator?",
+      "options": [
+        "Gibberellin",
+        "Auxin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins promote stem elongation and are responsible for bolting, especially under inductive photoperiods.",
+      "topic": "Plant growth regulators"
+    },
+    {
+      "question": "Which of the following best explains how auxin maintains apical dominance in a plant?",
+      "options": [
+        "Auxin produced in the shoot apex moves basipetally and suppresses lateral bud growth",
+        "Auxin accumulates in lateral buds and promotes their outgrowth",
+        "Auxin is synthesized in roots and transported upward to inhibit shoot elongation",
+        "Auxin induces cytokinin synthesis in the apical bud, leading to dominance"
+      ],
+      "answer": 0,
+      "explanation": "Auxin synthesized at the shoot tip is transported downwards (basipetal transport) and inhibits the growth of axillary buds, thereby maintaining apical dominance.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "Gibberellins break seed dormancy primarily by stimulating which of the following processes?",
+      "options": [
+        "Synthesis of α‑amylase in the aleurone layer",
+        "Production of ethylene in the embryo",
+        "Accumulation of abscisic acid in the seed coat",
+        "Inhibition of mitochondrial respiration"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins induce the synthesis of α‑amylase in the aleurone cells, leading to starch degradation and providing energy for germination.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "Cytokinins delay leaf senescence mainly through which of the following mechanisms?",
+      "options": [
+        "Up‑regulating chlorophyll‑binding proteins",
+        "Promoting ethylene biosynthesis",
+        "Enhancing abscisic acid accumulation",
+        "Inhibiting photosystem II activity"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins maintain chlorophyll content by up‑regulating genes encoding chlorophyll‑binding proteins, thereby delaying senescence.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "Which of the following is NOT a component of the classic ethylene triple response in seedlings?",
+      "options": [
+        "Inhibition of stem elongation",
+        "Excessive root growth",
+        "Radial swelling of the stem",
+        "Horizontal growth of the hypocotyl"
+      ],
+      "answer": 1,
+      "explanation": "The triple response includes inhibition of stem elongation, radial swelling, and a horizontal (apical) growth of the hypocotyl; excessive root growth is not part of it.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "Abscisic acid (ABA) accumulation in guard cells leads to stomatal closure most directly by:",
+      "options": [
+        "Activating plasma‑membrane Ca²⁺ channels",
+        "Increasing the synthesis of gibberellins",
+        "Promoting auxin efflux from the guard cells",
+        "Inhibiting ethylene perception"
+      ],
+      "answer": 0,
+      "explanation": "ABA activates Ca²⁺ channels in guard cell membranes, raising cytosolic Ca²⁺ which triggers ion efflux and stomatal closure.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "During fruit ripening, ethylene and abscisic acid (ABA) have contrasting roles. Which statement correctly describes their interaction?",
+      "options": [
+        "Ethylene promotes ripening while ABA generally delays it",
+        "Both hormones synergistically accelerate ripening",
+        "ABA initiates ripening and ethylene maintains it",
+        "Ethylene inhibits ABA synthesis during ripening"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene is the primary hormone that initiates and accelerates fruit ripening, whereas ABA often acts antagonistically, delaying ripening in many fruits.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "The polar transport of auxin in the stem is facilitated mainly by which carrier protein?",
+      "options": [
+        "PIN‑formed (PIN) efflux carriers",
+        "ABCG transporters",
+        "Aquaporins",
+        "ABC‑type importers"
+      ],
+      "answer": 0,
+      "explanation": "PIN proteins are auxin efflux carriers that create the directional (polar) flow of auxin through plant tissues.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "A dwarf phenotype in pea plants caused by a deficiency in gibberellin biosynthesis is best explained by which of the following?",
+      "options": [
+        "Reduced cell elongation in internodes",
+        "Increased cytokinin‑induced cell division",
+        "Enhanced auxin‑mediated apical dominance",
+        "Elevated ethylene production causing stem shortening"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins promote cell elongation in stems; their deficiency leads to shortened internodes and a dwarf phenotype.",
+      "topic": "Plant hormones"
+    },
+    {
+      "question": "Which compound is the principal natural auxin found in most higher plants?",
+      "options": [
+        "Indole-3-acetic acid (IAA)",
+        "Gibberellic acid (GA₃)",
+        "Zeatin",
+        "Abscisic acid (ABA)"
+      ],
+      "answer": 0,
+      "explanation": "Indole-3-acetic acid (IAA) is the major naturally occurring auxin that regulates most auxin‑dependent processes in plants.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "According to the acid growth hypothesis, auxin promotes cell elongation primarily by:",
+      "options": [
+        "Increasing turgor pressure inside the cell",
+        "Activating plasma‑membrane H⁺‑ATPase leading to wall acidification",
+        "Stimulating synthesis of cellulose microfibrils",
+        "Inhibiting cytokinin biosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Auxin activates plasma‑membrane H⁺‑ATPases, causing proton extrusion, wall acidification and activation of expansins, which loosens the cell wall and allows elongation.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "Polar auxin transport in the shoot is mainly mediated by which group of proteins?",
+      "options": [
+        "PIN‑FORMED (PIN) efflux carriers",
+        "ABC transporter family",
+        "Aquaporins",
+        "Voltage‑gated K⁺ channels"
+      ],
+      "answer": 0,
+      "explanation": "PIN proteins are asymmetrically localized auxin efflux carriers that generate the directional (polar) flow of auxin in shoots.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "Application of the synthetic auxin 2,4‑D is most commonly used to:",
+      "options": [
+        "Promote root formation in cuttings",
+        "Induce parthenocarpic fruit set",
+        "Delay leaf senescence",
+        "Break seed dormancy"
+      ],
+      "answer": 1,
+      "explanation": "2,4‑D, like other auxin analogues, can substitute for fertilization signals and is employed to produce seedless (parthenocarpic) fruits in certain crops.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "Removal of the apical bud reduces auxin levels, allowing which hormone to stimulate lateral bud outgrowth?",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Ethylene",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins promote cell division and lateral bud growth; they are normally suppressed by apical auxin, so removal of the apex releases this inhibition.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "In root gravitropism, auxin accumulates on the lower side of the root causing:",
+      "options": [
+        "Cell elongation on the lower side",
+        "Cell elongation on the upper side",
+        "Inhibition of cell elongation on the lower side",
+        "Increased cell division on the lower side"
+      ],
+      "answer": 2,
+      "explanation": "High auxin concentrations inhibit elongation in root cells, so the lower side grows less than the upper side, resulting in downward curvature.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "Which statement about auxin transport inhibitors is correct?",
+      "options": [
+        "NPA blocks auxin efflux carriers",
+        "TIBA enhances polar auxin transport",
+        "PCIB mimics auxin action",
+        "2,4‑D inhibits auxin biosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "N‑1‑naphthylphthalamic acid (NPA) specifically interferes with PIN‑mediated auxin efflux, disrupting polar transport.",
+      "topic": "Auxins"
+    },
+    {
+      "question": "What is the primary mechanism by which auxin promotes cell elongation in shoots?",
+      "options": [
+        "Acidification of the cell wall leading to increased extensibility",
+        "Increase in turgor pressure without cell wall modification",
+        "Stimulation of lignin deposition in the cell wall",
+        "Inhibition of mitotic activity in the meristem"
+      ],
+      "answer": 0,
+      "explanation": "Auxin activates plasma membrane H⁺‑ATPases, lowering apoplastic pH and activating wall‑loosening enzymes (expansins), which makes the cell wall more extensible and allows elongation.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "Removal of the apical bud results in loss of apical dominance because:",
+      "options": [
+        "Auxin synthesis is up‑regulated in lateral buds",
+        "Auxin transport from the apex to the stem is reduced",
+        "Cytokinin levels in the stem increase dramatically",
+        "Gibberellin biosynthesis is inhibited in the stem"
+      ],
+      "answer": 1,
+      "explanation": "Apical dominance is maintained by a basipetal flow of auxin from the shoot apex; removing the apex stops this transport, allowing lateral buds to grow.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "Which physiological process in roots is most directly stimulated by auxin?",
+      "options": [
+        "Initiation of lateral roots",
+        "Primary root elongation",
+        "Root hair formation",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Auxin accumulates at specific sites in the pericycle, triggering cell division that leads to the formation of lateral roots.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "During phototropism, why does a stem bend towards the light?",
+      "options": [
+        "Higher auxin concentration on the illuminated side causes cell elongation",
+        "Higher auxin concentration on the shaded side causes cell elongation",
+        "Auxin inhibits cell division on the shaded side",
+        "Auxin promotes ethylene synthesis on the illuminated side"
+      ],
+      "answer": 1,
+      "explanation": "Auxin is redistributed to the shaded side of the stem; the higher concentration there promotes cell elongation, causing the stem to curve towards the light.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "Auxin can induce parthenocarpic (seedless) fruit development mainly by:",
+      "options": [
+        "Stimulating ovary growth in the absence of fertilization",
+        "Inhibiting ethylene synthesis during fruit set",
+        "Promoting gibberellin biosynthesis in the ovary",
+        "Reducing cytokinin levels in developing fruit"
+      ],
+      "answer": 0,
+      "explanation": "Exogenous auxin mimics the hormonal signal normally produced after fertilization, triggering ovary enlargement and fruit set without seed formation.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "Application of excess auxin to a stem typically results in:",
+      "options": [
+        "Inhibition of cell division",
+        "Formation of adventitious roots",
+        "Epinasty (downward bending) of leaves",
+        "Accelerated senescence of the tissue"
+      ],
+      "answer": 1,
+      "explanation": "High auxin concentrations at cut or wounded sites stimulate the formation of adventitious roots, a common horticultural practice.",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "In the triple response of seedlings, auxin's role is to:",
+      "options": [
+        "Induce all three components of the response alone",
+        "Stimulate ethylene synthesis which then mediates the response",
+        "Inhibit ethylene action to prevent the response",
+        "Suppress auxin transport to enhance the response"
+      ],
+      "answer": 1,
+      "explanation": "Auxin promotes the synthesis of ethylene; the accumulated ethylene then causes the characteristic triple response (inhibition of elongation, radial swelling, and apical hook formation).",
+      "topic": "Physiological effects of auxins"
+    },
+    {
+      "question": "What best describes the phenomenon of apical dominance in plants?",
+      "options": [
+        "Inhibition of lateral bud growth by auxin produced in the shoot apex",
+        "Promotion of root initiation by cytokinin in the stem",
+        "Enhancement of leaf senescence by ethylene",
+        "Stimulation of fruit ripening by abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Apical dominance refers to the suppression of axillary (lateral) bud growth by the auxin (IAA) synthesized in the apical meristem, allowing the main stem to grow preferentially.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "When the apical bud of a plant is removed (decapitation), which of the following occurs most directly?",
+      "options": [
+        "Increased auxin synthesis in the stem",
+        "Activation and outgrowth of lateral buds leading to branching",
+        "Immediate wilting of all leaves",
+        "Enhanced ethylene production causing leaf abscission"
+      ],
+      "answer": 1,
+      "explanation": "Decapitation reduces the auxin flow from the apex, relieving inhibition on axillary buds and allowing them to grow into branches.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for maintaining apical dominance?",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Auxin (Indole‑3‑acetic acid)",
+        "Ethylene"
+      ],
+      "answer": 2,
+      "explanation": "Auxin, especially indole‑3‑acetic acid (IAA) produced in the shoot tip, is the main hormone that suppresses the growth of lateral buds, thereby maintaining apical dominance.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "Application of cytokinin to a decapitated stem most likely results in:",
+      "options": [
+        "No observable effect on bud growth",
+        "Suppression of lateral bud outgrowth",
+        "Promotion of lateral bud outgrowth and branching",
+        "Induction of root formation at the site of application"
+      ],
+      "answer": 2,
+      "explanation": "Cytokinin promotes cell division and bud outgrowth; when applied to a stem lacking auxin inhibition, it enhances the activation of axillary buds.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "Strigolactones influence apical dominance by:",
+      "options": [
+        "Promoting apical dominance through enhancement of auxin transport from the apex",
+        "Inhibiting cytokinin synthesis, thereby reducing bud growth",
+        "Directly stimulating lateral bud outgrowth",
+        "Having no role in shoot branching"
+      ],
+      "answer": 0,
+      "explanation": "Strigolactones act together with auxin to strengthen apical dominance, partly by facilitating auxin transport and suppressing axillary bud development.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "A plant mutant defective in auxin efflux carriers (PIN proteins) would most likely exhibit which phenotype?",
+      "options": [
+        "Tall, slender stems with few lateral branches",
+        "Dwarf stature with profuse lateral branching",
+        "Absence of root formation",
+        "Early onset of flowering without vegetative growth"
+      ],
+      "answer": 1,
+      "explanation": "Defective auxin transport reduces the auxin gradient that suppresses axillary buds, leading to reduced apical dominance and excessive branching.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "Which experimental observation provides direct evidence for auxin’s role in apical dominance?",
+      "options": [
+        "Grafting a wild‑type shoot onto a mutant rootstock restores normal branching",
+        "Applying synthetic auxin (NAA) to the cut stump of a decapitated plant suppresses lateral bud growth",
+        "Treating the shoot apex with cytokinin increases branching",
+        "Exposing the plant to ethylene enhances apical bud growth"
+      ],
+      "answer": 1,
+      "explanation": "Applying synthetic auxin to the site of decapitation mimics the natural auxin flow from the apex and re‑establishes inhibition of axillary buds, confirming auxin’s central role.",
+      "topic": "Apical dominance"
+    },
+    {
+      "question": "Which plant hormone primarily promotes root initiation in stem cuttings?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Auxin stimulates cell division and elongation at the cut base, creating the root meristem required for adventitious root formation.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "Application of NPA (N‑1‑naphthylphthalamic acid) to a stem cutting prevents root formation. What is the most likely cause?",
+      "options": [
+        "Inhibition of auxin transport",
+        "Inhibition of cytokinin synthesis",
+        "Stimulation of ethylene production",
+        "Blockage of gibberellin biosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "NPA blocks polar auxin transport, so auxin cannot accumulate at the cutting base, a prerequisite for root initiation.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "Which statement best describes the auxin‑cytokinin balance required for root initiation?",
+      "options": [
+        "A high auxin : cytokinin ratio favors root formation",
+        "A high cytokinin : auxin ratio favors root formation",
+        "Equal concentrations of auxin and cytokinin are required",
+        "Cytokinin does not influence root initiation"
+      ],
+      "answer": 0,
+      "explanation": "Root initiation is promoted when auxin dominates over cytokinin; cytokinin promotes shoot proliferation and antagonises root development.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "When stem cuttings are treated with both IAA and the ethylene precursor ACC, the number of roots formed compared with IAA alone is:",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "Roots are shorter but equal in number"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene synergises with auxin in many species, enhancing cell division at the cut surface and leading to a greater number of adventitious roots.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "Which observation indicates that auxin acts locally at the site of root initiation rather than being transported from the shoot?",
+      "options": [
+        "Accumulation of auxin at the cutting base after decapitation",
+        "Uniform auxin distribution throughout the stem",
+        "Root initiation only when auxin is applied to the cut surface",
+        "No root formation when the basal end is removed"
+      ],
+      "answer": 2,
+      "explanation": "Root formation occurs only when auxin is supplied directly to the cut surface, showing that a local auxin pool at the site is essential for initiation.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "The AUX1 protein in Arabidopsis is essential for root initiation. What is its primary role?",
+      "options": [
+        "Auxin influx carrier",
+        "Auxin efflux carrier",
+        "Cytokinin receptor",
+        "Ethylene biosynthetic enzyme"
+      ],
+      "answer": 0,
+      "explanation": "AUX1 functions as an auxin influx carrier, allowing auxin to enter cells and establish the concentration maxima needed for root primordium formation.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "The first cellular event in lateral root formation is the division of pericycle cells. Which hormone gradient drives this event?",
+      "options": [
+        "High auxin concentration in pericycle cells",
+        "High cytokinin concentration in pericycle cells",
+        "High gibberellin concentration in pericycle cells",
+        "High ethylene concentration in pericycle cells"
+      ],
+      "answer": 0,
+      "explanation": "An auxin maximum in pericycle cells triggers their re‑entry into the cell cycle, initiating the development of lateral root primordia.",
+      "topic": "Root initiation"
+    },
+    {
+      "question": "According to the acid growth hypothesis, the primary action of auxin that leads to cell elongation in shoots is:",
+      "options": [
+        "Activation of plasma membrane H+-ATPase causing wall acidification",
+        "Increase in cytosolic Ca2+ concentration",
+        "Synthesis of cellulose microfibrils",
+        "Inhibition of expansin proteins"
+      ],
+      "answer": 0,
+      "explanation": "Auxin rapidly activates plasma membrane H+-ATPases, pumping H+ into the cell wall space, lowering pH and activating wall‑loosening proteins, which permits cell expansion.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "Which plant hormone primarily promotes cell elongation in stems by stimulating both cell division and cell expansion?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins are well known for inducing stem elongation; they stimulate cell division in the apical meristem and enhance cell expansion in the elongation zone.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "Expansins facilitate cell elongation by:",
+      "options": [
+        "Hydrolyzing cellulose",
+        "Breaking hydrogen bonds between cellulose and hemicellulose",
+        "Cross‑linking pectins",
+        "Depolymerizing lignin"
+      ],
+      "answer": 1,
+      "explanation": "Expansins do not hydrolyze polymers; they disrupt non‑covalent hydrogen bonds linking cellulose microfibrils to hemicellulose, allowing the wall to extend under turgor pressure.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "In the presence of high auxin concentration, the lower side of a horizontally placed stem becomes elongated leading to upward bending (negative gravitropism). This response is mainly due to:",
+      "options": [
+        "Differential cell elongation caused by asymmetric auxin distribution",
+        "Uniform cell division",
+        "Differential stomatal opening",
+        "Unequal water uptake"
+      ],
+      "answer": 0,
+      "explanation": "Auxin is redistributed to the lower flank of the stem, where it promotes greater cell elongation, causing the stem to curve upward.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "Which of the following statements about the role of gibberellins in seedling growth is FALSE?",
+      "options": [
+        "They stimulate the synthesis of α‑amylase in aleurone cells",
+        "They promote cell elongation in the internodes",
+        "They inhibit stem elongation",
+        "They break seed dormancy"
+      ],
+      "answer": 2,
+      "explanation": "Gibberellins promote, not inhibit, stem elongation; the other statements correctly describe GA functions.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "The cell wall pH optimum for the activity of expansins during auxin‑induced elongation is approximately:",
+      "options": [
+        "4.5",
+        "5.5",
+        "6.5",
+        "7.5"
+      ],
+      "answer": 1,
+      "explanation": "Expansin activity peaks around pH 5.0–5.5, which is achieved after auxin‑stimulated proton extrusion.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "Which experimental observation supports the role of proton extrusion in auxin‑mediated cell elongation?",
+      "options": [
+        "Application of auxin leads to rapid alkalinization of the apoplast",
+        "Auxin treatment causes immediate increase in cytosolic K+ concentration",
+        "Auxin induces rapid acidification of the cell wall space",
+        "Auxin reduces the activity of plasma membrane H+-ATPase"
+      ],
+      "answer": 2,
+      "explanation": "Auxin rapidly activates H+-ATPases, causing the apoplastic (cell wall) space to become acidic, a key step in the acid growth mechanism.",
+      "topic": "Cell elongation"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for the curvature observed in phototropism?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Auxin (IAA) is redistributed to the shaded side of the shoot, promoting greater cell elongation there and causing the shoot to bend towards the light.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "In gravitropism of roots, the statoliths that sense gravity are located in which cell type?",
+      "options": [
+        "Root cap columella cells",
+        "Phloem companion cells",
+        "Xylem vessels",
+        "Guard cells"
+      ],
+      "answer": 0,
+      "explanation": "Amyloplast-rich statoliths reside in the columella cells of the root cap and settle under gravity, providing the directional signal for root growth.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "Positive phototropism in shoots is mediated by lateral redistribution of auxin to the shaded side. What is the resulting effect on cell elongation?",
+      "options": [
+        "Cells on shaded side elongate more causing curvature towards light",
+        "Cells on illuminated side elongate more causing curvature away",
+        "Both sides elongate equally",
+        "No elongation occurs"
+      ],
+      "answer": 0,
+      "explanation": "Higher auxin concentration on the shaded side stimulates cell elongation there, making that side longer and turning the shoot toward the light source.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "Thigmotropism, as seen in climbing plants, is best described by which mechanism?",
+      "options": [
+        "Differential growth due to auxin accumulation on the side opposite the touch",
+        "Increased cell division on touched side",
+        "Production of ethylene causing coiling",
+        "Accumulation of gibberellins at the tip"
+      ],
+      "answer": 0,
+      "explanation": "Touch induces auxin to accumulate on the side opposite the stimulus, leading to faster cell elongation there and causing the organ to coil around the support.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "Hydrotropism directs root growth toward moisture. Which experimental observation supports that hydrotropism is largely independent of auxin?",
+      "options": [
+        "Roots bend towards water even when auxin transport is blocked",
+        "Roots fail to bend towards water when auxin is applied",
+        "Water gradient causes increased gibberellin synthesis",
+        "Light gradient overrides water gradient"
+      ],
+      "answer": 0,
+      "explanation": "When auxin transport inhibitors (e.g., NPA) are applied, roots still exhibit curvature toward a water source, indicating that hydrotropic response does not rely primarily on auxin redistribution.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "In a coleoptile placed horizontally, the lower side becomes the convex side during gravitropic curvature. Which statement explains this phenomenon?",
+      "options": [
+        "Auxin accumulates on lower side inhibiting elongation",
+        "Auxin accumulates on upper side promoting elongation",
+        "Cytokinin accumulates on lower side promoting division",
+        "Ethylene accumulation on upper side causing inhibition"
+      ],
+      "answer": 1,
+      "explanation": "Gravity causes auxin to move to the upper side of the coleoptile, where it stimulates cell elongation, making the upper side longer and the lower side convex.",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "Which statement about negative gravitropism in shoots is correct?",
+      "options": [
+        "Shoots grow opposite to the direction of gravity due to auxin accumulation on the lower side",
+        "Shoots grow towards gravity because auxin accumulates on the upper side",
+        "Shoots are unaffected by gravity",
+        "Gravitropism in shoots is mediated by ethylene"
+      ],
+      "answer": 0,
+      "explanation": "In shoots, auxin accumulates on the lower side, enhancing cell elongation there, which pushes the shoot upward, i.e., opposite to the direction of gravity (negative gravitropism).",
+      "topic": "Tropisms"
+    },
+    {
+      "question": "Parthenocarpy in plants refers to which of the following processes?",
+      "options": [
+        "Development of fruit without fertilization of the ovary",
+        "Development of seeds without fruit formation",
+        "Abortion of seeds after fertilization",
+        "Formation of flowers without pollination"
+      ],
+      "answer": 0,
+      "explanation": "Parthenocarpy is the development of fruit without fertilization of the ovary, resulting in seedless fruits.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "Which plant hormone is most commonly applied exogenously to induce parthenocarpic fruit set in tomato plants?",
+      "options": [
+        "Ethylene",
+        "Abscisic acid",
+        "Auxin (e.g., NAA)",
+        "Cytokinin"
+      ],
+      "answer": 2,
+      "explanation": "Auxins such as NAA mimic the hormonal signal of fertilization and promote fruit growth without seed formation.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "How does parthenocarpy differ from stenospermocarpy?",
+      "options": [
+        "Parthenocarpy involves fertilization but seed abortion, while stenospermocarpy does not involve fertilization.",
+        "Parthenocarpy results in seedless fruit without fertilization; stenospermocarpy involves fertilization but the seeds abort.",
+        "Both processes are identical; the terms are interchangeable.",
+        "Parthenocarpy occurs only in monocots, whereas stenospermocarpy occurs only in dicots."
+      ],
+      "answer": 1,
+      "explanation": "Parthenocarpy is fruit development without fertilization, whereas stenospermocarpy involves fertilization followed by seed abortion.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "Which of the following fruits is a natural example of parthenocarpy?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Grapes",
+        "Tomato"
+      ],
+      "answer": 1,
+      "explanation": "Bananas develop without fertilization and are seedless, representing a natural case of parthenocarpy.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "In many horticultural crops, the application of which hormone can substitute for pollination and trigger parthenocarpic fruit set?",
+      "options": [
+        "Gibberellins (e.g., GA3)",
+        "Abscisic acid",
+        "Jasmonic acid",
+        "Salicylic acid"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins promote cell division and expansion in the ovary, mimicking pollination signals and inducing fruit set without fertilization.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "A major commercial advantage of parthenocarpic fruits is that they are:",
+      "options": [
+        "More resistant to fungal pathogens",
+        "Seedless, making them more acceptable to consumers",
+        "Larger in size than seeded counterparts",
+        "Able to photosynthesize independently"
+      ],
+      "answer": 1,
+      "explanation": "Seedlessness improves consumer preference and reduces processing steps, making parthenocarpic fruits valuable commercially.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "Mutations affecting which of the following pathways are most often associated with genetically induced parthenocarpy in tomato?",
+      "options": [
+        "Auxin signaling pathway",
+        "Ethylene biosynthesis pathway",
+        "Chlorophyll degradation pathway",
+        "Stomatal closure pathway"
+      ],
+      "answer": 0,
+      "explanation": "Alterations in auxin signaling can trigger fruit development without fertilization, leading to genetically parthenocarpic tomato mutants.",
+      "topic": "Parthenocarpy"
+    },
+    {
+      "question": "Which physiological process is most directly promoted by gibberellins in dicotyledonous plants?",
+      "options": [
+        "Stem elongation",
+        "Leaf abscission",
+        "Fruit ripening",
+        "Stomatal closure"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins stimulate cell elongation and division, leading to increased stem length, which is a hallmark effect in dicots.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "Gibberellins break seed dormancy primarily by inducing the synthesis of which enzyme that mobilizes stored food reserves?",
+      "options": [
+        "α‑amylase",
+        "Nitrate reductase",
+        "Peroxidase",
+        "Cellulase"
+      ],
+      "answer": 0,
+      "explanation": "GA activates transcription of α‑amylase genes in the aleurone layer, enabling starch hydrolysis to supply sugars for the growing embryo.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "A dwarf rice mutant defective in gibberellin biosynthesis can be restored to normal height by exogenous application of which compound?",
+      "options": [
+        "Paclobutrazol",
+        "GA₃ (gibberellic acid)",
+        "Abscisic acid",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "GA₃ directly supplies the missing hormone, rescuing the dwarf phenotype, whereas paclobutrazol is a GA biosynthesis inhibitor.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "In the gibberellin signaling pathway, the removal of growth‑repressing DELLA proteins is carried out by which cellular machinery?",
+      "options": [
+        "26S proteasome",
+        "Lysosomal autophagy",
+        "Vacuolar proteases",
+        "Peroxisomal β‑oxidation"
+      ],
+      "answer": 0,
+      "explanation": "GA perception leads to ubiquitination of DELLA proteins, targeting them for degradation by the 26S proteasome, thereby allowing growth responses.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "During seed germination, gibberellins and abscisic acid (ABA) interact in which manner?",
+      "options": [
+        "They act synergistically to promote germination",
+        "GA antagonizes ABA, reducing its inhibitory effect",
+        "ABA enhances GA biosynthesis",
+        "GA and ABA act independently"
+      ],
+      "answer": 1,
+      "explanation": "GA counteracts ABA’s dormancy‑maintaining action; high GA/low ABA ratios favor germination, while ABA suppresses GA synthesis.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "The classic \"triple response\" in seedlings is a hallmark of which hormone, and why is gibberellin not involved in this response?",
+      "options": [
+        "Ethylene; GA does not affect hypocotyl curvature",
+        "Auxin; GA inhibits root elongation",
+        "Cytokinin; GA promotes leaf expansion",
+        "Abscisic acid; GA induces seed dormancy"
+      ],
+      "answer": 0,
+      "explanation": "The triple response (inhibited elongation, thickening, and horizontal growth) is specific to ethylene signaling; gibberellins primarily promote elongation and are not part of this pathway.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "Exogenous application of gibberellic acid (GA₃) to a mature tomato plant most commonly results in which effect?",
+      "options": [
+        "Induction of parthenocarpic (seedless) fruit",
+        "Acceleration of leaf senescence",
+        "Inhibition of root growth",
+        "Decrease in flower number"
+      ],
+      "answer": 0,
+      "explanation": "GA₃ can stimulate fruit set without pollination, leading to parthenocarpic fruits, a useful horticultural practice.",
+      "topic": "Gibberellins"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for promoting stem elongation in dicotyledonous plants?",
+      "options": [
+        "Gibberellins",
+        "Cytokinins",
+        "Ethylene",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins stimulate cell division and elongation in stems, leading to increased internode length.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "GA‑deficient mutants of Arabidopsis typically exhibit which phenotype?",
+      "options": [
+        "Dwarf stature due to reduced internode length",
+        "Early flowering irrespective of photoperiod",
+        "Increased root hair density",
+        "Enhanced leaf senescence"
+      ],
+      "answer": 0,
+      "explanation": "Lack of gibberellins limits cell elongation in stems, producing a dwarf phenotype with short internodes.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "How does auxin facilitate stem elongation in conjunction with gibberellins?",
+      "options": [
+        "Auxin induces gibberellin biosynthesis",
+        "Auxin inhibits gibberellin catabolism",
+        "Auxin directly elongates cells independent of gibberellins",
+        "Auxin degrades gibberellin receptors"
+      ],
+      "answer": 0,
+      "explanation": "Auxin up‑regulates genes involved in gibberellin synthesis, thereby increasing GA levels that promote stem elongation.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "Which treatment is most likely to suppress stem elongation in a pea seedling?",
+      "options": [
+        "Application of paclobutrazol (a GA biosynthesis inhibitor)",
+        "Application of indole‑3‑acetic acid (IAA)",
+        "Application of kinetin (a cytokinin)",
+        "Application of ethylene gas"
+      ],
+      "answer": 0,
+      "explanation": "Paclobutrazol blocks gibberellin synthesis, reducing the hormonal stimulus for cell elongation and resulting in shorter stems.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "Dwarf (Rht) wheat varieties show reduced stem elongation because of a mutation in which component?",
+      "options": [
+        "Gibberellin receptor (GA signaling)",
+        "Gibberellin biosynthetic enzyme",
+        "Auxin efflux carrier",
+        "Ethylene receptor"
+      ],
+      "answer": 0,
+      "explanation": "Rht genes encode altered GA‑insensitive DELLA proteins; the mutation impairs GA signaling, limiting stem elongation.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "The immediate cellular change that leads to stem elongation under gibberellin action is:",
+      "options": [
+        "Increased cell wall extensibility",
+        "Increased chlorophyll synthesis",
+        "Increased mitochondrial respiration",
+        "Increased lignin deposition"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins activate enzymes that loosen the cell wall, allowing turgor‑driven expansion and thus stem elongation.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "High concentrations of ethylene have what effect on stem elongation?",
+      "options": [
+        "Inhibit stem elongation",
+        "Stimulate stem elongation",
+        "Leave stem elongation unchanged",
+        "First stimulate then inhibit stem elongation"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene generally suppresses cell elongation in stems, leading to shorter, thicker growth.",
+      "topic": "Stem elongation"
+    },
+    {
+      "question": "What does the term “bolting” refer to in plants?",
+      "options": [
+        "Rapid stem elongation leading to flower stalk formation as the plant shifts from vegetative to reproductive growth",
+        "Senescence of older leaves during the reproductive phase",
+        "Development of root hairs for increased water absorption",
+        "Breaking of seed dormancy under favorable conditions"
+      ],
+      "answer": 0,
+      "explanation": "Bolting is the transition from vegetative growth to reproductive growth characterized by a swift elongation of the stem and emergence of the inflorescence.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "Which plant hormone is most directly responsible for promoting bolting in long‑day plants?",
+      "options": [
+        "Abscisic acid",
+        "Gibberellins",
+        "Cytokinins",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins stimulate stem elongation and are the primary hormones that trigger bolting, especially under inductive photoperiods.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "The Arabidopsis mutant ga1‑3, which is deficient in gibberellin biosynthesis, exhibits which bolting phenotype under normal growth conditions?",
+      "options": [
+        "Early bolting compared with wild type",
+        "Failure to bolt (no stem elongation)",
+        "Normal bolting but reduced seed set",
+        "Increased leaf size without affecting bolting"
+      ],
+      "answer": 1,
+      "explanation": "GA‑deficient mutants cannot produce the gibberellin signal required for stem elongation, so they remain vegetative and do not bolt under standard conditions.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "Which environmental factor most strongly induces bolting in spinach cultivated under greenhouse conditions?",
+      "options": [
+        "Low temperature exposure",
+        "High nitrate concentration in the nutrient solution",
+        "Extended daylight (long photoperiod)",
+        "Waterlogging of the root zone"
+      ],
+      "answer": 2,
+      "explanation": "Spinach is a long‑day plant; a prolonged photoperiod stimulates gibberellin production, leading to premature bolting.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "In biennial crops such as carrot, vernalization influences bolting by:",
+      "options": [
+        "Delaying bolting until after the plant experiences a period of cold temperature",
+        "Accelerating bolting immediately after sowing",
+        "Having no effect on the timing of bolting",
+        "Inducing only root swelling without affecting stem growth"
+      ],
+      "answer": 0,
+      "explanation": "Vernalization provides the cold exposure required for the plant to satisfy its requirement for a prolonged low‑temperature period before it can bolt in the subsequent growing season.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "To minimize premature bolting in lettuce, a farmer should primarily:",
+      "options": [
+        "Raise the ambient temperature during the growing season",
+        "Provide a short day length or use shade nets to reduce photoperiod",
+        "Apply exogenous gibberellin sprays",
+        "Increase nitrogen fertilization rates"
+      ],
+      "answer": 1,
+      "explanation": "Shortening the effective day length reduces the photoperiodic stimulus for gibberellin synthesis, thereby delaying bolting in lettuce.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "The rapid stem elongation observed during bolting is mainly a result of:",
+      "options": [
+        "Increased cell division at the apical meristem",
+        "Cell expansion driven by acid growth mechanism",
+        "Lignification of cell walls making them rigid",
+        "Accumulation of starch reserves in stem tissues"
+      ],
+      "answer": 1,
+      "explanation": "Bolting involves cell wall loosening and water uptake (acid growth), leading to cell expansion rather than a large increase in cell number.",
+      "topic": "Bolting"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for maintaining seed dormancy?",
+      "options": [
+        "Abscisic acid",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Abscisic acid (ABA) accumulates during seed maturation and inhibits germination, thereby maintaining dormancy.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which treatment is most effective for breaking physical dormancy caused by a hard seed coat?",
+      "options": [
+        "Cold stratification",
+        "Scarification",
+        "After‑ripening",
+        "Light exposure"
+      ],
+      "answer": 1,
+      "explanation": "Scarification mechanically weakens or ruptures the hard seed coat, allowing water and gases to enter and germination to commence.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "In seeds where dormancy is physiological, which hormonal change best promotes germination?",
+      "options": [
+        "Increase GA and decrease ABA",
+        "Increase ABA and decrease GA",
+        "Increase cytokinin and ethylene",
+        "Increase auxin and cytokinin"
+      ],
+      "answer": 0,
+      "explanation": "Germination is favored by a rise in gibberellins (GA) that stimulate growth and a concurrent decline in abscisic acid (ABA) that relieves inhibition.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "After‑ripening of dry seeds mainly involves which biochemical alteration?",
+      "options": [
+        "Decrease in ABA content",
+        "Increase in seed moisture content",
+        "Synthesis of gibberellins",
+        "Activation of enzymes that degrade stored food"
+      ],
+      "answer": 0,
+      "explanation": "During after‑ripening, the seed’s sensitivity to ABA declines and its concentration often falls, reducing dormancy without the need for water uptake.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Cold stratification breaks seed dormancy primarily by:",
+      "options": [
+        "Enhancing GA biosynthesis",
+        "Reducing ABA levels",
+        "Increasing ethylene production",
+        "Promoting auxin transport"
+      ],
+      "answer": 0,
+      "explanation": "Exposure to low temperatures stimulates the synthesis of gibberellins, which counteract ABA and trigger germination.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which of the following is NOT a typical environmental cue that breaks seed dormancy?",
+      "options": [
+        "Light",
+        "Temperature fluctuations",
+        "Mechanical pressure",
+        "High CO₂ concentration"
+      ],
+      "answer": 3,
+      "explanation": "Light, temperature changes, and mechanical pressure are common cues; elevated CO₂ is not recognized as a dormancy‑breaking factor.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "In many leguminous seeds, dormancy associated with the seed coat is linked to which compound, and can be alleviated by scarification?",
+      "options": [
+        "Phenolic compounds",
+        "Alkaloids",
+        "Lipids",
+        "Starch"
+      ],
+      "answer": 0,
+      "explanation": "Phenolic compounds in the seed coat contribute to physical and chemical dormancy; scarification disrupts this barrier, allowing germination.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which part of a higher plant is the primary site for cytokinin biosynthesis?",
+      "options": [
+        "Root tips",
+        "Young leaves",
+        "Stems",
+        "Flowers"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins are synthesized predominantly in the root apical meristem and transported to aerial parts via the xylem.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "Cytokinins promote cell division by activating which class of enzymes?",
+      "options": [
+        "DNA polymerase",
+        "Cyclin-dependent kinase",
+        "RNA polymerase",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinins stimulate the synthesis of cyclins and activate cyclin-dependent kinases, driving the G1 to S phase transition.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "In plant tissue culture, a medium containing a higher concentration of cytokinin relative to auxin typically results in:",
+      "options": [
+        "Shoot formation",
+        "Root formation",
+        "Callus formation",
+        "Somatic embryogenesis"
+      ],
+      "answer": 0,
+      "explanation": "A high cytokinin-to-auxin ratio favors shoot organogenesis, whereas the opposite ratio promotes root formation.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "Which cytokinin is most commonly found as the free base in the sap of many dicotyledonous plants?",
+      "options": [
+        "Zeatin",
+        "Kinetin",
+        "Benzyladenine",
+        "Isopentenyladenine"
+      ],
+      "answer": 0,
+      "explanation": "Zeatin, a naturally occurring aromatic cytokinin, is the predominant cytokinin detected in the vascular sap of dicots.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "A high cytokinin/auxin ratio in a lateral bud leads to:",
+      "options": [
+        "Bud outgrowth",
+        "Bud dormancy",
+        "Increased apical growth",
+        "Leaf senescence"
+      ],
+      "answer": 0,
+      "explanation": "Elevated cytokinin relative to auxin releases apical dominance, allowing the lateral bud to break dormancy and develop into a shoot.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "Cytokinin delays leaf senescence mainly by:",
+      "options": [
+        "Stimulating chlorophyll synthesis",
+        "Inhibiting ethylene biosynthesis",
+        "Downregulating senescence‑associated genes",
+        "Increasing abscisic acid levels"
+      ],
+      "answer": 2,
+      "explanation": "Cytokinin suppresses the expression of senescence‑associated genes (SAGs), thereby prolonging leaf functional lifespan.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "Cytokinins are primarily transported in plants through which vascular tissue?",
+      "options": [
+        "Xylem from roots to shoots",
+        "Phloem from shoots to roots",
+        "Both xylem and phloem equally",
+        "They act only at the site of synthesis"
+      ],
+      "answer": 0,
+      "explanation": "After synthesis in roots, cytokinins move upward with the transpiration stream in the xylem to reach growing shoots.",
+      "topic": "Cytokinins"
+    },
+    {
+      "question": "Which plant hormone primarily promotes cell division in the shoot apical meristem?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Gibberellin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins are the main hormones that stimulate cell division in the shoot apical meristem, whereas auxin mainly influences cell elongation.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "In the plant cell cycle, the transition from G1 to S phase is mainly regulated by which type of cyclin?",
+      "options": [
+        "D-type cyclins",
+        "A-type cyclins",
+        "B-type cyclins",
+        "H-type cyclins"
+      ],
+      "answer": 0,
+      "explanation": "D-type cyclins bind to CDKs to drive the G1‑S transition, a key control point for initiating DNA replication.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "During cytokinesis in higher plants, the new cell wall is formed by the assembly of which structure?",
+      "options": [
+        "Cell plate",
+        "Phragmoplast",
+        "Spindle apparatus",
+        "Contractile ring"
+      ],
+      "answer": 0,
+      "explanation": "Plant cells build a cell plate at the centre of the dividing cell, which later develops into a new cell wall separating the two daughter cells.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Which statement correctly describes the interaction between auxin and cytokinin in cell division?",
+      "options": [
+        "Auxin directly activates cytokinin biosynthesis",
+        "Auxin inhibits cell division in the root meristem",
+        "Auxin synergistically works with cytokinin to promote cell division",
+        "Auxin replaces cytokinin function in shoot meristem"
+      ],
+      "answer": 2,
+      "explanation": "Auxin and cytokinin act synergistically; auxin promotes cell expansion while cytokinin stimulates division, together enhancing meristem activity.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "In plant tissue culture, a medium containing a high cytokinin to auxin ratio most often induces:",
+      "options": [
+        "Root formation",
+        "Shoot formation",
+        "Callus formation",
+        "No growth"
+      ],
+      "answer": 1,
+      "explanation": "A high cytokinin:auxin ratio favors shoot organogenesis, whereas a high auxin:cytokinin ratio promotes root formation.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Which phase of mitosis is characterized by the alignment of chromosomes at the metaphase plate?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "During metaphase, chromosomes line up along the equatorial plane (metaphase plate) before being separated.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "The plant retinoblastoma (Rb) protein regulates cell division by interacting with which transcription factor family?",
+      "options": [
+        "E2F",
+        "MYB",
+        "bZIP",
+        "NAC"
+      ],
+      "answer": 0,
+      "explanation": "Rb binds to E2F transcription factors, repressing genes required for S‑phase entry; phosphorylation releases E2F to activate DNA synthesis.",
+      "topic": "Cell division"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for delaying leaf senescence?",
+      "options": [
+        "Cytokinin",
+        "Ethylene",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins are known to postpone leaf senescence by maintaining chlorophyll and photosynthetic capacity, unlike ethylene and ABA which promote senescence.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "Cytokinin delays senescence by affecting which of the following processes?",
+      "options": [
+        "Promoting chlorophyll degradation",
+        "Inhibiting chlorophyll degradation",
+        "Enhancing ethylene synthesis",
+        "Stimulating abscisic acid accumulation"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinins inhibit the enzymes involved in chlorophyll breakdown, thereby preserving leaf greenness and delaying senescence.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "In tissue culture, addition of 6-benzylaminopurine (BAP) helps maintain shoot viability mainly because it:",
+      "options": [
+        "Increases cell elongation",
+        "Delays senescence of explants",
+        "Promotes root initiation",
+        "Enhances ethylene production"
+      ],
+      "answer": 1,
+      "explanation": "BAP, a synthetic cytokinin, suppresses senescence in cultured explants, allowing prolonged growth and regeneration.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "Which statement correctly describes the interaction between cytokinin and ethylene in leaf senescence?",
+      "options": [
+        "Cytokinin enhances ethylene synthesis leading to faster senescence",
+        "Cytokinin suppresses ethylene action thereby delaying senescence",
+        "Ethylene promotes cytokinin biosynthesis causing delayed senescence",
+        "Both hormones act synergistically to accelerate senescence"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinin antagonizes ethylene signaling; reduced ethylene response contributes to delayed senescence.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "A stay‑green mutant of Arabidopsis shows prolonged photosynthetic activity due to overexpression of genes involved in:",
+      "options": [
+        "Chlorophyll catabolism",
+        "Cytokinin biosynthesis",
+        "Ethylene perception",
+        "Abscisic acid signaling"
+      ],
+      "answer": 1,
+      "explanation": "Stay‑green phenotypes often result from elevated cytokinin levels, which maintain chlorophyll and photosynthetic gene expression.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "Which experimental observation would indicate that a treatment is effectively delaying senescence in detached leaves?",
+      "options": [
+        "Increased rate of water loss",
+        "Decrease in chlorophyll content",
+        "Maintenance of high photosynthetic CO2 assimilation",
+        "Upregulation of senescence‑associated genes"
+      ],
+      "answer": 2,
+      "explanation": "Sustained CO2 assimilation reflects preserved photosynthetic machinery, a hallmark of delayed senescence.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "In post‑harvest handling of leafy vegetables, application of cytokinin is used to:",
+      "options": [
+        "Accelerate ripening",
+        "Reduce water loss",
+        "Delay senescence and yellowing",
+        "Induce abscission of leaves"
+      ],
+      "answer": 2,
+      "explanation": "Cytokinin sprays retard yellowing by inhibiting chlorophyll degradation, extending marketable shelf life of leafy produce.",
+      "topic": "Delay of senescence"
+    },
+    {
+      "question": "Which of the following is NOT a physiological effect of ethylene in plants?",
+      "options": [
+        "Promotion of fruit ripening",
+        "Inhibition of seed germination",
+        "Induction of leaf senescence",
+        "Stimulation of root elongation"
+      ],
+      "answer": 3,
+      "explanation": "Ethylene promotes fruit ripening, can inhibit seed germination and induces leaf senescence, but it does not stimulate root elongation; rather it generally inhibits root growth.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "The \"triple response\" in etiolated seedlings includes all EXCEPT:",
+      "options": [
+        "Inhibition of stem elongation",
+        "Radial swelling of the stem",
+        "Exaggerated apical hook",
+        "Increased number of lateral roots"
+      ],
+      "answer": 3,
+      "explanation": "The triple response consists of inhibition of elongation, radial swelling, and a pronounced apical hook. Lateral root number is not part of this response.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "In climacteric fruits, the rise in ethylene production is associated with which metabolic change?",
+      "options": [
+        "Decrease in respiration rate",
+        "Increase in chlorophyll synthesis",
+        "Activation of cell wall degrading enzymes",
+        "Inhibition of sugar accumulation"
+      ],
+      "answer": 2,
+      "explanation": "Ethylene triggers the synthesis of enzymes such as polygalacturonase and cellulase that degrade cell walls, leading to softening of climacteric fruits.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "Which of the following statements correctly compares ethylene and abscisic acid (ABA) in relation to seed dormancy?",
+      "options": [
+        "Ethylene breaks seed dormancy while ABA induces it",
+        "Both ethylene and ABA promote seed dormancy",
+        "Ethylene and ABA have no effect on seed dormancy",
+        "ABA breaks dormancy while ethylene induces it"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene generally acts to break seed dormancy, whereas ABA is a key hormone that induces and maintains dormancy.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "The application of silver thiosulfate (STS) to flowers primarily affects which ethylene‑related process?",
+      "options": [
+        "Enhances ethylene synthesis",
+        "Blocks ethylene perception",
+        "Increases ethylene transport",
+        "Stimulates ethylene degradation"
+      ],
+      "answer": 1,
+      "explanation": "Silver ions in STS bind to ethylene receptors, preventing ethylene from being perceived, thereby delaying senescence and abscission.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "In the context of abscission, ethylene acts by:",
+      "options": [
+        "Up‑regulating cellulase and polygalacturonase genes in the abscission zone",
+        "Down‑regulating auxin transport to the leaf",
+        "Inhibiting cytokinin synthesis in the pedicel",
+        "Promoting lignin deposition in the abscission layer"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene induces expression of cell wall‑hydrolyzing enzymes such as cellulase and polygalacturonase in the abscission zone, facilitating organ separation.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "Which experimental observation would indicate that a fruit is non‑climacteric?",
+      "options": [
+        "A sharp peak in ethylene production coinciding with ripening",
+        "No significant increase in ethylene before ripening",
+        "Requirement of external ethylene for ripening",
+        "Rapid respiration increase during ripening"
+      ],
+      "answer": 1,
+      "explanation": "Non‑climacteric fruits do not show a marked rise in endogenous ethylene before ripening; they ripen without an ethylene burst.",
+      "topic": "Ethylene"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for initiating ripening in climacteric fruits?",
+      "options": [
+        "Ethylene",
+        "Auxin",
+        "Gibberellin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene acts as the key ripening hormone in climacteric fruits, triggering the cascade of biochemical changes associated with ripening.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "The sharp increase in respiration observed during climacteric fruit ripening is mainly due to activation of which metabolic pathway?",
+      "options": [
+        "Glycolysis",
+        "Pentose phosphate pathway",
+        "Tricarboxylic acid (TCA) cycle",
+        "Photorespiration"
+      ],
+      "answer": 2,
+      "explanation": "The climacteric rise in respiration reflects enhanced activity of the TCA cycle, providing ATP and metabolic intermediates for ripening processes.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "During fruit ripening, the conversion of stored starch into soluble sugars is catalyzed chiefly by which enzyme?",
+      "options": [
+        "Amylase",
+        "Pectin methylesterase",
+        "Polygalacturonase",
+        "Lipoxygenase"
+      ],
+      "answer": 0,
+      "explanation": "Amylases hydrolyze starch polymers into maltose and glucose, increasing the sweetness of ripening fruit.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "Which of the following changes is NOT typically observed during the ripening of climacteric fruits?",
+      "options": [
+        "Chlorophyll degradation",
+        "Increase in cell‑wall pectin solubilisation",
+        "Accumulation of anthocyanins",
+        "Decrease in ethylene production"
+      ],
+      "answer": 3,
+      "explanation": "Climacteric fruits show a rise, not a decrease, in ethylene production; the other listed changes are characteristic of ripening.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "Non‑climacteric fruits differ from climacteric fruits because they:",
+      "options": [
+        "Do not produce ethylene",
+        "Have a respiration peak independent of ethylene",
+        "Ripen without a marked rise in respiration",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Non‑climacteric fruits ripen without the characteristic respiratory climacteric; ethylene may still be involved but does not cause a respiration surge.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "Polygalacturonase contributes to fruit softening by:",
+      "options": [
+        "Hydrolyzing starch",
+        "Depolymerising pectin in the middle lamella",
+        "Synthesising cellulose",
+        "Oxidising lipids"
+      ],
+      "answer": 1,
+      "explanation": "Polygalacturonase breaks down pectic polysaccharides in the middle lamella, weakening cell‑cell adhesion and leading to softening.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "Application of 1‑MCP (1‑methylcyclopropene) to harvested fruit primarily delays ripening by:",
+      "options": [
+        "Inhibiting ethylene biosynthesis",
+        "Blocking ethylene perception",
+        "Enhancing abscisic acid levels",
+        "Stimulating auxin transport"
+      ],
+      "answer": 1,
+      "explanation": "1‑MCP binds to ethylene receptors, preventing ethylene from being perceived and thereby slowing the ripening cascade.",
+      "topic": "Fruit ripening"
+    },
+    {
+      "question": "Which plant hormone primarily promotes leaf abscission by stimulating cell‑wall hydrolytic enzymes in the abscission zone?",
+      "options": [
+        "Ethylene",
+        "Auxin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene induces the synthesis of cellulases, polygalacturonases and other hydrolytic enzymes that dissolve the middle lamella in the abscission zone, leading to organ separation.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "During leaf senescence, the first step in chlorophyll breakdown is removal of the central Mg ion. Which enzyme catalyses this step?",
+      "options": [
+        "Chlorophyllase",
+        "Mg‑dechelatase",
+        "Pheophytinase",
+        "Red chlorophyll catabolite reductase"
+      ],
+      "answer": 1,
+      "explanation": "Mg‑dechelatase removes the magnesium ion from chlorophyll a, converting it to pheophytin, the initial reaction in the chlorophyll catabolic pathway.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "After the cells of the abscission zone are separated, a protective layer forms over the exposed surface. This layer is mainly composed of which substance?",
+      "options": [
+        "Suberin layer",
+        "Cuticle",
+        "Periderm",
+        "Wound periderm"
+      ],
+      "answer": 0,
+      "explanation": "A suberin‑rich protective layer (often called a cork layer) is deposited on the exposed surface to prevent water loss and pathogen entry after abscission.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "How does auxin delay leaf abscission under normal conditions?",
+      "options": [
+        "Auxin promotes ethylene synthesis",
+        "Auxin maintains high auxin concentration in the abscission zone preventing ethylene action",
+        "Auxin degrades cell‑wall pectin",
+        "Auxin induces senescence‑associated genes"
+      ],
+      "answer": 1,
+      "explanation": "A sustained auxin flow from the leaf blade to the petiole keeps auxin levels high in the abscission zone, which suppresses ethylene‑induced enzyme activation and thus delays abscission.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "Senescence‑associated genes (SAGs) are up‑regulated during leaf senescence. Which type of protein is commonly encoded by SAGs?",
+      "options": [
+        "Rubisco",
+        "Chlorophyll a",
+        "Proteases",
+        "Starch synthase"
+      ],
+      "answer": 2,
+      "explanation": "Many SAGs encode proteases that degrade cellular proteins, allowing nitrogen to be remobilised to other parts of the plant during senescence.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "Ethylene‑induced fruit ripening involves activation of an enzyme that degrades pectin in the middle lamella. Which enzyme is it?",
+      "options": [
+        "Polygalacturonase",
+        "Cellulase",
+        "Pectin methylesterase",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "Polygalacturonase hydrolyses the α‑1,4‑glycosidic bonds in pectin, softening the fruit and contributing to the senescence‑like changes during ripening.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "Which environmental cue most strongly accelerates leaf senescence in deciduous trees?",
+      "options": [
+        "Short day length",
+        "High temperature",
+        "Low soil moisture",
+        "High CO₂ concentration"
+      ],
+      "answer": 0,
+      "explanation": "Shortening photoperiod in autumn triggers hormonal changes (reduced auxin, increased ethylene) that initiate leaf senescence and eventual abscission in deciduous species.",
+      "topic": "Senescence and abscission"
+    },
+    {
+      "question": "Which of the following is NOT a component of the triple response observed in etiolated seedlings exposed to ethylene?",
+      "options": [
+        "Inhibition of stem elongation",
+        "Promotion of root elongation",
+        "Formation of an apical hook",
+        "Radial swelling of the stem"
+      ],
+      "answer": 1,
+      "explanation": "The triple response consists of inhibition of stem elongation, formation of an apical hook, and radial swelling of the stem. Promotion of root elongation is not part of this response.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "In the triple response, the formation of the apical hook is primarily due to differential growth on which sides of the hypocotyl?",
+      "options": [
+        "Upper side vs lower side",
+        "Left side vs right side",
+        "Inner side vs outer side",
+        "Dorsal side vs ventral side"
+      ],
+      "answer": 2,
+      "explanation": "Ethylene causes the inner (concave) side of the hypocotyl to grow more slowly than the outer side, resulting in the characteristic apical hook.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "Which compound acts as a competitive inhibitor of ethylene binding to its receptor, thereby preventing the triple response in dark‑grown seedlings?",
+      "options": [
+        "Silver nitrate",
+        "Aminoethoxyvinylglycine (AVG)",
+        "1‑Methylcyclopropene (1‑MCP)",
+        "Ethephon"
+      ],
+      "answer": 2,
+      "explanation": "1‑MCP binds to the ethylene receptor, blocking ethylene perception and thus suppresses the triple response.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "The triple response is most prominently observed in seedlings of which plant species commonly used in laboratory studies?",
+      "options": [
+        "Arabidopsis thaliana",
+        "Zea mays",
+        "Glycine max",
+        "Phaseolus vulgaris"
+      ],
+      "answer": 0,
+      "explanation": "Arabidopsis thaliana seedlings are a standard model for studying the ethylene‑induced triple response.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "Which gene mutation leads to a constitutive triple response even in the absence of ethylene?",
+      "options": [
+        "etr1",
+        "ein2",
+        "ein3",
+        "ctr1"
+      ],
+      "answer": 3,
+      "explanation": "Mutations in CTR1, a negative regulator of ethylene signaling, cause a constitutive triple response without ethylene.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "During the triple response, the increase in stem thickness (radial swelling) is primarily due to which cellular process?",
+      "options": [
+        "Increased cell division",
+        "Cell elongation",
+        "Cell wall loosening",
+        "Cell expansion without division"
+      ],
+      "answer": 3,
+      "explanation": "Ethylene induces radial expansion of cells, increasing stem thickness without a major increase in cell division.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "Application of exogenous ethylene to dark‑grown seedlings results in which of the following changes in the ratio of length to width of the hypocotyl?",
+      "options": [
+        "Increase",
+        "Decrease",
+        "No change",
+        "First increase then decrease"
+      ],
+      "answer": 1,
+      "explanation": "Ethylene shortens the hypocotyl (reducing length) and promotes radial swelling (increasing width), thus decreasing the length‑to‑width ratio.",
+      "topic": "Triple response"
+    },
+    {
+      "question": "Which of the following processes is primarily promoted by abscisic acid in plants?",
+      "options": [
+        "Induction of seed dormancy",
+        "Fruit ripening",
+        "Cell elongation",
+        "Induction of flowering"
+      ],
+      "answer": 0,
+      "explanation": "ABA is the key hormone that induces and maintains seed dormancy, preventing premature germination.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "Abscisic acid induces stomatal closure by activating which type of ion channel in guard cells?",
+      "options": [
+        "Outward K⁺ channels (K⁺ efflux)",
+        "Inward K⁺ channels (K⁺ influx)",
+        "Cl⁻ influx channels",
+        "Plasma membrane H⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "ABA triggers activation of outward K⁺ channels, causing K⁺ efflux, loss of turgor in guard cells and stomatal closure.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "During drought‑induced stomatal closure, ABA raises the level of which secondary messenger in guard cells?",
+      "options": [
+        "cAMP",
+        "cGMP",
+        "Ca²⁺",
+        "IP₃"
+      ],
+      "answer": 2,
+      "explanation": "ABA signaling leads to a rapid increase in cytosolic Ca²⁺, which is essential for activating downstream ion channels that close stomata.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "ABA inhibits seed germination mainly by suppressing the synthesis of which enzyme?",
+      "options": [
+        "α‑amylase",
+        "β‑amylase",
+        "GA 20‑oxidase",
+        "ACC synthase"
+      ],
+      "answer": 0,
+      "explanation": "ABA down‑regulates α‑amylase production, limiting starch breakdown and thus preventing embryo growth during dormancy.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "Which physiological process shows antagonistic regulation by abscisic acid and ethylene?",
+      "options": [
+        "Fruit ripening",
+        "Seed dormancy",
+        "Leaf senescence",
+        "Stomatal opening"
+      ],
+      "answer": 1,
+      "explanation": "ABA promotes seed dormancy, whereas ethylene counteracts this effect and promotes dormancy break and germination.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "The first committed step in abscisic acid biosynthesis is the cleavage of which carotenoid?",
+      "options": [
+        "β‑carotene",
+        "Violaxanthin",
+        "Lutein",
+        "Zeaxanthin"
+      ],
+      "answer": 1,
+      "explanation": "Violaxanthin (or its isomer neoxanthin) is cleaved by 9‑cis‑epoxycarotenoid dioxygenase, initiating ABA biosynthesis.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "In response to salinity stress, abscisic acid helps the plant by:",
+      "options": [
+        "Increasing Na⁺ uptake from soil",
+        "Inducing expression of Na⁺/H⁺ antiporters that sequester Na⁺ into vacuoles",
+        "Promoting leaf expansion to dilute salts",
+        "Suppressing synthesis of osmoprotectants"
+      ],
+      "answer": 1,
+      "explanation": "ABA up‑regulates genes encoding Na⁺/H⁺ antiporters (e.g., NHX), facilitating vacuolar sequestration of Na⁺ and enhancing salt tolerance.",
+      "topic": "Abscisic acid"
+    },
+    {
+      "question": "Which statement best describes physiological dormancy in seeds?",
+      "options": [
+        "The seed coat is impermeable to water",
+        "The embryo requires an after‑ripening period before germination",
+        "Embryo growth is inhibited by a high ABA to GA ratio",
+        "The seed contains an undeveloped embryo"
+      ],
+      "answer": 2,
+      "explanation": "Physiological dormancy is caused by internal hormonal inhibition, primarily a high abscisic acid (ABA) level relative to gibberellins (GA), preventing embryo growth despite favorable external conditions.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Cold stratification breaks dormancy in many temperate seeds mainly by altering which hormonal balance?",
+      "options": [
+        "Increasing ABA concentration",
+        "Decreasing GA synthesis",
+        "Decreasing ABA and increasing GA levels",
+        "Increasing ethylene production"
+      ],
+      "answer": 2,
+      "explanation": "Cold stratification reduces ABA levels and stimulates GA biosynthesis, shifting the hormonal balance toward germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "In seeds that exhibit physical dormancy, the primary barrier to germination is:",
+      "options": [
+        "High endogenous ABA",
+        "An impermeable seed coat",
+        "An immature embryo",
+        "Requirement for low temperature"
+      ],
+      "answer": 1,
+      "explanation": "Physical dormancy is caused by a water‑impermeable seed coat that prevents imbibition, the first step required for germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which treatment is most effective for breaking hard seed‑coat (physical) dormancy in many leguminous seeds?",
+      "options": [
+        "Application of GA3 solution",
+        "Scarification with sandpaper or a file",
+        "Cold stratification at 4 °C for several weeks",
+        "Application of an ABA antagonist"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical scarification physically damages the impermeable seed coat, allowing water uptake and thus breaking physical dormancy.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "The term \"after‑ripening\" in seed biology refers to:",
+      "options": [
+        "Immediate germination after dispersal",
+        "A period of dry storage that reduces dormancy",
+        "Hormonal induction of dormancy by ABA",
+        "Mechanical damage to the seed coat"
+      ],
+      "answer": 1,
+      "explanation": "After‑ripening is a dry storage phase during which physiological changes (often a decline in ABA) lower dormancy, enabling later germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "In Arabidopsis, the mutant \"aba1\" shows which seed behavior compared with wild type?",
+      "options": [
+        "Enhanced dormancy",
+        "No change in dormancy",
+        "Reduced dormancy and faster germination",
+        "Seed lethality"
+      ],
+      "answer": 2,
+      "explanation": "The aba1 mutant is deficient in ABA biosynthesis, leading to lower ABA levels, reduced dormancy, and earlier germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which statement about gibberellins (GA) in seed dormancy is correct?",
+      "options": [
+        "GA synthesis is required for maintaining dormancy",
+        "GA antagonizes ABA to promote germination",
+        "GA levels are irrelevant to dormancy status",
+        "GA inhibits radicle protrusion"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins promote germination by counteracting ABA; increased GA levels or sensitivity break dormancy, whereas low GA contributes to dormancy maintenance.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for inducing stomatal closure during drought stress?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Ethylene",
+        "Cytokinin",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "ABA accumulates in leaves under water‑deficit conditions and triggers a signalling cascade that leads to guard‑cell ion efflux and stomatal closure.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "In guard cells, an increase in cytosolic Ca²⁺ activates which type of ion channel that promotes stomatal closure?",
+      "options": [
+        "Outward‑rectifying K⁺ channels",
+        "Inward‑rectifying K⁺ channels",
+        "Aquaporins",
+        "Plasma‑membrane H⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "Elevated Ca²⁺ activates outward‑rectifying K⁺ channels, allowing K⁺ to leave the guard cells, reducing turgor and causing closure.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "Which of the following events is NOT associated with ABA‑induced stomatal closure?",
+      "options": [
+        "Activation of plasma‑membrane H⁺‑ATPase",
+        "Efflux of K⁺ ions from guard cells",
+        "Decrease in guard‑cell turgor",
+        "Production of reactive oxygen species (ROS)"
+      ],
+      "answer": 0,
+      "explanation": "Activation of the H⁺‑ATPase pumps protons out, hyperpolarising the membrane and favoring K⁺ uptake, which promotes opening, not closure.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "Stomatal closure in response to elevated atmospheric CO₂ is mainly mediated by a decrease in which ion inside guard cells?",
+      "options": [
+        "Cytosolic Ca²⁺",
+        "Cytosolic K⁺",
+        "Cytosolic Cl⁻",
+        "Cytosolic Mg²⁺"
+      ],
+      "answer": 1,
+      "explanation": "High CO₂ triggers K⁺ efflux from guard cells, lowering their osmotic potential and leading to loss of turgor and closure.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "Which treatment is most likely to prevent ABA‑induced stomatal closure?",
+      "options": [
+        "Application of fusicoccin",
+        "Application of a calcium‑channel blocker",
+        "Application of a nitric‑oxide donor",
+        "Application of ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Fusicoccin activates the plasma‑membrane H⁺‑ATPase, maintaining guard‑cell turgor and keeping stomata open even in the presence of ABA.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "During stomatal closure, guard cells primarily lose turgor due to efflux of which pair of ions?",
+      "options": [
+        "K⁺ and Cl⁻",
+        "Na⁺ and Ca²⁺",
+        "Mg²⁺ and PO₄³⁻",
+        "H⁺ and NO₃⁻"
+      ],
+      "answer": 0,
+      "explanation": "ABA signalling causes K⁺ and accompanying anions such as Cl⁻ to exit the guard cells, decreasing osmotic pressure and turgor.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "What is the role of reactive oxygen species (ROS) in ABA‑mediated stomatal closure?",
+      "options": [
+        "ROS act as secondary messengers that activate Ca²⁺ channels",
+        "ROS directly open the stomatal pore",
+        "ROS inhibit ABA biosynthesis",
+        "ROS cause degradation of the guard‑cell wall"
+      ],
+      "answer": 0,
+      "explanation": "ROS generated after ABA perception function as secondary messengers, leading to activation of Ca²⁺ channels and downstream events that result in closure.",
+      "topic": "Stomatal closure"
+    },
+    {
+      "question": "Which plant hormone is primarily referred to as the “stress hormone” that accumulates during drought conditions?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Ethylene",
+        "Cytokinin",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "ABA levels rise rapidly in response to water deficit, making it the principal stress hormone in plants.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "ABA induces stomatal closure by promoting which ion channel activity in guard cells?",
+      "options": [
+        "Activation of outward K⁺ efflux channels",
+        "Activation of Ca²⁺ influx channels",
+        "Activation of Cl⁻ influx channels",
+        "Activation of H⁺‑ATPase"
+      ],
+      "answer": 0,
+      "explanation": "ABA triggers opening of outward K⁺ channels, causing K⁺ loss, water efflux, and guard‑cell shrinkage leading to stomatal closure.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "In maintaining seed dormancy, ABA primarily inhibits the synthesis of which enzyme?",
+      "options": [
+        "α‑amylase",
+        "GA 20‑oxidase",
+        "Sucrose synthase",
+        "Rubisco"
+      ],
+      "answer": 0,
+      "explanation": "ABA suppresses α‑amylase production, preventing starch breakdown and thus keeping the seed dormant.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "Which environmental stimulus does NOT typically cause a marked increase in ABA concentration?",
+      "options": [
+        "Drought stress",
+        "High salinity",
+        "Cold stress",
+        "High light intensity"
+      ],
+      "answer": 3,
+      "explanation": "While drought, salinity, and cold all elevate ABA, high light intensity alone does not consistently raise ABA levels.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "ABA perception involves PYR/PYL/RCAR receptors that, upon binding ABA, inhibit which class of protein phosphatases?",
+      "options": [
+        "PP2C phosphatases",
+        "PP1 phosphatases",
+        "PP2A phosphatases",
+        "PP5 phosphatases"
+      ],
+      "answer": 0,
+      "explanation": "The PYR/PYL/RCAR‑ABA complex inhibits PP2C phosphatases, allowing downstream SnRK2 kinases to activate stress‑responsive genes.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "ABA and ethylene often act antagonistically during fruit ripening. Which statement best describes this antagonism?",
+      "options": [
+        "ABA promotes ripening while ethylene inhibits it",
+        "ABA delays ripening by maintaining seed dormancy",
+        "ABA suppresses ethylene synthesis, leading to delayed ripening",
+        "ABA enhances ethylene sensitivity in ripening tissues"
+      ],
+      "answer": 2,
+      "explanation": "Elevated ABA can down‑regulate ethylene biosynthetic genes, thereby postponing the ripening process.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "During water deficit, ABA‑induced expression of stress‑responsive genes is mediated mainly by which transcription‑factor family?",
+      "options": [
+        "MYB",
+        "bZIP (ABF/AREB)",
+        "NAC",
+        "WRKY"
+      ],
+      "answer": 1,
+      "explanation": "ABA activates bZIP transcription factors that bind ABRE elements in promoters of drought‑responsive genes.",
+      "topic": "Stress hormone concept"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for promoting fruit ripening, while the other hormone generally inhibits this process?",
+      "options": [
+        "Ethylene promotes fruit ripening, ABA inhibits it",
+        "ABA promotes fruit ripening, Ethylene inhibits it",
+        "Both ethylene and ABA promote fruit ripening",
+        "Both ethylene and ABA inhibit fruit ripening"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene is the key ripening hormone; ABA generally delays ripening.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "During drought stress, which hormone accumulates to induce stomatal closure, whereas the other accumulates under water‑logged conditions to promote leaf senescence?",
+      "options": [
+        "ABA accumulates during drought, Ethylene accumulates during water‑logging",
+        "Ethylene accumulates during drought, ABA accumulates during water‑logging",
+        "Both hormones accumulate during drought",
+        "Both hormones accumulate during water‑logging"
+      ],
+      "answer": 0,
+      "explanation": "ABA mediates stomatal closure in drought; ethylene builds up in flooded tissues causing senescence.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "In seed physiology, which hormone maintains dormancy and which hormone can break dormancy by counteracting the former?",
+      "options": [
+        "ABA maintains dormancy, Ethylene breaks dormancy",
+        "Ethylene maintains dormancy, ABA breaks dormancy",
+        "Both maintain dormancy",
+        "Both break dormancy"
+      ],
+      "answer": 0,
+      "explanation": "ABA is the dormancy‑maintaining hormone; ethylene promotes germination by overcoming ABA effects.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "The 'triple response' (inhibition of stem elongation, radial swelling, and exaggerated curvature) in dark‑grown seedlings is induced by which hormone, and which hormone is not involved in this response?",
+      "options": [
+        "Ethylene induces the triple response, ABA is not involved",
+        "ABA induces the triple response, Ethylene is not involved",
+        "Both ethylene and ABA induce the triple response",
+        "Neither ethylene nor ABA induce the triple response"
+      ],
+      "answer": 0,
+      "explanation": "The triple response is a classic ethylene effect; ABA does not cause it.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "Which hormone primarily promotes leaf abscission by stimulating cell separation in the abscission zone, while the other generally delays abscission?",
+      "options": [
+        "Ethylene promotes abscission, ABA delays it",
+        "ABA promotes abscission, Ethylene delays it",
+        "Both promote abscission",
+        "Both delay abscission"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene accelerates abscission; ABA often acts antagonistically, delaying the process.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "Exogenous application of which hormone can overcome the inhibitory effect of the other on seed germination, illustrating an antagonistic interaction?",
+      "options": [
+        "Ethylene overcomes ABA inhibition",
+        "ABA overcomes Ethylene inhibition",
+        "Both hormones synergistically inhibit germination",
+        "Neither hormone affects the other's action"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene can counteract ABA‑induced dormancy, allowing germination.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "The immediate biosynthetic precursor of ethylene is ACC, whereas the immediate precursor of ABA is derived from which class of compounds?",
+      "options": [
+        "Carotenoids",
+        "Amino acids",
+        "Fatty acids",
+        "Phenylpropanoids"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene is synthesized from 1‑aminocyclopropane‑1‑carboxylic acid (ACC); ABA is synthesized from carotenoid cleavage products.",
+      "topic": "Ethylene versus ABA"
+    },
+    {
+      "question": "Which plant growth regulator primarily promotes stem elongation and also breaks seed dormancy?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins stimulate cell elongation in shoots and are essential for breaking seed dormancy, unlike auxin, cytokinin or ethylene.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "In apical dominance, removal of the apical bud leads to outgrowth of lateral buds because the concentration of which hormone decreases?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Ethylene",
+        "Abscisic acid"
+      ],
+      "answer": 1,
+      "explanation": "The apical bud synthesizes auxin, which suppresses lateral bud growth; its removal lowers auxin levels, allowing lateral buds to develop.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "Match the hormone with its primary physiological effect:",
+      "options": [
+        "Cytokinin – delay of senescence",
+        "Ethylene – promotion of cell division",
+        "Abscisic acid – induction of fruit ripening",
+        "Auxin – induction of stomatal closure"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinins are known to delay leaf senescence, whereas ethylene promotes senescence, ABA induces fruit ripening in some fruits, and auxin does not directly cause stomatal closure.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "During climacteric fruit ripening, which hormone is responsible for the characteristic rise in respiration and softening?",
+      "options": [
+        "Ethylene",
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene is the key hormone that triggers the climacteric rise in respiration, leading to ripening-associated changes such as softening.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "Which hormone antagonizes gibberellin action to maintain seed dormancy?",
+      "options": [
+        "Abscisic acid",
+        "Cytokinin",
+        "Auxin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Abscisic acid (ABA) promotes and maintains seed dormancy, counteracting the germination‑promoting effects of gibberellins.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "In tissue culture, a medium with high cytokinin and low auxin favours which developmental response?",
+      "options": [
+        "Root formation",
+        "Shoot proliferation",
+        "Callus formation",
+        "Somatic embryogenesis"
+      ],
+      "answer": 1,
+      "explanation": "A high cytokinin to auxin ratio promotes shoot bud formation, whereas the opposite ratio favours root development; balanced ratios often induce callus.",
+      "topic": "Integrated plant growth regulator revision"
+    },
+    {
+      "question": "Which statement best describes the interaction between ethylene and abscisic acid (ABA) during drought stress?",
+      "options": [
+        "Ethylene enhances stomatal opening while ABA promotes closure",
+        "Both hormones synergistically induce stomatal closure",
+        "ABA suppresses ethylene synthesis",
+        "Ethylene overrides ABA effect leading to stomatal opening"
+      ],
+      "answer": 0,
+      "explanation": "During drought, ABA is the primary signal for stomatal closure, while ethylene can counteract this effect by promoting stomatal opening, illustrating their antagonistic interaction.",
+      "topic": "Integrated plant growth regulator revision"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 26,
+    "mcqCount": 184
+  }
+}

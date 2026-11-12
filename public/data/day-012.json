@@ -1,0 +1,805 @@
+{
+  "day": 12,
+  "courseDate": "2026-09-10",
+  "publishAt": "2026-09-10T06:00:00+05:30",
+  "title": "Day 12: Endomembrane System and Organelles",
+  "introduction": "This lesson explores the endomembrane system of eukaryotic cells, detailing the structure, function, and inter‑relationships of the endoplasmic reticulum, ribosomes, Golgi apparatus, lysosomes, vacuoles and the processes of secretion and intracellular transport.",
+  "sections": [
+    {
+      "topic": "Endoplasmic reticulum",
+      "heading": "Endoplasmic Reticulum (ER): Structure and Functions",
+      "content": "The ER is a continuous membrane network extending from the nuclear envelope. It exists as rough ER (RER) studded with ribosomes on its cytoplasmic surface and smooth ER (SER) lacking ribosomes. RER synthesises membrane‑bound and secretory proteins; nascent polypeptides enter the lumen for folding and post‑translational modifications. SER functions in lipid synthesis, detoxification, calcium storage and carbohydrate metabolism. The ER lumen provides an oxidising environment for disulphide bond formation. Both forms are interconnected, allowing material exchange and coordinated regulation of biosynthetic pathways.",
+      "keyPoints": [
+        "RER is characterized by ribosome‑studded membranes; SER lacks ribosomes",
+        "RER synthesises secretory and membrane proteins; SER synthesises lipids and detoxifies drugs",
+        "ER lumen is the site of protein folding, glycosylation and disulphide bond formation",
+        "ER forms a continuous network with the nuclear envelope",
+        "RER vs SER distinction is a high‑yield NEET focus"
+      ],
+      "neetTips": [
+        "Remember RER = Rough (ribosome‑covered) → protein synthesis; SER = Smooth → lipid synthesis"
+      ]
+    },
+    {
+      "topic": "Ribosomes",
+      "heading": "Ribosomes: Structure, Types and Role in Protein Synthesis",
+      "content": "Ribosomes are ribonucleoprotein complexes composed of a small 40S subunit (18S rRNA + proteins) and a large 60S subunit (28S, 5.8S, 5S rRNAs + proteins). They exist free in the cytosol or attached to the RER. Free ribosomes synthesize cytosolic proteins, while attached ribosomes translate proteins destined for membranes, secretion or organelles. Translation proceeds through initiation, elongation and termination, with the nascent polypeptide entering the ER lumen via the translocon channel when ribosomes are membrane‑bound.",
+      "keyPoints": [
+        "Ribosome = 40S + 60S subunits; rRNA provides catalytic core",
+        "Free ribosomes → cytosolic proteins; attached ribosomes → secretory/membrane proteins",
+        "Attachment occurs via signal peptide recognition and the SRP pathway",
+        "Ribosomes are the site of peptide bond formation"
+      ],
+      "neetTips": [
+        "Signal peptide directs ribosome‑nascent chain to the RER – a classic NEET question"
+      ]
+    },
+    {
+      "topic": "Golgi apparatus",
+      "heading": "Golgi Apparatus: Architecture and Cellular Roles",
+      "content": "The Golgi consists of stacked cisternae with a cis face (receiving vesicles from ER) and a trans face (dispatching vesicles). It modifies proteins (N‑glycosylation, O‑glycosylation, sulfation), sorts them into secretory, lysosomal or plasma‑membrane pathways, and packages them into vesicles. The cisternal maturation model explains how cargo progresses from cis to trans while Golgi enzymes recycle backward.",
+      "keyPoints": [
+        "Cis face receives ER‑derived vesicles; trans face releases sorted vesicles",
+        "Key functions: protein modification, sorting, packaging",
+        "Glycosylation steps are sequential across cis‑medial‑trans cisternae",
+        "Golgi‑derived vesicles acquire specific coat proteins (e.g., clathrin for lysosomal targeting)"
+      ],
+      "neetTips": [
+        "Cis‑trans polarity is essential for NEET‑style sorting questions"
+      ]
+    },
+    {
+      "topic": "Lysosomes",
+      "heading": "Lysosomes: Digestive Organelles",
+      "content": "Lysosomes are membrane‑bound vesicles containing hydrolytic enzymes (acid hydrolases) active at pH ≈ 5. They originate from the Golgi and receive enzymes via mannose‑6‑phosphate tagging. Lysosomes mediate intracellular digestion of macromolecules delivered by endocytosis, autophagy or phagocytosis, and recycle breakdown products. Membrane stability is crucial; leakage leads to cell death.",
+      "keyPoints": [
+        "Lysosomal enzymes are tagged with mannose‑6‑phosphate in the Golgi",
+        "Acidic interior enables hydrolysis of proteins, lipids, nucleic acids, carbohydrates",
+        "Involved in autophagy and removal of damaged organelles",
+        "Lysosomal membrane integrity is vital for cell survival"
+      ],
+      "neetTips": [
+        "Mannose‑6‑P tagging is a frequent NEET fact"
+      ]
+    },
+    {
+      "topic": "Vacuoles",
+      "heading": "Vacuoles in Plant Cells",
+      "content": "Plant vacuoles are large, central, membrane‑bounded compartments surrounded by the tonoplast. They store water, ions, metabolites and waste, maintaining turgor pressure. The cell sap contains enzymes, pigments and secondary metabolites. Vacuoles also participate in intracellular digestion and recycling, analogous to lysosomes, and in seed storage.",
+      "keyPoints": [
+        "Tonoplast is the vacuolar membrane controlling selective transport",
+        "Cell sap composition varies with cell type and developmental stage",
+        "Vacuoles maintain turgor, store nutrients and degrade macromolecules",
+        "Plant vacuoles are functionally similar to animal lysosomes"
+      ],
+      "neetTips": [
+        "Link vacuole functions to turgor pressure – a high‑yield concept"
+      ]
+    },
+    {
+      "topic": "Endomembrane system",
+      "heading": "Endomembrane System: Integrated Network",
+      "content": "The endomembrane system comprises the nuclear envelope, ER, Golgi apparatus, vesicles, lysosomes, vacuoles and plasma membrane. Membrane continuity allows material flow: proteins enter the ER, move to Golgi for modification, are sorted into vesicles that fuse with lysosomes, vacuoles or the plasma membrane. This coordinated pathway ensures synthesis, modification, transport, storage and digestion within the cell.",
+      "keyPoints": [
+        "All organelles are interconnected by membrane continuity",
+        "ER → Golgi → vesicles → lysosome/vacuole/plasma membrane",
+        "Sorting signals (signal peptide, KDEL, mannose‑6‑P) dictate destination",
+        "Systemic coordination is essential for cellular homeostasis"
+      ],
+      "neetTips": [
+        "Visualise the flow: RER → Golgi → secretory vesicle → plasma membrane"
+      ]
+    },
+    {
+      "topic": "Cell secretion",
+      "heading": "Cell Secretion: Pathways and Mechanisms",
+      "content": "Secretory proteins follow the constitutive or regulated pathway. In the constitutive route, proteins exit the ER, traverse the Golgi, and are packaged into transport vesicles that fuse with the plasma membrane, releasing contents continuously. In the regulated pathway, proteins are stored in secretory granules and released upon specific stimuli (e.g., hormones). Vesicle docking and fusion involve SNARE proteins and calcium ions.",
+      "keyPoints": [
+        "Constitutive secretion is continuous; regulated secretion requires a trigger",
+        "SNARE complex mediates vesicle‑plasma membrane fusion",
+        "Calcium influx is the final cue for regulated exocytosis",
+        "Secretory granules originate from the trans‑Golgi network"
+      ],
+      "neetTips": [
+        "SNARE‑mediated fusion is a classic NEET diagram point"
+      ]
+    },
+    {
+      "topic": "Intracellular transport",
+      "heading": "Intracellular Transport: Vesicular Trafficking",
+      "content": "Vesicular transport relies on coat proteins (COPI, COPII, clathrin) that shape vesicles and select cargo. COPII mediates ER‑to‑Golgi forward transport; COPI mediates retrograde Golgi‑to‑ER recycling. Vesicles move along cytoskeletal tracks (microtubules) using motor proteins (kinesin for anterograde, dynein for retrograde). Fusion is governed by Rab GTPases and tethering factors.",
+      "keyPoints": [
+        "COPII coats ER‑derived vesicles; COPI coats retrograde vesicles",
+        "Clathrin coats vesicles destined for endosomes or lysosomes",
+        "Kinesin moves vesicles toward the plus end (cell periphery); dynein moves toward the minus end (cell centre)",
+        "Rab GTPases provide specificity to vesicle docking"
+      ],
+      "neetTips": [
+        "Remember COPII = forward (ER→Golgi), COPI = backward (Golgi→ER)"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand how the endomembrane system coordinates synthesis, modification, transport, storage and digestion within eukaryotic cells."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following statements correctly distinguishes rough endoplasmic reticulum from smooth endoplasmic reticulum?",
+      "options": [
+        "Rough ER has ribosomes on its cytoplasmic surface, while smooth ER lacks ribosomes",
+        "Rough ER is primarily involved in lipid synthesis, whereas smooth ER synthesizes proteins",
+        "Rough ER is found only in plant cells and smooth ER only in animal cells",
+        "Rough ER stores calcium ions, whereas smooth ER does not"
+      ],
+      "answer": 0,
+      "explanation": "Rough ER is studded with ribosomes on its cytoplasmic side, giving it a granular appearance; smooth ER lacks these ribosomes.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "The primary site for synthesis of secretory proteins in a eukaryotic cell is",
+      "options": [
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "answer": 1,
+      "explanation": "Secretory and membrane proteins are co‑translationally inserted into the rough ER where synthesis begins.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "Which process occurs predominantly in the smooth endoplasmic reticulum of hepatic cells?",
+      "options": [
+        "Glycosylation of nascent proteins",
+        "Detoxification of xenobiotics",
+        "Assembly of ribosomal subunits",
+        "Formation of transport vesicles"
+      ],
+      "answer": 1,
+      "explanation": "Hepatocyte smooth ER contains enzymes (e.g., cytochrome P450) that metabolize drugs and toxins.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "In the endomembrane system, transport vesicles that move from the rough ER to the Golgi apparatus bud from which region of the ER?",
+      "options": [
+        "Cisternal lumen",
+        "Cytoplasmic surface of rough ER",
+        "Trans face of Golgi apparatus",
+        "Nuclear envelope"
+      ],
+      "answer": 1,
+      "explanation": "COPII-coated vesicles bud from the cytoplasmic (trans) side of the rough ER and carry cargo to the Golgi.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "Which of the following is NOT a function of the endoplasmic reticulum?",
+      "options": [
+        "Synthesis of phospholipids",
+        "Calcium ion storage",
+        "Protein folding and quality control",
+        "ATP production via oxidative phosphorylation"
+      ],
+      "answer": 3,
+      "explanation": "ATP generation by oxidative phosphorylation occurs in mitochondria, not in the ER.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "A mutation that prevents ribosome attachment to the ER membrane would most likely affect which cellular process?",
+      "options": [
+        "Synthesis of mitochondrial proteins",
+        "Production of secretory and membrane proteins",
+        "Glycogen breakdown",
+        "DNA replication"
+      ],
+      "answer": 1,
+      "explanation": "Without ribosome attachment, co‑translational insertion of secretory and membrane proteins into the ER cannot occur.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "Which statement best describes the relationship between the endoplasmic reticulum and the Golgi apparatus?",
+      "options": [
+        "The Golgi modifies proteins and lipids synthesized in the ER and then packages them into vesicles for transport",
+        "The ER receives processed proteins from the Golgi for recycling",
+        "The Golgi synthesizes ribosomes that are transferred to the ER",
+        "The ER and Golgi function independently without vesicular transport"
+      ],
+      "answer": 0,
+      "explanation": "Proteins and lipids exit the ER in transport vesicles, reach the Golgi where they are modified, sorted, and dispatched to their final destinations.",
+      "topic": "Endoplasmic reticulum"
+    },
+    {
+      "question": "Which statement correctly distinguishes free ribosomes from membrane‑bound ribosomes in eukaryotic cells?",
+      "options": [
+        "Free ribosomes synthesize proteins that function within the cytosol",
+        "Free ribosomes synthesize proteins destined for secretion",
+        "Membrane‑bound ribosomes synthesize proteins that function within the cytosol",
+        "Membrane‑bound ribosomes are only found in prokaryotes"
+      ],
+      "answer": 0,
+      "explanation": "Free ribosomes translate cytosolic proteins, whereas ribosomes attached to the rough ER synthesize proteins that enter the secretory pathway.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "The catalytic activity of peptide‑bond formation in a ribosome is carried out by which type of RNA?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "answer": 2,
+      "explanation": "The ribosomal RNA (rRNA) in the large subunit possesses peptidyl‑transferase activity, making the ribosome a ribozyme.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "In eukaryotes, the small (40S) ribosomal subunit contains how many distinct rRNA molecules?",
+      "options": [
+        "One (18S rRNA)",
+        "Two (18S and 5.8S)",
+        "Three (18S, 5.8S, 28S)",
+        "Four (18S, 5.8S, 28S, 5S)"
+      ],
+      "answer": 0,
+      "explanation": "The 40S subunit comprises a single 18S rRNA molecule together with about 33 proteins.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Ribosomes are considered ribozymes because:",
+      "options": [
+        "They contain protein enzymes that catalyze peptide‑bond formation",
+        "Their rRNA component directly catalyzes peptide‑bond formation",
+        "They require ATP hydrolysis for peptide‑bond formation",
+        "They are composed solely of proteins"
+      ],
+      "answer": 1,
+      "explanation": "The peptidyl‑transferase activity resides in the rRNA of the large subunit, so the ribosome’s catalytic function is RNA‑based.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "During translation, the site on the ribosome where the incoming aminoacyl‑tRNA binds is called the:",
+      "options": [
+        "A site",
+        "P site",
+        "E site",
+        "G site"
+      ],
+      "answer": 0,
+      "explanation": "The A (aminoacyl) site receives the charged tRNA; the P site holds the growing peptide chain, and the E site releases deacylated tRNA.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Where are ribosomal proteins initially synthesized in a eukaryotic cell?",
+      "options": [
+        "All ribosomal proteins are synthesized in the cytoplasm and imported into the nucleus",
+        "Ribosomal proteins are synthesized on membrane‑bound ribosomes and remain in the ER",
+        "Ribosomal proteins are synthesized in the nucleolus",
+        "Ribosomal proteins are synthesized in mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Ribosomal proteins are made on free cytoplasmic ribosomes, then imported into the nucleus where they assemble with rRNA in the nucleolus.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "A mutation that abolishes the peptidyl‑transferase activity of the 60S subunit would most directly impair which step of protein synthesis?",
+      "options": [
+        "Initiation complex formation",
+        "tRNA charging",
+        "Elongation (peptide‑bond formation)",
+        "Termination"
+      ],
+      "answer": 2,
+      "explanation": "Peptidyl‑transferase catalyzes peptide‑bond formation during elongation; loss of this activity blocks chain elongation.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Which of the following correctly describes the cis face of the Golgi apparatus?",
+      "options": [
+        "It receives transport vesicles arriving from the endoplasmic reticulum",
+        "It is the site where secretory vesicles fuse with the plasma membrane",
+        "It is the region where lysosomal enzymes are packaged",
+        "It is the zone where proteins undergo final glycosylation"
+      ],
+      "answer": 0,
+      "explanation": "The cis face (also called the forming face) is oriented toward the ER and receives COPII vesicles carrying newly synthesized proteins.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "The principal role of the Golgi apparatus in protein processing is:",
+      "options": [
+        "Synthesis of polypeptide chains",
+        "Folding of nascent proteins into their tertiary structure",
+        "Post‑translational modification such as glycosylation and sulfation",
+        "Degradation of misfolded proteins by proteolysis"
+      ],
+      "answer": 2,
+      "explanation": "Golgi enzymes modify proteins by adding carbohydrate groups, sulfates, and phosphates, preparing them for their final destinations.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "Which enzyme activity is most abundant in the medial region of the Golgi stack?",
+      "options": [
+        "α‑Mannosidase",
+        "β‑Glucosidase",
+        "Proteasome",
+        "DNA polymerase"
+      ],
+      "answer": 0,
+      "explanation": "α‑Mannosidase removes mannose residues during N‑linked glycan processing, a characteristic activity of the medial Golgi cisternae.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "Vesicles that bud from the trans face of the Golgi apparatus are primarily destined for:",
+      "options": [
+        "The nucleus",
+        "Lysosomes",
+        "The plasma membrane",
+        "Mitochondria"
+      ],
+      "answer": 2,
+      "explanation": "The trans (or maturing) face packages proteins into secretory vesicles that are transported to the plasma membrane for exocytosis.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "In plant cells, the Golgi apparatus contributes directly to the synthesis of:",
+      "options": [
+        "Starch granules",
+        "Cell‑wall pectins and hemicelluloses",
+        "Chlorophyll molecules",
+        "Vacuolar ATPase subunits"
+      ],
+      "answer": 1,
+      "explanation": "Plant Golgi (dictyosomes) synthesize and secrete polysaccharides such as pectins that become part of the primary cell wall.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "Which statement about the organization of a Golgi stack is true?",
+      "options": [
+        "Stacks are arranged randomly within the cytoplasm",
+        "Each stack possesses only a single cis and a single trans face",
+        "Golgi stacks are continuous extensions of the endoplasmic reticulum",
+        "Stacks are polarized, having distinct cis (forming) and trans (maturing) faces"
+      ],
+      "answer": 3,
+      "explanation": "Golgi stacks are polarized; the cis face receives ER vesicles, while the trans face releases vesicles toward the plasma membrane or lysosomes.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "A defect that prevents addition of N‑linked oligosaccharides in the Golgi would most likely impair:",
+      "options": [
+        "DNA replication in the nucleus",
+        "Targeting of lysosomal enzymes via mannose‑6‑phosphate tagging",
+        "ATP synthesis in mitochondria",
+        "Transcription of ribosomal RNA"
+      ],
+      "answer": 1,
+      "explanation": "N‑linked glycosylation in the Golgi generates mannose‑6‑phosphate tags required for sorting enzymes to lysosomes; loss of this step disrupts lysosomal protein delivery.",
+      "topic": "Golgi apparatus"
+    },
+    {
+      "question": "Which statement correctly describes the internal environment of lysosomes?",
+      "options": [
+        "Neutral pH",
+        "Acidic pH (~4.5‑5)",
+        "Alkaline pH",
+        "Same as cytosol"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes maintain an acidic lumen (pH ~4.5‑5) due to proton pumps, which is optimal for hydrolytic enzymes.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "The predominant class of enzymes found in lysosomes belongs to which group?",
+      "options": [
+        "Oxidoreductases",
+        "Hydrolases",
+        "Transferases",
+        "Ligases"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomal enzymes are mainly acid hydrolases that cleave proteins, nucleic acids, lipids and carbohydrates.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "A deficiency of the enzyme α‑glucosidase leads to glycogen accumulation in lysosomes. Which disease is associated with this deficiency?",
+      "options": [
+        "Tay‑Sachs disease",
+        "Gaucher disease",
+        "Pompe disease",
+        "Niemann‑Pick disease"
+      ],
+      "answer": 2,
+      "explanation": "Pompe disease (type II glycogen storage disease) is caused by α‑glucosidase deficiency, resulting in lysosomal glycogen buildup.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "Which membrane protein is primarily responsible for maintaining the acidic pH inside lysosomes?",
+      "options": [
+        "Na⁺/K⁺ ATPase",
+        "V‑type H⁺ ATPase",
+        "Aquaporin",
+        "GLUT1"
+      ],
+      "answer": 1,
+      "explanation": "V‑type H⁺ ATPases pump protons into the lysosomal lumen, creating the low‑pH environment required for enzyme activity.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "During autophagy, cytoplasmic material is delivered to lysosomes by which process?",
+      "options": [
+        "Endocytosis",
+        "Exocytosis",
+        "Fusion of autophagosome with lysosome",
+        "Transcytosis"
+      ],
+      "answer": 2,
+      "explanation": "Autophagosomes engulf cytoplasmic components and subsequently fuse with lysosomes for degradation.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "Which of the following is NOT a function of lysosomes?",
+      "options": [
+        "Degradation of macromolecules",
+        "Synthesis of proteins",
+        "Recycling of cellular components",
+        "Activation of hydrolytic enzymes at acidic pH"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes do not synthesize proteins; they degrade and recycle macromolecules.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "The lysosomal protease cathepsin D shows optimal activity at which pH range?",
+      "options": [
+        "pH 2‑3",
+        "pH 4‑5",
+        "pH 6‑7",
+        "pH 7‑8"
+      ],
+      "answer": 1,
+      "explanation": "Cathepsin D, like most lysosomal enzymes, functions best in the acidic pH of 4‑5 within lysosomes.",
+      "topic": "Lysosomes"
+    },
+    {
+      "question": "What is the primary function of the large central vacuole in a mature plant cell?",
+      "options": [
+        "Protein synthesis",
+        "Storage of pigments",
+        "Maintenance of turgor pressure",
+        "DNA replication"
+      ],
+      "answer": 2,
+      "explanation": "The central vacuole accumulates water and solutes, generating turgor pressure that maintains cell rigidity and drives growth.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "The tonoplast is:",
+      "options": [
+        "Cytoplasmic matrix",
+        "Membrane surrounding vacuole",
+        "Ribosomal subunit",
+        "Golgi cisternae"
+      ],
+      "answer": 1,
+      "explanation": "The tonoplast is the selectively permeable membrane that encloses the vacuole, regulating transport between the vacuolar lumen and cytoplasm.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "Which of the following is NOT typically a component of vacuolar sap?",
+      "options": [
+        "Ions",
+        "Sugars",
+        "Ribosomal RNA",
+        "Secondary metabolites"
+      ],
+      "answer": 2,
+      "explanation": "Vacuolar sap contains ions, sugars, organic acids, and secondary metabolites; ribosomal RNA is found in ribosomes, not vacuoles.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "In guard cells, vacuoles contribute to stomatal opening by:",
+      "options": [
+        "Accumulating K+ ions leading to water influx",
+        "Synthesizing chlorophyll",
+        "Producing ATP",
+        "Degrading proteins"
+      ],
+      "answer": 0,
+      "explanation": "K+ uptake into guard cell vacuoles lowers water potential, causing water to enter, swelling the cells and opening the stomatal pore.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "Which statement correctly distinguishes vacuoles from lysosomes?",
+      "options": [
+        "Vacuoles are only in animal cells",
+        "Lysosomes contain hydrolytic enzymes, vacuoles primarily store substances",
+        "Vacuoles have a single membrane, lysosomes have double",
+        "Both are involved in protein synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes are digestive organelles rich in hydrolytic enzymes, whereas plant vacuoles mainly function in storage, turgor maintenance, and waste sequestration.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "During seed germination, the storage vacuole in a seed typically transforms into:",
+      "options": [
+        "Chloroplast",
+        "Amyloplast",
+        "Mitochondrion",
+        "Peroxisome"
+      ],
+      "answer": 1,
+      "explanation": "In many seeds, the protein or starch‑rich vacuole differentiates into an amyloplast that stores starch for the growing seedling.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "How do vacuoles facilitate plant cell growth?",
+      "options": [
+        "They increase cell surface area",
+        "They provide turgor pressure that drives cell expansion",
+        "They synthesize cellulose",
+        "They transport sugars across the plasma membrane"
+      ],
+      "answer": 1,
+      "explanation": "By accumulating solutes and water, vacuoles generate internal turgor pressure, which pushes against the cell wall and enables cell enlargement during growth.",
+      "topic": "Vacuoles"
+    },
+    {
+      "question": "Which organelle is the primary site for synthesis of secretory and membrane-bound proteins in eukaryotic cells?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": 0,
+      "explanation": "Rough ER is studded with ribosomes that translate mRNA of secretory and membrane proteins, allowing co‑translational insertion into the ER lumen or membrane.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which statement correctly distinguishes rough ER (RER) from smooth ER (SER)?",
+      "options": [
+        "RER has ribosomes attached to its cytoplasmic surface, whereas SER lacks ribosomes",
+        "SER synthesizes most cellular proteins while RER synthesizes lipids",
+        "RER is primarily involved in detoxification, while SER folds nascent proteins",
+        "Both RER and SER perform identical functions in the cell"
+      ],
+      "answer": 0,
+      "explanation": "The defining feature of RER is the presence of ribosomes; SER lacks ribosomes and is involved in lipid synthesis and detoxification.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "In the secretory pathway, proteins leaving the endoplasmic reticulum are first delivered to which Golgi compartment?",
+      "options": [
+        "cis‑Golgi network",
+        "trans‑Golgi network",
+        "lysosome",
+        "vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Transport vesicles from the ER fuse with the cis‑Golgi (the entry face), where further processing begins.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which enzyme activity is most commonly used as a biochemical marker for lysosomes?",
+      "options": [
+        "Acid phosphatase",
+        "ATP synthase",
+        "Rubisco",
+        "DNA polymerase"
+      ],
+      "answer": 0,
+      "explanation": "Acid phosphatase functions optimally at the low pH of lysosomes and is widely employed to identify lysosomal fractions.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "The large central vacuole in plant cells mainly contributes to turgor pressure by accumulating which of the following?",
+      "options": [
+        "Cell sap containing ions and sugars",
+        "Chlorophyll pigments",
+        "Mitochondria",
+        "Free ribosomes"
+      ],
+      "answer": 0,
+      "explanation": "The vacuolar sap is rich in solutes; water influx creates osmotic pressure that maintains cell rigidity (turgor).",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which description correctly reflects the relationship among the ER, Golgi apparatus, lysosomes and plant vacuoles?",
+      "options": [
+        "Vesicles from the Golgi mature into lysosomes; plant vacuoles are enlarged lysosomes",
+        "Lysosomes give rise to the ER, and vacuoles originate from ribosomes",
+        "ER directly transforms into the Golgi, while vacuoles are independent organelles",
+        "Golgi produces ribosomes that later become lysosomes"
+      ],
+      "answer": 0,
+      "explanation": "Golgi‑derived vesicles acquire hydrolytic enzymes to become lysosomes; in plants, vacuoles share similar enzymes and are considered enlarged lysosomal compartments.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which metabolic function is primarily associated with smooth ER in hepatic cells?",
+      "options": [
+        "Detoxification of drugs and xenobiotics",
+        "Synthesis of secretory proteins",
+        "N‑linked glycosylation of nascent polypeptides",
+        "Replication of nuclear DNA"
+      ],
+      "answer": 0,
+      "explanation": "Smooth ER in liver cells contains enzymes such as cytochrome P450 that metabolize drugs and toxic compounds.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which statement correctly distinguishes constitutive from regulated secretion pathways?",
+      "options": [
+        "Constitutive secretion requires a rise in intracellular Ca2+, whereas regulated secretion does not",
+        "Constitutive secretion occurs continuously in all cells, while regulated secretion is triggered by specific stimuli and involves storage in secretory granules",
+        "Both pathways involve storage of proteins in secretory granules before release",
+        "Regulated secretion occurs continuously, whereas constitutive secretion is stimulus‑dependent"
+      ],
+      "answer": 1,
+      "explanation": "Constitutive secretion is a default pathway that continuously delivers proteins to the plasma membrane, while regulated secretion stores products in granules and releases them only upon a specific signal.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "The N‑terminal signal peptide of a secretory protein is recognized co‑translationally by which cellular component?",
+      "options": [
+        "Golgi matrix proteins",
+        "Signal recognition particle (SRP) and its ER receptor",
+        "Lysosomal hydrolases",
+        "Cytosolic heat‑shock proteins"
+      ],
+      "answer": 1,
+      "explanation": "The signal peptide is bound by the SRP, which pauses translation and directs the ribosome‑nascent chain complex to the SRP receptor on the rough ER for entry into the secretory pathway.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "The SNARE complex primarily facilitates which step in the secretory pathway?",
+      "options": [
+        "Budding of vesicles from the Golgi apparatus",
+        "Transport of vesicles along microtubules",
+        "Fusion of secretory vesicles with the plasma membrane during exocytosis",
+        "Addition of N‑linked oligosaccharides to nascent proteins"
+      ],
+      "answer": 2,
+      "explanation": "SNARE proteins on vesicle (v‑SNARE) and target membranes (t‑SNARE) pair to drive membrane fusion, allowing the vesicle to release its contents extracellularly.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "Modification of N‑linked oligosaccharides on secretory proteins mainly occurs in which organelle?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome",
+        "Mitochondrion"
+      ],
+      "answer": 1,
+      "explanation": "The Golgi stacks, especially the medial‑cis cisternae, trim and remodel N‑linked glycans added in the ER, producing mature glycoproteins.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "During exocytosis, the rise in intracellular Ca2+ that triggers vesicle fusion is most commonly caused by:",
+      "options": [
+        "Opening of voltage‑gated calcium channels in the plasma membrane",
+        "Activation of Na⁺/K⁺‑ATPase",
+        "A decrease in cellular ATP levels",
+        "Stimulation of adenylate cyclase and cAMP production"
+      ],
+      "answer": 0,
+      "explanation": "In excitable cells, depolarization opens voltage‑gated Ca2+ channels, allowing Ca2+ influx that activates the SNARE machinery for vesicle fusion.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "Which hormone is stored in secretory granules and released by the regulated secretory pathway?",
+      "options": [
+        "Glucagon",
+        "Insulin",
+        "Thyroxine (T4)",
+        "Cortisol"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic β‑cells synthesize insulin, store it in granules, and release it in response to elevated blood glucose via regulated secretion.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "In plant cells, the large central vacuole contributes to secretion by:",
+      "options": [
+        "Synthesizing proteins de novo",
+        "Storing and releasing cell‑wall materials and hydrolytic enzymes",
+        "Generating ATP through oxidative phosphorylation",
+        "Carrying out photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "The vacuole can accumulate cell‑wall precursors, enzymes, and other macromolecules that are later secreted to the apoplast during growth or defense.",
+      "topic": "Cell secretion"
+    },
+    {
+      "question": "Vesicles budding from the rough endoplasmic reticulum primarily transport their cargo to which organelle?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondria",
+        "Nucleus",
+        "Chloroplast"
+      ],
+      "answer": 0,
+      "explanation": "Proteins synthesized on the rough ER are packaged into transport vesicles that move to the Golgi apparatus for further processing and sorting.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "Which coat protein complex is mainly involved in the formation of vesicles that deliver enzymes to lysosomes?",
+      "options": [
+        "COPI",
+        "COPII",
+        "Clathrin",
+        "Dynamin"
+      ],
+      "answer": 2,
+      "explanation": "Clathrin-coated vesicles mediate transport from the trans‑Golgi network to endosomes and lysosomes, carrying mannose‑6‑phosphate‑tagged enzymes.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "In plant cells, newly synthesized proteins destined for the large central vacuole are most commonly delivered via:",
+      "options": [
+        "Direct ER‑to‑vacuole transport",
+        "Golgi‑derived vesicles",
+        "Plasma‑membrane endocytosis",
+        "Peroxisomal import"
+      ],
+      "answer": 1,
+      "explanation": "Proteins enter the Golgi, undergo modification, and are packaged into vesicles that fuse with the vacuole, establishing the vacuolar storage system.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "Fusion of a secretory vesicle with the plasma membrane is mediated by which pair of proteins?",
+      "options": [
+        "v‑SNARE with t‑SNARE",
+        "v‑SNARE with v‑SNARE",
+        "t‑SNARE with t‑SNARE",
+        "SNARE with coat protein"
+      ],
+      "answer": 0,
+      "explanation": "Vesicle‑SNAREs (v‑SNAREs) on the vesicle interact specifically with target‑SNAREs (t‑SNAREs) on the plasma membrane to drive membrane fusion.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "The molecular tag that directs soluble hydrolytic enzymes to lysosomes is:",
+      "options": [
+        "KDEL sequence",
+        "Nuclear localisation signal (NLS)",
+        "Mannose‑6‑phosphate tag",
+        "Poly‑A tail"
+      ],
+      "answer": 2,
+      "explanation": "In the Golgi, lysosomal enzymes acquire a mannose‑6‑phosphate modification, which is recognized by mannose‑6‑phosphate receptors for delivery to lysosomes.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "Which organelle is the principal site for post‑translational modification such as N‑linked glycosylation of secretory proteins?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome",
+        "Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "After initial synthesis in the rough ER, proteins are transported to the Golgi where extensive glycosylation, sulfation, and sorting occur.",
+      "topic": "Intracellular transport"
+    },
+    {
+      "question": "Exocytosis of secretory vesicles requires a rapid rise in which intracellular ion?",
+      "options": [
+        "ATP",
+        "Ca²⁺",
+        "Na⁺",
+        "H⁺ (pH)"
+      ],
+      "answer": 1,
+      "explanation": "An increase in cytosolic Ca²⁺ triggers the docking and fusion of secretory vesicles with the plasma membrane, enabling exocytosis.",
+      "topic": "Intracellular transport"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 8,
+    "mcqCount": 56
+  }
+}

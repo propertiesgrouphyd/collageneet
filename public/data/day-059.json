@@ -1,0 +1,2061 @@
+{
+  "day": 59,
+  "courseDate": "2026-10-27",
+  "publishAt": "2026-10-27T06:00:00+05:30",
+  "title": "Plant Growth — Growth Phases and Growth Kinetics (Day 59)",
+  "introduction": "This lesson explores the quantitative and qualitative aspects of plant growth, covering growth patterns, measurement techniques, kinetic phases, and developmental plasticity essential for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Plant growth",
+      "heading": "Definition and Scope of Plant Growth",
+      "content": "Plant growth refers to the irreversible increase in size, mass, or number of cells resulting from cell division and expansion. It integrates physiological processes such as photosynthesis, respiration, and hormone regulation, and is influenced by genetic and environmental factors.",
+      "keyPoints": [
+        "Irreversible increase in size or mass",
+        "Involves cell division (meristems) and cell expansion",
+        "Controlled by hormones (auxin, gibberellins) and environment"
+      ],
+      "neetTips": [
+        "Remember growth = increase in size, not just height"
+      ]
+    },
+    {
+      "topic": "Characteristics of plant growth",
+      "heading": "Key Features of Plant Growth",
+      "content": "Plant growth is continuous, modular, and indeterminate. It exhibits plasticity, allowing adaptation to varying conditions. Growth rates differ among organs and follow distinct kinetic patterns.",
+      "keyPoints": [
+        "Continuous and modular",
+        "Indeterminate – no fixed endpoint",
+        "Shows plastic responses to environment"
+      ],
+      "neetTips": [
+        "Link plasticity to variable growth rates in NEET questions"
+      ]
+    },
+    {
+      "topic": "Growth measurement",
+      "heading": "Quantifying Plant Growth",
+      "content": "Growth is measured using parameters such as length (cm), fresh/dry weight (g), leaf area (cm²), and volume. Relative growth rate (RGR) = (1/W)(dW/dt) and specific leaf area (SLA) are common indices.",
+      "keyPoints": [
+        "Length, weight, leaf area, volume",
+        "Relative Growth Rate (RGR) = (1/W)(dW/dt)",
+        "Specific Leaf Area (SLA) = leaf area/leaf dry weight"
+      ],
+      "neetTips": [
+        "Memorize RGR formula for kinetic calculations"
+      ]
+    },
+    {
+      "topic": "Arithmetic growth",
+      "heading": "Linear (Arithmetic) Growth Pattern",
+      "content": "In arithmetic growth, increase per unit time is constant (ΔY = k·Δt). The growth curve is a straight line, typical of early seedling elongation under optimal conditions.",
+      "keyPoints": [
+        "ΔY = k·Δt (constant increment)",
+        "Straight‑line growth curve",
+        "Occurs when resources are non‑limiting"
+      ],
+      "neetTips": [
+        "Distinguish arithmetic from geometric by checking if increment is constant"
+      ]
+    },
+    {
+      "topic": "Geometric growth",
+      "heading": "Exponential (Geometric) Growth Pattern",
+      "content": "Geometric growth follows Y = Y₀·e^{kt} or Y = Y₀·(1+r)^t, where the increase is proportional to the existing size. It characterises rapid cell division phases.",
+      "keyPoints": [
+        "Y = Y₀·e^{kt} (continuous exponential)",
+        "Growth rate proportional to current size",
+        "Typical of log phase"
+      ],
+      "neetTips": [
+        "Remember e≈2.718 for quick approximations"
+      ]
+    },
+    {
+      "topic": "Growth curve",
+      "heading": "Overall Growth Kinetics",
+      "content": "Plant growth over time often follows a sigmoid (S‑shaped) curve comprising lag, exponential (log), and stationary phases. The curve reflects the transition from cell division to differentiation and resource limitation.",
+      "keyPoints": [
+        "Sigmoid curve with three phases",
+        "Initial lag → rapid log → plateau"
+      ],
+      "neetTips": [
+        "Sketch the sigmoid curve to visualize phase boundaries"
+      ]
+    },
+    {
+      "topic": "Lag phase",
+      "heading": "Initial Slow Growth Phase",
+      "content": "During the lag phase, cells acclimatize, synthesize enzymes, and prepare for division. Net increase in size is minimal, but metabolic activity rises.",
+      "keyPoints": [
+        "Cellular preparation and enzyme synthesis",
+        "Minimal net increase in biomass",
+        "Precedes rapid division"
+      ],
+      "neetTips": [
+        "Lag phase is not ‘no growth’; metabolic activity is high"
+      ]
+    },
+    {
+      "topic": "Log or exponential phase",
+      "heading": "Rapid Growth Phase",
+      "content": "In the log phase, cell division and expansion occur at maximal rates, producing geometric growth. Nutrient uptake and photosynthesis are at peak, leading to steep slope on the growth curve.",
+      "keyPoints": [
+        "Maximum rate of cell division",
+        "Geometric increase in size",
+        "Steepest part of sigmoid curve"
+      ],
+      "neetTips": [
+        "Log phase corresponds to geometric growth equations"
+      ]
+    },
+    {
+      "topic": "Stationary phase",
+      "heading": "Growth Plateau Phase",
+      "content": "Growth slows as resources become limiting, hormones shift toward differentiation, and senescence signals appear. Biomass increase plateaus despite continued metabolic activity.",
+      "keyPoints": [
+        "Resource limitation and hormonal shift",
+        "Growth rate approaches zero",
+        "Transition to differentiation"
+      ],
+      "neetTips": [
+        "Stationary phase aligns with absolute growth leveling off"
+      ]
+    },
+    {
+      "topic": "Absolute growth",
+      "heading": "Total Increase in Size or Mass",
+      "content": "Absolute growth = ΔW = W₂ – W₁ over a time interval. It reflects the net addition of biomass irrespective of the initial size.",
+      "keyPoints": [
+        "ΔW = W₂ – W₁",
+        "Measured in grams or centimeters",
+        "Independent of initial size"
+      ],
+      "neetTips": [
+        "Use absolute growth for comparing different species"
+      ]
+    },
+    {
+      "topic": "Relative growth",
+      "heading": "Growth Relative to Initial Size",
+      "content": "Relative growth = (ΔW/W₁)·100% or RGR = (1/W)(dW/dt). It normalizes growth to the starting size, allowing comparison across sizes and species.",
+      "keyPoints": [
+        "Expressed as percentage or rate per unit mass",
+        "Normalizes for initial size",
+        "Key for kinetic analysis"
+      ],
+      "neetTips": [
+        "NEET often asks for RGR; recall the (1/W)(dW/dt) form"
+      ]
+    },
+    {
+      "topic": "Meristematic growth",
+      "heading": "Growth at Meristems",
+      "content": "Meristematic growth occurs in apical, lateral, and intercalary meristems where cells remain undifferentiated and divide continuously, driving primary and secondary growth.",
+      "keyPoints": [
+        "Apical meristems – primary elongation",
+        "Lateral meristems – secondary thickening",
+        "Intercalary meristems – regrowth after clipping"
+      ],
+      "neetTips": [
+        "Link apical meristem to primary growth in stems and roots"
+      ]
+    },
+    {
+      "topic": "Regions of root growth",
+      "heading": "Root Growth Zones",
+      "content": "Root growth is confined to the apical meristem (division zone), elongation zone, and maturation zone. The division zone adds cells, the elongation zone expands them, and the maturation zone differentiates them.",
+      "keyPoints": [
+        "Division zone – cell production",
+        "Elongation zone – cell expansion",
+        "Maturation zone – differentiation"
+      ],
+      "neetTips": [
+        "Remember root growth stops at the elongation zone"
+      ]
+    },
+    {
+      "topic": "Regions of shoot growth",
+      "heading": "Shoot Growth Zones",
+      "content": "Shoot apical meristem (SAM) produces leaf primordia; the subapical region contributes to internode elongation. Lateral meristems (vascular cambium) add girth in woody shoots.",
+      "keyPoints": [
+        "SAM – leaf and stem initiation",
+        "Subapical zone – internode elongation",
+        "Vascular cambium – secondary growth"
+      ],
+      "neetTips": [
+        "Distinguish primary (SAM) from secondary (cambium) growth"
+      ]
+    },
+    {
+      "topic": "Differentiation",
+      "heading": "Cell Specialization Process",
+      "content": "Differentiation is the irreversible process where meristematic cells acquire specific structures and functions, forming tissues such as xylem, phloem, epidermis, and guard cells.",
+      "keyPoints": [
+        "Irreversible acquisition of function",
+        "Leads to tissue and organ formation",
+        "Guided by gene expression and hormones"
+      ],
+      "neetTips": [
+        "Differentiation follows the meristematic phase"
+      ]
+    },
+    {
+      "topic": "Dedifferentiation",
+      "heading": "Reversion to Less Specialized State",
+      "content": "Dedifferentiation occurs when mature cells lose specialized features, often in response to injury, enabling them to re-enter the cell cycle and form callus tissue.",
+      "keyPoints": [
+        "Loss of specialized traits",
+        "Triggered by wounding or stress",
+        "Precursor to callus formation"
+      ],
+      "neetTips": [
+        "Important for tissue culture and regeneration"
+      ]
+    },
+    {
+      "topic": "Redifferentiation",
+      "heading": "Re‑specification into New Cell Types",
+      "content": "Redifferentiation is the process by which dedifferentiated cells acquire new identities, forming organs such as roots or shoots during regeneration or in vitro culture.",
+      "keyPoints": [
+        "Acquisition of new specialized function",
+        "Guided by hormonal cues (auxin/cytokinin ratio)",
+        "Basis of organogenesis"
+      ],
+      "neetTips": [
+        "Auxin‑high → root; cytokinin‑high → shoot"
+      ]
+    },
+    {
+      "topic": "Development",
+      "heading": "Integration of Growth and Differentiation",
+      "content": "Development encompasses the coordinated sequence of growth, differentiation, and morphogenesis leading to the mature plant architecture. It is regulated by genetic programs and environmental signals.",
+      "keyPoints": [
+        "Sequential coordination of growth phases",
+        "Genetic control (homeotic genes)",
+        "Environmental modulation"
+      ],
+      "neetTips": [
+        "NEET may ask how photoperiod influences developmental timing"
+      ]
+    },
+    {
+      "topic": "Plasticity in plants",
+      "heading": "Adaptive Growth Responses",
+      "content": "Plasticity is the ability of plants to modify growth patterns, morphology, or physiology in response to external cues such as light, temperature, or water availability. Examples include shade avoidance and root branching.",
+      "keyPoints": [
+        "Phenotypic flexibility",
+        "Mediated by hormones (auxin, ethylene)",
+        "Enhances survival under variable conditions"
+      ],
+      "neetTips": [
+        "Link plasticity to changes in meristem activity"
+      ]
+    },
+    {
+      "topic": "Photoperiod overview",
+      "heading": "Daylength Regulation of Growth",
+      "content": "Photoperiodism is the physiological response to the relative lengths of light and dark periods, controlling flowering, tuberisation, and dormancy. Short‑day, long‑day, and day‑neutral plants differ in critical night length.",
+      "keyPoints": [
+        "Critical night length determines response",
+        "Involves phytochrome and circadian clock",
+        "Regulates flowering time"
+      ],
+      "neetTips": [
+        "Remember long‑day plants flower when night < critical length"
+      ]
+    },
+    {
+      "topic": "Vernalisation overview",
+      "heading": "Cold‑Induced Flowering Requirement",
+      "content": "Vernalisation is the acquisition of flowering competence after exposure to prolonged low temperatures. It epigenetically represses flowering repressors (e.g., FLC) enabling subsequent induction by photoperiod.",
+      "keyPoints": [
+        "Requires several weeks of chilling",
+        "Epigenetic silencing of repressors",
+        "Followed by photoperiodic induction"
+      ],
+      "neetTips": [
+        "Vernalisation + photoperiod = two‑step flowering control"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Define plant growth and its quantitative parameters",
+    "Distinguish arithmetic, geometric, absolute and relative growth patterns",
+    "Interpret the sigmoid growth curve and identify lag, log and stationary phases",
+    "Explain meristematic activity and regional growth in roots and shoots",
+    "Describe differentiation, dedifferentiation and redifferentiation processes",
+    "Understand plant plasticity, photoperiodism and vernalisation and their relevance to NEET"
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly describes geometric (exponential) growth of plant height over time?",
+      "options": [
+        "The height increases by a constant amount each day",
+        "The height increases by a constant proportion each day",
+        "The height increases linearly with time",
+        "The height remains constant after an initial phase"
+      ],
+      "answer": 1,
+      "explanation": "In geometric or exponential growth, the increase each interval is a fixed percentage of the existing size, giving a constant proportion per unit time.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "In a typical sigmoid growth curve of a plant, the phase where the relative growth rate (RGR) is highest is the:",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "During the log phase the plant’s size increases rapidly, and because RGR = (1/size)·d(size)/dt, it reaches its maximum when growth is fastest relative to the existing size.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "Absolute growth rate (AGR) differs from relative growth rate (RGR) because:",
+      "options": [
+        "AGR is expressed per unit biomass, while RGR is expressed per unit time",
+        "AGR measures increase in size per unit time, whereas RGR measures increase per unit existing size per unit time",
+        "AGR remains constant throughout growth, whereas RGR varies",
+        "AGR is only applicable to roots, while RGR applies to shoots"
+      ],
+      "answer": 1,
+      "explanation": "AGR = d(size)/dt (size increase per time). RGR = (1/size)·d(size)/dt, i.e., growth per existing size per time.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "The primary meristematic region responsible for elongation in a growing root is:",
+      "options": [
+        "Apical meristem",
+        "Lateral meristem",
+        "Intercalary meristem",
+        "Vascular cambium"
+      ],
+      "answer": 0,
+      "explanation": "The root apical meristem at the tip produces new cells that elongate, driving root growth.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "Which process in plants exemplifies dedifferentiation?",
+      "options": [
+        "Formation of xylem vessels from procambium",
+        "Wound‑induced callus formation from mature parenchyma cells",
+        "Leaf primordia developing into a leaf",
+        "Division of guard cells to form new stomata"
+      ],
+      "answer": 1,
+      "explanation": "Mature parenchyma cells near a wound can revert to a less specialized state, forming a callus—a classic case of dedifferentiation.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "Phenotypic plasticity in plants is best illustrated by:",
+      "options": [
+        "Fixed leaf shape irrespective of light intensity",
+        "Increased stem thickness in response to wind",
+        "Constant root length regardless of soil nutrients",
+        "Uniform flower colour across varieties"
+      ],
+      "answer": 1,
+      "explanation": "Stem thickening in windy conditions shows the plant’s ability to modify its morphology in response to an environmental cue, a hallmark of plasticity.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "A short‑day plant will flower when:",
+      "options": [
+        "Night length exceeds a critical duration",
+        "Day length exceeds a critical duration",
+        "Total light intensity is high",
+        "Temperature is low"
+      ],
+      "answer": 0,
+      "explanation": "Short‑day plants require a night longer than a species‑specific critical period to induce flowering; they are insensitive to day length beyond that.",
+      "topic": "Plant growth"
+    },
+    {
+      "question": "Which statement correctly describes the reversibility of plant growth?",
+      "options": [
+        "Irreversible throughout the plant's life",
+        "Reversible only during dormancy",
+        "Irreversible after the meristematic phase",
+        "Reversible after flowering"
+      ],
+      "answer": 0,
+      "explanation": "Once cells differentiate, the increase in size and number cannot be undone; plant growth is essentially irreversible from the start.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "In the sigmoid growth curve of a plant organ, which phase shows the most rapid increase in length?",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "The log or exponential phase follows the lag phase and is characterized by a steep rise in growth rate, representing rapid elongation.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Absolute growth of a plant organ is defined as:",
+      "options": [
+        "Increase expressed as a percentage per unit time",
+        "Increase in size expressed in actual units (e.g., cm)",
+        "Growth rate relative to initial size",
+        "Growth expressed as a ratio of final to initial size"
+      ],
+      "answer": 1,
+      "explanation": "Absolute growth quantifies the actual change in length, mass or volume, measured in concrete units such as centimeters or grams.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Relative growth rate (RGR) is highest during which developmental stage?",
+      "options": [
+        "Seed germination",
+        "Early vegetative stage",
+        "Reproductive stage",
+        "Senescence"
+      ],
+      "answer": 1,
+      "explanation": "During early vegetative growth, meristematic activity is maximal, giving the highest RGR compared with later stages.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Which region of the root is primarily responsible for primary elongation growth?",
+      "options": [
+        "Apical meristem",
+        "Zone of elongation",
+        "Zone of maturation",
+        "Lateral root primordia"
+      ],
+      "answer": 1,
+      "explanation": "The zone of elongation lies just behind the apical meristem and is where cells expand rapidly, driving root length increase.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Dedifferentiation in plants is best illustrated by:",
+      "options": [
+        "Formation of xylem vessels",
+        "Callus formation from wounded tissue",
+        "Leaf senescence",
+        "Stomatal opening"
+      ],
+      "answer": 1,
+      "explanation": "When tissue is wounded, mature cells can revert to a less specialized state, forming a callus—a classic example of dedifferentiation.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Phenotypic plasticity in plant growth enables a plant to:",
+      "options": [
+        "Maintain a fixed growth pattern irrespective of environment",
+        "Alter its growth rate and direction in response to external cues",
+        "Grow only during the day",
+        "Produce identical offspring"
+      ],
+      "answer": 1,
+      "explanation": "Plasticity allows plants to modify growth dynamics—such as elongation, branching, or leaf size—based on environmental signals like light, temperature, or water availability.",
+      "topic": "Characteristics of plant growth"
+    },
+    {
+      "question": "Which parameter best represents the relative growth rate (RGR) of a plant?",
+      "options": [
+        "Increase in height per day",
+        "Increase in dry weight per unit existing dry weight per unit time",
+        "Increase in leaf area per day",
+        "Increase in number of cells per day"
+      ],
+      "answer": 1,
+      "explanation": "RGR is defined as the increase in dry weight per unit existing dry weight per unit time, reflecting growth relative to the plant's current size.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "In a plant exhibiting geometric growth, the increase in size over equal time intervals is:",
+      "options": [
+        "Constant",
+        "Decreasing",
+        "Exponential",
+        "Linear"
+      ],
+      "answer": 2,
+      "explanation": "Geometric growth adds a constant proportion of the existing size each interval, producing an exponential increase.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "The lag phase of a growth curve is characterized by:",
+      "options": [
+        "Maximum rate of increase",
+        "No increase in size",
+        "Linear increase",
+        "Decline in size"
+      ],
+      "answer": 1,
+      "explanation": "During the lag phase the organism or organ shows little or no measurable increase as it adapts before rapid growth begins.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "A seedling grows from 2 cm to 8 cm in 3 days. What is its absolute growth rate (AGR) in cm day⁻¹?",
+      "options": [
+        "1 cm/day",
+        "2 cm/day",
+        "3 cm/day",
+        "4 cm/day"
+      ],
+      "answer": 1,
+      "explanation": "AGR = (final size – initial size)/time = (8 cm‑2 cm)/3 days = 6 cm/3 days = 2 cm day⁻¹.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "Which statement correctly distinguishes arithmetic from geometric growth?",
+      "options": [
+        "In arithmetic growth, each successive increment is a constant fraction of the previous size.",
+        "In geometric growth, the increment added each interval is constant.",
+        "Arithmetic growth yields a straight line when size is plotted against time; geometric growth yields an exponential curve.",
+        "Both produce sigmoid curves."
+      ],
+      "answer": 2,
+      "explanation": "Arithmetic growth adds a constant amount each interval, giving a straight‑line plot; geometric growth adds a constant proportion, giving an exponential curve.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "During which phase of a sigmoid growth curve is the relative growth rate (RGR) highest?",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "RGR peaks in the log or exponential phase where the organism grows rapidly relative to its size.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "For measuring meristematic growth, which parameter is most appropriate?",
+      "options": [
+        "Increase in root length per day",
+        "Increase in leaf area index",
+        "Number of cell divisions per unit meristem per day",
+        "Total biomass accumulation"
+      ],
+      "answer": 2,
+      "explanation": "Meristematic growth is driven by cell division; counting divisions per unit meristem per day directly quantifies this activity.",
+      "topic": "Growth measurement"
+    },
+    {
+      "question": "A plant’s height increases by a constant amount each day. This pattern of growth is called:",
+      "options": [
+        "Arithmetic growth",
+        "Geometric growth",
+        "Sigmoid growth",
+        "Logistic growth"
+      ],
+      "answer": 0,
+      "explanation": "When the increase in size is the same for each equal time interval, the growth follows an arithmetic (linear) pattern.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "A seedling is 5 cm tall on day 0 and grows with an arithmetic rate of 2 cm per day. What will be its height on day 7?",
+      "options": [
+        "14 cm",
+        "19 cm",
+        "12 cm",
+        "9 cm"
+      ],
+      "answer": 1,
+      "explanation": "Height = initial + rate × time = 5 cm + 2 cm·7 days = 19 cm.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "For a plant showing arithmetic growth, how does its relative growth rate (RGR) change with time?",
+      "options": [
+        "It remains constant",
+        "It increases with time",
+        "It decreases with time",
+        "It becomes zero after a certain period"
+      ],
+      "answer": 2,
+      "explanation": "RGR = (absolute growth per unit time) / size. With constant absolute growth, size increases, so the ratio (RGR) declines over time.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "In a typical plant growth curve, the portion where height increases uniformly with time corresponds to which phase?",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Arithmetic growth phase"
+      ],
+      "answer": 3,
+      "explanation": "Uniform (linear) increase characterises arithmetic growth, which appears as a straight‑line segment distinct from the lag, exponential, or stationary phases.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "Seedling A follows arithmetic growth, while seedling B follows geometric growth. Which seedling initially has the higher relative growth rate?",
+      "options": [
+        "Seedling A",
+        "Seedling B",
+        "Both have equal RGR",
+        "Cannot be determined without data"
+      ],
+      "answer": 1,
+      "explanation": "Geometric growth maintains a constant relative growth rate, whereas arithmetic growth’s RGR starts higher but quickly declines; initially, the geometric grower has the higher RGR.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "A plant’s root length follows arithmetic growth with a constant increment of 0.5 mm per day. After 20 days the root length is 30 mm. What was the root length at day 0?",
+      "options": [
+        "10 mm",
+        "20 mm",
+        "30 mm",
+        "40 mm"
+      ],
+      "answer": 1,
+      "explanation": "Total increase = 0.5 mm × 20 days = 10 mm. Initial length = final – increase = 30 mm – 10 mm = 20 mm.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "Which graph correctly represents height versus time for a plant undergoing arithmetic growth?",
+      "options": [
+        "A straight line with constant positive slope",
+        "An upward‑curving exponential curve",
+        "An S‑shaped sigmoid curve",
+        "A curve that rises quickly then levels off"
+      ],
+      "answer": 0,
+      "explanation": "Arithmetic growth produces a linear relationship, depicted by a straight line with a constant slope.",
+      "topic": "Arithmetic growth"
+    },
+    {
+      "question": "Geometric growth in plant tissues is best described as:",
+      "options": [
+        "Increase by a constant amount each unit time",
+        "Increase by a constant factor each unit time",
+        "Increase only during the lag phase",
+        "Increase only after reaching the stationary phase"
+      ],
+      "answer": 1,
+      "explanation": "Geometric (exponential) growth means the quantity multiplies by a fixed factor per unit time, not by a fixed amount.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "If the length of a root segment follows geometric growth with a growth factor k per day, the length after n days is given by:",
+      "options": [
+        "L0 + kn",
+        "L0 * (1 + k)^n",
+        "L0 * k^n",
+        "L0 * n^k"
+      ],
+      "answer": 2,
+      "explanation": "Geometric progression is expressed as the initial value multiplied by the constant factor raised to the number of intervals: L = L0 × kⁿ.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "A shoot tip shows geometric growth with a constant relative growth rate of 0.693 day⁻¹. What is the doubling time of its length?",
+      "options": [
+        "0.5 day",
+        "1 day",
+        "2 days",
+        "3 days"
+      ],
+      "answer": 1,
+      "explanation": "Doubling time = ln2 / r = 0.693 / 0.693 = 1 day.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes geometric growth from arithmetic growth in plants?",
+      "options": [
+        "In geometric growth, the absolute increase per unit time is constant",
+        "In arithmetic growth, the relative increase per unit time is constant",
+        "Geometric growth results in a sigmoid curve when plotted on a linear scale",
+        "Geometric growth leads to a straight line when length is plotted against time on a semi‑log graph"
+      ],
+      "answer": 3,
+      "explanation": "When data following geometric (exponential) growth are plotted on a semi‑log graph, they form a straight line, unlike arithmetic growth.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "In a plant growth curve, the log (exponential) phase corresponds to which type of growth?",
+      "options": [
+        "Arithmetic growth",
+        "Geometric growth",
+        "No growth",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "The log or exponential phase reflects geometric (exponential) increase in size or number.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "A seedling’s height follows geometric growth with a factor of 1.25 per week. If its initial height is 4 cm, what will be its height after 3 weeks?",
+      "options": [
+        "5 cm",
+        "6.25 cm",
+        "7.81 cm",
+        "9.77 cm"
+      ],
+      "answer": 2,
+      "explanation": "Height = 4 × 1.25³ = 4 × 1.953125 ≈ 7.81 cm.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "If the temperature increase raises the relative growth rate constant (k) of a meristematic region from 0.04 day⁻¹ to 0.06 day⁻¹, how does the time required to achieve a ten‑fold increase in length change?",
+      "options": [
+        "It remains the same",
+        "It decreases by 33%",
+        "It decreases by 40%",
+        "It increases by 50%"
+      ],
+      "answer": 1,
+      "explanation": "Time = ln10/k. Original time = 2.3026/0.04 ≈ 57.6 days; new time = 2.3026/0.06 ≈ 38.4 days. The reduction is (57.6‑38.4)/57.6 ≈ 33%.",
+      "topic": "Geometric growth"
+    },
+    {
+      "question": "The typical growth curve of a plant's height under favorable conditions is best described as:",
+      "options": [
+        "Linear increase",
+        "Exponential increase",
+        "Sigmoid (S‑shaped) increase",
+        "Logarithmic increase"
+      ],
+      "answer": 2,
+      "explanation": "Under optimal conditions, plant growth starts slowly, accelerates, then slows again, producing an S‑shaped sigmoid curve.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "In a sigmoid growth curve, the phase during which the growth rate is highest is called:",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "The log or exponential phase is characterized by rapid cell division and the maximum increase in size per unit time.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "The point on a growth curve where the curvature changes from concave upward to concave downward is known as:",
+      "options": [
+        "Inflection point",
+        "Maximum height point",
+        "Beginning of lag phase",
+        "End of stationary phase"
+      ],
+      "answer": 0,
+      "explanation": "The inflection point marks the transition from accelerating to decelerating growth, where the second derivative changes sign.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "For a plant exhibiting geometric (exponential) growth, the relative growth rate (RGR) remains:",
+      "options": [
+        "Constant over time",
+        "Decreases with time",
+        "Increases with time",
+        "Zero"
+      ],
+      "answer": 0,
+      "explanation": "Geometric growth multiplies size by a constant factor each interval, so the percentage increase (RGR) stays constant.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "In a growth curve, the slope of the tangent at any point represents:",
+      "options": [
+        "Absolute growth rate (AGR)",
+        "Relative growth rate (RGR)",
+        "Specific leaf area",
+        "Photosynthetic photon flux density"
+      ],
+      "answer": 0,
+      "explanation": "The instantaneous slope (derivative) of the curve gives the absolute increase in size per unit time, i.e., AGR.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "During the stationary phase of a growth curve, the absolute growth rate is:",
+      "options": [
+        "Zero (or approaches zero)",
+        "Maximum",
+        "Decreasing but still positive",
+        "Negative"
+      ],
+      "answer": 0,
+      "explanation": "In the stationary phase net increase in size ceases, so the absolute growth rate is essentially zero.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "A prolonged lag phase before rapid growth in a plant's growth curve most likely indicates:",
+      "options": [
+        "Insufficient nutrients",
+        "High genetic growth potential",
+        "Excessive light",
+        "Optimal temperature"
+      ],
+      "answer": 0,
+      "explanation": "A lag phase often reflects the plant adjusting to limiting factors such as nutrient deficiency before rapid division can commence.",
+      "topic": "Growth curve"
+    },
+    {
+      "question": "What best describes the lag phase in the growth curve of a plant seedling?",
+      "options": [
+        "A period of rapid increase in biomass after germination",
+        "A short interval of negligible increase in size as metabolic adjustments occur",
+        "The phase where the plant reaches its maximum height",
+        "A stage characterized by senescence and decline"
+      ],
+      "answer": 1,
+      "explanation": "During the lag phase, the seedling undergoes metabolic and physiological adjustments with little visible increase in size, preceding the exponential (log) growth phase.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "How does the relative growth rate (RGR) during the lag phase compare to that in the log phase?",
+      "options": [
+        "RGR is highest in the lag phase and decreases thereafter",
+        "RGR is approximately zero or very low in the lag phase and rises sharply in the log phase",
+        "RGR remains constant throughout both phases",
+        "RGR is negative in the lag phase and becomes positive in the log phase"
+      ],
+      "answer": 1,
+      "explanation": "In the lag phase, growth is minimal, so the relative growth rate is low; it increases markedly once the plant enters the log (exponential) phase.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "Which environmental factor most strongly influences the duration of the lag phase in seedlings?",
+      "options": [
+        "Soil pH",
+        "Ambient temperature",
+        "Leaf colour",
+        "Flowering time"
+      ],
+      "answer": 1,
+      "explanation": "Temperature affects enzymatic activities and metabolic adjustments; optimal temperatures shorten the lag phase, while sub‑optimal temperatures prolong it.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "On a sigmoid growth curve, the transition from lag phase to log phase is indicated by:",
+      "options": [
+        "The point where the curve reaches its maximum height",
+        "The inflection point where the slope of the curve begins to increase rapidly",
+        "The plateau where growth ceases",
+        "The initial point where the curve first rises from zero"
+      ],
+      "answer": 1,
+      "explanation": "The inflection point marks the end of the lag phase; beyond this point the absolute growth rate accelerates, entering the exponential (log) phase.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "Which experimental approach is most suitable for determining the length of the lag phase in a plant species?",
+      "options": [
+        "Measuring leaf chlorophyll content daily",
+        "Plotting cumulative dry weight against time and identifying the initial flat segment",
+        "Counting the number of flowers produced per week",
+        "Recording the time of first seed set"
+      ],
+      "answer": 1,
+      "explanation": "A plot of cumulative dry weight (or another biomass measure) versus time shows an initial flat region representing the lag phase; its duration can be read directly from the graph.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "Which statement correctly differentiates the lag phase from the log phase?",
+      "options": [
+        "Cell division is intense in the lag phase but slows down in the log phase",
+        "Photosynthetic activity is absent in the lag phase but maximal in the log phase",
+        "Cell division and elongation are minimal in the lag phase and become rapid in the log phase",
+        "Nutrient uptake occurs only during the log phase"
+      ],
+      "answer": 2,
+      "explanation": "During the lag phase, cells are preparing for division; actual cell division and elongation accelerate markedly during the log phase.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "Why is understanding the lag phase important for transplanting seedlings in agriculture?",
+      "options": [
+        "It determines the colour of the flowers produced later",
+        "It indicates the optimal time to apply pesticides",
+        "It allows the seedling to develop a functional root system before rapid shoot growth, improving transplant survival",
+        "It predicts the exact yield per plant"
+      ],
+      "answer": 2,
+      "explanation": "A well‑established root system formed during the lag phase supports the subsequent rapid shoot growth in the log phase, enhancing transplant success and overall plant vigor.",
+      "topic": "Lag phase"
+    },
+    {
+      "question": "In plant growth kinetics, the log (exponential) phase is characterized by which of the following statements?",
+      "options": [
+        "Growth rate is constant per unit time (linear)",
+        "Growth rate is proportional to the size of the organism",
+        "Growth ceases due to nutrient limitation",
+        "Growth occurs only in meristematic tissues"
+      ],
+      "answer": 1,
+      "explanation": "During the exponential phase the increase in size is proportional to the existing size, giving a constant specific growth rate.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "If a seedling's length increases from 2 cm to 8 cm in 3 days during the exponential phase, what is the total multiplication factor over the period?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "1.5"
+      ],
+      "answer": 1,
+      "explanation": "The length changes from 2 cm to 8 cm, so the factor = 8/2 = 4.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "During the exponential phase, absolute growth (ΔL) is given by ΔL = RGR × L₀ × Δt. If RGR = 0.2 day⁻¹, L₀ = 5 cm and Δt = 2 days, what is ΔL?",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "4 cm",
+        "5 cm"
+      ],
+      "answer": 1,
+      "explanation": "ΔL = 0.2 × 5 × 2 = 2 cm.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "Which factor primarily causes the transition from the log phase to the stationary phase in plant growth?",
+      "options": [
+        "Exhaustion of meristematic cells",
+        "Accumulation of inhibitory hormones and depletion of nutrients",
+        "Sudden increase in temperature",
+        "Loss of photosynthetic pigments"
+      ],
+      "answer": 1,
+      "explanation": "In the stationary phase, growth is limited mainly by nutrient depletion and buildup of growth‑inhibiting substances.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "On a semi‑logarithmic plot (log length vs. time), the exponential phase appears as:",
+      "options": [
+        "A straight line with positive slope",
+        "A curve concave upward",
+        "A horizontal line",
+        "A curve concave downward"
+      ],
+      "answer": 0,
+      "explanation": "Exponential increase gives a constant slope on a semi‑log graph, producing a straight line.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "For geometric growth, length after n days is L = L₀(1+r)ⁿ. If the length doubles in 5 days, the approximate daily fractional increase r is:",
+      "options": [
+        "0.14",
+        "0.20",
+        "0.25",
+        "0.30"
+      ],
+      "answer": 0,
+      "explanation": "(1+r)⁵ = 2 ⇒ 1+r = 2^{1/5} ≈ 1.1487 ⇒ r ≈ 0.148 ≈ 0.14.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "Which observation indicates that a plant culture is in the log phase?",
+      "options": [
+        "Linear increase in biomass with time",
+        "Constant specific growth rate irrespective of biomass",
+        "Decrease in respiration rate",
+        "No change in cell‑division rate"
+      ],
+      "answer": 1,
+      "explanation": "In the log phase the specific (relative) growth rate remains constant regardless of the amount of biomass.",
+      "topic": "Log or exponential phase"
+    },
+    {
+      "question": "In a sigmoid growth curve of a plant organ, the stationary phase is characterized by which of the following?",
+      "options": [
+        "A rapid increase in organ length",
+        "The organ length remains almost constant despite continued metabolic activity",
+        "An initial lag before any measurable growth",
+        "An exponential increase in cell number"
+      ],
+      "answer": 1,
+      "explanation": "During the stationary phase, the net increase in length is negligible; growth rate plateaus even though cellular processes may still be active.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "Which statement correctly distinguishes the stationary phase from the log (exponential) phase in plant growth?",
+      "options": [
+        "Cell division ceases completely in the stationary phase",
+        "The rate of increase in length is highest in the stationary phase",
+        "Relative growth rate is zero or near‑zero in the stationary phase",
+        "Biomass accumulation is maximal during the stationary phase"
+      ],
+      "answer": 2,
+      "explanation": "In the stationary phase the relative growth rate approaches zero, whereas in the log phase it is at its maximum.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "During the stationary phase of root elongation, which of the following physiological changes is most likely to occur?",
+      "options": [
+        "Increase in auxin concentration at the tip",
+        "Activation of cell wall loosening enzymes",
+        "Down‑regulation of cyclin‑dependent kinases",
+        "Enhanced synthesis of ribosomal RNA"
+      ],
+      "answer": 2,
+      "explanation": "Cyclin‑dependent kinases control cell cycle progression; their down‑regulation leads to reduced cell division characteristic of the stationary phase.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "If a plant’s shoot growth curve shows a prolonged stationary phase, which environmental factor is most commonly responsible?",
+      "options": [
+        "Excessive light intensity",
+        "Nutrient deficiency",
+        "Optimal temperature",
+        "High atmospheric CO₂"
+      ],
+      "answer": 1,
+      "explanation": "Nutrient deficiency limits the resources needed for cell division and expansion, extending the stationary phase.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "Which of the following best describes the relationship between absolute growth and the stationary phase?",
+      "options": [
+        "Absolute growth is maximal during the stationary phase",
+        "Absolute growth is zero or negligible in the stationary phase",
+        "Absolute growth continues at a constant rate in the stationary phase",
+        "Absolute growth is negative in the stationary phase"
+      ],
+      "answer": 1,
+      "explanation": "Absolute growth (change in size per unit time) becomes negligible when the organ has entered the stationary phase.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "In the context of meristematic growth, the transition from the log phase to the stationary phase is primarily due to:",
+      "options": [
+        "Loss of meristematic identity in the apical dome",
+        "Increase in photosynthetic rate",
+        "Accumulation of storage compounds",
+        "Expansion of the vascular cambium"
+      ],
+      "answer": 0,
+      "explanation": "When meristematic cells stop dividing, the apical meristem loses its proliferative capacity, leading to the stationary phase.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "Which experimental observation would indicate that a plant organ has entered the stationary phase?",
+      "options": [
+        "A steady rise in fresh weight over 24 h",
+        "A constant increase in cell number per unit length",
+        "No measurable increase in length over successive measurements despite unchanged temperature and light",
+        "A rapid rise in respiration rate"
+      ],
+      "answer": 2,
+      "explanation": "The hallmark of the stationary phase is the lack of net length increase despite favorable environmental conditions.",
+      "topic": "Stationary phase"
+    },
+    {
+      "question": "Which of the following best defines absolute growth in plants?",
+      "options": [
+        "Increase in size per unit time",
+        "Increase in size relative to the initial size",
+        "Increase in the number of cells only",
+        "Increase in biomass per unit leaf area"
+      ],
+      "answer": 0,
+      "explanation": "Absolute growth is the net increase in a plant attribute (e.g., length, mass) measured as the difference between final and initial values, irrespective of the initial size.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "A root length increases from 5 cm to 12 cm over 3 days. What is the absolute growth of the root?",
+      "options": [
+        "7 cm",
+        "2.33 cm/day",
+        "2.33 cm",
+        "7 cm/day"
+      ],
+      "answer": 0,
+      "explanation": "Absolute growth is the simple difference: 12 cm − 5 cm = 7 cm. It does not incorporate the time interval.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "In a typical sigmoid growth curve of a plant organ, absolute growth is greatest during which phase?",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "During the log or exponential phase the rate of increase in size is highest, giving the maximum absolute growth per unit time.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "Which statement correctly distinguishes absolute growth from relative growth?",
+      "options": [
+        "Absolute growth is expressed as a percentage, while relative growth is expressed in centimetres.",
+        "Absolute growth is the net increase in size, whereas relative growth is the increase per unit initial size.",
+        "Both terms describe the same concept.",
+        "Relative growth is measured only in mass, while absolute growth is measured only in length."
+      ],
+      "answer": 1,
+      "explanation": "Absolute growth = final − initial size. Relative growth = (final − initial)/initial, i.e., growth per unit of the original size.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "Which unit is most appropriate for expressing the absolute growth of a plant stem measured over a period of 10 days?",
+      "options": [
+        "cm",
+        "cm/day",
+        "%/day",
+        "cm²"
+      ],
+      "answer": 0,
+      "explanation": "Absolute growth is the total increase in length, so it is expressed simply in centimetres (or any length unit) without dividing by time.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "A seedling grows 3 cm in height during the first 2 days and 6 cm during the next 3 days. Which statement is true?",
+      "options": [
+        "Absolute growth rate increased",
+        "Absolute growth rate decreased",
+        "Absolute growth remained constant",
+        "Cannot be determined from the data"
+      ],
+      "answer": 0,
+      "explanation": "First interval: 3 cm/2 days = 1.5 cm day⁻¹; second interval: 6 cm/3 days = 2 cm day⁻¹. The growth rate (absolute growth per day) increased.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "A plant’s length was recorded as follows: Day 0 = 10 cm, Day 2 = 13 cm, Day 4 = 18 cm, Day 6 = 20 cm. During which interval is the absolute growth greatest?",
+      "options": [
+        "Day 0–Day 2",
+        "Day 2–Day 4",
+        "Day 4–Day 6",
+        "All intervals show equal absolute growth"
+      ],
+      "answer": 1,
+      "explanation": "Absolute growth = difference in length. Day 0–2: 3 cm, Day 2–4: 5 cm, Day 4–6: 2 cm. The largest increase (5 cm) occurs between Day 2 and Day 4.",
+      "topic": "Absolute growth"
+    },
+    {
+      "question": "The relative growth rate (RGR) of a plant is given by which expression?",
+      "options": [
+        "ΔW/Δt",
+        "ΔW/(W·Δt)",
+        "W·Δt/ΔW",
+        "Δt/ΔW"
+      ],
+      "answer": 1,
+      "explanation": "RGR = (1/W)(dW/dt) which is mathematically expressed as ΔW divided by the product of initial weight (W) and time interval (Δt).",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "During which phase of the sigmoid growth curve is the relative growth rate highest?",
+      "options": [
+        "Lag phase",
+        "Log (exponential) phase",
+        "Stationary phase",
+        "Decline phase"
+      ],
+      "answer": 1,
+      "explanation": "In the log or exponential phase the plant’s biomass increases proportionally to its current size, giving the maximum relative growth rate.",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "Two seedlings, A and B, have the same absolute increase in fresh weight (2 g) over 24 h. Seedling A's initial weight was 10 g, Seedling B's initial weight was 40 g. Which seedling has the higher relative growth rate?",
+      "options": [
+        "Seedling A",
+        "Seedling B",
+        "Both have equal RGR",
+        "Cannot be determined from the data"
+      ],
+      "answer": 0,
+      "explanation": "RGR = ΔW/(W·Δt). For A: 2/(10·24)=0.0083 g·g⁻¹·h⁻¹; for B: 2/(40·24)=0.0021 g·g⁻¹·h⁻¹. Hence A has the higher RGR.",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "Which statement about relative growth rate (RGR) with respect to plant age is correct?",
+      "options": [
+        "RGR increases as the plant ages",
+        "RGR remains constant throughout the plant’s life",
+        "RGR decreases as the plant ages",
+        "RGR is independent of the plant’s age"
+      ],
+      "answer": 2,
+      "explanation": "Young plants allocate a larger fraction of their biomass to growth, so RGR is highest early and declines as the plant matures.",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "If the relative growth rate of a plant is 0.05 day⁻¹, what is the percentage increase in its biomass per day?",
+      "options": [
+        "0.5 %",
+        "5 %",
+        "50 %",
+        "0.05 %"
+      ],
+      "answer": 1,
+      "explanation": "0.05 day⁻¹ corresponds to a 5 % increase in biomass each day (0.05 × 100).",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "Which environmental factor most directly influences the magnitude of relative growth rate in young seedlings?",
+      "options": [
+        "Soil pH",
+        "Light intensity",
+        "Atmospheric CO₂ concentration",
+        "Temperature"
+      ],
+      "answer": 3,
+      "explanation": "Within physiological limits, temperature controls enzymatic activity and metabolic rates, thereby having the strongest direct effect on RGR of seedlings.",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "Relative growth rate (RGR) can be expressed in terms of which plant parameter?",
+      "options": [
+        "Increase in leaf number per day",
+        "Increase in leaf area per unit leaf area per day",
+        "Increase in root length per unit root length per hour",
+        "Increase in total plant height per day"
+      ],
+      "answer": 1,
+      "explanation": "RGR is often measured as the fractional increase in leaf area (or biomass) per unit existing leaf area per unit time, reflecting growth efficiency.",
+      "topic": "Relative growth"
+    },
+    {
+      "question": "Meristematic growth in plants is primarily characterized by which of the following processes?",
+      "options": [
+        "Increase in cell size due to vacuolation",
+        "Cell division in regions of undifferentiated cells",
+        "Deposition of secondary cell wall material",
+        "Loss of meristematic activity after flowering"
+      ],
+      "answer": 1,
+      "explanation": "Meristematic growth refers to the increase in number of cells through repeated cell divisions in meristematic regions, which consist of small, densely cytoplasmic, undifferentiated cells.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "Which meristem is chiefly responsible for the primary elongation of a root?",
+      "options": [
+        "Lateral meristem",
+        "Intercalary meristem",
+        "Apical meristem",
+        "Vascular cambium"
+      ],
+      "answer": 2,
+      "explanation": "The root apical meristem, located at the tip of the root, continuously produces new cells that contribute to primary root elongation.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "In the root tip, the region where cells are actively dividing is called:",
+      "options": [
+        "Zone of elongation",
+        "Zone of differentiation",
+        "Zone of division",
+        "Zone of maturation"
+      ],
+      "answer": 2,
+      "explanation": "The root tip is organized into three zones; the zone of division (or meristematic zone) contains cells that are undergoing frequent mitotic divisions.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "Which statement about intercalary meristems is FALSE?",
+      "options": [
+        "They are located at the base of internodes in grasses",
+        "They contribute to lengthening of stems in monocots",
+        "They are absent in dicotyledonous plants",
+        "They arise from the procambium during primary growth"
+      ],
+      "answer": 3,
+      "explanation": "Intercalary meristems do not originate from the procambium; they arise from residual meristematic tissue at nodes or internode bases, especially in monocots.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "The activity of the apical meristem is primarily regulated by which plant hormone?",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Auxin",
+        "Abscisic acid"
+      ],
+      "answer": 2,
+      "explanation": "Auxin establishes a concentration gradient that promotes cell division and maintains the undifferentiated state of cells in the apical meristem.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "Which statement best distinguishes meristematic growth from absolute growth?",
+      "options": [
+        "Meristematic growth involves increase in cell number, absolute growth involves increase in cell size",
+        "Meristematic growth occurs only in roots, absolute growth only in shoots",
+        "Meristematic growth is irreversible, absolute growth is reversible",
+        "Both involve only cell enlargement without division"
+      ],
+      "answer": 0,
+      "explanation": "Meristematic (relative) growth is due to cell division increasing cell number, whereas absolute growth refers to enlargement of existing cells.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "During secondary growth, the lateral meristem that adds new vascular tissue and increases stem girth is:",
+      "options": [
+        "Apical meristem",
+        "Intercalary meristem",
+        "Vascular cambium",
+        "Root cap"
+      ],
+      "answer": 2,
+      "explanation": "The vascular cambium, a lateral meristem, produces secondary xylem inward and secondary phloem outward, leading to an increase in stem diameter.",
+      "topic": "Meristematic growth"
+    },
+    {
+      "question": "Which region of the root is primarily responsible for the increase in root length during growth?",
+      "options": [
+        "Zone of cell division",
+        "Zone of elongation",
+        "Zone of differentiation",
+        "Root cap"
+      ],
+      "answer": 1,
+      "explanation": "After cells are produced in the meristematic zone, they enter the elongation zone where rapid cell expansion lengthens the root, contributing most to overall root length increase.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "The region of the root where new cells are continuously produced is called the:",
+      "options": [
+        "Meristematic zone",
+        "Elongation zone",
+        "Maturation zone",
+        "Root hair zone"
+      ],
+      "answer": 0,
+      "explanation": "The meristematic (or zone of cell division) at the root tip contains actively dividing cells that give rise to all other root tissues.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "Root hairs are formed in which region of the root?",
+      "options": [
+        "Zone of differentiation",
+        "Zone of elongation",
+        "Zone of cell division",
+        "Root cap"
+      ],
+      "answer": 0,
+      "explanation": "Root hairs develop in the maturation (differentiation) zone where cells have stopped dividing and elongating and begin to specialize for absorption.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "Which statement about the root cap is FALSE?",
+      "options": [
+        "It protects the apical meristem",
+        "It is involved in perception of gravity",
+        "It is a site of active cell division",
+        "It secretes mucilage to ease soil penetration"
+      ],
+      "answer": 2,
+      "explanation": "Cell division occurs in the meristematic zone just behind the root cap; the cap itself does not divide but protects the meristem and senses gravity.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "The transition from the meristematic zone to the elongation zone is marked by:",
+      "options": [
+        "Appearance of root hairs",
+        "Loss of mitotic activity",
+        "Increase in cell size",
+        "Development of lateral roots"
+      ],
+      "answer": 1,
+      "explanation": "When cells exit the meristematic zone they cease mitosis; this loss of mitotic activity signals entry into the elongation zone where cells expand.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "Which hormone predominantly promotes cell elongation in the root elongation zone?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Gibberellin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Auxin stimulates cell wall loosening and elongation in the root elongation zone, driving rapid increase in cell length.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "In a longitudinal section of a young root, lateral roots originate from:",
+      "options": [
+        "In the pericycle just behind the meristematic zone",
+        "In the root cap",
+        "In the elongation zone",
+        "In the maturation zone near the root hairs"
+      ],
+      "answer": 0,
+      "explanation": "Lateral roots arise from pericycle cells located just behind the meristematic zone; these cells retain the capacity to divide and form new root primordia.",
+      "topic": "Regions of root growth"
+    },
+    {
+      "question": "Which region of the shoot apex is primarily responsible for the production of new leaf primordia?",
+      "options": [
+        "Rib zone",
+        "Peripheral zone",
+        "Central zone",
+        "Intercalary meristem"
+      ],
+      "answer": 1,
+      "explanation": "The peripheral zone of the shoot apical meristem gives rise to leaf primordia, whereas the rib zone contributes to internal stem tissues.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "In grasses, rapid elongation of the internodes is due to activity of which meristematic region?",
+      "options": [
+        "Apical meristem",
+        "Intercalary meristem",
+        "Lateral meristem (cambium)",
+        "Root apical meristem"
+      ],
+      "answer": 1,
+      "explanation": "Grasses possess intercalary meristems at the base of each internode; their cell division drives swift internodal elongation.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "The zone of elongation in the shoot is located immediately below which zone?",
+      "options": [
+        "Zone of maturation",
+        "Zone of cell division",
+        "Zone of differentiation",
+        "Zone of photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Cells first divide in the zone of cell division; newly formed cells then enter the zone of elongation just below it.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "Which statement correctly describes the rib zone of the shoot apical meristem?",
+      "options": [
+        "It gives rise to leaf primordia",
+        "It contributes to the formation of the stem's internal tissues",
+        "It is responsible for intercalary growth",
+        "It is absent in monocots"
+      ],
+      "answer": 1,
+      "explanation": "The rib (or central) zone produces cells that become the pith and vascular tissues of the stem.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "In a dicot seedling, the primary growth of the shoot is mainly due to activity in which region?",
+      "options": [
+        "Apical meristem of the shoot",
+        "Lateral meristem (vascular cambium)",
+        "Intercalary meristem",
+        "Root apical meristem"
+      ],
+      "answer": 0,
+      "explanation": "Primary shoot growth in dicots is driven by the apical meristem located at the shoot tip.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "Which zone of the shoot is characterized by cells that have ceased division but are still increasing in size?",
+      "options": [
+        "Zone of cell division",
+        "Zone of elongation",
+        "Zone of maturation",
+        "Peripheral zone"
+      ],
+      "answer": 1,
+      "explanation": "In the elongation zone, cells no longer divide but undergo rapid expansion before entering the maturation zone.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "Why do intercalary meristems allow grasses to recover quickly after grazing?",
+      "options": [
+        "They are located at the shoot tip and produce new leaves",
+        "They are situated at the base of internodes and can resume cell division after damage",
+        "They are part of the vascular cambium and produce secondary xylem",
+        "They are dormant and activate only during flowering"
+      ],
+      "answer": 1,
+      "explanation": "Intercalary meristems lie at internode bases; when the apex is removed by grazing, these meristems can restart division, restoring growth.",
+      "topic": "Regions of shoot growth"
+    },
+    {
+      "question": "Which statement best defines cellular differentiation in plants?",
+      "options": [
+        "An increase in the number of cells",
+        "An increase in cell size",
+        "The process by which unspecialized cells become specialized",
+        "Division of cells in the apical meristem"
+      ],
+      "answer": 2,
+      "explanation": "Cellular differentiation is the process by which initially identical, unspecialized cells acquire distinct structures and functions, becoming specialized tissue types.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "In which region of the root does differentiation of vascular tissues primarily occur?",
+      "options": [
+        "Root cap",
+        "Apical meristem",
+        "Zone of elongation",
+        "Zone of maturation"
+      ],
+      "answer": 3,
+      "explanation": "The zone of maturation (also called the differentiation zone) is where cells complete their specialization, forming xylem and phloem elements.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Which hormone predominantly promotes differentiation of cambial cells into xylem?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Gibberellin",
+        "Abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "Auxin stimulates cambial initials to differentiate preferentially into xylem cells, while cytokinin favors phloem differentiation.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Dedifferentiation in plant cells is best illustrated by which phenomenon?",
+      "options": [
+        "Formation of root hairs",
+        "Callus formation from a cut leaf segment",
+        "Stomatal opening in response to light",
+        "Phototropic bending of stems"
+      ],
+      "answer": 1,
+      "explanation": "When a leaf fragment is wounded, its cells lose their specialized state and proliferate to form an unorganized mass called callus, exemplifying dedifferentiation.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Redifferentiation of a callus into a whole plant is an example of which process?",
+      "options": [
+        "Organogenesis",
+        "Somatic embryogenesis",
+        "Both organogenesis and somatic embryogenesis",
+        "None of the above"
+      ],
+      "answer": 1,
+      "explanation": "Somatic embryogenesis involves the redifferentiation of callus cells into embryo-like structures that develop into complete plants.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Which of the following best describes the difference between meristematic growth and differentiation?",
+      "options": [
+        "Meristematic growth involves cell enlargement, differentiation involves cell division",
+        "Meristematic growth is increase in cell number, differentiation is acquisition of specialized function",
+        "Both are identical processes",
+        "Differentiation occurs only in animal cells"
+      ],
+      "answer": 1,
+      "explanation": "Meristematic growth refers to cell division that increases cell number, whereas differentiation is the subsequent process where those cells acquire specific structures and functions.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Plasticity in plants often involves dedifferentiation followed by redifferentiation. Which experimental condition most readily induces this in leaf tissue?",
+      "options": [
+        "Exposure to high light intensity",
+        "Wounding and culture on auxin‑rich medium",
+        "Low temperature exposure",
+        "Drought stress"
+      ],
+      "answer": 1,
+      "explanation": "Wounding provides a stimulus for cells to dedifferentiate, and an auxin‑rich medium supplies the hormonal signal needed for redifferentiation into new organs or callus.",
+      "topic": "Differentiation"
+    },
+    {
+      "question": "Which statement best defines dedifferentiation in plant cells?",
+      "options": [
+        "Reversion of a specialized cell to a less specialized, meristem-like state",
+        "Division of meristematic cells to produce specialized tissues",
+        "Permanent loss of the ability to divide",
+        "Conversion of root cells directly into leaf cells"
+      ],
+      "answer": 0,
+      "explanation": "Dedifferentiation is the process where a differentiated plant cell reverts to a less specialized, often meristem-like, state, enabling it to regain proliferative capacity.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "In plant tissue culture, a high auxin to cytokinin ratio most directly promotes which of the following processes?",
+      "options": [
+        "Shoot organogenesis",
+        "Root organogenesis",
+        "Callus formation via dedifferentiation",
+        "Direct somatic embryogenesis"
+      ],
+      "answer": 2,
+      "explanation": "A high auxin : cytokinin ratio favors cell proliferation and dedifferentiation, leading to callus formation, whereas a low ratio favors shoot formation.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "Compared with their original differentiated state, dedifferentiated plant cells most characteristically exhibit:",
+      "options": [
+        "Increased number of chloroplasts",
+        "Thickened secondary cell walls",
+        "Re‑activation of cell‑cycle genes",
+        "Accumulation of storage proteins"
+      ],
+      "answer": 2,
+      "explanation": "Dedifferentiation involves re‑entry into the cell cycle, marked by the re‑activation of genes controlling DNA replication and mitosis.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "During wound healing in a stem, dedifferentiation primarily occurs in which cells?",
+      "options": [
+        "Vascular cambium cells",
+        "Pericycle cells",
+        "Epidermal cells adjacent to the wound",
+        "Leaf mesophyll cells"
+      ],
+      "answer": 2,
+      "explanation": "Cells at the wound edge, especially epidermal and parenchyma cells, dedifferentiate to form a proliferative callus that later redifferentiates to seal the wound.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "Which statement about dedifferentiation and totipotency in plants is correct?",
+      "options": [
+        "Only embryogenic cells retain totipotency; dedifferentiated cells cannot form whole plants",
+        "Dedifferentiated cells regain totipotency, allowing regeneration of a whole plant",
+        "Dedifferentiated cells are permanently arrested in G1 phase",
+        "Totipotency is lost once cells differentiate and cannot be regained"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells that dedifferentiate can reacquire totipotency, enabling them to regenerate an entire plant under suitable conditions.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "Dedifferentiation contributes to which phenomenon of plant developmental plasticity?",
+      "options": [
+        "Photoperiodic flowering",
+        "Vernalisation",
+        "Formation of adventitious roots",
+        "Seed dormancy"
+      ],
+      "answer": 2,
+      "explanation": "When a stem or leaf is wounded, cells can dedifferentiate and give rise to adventitious roots, illustrating plasticity in response to environmental cues.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "Which experimental observation provides direct evidence of dedifferentiation in plants?",
+      "options": [
+        "Increased photosynthetic rate after wounding",
+        "Formation of a callus mass from leaf explants on hormone‑supplemented medium",
+        "Immediate lignification of damaged tissue",
+        "Permanent loss of mitotic activity in cut stems"
+      ],
+      "answer": 1,
+      "explanation": "Callus formation from explants cultured with auxin and cytokinin demonstrates that differentiated cells have dedifferentiated and regained proliferative ability.",
+      "topic": "Dedifferentiation"
+    },
+    {
+      "question": "Redifferentiation in plants refers to:",
+      "options": [
+        "Conversion of specialized cells back to meristematic cells",
+        "Formation of new organs from undifferentiated callus",
+        "Process by which dedifferentiated cells acquire a new specialized identity",
+        "Loss of cell polarity during division"
+      ],
+      "answer": 2,
+      "explanation": "Redifferentiation is the process where previously dedifferentiated cells regain a specific differentiated state, often leading to organ formation.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "Which combination of plant hormones most effectively promotes redifferentiation of callus into shoots in vitro?",
+      "options": [
+        "High auxin, low cytokinin",
+        "High cytokinin, low auxin",
+        "Equal auxin and cytokinin",
+        "Gibberellin alone"
+      ],
+      "answer": 1,
+      "explanation": "A high cytokinin to auxin ratio favors shoot organogenesis, i.e., redifferentiation of callus into shoots.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "In tissue culture, the formation of a new root system from a leaf explant after transfer to a medium containing high auxin is an example of:",
+      "options": [
+        "Dedifferentiation",
+        "Redifferentiation",
+        "Primary growth",
+        "Photoperiodic response"
+      ],
+      "answer": 1,
+      "explanation": "Leaf cells first dedifferentiate to callus and then redifferentiate into root tissue under auxin influence.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "During redifferentiation, which cellular event is most characteristic?",
+      "options": [
+        "Increase in vacuole size",
+        "Re‑establishment of cell wall thickening patterns",
+        "Loss of chloroplasts",
+        "Random DNA methylation"
+      ],
+      "answer": 1,
+      "explanation": "Redifferentiation involves re‑establishing specific cell wall structures and organelle composition appropriate to the new cell type.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "When a stem is cut and a callus forms at the wound site, the subsequent development of new vascular tissue is due to:",
+      "options": [
+        "Primary meristem activity",
+        "Dedifferentiation only",
+        "Redifferentiation of callus cells",
+        "Apical dominance"
+      ],
+      "answer": 2,
+      "explanation": "Callus cells first dedifferentiate and then redifferentiate into vascular tissues to reconnect the damaged stem.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "Which statement correctly distinguishes redifferentiation from dedifferentiation?",
+      "options": [
+        "Dedifferentiation involves loss of specialization; redifferentiation restores the original specialization",
+        "Dedifferentiation occurs only in roots; redifferentiation only in shoots",
+        "Both processes require the same hormone ratio",
+        "Redifferentiation precedes dedifferentiation"
+      ],
+      "answer": 0,
+      "explanation": "Dedifferentiation is loss of specialized features, whereas redifferentiation is the acquisition of a new specialized identity.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "Redifferentiation contributes to plant developmental plasticity by enabling:",
+      "options": [
+        "Fixed organ numbers",
+        "Permanent loss of meristems",
+        "Regeneration of organs after injury",
+        "Inhibition of lateral root formation"
+      ],
+      "answer": 2,
+      "explanation": "Through redifferentiation, plants can regenerate lost organs, demonstrating developmental plasticity.",
+      "topic": "Redifferentiation"
+    },
+    {
+      "question": "Which process describes the reversion of a mature plant cell to a less differentiated state before it can give rise to a new organ?",
+      "options": [
+        "Dedifferentiation",
+        "Redifferentiation",
+        "Transdifferentiation",
+        "Apical dominance"
+      ],
+      "answer": 0,
+      "explanation": "Dedifferentiation is the loss of specialized characteristics, allowing a mature cell to become pluripotent and later redifferentiate into new tissues.",
+      "topic": "Development"
+    },
+    {
+      "question": "In the sigmoid growth curve of a plant, the lag phase primarily reflects:",
+      "options": [
+        "Maximum rate of cell division",
+        "Initiation of cell expansion",
+        "Accumulation of resources before rapid growth",
+        "Onset of senescence"
+      ],
+      "answer": 2,
+      "explanation": "During the lag phase, the plant accumulates assimilates and prepares cellular machinery, resulting in a slow increase before the exponential (log) phase.",
+      "topic": "Development"
+    },
+    {
+      "question": "Which region of the root is chiefly responsible for primary elongation during development?",
+      "options": [
+        "Apical meristem",
+        "Zone of elongation",
+        "Zone of differentiation",
+        "Lateral root primordia"
+      ],
+      "answer": 1,
+      "explanation": "The zone of elongation lies just behind the apical meristem where cells increase in length, driving primary root elongation.",
+      "topic": "Development"
+    },
+    {
+      "question": "Photoperiodic response in short‑day plants is mediated mainly by which phytochrome form?",
+      "options": [
+        "Pr (red‑absorbing)",
+        "Pfr (far‑red‑absorbing)",
+        "Both forms equally",
+        "Neither; cryptochrome only"
+      ],
+      "answer": 1,
+      "explanation": "In short‑day plants, the active Pfr form suppresses flowering; a long night reduces Pfr levels, allowing flowering to proceed.",
+      "topic": "Development"
+    },
+    {
+      "question": "Vernalisation promotes flowering by affecting which of the following gene regulatory mechanisms?",
+      "options": [
+        "Up‑regulation of FT gene",
+        "Down‑regulation of FLC gene",
+        "Activation of gibberellin biosynthesis",
+        "Increase in auxin transport"
+      ],
+      "answer": 1,
+      "explanation": "Cold exposure during vernalisation epigenetically represses the floral repressor FLC, thereby permitting the expression of flowering genes.",
+      "topic": "Development"
+    },
+    {
+      "question": "Relative growth rate (RGR) of a plant is expressed as:",
+      "options": [
+        "ΔW/Δt",
+        "(ΔW/W)/Δt",
+        "ΔL/Δt",
+        "(ΔL/L)/Δt"
+      ],
+      "answer": 1,
+      "explanation": "RGR is the increase in biomass per unit existing biomass per unit time, given by (ΔW/W)/Δt.",
+      "topic": "Development"
+    },
+    {
+      "question": "Phenotypic plasticity in plant development enables a plant to:",
+      "options": [
+        "Maintain a fixed phenotype regardless of environment",
+        "Alter its growth pattern in response to environmental cues",
+        "Increase its genetic mutation rate",
+        "Produce seeds without pollination"
+      ],
+      "answer": 1,
+      "explanation": "Plasticity allows plants to modify morphology, physiology or development according to external factors such as light, temperature, or water availability.",
+      "topic": "Development"
+    },
+    {
+      "question": "Which statement best defines phenotypic plasticity in plants?",
+      "options": [
+        "A genotype expresses the same phenotype regardless of environmental conditions",
+        "A genotype can produce different phenotypes when grown under different environmental conditions",
+        "Plants acquire new genetic mutations in response to stress",
+        "Plants exchange genetic material with neighboring species"
+      ],
+      "answer": 1,
+      "explanation": "Phenotypic plasticity refers to the ability of a single genotype to generate multiple phenotypes depending on the environment, allowing plants to adjust their morphology, physiology or development.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "Which of the following is an example of reversible plasticity in plants?",
+      "options": [
+        "Formation of thorns after herbivore attack",
+        "Seasonal shedding of leaves in deciduous trees",
+        "Opening and closing of stomata in response to light intensity",
+        "Development of tubers under short‑day conditions"
+      ],
+      "answer": 2,
+      "explanation": "Stomatal movements are a rapid, reversible physiological adjustment that plants make to fluctuating light, exemplifying reversible phenotypic plasticity.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "Shade‑avoidance syndrome in plants is primarily mediated by which hormone?",
+      "options": [
+        "Cytokinin",
+        "Abscisic acid",
+        "Auxin",
+        "Gibberellin"
+      ],
+      "answer": 2,
+      "explanation": "Reduced red:far‑red light ratio triggers increased auxin synthesis and transport, leading to stem elongation and other shade‑avoidance responses.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "Under drought stress, plants commonly exhibit which plastic change in root architecture?",
+      "options": [
+        "Shortening of primary roots",
+        "Increasing the root‑to‑shoot biomass ratio",
+        "Producing more lateral shoots",
+        "Reducing root hair density"
+      ],
+      "answer": 1,
+      "explanation": "Drought induces a plastic increase in root allocation relative to shoots, enhancing water acquisition from the soil.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "How does acclimation differ from adaptation in the context of plant plasticity?",
+      "options": [
+        "Acclimation involves genetic changes across generations",
+        "Acclimation is an immediate, reversible physiological adjustment within an individual's lifetime",
+        "Acclimation results in permanent morphological alterations",
+        "Acclimation is an evolutionary process driven by natural selection"
+      ],
+      "answer": 1,
+      "explanation": "Acclimation is a short‑term, reversible response of an individual to environmental change, whereas adaptation involves heritable genetic changes over generations.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "Transgenerational plasticity in plants can be mediated by which epigenetic mechanism?",
+      "options": [
+        "DNA sequence mutations",
+        "Transmission of specific histone acetylation patterns through gametes",
+        "Alterations in protein synthesis rates",
+        "Changes in mRNA splicing patterns"
+      ],
+      "answer": 1,
+      "explanation": "Epigenetic marks such as histone modifications can be inherited through seeds, allowing parental environmental experiences to influence offspring phenotype.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "High light intensity typically induces which plastic response in leaf anatomy?",
+      "options": [
+        "Thinner palisade mesophyll layer",
+        "Increased leaf thickness with additional palisade cell layers",
+        "Larger stomatal apertures",
+        "Reduced chlorophyll concentration"
+      ],
+      "answer": 1,
+      "explanation": "Leaves exposed to intense light develop a thicker palisade mesophyll with more cell layers to maximize light capture and protect photosynthetic machinery.",
+      "topic": "Plasticity in plants"
+    },
+    {
+      "question": "Photoperiodism in plants is primarily mediated by which photoreceptor system?",
+      "options": [
+        "Phytochrome",
+        "Cryptochrome",
+        "Phototropin",
+        "UVR8"
+      ],
+      "answer": 0,
+      "explanation": "Phytochrome exists in two interconvertible forms (Pr and Pfr) and senses red/far‑red light, governing the plant's response to day length.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "A plant that requires night periods longer than a critical length to flower is classified as a:",
+      "options": [
+        "Short‑day plant",
+        "Long‑day plant",
+        "Day‑neutral plant",
+        "Photoperiod‑insensitive plant"
+      ],
+      "answer": 0,
+      "explanation": "Short‑day (or long‑night) plants flower only when the uninterrupted dark period exceeds a species‑specific critical night length.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "Which of the following crops is a typical long‑day plant, flowering when the night is shorter than a critical duration?",
+      "options": [
+        "Rice",
+        "Soybean",
+        "Wheat",
+        "Chickpea"
+      ],
+      "answer": 2,
+      "explanation": "Wheat requires long days (short nights) to induce flowering, unlike short‑day crops such as rice and soybean.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "The term \"critical day length\" refers to:",
+      "options": [
+        "The minimum number of daylight hours required for photosynthesis",
+        "The specific duration of light that switches the phytochrome system from Pr to Pfr",
+        "The threshold photoperiod that determines the flowering response of a plant",
+        "The total daily light integral needed for optimal growth"
+      ],
+      "answer": 2,
+      "explanation": "Critical day length is the precise photoperiod at which a plant transitions from vegetative to reproductive development, differing for short‑day and long‑day species.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "In the phytochrome model, which form is biologically active in promoting flowering in long‑day plants?",
+      "options": [
+        "Pr (red‑absorbing)",
+        "Pfr (far‑red‑absorbing)",
+        "Both Pr and Pfr equally",
+        "Neither, another photoreceptor is responsible"
+      ],
+      "answer": 1,
+      "explanation": "The Pfr form, generated by red light, is the active form that accumulates under long days and induces flowering in long‑day plants.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "If a short‑day plant is exposed to a night interruption of red light, the flowering response will:",
+      "options": [
+        "Be enhanced because red light promotes Pfr formation",
+        "Be suppressed because red light converts Pfr back to Pr, resetting the night length",
+        "Remain unchanged as red light does not affect short‑day plants",
+        "Switch the plant to a long‑day response"
+      ],
+      "answer": 1,
+      "explanation": "Red light during the night converts Pfr to Pr, effectively lengthening the perceived night and preventing the plant from meeting its critical night length, thus inhibiting flowering.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "Which experimental observation best demonstrates the role of photoperiod in plant development?",
+      "options": [
+        "Plants grown under continuous darkness flower earlier than those under continuous light",
+        "Plants exposed to a 12‑hour light/12‑hour dark cycle flower regardless of species",
+        "Plants transferred from a short‑day to a long‑day regime after the critical phase do not flower",
+        "Plants subjected to night breaks of far‑red light flower earlier than those with red light breaks"
+      ],
+      "answer": 3,
+      "explanation": "Far‑red light during a night break converts Pfr back to Pr, shortening the effective night and promoting flowering in long‑day plants, whereas red light would have the opposite effect.",
+      "topic": "Photoperiod overview"
+    },
+    {
+      "question": "What is the primary definition of vernalisation in plants?",
+      "options": [
+        "Induction of seed dormancy by high temperature",
+        "Induction of flowering by prolonged low temperature",
+        "Induction of leaf senescence by drought stress",
+        "Induction of root growth by nutrient deficiency"
+      ],
+      "answer": 1,
+      "explanation": "Vernalisation refers to the induction of flowering after a plant experiences a prolonged period of low (cold) temperature.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "Which gene acts as a major floral repressor that is down‑regulated by vernalisation in Arabidopsis thaliana?",
+      "options": [
+        "FLC",
+        "FT",
+        "CO",
+        "SOC1"
+      ],
+      "answer": 0,
+      "explanation": "FLOWERING LOCUS C (FLC) represses flowering; vernalisation leads to epigenetic silencing of FLC, allowing flowering to proceed.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "In winter wheat, the vernalisation requirement is typically satisfied by exposure to which temperature range and duration?",
+      "options": [
+        "0–10 °C for 4–6 weeks",
+        "10–20 °C for 2 weeks",
+        "15–25 °C for 1 week",
+        "5–15 °C for 10 days"
+      ],
+      "answer": 0,
+      "explanation": "Winter wheat needs a prolonged cold period, usually 0–10 °C for about 4–6 weeks, to fulfill its vernalisation requirement.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "How does vernalisation differ from photoperiodism in terms of environmental cue?",
+      "options": [
+        "Both processes are temperature dependent",
+        "Both processes are light dependent",
+        "Vernalisation is temperature dependent, while photoperiodism is light dependent",
+        "Vernalisation is light dependent, while photoperiodism is temperature dependent"
+      ],
+      "answer": 2,
+      "explanation": "Vernalisation relies on exposure to low temperature, whereas photoperiodism depends on the length or quality of light.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "Which plant hormone is most commonly associated with promoting flowering after vernalisation?",
+      "options": [
+        "Abscisic acid",
+        "Gibberellins",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins (GA) often increase after vernalisation and help trigger the transition to flowering in many species.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "The epigenetic mark that is deposited on the FLC locus during vernalisation is:",
+      "options": [
+        "DNA methylation of the promoter",
+        "Histone H3 lysine 27 trimethylation (H3K27me3)",
+        "Histone acetylation",
+        "RNA‑mediated gene silencing"
+      ],
+      "answer": 1,
+      "explanation": "Vernalisation leads to the addition of H3K27me3 marks on FLC chromatin, resulting in stable repression of the gene.",
+      "topic": "Vernalisation overview"
+    },
+    {
+      "question": "A plant that requires a period of cold (vernalisation) but does not depend on day length to flower is best described as a:",
+      "options": [
+        "Long‑day plant",
+        "Short‑day plant",
+        "Day‑neutral plant",
+        "Winter annual"
+      ],
+      "answer": 3,
+      "explanation": "Winter annuals need vernalisation to flower but are not constrained by photoperiod; they flower after winter regardless of day length.",
+      "topic": "Vernalisation overview"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 21,
+    "mcqCount": 147
+  }
+}

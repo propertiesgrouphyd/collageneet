@@ -1,0 +1,416 @@
+{
+  "day": 19,
+  "courseDate": "2026-09-17",
+  "publishAt": "2026-09-17T06:00:00+05:30",
+  "title": "Day 19: Cell Cycle and Cell Division",
+  "introduction": "This lesson explores chromosome organization, interprets cell‑division diagrams, compares mitosis with meiosis and links cell division to growth and reproduction, aligning with NEET‑UG expectations.",
+  "sections": [
+    {
+      "topic": "Chromosome organisation",
+      "heading": "Structure and Number of Chromosomes",
+      "content": "Chromatin is DNA‑protein complex that condenses into chromosomes during interphase. Each chromosome consists of two sister chromatids joined at the centromere. Chromosome number is expressed as 2n (diploid) for somatic cells and n (haploid) for gametes. Homologous chromosomes are a pair of chromosomes (one maternal, one paternal) that carry the same genes at identical loci but may have different alleles. The kinetochore, a proteinaceous plate on the centromere, serves as the attachment site for spindle microtubules during segregation.",
+      "keyPoints": [
+        "Chromatin → chromosomes; sister chromatids are identical copies joined at centromere",
+        "Diploid (2n) = two sets of homologues; haploid (n) = one set",
+        "Homologous chromosomes share gene loci but differ in allelic composition",
+        "Kinetochore mediates spindle attachment and chromosome movement"
+      ],
+      "neetTips": [
+        "Remember: centromere = ‘center’ of sister chromatids; kinetochore = ‘key’ for spindle attachment",
+        "Link ploidy (2n, n) directly to cell‑type (somatic vs gamete) for quick recall"
+      ]
+    },
+    {
+      "topic": "Cell division diagrams",
+      "heading": "Step‑wise Visualisation of Mitosis and Meiosis",
+      "content": "Mitosis proceeds through prophase, prometaphase, metaphase, anaphase, telophase and cytokinesis, each identifiable by chromosome condensation, spindle attachment, alignment at the metaphase plate, sister chromatid separation and nuclear re‑formation. Meiosis I includes prophase I (leptotene‑pachytene‑diplotene‑diakinesis) where synapsis forms bivalents (tetrads) via homologous pairing; crossing‑over creates chiasmata that hold homologues until anaphase I. Meiosis II mirrors mitosis but without DNA replication. Diagrams typically label these stages, showing homologous chromosome segregation in meiosis I and sister chromatid segregation in meiosis II.",
+      "keyPoints": [
+        "Mitosis: one round, produces 2 identical diploid cells",
+        "Meiosis I: homologues separate; crossing‑over in prophase I generates genetic diversity",
+        "Meiosis II: sister chromatids separate, yielding 4 haploid cells",
+        "Synapsis → bivalent (tetrad) formation; chiasmata = physical manifestation of crossing‑over"
+      ],
+      "neetTips": [
+        "When interpreting diagrams, locate the centromere position to identify sister vs homologous separation",
+        "Associate ‘crossing‑over’ with chiasmata visible as X‑shaped connections in prophase I"
+      ]
+    },
+    {
+      "topic": "Mitosis and meiosis comparison",
+      "heading": "Key Differences and Genetic Consequences",
+      "content": "Mitosis and meiosis share the same basic phases (prophase, metaphase, anaphase, telophase) but differ in chromosome behaviour and outcomes. Mitosis maintains chromosome number (2n→2n) and produces genetically identical cells, essential for growth and tissue repair. Meiosis reduces ploidy (2n→n) through two successive divisions, generating four genetically distinct gametes. Genetic variation arises from independent assortment of homologues and crossing‑over during meiosis I, a principle frequently tested in NEET questions.",
+      "keyPoints": [
+        "Mitosis: 1 division, diploid → diploid, no recombination",
+        "Meiosis: 2 divisions, diploid → haploid, recombination & independent assortment",
+        "Genetic variation stems from crossing‑over and random homologous chromosome segregation"
+      ],
+      "neetTips": [
+        "Use the mnemonic ‘Mitosis Maintains, Meiosis Mixes’ to recall outcomes",
+        "Practice NEET‑style comparison tables to quickly spot differences"
+      ]
+    },
+    {
+      "topic": "Cell division applications",
+      "heading": "Role in Growth, Development and Reproduction",
+      "content": "Mitosis drives somatic growth, tissue regeneration, and asexual reproduction in plants. It ensures each daughter cell inherits a complete set of chromosomes, preserving genetic integrity. Meiosis underpins sexual reproduction, producing haploid gametes that fuse during fertilisation to restore diploidy, thereby combining genetic material from two parents and enhancing population variability. Disruptions in either process can lead to aneuploidy, cancers, or infertility, topics relevant to clinical NEET scenarios.",
+      "keyPoints": [
+        "Mitosis = growth, repair, asexual propagation",
+        "Meiosis = formation of gametes, genetic diversity, sexual reproduction",
+        "Errors → aneuploidy, tumorigenesis, infertility"
+      ],
+      "neetTips": [
+        "Link each division type to its physiological role (e.g., mitosis → wound healing) for quick recall in case‑based questions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe chromosome structure, number and the role of centromere and kinetochore",
+    "Interpret detailed mitotic and meiotic diagrams, including synapsis, crossing‑over and chiasmata",
+    "Differentiate mitosis from meiosis in terms of stages, outcomes and genetic variation",
+    "Explain how cell division contributes to organismal growth, tissue repair and sexual reproduction"
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly distinguishes chromatin from a chromosome?",
+      "options": [
+        "Chromatin is the highly condensed form visible during mitosis, while a chromosome is the loosely packed DNA‑protein complex in interphase.",
+        "Chromatin is the DNA‑protein complex present in interphase, whereas a chromosome is the highly condensed form visible during mitosis.",
+        "Chromatin and chromosome are synonymous terms.",
+        "Chromatin refers only to RNA, whereas a chromosome contains DNA."
+      ],
+      "answer": 1,
+      "explanation": "In interphase the genetic material exists as chromatin (diffuse DNA‑protein complex). During mitosis it condenses into distinct chromosomes.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "During metaphase of mitosis in a human somatic cell, how many total chromatids are aligned at the equatorial plate?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "184"
+      ],
+      "answer": 1,
+      "explanation": "A diploid human cell has 46 chromosomes; each chromosome consists of two sister chromatids in mitosis, giving 46 × 2 = 92 chromatids.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "The centromere region of a chromosome is essential because it:",
+      "options": [
+        "Contains the DNA sequence that codes for ribosomal RNA",
+        "Serves as the attachment site for spindle microtubules via kinetochores",
+        "Is the site where crossing over occurs during meiosis",
+        "Determines the length of the chromosome arms"
+      ],
+      "answer": 1,
+      "explanation": "Kinetochores form on the centromere and provide the physical link between chromosomes and spindle microtubules, ensuring proper segregation.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "A bivalent (tetrad) formed during meiosis I consists of:",
+      "options": [
+        "Two non‑homologous chromosomes",
+        "Sister chromatids of a single chromosome",
+        "A pair of homologous chromosomes, each with two sister chromatids",
+        "Separated homologous chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "During prophase I, each homologous chromosome (each already consisting of two sister chromatids) pairs with its counterpart, forming a tetrad (bivalent).",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "Crossing over during prophase I of meiosis occurs at:",
+      "options": [
+        "Centromeres",
+        "Telomeres",
+        "Chiasmata",
+        "Kinetochores"
+      ],
+      "answer": 2,
+      "explanation": "The physical manifestation of crossing over is the chiasma (plural chiasmata), where homologous chromosomes exchange genetic material.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "If the diploid chromosome number of a species is 2n = 24, how many chromosomes are present in a mature haploid gamete?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "A haploid (n) gamete contains half the diploid number: n = 2n/2 = 24/2 = 12 chromosomes.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "The kinetochore is best described as:",
+      "options": [
+        "A protein complex that assembles on centromeric DNA and attaches to spindle microtubules",
+        "The region where DNA replication initiates",
+        "The site of ribosome assembly in the nucleus",
+        "The region containing telomeric repeats"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochores are protein structures formed on the centromere that serve as attachment points for spindle fibers during chromosome segregation.",
+      "topic": "Chromosome organisation"
+    },
+    {
+      "question": "A diagram shows chromosomes aligned at the cell equator with each chromosome attached to spindle fibers from opposite poles. Which phase of mitosis is depicted?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "In metaphase of mitosis, condensed chromosomes line up at the metaphase plate with sister chromatids attached to spindle fibers from opposite poles.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "In a diagram of meiosis I, homologous chromosomes are shown paired as tetrads with visible chiasmata. Which meiotic event is being illustrated?",
+      "options": [
+        "Synapsis (pairing) and crossing over",
+        "Metaphase I alignment of homologues",
+        "Anaphase I separation of homologues",
+        "Telophase I cytokinesis"
+      ],
+      "answer": 0,
+      "explanation": "The pairing of homologous chromosomes into tetrads with chiasmata occurs during prophase I (synapsis) and is the basis for crossing over.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "A diagram after telophase II shows four cells, each containing a single nucleus with one set of chromosomes. What is the ploidy of these cells?",
+      "options": [
+        "Diploid (2n)",
+        "Haploid (n)",
+        "Polyploid",
+        "Triploid"
+      ],
+      "answer": 1,
+      "explanation": "After meiosis II, each daughter cell contains one complete set of chromosomes, i.e., it is haploid (n).",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "In an anaphase I diagram, homologous chromosomes move toward opposite poles while sister chromatids stay together. Which structure keeps sister chromatids attached?",
+      "options": [
+        "Kinetochore",
+        "Centromere",
+        "Spindle fiber",
+        "Nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "Sister chromatids remain joined at the centromere until anaphase II; during anaphase I only homologues separate.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "A prophase mitosis diagram shows chromosome condensation, nuclear envelope breakdown, and centrosomes moving apart. Which feature is NOT characteristic of this stage?",
+      "options": [
+        "Chromosome condensation",
+        "Nuclear envelope breakdown",
+        "Spindle fibers attachment to kinetochores",
+        "Separation of sister chromatids"
+      ],
+      "answer": 3,
+      "explanation": "Separation of sister chromatids occurs in anaphase, not in prophase.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "A diagram displays a bivalent (tetrad) with a marked chiasma. What is the functional significance of the chiasma?",
+      "options": [
+        "Site of DNA replication",
+        "Site of crossing over between homologues",
+        "Attachment point for spindle fibers",
+        "Region where sister chromatids separate"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata are the physical manifestations of crossing over where genetic material is exchanged between homologous chromosomes.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "After cytokinesis of mitosis, a diagram shows two daughter cells each containing identical chromosome numbers and genetic content. Which term best describes this outcome?",
+      "options": [
+        "Genetic variation",
+        "Clonal expansion",
+        "Crossing over",
+        "Independent assortment"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis produces genetically identical daughter cells, a process referred to as clonal expansion.",
+      "topic": "Cell division diagrams"
+    },
+    {
+      "question": "After completion of mitosis and meiosis II, which statement correctly describes the number and ploidy of the daughter cells?",
+      "options": [
+        "Two diploid cells are formed after mitosis and two haploid cells after meiosis II",
+        "Two haploid cells are formed after mitosis and two diploid cells after meiosis II",
+        "Four haploid cells are formed after mitosis and two diploid cells after meiosis II",
+        "Four diploid cells are formed after mitosis and four haploid cells after meiosis II"
+      ],
+      "answer": 0,
+      "explanation": "Mitosis yields two genetically identical diploid (2n) cells, whereas meiosis II, the second meiotic division, produces two haploid (n) cells from each meiosis I product.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Crossing over between homologous chromosomes occurs during which specific stage?",
+      "options": [
+        "Prophase of mitosis",
+        "Prophase I of meiosis",
+        "Metaphase II of meiosis",
+        "Interphase"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over is a hallmark of prophase I of meiosis, where homologous chromosomes pair (synapsis) and exchange genetic material.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Which of the following correctly compares the behavior of sister chromatids in anaphase of mitosis and anaphase I of meiosis?",
+      "options": [
+        "Sister chromatids separate in both anaphase of mitosis and anaphase I of meiosis",
+        "Sister chromatids separate in mitosis, while homologous chromosomes separate in meiosis I",
+        "Homologous chromosomes separate in mitosis, while sister chromatids separate in meiosis I",
+        "No chromosomal separation occurs in either process"
+      ],
+      "answer": 1,
+      "explanation": "During mitotic anaphase, sister chromatids are pulled apart. In meiosis I anaphase, homologous chromosomes separate, and sister chromatids remain attached at their centromeres.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Which stage is unique to meiosis and absent in mitosis?",
+      "options": [
+        "Prophase I",
+        "Metaphase II",
+        "Telophase I",
+        "Cytokinesis"
+      ],
+      "answer": 0,
+      "explanation": "Prophase I is exclusive to meiosis and includes synapsis and crossing over, events that do not occur in mitotic prophase.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Which process contributes to genetic variation only in meiosis and not in mitosis?",
+      "options": [
+        "Independent assortment of chromosomes",
+        "Crossing over between homologous chromosomes",
+        "Random fertilization",
+        "Mutation"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over, the reciprocal exchange of DNA between homologous chromosomes, occurs only during meiosis I and creates new allele combinations.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Regarding centromere behavior, which statement is correct?",
+      "options": [
+        "The centromere splits during anaphase of both mitosis and meiosis I",
+        "The centromere does not split during anaphase of mitosis but splits in meiosis I",
+        "The centromere splits during anaphase of mitosis but not during anaphase I of meiosis",
+        "The centromere never splits in either process"
+      ],
+      "answer": 2,
+      "explanation": "In mitosis the centromere separates in anaphase, allowing sister chromatids to move apart. In meiosis I the centromere remains intact, keeping sister chromatids together.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Which phase of meiosis is proportionally longer than its mitotic counterpart because of recombination events?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Prophase I is extended relative to mitotic prophase due to synapsis, formation of the synaptonemal complex, and crossing over, all of which require additional time.",
+      "topic": "Mitosis and meiosis comparison"
+    },
+    {
+      "question": "Which of the following processes directly utilizes mitotic cell division?",
+      "options": [
+        "Formation of gametes",
+        "Growth of a multicellular organism",
+        "Production of haploid spores in ferns",
+        "Genetic recombination during meiosis"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis produces genetically identical diploid cells and is responsible for the increase in cell number during the growth of a multicellular organism.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "In plant asexual propagation by tuber formation, which type of cell division is primarily involved?",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Binary fission",
+        "Endomitosis"
+      ],
+      "answer": 1,
+      "explanation": "Tuber formation involves the proliferation of meristematic cells through mitotic divisions, generating new diploid tissues without meiosis.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "Uncontrolled cell division leading to tumor formation is most commonly associated with failure of which cell‑cycle checkpoint?",
+      "options": [
+        "G1/S checkpoint",
+        "G2/M checkpoint",
+        "Metaphase‑anaphase checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 0,
+      "explanation": "The G1/S checkpoint, regulated by tumor‑suppressor p53, prevents replication of damaged DNA; its loss permits unchecked entry into S phase, a frequent cause of cancer.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "Which statement best describes the role of cell division in wound healing?",
+      "options": [
+        "Differentiation of stem cells into fibroblasts without division",
+        "Proliferation of epithelial cells to replace lost tissue",
+        "Apoptosis of damaged cells only",
+        "Fusion of existing cells to cover the wound"
+      ],
+      "answer": 1,
+      "explanation": "Wound healing requires rapid mitotic proliferation of epithelial and dermal cells to replace the cells lost at the injury site.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "In somatic cell nuclear transfer (cloning), the donor nucleus must be reprogrammed to a state equivalent to which stage of cell division?",
+      "options": [
+        "G1 phase of mitosis",
+        "G2 phase of mitosis",
+        "Metaphase of meiosis II",
+        "Telophase of mitosis"
+      ],
+      "answer": 2,
+      "explanation": "The oocyte used in SCNT is arrested at metaphase II of meiosis; the introduced somatic nucleus must be reprogrammed to this totipotent state for embryonic development.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "Which application of cell division is directly responsible for increasing genetic variation in a population?",
+      "options": [
+        "Mitosis in somatic cells",
+        "Meiosis in gametogenesis",
+        "Binary fission in bacteria",
+        "Endoreduplication in plant cells"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis generates haploid gametes and introduces genetic variation through independent assortment and crossing over, unlike mitosis which produces identical copies.",
+      "topic": "Cell division applications"
+    },
+    {
+      "question": "During early embryonic development, rapid cell divisions called cleavage result in which change in individual cell size?",
+      "options": [
+        "Increase in cell size",
+        "Decrease in cell size",
+        "No change in cell size",
+        "Cell size varies randomly"
+      ],
+      "answer": 1,
+      "explanation": "Cleavage divisions partition the original zygote cytoplasm into many smaller cells (blastomeres) without overall growth, leading to a decrease in cell size.",
+      "topic": "Cell division applications"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 4,
+    "mcqCount": 28
+  }
+}

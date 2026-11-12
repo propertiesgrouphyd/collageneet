@@ -1,0 +1,1944 @@
+{
+  "day": 61,
+  "courseDate": "2026-10-29",
+  "publishAt": "2026-10-29T06:00:00+05:30",
+  "title": "Day 61: Photoperiodism, Vernalisation and Seed Dormancy",
+  "introduction": "This lesson covers the mechanisms by which plants perceive day length and temperature cues to regulate flowering, as well as the physiological basis of seed dormancy and its breakage. Mastery of these concepts is essential for NEET‑UG questions on plant growth and development.",
+  "sections": [
+    {
+      "topic": "Photoperiodism",
+      "heading": "Definition and Significance",
+      "content": "Photoperiodism is the physiological response of plants to the relative lengths of light and dark periods. It synchronises flowering, tuberisation and other developmental events with favourable seasons, ensuring reproductive success.",
+      "keyPoints": [
+        "Plants measure the duration of the dark period (night) rather than light period",
+        "Photoperiodic control is genetically programmed and species‑specific"
+      ],
+      "neetTips": [
+        "Remember that night length, not day length, is the critical cue for most photoperiodic responses."
+      ]
+    },
+    {
+      "topic": "Photoperiodic response",
+      "heading": "Mechanistic Overview",
+      "content": "Photoperiodic response involves perception of light by phytochromes and cryptochromes, signal transduction to the shoot apical meristem, and activation of flowering genes such as FT. The response is gated by the circadian clock, creating a coincidence model between internal rhythm and external light/dark cycles.",
+      "keyPoints": [
+        "Coincidence model: light signal must coincide with a specific phase of the circadian rhythm",
+        "Phytochrome exists in Pr (red‑absorbing) and Pfr (far‑red‑absorbing) forms"
+      ],
+      "neetTips": [
+        "Link the coincidence model to critical photoperiod calculations in NEET questions."
+      ]
+    },
+    {
+      "topic": "Short-day plants",
+      "heading": "Characteristics and Examples",
+      "content": "Short‑day plants (SDPs) flower when the night exceeds a species‑specific critical length. Examples include rice, soybean, and chrysanthemum. They possess a floral inhibitor that is degraded only after a long night.",
+      "keyPoints": [
+        "Flowering induced by night longer than critical photoperiod",
+        "Inhibitor (e.g., FT repressor) is stable under short nights"
+      ],
+      "neetTips": [
+        "Distinguish SDPs from LDPs by recalling that extending night promotes flowering in SDPs."
+      ]
+    },
+    {
+      "topic": "Long-day plants",
+      "heading": "Characteristics and Examples",
+      "content": "Long‑day plants (LDPs) flower when night is shorter than the critical length. Typical LDPs are wheat, barley, and Arabidopsis. A floral promoter accumulates only during short nights.",
+      "keyPoints": [
+        "Flowering induced by night shorter than critical photoperiod",
+        "Promoter (e.g., FT) is synthesized when darkness is insufficient"
+      ],
+      "neetTips": [
+        "For NEET, remember that LDPs require a long day (short night) to trigger flowering."
+      ]
+    },
+    {
+      "topic": "Day-neutral plants",
+      "heading": "Photoperiod Independence",
+      "content": "Day‑neutral plants flower irrespective of day length; they rely on other cues such as age, temperature, or hormonal status. Tomato and cucumber are classic examples.",
+      "keyPoints": [
+        "No critical photoperiod requirement",
+        "Flowering controlled by internal developmental signals"
+      ],
+      "neetTips": [
+        "Do not confuse day‑neutral plants with SDPs or LDPs in application questions."
+      ]
+    },
+    {
+      "topic": "Critical photoperiod",
+      "heading": "Definition and Determination",
+      "content": "Critical photoperiod (CP) is the threshold night length that separates flowering from vegetative growth. It is experimentally determined by exposing plants to varying photoperiods and noting the minimal night required for flowering.",
+      "keyPoints": [
+        "Species‑specific CP varies widely",
+        "CP is measured in hours of uninterrupted darkness"
+      ],
+      "neetTips": [
+        "NEET often asks to identify CP from a graph of flowering percentage versus night length."
+      ]
+    },
+    {
+      "topic": "Role of leaves in photoperiodic response",
+      "heading": "Site of Perception and Signal Generation",
+      "content": "Leaves contain the photoreceptors that perceive light quality and quantity. They synthesize the mobile flowering signal (florigen) which travels via the phloem to the shoot apex.",
+      "keyPoints": [
+        "Leaves are the primary site for light perception",
+        "Florigen (FT protein) is produced in leaves and translocated"
+      ],
+      "neetTips": [
+        "Remember the leaf‑to‑apex transport when answering questions on grafting experiments."
+      ]
+    },
+    {
+      "topic": "Florigen concept",
+      "heading": "Molecular Identity and Function",
+      "content": "Florigen is the hypothesised flowering hormone, now identified as the FT (FLOWERING LOCUS T) protein. FT is expressed in leaves under inductive photoperiods, moves through the phloem, and interacts with FD at the meristem to initiate flowering genes.",
+      "keyPoints": [
+        "FT protein = molecular florigen",
+        "Interaction with FD triggers AP1, LFY expression"
+      ],
+      "neetTips": [
+        "Link FT‑FD complex to downstream floral meristem identity genes in NEET diagrams."
+      ]
+    },
+    {
+      "topic": "Flowering and photoperiod",
+      "heading": "Integration of Signals",
+      "content": "Flowering is the outcome of integrated photoperiodic, hormonal, and temperature signals. Photoperiod determines FT expression, while gibberellins and vernalisation modulate the competence of the meristem.",
+      "keyPoints": [
+        "Photoperiodic pathway converges with gibberellin and vernalisation pathways",
+        "FT acts as a hub integrating external cues"
+      ],
+      "neetTips": [
+        "In multi‑factor questions, prioritize photoperiodic control before hormonal influence."
+      ]
+    },
+    {
+      "topic": "Vernalisation",
+      "heading": "Definition and Biological Role",
+      "content": "Vernalisation is the acquisition of flowering competence after exposure to prolonged low temperature (0‑10 °C). It prevents premature flowering in winter annuals, ensuring that reproduction occurs after winter.",
+      "keyPoints": [
+        "Requires several weeks of chilling",
+        "Epigenetic repression of flowering repressors (e.g., FLC) is lifted"
+      ],
+      "neetTips": [
+        "Recall that vernalisation is a temperature‑dependent, not photoperiod‑dependent, process."
+      ]
+    },
+    {
+      "topic": "Low-temperature treatment",
+      "heading": "Experimental Protocols",
+      "content": "Low‑temperature treatment involves maintaining seeds or seedlings at 2‑5 °C for 4‑8 weeks. This mimics winter conditions and triggers molecular changes such as histone modifications at the FLC locus.",
+      "keyPoints": [
+        "Duration and temperature are critical for effective vernalisation",
+        "Histone methylation (H3K27me3) silences FLC"
+      ],
+      "neetTips": [
+        "NEET may ask the effect of insufficient chilling on flowering time; answer: delayed or absent flowering."
+      ]
+    },
+    {
+      "topic": "Role of vernalisation in flowering",
+      "heading": "Molecular Mechanism",
+      "content": "Vernalisation down‑regulates the floral repressor FLC (FLOWERING LOCUS C) through epigenetic silencing, thereby permitting FT expression and flowering. The effect is stable through mitosis but reversible by high temperature (de‑vernalisation).",
+      "keyPoints": [
+        "FLC repression is the key step",
+        "Effect persists after return to warm conditions"
+      ],
+      "neetTips": [
+        "Link FLC status to flowering competence in winter varieties."
+      ]
+    },
+    {
+      "topic": "Vernalisation in winter varieties",
+      "heading": "Adaptation Strategy",
+      "content": "Winter varieties of cereals (e.g., wheat, barley) possess a functional FLC‑like gene that must be silenced by vernalisation. Without chilling, they remain vegetative, unlike spring varieties that carry a non‑functional allele.",
+      "keyPoints": [
+        "Winter types require vernalisation; spring types carry loss‑of‑function alleles"
+      ],
+      "neetTips": [
+        "NEET often contrasts winter vs. spring wheat; focus on FLC allele status."
+      ]
+    },
+    {
+      "topic": "De-vernalisation",
+      "heading": "Reversal by Warm Temperatures",
+      "content": "De‑vernalisation occurs when vernalised plants are exposed to high temperatures (≥25 °C) for extended periods, leading to re‑activation of FLC expression and loss of flowering competence.",
+      "keyPoints": [
+        "High temperature can reactivate FLC",
+        "De‑vernalisation is less common in natural settings"
+      ],
+      "neetTips": [
+        "Remember de‑vernalisation when answering questions on temperature shifts after chilling."
+      ]
+    },
+    {
+      "topic": "Seed dormancy",
+      "heading": "Definition and Types",
+      "content": "Seed dormancy is a temporary suspension of germination despite favourable conditions. It can be physiological (hormonal), morphological (under‑developed embryo), or physical (seed coat impermeability).",
+      "keyPoints": [
+        "Dormancy prevents untimely germination",
+        "Three major categories: physiological, morphological, physical"
+      ],
+      "neetTips": [
+        "Identify the dormancy type from given seed characteristics in NEET questions."
+      ]
+    },
+    {
+      "topic": "Causes of seed dormancy",
+      "heading": "Physiological and Structural Factors",
+      "content": "Physiological dormancy arises from high abscisic acid (ABA) levels or low gibberellin (GA) synthesis. Physical dormancy is due to a hard, water‑impermeable seed coat. Morphological dormancy stems from an immature embryo that requires further development.",
+      "keyPoints": [
+        "ABA:GA ratio governs physiological dormancy",
+        "Hard seed coat = physical dormancy"
+      ],
+      "neetTips": [
+        "Link high ABA to maintenance of dormancy; GA promotes germination."
+      ]
+    },
+    {
+      "topic": "Breaking seed dormancy",
+      "heading": "Methods and Mechanisms",
+      "content": "Dormancy can be broken by stratification (cold moist treatment), scarification (mechanical or chemical abrasion), after‑ripening (dry storage), or hormonal treatment (GA application). These methods reduce ABA or increase GA, or physically open the seed coat.",
+      "keyPoints": [
+        "Cold stratification mimics winter for physiological dormancy",
+        "Scarification removes physical barrier"
+      ],
+      "neetTips": [
+        "NEET often asks the most effective method for a given dormancy type; match method to cause."
+      ]
+    },
+    {
+      "topic": "Role of hormones in dormancy",
+      "heading": "ABA and GA Balance",
+      "content": "Abscisic acid maintains dormancy by inhibiting enzymes required for embryo growth, while gibberellins promote α‑amylase synthesis and radicle emergence. The ABA:GA ratio is the decisive factor controlling germination onset.",
+      "keyPoints": [
+        "High ABA = dormancy maintenance",
+        "GA induces hydrolytic enzymes for reserve mobilization"
+      ],
+      "neetTips": [
+        "Remember that paclobutrazol (GA biosynthesis inhibitor) reinforces dormancy in experimental setups."
+      ]
+    },
+    {
+      "topic": "Environmental factors affecting germination",
+      "heading": "Temperature, Light, Water and Oxygen",
+      "content": "Optimal germination requires suitable temperature (species‑specific range), adequate moisture to activate metabolism, oxygen for respiration, and sometimes light (photoblastic seeds). Extreme conditions inhibit enzyme activity or cause oxidative stress.",
+      "keyPoints": [
+        "Temperature optimum is usually 20‑30 °C for most crops",
+        "Water imbibition reactivates metabolism"
+      ],
+      "neetTips": [
+        "NEET may present a germination curve; identify the temperature range with maximal germination."
+      ]
+    },
+    {
+      "topic": "Integrated plant development revision",
+      "heading": "Connecting Photoperiodism, Vernalisation and Dormancy",
+      "content": "Photoperiodism and vernalisation together ensure that flowering occurs after winter and under appropriate day length, while seed dormancy safeguards the next generation until conditions are favorable. Hormonal cross‑talk (ABA, GA, FT) integrates external cues into developmental decisions.",
+      "keyPoints": [
+        "Photoperiodic FT signal and vernalisation‑mediated FLC repression converge at the meristem",
+        "ABA‑GA balance links dormancy to germination timing"
+      ],
+      "neetTips": [
+        "When faced with multi‑factor NEET questions, trace the signal flow: environmental cue → hormonal change → gene expression → developmental outcome."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the mechanisms of photoperiodic perception and the concept of critical photoperiod.",
+    "Distinguish short‑day, long‑day and day‑neutral plants with examples.",
+    "Describe the florigen (FT) pathway and its role in flowering.",
+    "Interpret the vernalisation process, including low‑temperature treatment and de‑vernalisation.",
+    "Identify causes of seed dormancy and appropriate methods to break it.",
+    "Apply hormonal concepts (ABA vs GA) to dormancy and germination scenarios."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the critical photoperiod for a short‑day plant?",
+      "options": [
+        "Minimum day length required to induce flowering",
+        "Maximum day length beyond which flowering is inhibited",
+        "Day length at which 50% of plants flower",
+        "Day length that has no effect on flowering"
+      ],
+      "answer": 1,
+      "explanation": "The critical photoperiod of a short‑day plant is the longest day length that still permits flowering; any longer day inhibits flowering.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "Which organ primarily perceives the light signal that triggers photoperiodic flowering?",
+      "options": [
+        "Roots",
+        "Stem apical meristem",
+        "Mature leaves",
+        "Cotyledons"
+      ],
+      "answer": 2,
+      "explanation": "Mature leaves contain photoreceptors that measure day length and generate the flowering signal (florigen) which is then transported to the shoot apex.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "According to the florigen hypothesis, the mobile flowering stimulus is synthesized in:",
+      "options": [
+        "Roots and transported to shoots",
+        "Leaves and transported to the shoot apical meristem",
+        "Shoot apical meristem and acts locally",
+        "Seeds during germination"
+      ],
+      "answer": 1,
+      "explanation": "Florigen is thought to be produced in the photosynthesizing leaves under appropriate photoperiod and then moves to the shoot apical meristem to induce flowering.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "A plant that flowers only when the night exceeds 12 hours is classified as:",
+      "options": [
+        "Long‑day plant",
+        "Short‑day plant",
+        "Day‑neutral plant",
+        "Photoperiod‑insensitive plant"
+      ],
+      "answer": 1,
+      "explanation": "Short‑day (or long‑night) plants require a night longer than a species‑specific critical duration to initiate flowering.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "Why does a short‑day plant fail to flower under continuous light?",
+      "options": [
+        "Continuous light provides excess energy, causing dormancy",
+        "Continuous light eliminates the dark period required for the induction of florigen",
+        "Light degrades the florigen molecule",
+        "Leaves cannot photosynthesize under continuous light"
+      ],
+      "answer": 1,
+      "explanation": "Short‑day plants need an uninterrupted dark period of a certain length; continuous light removes this night, preventing the photoperiodic induction of florigen.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "Which photoreceptor mainly mediates the measurement of night length in photoperiodic responses?",
+      "options": [
+        "Phytochrome",
+        "Cryptochrome",
+        "Phototropin",
+        "UVR8"
+      ],
+      "answer": 0,
+      "explanation": "Phytochrome exists in two interconvertible forms (Pr and Pfr) and acts as a night‑length sensor, governing short‑day and long‑day responses.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "In a night‑break experiment, a brief light pulse during the night stops flowering of a short‑day plant. This indicates that:",
+      "options": [
+        "Light pulse resets the internal clock",
+        "The plant requires continuous darkness for a minimum period",
+        "Light degrades florigen",
+        "The pulse induces vernalisation"
+      ],
+      "answer": 1,
+      "explanation": "A short‑day plant needs an uninterrupted dark interval; a light interruption (night break) disrupts the required dark period and thus blocks flowering.",
+      "topic": "Photoperiodism"
+    },
+    {
+      "question": "Which of the following best describes the critical photoperiod for a short‑day plant?",
+      "options": [
+        "Minimum day length required to induce flowering",
+        "Maximum day length beyond which flowering is inhibited",
+        "Exact number of hours of darkness required for flowering",
+        "Total daily light integral needed for vegetative growth"
+      ],
+      "answer": 2,
+      "explanation": "In short‑day plants, flowering is triggered when the night exceeds a species‑specific critical duration; thus the critical photoperiod refers to the minimum number of continuous dark hours needed.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "In photoperiodic response, the site of perception of the photoperiodic signal is primarily:",
+      "options": [
+        "Root tip",
+        "Shoot apical meristem",
+        "Mature leaf",
+        "Cotyledon"
+      ],
+      "answer": 2,
+      "explanation": "Leaves contain the photoreceptors (mainly phytochrome) that perceive day‑length and generate the flowering signal, which is then transmitted to the shoot apex.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "The mobile flowering stimulus \"florigen\" is produced in response to:",
+      "options": [
+        "High temperature",
+        "Sufficient water availability",
+        "Appropriate photoperiod",
+        "Nutrient deficiency"
+      ],
+      "answer": 2,
+      "explanation": "Florigen is synthesized in leaves when the plant experiences the inductive photoperiod (long days for LD plants, short days for SD plants) and moves to the shoot apex to induce flowering.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "Which statement is true regarding long‑day plants?",
+      "options": [
+        "They flower when night length exceeds the critical photoperiod.",
+        "They require a day length longer than the critical photoperiod to flower.",
+        "They are indifferent to day length but respond to temperature.",
+        "They flower only under continuous darkness."
+      ],
+      "answer": 1,
+      "explanation": "Long‑day plants flower when the day length is longer than their critical photoperiod; short nights are required for induction.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "A plant that flowers irrespective of day length is classified as:",
+      "options": [
+        "Short‑day plant",
+        "Long‑day plant",
+        "Day‑neutral plant",
+        "Photoperiodic mutant"
+      ],
+      "answer": 2,
+      "explanation": "Day‑neutral plants do not depend on photoperiod for flowering; they respond mainly to other cues such as age or temperature.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "A short‑day plant is transferred from a 12 h light/12 h dark regime to the same regime but with a 1‑hour light interruption during the night. What is the most likely effect on flowering?",
+      "options": [
+        "Flowering will be enhanced because total dark period is unchanged.",
+        "Flowering will be inhibited because the interruption disrupts the continuous dark period required.",
+        "No effect because the total duration of darkness remains 12 h.",
+        "Flowering will occur earlier due to increased light exposure."
+      ],
+      "answer": 1,
+      "explanation": "The interruption breaks the uninterrupted night required for short‑day plants; the effective night length is reduced, preventing induction of flowering.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "Which photoreceptor mediates the measurement of night length in photoperiodic response?",
+      "options": [
+        "Phytochrome",
+        "Cryptochrome",
+        "Phototropin",
+        "UVR8"
+      ],
+      "answer": 0,
+      "explanation": "Phytochrome exists in two interconvertible forms (Pr and Pfr) and tracks the duration of darkness, making it the primary photoreceptor for photoperiodic timing.",
+      "topic": "Photoperiodic response"
+    },
+    {
+      "question": "Which photoperiodic condition induces flowering in short‑day plants?",
+      "options": [
+        "A night period longer than the critical photoperiod",
+        "A day period longer than the critical photoperiod",
+        "A day period shorter than the critical photoperiod",
+        "Continuous illumination"
+      ],
+      "answer": 1,
+      "explanation": "Short‑day plants flower when the night length exceeds their critical photoperiod; a longer night, not a longer day, triggers flowering.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "A short‑day plant has a critical night length of 12 h. Which of the following day‑night regimes will most likely induce flowering?",
+      "options": [
+        "10 h of light and 14 h of darkness",
+        "12 h of light and 12 h of darkness",
+        "14 h of light and 10 h of darkness",
+        "24 h of continuous light"
+      ],
+      "answer": 0,
+      "explanation": "Flowering requires a night longer than 12 h; the 10 h / 14 h regime provides a 14‑hour night, satisfying the requirement.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "Which of the following cultivated species is a classic example of a short‑day plant?",
+      "options": [
+        "Rice (Oryza sativa)",
+        "Wheat (Triticum aestivum)",
+        "Chrysanthemum (Chrysanthemum morifolium)",
+        "Maize (Zea mays)"
+      ],
+      "answer": 2,
+      "explanation": "Chrysanthemum requires short days (long nights) to initiate flowering and is widely used as a short‑day plant in horticulture.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "In the phytochrome system of short‑day plants, which form predominates during the night and promotes flowering?",
+      "options": [
+        "Pr (red‑absorbing form)",
+        "Pfr (far‑red‑absorbing form)",
+        "Both Pr and Pfr equally",
+        "Neither form; another signal is responsible"
+      ],
+      "answer": 0,
+      "explanation": "During darkness, the active Pfr converts to the inactive Pr form; accumulation of Pr during a long night is the signal that promotes flowering in short‑day plants.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "Which plant organ primarily perceives the photoperiodic signal that controls flowering in short‑day plants?",
+      "options": [
+        "Roots",
+        "Stem apical meristem",
+        "Mature leaves",
+        "Cotyledons"
+      ],
+      "answer": 2,
+      "explanation": "Mature leaves contain the photoreceptors that measure night length and generate the florigen signal that travels to the shoot apex.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "Florigen synthesis in short‑day plants occurs under which condition?",
+      "options": [
+        "When the night is shorter than the critical photoperiod",
+        "When the night is longer than the critical photoperiod",
+        "During the day irrespective of night length",
+        "Only under continuous darkness"
+      ],
+      "answer": 1,
+      "explanation": "Florigen is produced in the leaves only after the plant experiences a night exceeding the critical length, signalling that conditions are suitable for flowering.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "A short‑day plant receives a 1‑hour light pulse during its long night. What is the most likely effect on flowering?",
+      "options": [
+        "Flowering is promoted",
+        "Flowering is inhibited",
+        "No effect on flowering",
+        "Accelerates vegetative growth"
+      ],
+      "answer": 1,
+      "explanation": "A brief light interruption converts Pr back to Pfr, breaking the long‑night signal and thereby inhibiting flowering in short‑day plants.",
+      "topic": "Short-day plants"
+    },
+    {
+      "question": "Long-day plants are defined as those that flower when:",
+      "options": [
+        "the night length exceeds a critical duration",
+        "the day length exceeds a critical duration",
+        "the total light intensity exceeds a threshold",
+        "the ambient temperature is above 25°C"
+      ],
+      "answer": 1,
+      "explanation": "In long-day plants, flowering is induced when the photoperiod (day length) is longer than the species‑specific critical photoperiod.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "Which of the following crops is a typical long-day plant?",
+      "options": [
+        "Rice (Oryza sativa)",
+        "Wheat (Triticum aestivum)",
+        "Chrysanthemum (Chrysanthemum morifolium)",
+        "Soybean (Glycine max)"
+      ],
+      "answer": 1,
+      "explanation": "Wheat requires day lengths longer than its critical photoperiod (about 12–14 h) to initiate flowering, classifying it as a long‑day plant.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "In the phytochrome system of long-day plants, which form promotes flowering?",
+      "options": [
+        "Pr (red‑absorbing) form",
+        "Pfr (far‑red absorbing) form",
+        "Both Pr and Pfr equally",
+        "Neither form; another photoreceptor is involved"
+      ],
+      "answer": 1,
+      "explanation": "The active Pfr form of phytochrome accumulates during the light period and promotes the synthesis of florigen, leading to flowering in long‑day plants.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "A long‑day plant has a critical photoperiod of 14 h. What is the expected response under a 12 h day?",
+      "options": [
+        "Flowering is induced",
+        "No flowering occurs",
+        "Partial flowering occurs",
+        "Flowering occurs only if temperature is high"
+      ],
+      "answer": 1,
+      "explanation": "Since the day length (12 h) is shorter than the critical photoperiod (14 h), the plant will not initiate flowering.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "Where is the florigen signal primarily synthesized in long‑day plants?",
+      "options": [
+        "Roots",
+        "Leaves",
+        "Shoot apical meristem",
+        "Stems"
+      ],
+      "answer": 1,
+      "explanation": "Leaves perceive the photoperiodic cue and synthesize florigen (FT protein), which is then transported to the shoot apical meristem to trigger flowering.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "Which treatment can induce flowering in a long‑day plant that is being grown under short days?",
+      "options": [
+        "Extending the night with far‑red light",
+        "Providing a night‑break with red light",
+        "Applying gibberellin spray",
+        "Subjecting the plant to prolonged cold treatment"
+      ],
+      "answer": 1,
+      "explanation": "A night‑break with red light converts Pr to Pfr, mimicking a longer day and can induce flowering in long‑day plants under short‑day conditions.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "Which statement correctly distinguishes long‑day from short‑day plants?",
+      "options": [
+        "Long‑day plants require longer nights to flower",
+        "Short‑day plants flower when day length exceeds the critical photoperiod",
+        "Long‑day plants flower when day length exceeds the critical photoperiod",
+        "Both groups respond only to temperature changes"
+      ],
+      "answer": 2,
+      "explanation": "Long‑day plants flower when the day length is longer than their critical photoperiod, whereas short‑day plants flower when the day length is shorter than their critical photoperiod.",
+      "topic": "Long-day plants"
+    },
+    {
+      "question": "Which statement best defines day‑neutral plants?",
+      "options": [
+        "They flower only when day length exceeds a critical value (long‑day)",
+        "They flower only when day length is shorter than a critical value (short‑day)",
+        "They flower irrespective of day length",
+        "They require vernalisation to flower"
+      ],
+      "answer": 2,
+      "explanation": "Day‑neutral plants do not depend on photoperiod; they can initiate flowering under both short and long days.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "Which of the following is a typical day‑neutral plant?",
+      "options": [
+        "Wheat",
+        "Rice",
+        "Tomato",
+        "Barley"
+      ],
+      "answer": 2,
+      "explanation": "Tomato is a classic example of a day‑neutral species, whereas wheat and barley are long‑day and rice is short‑day.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "In day‑neutral plants, the expression of florigen is:",
+      "options": [
+        "Induced only under long days",
+        "Induced only under short days",
+        "Constitutively expressed independent of photoperiod",
+        "Not produced at all"
+      ],
+      "answer": 2,
+      "explanation": "Florigen (FT protein) is expressed continuously in day‑neutral plants, not regulated by photoperiod.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "What is the critical photoperiod for day‑neutral plants?",
+      "options": [
+        "12 hours",
+        "0 hours",
+        "No critical photoperiod",
+        "It varies with temperature"
+      ],
+      "answer": 2,
+      "explanation": "Day‑neutral plants lack a critical photoperiod; flowering is not triggered by a specific day length.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "Which environmental factor most commonly influences flowering time in day‑neutral plants?",
+      "options": [
+        "Photoperiod",
+        "Temperature",
+        "Soil moisture",
+        "Light intensity"
+      ],
+      "answer": 1,
+      "explanation": "Temperature, especially warm conditions, is a major cue for flowering in day‑neutral species.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "Which statement correctly distinguishes day‑neutral plants from long‑day plants?",
+      "options": [
+        "Day‑neutral plants require vernalisation, long‑day do not",
+        "Day‑neutral plants flower only under short days, long‑day under long days",
+        "Day‑neutral plants flower irrespective of day length, long‑day require day length longer than a critical value",
+        "Day‑neutral plants have a higher critical photoperiod than long‑day"
+      ],
+      "answer": 2,
+      "explanation": "Long‑day plants need day lengths exceeding a critical threshold, whereas day‑neutral plants are indifferent to day length.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "In day‑neutral plants, which hormone is primarily involved in initiating flowering independent of photoperiod?",
+      "options": [
+        "Gibberellin",
+        "Florigen (FT protein)",
+        "Abscisic acid",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Florigen (FT protein) acts as the main flowering signal and is produced irrespective of photoperiod in day‑neutral plants.",
+      "topic": "Day-neutral plants"
+    },
+    {
+      "question": "What is the definition of critical photoperiod in plants?",
+      "options": [
+        "The threshold day length that separates flowering from non‑flowering responses in a species",
+        "The maximum day length beyond which photosynthesis stops",
+        "The duration of darkness required for seed dormancy release",
+        "The period of light intensity needed for chlorophyll synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Critical photoperiod is the specific day length that acts as a threshold; day lengths longer (for long‑day plants) or shorter (for short‑day plants) than this value induce flowering, while the opposite photoperiods do not.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "A short‑day plant has a critical photoperiod of 12 h. Which of the following day lengths will induce flowering?",
+      "options": [
+        "10 h",
+        "12 h",
+        "13 h",
+        "14 h"
+      ],
+      "answer": 0,
+      "explanation": "Short‑day plants flower when the day length is shorter than their critical photoperiod. Hence a 10 h day (which is less than 12 h) will induce flowering.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "How does increasing latitude affect the cultivation of a long‑day crop with a fixed critical photoperiod?",
+      "options": [
+        "The crop’s critical photoperiod remains unchanged, and longer summer days at higher latitudes usually exceed it, promoting flowering",
+        "The crop’s critical photoperiod increases with latitude, requiring even longer days for flowering",
+        "The crop’s critical photoperiod decreases with latitude, allowing flowering under shorter days",
+        "Long‑day crops cannot be cultivated at high latitudes because day lengths never exceed the critical value"
+      ],
+      "answer": 0,
+      "explanation": "Critical photoperiod is an intrinsic property of the species and does not change with latitude. At higher latitudes, summer days become longer, often surpassing the fixed critical photoperiod and thereby inducing flowering in long‑day crops.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "Which experimental approach is most appropriate for determining the critical photoperiod of a plant species?",
+      "options": [
+        "Growing the plant under continuous light and observing growth rate",
+        "Subjecting the plant to a series of controlled day lengths and recording the shortest day length that induces flowering",
+        "Measuring chlorophyll fluorescence under different light intensities",
+        "Counting the number of leaves produced under a fixed photoperiod"
+      ],
+      "answer": 1,
+      "explanation": "By exposing plants to a range of day lengths and noting the minimum (or maximum) day length that triggers flowering, researchers can pinpoint the species’ critical photoperiod.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "The mobile signal that conveys the photoperiodic flowering cue when day length exceeds the critical photoperiod is known as:",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Florigen (FT protein)",
+        "Cytokinin"
+      ],
+      "answer": 2,
+      "explanation": "Florigen, identified as the FT protein, is synthesized in leaves under inductive photoperiods and moves to the shoot apical meristem to initiate flowering.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "A rice cultivar (short‑day plant) has a critical photoperiod of 13.5 h. At 30°N latitude, the day length in June is 14.5 h. What will be its flowering response?",
+      "options": [
+        "It will flower early in June",
+        "It will not flower until the day length falls below 13.5 h later in the year",
+        "It will flower irrespective of day length because rice is insensitive to photoperiod",
+        "It will flower only under continuous darkness"
+      ],
+      "answer": 1,
+      "explanation": "Being a short‑day plant, rice requires day lengths shorter than its critical photoperiod (13.5 h) to flower. In June, the day length (14.5 h) exceeds this threshold, so flowering is suppressed until days become shorter.",
+      "topic": "Critical photoperiod"
+    },
+    {
+      "question": "Which pigment in leaves is primarily responsible for detecting the red/far‑red light ratio that influences photoperiodic flowering?",
+      "options": [
+        "Phytochrome",
+        "Chlorophyll a",
+        "Carotenoid",
+        "Anthocyanin"
+      ],
+      "answer": 0,
+      "explanation": "Phytochrome exists in two interconvertible forms (Pr and Pfr) that sense red and far‑red light, providing the signal for photoperiodic flowering.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "In a short‑day plant, removal of the mature leaves just before the inductive night results in:",
+      "options": [
+        "Flowering is promoted because leaves produce florigen",
+        "Flowering is inhibited because leaves are the source of florigen",
+        "No effect on flowering time",
+        "Accelerated flowering due to stress response"
+      ],
+      "answer": 1,
+      "explanation": "Mature leaves synthesize and export the flowering stimulus (florigen); their removal eliminates this source, preventing induction under short days.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "The term \"critical photoperiod\" is defined as:",
+      "options": [
+        "The longest day length that does not induce flowering in long‑day plants",
+        "The shortest day length that induces flowering in short‑day plants",
+        "The day length at which 50% of plants flower",
+        "The minimum night length required to induce flowering in short‑day plants"
+      ],
+      "answer": 3,
+      "explanation": "Critical photoperiod is the threshold night length (or day length for long‑day plants) below (or above) which flowering is triggered; for short‑day plants it is the minimum night length needed.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "Which statement best explains why leaf age affects photoperiodic response?",
+      "options": [
+        "Younger leaves have higher phytochrome content",
+        "Older leaves produce more florigen",
+        "Only mature leaves can transport florigen",
+        "Leaf age does not affect the response"
+      ],
+      "answer": 0,
+      "explanation": "Young leaves contain more phytochrome, making them more sensitive to the red/far‑red light cues that determine day length perception.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "In experiments with long‑day plants, shading the lower part of the leaf (reducing light intensity) during the day leads to:",
+      "options": [
+        "Accelerated flowering",
+        "No change in flowering time",
+        "Delayed flowering",
+        "Complete inhibition of flowering"
+      ],
+      "answer": 2,
+      "explanation": "Reduced photosynthetic activity lowers the amount of florigen synthesized in the leaf, postponing the onset of flowering under long‑day conditions.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "The movement of the flowering stimulus (florigen) from the leaf to the shoot apex occurs via:",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Apoplastic diffusion",
+        "Plasmodesmata"
+      ],
+      "answer": 0,
+      "explanation": "Florigen is a mobile signal transported through the phloem from the photosynthesizing leaf to the shoot apical meristem where it induces flowering.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "Which experimental observation supports the role of leaves in photoperiodic flowering?",
+      "options": [
+        "Grafting a leafless shoot onto a leaf‑bearing stock restores flowering",
+        "Application of gibberellin to leaves induces flowering",
+        "Removal of roots prevents flowering",
+        "Cutting the stem below the apex stops flowering"
+      ],
+      "answer": 0,
+      "explanation": "When a leafless shoot is grafted onto a stock that retains leaves, flowering resumes, demonstrating that leaves provide the essential photoperiodic signal.",
+      "topic": "Role of leaves in photoperiodic response"
+    },
+    {
+      "question": "Which of the following best describes florigen?",
+      "options": [
+        "A hormone that promotes leaf expansion",
+        "A protein that acts as a mobile flowering signal",
+        "A carbohydrate stored in vacuoles",
+        "A pigment involved in photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Florigen is identified as the FT protein, a mobile signal that travels from leaves to the shoot apical meristem to induce flowering.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "In long‑day plants, florigen is synthesized primarily in which organ?",
+      "options": [
+        "Roots",
+        "Stems",
+        "Leaves",
+        "Flowers"
+      ],
+      "answer": 2,
+      "explanation": "Photoperiodic induction of FT (florigen) occurs in the leaves, where light signals are perceived before the signal is transported to the meristem.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "A grafting experiment shows that a non‑flowering short‑day stock grafted onto a flowering long‑day scion under inductive long days begins to flower. Through which tissue does the florigen most likely move?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Apoplast",
+        "Plasmodesmata"
+      ],
+      "answer": 1,
+      "explanation": "Florigen is a phloem‑mobile signal; graft‑transmissible flowering is explained by its movement through the phloem.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "The CONSTANS (CO) protein influences florigen production by:",
+      "options": [
+        "Activating FT transcription in response to light",
+        "Repressing FT transcription",
+        "Degrading FT protein",
+        "Transporting FT protein to the meristem"
+      ],
+      "answer": 0,
+      "explanation": "CO accumulates in light and directly activates the transcription of the FT gene, leading to florigen synthesis.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "Which mutant is defective in florigen production, resulting in delayed flowering under long days?",
+      "options": [
+        "ft",
+        "co",
+        "phyB",
+        "ga1"
+      ],
+      "answer": 0,
+      "explanation": "The ft (FLOWERING LOCUS T) mutant cannot produce functional florigen, causing late flowering even under inductive photoperiods.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "In short‑day plants, which environmental condition most directly influences florigen synthesis?",
+      "options": [
+        "Extended darkness",
+        "High temperature",
+        "High humidity",
+        "Nutrient deficiency"
+      ],
+      "answer": 0,
+      "explanation": "Short‑day plants require a night longer than the critical photoperiod; extended darkness triggers CO stability and FT expression, leading to florigen production.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "The transport of florigen from leaves to the shoot apical meristem is essential for:",
+      "options": [
+        "Leaf senescence",
+        "Root growth",
+        "Initiation of floral meristem identity",
+        "Seed development"
+      ],
+      "answer": 2,
+      "explanation": "Florigen arriving at the shoot apical meristem induces the expression of floral meristem identity genes, thereby initiating flower development.",
+      "topic": "Florigen concept"
+    },
+    {
+      "question": "Which statement correctly describes the critical photoperiod for a short‑day plant?",
+      "options": [
+        "The minimum day length required to induce flowering.",
+        "The maximum day length beyond which flowering is inhibited.",
+        "The day length at which 50% of plants flower.",
+        "The day length that has no effect on flowering."
+      ],
+      "answer": 1,
+      "explanation": "In short‑day plants, flowering is induced when night length exceeds a species‑specific threshold; therefore the critical photoperiod is the longest day length that still allows sufficient night for induction.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "According to the florigen hypothesis, which molecule is most widely accepted as the mobile flowering signal in Arabidopsis?",
+      "options": [
+        "CONSTANS protein",
+        "FT protein",
+        "GIGANTEA protein",
+        "PHYTOCHROME B"
+      ],
+      "answer": 1,
+      "explanation": "FT (FLOWERING LOCUS T) protein is synthesized in leaves under inductive photoperiod, moves through the phloem to the shoot apical meristem and triggers flowering, fitting the definition of florigen.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "A plant that flowers when the night length exceeds 12 hours is classified as:",
+      "options": [
+        "Long‑day plant",
+        "Short‑day plant",
+        "Day‑neutral plant",
+        "Photoperiod‑insensitive plant"
+      ],
+      "answer": 1,
+      "explanation": "Short‑day (or long‑night) plants require a night longer than their critical photoperiod (here >12 h) to initiate flowering.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "Which experimental observation best demonstrates that leaves are the site of photoperiodic perception in a short‑day plant?",
+      "options": [
+        "Removing leaves after the inductive night prevents flowering.",
+        "Grafting a leafless shoot onto a leaf‑bearing rootstock induces flowering.",
+        "Applying gibberellin to the apex induces flowering irrespective of photoperiod.",
+        "Exposing only the shoot apex to light does not affect flowering."
+      ],
+      "answer": 0,
+      "explanation": "If leaves are removed after the night that would normally induce flowering, the plant fails to flower, indicating that leaves perceive the photoperiodic cue and generate the flowering signal.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "In a long‑day plant, which gene’s expression is up‑regulated by a light period longer than the critical photoperiod, leading to flowering?",
+      "options": [
+        "FLOWERING LOCUS C (FLC)",
+        "CONSTANS (CO)",
+        "PHYTOCHROME INTERACTING FACTOR (PIF)",
+        "SUPPRESSOR OF OVEREXPRESSION OF CONSTANS 1 (SOC1)"
+      ],
+      "answer": 1,
+      "explanation": "CONSTANS (CO) accumulates under long days, activates FT expression in leaves, and thereby promotes flowering in long‑day plants.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "A researcher grows a short‑day plant under a continuous 24‑hour light regime. What is the expected outcome regarding flowering?",
+      "options": [
+        "The plant will flower earlier than under natural conditions.",
+        "The plant will not flower because the critical night length is not satisfied.",
+        "The plant will flower but with abnormal flower morphology.",
+        "The plant will flower only if temperature is low."
+      ],
+      "answer": 1,
+      "explanation": "Continuous light eliminates the required long night, so the photoperiodic signal for flowering is absent and the short‑day plant remains vegetative.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "Why is the term “photoperiodic flowering” preferred over “daylength flowering”?",
+      "options": [
+        "Plants respond only to the duration of darkness, not light.",
+        "The response is determined by the length of the uninterrupted dark period (night).",
+        "Light intensity, not duration, is the key factor.",
+        "Photoperiodism involves both light and temperature cues."
+      ],
+      "answer": 1,
+      "explanation": "Photoperiodic flowering depends on the length of the uninterrupted dark period; the term emphasizes that it is the night length, not merely the daylight duration, that is critical.",
+      "topic": "Flowering and photoperiod"
+    },
+    {
+      "question": "What is vernalisation in plants?",
+      "options": [
+        "Exposure to low temperature for a specific period to induce flowering",
+        "Exposure to high temperature to induce seed dormancy",
+        "A photoperiodic response that depends on day length",
+        "A hormonal treatment that promotes root growth"
+      ],
+      "answer": 0,
+      "explanation": "Vernalisation is the physiological process whereby exposure to prolonged low temperature renders a plant competent to flower.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "Which of the following crops absolutely requires vernalisation to flower under natural conditions?",
+      "options": [
+        "Wheat",
+        "Maize",
+        "Rice",
+        "Soybean"
+      ],
+      "answer": 0,
+      "explanation": "Winter wheat varieties need a period of cold (vernalisation) before they can transition to the reproductive phase, unlike the other listed crops.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "In Arabidopsis thaliana, vernalisation leads to the stable repression of which floral repressor gene?",
+      "options": [
+        "FLC",
+        "FT",
+        "CO",
+        "SOC1"
+      ],
+      "answer": 0,
+      "explanation": "Vernalisation epigenetically silences the FLOWERING LOCUS C (FLC) gene, removing its repression on flowering.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "Which statement about de‑vernalisation is correct?",
+      "options": [
+        "High temperature after vernalisation can reverse the vernalised state",
+        "De‑vernalisation occurs only in monocot species",
+        "It accelerates flowering after vernalisation",
+        "It is independent of epigenetic modifications"
+      ],
+      "answer": 0,
+      "explanation": "De‑vernalisation refers to the loss of the vernalised state when plants are exposed to high temperatures after the cold period, reversing the flowering competence.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "A long‑day plant that also requires vernalisation will flower when:",
+      "options": [
+        "Short days are experienced without prior vernalisation",
+        "Long days are experienced together with prior vernalisation",
+        "Short days are experienced together with prior vernalisation",
+        "Long days are experienced without prior vernalisation"
+      ],
+      "answer": 1,
+      "explanation": "Both the appropriate photoperiod (long days) and the prior cold treatment (vernalisation) are necessary for flowering in such plants.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "Which hormone typically increases after vernalisation to promote flowering?",
+      "options": [
+        "Gibberellins",
+        "Abscisic acid",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins rise after vernalisation and help overcome the repression of flowering, especially in cereals.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "Insufficient vernalisation in a winter variety most commonly results in:",
+      "options": [
+        "Delayed flowering",
+        "Early flowering irrespective of photoperiod",
+        "No change in flowering time",
+        "Complete sterility"
+      ],
+      "answer": 0,
+      "explanation": "When the cold period is inadequate, the plant fails to fully satisfy the vernalisation requirement, leading to a noticeable delay in flowering.",
+      "topic": "Vernalisation"
+    },
+    {
+      "question": "What is meant by low-temperature treatment (vernalisation) in plants?",
+      "options": [
+        "Exposure to a prolonged period of cold temperature",
+        "Exposure to high light intensity",
+        "Application of growth hormones to the shoot apex",
+        "Pruning of the shoot apex to stimulate growth"
+      ],
+      "answer": 0,
+      "explanation": "Low-temperature treatment, or vernalisation, refers to the exposure of plants to a prolonged period of low (cold) temperature, which induces competence to flower in many winter‑type species.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "Which temperature range is most effective for vernalisation in temperate cereals such as wheat?",
+      "options": [
+        "5–10°C",
+        "15–20°C",
+        "25–30°C",
+        "0–2°C"
+      ],
+      "answer": 0,
+      "explanation": "Temperate cereals typically require exposure to temperatures between 5 and 10°C for vernalisation; higher temperatures do not satisfy the cold requirement, and temperatures near 0°C may cause damage.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "In Arabidopsis, low-temperature treatment leads to repression of which floral repressor gene, thereby promoting flowering?",
+      "options": [
+        "FLC",
+        "CO",
+        "FT",
+        "SOC1"
+      ],
+      "answer": 0,
+      "explanation": "Vernalisation down‑regulates the expression of the FLOWERING LOCUS C (FLC) gene, a major floral repressor; its repression allows downstream genes like FT to activate flowering.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "Which statement correctly distinguishes vernalisation from de‑vernalisation?",
+      "options": [
+        "Vernalisation requires heat, while de‑vernalisation requires cold",
+        "Vernalisation is the induction of flowering competence by cold, whereas de‑vernalisation is the loss of that competence after subsequent warm periods",
+        "Both processes are identical and occur simultaneously",
+        "De‑vernalisation occurs only in seeds, not in vegetative tissues"
+      ],
+      "answer": 1,
+      "explanation": "Vernalisation confers flowering competence after a cold period; if the plant is returned to warm conditions before the competence is fixed, the effect can be lost – this reversal is termed de‑vernalisation.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "Low-temperature treatment can break seed dormancy most effectively in which of the following species?",
+      "options": [
+        "Rice (Oryza sativa)",
+        "Maize (Zea mays)",
+        "Arabidopsis thaliana",
+        "Sunflower (Helianthus annuus)"
+      ],
+      "answer": 2,
+      "explanation": "Arabidopsis seeds exhibit reduced dormancy after a period of stratification (cold treatment), a classic example of low‑temperature breaking seed dormancy; the other listed crops are less responsive to cold stratification.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "For a typical winter wheat variety, the minimum duration of exposure to 4°C required to satisfy vernalisation is about:",
+      "options": [
+        "2 weeks",
+        "4 weeks",
+        "6 weeks",
+        "8 weeks"
+      ],
+      "answer": 2,
+      "explanation": "Winter wheat generally needs at least 6 weeks of exposure to temperatures around 4°C to fulfill its vernalisation requirement; shorter periods are insufficient for full competence.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "If a low-temperature treatment is applied for an insufficient duration, the plant will most likely exhibit which phenotype?",
+      "options": [
+        "Precocious early flowering",
+        "Delayed flowering compared to fully vernalised plants",
+        "No change in flowering time relative to controls",
+        "Complete sterility of the inflorescence"
+      ],
+      "answer": 1,
+      "explanation": "Insufficient vernalisation does not fully release the repression of flowering; consequently, the plant flowers later than a properly vernalised counterpart, showing delayed flowering.",
+      "topic": "Low-temperature treatment"
+    },
+    {
+      "question": "Which of the following best describes the primary effect of vernalisation on the expression of the floral repressor gene FLC in Arabidopsis?",
+      "options": [
+        "Upregulates FLC transcription",
+        "Downregulates FLC transcription",
+        "No change in FLC transcription",
+        "Converts FLC into a constitutive activator"
+      ],
+      "answer": 1,
+      "explanation": "Vernalisation leads to epigenetic silencing of FLC, reducing its transcription and thereby removing repression of flowering.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "In temperate cereals such as wheat, the requirement for vernalisation is fulfilled by exposure to low temperature during which developmental stage?",
+      "options": [
+        "Seed imbibition",
+        "Seedling stage before tillering",
+        "Early vegetative stage before reproductive transition",
+        "Post‑anthesis stage"
+      ],
+      "answer": 2,
+      "explanation": "Cold exposure during the early vegetative phase (before the shoot apical meristem becomes reproductive) satisfies the vernalisation requirement in winter wheat.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "Which of the following statements about de‑vernalisation is correct?",
+      "options": [
+        "It occurs when vernalised plants are exposed to high temperature after vernalisation",
+        "It is the reversal of vernalisation by prolonged exposure to low temperature",
+        "It refers to the loss of vernalisation requirement in genetically modified plants",
+        "It is the process by which seeds lose dormancy after imbibition"
+      ],
+      "answer": 0,
+      "explanation": "De‑vernalisation describes the loss of the vernalised state when plants that have been vernalised are subsequently subjected to warm temperatures, restoring the pre‑vernalisation condition.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "A winter variety of barley fails to flower when sown in early autumn but flowers normally when sown in late winter. This observation is best explained by:",
+      "options": [
+        "Photoperiodic response only",
+        "Insufficient vernalisation in early autumn sowing",
+        "Excessive vernalisation in late winter sowing",
+        "Seed dormancy"
+      ],
+      "answer": 1,
+      "explanation": "Early‑autumn sowing does not provide enough cumulative cold days, so the vernalisation requirement is not met; sowing later allows sufficient low‑temperature exposure.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "Which hormone is most closely associated with the promotion of flowering after vernalisation in many plants?",
+      "options": [
+        "Abscisic acid",
+        "Gibberellin",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins often increase after vernalisation and act as promoters of the transition to flowering, especially in long‑day and vernalisation‑dependent species.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "In the context of vernalisation, the term “critical period” refers to:",
+      "options": [
+        "The exact number of days of cold required for any plant",
+        "The developmental window during which low temperature can induce the vernalisation response",
+        "The period after flowering when temperature no longer affects development",
+        "The time when seed dormancy is broken"
+      ],
+      "answer": 1,
+      "explanation": "The critical period is a specific phase of shoot development when exposure to low temperature can permanently satisfy the vernalisation requirement.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "Which of the following experimental observations would indicate that a plant’s flowering is vernalisation‑dependent rather than photoperiod‑dependent?",
+      "options": [
+        "Flowering occurs only under long days irrespective of temperature",
+        "Flowering occurs after a period of cold even under non‑inductive short days",
+        "Flowering is inhibited by gibberellin application",
+        "Flowering is induced by high temperature alone"
+      ],
+      "answer": 1,
+      "explanation": "If flowering is triggered by prior cold treatment even when day length is non‑inductive, the plant relies on vernalisation rather than photoperiod cues.",
+      "topic": "Role of vernalisation in flowering"
+    },
+    {
+      "question": "Vernalisation in winter varieties primarily refers to which of the following processes?",
+      "options": [
+        "Exposure of seeds to high temperature to induce dormancy",
+        "Exposure of young plants to low temperature for a specific period to induce flowering competence",
+        "Requirement of long-day photoperiod for flower initiation",
+        "Application of gibberellins to trigger flowering"
+      ],
+      "answer": 1,
+      "explanation": "Vernalisation is the induction of flowering competence by exposing seedlings or young plants of winter varieties to prolonged low temperatures, typically 0‑10 °C, for a defined period.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "What is the approximate minimum duration of cold exposure required to fulfil vernalisation in winter wheat?",
+      "options": [
+        "2–3 weeks",
+        "4–6 weeks",
+        "6–8 weeks",
+        "10–12 weeks"
+      ],
+      "answer": 2,
+      "explanation": "Winter wheat generally needs about 6–8 weeks of chilling (0‑10 °C) to satisfy its vernalisation requirement and transition to the reproductive phase.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "During vernalisation in Arabidopsis, which gene’s expression is markedly reduced, thereby allowing flowering?",
+      "options": [
+        "FT",
+        "SOC1",
+        "FLC",
+        "CO"
+      ],
+      "answer": 2,
+      "explanation": "Vernalisation leads to epigenetic silencing of the floral repressor FLC (FLOWERING LOCUS C); its down‑regulation releases the block on flowering.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "In winter cereals such as wheat and barley, vernalisation results in the activation of which flowering‑promoting gene?",
+      "options": [
+        "VRN1",
+        "VRN2",
+        "PHYA",
+        "GA3ox"
+      ],
+      "answer": 0,
+      "explanation": "Cold exposure induces the expression of VRN1, a MADS‑box transcription factor that promotes the transition from vegetative to reproductive growth in winter cereals.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "De‑vernalisation, i.e., loss of the vernalised state, can occur when plants are subsequently exposed to which condition?",
+      "options": [
+        "Prolonged darkness",
+        "High temperature above 30 °C",
+        "Short‑day photoperiod",
+        "Severe drought stress"
+      ],
+      "answer": 1,
+      "explanation": "High temperatures after vernalisation can reverse the cold‑induced epigenetic changes, leading to de‑vernalisation and delayed flowering.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "Which statement about vernalisation in winter varieties is FALSE?",
+      "options": [
+        "It reduces the expression of floral repressors",
+        "It is irreversible once the cold requirement is met",
+        "It requires exposure to low temperature during seed germination",
+        "It shortens the vegetative phase after the cold period"
+      ],
+      "answer": 2,
+      "explanation": "Vernalisation acts on seedlings or young plants, not specifically during seed germination; the cold requirement is usually fulfilled after germination.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "A farmer sows winter wheat in a region where temperatures stay at 5 °C for only 4 weeks. What is the most likely outcome regarding flowering?",
+      "options": [
+        "Normal flowering time as usual",
+        "Delayed flowering due to insufficient vernalisation",
+        "Early flowering irrespective of vernalisation",
+        "No effect because temperature is irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "Four weeks of chilling is below the typical 6–8 week requirement; insufficient vernalisation will delay the transition to flowering, extending the vegetative phase.",
+      "topic": "Vernalisation in winter varieties"
+    },
+    {
+      "question": "Which temperature regime is most likely to cause de‑vernalisation in a winter wheat plant that has already undergone vernalisation?",
+      "options": [
+        "4 °C for 30 days",
+        "10 °C for 15 days",
+        "30 °C for 7 days",
+        "15 °C for 20 days"
+      ],
+      "answer": 2,
+      "explanation": "High temperature (≈30 °C) after a period of low‑temperature vernalisation can reverse the vernalisation effect, a phenomenon known as de‑vernalisation.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "De‑vernalisation primarily affects which gene expression pattern in Arabidopsis thaliana?",
+      "options": [
+        "Up‑regulation of FT",
+        "Down‑regulation of FLC",
+        "Re‑activation of FLC",
+        "Suppression of SOC1"
+      ],
+      "answer": 2,
+      "explanation": "De‑vernalisation re‑activates the floral repressor FLC, which had been epigenetically silenced during vernalisation, thereby inhibiting flowering.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "In the context of de‑vernalisation, which statement is correct regarding the flowering competence of a plant?",
+      "options": [
+        "Once vernalised, a plant cannot lose its flowering competence.",
+        "De‑vernalisation restores the vegetative state, requiring another round of vernalisation.",
+        "De‑vernalisation accelerates flowering irrespective of temperature.",
+        "De‑vernalisation only occurs in short‑day plants."
+      ],
+      "answer": 1,
+      "explanation": "De‑vernalisation removes the acquired flowering competence, so the plant must undergo vernalisation again to flower.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "Which experimental observation would indicate that de‑vernalisation has occurred in a winter variety of barley?",
+      "options": [
+        "Immediate flowering upon transfer to long days after vernalisation.",
+        "Delay in flowering when plants are shifted to 30 °C for 10 days after vernalisation.",
+        "No change in flowering time regardless of post‑vernalisation temperature.",
+        "Increased seed set under short‑day conditions."
+      ],
+      "answer": 1,
+      "explanation": "A high‑temperature treatment after vernalisation that delays flowering shows that the vernalisation effect has been lost, i.e., de‑vernalisation.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "De‑vernalisation is best described as:",
+      "options": [
+        "The induction of flowering by low temperature.",
+        "The loss of vernalisation‑induced flowering competence due to exposure to high temperature.",
+        "The requirement of a critical photoperiod for flowering.",
+        "The breaking of seed dormancy by scarification."
+      ],
+      "answer": 1,
+      "explanation": "De‑vernalisation refers to the reversal of the low‑temperature induced flowering competence when plants are exposed to high temperatures.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "Which hormone level typically decreases during de‑vernalisation, contributing to loss of flowering competence in temperate cereals?",
+      "options": [
+        "Gibberellin",
+        "Abscisic acid",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "Gibberellins promote flowering; high‑temperature de‑vernalisation reduces GA biosynthesis, diminishing the flowering signal.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "In a controlled experiment, two sets of vernalised Arabidopsis plants are kept at 20 °C. One set is then transferred to 4 °C for 2 weeks, while the other set is transferred to 30 °C for 2 weeks. What is the expected outcome regarding flowering time?",
+      "options": [
+        "Both sets flower at the same time.",
+        "The 4 °C set flowers earlier than the 30 °C set.",
+        "The 30 °C set flowers earlier than the 4 °C set.",
+        "Neither set flowers."
+      ],
+      "answer": 1,
+      "explanation": "The low‑temperature treatment maintains vernalisation, leading to earlier flowering, whereas the high‑temperature treatment causes de‑vernalisation, delaying flowering.",
+      "topic": "De-vernalisation"
+    },
+    {
+      "question": "Which hormone primarily maintains seed dormancy in most orthodox seeds?",
+      "options": [
+        "Gibberellin",
+        "Abscisic acid",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Abscisic acid (ABA) accumulates during seed maturation and inhibits germination, thereby maintaining dormancy.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "A seed of a desert plant exhibits dormancy due to a hard seed coat that prevents water uptake. This type of dormancy is classified as:",
+      "options": [
+        "Physiological dormancy",
+        "Morphological dormancy",
+        "Physical (exogenous) dormancy",
+        "Combinational dormancy"
+      ],
+      "answer": 2,
+      "explanation": "A hard, impermeable seed coat causing water-impermeability is termed physical or exogenous dormancy.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Stratification is a method to break seed dormancy. Which condition best describes cold stratification?",
+      "options": [
+        "Storing seeds at 4°C in moist sand for 2-3 weeks",
+        "Exposing seeds to 30°C dry heat for 24 h",
+        "Treating seeds with GA3 solution for 12 h",
+        "Scarifying seeds with sandpaper"
+      ],
+      "answer": 0,
+      "explanation": "Cold stratification involves moist chilling (around 4 °C) for several weeks, mimicking winter conditions to overcome physiological dormancy.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "In seeds showing physiological dormancy, the balance between which two hormones determines the transition from dormancy to germination?",
+      "options": [
+        "Auxin and cytokinin",
+        "Abscisic acid and gibberellin",
+        "Ethylene and jasmonic acid",
+        "Salicylic acid and brassinosteroid"
+      ],
+      "answer": 1,
+      "explanation": "A decrease in ABA and an increase in gibberellin (GA) shift the hormonal balance toward germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which of the following environmental factors is least likely to break dormancy in seeds that have physiological dormancy?",
+      "options": [
+        "Exposure to light of specific wavelength",
+        "Cold temperature (stratification)",
+        "Mechanical scarification",
+        "High temperature fluctuations"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical scarification mainly removes physical barriers and is ineffective for purely physiological dormancy, which requires hormonal or temperature cues.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "A seed of a temperate‑zone plant requires a period of low temperature before it can germinate. This requirement is an example of:",
+      "options": [
+        "Thermoinhibition",
+        "After‑ripening",
+        "Cold stratification",
+        "Photodormancy"
+      ],
+      "answer": 2,
+      "explanation": "Cold stratification (moist chilling) is the process by which low temperature breaks physiological dormancy in many temperate species.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which statement best describes combinational dormancy?",
+      "options": [
+        "Dormancy caused solely by a hard seed coat",
+        "Dormancy due to both seed coat impermeability and embryo physiological inhibition",
+        "Dormancy that can be broken only by light exposure",
+        "Dormancy that persists regardless of environmental conditions"
+      ],
+      "answer": 1,
+      "explanation": "Combinational dormancy involves both exogenous (physical seed coat) and endogenous (physiological) factors that must be removed for germination.",
+      "topic": "Seed dormancy"
+    },
+    {
+      "question": "Which hormone is primarily responsible for maintaining seed dormancy in many temperate species?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Gibberellin (GA)",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 0,
+      "explanation": "High levels of ABA inhibit embryo growth and keep the seed dormant, whereas GA promotes germination.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "A seed that does not imbibe water because of a hard, impermeable seed coat is exhibiting which type of dormancy?",
+      "options": [
+        "Morphological dormancy",
+        "Physical dormancy",
+        "Physiological dormancy",
+        "Combinational dormancy"
+      ],
+      "answer": 1,
+      "explanation": "Physical dormancy is caused by a water‑impermeable seed coat that prevents imbibition.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "Dormancy in seeds that are dispersed before the embryo is fully developed is mainly due to:",
+      "options": [
+        "Accumulation of growth inhibitors",
+        "Mechanical restriction by the seed coat",
+        "Immature embryo",
+        "Requirement of low temperature"
+      ],
+      "answer": 2,
+      "explanation": "An underdeveloped embryo cannot resume growth until it matures, leading to morphological dormancy.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "In many desert annuals, which process most effectively breaks physiological dormancy after seed dispersal?",
+      "options": [
+        "Exposure to fire",
+        "Scarification of the seed coat",
+        "After‑ripening at warm temperatures",
+        "Cold stratification"
+      ],
+      "answer": 2,
+      "explanation": "Warm after‑ripening reduces ABA levels and allows the seed to become physiologically competent for germination.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "Which hormone antagonizes abscisic acid to promote seed germination?",
+      "options": [
+        "Cytokinin",
+        "Gibberellin",
+        "Auxin",
+        "Ethylene"
+      ],
+      "answer": 1,
+      "explanation": "Gibberellin counteracts ABA, stimulates enzyme production and weakens the seed coat, facilitating germination.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "A seed that requires a period of low temperature before it can germinate is an example of which dormancy type?",
+      "options": [
+        "Physical dormancy",
+        "Morphophysiological dormancy",
+        "Physiological dormancy",
+        "Non‑deep dormancy"
+      ],
+      "answer": 2,
+      "explanation": "Cold stratification fulfills the physiological requirement (low temperature) that maintains dormancy in many temperate seeds.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "Which statement best describes combinational (morphophysiological) dormancy?",
+      "options": [
+        "Dormancy caused solely by a hard seed coat",
+        "Dormancy due to both an underdeveloped embryo and physiological inhibitors",
+        "Dormancy that can be broken only by fire",
+        "Dormancy independent of environmental cues"
+      ],
+      "answer": 1,
+      "explanation": "Combinational dormancy involves both morphological (immature embryo) and physiological (hormonal) components that must be overcome for germination.",
+      "topic": "Causes of seed dormancy"
+    },
+    {
+      "question": "Which treatment is most effective for breaking physical dormancy in seeds having a hard seed coat?",
+      "options": [
+        "Soaking in water at 25°C",
+        "Exposure to red light",
+        "Mechanical scarification",
+        "Cold stratification"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical scarification physically damages or abrades the hard seed coat, allowing water and gases to enter and thereby terminating physical dormancy.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Application of gibberellic acid (GA3) to dormant seeds primarily works by:",
+      "options": [
+        "Inhibiting abscisic acid synthesis",
+        "Enhancing production of ethylene",
+        "Activating hydrolytic enzymes that degrade stored food reserves",
+        "Increasing seed coat permeability"
+      ],
+      "answer": 2,
+      "explanation": "GA3 stimulates the synthesis of enzymes such as α‑amylase that mobilize stored reserves, providing energy for embryo growth and overcoming physiological dormancy.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Cold stratification is used to break dormancy in many temperate species. The optimal temperature range for stratification is:",
+      "options": [
+        "0-5°C",
+        "10-15°C",
+        "20-25°C",
+        "30-35°C"
+      ],
+      "answer": 0,
+      "explanation": "Stratification mimics winter conditions; temperatures close to 0–5 °C for several weeks satisfy the chilling requirement of many seeds with physiological dormancy.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which of the following seed dormancy types is primarily overcome by after‑ripening (dry storage) rather than any external treatment?",
+      "options": [
+        "Physical dormancy",
+        "Physiological dormancy",
+        "Morphological dormancy",
+        "Combinational dormancy"
+      ],
+      "answer": 1,
+      "explanation": "After‑ripening gradually reduces the level of internal growth inhibitors in seeds with physiological dormancy, allowing germination without further treatments.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "In seeds that require light for germination, the photoreceptor responsible for breaking dormancy is:",
+      "options": [
+        "Phytochrome B",
+        "Phytochrome A",
+        "Cryptochrome",
+        "Phototropin"
+      ],
+      "answer": 1,
+      "explanation": "Phytochrome A is the primary photoreceptor mediating very low fluence responses, including the promotion of germination in light‑requiring seeds.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "A seed batch of a legume species shows low germination due to hard seed coat. Which chemical scarification method is commonly recommended?",
+      "options": [
+        "1% sodium hypochlorite for 5 min",
+        "70% sulfuric acid for 30 min",
+        "0.1% copper sulfate for 10 min",
+        "5% hydrogen peroxide for 2 h"
+      ],
+      "answer": 1,
+      "explanation": "Concentrated sulfuric acid (≈70%) for a controlled period softens or erodes the hard seed coat of many legumes, effectively breaking physical dormancy.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which hormone antagonizes the effect of abscisic acid (ABA) during the breaking of seed dormancy?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Gibberellin",
+        "Ethylene"
+      ],
+      "answer": 2,
+      "explanation": "Gibberellins counteract ABA by promoting enzyme synthesis and growth processes, thereby facilitating the transition from dormancy to germination.",
+      "topic": "Breaking seed dormancy"
+    },
+    {
+      "question": "Which hormone is primarily responsible for induction and maintenance of seed dormancy in most plants?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Gibberellic acid (GA)",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "answer": 0,
+      "explanation": "ABA accumulates during seed development and inhibits enzymes required for germination, thereby establishing and maintaining dormancy.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "An increase in the level of which hormone is most directly associated with breaking seed dormancy and promoting germination?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Gibberellic acid (GA)",
+        "Auxin (IAA)",
+        "Brassinosteroid"
+      ],
+      "answer": 1,
+      "explanation": "GA stimulates the synthesis of hydrolytic enzymes such as α‑amylase, leading to reserve mobilization and germination, counteracting the inhibitory effect of ABA.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "The dormancy status of a seed is largely determined by the ratio of which two hormones?",
+      "options": [
+        "Abscisic acid to gibberellin",
+        "Gibberellin to ethylene",
+        "Cytokinin to auxin",
+        "Ethylene to abscisic acid"
+      ],
+      "answer": 0,
+      "explanation": "A high ABA : GA ratio favors dormancy, whereas a low ratio (more GA relative to ABA) favors germination.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "Which treatment is known to reduce abscisic acid content in seeds and thereby alleviate dormancy?",
+      "options": [
+        "Cold stratification",
+        "Application of paclobutrazol (GA biosynthesis inhibitor)",
+        "Exposure to high CO₂ concentration",
+        "Extended photoperiod (light exposure)"
+      ],
+      "answer": 0,
+      "explanation": "Cold stratification (low‑temperature treatment) lowers ABA levels and enhances GA synthesis, helping to break physiological dormancy.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "During bud dormancy in temperate woody plants, which hormone's concentration typically declines just before bud break?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Gibberellic acid (GA)",
+        "Cytokinin",
+        "Ethylene"
+      ],
+      "answer": 0,
+      "explanation": "A decline in ABA removes its inhibitory effect, allowing growth‑promoting hormones like GA and cytokinins to trigger bud break.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "Which hormone works synergistically with gibberellins to stimulate α‑amylase production in the aleurone layer during seed germination?",
+      "options": [
+        "Ethylene",
+        "Cytokinin",
+        "Brassinosteroid",
+        "Salicylic acid"
+      ],
+      "answer": 0,
+      "explanation": "Ethylene enhances the GA‑induced expression of α‑amylase genes, accelerating starch degradation and seedling emergence.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "Application of which hormone can mimic the effect of after‑ripening in seeds with non‑deep physiological dormancy?",
+      "options": [
+        "Gibberellic acid (GA₃)",
+        "Abscisic acid (ABA)",
+        "Indole‑3‑acetic acid (IAA)",
+        "Jasmonic acid"
+      ],
+      "answer": 0,
+      "explanation": "Exogenous GA₃ substitutes for the hormonal changes that occur during after‑ripening, reducing dormancy and promoting germination.",
+      "topic": "Role of hormones in dormancy"
+    },
+    {
+      "question": "The germination rate of most temperate crop seeds is highest at which temperature range?",
+      "options": [
+        "5-10 °C",
+        "15-20 °C",
+        "25-30 °C",
+        "35-40 °C"
+      ],
+      "answer": 2,
+      "explanation": "At 25‑30 °C enzymatic activities involved in metabolism and reserve mobilization are optimal; lower temperatures slow the processes and higher temperatures can denature enzymes, reducing germination rate.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "Which of the following seeds is positively photoblastic, requiring light for germination?",
+      "options": [
+        "Arabidopsis thaliana",
+        "Lepidium sativum (garden cress)",
+        "Lactuca sativa (lettuce)",
+        "Zea mays (maize)"
+      ],
+      "answer": 2,
+      "explanation": "Lettuce seeds need light to trigger phytochrome-mediated signalling for germination, whereas the other listed seeds can germinate in darkness.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "When seeds are placed on a solution having –0.8 MPa water potential, which outcome is most likely?",
+      "options": [
+        "Rapid germination",
+        "Delayed germination",
+        "No germination",
+        "Enhanced seedling growth"
+      ],
+      "answer": 2,
+      "explanation": "A water potential of –0.8 MPa is below the threshold required for imbibition; seeds cannot take up sufficient water, so germination is inhibited.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "In a sealed container with limited oxygen, rice seeds show reduced germination. Which physiological process is primarily affected?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Photomorphogenesis"
+      ],
+      "answer": 1,
+      "explanation": "Germination depends on aerobic respiration to supply ATP; limited O₂ restricts this energy production, impairing germination.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "Sowing a seed too deep in the soil mainly reduces germination because:",
+      "options": [
+        "Insufficient light reaches the seed",
+        "Reduced oxygen diffusion to the embryo",
+        "Excessive water uptake causing swelling",
+        "Increased soil temperature"
+      ],
+      "answer": 1,
+      "explanation": "Greater depth limits gas exchange, lowering the availability of oxygen required for aerobic metabolism during germination.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "Cold stratification breaks seed dormancy primarily by decreasing the level of which hormone?",
+      "options": [
+        "Gibberellin",
+        "Auxin",
+        "Abscisic acid",
+        "Cytokinin"
+      ],
+      "answer": 2,
+      "explanation": "Low‑temperature treatment reduces abscisic acid (ABA) concentration, relieving its inhibitory effect and allowing gibberellin‑mediated germination.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "High salinity in the germination medium most directly affects seed germination by:",
+      "options": [
+        "Lowering the water potential of the medium",
+        "Providing toxic Na⁺ ions",
+        "Enhancing seed respiration",
+        "Stimulating ethylene synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Saline solutions make the water potential more negative, limiting water uptake (imbibition) by the seed, which is the primary cause of reduced germination.",
+      "topic": "Environmental factors affecting germination"
+    },
+    {
+      "question": "Which statement correctly distinguishes short‑day and long‑day plants regarding the critical photoperiod?",
+      "options": [
+        "Short‑day plants flower when day length exceeds the critical photoperiod; long‑day plants flower when day length is shorter.",
+        "Short‑day plants flower when day length is shorter than the critical photoperiod; long‑day plants flower when day length exceeds it.",
+        "Both short‑day and long‑day plants flower only under day‑neutral conditions.",
+        "Critical photoperiod is irrelevant for short‑day plants."
+      ],
+      "answer": 1,
+      "explanation": "Short‑day plants require a day length shorter than their critical photoperiod to induce flowering, whereas long‑day plants require a day length longer than their critical photoperiod.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "Florigen is hypothesized to be produced in which part of the plant and transported to where to induce flowering?",
+      "options": [
+        "Produced in roots, transported to shoots.",
+        "Produced in leaves, transported to shoot apical meristem.",
+        "Produced in shoot apical meristem, transported to leaves.",
+        "Produced in seeds, transported to cotyledons."
+      ],
+      "answer": 1,
+      "explanation": "The florigen (FT protein) is synthesized in the photosynthetic leaves under inductive photoperiods and moves through the phloem to the shoot apical meristem where it triggers floral transition.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "Which statement about vernalisation in winter cereals is correct?",
+      "options": [
+        "Vernalisation replaces the need for photoperiodic cues in winter wheat.",
+        "Vernalisation induces expression of the VRN1 gene, which promotes flowering after cold exposure.",
+        "Vernalisation is ineffective if temperature falls below 0 °C.",
+        "Vernalisation only affects monocots, not dicots."
+      ],
+      "answer": 1,
+      "explanation": "Cold treatment during vernalisation up‑regulates VRN1, a key promoter of flowering, allowing winter cereals to flower after the chilling period.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "A seed of a desert plant shows deep dormancy due to high abscisic acid (ABA) levels. Which treatment is most effective to break this dormancy?",
+      "options": [
+        "Soaking seeds in water at 25 °C for 2 h.",
+        "Treating seeds with gibberellic acid (GA3) solution.",
+        "Exposing seeds to continuous darkness.",
+        "Storing seeds at 4 °C for 1 week."
+      ],
+      "answer": 1,
+      "explanation": "Gibberellins counteract ABA and stimulate enzymes required for embryo growth, making GA3 the most efficient method to break physiological dormancy.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "In photoperiodic flowering, the primary role of the leaf is to:",
+      "options": [
+        "Synthesize and export florigen (FT protein) in response to appropriate photoperiod.",
+        "Store carbohydrates for later use.",
+        "Produce auxin to elongate stems.",
+        "Absorb nutrients from soil."
+      ],
+      "answer": 0,
+      "explanation": "Leaves perceive the light/dark cycle, generate the florigen signal (FT) under inductive photoperiods, and transport it to the shoot apex to initiate flowering.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "Which hormone predominantly promotes seed germination and counteracts ABA during breaking of dormancy?",
+      "options": [
+        "Abscisic acid (ABA)",
+        "Ethylene",
+        "Gibberellins (GA)",
+        "Cytokinin"
+      ],
+      "answer": 2,
+      "explanation": "Gibberellins stimulate the synthesis of hydrolytic enzymes and weaken the seed coat, overcoming ABA‑mediated inhibition and allowing germination.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "A plant grown under 12 h light/12 h dark fails to flower, but when the night is extended to 16 h it flowers. The plant is classified as:",
+      "options": [
+        "Short‑day plant",
+        "Long‑day plant",
+        "Day‑neutral plant",
+        "Photoperiod‑insensitive plant"
+      ],
+      "answer": 0,
+      "explanation": "Flowering is induced when the night period exceeds a critical length, characteristic of short‑day plants.",
+      "topic": "Integrated plant development revision"
+    },
+    {
+      "question": "De‑vernalisation can occur if vernalised plants are exposed to high temperature after cold treatment. Which molecular change is most associated with de‑vernalisation?",
+      "options": [
+        "Up‑regulation of FLC (FLOWERING LOCUS C) expression.",
+        "Down‑regulation of VRN1 expression.",
+        "Increased synthesis of gibberellins.",
+        "Accumulation of phytochrome B."
+      ],
+      "answer": 0,
+      "explanation": "High temperature after vernalisation re‑activates the floral repressor FLC, reversing the vernalisation‑induced promotion of flowering.",
+      "topic": "Integrated plant development revision"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 20,
+    "mcqCount": 140
+  }
+}

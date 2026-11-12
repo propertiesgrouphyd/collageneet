@@ -1,0 +1,3341 @@
+{
+  "day": 74,
+  "courseDate": "2026-11-11",
+  "publishAt": "2026-11-11T06:00:00+05:30",
+  "title": "Day 74: Human Skeletal System – Bones, Joints and Skeletal Organisation",
+  "introduction": "This lesson integrates locomotion mechanisms with the structural framework of the human skeleton, detailing bone classifications, major skeletal regions, and joint types essential for NEET biology.",
+  "sections": [
+    {
+      "topic": "Locomotion and movement",
+      "heading": "Overview of Locomotion and Movement",
+      "content": "Locomotion refers to the ability of organisms to move from one place to another, while movement includes all internal and external motions such as ciliary, flagellar, muscular and skeletal actions.",
+      "keyPoints": [
+        "Locomotion is organism-wide displacement",
+        "Movement encompasses cellular to whole‑body actions"
+      ],
+      "neetTips": [
+        "Link each movement type to its anatomical basis for quick recall"
+      ]
+    },
+    {
+      "topic": "Types of movement",
+      "heading": "Classification of Movement Types",
+      "content": "Movement is classified into ciliary, flagellar, muscular and skeletal (bone‑joint) movements, each driven by distinct cellular structures or tissue systems.",
+      "keyPoints": [
+        "Four major categories",
+        "Each type has a specific structural basis"
+      ],
+      "neetTips": [
+        "Remember examples: respiratory epithelium (ciliary), sperm (flagellar)"
+      ]
+    },
+    {
+      "topic": "Ciliary movement",
+      "heading": "Ciliary Movement Mechanism",
+      "content": "Cilia are short, hair‑like projections whose coordinated beating creates directional fluid flow, crucial in respiratory tract and oviduct.",
+      "keyPoints": [
+        "Beating is ATP‑dependent",
+        "Creates unidirectional flow"
+      ],
+      "neetTips": [
+        "Visualize ciliary sweep as a rower’s oar for easy memory"
+      ]
+    },
+    {
+      "topic": "Flagellar movement",
+      "heading": "Flagellar Movement Mechanism",
+      "content": "Flagella are longer whip‑like structures whose undulating motion propels cells such as spermatozoa; movement is powered by dynein‑driven microtubule sliding.",
+      "keyPoints": [
+        "Undulating wave pattern",
+        "Dynein ATPase activity"
+      ],
+      "neetTips": [
+        "Associate flagella with male fertility to anchor the concept"
+      ]
+    },
+    {
+      "topic": "Muscular movement",
+      "heading": "Muscular Movement Fundamentals",
+      "content": "Skeletal muscles contract via actin‑myosin cross‑bridge cycling, converting chemical energy into mechanical force that moves bones at joints.",
+      "keyPoints": [
+        "Sliding filament theory",
+        "Neuromuscular junction triggers contraction"
+      ],
+      "neetTips": [
+        "Link muscle contraction steps to ATP hydrolysis for NEET questions"
+      ]
+    },
+    {
+      "topic": "Human skeletal system",
+      "heading": "Human Skeletal System Overview",
+      "content": "The human skeleton is a rigid framework of 206 bones, providing support, protection, movement, mineral storage and hematopoiesis.",
+      "keyPoints": [
+        "206 bones in adult",
+        "Supports body, protects organs"
+      ],
+      "neetTips": [
+        "Recall the two main divisions: axial and appendicular"
+      ]
+    },
+    {
+      "topic": "Functions of skeleton",
+      "heading": "Key Functions of the Skeleton",
+      "content": "Skeleton functions include support, protection of vital organs, leverage for movement, mineral reservoir (Ca²⁺, PO₄³⁻), and site of blood cell formation in marrow.",
+      "keyPoints": [
+        "Support, protection, movement, mineral storage, hematopoiesis"
+      ],
+      "neetTips": [
+        "Match each function with a clinical example (e.g., rib cage protects heart)"
+      ]
+    },
+    {
+      "topic": "Axial skeleton",
+      "heading": "Axial Skeleton Components",
+      "content": "The axial skeleton comprises the skull, vertebral column, ribs and sternum, totaling 80 bones, and forms the central axis of the body.",
+      "keyPoints": [
+        "Skull, vertebral column, thoracic cage",
+        "80 bones"
+      ],
+      "neetTips": [
+        "Axial = ‘axis’, central line of the body"
+      ]
+    },
+    {
+      "topic": "Appendicular skeleton",
+      "heading": "Appendicular Skeleton Components",
+      "content": "The appendicular skeleton includes the pectoral girdles, upper limbs, pelvic girdle and lower limbs, accounting for 126 bones and facilitating locomotion.",
+      "keyPoints": [
+        "Shoulder girdle, arms, pelvis, legs",
+        "126 bones"
+      ],
+      "neetTips": [
+        "Appendicular = ‘appendages’, focus on movement"
+      ]
+    },
+    {
+      "topic": "Bones of skull",
+      "heading": "Bones Forming the Skull",
+      "content": "The skull consists of the cranium (8 bones) protecting the brain and the facial skeleton (14 bones) forming the facial structure.",
+      "keyPoints": [
+        "Cranium 8 bones, facial 14 bones"
+      ],
+      "neetTips": [
+        "Remember the mnemonic: ‘Cranial 8, Facial 14’"
+      ]
+    },
+    {
+      "topic": "Cranium",
+      "heading": "Cranial Bones Details",
+      "content": "Cranial bones include frontal, parietal (2), occipital, temporal (2) and sphenoid, ethmoid; they fuse to enclose the brain and form cranial fossae.",
+      "keyPoints": [
+        "Frontal, 2 Parietals, Occipital, 2 Temporals, Sphenoid, Ethmoid"
+      ],
+      "neetTips": [
+        "Group as ‘front, sides, back, base’ for quick recall"
+      ]
+    },
+    {
+      "topic": "Facial bones",
+      "heading": "Facial Bones Overview",
+      "content": "Facial bones comprise nasal, maxillae (2), zygomatic (2), mandible, lacrimal (2), palatine (2), inferior nasal concha (2) and vomer, shaping the face and oral cavity.",
+      "keyPoints": [
+        "Mandible is the only movable facial bone"
+      ],
+      "neetTips": [
+        "Mandible = ‘move‑able’"
+      ]
+    },
+    {
+      "topic": "Vertebral column",
+      "heading": "Vertebral Column Structure",
+      "content": "The vertebral column consists of 33 vertebrae in five regions: cervical (7), thoracic (12), lumbar (5), sacral (5 fused) and coccygeal (4 fused), providing support and protecting the spinal cord.",
+      "keyPoints": [
+        "7C,12T,5L,5S(fused),4C(fused)"
+      ],
+      "neetTips": [
+        "C‑T‑L‑S‑C mnemonic"
+      ]
+    },
+    {
+      "topic": "Cervical vertebrae",
+      "heading": "Cervical Vertebrae Features",
+      "content": "Seven cervical vertebrae (C1‑C7) have transverse foramina; C1 (atlas) lacks a body, C2 (axis) has the odontoid process for rotation.",
+      "keyPoints": [
+        "Transverse foramina, atlas‑axis specialisation"
+      ],
+      "neetTips": [
+        "Atlas‑axis enable head rotation"
+      ]
+    },
+    {
+      "topic": "Thoracic vertebrae",
+      "heading": "Thoracic Vertebrae Characteristics",
+      "content": "Twelve thoracic vertebrae (T1‑T12) articulate with ribs via costal facets and have longer spinous processes that slope downwards.",
+      "keyPoints": [
+        "Rib articulation, costal facets"
+      ],
+      "neetTips": [
+        "Remember T = ‘rib‑bearing’"
+      ]
+    },
+    {
+      "topic": "Lumbar vertebrae",
+      "heading": "Lumbar Vertebrae Description",
+      "content": "Five lumbar vertebrae (L1‑L5) are the largest, with massive bodies and short, thick spinous processes, bearing most body weight.",
+      "keyPoints": [
+        "Largest bodies, weight bearing"
+      ],
+      "neetTips": [
+        "L = ‘load‑bearing’"
+      ]
+    },
+    {
+      "topic": "Sacral region",
+      "heading": "Sacral Region Anatomy",
+      "content": "The sacrum consists of five fused vertebrae forming a triangular plate that connects the pelvis to the spine and transmits weight to the lower limbs.",
+      "keyPoints": [
+        "5 fused vertebrae, pelvic anchor"
+      ],
+      "neetTips": [
+        "Sacrum = ‘sacred’ base of spine"
+      ]
+    },
+    {
+      "topic": "Coccygeal region",
+      "heading": "Coccygeal Region Details",
+      "content": "The coccyx comprises four fused rudimentary vertebrae, serving as an attachment for ligaments and muscles of the pelvic floor.",
+      "keyPoints": [
+        "4 fused vertebrae, pelvic floor attachment"
+      ],
+      "neetTips": [
+        "Coccyx = vestigial tail"
+      ]
+    },
+    {
+      "topic": "Rib cage",
+      "heading": "Rib Cage Composition",
+      "content": "The rib cage includes 12 pairs of ribs (true, false, floating) and the sternum, forming a protective thoracic cavity for heart and lungs.",
+      "keyPoints": [
+        "True (1‑7), false (8‑12), floating (11‑12)"
+      ],
+      "neetTips": [
+        "True ribs attach directly to sternum"
+      ]
+    },
+    {
+      "topic": "Sternum",
+      "heading": "Sternum Structure",
+      "content": "The sternum has three parts: manubrium, body, and xiphoid process; it articulates with clavicles and ribs via costal cartilages.",
+      "keyPoints": [
+        "Manubrium, body, xiphoid"
+      ],
+      "neetTips": [
+        "Manubrium = ‘handle’, xiphoid = ‘small sword’"
+      ]
+    },
+    {
+      "topic": "Pectoral girdle",
+      "heading": "Pectoral (Shoulder) Girdle Components",
+      "content": "The pectoral girdle consists of paired clavicles and scapulae, linking the upper limbs to the axial skeleton and allowing wide range of motion.",
+      "keyPoints": [
+        "Clavicle, scapula"
+      ],
+      "neetTips": [
+        "Clavicle = ‘collar‑bone’, scapula = ‘shoulder blade’"
+      ]
+    },
+    {
+      "topic": "Pelvic girdle",
+      "heading": "Pelvic Girdle Anatomy",
+      "content": "The pelvic girdle comprises two hip bones (ilium, ischium, pubis) fused to the sacrum, supporting abdominal viscera and transmitting weight to lower limbs.",
+      "keyPoints": [
+        "Ilium, ischium, pubis fused"
+      ],
+      "neetTips": [
+        "Hip bone = ‘iliac‑ischio‑pubic’"
+      ]
+    },
+    {
+      "topic": "Bones of upper limb",
+      "heading": "Upper Limb Bone Overview",
+      "content": "Upper limb bones include the humerus, radius, ulna, carpals, metacarpals and phalanges, facilitating manipulation and locomotion.",
+      "keyPoints": [
+        "Humerus, radius, ulna, hand bones"
+      ],
+      "neetTips": [
+        "Remember the sequence: arm → forearm → hand"
+      ]
+    },
+    {
+      "topic": "Bones of lower limb",
+      "heading": "Lower Limb Bone Overview",
+      "content": "Lower limb bones consist of the femur, patella, tibia, fibula, tarsals, metatarsals and phalanges, bearing body weight and enabling locomotion.",
+      "keyPoints": [
+        "Femur, patella, tibia, fibula, foot bones"
+      ],
+      "neetTips": [
+        "Femur = longest bone"
+      ]
+    },
+    {
+      "topic": "Carpals and metacarpals",
+      "heading": "Carpal and Metacarpal Bones",
+      "content": "The hand contains eight carpal bones (scaphoid to pisiform) forming the wrist, and five metacarpals forming the palm, each articulating with phalanges.",
+      "keyPoints": [
+        "8 carpals, 5 metacarpals"
+      ],
+      "neetTips": [
+        "Carpals = ‘wrist’, metacarpals = ‘palm’"
+      ]
+    },
+    {
+      "topic": "Tarsals and metatarsals",
+      "heading": "Tarsal and Metatarsal Bones",
+      "content": "The foot comprises seven tarsal bones (including calcaneus and talus) forming the ankle, and five metatarsals forming the arch of the foot.",
+      "keyPoints": [
+        "7 tarsals, 5 metatarsals"
+      ],
+      "neetTips": [
+        "Calcaneus = heel bone"
+      ]
+    },
+    {
+      "topic": "Phalanges",
+      "heading": "Phalanges of Hands and Feet",
+      "content": "Each hand and foot has 14 phalanges: proximal, middle and distal (except the thumb and big toe, which lack middle phalanges).",
+      "keyPoints": [
+        "14 per limb, thumb/big toe have 2"
+      ],
+      "neetTips": [
+        "Phalanges = finger/toe bones"
+      ]
+    },
+    {
+      "topic": "Joints",
+      "heading": "Joint Classification Overview",
+      "content": "Joints are classified by tissue type (fibrous, cartilaginous, synovial) and by movement (fixed, slightly movable, freely movable).",
+      "keyPoints": [
+        "Fibrous, cartilaginous, synovial"
+      ],
+      "neetTips": [
+        "Synovial = most movable"
+      ]
+    },
+    {
+      "topic": "Fibrous joints",
+      "heading": "Fibrous Joint Types",
+      "content": "Fibrous joints are immovable (synarthroses) and include sutures (skull), syndesmoses (distal tibiofibular) and gomphoses (tooth‑alveolus).",
+      "keyPoints": [
+        "Sutures, syndesmoses, gomphoses"
+      ],
+      "neetTips": [
+        "Fibrous = ‘fibers’, little movement"
+      ]
+    },
+    {
+      "topic": "Cartilaginous joints",
+      "heading": "Cartilaginous Joint Types",
+      "content": "Cartilaginous joints allow slight movement (amphiarthroses) and are of two types: synchondroses (hyaline cartilage, e.g., epiphyseal plate) and symphyses (fibrocartilage, e.g., pubic symphysis).",
+      "keyPoints": [
+        "Synchondroses, symphyses"
+      ],
+      "neetTips": [
+        "Cartilage = ‘semi‑move’"
+      ]
+    },
+    {
+      "topic": "Synovial joints",
+      "heading": "Synovial Joint Characteristics",
+      "content": "Synovial joints are freely movable (diarthroses) with a joint cavity, articular cartilage, synovial fluid, capsule and various accessory structures.",
+      "keyPoints": [
+        "Joint cavity, synovial fluid, capsule"
+      ],
+      "neetTips": [
+        "Synovial = ‘lubricated’, high mobility"
+      ]
+    },
+    {
+      "topic": "Ball and socket joint",
+      "heading": "Ball‑and‑Socket Joint Example",
+      "content": "Ball‑and‑socket joints have a spherical head fitting into a concave socket, permitting rotation and movement in three axes; hip and shoulder are prime examples.",
+      "keyPoints": [
+        "Three‑axis movement, hip & shoulder"
+      ],
+      "neetTips": [
+        "Think of a joystick"
+      ]
+    },
+    {
+      "topic": "Hinge joint",
+      "heading": "Hinge Joint Example",
+      "content": "Hinge joints allow movement in one plane (flexion‑extension) like a door; examples include elbow, knee and interphalangeal joints.",
+      "keyPoints": [
+        "Uniaxial, flex‑extend"
+      ],
+      "neetTips": [
+        "Hinge = ‘door‑like’"
+      ]
+    },
+    {
+      "topic": "Pivot joint",
+      "heading": "Pivot Joint Example",
+      "content": "Pivot joints permit rotation around a single longitudinal axis; the atlanto‑axial joint (C1‑C2) and proximal radioulnar joint are classic examples.",
+      "keyPoints": [
+        "Rotational movement, single axis"
+      ],
+      "neetTips": [
+        "Pivot = ‘twist’"
+      ]
+    },
+    {
+      "topic": "Gliding joint",
+      "heading": "Gliding Joint Example",
+      "content": "Gliding (plane) joints allow sliding movements between relatively flat bone surfaces; found in intercarpal, intertarsal and acromioclavicular joints.",
+      "keyPoints": [
+        "Multidirectional sliding"
+      ],
+      "neetTips": [
+        "Gliding = ‘sliding’"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand the important NEET concepts, facts, and applications covered in Human Skeletal System — Bones, Joints and Skeletal Organisation."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures is primarily responsible for the generation of rhythmic ciliary movement in the respiratory epithelium?",
+      "options": [
+        "Dynein arms",
+        "Myosin filaments",
+        "Actin filaments",
+        "Tubulin dimers"
+      ],
+      "answer": 0,
+      "explanation": "Dynein arms are motor proteins attached to the A‑microtubule of each doublet; their ATP‑driven activity causes sliding of adjacent microtubules, producing the ciliary beat.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "Flagellar propulsion in sperm cells is driven by which of the following?",
+      "options": [
+        "ATP‑dependent dynein activity",
+        "Calcium influx through voltage‑gated channels",
+        "Passive diffusion of ions",
+        "Myosin cross‑bridge cycling"
+      ],
+      "answer": 0,
+      "explanation": "Sperm flagella contain axonemal dynein; ATP hydrolysis by dynein generates sliding of microtubule doublets, resulting in the characteristic whip‑like motion.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "In skeletal muscle contraction, the release of calcium ions from the sarcoplasmic reticulum leads to which immediate molecular event?",
+      "options": [
+        "Binding of calcium to troponin C",
+        "Phosphorylation of myosin heads",
+        "Formation of actin‑myosin cross bridges",
+        "Depolymerization of actin filaments"
+      ],
+      "answer": 0,
+      "explanation": "Calcium binds to the regulatory protein troponin C, causing a conformational change that moves tropomyosin away from actin’s myosin‑binding sites, permitting cross‑bridge formation.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "Which type of joint allows the greatest range of motion and is exemplified by the shoulder joint?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Ball‑and‑socket joint",
+        "Gliding joint"
+      ],
+      "answer": 2,
+      "explanation": "Ball‑and‑socket joints have a spherical head fitting into a cup‑like socket, permitting movement in multiple planes (flexion, extension, abduction, rotation), as seen in the shoulder.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "During walking, the movement at the knee joint is primarily which type of synovial joint movement?",
+      "options": [
+        "Rotation",
+        "Flexion and extension",
+        "Gliding",
+        "Opposition"
+      ],
+      "answer": 1,
+      "explanation": "The knee functions mainly as a hinge joint, allowing flexion (bending) and extension (straightening) during the gait cycle.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "Which of the following best describes isotonic contraction?",
+      "options": [
+        "Muscle length remains constant while tension increases",
+        "Muscle length changes while tension remains constant",
+        "No change in length or tension",
+        "Rapid, involuntary twitch"
+      ],
+      "answer": 1,
+      "explanation": "In isotonic contraction, the muscle shortens (concentric) or lengthens (eccentric) while generating a relatively constant tension, enabling movement of a load.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "The primary function of the axial skeleton in locomotion is to:",
+      "options": [
+        "Provide attachment sites for limb muscles",
+        "Protect the brain and spinal cord",
+        "Facilitate limb movement at joints",
+        "Store calcium for muscle contraction"
+      ],
+      "answer": 1,
+      "explanation": "The axial skeleton (skull, vertebral column, thoracic cage) mainly safeguards the central nervous system; locomotor movements are chiefly driven by the appendicular skeleton.",
+      "topic": "Locomotion and movement"
+    },
+    {
+      "question": "Which movement at the shoulder joint involves moving the arm away from the midline in the coronal (frontal) plane?",
+      "options": [
+        "Abduction",
+        "Adduction",
+        "Flexion",
+        "Extension"
+      ],
+      "answer": 0,
+      "explanation": "Abduction is the movement of a limb away from the midline in the coronal plane, as seen when raising the arm laterally at the shoulder.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Turning the head side‑to‑side about the vertical axis of the neck is termed what type of movement?",
+      "options": [
+        "Rotation",
+        "Flexion",
+        "Extension",
+        "Lateral flexion"
+      ],
+      "answer": 0,
+      "explanation": "Rotation refers to movement around an axis; turning the head left or right occurs around the vertical axis, i.e., cervical rotation.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "When the palm is turned posteriorly (downward) the forearm undergoes which movement at the radioulnar joint?",
+      "options": [
+        "Supination",
+        "Pronation",
+        "Flexion",
+        "Extension"
+      ],
+      "answer": 1,
+      "explanation": "Pronation rotates the radius over the ulna so that the palm faces posteriorly (or downward in anatomical position).",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Raising the sole of the foot upward toward the shin is called what movement at the ankle joint?",
+      "options": [
+        "Dorsiflexion",
+        "Plantarflexion",
+        "Inversion",
+        "Eversion"
+      ],
+      "answer": 0,
+      "explanation": "Dorsiflexion is the upward movement of the foot at the ankle, decreasing the angle between the dorsum of the foot and the leg.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Which pair of movements best describes the primary motion possible at a hinge joint?",
+      "options": [
+        "Gliding and rotation",
+        "Flexion and extension",
+        "Circumduction and abduction",
+        "Adduction and lateral rotation"
+      ],
+      "answer": 1,
+      "explanation": "Hinge joints, such as the elbow and knee, allow movement primarily in one plane: flexion and extension.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Moving the thumb away from the palm in the plane of the palm is known as which movement?",
+      "options": [
+        "Abduction",
+        "Adduction",
+        "Opposition",
+        "Flexion"
+      ],
+      "answer": 0,
+      "explanation": "Thumb abduction is the movement of the thumb away from the palm in the same plane, distinct from opposition which brings the thumb to touch other fingers.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Which movement at the shoulder joint combines flexion, abduction and rotation in a circular manner?",
+      "options": [
+        "Circumduction",
+        "Extension",
+        "Pronation",
+        "Inversion"
+      ],
+      "answer": 0,
+      "explanation": "Circumduction is a conical movement that results from sequential flexion, abduction, extension and adduction, producing a circular path at the shoulder.",
+      "topic": "Types of movement"
+    },
+    {
+      "question": "Which of the following correctly describes the ultrastructural arrangement of microtubules in a typical motile cilium?",
+      "options": [
+        "9 peripheral doublets surrounding a central pair of singlet microtubules (9+2)",
+        "9 peripheral doublets without a central pair (9+0)",
+        "8 peripheral doublets with a central pair (8+2)",
+        "7 peripheral doublets surrounding a central pair (7+2)"
+      ],
+      "answer": 0,
+      "explanation": "Motile cilia possess the classic 9+2 axonemal pattern: nine outer doublet microtubules surrounding a central pair of singlet microtubules.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "The sliding of adjacent microtubule doublets in cilia is driven by which motor protein?",
+      "options": [
+        "Kinesin",
+        "Myosin",
+        "Dynein",
+        "Actin"
+      ],
+      "answer": 2,
+      "explanation": "Dynein arms attached to the A‑microtubule walk toward the minus end of the neighboring B‑microtubule, producing the sliding that is converted into bending.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "Which statement distinguishes primary (non‑motile) cilia from motile cilia?",
+      "options": [
+        "Primary cilia have a 9+2 arrangement, while motile cilia have 9+0.",
+        "Primary cilia are involved in cell locomotion, whereas motile cilia function in sensory perception.",
+        "Primary cilia lack dynein arms and are generally solitary, while motile cilia possess dynein arms and occur in large numbers.",
+        "Primary cilia are found only in epithelial cells, while motile cilia are present in all cell types."
+      ],
+      "answer": 2,
+      "explanation": "Primary cilia are usually single, lack dynein arms, and serve sensory roles; motile cilia have dynein arms, occur in many copies, and generate movement.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "In the human respiratory tract, the coordinated beating of cilia primarily serves to:",
+      "options": [
+        "Produce surfactant to reduce surface tension.",
+        "Transport mucus and trapped particles toward the pharynx.",
+        "Facilitate gas exchange across the alveolar membrane.",
+        "Generate heat to warm inhaled air."
+      ],
+      "answer": 1,
+      "explanation": "Ciliary motion propels the mucus layer, carrying inhaled dust and microbes upward to be cleared by swallowing or expectoration.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "Which of the following clinical conditions is directly associated with defective ciliary movement?",
+      "options": [
+        "Cystic fibrosis",
+        "Kartagener syndrome",
+        "Marfan syndrome",
+        "Phenylketonuria"
+      ],
+      "answer": 1,
+      "explanation": "Kartagener syndrome (a form of primary ciliary dyskinesia) involves immotile cilia, leading to chronic respiratory infections and situs inversus.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "During embryogenesis, the leftward flow generated by nodal cilia is crucial for establishing:",
+      "options": [
+        "Limb bud patterning",
+        "Neural tube closure",
+        "Left‑right asymmetry of visceral organs",
+        "Placental attachment"
+      ],
+      "answer": 2,
+      "explanation": "Nodal cilia create a leftward fluid flow that determines the left‑right positioning of organs such as the heart and liver.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "In the female reproductive system, the role of ciliary movement in the fallopian tube is to:",
+      "options": [
+        "Secrete estrogen for ovulation.",
+        "Propel the ovum from the ovary toward the uterus.",
+        "Produce the zona pellucida around the oocyte.",
+        "Prevent implantation of the embryo."
+      ],
+      "answer": 1,
+      "explanation": "Ciliated epithelial cells line the fallopian tube; their coordinated beating moves the ovum toward the uterine cavity for possible fertilisation.",
+      "topic": "Ciliary movement"
+    },
+    {
+      "question": "Which structural feature of a eukaryotic flagellum is directly responsible for its bending movement?",
+      "options": [
+        "Central pair of microtubules",
+        "Dynein arms",
+        "Radial spokes",
+        "Basal body"
+      ],
+      "answer": 1,
+      "explanation": "Dynein motor proteins attached to the outer microtubule doublets generate sliding forces that are converted into bending of the flagellum.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "What is the typical microtubular arrangement (axoneme) observed in a eukaryotic flagellum?",
+      "options": [
+        "9+2",
+        "9+0",
+        "8+2",
+        "7+1"
+      ],
+      "answer": 0,
+      "explanation": "The classic axonemal pattern consists of nine peripheral doublet microtubules surrounding a central pair, denoted as 9+2.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "In human sperm, the energy that drives flagellar movement is primarily supplied by:",
+      "options": [
+        "Oxidative phosphorylation in mitochondria",
+        "ATP generated by glycolysis in the principal piece",
+        "Proton motive force across the plasma membrane",
+        "Light-driven photophosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Glycolytic enzymes localized in the principal piece produce ATP locally, which powers dynein activity for flagellar beating.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "Which statement correctly distinguishes prokaryotic flagella from eukaryotic flagella?",
+      "options": [
+        "Prokaryotic flagella rotate like a propeller, eukaryotic flagella beat in a wave-like manner",
+        "Both are composed of tubulin",
+        "Both are powered by ATP hydrolysis",
+        "Prokaryotic flagella have a 9+2 arrangement"
+      ],
+      "answer": 0,
+      "explanation": "Bacterial flagella are helical filaments rotated by a motor, whereas eukaryotic flagella/cilia exhibit coordinated wave-like bends driven by dynein.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "Primary ciliary dyskinesia (PCD) commonly involves defects in which axonemal component, leading to impaired flagellar motility?",
+      "options": [
+        "Dynein arms",
+        "Central pair microtubules",
+        "Radial spokes",
+        "Basal body"
+      ],
+      "answer": 0,
+      "explanation": "Mutations affecting dynein arms reduce the sliding of microtubule doublets, causing reduced or absent flagellar beating in PCD.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "An increase in intracellular Ca²⁺ concentration in sperm typically results in:",
+      "options": [
+        "Decrease in flagellar beat frequency",
+        "Hyperactivation of flagellar movement",
+        "Complete cessation of movement",
+        "No effect"
+      ],
+      "answer": 1,
+      "explanation": "Elevated Ca²⁺ triggers a change to a high-amplitude, asymmetrical beat pattern known as hyperactivation, essential for fertilization.",
+      "topic": "Flagellar movement"
+    },
+    {
+      "question": "What is the specific function of troponin in skeletal muscle contraction?",
+      "options": [
+        "It binds calcium and moves tropomyosin away from actin sites",
+        "It hydrolyzes ATP to provide energy for cross‑bridge cycling",
+        "It forms the cross‑bridge with myosin heads",
+        "It stores calcium ions in the sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "Troponin binds the Ca2+ released during excitation; this causes a conformational change that shifts tropomyosin, exposing the myosin‑binding sites on actin.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "The motor end‑plate of a skeletal muscle fiber is located at which structure?",
+      "options": [
+        "Neuromuscular junction",
+        "Sarcolemma",
+        "Transverse (T)‑tubule",
+        "Sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "The motor end‑plate is the specialized region of the sarcolemma at the neuromuscular junction where the motor neuron releases acetylcholine.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "Which type of skeletal muscle fiber is most resistant to fatigue?",
+      "options": [
+        "Type I slow‑oxidative fibers",
+        "Type IIa fast oxidative‑glycolytic fibers",
+        "Type IIb fast glycolytic fibers",
+        "Type IIx intermediate fibers"
+      ],
+      "answer": 0,
+      "explanation": "Type I fibers have high mitochondrial density, rich capillary supply and rely on oxidative metabolism, making them highly fatigue‑resistant.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "The forearm acting as a lever during elbow flexion is an example of which class of lever?",
+      "options": [
+        "First class lever",
+        "Second class lever",
+        "Third class lever",
+        "Fourth class lever"
+      ],
+      "answer": 2,
+      "explanation": "In elbow flexion, the effort (biceps) is applied between the fulcrum (elbow joint) and the load (hand), which characterises a third‑class lever.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "During skeletal muscle contraction, the rapid rise in intracellular Ca2+ concentration originates mainly from which source?",
+      "options": [
+        "Release from the sarcoplasmic reticulum",
+        "Mitochondrial calcium release",
+        "Nuclear calcium stores",
+        "Influx from extracellular fluid through voltage‑gated channels"
+      ],
+      "answer": 0,
+      "explanation": "An action potential triggers the sarcoplasmic reticulum to release stored Ca2+ into the cytosol, initiating contraction.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "Which statement about antagonistic muscle pairs is FALSE?",
+      "options": [
+        "They act on the same joint",
+        "They contract simultaneously to produce movement",
+        "One muscle shortens while the other lengthens",
+        "They are innervated by different motor neurons"
+      ],
+      "answer": 1,
+      "explanation": "Antagonistic muscles do not contract simultaneously; one contracts (agonist) while the other relaxes (antagonist) to allow movement.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "The primary immediate source of ATP for a short, high‑intensity contraction lasting up to about 10 seconds is:",
+      "options": [
+        "Creatine phosphate hydrolysis",
+        "Aerobic oxidation of glucose",
+        "Beta‑oxidation of fatty acids",
+        "Glycogenolysis via glycolysis"
+      ],
+      "answer": 0,
+      "explanation": "Creatine phosphate donates a phosphate group to ADP, rapidly regenerating ATP for brief, intense muscle activity before other metabolic pathways take over.",
+      "topic": "Muscular movement"
+    },
+    {
+      "question": "Which of the following bones is not part of the axial skeleton?",
+      "options": [
+        "Sternum",
+        "Femur",
+        "Rib",
+        "Vertebra"
+      ],
+      "answer": 1,
+      "explanation": "The femur belongs to the appendicular skeleton (lower limb), whereas the sternum, ribs and vertebrae are components of the axial skeleton.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "How many bones are present in the adult human skeleton?",
+      "options": [
+        "206",
+        "210",
+        "212",
+        "214"
+      ],
+      "answer": 0,
+      "explanation": "After the fusion of certain bones (e.g., sacral vertebrae, coccyx), the adult human skeleton consists of 206 distinct bones.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "Which region of the vertebral column exhibits the greatest range of motion?",
+      "options": [
+        "Cervical region",
+        "Thoracic region",
+        "Lumbar region",
+        "Sacral region"
+      ],
+      "answer": 0,
+      "explanation": "Cervical vertebrae have shallow facets and a larger intervertebral disc space, allowing the most flexion, extension, rotation and lateral bending.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "The ball-and-socket joint of the shoulder is formed by which two bones?",
+      "options": [
+        "Humerus and scapula",
+        "Humerus and clavicle",
+        "Radius and ulna",
+        "Femur and acetabulum"
+      ],
+      "answer": 0,
+      "explanation": "The glenohumeral joint (shoulder) is a ball-and-socket joint between the head of the humerus and the glenoid cavity of the scapula.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "Which type of joint permits only gliding movements?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Plane (gliding) joint",
+        "Ball-and-socket joint"
+      ],
+      "answer": 2,
+      "explanation": "Plane or gliding joints, such as those between the carpal bones, allow only sliding or gliding movements without rotation.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "The pelvic girdle is formed by which bones?",
+      "options": [
+        "Two hip bones and sacrum",
+        "Two hip bones and coccyx",
+        "Two femurs and sacrum",
+        "Two ischial tuberosities and pubic bones"
+      ],
+      "answer": 0,
+      "explanation": "The pelvic girdle consists of the paired hip bones (each formed by ilium, ischium, and pubis) united anteriorly at the pubic symphysis and posteriorly with the sacrum.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "Which bone is part of the facial skeleton?",
+      "options": [
+        "Maxilla",
+        "Mandible",
+        "Zygomatic bone",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The maxilla, mandible, and zygomatic bone are all components of the facial skeleton; therefore, \"All of the above\" is correct.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "The primary function of the axial skeleton is to:",
+      "options": [
+        "Protect vital organs",
+        "Facilitate locomotion",
+        "Provide attachment for limbs",
+        "Produce blood cells"
+      ],
+      "answer": 0,
+      "explanation": "The axial skeleton (skull, vertebral column, thoracic cage) encloses and protects the brain, spinal cord, heart, and lungs, which are vital organs.",
+      "topic": "Human skeletal system"
+    },
+    {
+      "question": "Which of the following is NOT a function of the human skeleton?",
+      "options": [
+        "Support of body",
+        "Production of digestive enzymes",
+        "Protection of vital organs",
+        "Hematopoiesis"
+      ],
+      "answer": 1,
+      "explanation": "The skeleton does not produce digestive enzymes; its functions are support, protection, movement, mineral storage and blood cell formation.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "In an adult, the principal site of hematopoiesis is found in:",
+      "options": [
+        "Long bones such as femur",
+        "Flat bones such as sternum and pelvis",
+        "Vertebral column",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "After puberty, red marrow in flat bones like sternum, pelvis, ribs and skull becomes the main site for blood cell formation.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "Which mineral is stored in the skeletal system and released into the blood during hypocalcemia?",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Iron",
+        "Potassium"
+      ],
+      "answer": 1,
+      "explanation": "Bone serves as a reservoir of calcium; when blood calcium falls, calcium is mobilised from bone.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "The role of the skeleton in movement is best described as:",
+      "options": [
+        "Generating muscular force",
+        "Providing attachment for muscles",
+        "Acting as levers for movement",
+        "Transmitting nerve impulses"
+      ],
+      "answer": 2,
+      "explanation": "Bones act as rigid levers about which muscles contract to produce movement.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "The axial skeleton primarily protects which vital organ?",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Brain",
+        "Liver"
+      ],
+      "answer": 2,
+      "explanation": "The skull, part of the axial skeleton, encloses and protects the brain.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "Bone acts as a physiological buffer for which of the following?",
+      "options": [
+        "Hydrogen ions",
+        "Carbon dioxide",
+        "Sodium ions",
+        "Chloride ions"
+      ],
+      "answer": 0,
+      "explanation": "Hydroxyapatite in bone can bind excess H⁺ ions, helping to maintain acid‑base balance.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "Osteocalcin secreted by osteoblasts influences which systemic process?",
+      "options": [
+        "Glucose metabolism",
+        "Blood clotting",
+        "Vision",
+        "Hearing"
+      ],
+      "answer": 0,
+      "explanation": "Osteocalcin has endocrine functions, notably enhancing insulin secretion and sensitivity, thereby affecting glucose metabolism.",
+      "topic": "Functions of skeleton"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the axial skeleton?",
+      "options": [
+        "Femur",
+        "Sternum",
+        "Atlas (C1)",
+        "Sacrum"
+      ],
+      "answer": 0,
+      "explanation": "The femur belongs to the appendicular skeleton; all other listed bones are components of the axial skeleton.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "How many vertebrae are present in the typical adult human thoracic region?",
+      "options": [
+        "12",
+        "7",
+        "5",
+        "13"
+      ],
+      "answer": 0,
+      "explanation": "The thoracic region consists of twelve vertebrae (T1–T12) each articulating with a pair of ribs.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "The foramen magnum is a large opening in which bone of the axial skeleton?",
+      "options": [
+        "Occipital bone",
+        "Temporal bone",
+        "Sphenoid bone",
+        "Parietal bone"
+      ],
+      "answer": 0,
+      "explanation": "The foramen magnum is located in the occipital bone, allowing passage of the spinal cord into the cranial cavity.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "Which of the following bones is part of the axial skeleton?",
+      "options": [
+        "Scapula",
+        "Clavicle",
+        "Sternum",
+        "Humerus"
+      ],
+      "answer": 2,
+      "explanation": "The sternum (breastbone) lies in the midline of the thorax and is a central component of the axial skeleton.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "How many pairs of true ribs are present in the human rib cage?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "True ribs are the first seven pairs (1–7) that attach directly to the sternum via their own costal cartilages.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "Lumbar vertebrae are distinguished by which characteristic feature?",
+      "options": [
+        "A large, kidney‑shaped vertebral foramen",
+        "Presence of transverse foramina",
+        "Bifid spinous processes",
+        "Facets for rib articulation"
+      ],
+      "answer": 0,
+      "explanation": "Lumbar vertebrae have a large, kidney‑shaped vertebral foramen to accommodate the thick spinal cord in this region.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "Which bone forms the posterior part of the skull and articulates with the first cervical vertebra (atlas)?",
+      "options": [
+        "Occipital bone",
+        "Parietal bone",
+        "Temporal bone",
+        "Frontal bone"
+      ],
+      "answer": 0,
+      "explanation": "The occipital bone constitutes the posterior skull and has the occipital condyles that articulate with the atlas.",
+      "topic": "Axial skeleton"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the appendicular skeleton?",
+      "options": [
+        "Scapula",
+        "Femur",
+        "Sternum",
+        "Patella"
+      ],
+      "answer": 2,
+      "explanation": "The sternum belongs to the axial skeleton; all other listed bones are components of the appendicular skeleton.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "The pectoral (shoulder) girdle is formed by which pair of bones?",
+      "options": [
+        "Clavicle and scapula",
+        "Scapula and humerus",
+        "Clavicle and sternum",
+        "Scapula and rib"
+      ],
+      "answer": 0,
+      "explanation": "The pectoral girdle consists of the clavicle (collarbone) and the scapula (shoulder blade).",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "How many bones are present in the human upper limb (including the pectoral girdle) on one side?",
+      "options": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "answer": 1,
+      "explanation": "Upper limb count per side: clavicle (1) + scapula (1) + humerus (1) + radius (1) + ulna (1) + carpals (8) + metacarpals (5) + phalanges (14) = 32 bones.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "Which of the following joints in the appendicular skeleton is a pivot type joint?",
+      "options": [
+        "Proximal radioulnar joint",
+        "Elbow joint",
+        "Knee joint",
+        "Hip joint"
+      ],
+      "answer": 0,
+      "explanation": "The proximal radioulnar joint allows rotation of the radius around the ulna, characteristic of a pivot joint.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "The acetabulum is a part of which bone?",
+      "options": [
+        "Femur",
+        "Pelvis",
+        "Tibia",
+        "Patella"
+      ],
+      "answer": 1,
+      "explanation": "The acetabulum is the deep socket on the hip bone (pelvis) that articulates with the head of the femur.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "Which bone forms the medial condyle of the knee joint and articulates with the tibia?",
+      "options": [
+        "Fibula",
+        "Patella",
+        "Femur",
+        "Tarsal bone"
+      ],
+      "answer": 2,
+      "explanation": "The medial condyle of the femur articulates with the medial plateau of the tibia, forming the knee joint.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "The number of bones in the human lower limb (including the pelvic girdle) on one side is:",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "answer": 1,
+      "explanation": "Lower limb count per side: hip bone (1) + femur (1) + patella (1) + tibia (1) + fibula (1) + tarsals (7) + metatarsals (5) + phalanges (14) = 31 bones.",
+      "topic": "Appendicular skeleton"
+    },
+    {
+      "question": "Which bone forms the posterior part of the cranial floor and contributes to the formation of the foramen magnum?",
+      "options": [
+        "Occipital bone",
+        "Sphenoid bone",
+        "Temporal bone",
+        "Parietal bone"
+      ],
+      "answer": 0,
+      "explanation": "The occipital bone constitutes the posterior cranial base and contains the large opening, the foramen magnum, through which the spinal cord passes.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "The bone that contains the optic canal and the superior orbital fissure is:",
+      "options": [
+        "Ethmoid bone",
+        "Sphenoid bone",
+        "Maxilla bone",
+        "Zygomatic bone"
+      ],
+      "answer": 1,
+      "explanation": "Both the optic canal and the superior orbital fissure are located in the greater wing of the sphenoid bone.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "Which pair of bones articulates at the temporomandibular joint?",
+      "options": [
+        "Maxilla and zygomatic bone",
+        "Lacrimal and vomer bones",
+        "Mandible and temporal bone",
+        "Palatine and nasal bones"
+      ],
+      "answer": 2,
+      "explanation": "The temporomandibular joint is formed by the mandibular condyle fitting into the mandibular fossa of the temporal bone.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "The bone that forms the medial wall of the orbit and contributes to the nasal septum is:",
+      "options": [
+        "Lacrimal bone",
+        "Inferior nasal concha",
+        "Vomer bone",
+        "Ethmoid bone"
+      ],
+      "answer": 3,
+      "explanation": "The ethmoid bone forms the medial orbital wall and its perpendicular plate forms the superior part of the nasal septum.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "Which facial bone does not directly articulate with any other facial bone?",
+      "options": [
+        "Zygomatic bone",
+        "Maxilla bone",
+        "Vomer bone",
+        "Palatine bone"
+      ],
+      "answer": 2,
+      "explanation": "The vomer articulates only with the sphenoid, ethmoid, and the two maxillary bones; it has no direct contact with other facial bones.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "The bone that forms the prominence of the cheek is:",
+      "options": [
+        "Maxilla bone",
+        "Zygomatic bone",
+        "Mandible bone",
+        "Temporal bone"
+      ],
+      "answer": 1,
+      "explanation": "The zygomatic bone, also called the cheekbone, forms the lateral prominence of the face.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "Including sutural (wormian) bones, how many bones constitute the adult human skull?",
+      "options": [
+        "22",
+        "24",
+        "28",
+        "30"
+      ],
+      "answer": 0,
+      "explanation": "The adult skull typically consists of 22 bones: 8 cranial bones and 14 facial bones, not counting occasional sutural bones.",
+      "topic": "Bones of skull"
+    },
+    {
+      "question": "Which bone forms the posterior part of the cranial floor and contributes to the posterior cranial fossa?",
+      "options": [
+        "Occipital bone",
+        "Sphenoid bone",
+        "Temporal bone",
+        "Parietal bone"
+      ],
+      "answer": 0,
+      "explanation": "The occipital bone forms the posterior cranial fossa and constitutes the posterior portion of the cranial base.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "The foramen magnum is located in which cranial bone?",
+      "options": [
+        "Temporal bone",
+        "Occipital bone",
+        "Sphenoid bone",
+        "Ethmoid bone"
+      ],
+      "answer": 1,
+      "explanation": "The foramen magnum, through which the spinal cord passes, is a large opening in the occipital bone.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "Which suture lies between the frontal and parietal bones?",
+      "options": [
+        "Coronal suture",
+        "Sagittal suture",
+        "Lambdoid suture",
+        "Squamous suture"
+      ],
+      "answer": 0,
+      "explanation": "The coronal suture joins the frontal bone with the two parietal bones across the top of the skull.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "The pterion is the region where four bones meet. Which of the following bones is NOT part of the pterion?",
+      "options": [
+        "Frontal bone",
+        "Sphenoid bone",
+        "Temporal bone",
+        "Parietal bone"
+      ],
+      "answer": 0,
+      "explanation": "The pterion is formed by the frontal, sphenoid, temporal, and parietal bones; the frontal bone is not part of the pterion.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "Which cranial bone contains the superior orbital fissure?",
+      "options": [
+        "Sphenoid bone",
+        "Frontal bone",
+        "Zygomatic bone",
+        "Maxilla bone"
+      ],
+      "answer": 0,
+      "explanation": "The superior orbital fissure is a gap in the greater wing of the sphenoid bone, allowing passage of cranial nerves III, IV, V1, and VI.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "Injury to the middle meningeal artery is most likely at which region of the skull?",
+      "options": [
+        "Pterion",
+        "Bregma",
+        "Lambda",
+        "Foramen magnum"
+      ],
+      "answer": 0,
+      "explanation": "The middle meningeal artery runs beneath the pterion; trauma at this region can rupture the artery causing an epidural hematoma.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "Which statement about the ethmoid bone is correct?",
+      "options": [
+        "It forms the posterior cranial fossa",
+        "It contains the cribriform plate",
+        "It forms the lateral wall of the orbit",
+        "It contributes to the mandibular fossa"
+      ],
+      "answer": 1,
+      "explanation": "The ethmoid bone houses the cribriform plate, which permits the passage of olfactory nerve filaments from the nasal cavity to the brain.",
+      "topic": "Cranium"
+    },
+    {
+      "question": "Which facial bone contributes to the lateral wall of the orbit?",
+      "options": [
+        "Zygomatic",
+        "Maxilla",
+        "Lacrimal",
+        "Palatine"
+      ],
+      "answer": 0,
+      "explanation": "The zygomatic bone forms the lateral wall (and part of the floor) of the orbital cavity.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "The foramen that transmits the infraorbital nerve is located in which facial bone?",
+      "options": [
+        "Zygomatic",
+        "Palatine",
+        "Maxilla",
+        "Nasal"
+      ],
+      "answer": 2,
+      "explanation": "The infraorbital foramen is situated on the anterior surface of the maxilla, just below the orbit.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "Which facial bone articulates with the nasal bone, maxilla, and lacrimal bone?",
+      "options": [
+        "Zygomatic",
+        "Vomer",
+        "Maxilla",
+        "Inferior nasal concha"
+      ],
+      "answer": 2,
+      "explanation": "The maxilla contacts the nasal bone superiorly, the lacrimal bone medially, and forms the majority of the facial skeleton.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "Which facial bone forms the posterior part of the hard palate?",
+      "options": [
+        "Maxilla",
+        "Palatine",
+        "Vomer",
+        "Inferior nasal concha"
+      ],
+      "answer": 1,
+      "explanation": "The palatine bone contributes the posterior one‑third of the hard palate, while the maxilla forms the anterior two‑thirds.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "Which facial bone contributes to the medial wall of the orbit?",
+      "options": [
+        "Zygomatic",
+        "Maxilla",
+        "Lacrimal",
+        "Palatine"
+      ],
+      "answer": 2,
+      "explanation": "The lacrimal bone lies on the medial wall of the orbit, between the maxilla and the ethmoid bone.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "The inferior portion of the nasal septum is formed by which facial bone?",
+      "options": [
+        "Palatine",
+        "Vomer",
+        "Maxilla",
+        "Nasal"
+      ],
+      "answer": 1,
+      "explanation": "The vomer forms the lower, posterior part of the nasal septum, completing the division of the nasal cavity.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "Fracture of which facial bone is most likely to cause infraorbital nerve entrapment leading to cheek numbness?",
+      "options": [
+        "Zygomatic",
+        "Lacrimal",
+        "Maxilla",
+        "Palatine"
+      ],
+      "answer": 2,
+      "explanation": "The infraorbital nerve passes through the infraorbital foramen of the maxilla; fractures of the maxilla can compress or injure this nerve.",
+      "topic": "Facial bones"
+    },
+    {
+      "question": "How many vertebrae are present in the cervical region of the human vertebral column?",
+      "options": [
+        "7",
+        "12",
+        "5",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "The cervical region consists of seven vertebrae, labeled C1 to C7.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "Which of the following is a distinguishing feature of cervical vertebrae?",
+      "options": [
+        "Presence of costal facets for rib articulation",
+        "Presence of transverse foramina",
+        "Presence of a large, heart‑shaped vertebral body",
+        "Fusion of vertebrae to form the sacrum"
+      ],
+      "answer": 1,
+      "explanation": "Cervical vertebrae contain transverse foramina that transmit the vertebral arteries, a feature absent in other regions.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "The thoracic vertebrae are characterized by which of the following structures?",
+      "options": [
+        "Facets for rib articulation on transverse processes",
+        "Absence of spinous processes",
+        "Presence of a foramen in the transverse process",
+        "Fusion of vertebrae into the sacrum"
+      ],
+      "answer": 0,
+      "explanation": "Thoracic vertebrae have costal facets on their transverse processes for articulation with the tubercles of ribs.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "Which statement correctly describes lumbar vertebrae?",
+      "options": [
+        "They have a small, triangular vertebral body",
+        "They possess a bifid spinous process",
+        "They have a massive, kidney‑shaped vertebral body",
+        "They contain transverse foramina"
+      ],
+      "answer": 2,
+      "explanation": "Lumbar vertebrae possess large, kidney‑shaped bodies to bear most of the body’s weight.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "The sacrum is formed by the fusion of how many vertebrae?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "explanation": "The sacrum results from the fusion of five sacral vertebrae (S1–S5) during early adulthood.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "Which curvature of the vertebral column is a secondary (acquired) curvature?",
+      "options": [
+        "Cervical",
+        "Thoracic",
+        "Sacral",
+        "Coccygeal"
+      ],
+      "answer": 0,
+      "explanation": "The cervical curvature develops after birth as the head is lifted, making it a secondary curvature; thoracic and sacral are primary.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "A herniated intervertebral disc most commonly occurs at which region of the vertebral column?",
+      "options": [
+        "Cervical",
+        "Thoracic",
+        "Lumbar",
+        "Sacral"
+      ],
+      "answer": 2,
+      "explanation": "Lumbar intervertebral discs are most prone to herniation due to the high mechanical load and greater range of motion in this region.",
+      "topic": "Vertebral column"
+    },
+    {
+      "question": "How many cervical vertebrae are present in a normal adult human skeleton?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "Humans normally have seven cervical vertebrae, designated C1 to C7, regardless of the length of the neck.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "Which cervical vertebra possesses the odontoid process (dens) that articulates with the atlas?",
+      "options": [
+        "C1 (Atlas)",
+        "C2 (Axis)",
+        "C3",
+        "C4"
+      ],
+      "answer": 1,
+      "explanation": "The odontoid process, or dens, is a bony projection on the second cervical vertebra (C2), called the axis, and it fits into the anterior arch of the atlas (C1) to allow rotation.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "A distinguishing feature of cervical vertebrae compared to thoracic vertebrae is the presence of:",
+      "options": [
+        "Transverse foramina",
+        "Costal facets for ribs",
+        "Heart‑shaped vertebral bodies",
+        "Large spinous processes"
+      ],
+      "answer": 0,
+      "explanation": "Cervical vertebrae have transverse foramina in each transverse process through which the vertebral arteries pass; thoracic vertebrae lack these foramina.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "Through which structure does the vertebral artery ascend in the cervical vertebrae?",
+      "options": [
+        "Transverse foramen",
+        "Verbral foramen",
+        "Spinous process",
+        "Intervertebral disc"
+      ],
+      "answer": 0,
+      "explanation": "The vertebral artery travels upward through the transverse foramina of the cervical vertebrae (typically C6 to C1).",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "In most individuals, which cervical vertebra commonly exhibits a bifid (split) spinous process?",
+      "options": [
+        "C3",
+        "C4",
+        "C5",
+        "C6"
+      ],
+      "answer": 3,
+      "explanation": "Cervical vertebrae C3 to C6 frequently have bifid spinous processes, with C6 being the most consistently reported.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "The atlas (C1) is unique because it lacks a:",
+      "options": [
+        "Vertebral body",
+        "Transverse foramen",
+        "Superior articular facet",
+        "Posterior arch"
+      ],
+      "answer": 0,
+      "explanation": "The atlas does not have a typical vertebral body; instead it consists of an anterior and posterior arch surrounding the vertebral foramen.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "The shape of the vertebral foramen in cervical vertebrae is typically:",
+      "options": [
+        "Triangular",
+        "Circular",
+        "Oval",
+        "Rectangular"
+      ],
+      "answer": 0,
+      "explanation": "Cervical vertebrae have relatively large, triangular vertebral foramina to accommodate the relatively thick cervical spinal cord.",
+      "topic": "Cervical vertebrae"
+    },
+    {
+      "question": "How many thoracic vertebrae are present in the adult human vertebral column?",
+      "options": [
+        "7",
+        "12",
+        "5",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "The adult human spine contains twelve thoracic vertebrae, designated T1 to T12.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "Which anatomical feature primarily distinguishes thoracic vertebrae from cervical and lumbar vertebrae?",
+      "options": [
+        "Large, triangular vertebral foramen",
+        "Presence of costal facets on the bodies and transverse processes",
+        "Fused spinous processes",
+        "Absence of transverse foramina"
+      ],
+      "answer": 1,
+      "explanation": "Thoracic vertebrae have costal (facet) surfaces on their bodies and transverse processes for rib articulation, a feature absent in cervical and lumbar vertebrae.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "The typical spinous process of a thoracic vertebra is:",
+      "options": [
+        "Long, slender, and directed inferiorly",
+        "Short and bifid",
+        "Broad and horizontally oriented",
+        "Hooked upward like a cervical vertebra"
+      ],
+      "answer": 0,
+      "explanation": "Thoracic spinous processes are characteristically long, slender, and point downward, unlike the bifid cervical processes.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "Which thoracic vertebrae possess full (complete) costal facets on each side of their bodies for articulation with the heads of the first and twelfth ribs?",
+      "options": [
+        "T1 and T12",
+        "T2 and T11",
+        "T3 and T10",
+        "All thoracic vertebrae"
+      ],
+      "answer": 0,
+      "explanation": "Only T1 and T12 have full costal facets; the intermediate thoracic vertebrae have demifacets for rib heads.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "Thoracic spinal nerves exit the vertebral column through intervertebral foramina located:",
+      "options": [
+        "Above the corresponding vertebra",
+        "Below the corresponding vertebra",
+        "At the same level as the vertebra",
+        "Through the vertebral body"
+      ],
+      "answer": 1,
+      "explanation": "Like cervical (except C8) and lumbar nerves, thoracic spinal nerves emerge below their respective vertebrae.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "The transverse process of a typical thoracic vertebra bears a tubercle that articulates with which part of a rib?",
+      "options": [
+        "Rib head",
+        "Rib neck",
+        "Rib tubercle",
+        "Rib costal cartilage"
+      ],
+      "answer": 2,
+      "explanation": "The costal tubercle on the transverse process articulates with the tubercle of the corresponding rib.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "Which statement about thoracic vertebrae is FALSE?",
+      "options": [
+        "They have a larger vertebral body than cervical vertebrae",
+        "Their spinous processes are bifid",
+        "They possess costal facets for rib articulation",
+        "They contribute to the thoracic kyphosis"
+      ],
+      "answer": 1,
+      "explanation": "Thoracic vertebrae do not have bifid spinous processes; bifid processes are a feature of cervical vertebrae.",
+      "topic": "Thoracic vertebrae"
+    },
+    {
+      "question": "How many lumbar vertebrae are present in a typical adult human skeleton?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Four"
+      ],
+      "answer": 0,
+      "explanation": "The adult human normally has five lumbar vertebrae, labeled L1 to L5.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "Which anatomical feature distinguishes lumbar vertebrae from thoracic vertebrae?",
+      "options": [
+        "Presence of costal facets on transverse processes",
+        "Large, kidney-shaped bodies",
+        "Presence of a foramen transversarium",
+        "Spinous processes that are bifid"
+      ],
+      "answer": 1,
+      "explanation": "Lumbar vertebrae have large, kidney‑shaped bodies, whereas thoracic vertebrae possess costal facets for rib articulation.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "What is the orientation of the inferior articular facets of lumbar vertebrae?",
+      "options": [
+        "Inferior articular facets face posterolaterally",
+        "Inferior articular facets face anteromedially",
+        "Inferior articular facets face directly posteriorly",
+        "Inferior articular facets face directly anteriorly"
+      ],
+      "answer": 0,
+      "explanation": "In lumbar vertebrae the inferior articular facets are directed posterolaterally, allowing flexion‑extension movements.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "Which process is characteristic of lumbar vertebrae and serves as a site for muscle attachment?",
+      "options": [
+        "Mammillary process",
+        "Transverse foramen",
+        "Spinous foramen",
+        "Costal facet"
+      ],
+      "answer": 0,
+      "explanation": "The mammillary process, a small rounded projection on the posterior aspect of the superior articular process, is typical of lumbar vertebrae and provides attachment for back muscles.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "Lumbar vertebrae are most commonly involved in which clinical condition due to their load‑bearing role?",
+      "options": [
+        "Cervical spondylosis",
+        "Thoracic outlet syndrome",
+        "Lumbar disc herniation",
+        "Sacroiliac joint dislocation"
+      ],
+      "answer": 2,
+      "explanation": "Because lumbar vertebrae bear the greatest axial load, intervertebral disc herniation most frequently occurs at this level.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "In lumbarization, which vertebra acquires characteristics of a lumbar vertebra?",
+      "options": [
+        "The first sacral vertebra",
+        "The seventh cervical vertebra",
+        "The fifth lumbar vertebra",
+        "The twelfth thoracic vertebra"
+      ],
+      "answer": 0,
+      "explanation": "Lumbarization refers to the partial or complete transformation of the first sacral vertebra (S1) into an additional lumbar segment.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "Which statement about the vertebral foramen of lumbar vertebrae is correct?",
+      "options": [
+        "It is triangular and larger than thoracic vertebrae",
+        "It is circular and smallest in the spine",
+        "It contains a costal groove",
+        "It is divided by a median septum"
+      ],
+      "answer": 0,
+      "explanation": "The vertebral foramen of lumbar vertebrae is large and triangular, providing a spacious spinal canal compared with the smaller, more circular thoracic foramina.",
+      "topic": "Lumbar vertebrae"
+    },
+    {
+      "question": "Which bone forms the posterior wall of the pelvic cavity?",
+      "options": [
+        "Sacrum",
+        "Pubis",
+        "Ischium",
+        "Ilium"
+      ],
+      "answer": 0,
+      "explanation": "The sacrum, being the fused posterior part of the vertebral column, constitutes the posterior wall of the true pelvis.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "How many pairs of anterior sacral foramina are typically present in a normal sacrum?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "A typical sacrum has four pairs of anterior (ventral) sacral foramina through which the anterior rami of sacral spinal nerves exit.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "The sacrum is formed by the fusion of how many vertebrae?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "During adulthood the five sacral vertebrae (S1–S5) fuse to form a single triangular bone called the sacrum.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "The sacroiliac joint is a plane synovial joint between which two surfaces?",
+      "options": [
+        "Auricular surface of sacrum and iliac fossa of ilium",
+        "Auricular surface of sacrum and auricular surface of ilium",
+        "Sacral promontory and acetabulum",
+        "Sacral ala and ischial tuberosity"
+      ],
+      "answer": 1,
+      "explanation": "The sacroiliac joint is formed by the articulation of the auricular (facet) surface of the sacrum with the corresponding auricular surface on the ilium.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "Which sacral spinal nerve exits through the sacral hiatus?",
+      "options": [
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "answer": 3,
+      "explanation": "The sacral hiatus is created by the non‑fusion of the laminae of S5 (and partly S4); the S5 spinal nerve root exits through this opening.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "The sacral promontory is an important landmark for assessing which anatomical level?",
+      "options": [
+        "Pelvic inlet",
+        "Lumbar lordosis",
+        "Sacroiliac joint space",
+        "Obturator foramen"
+      ],
+      "answer": 0,
+      "explanation": "The sacral promontory marks the anterior border of the pelvic inlet and is used in obstetrics to evaluate the size of the pelvic brim.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "Which statement about sacral vertebrae is FALSE?",
+      "options": [
+        "They are larger than lumbar vertebrae",
+        "Their bodies are fused in the adult sacrum",
+        "They possess transverse foramina",
+        "They have a triangular shape"
+      ],
+      "answer": 2,
+      "explanation": "Transverse foramina are characteristic of cervical vertebrae, not sacral vertebrae; therefore the statement is false.",
+      "topic": "Sacral region"
+    },
+    {
+      "question": "In a typical adult human, how many coccygeal vertebrae are fused to form the coccyx?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "Most adults have four coccygeal vertebrae that fuse to form a single coccyx.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "The articulation between the sacrum and coccyx is classified as which type of joint?",
+      "options": [
+        "Synovial plane joint",
+        "Fibrous sutural joint",
+        "Cartilaginous symphysis",
+        "Synovial pivot joint"
+      ],
+      "answer": 2,
+      "explanation": "The sacrococcygeal joint is a cartilaginous symphysis (amphiarthrosis) formed by interosseous fibrocartilage.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "Which of the following muscles has its origin on the coccyx?",
+      "options": [
+        "Gluteus maximus",
+        "Iliopsoas",
+        "Coccygeus",
+        "Quadratus femoris"
+      ],
+      "answer": 2,
+      "explanation": "The coccygeus muscle originates from the ischial spine and sacrum and inserts into the coccyx and sacrococcygeal ligament.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "A fracture of the coccyx is most commonly associated with which mechanism of injury?",
+      "options": [
+        "Direct blow to the lower back",
+        "Fall onto the buttocks in a seated position",
+        "Motor vehicle accident with lumbar hyperextension",
+        "Sports injury involving hamstring strain"
+      ],
+      "answer": 1,
+      "explanation": "Coccygeal fractures typically result from a fall onto a seated position, causing direct compression of the coccyx.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "The coccygeal region belongs to which division of the skeleton?",
+      "options": [
+        "Appendicular skeleton",
+        "Axial skeleton",
+        "Visceral skeleton",
+        "Dermal skeleton"
+      ],
+      "answer": 1,
+      "explanation": "The coccyx is part of the axial skeleton, which includes the skull, vertebral column, and thoracic cage.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "The ligament that connects the tip of the coccyx to the sacrum is called:",
+      "options": [
+        "Anterior longitudinal ligament",
+        "Sacrotuberous ligament",
+        "Sacrococcygeal ligament",
+        "Posterior sacroiliac ligament"
+      ],
+      "answer": 2,
+      "explanation": "The sacrococcygeal ligament links the dorsal surface of the coccyx to the sacrum, stabilizing the sacrococcygeal joint.",
+      "topic": "Coccygeal region"
+    },
+    {
+      "question": "How many pairs of ribs are present in the human rib cage, and how many of them are classified as true ribs?",
+      "options": [
+        "12 pairs total, 7 true ribs",
+        "12 pairs total, 8 true ribs",
+        "13 pairs total, 7 true ribs",
+        "12 pairs total, 6 true ribs"
+      ],
+      "answer": 0,
+      "explanation": "Humans have 12 pairs of ribs; ribs 1–7 are true ribs that attach directly to the sternum, making seven true ribs.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "The first rib forms a costovertebral joint with which vertebra?",
+      "options": [
+        "T1",
+        "T2",
+        "T3",
+        "C7"
+      ],
+      "answer": 0,
+      "explanation": "The head of the first rib articulates with the body of the first thoracic vertebra (T1) at the costovertebral joint.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "Which of the following is NOT a function of the rib cage?",
+      "options": [
+        "Protection of heart and lungs",
+        "Attachment site for muscles of respiration",
+        "Site of hematopoiesis",
+        "Facilitation of digestion"
+      ],
+      "answer": 3,
+      "explanation": "The rib cage protects thoracic organs, provides attachment for respiratory muscles, and contains red marrow for hematopoiesis; it does not play a role in digestion.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "Ribs 8 to 10 are attached to the sternum indirectly through the costal cartilage of the rib above. These ribs are termed:",
+      "options": [
+        "True ribs",
+        "False ribs",
+        "Floating ribs",
+        "Cervical ribs"
+      ],
+      "answer": 1,
+      "explanation": "Ribs that do not attach directly to the sternum but via the cartilage of the rib above are called false ribs; ribs 8‑10 fall in this category.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "Fracture of the 12th rib is most likely to injure which organ?",
+      "options": [
+        "Liver",
+        "Spleen",
+        "Kidney",
+        "Heart"
+      ],
+      "answer": 2,
+      "explanation": "The 12th rib is a floating rib that lies posteriorly near the kidneys; a fracture can damage the underlying kidney.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "The sternal angle (Angle of Louis) is formed by the articulation of which two parts of the sternum?",
+      "options": [
+        "Manubrium and body of sternum",
+        "Body of sternum and xiphoid process",
+        "Manubrium and clavicle",
+        "Costal cartilage of the 2nd rib and sternum"
+      ],
+      "answer": 0,
+      "explanation": "The sternal angle is the junction between the manubrium and the body of the sternum, marking the level of the second rib.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "Which rib is the longest in the human rib cage?",
+      "options": [
+        "1st rib",
+        "2nd rib",
+        "7th rib",
+        "10th rib"
+      ],
+      "answer": 2,
+      "explanation": "The 7th rib is the longest rib, extending laterally the farthest among all ribs.",
+      "topic": "Rib cage"
+    },
+    {
+      "question": "The sternal angle is formed at the junction of which two parts of the sternum and corresponds to which vertebral level?",
+      "options": [
+        "Manubrium and body; T4–T5",
+        "Manubrium and xiphoid process; T6–T7",
+        "Body and xiphoid process; T9–T10",
+        "Manubrium and body; T6–T7"
+      ],
+      "answer": 0,
+      "explanation": "The sternal angle (Angle of Louis) is the articulation between the manubrium and the body of the sternum and lies at the level of the intervertebral disc between T4 and T5.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "How many pairs of ribs articulate directly with the sternum?",
+      "options": [
+        "2",
+        "7",
+        "12",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The true ribs (first to seventh) have costal cartilages that attach directly to the sternum, giving seven pairs of ribs that articulate directly.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "Which structure attaches to the xiphoid process of the sternum?",
+      "options": [
+        "Transverse thoracic plane",
+        "Diaphragmatic crura",
+        "Sternal angle",
+        "Manubriosternal joint"
+      ],
+      "answer": 1,
+      "explanation": "Both the right and left crura of the diaphragm arise from the anterior surface of the xiphoid process, anchoring the diaphragm to the sternum.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "The sternum is classified as which type of bone?",
+      "options": [
+        "Long bone",
+        "Flat bone",
+        "Irregular bone",
+        "Sesamoid bone"
+      ],
+      "answer": 1,
+      "explanation": "The sternum is a flat bone; it provides a broad surface for muscle attachment and protects thoracic organs.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "During cardiopulmonary resuscitation (CPR), chest compressions are applied over which part of the sternum?",
+      "options": [
+        "Manubrium",
+        "Body of sternum",
+        "Xiphoid process",
+        "Sternal angle"
+      ],
+      "answer": 1,
+      "explanation": "Guidelines recommend placing the hands on the lower half of the sternum (the body) to deliver effective compressions while avoiding injury to the xiphoid process.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "A fracture of the sternal body is most commonly seen after which type of injury?",
+      "options": [
+        "Blunt chest trauma from steering‑wheel impact",
+        "Anterior dislocation of the clavicle",
+        "Costochondritis",
+        "Isolated rib fracture"
+      ],
+      "answer": 0,
+      "explanation": "Direct blunt force to the anterior chest, such as a steering‑wheel impact in motor‑vehicle accidents, frequently causes fractures of the sternal body.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "The jugular notch is a feature of which part of the sternum?",
+      "options": [
+        "Manubrium",
+        "Body",
+        "Xiphoid process",
+        "Sternal angle"
+      ],
+      "answer": 0,
+      "explanation": "The jugular (suprasternal) notch is the superior depression at the upper border of the manubrium, visible between the clavicles.",
+      "topic": "Sternum"
+    },
+    {
+      "question": "Which two bones together form the pectoral girdle in the human skeleton?",
+      "options": [
+        "Clavicle and scapula",
+        "Scapula and humerus",
+        "Clavicle and sternum",
+        "Scapula and pelvis"
+      ],
+      "answer": 0,
+      "explanation": "The pectoral (shoulder) girdle consists of the paired clavicle (collarbone) and scapula (shoulder blade), which together connect the upper limb to the axial skeleton.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "The articulation between the clavicle and the sternum is known as which joint?",
+      "options": [
+        "Acromioclavicular joint",
+        "Sternoclavicular joint",
+        "Glenohumeral joint",
+        "Costoclavicular ligament"
+      ],
+      "answer": 1,
+      "explanation": "The sternoclavicular joint is the synovial saddle joint that joins the medial end of the clavicle with the manubrium of the sternum, allowing a wide range of movements of the clavicle.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "Which process of the scapula provides attachment for the coracobrachialis and the short head of the biceps brachii?",
+      "options": [
+        "Acromion",
+        "Coracoid process",
+        "Spine of scapula",
+        "Supraspinous fossa"
+      ],
+      "answer": 1,
+      "explanation": "The coracoid process projects anteriorly from the scapula and serves as the origin for the coracobrachialis and the short head of the biceps brachii.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "The acromioclavicular joint is classified as which type of joint?",
+      "options": [
+        "Synovial plane (gliding) joint",
+        "Fibrous suture",
+        "Cartilaginous symphysis",
+        "Synovial ball-and-socket joint"
+      ],
+      "answer": 0,
+      "explanation": "The acromioclavicular joint is a plane synovial joint (also called a gliding joint) that permits slight gliding movements between the acromion of the scapula and the lateral end of the clavicle.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "Which movement is NOT typically performed at the sternoclavicular joint?",
+      "options": [
+        "Elevation of the clavicle",
+        "Depression of the clavicle",
+        "Rotation of the clavicle about its longitudinal axis",
+        "Flexion of the clavicle"
+      ],
+      "answer": 3,
+      "explanation": "The sternoclavicular joint allows elevation, depression, protraction, retraction, and axial rotation of the clavicle, but the term \"flexion of the clavicle\" is not a recognized movement at this joint.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "A fracture of the surgical neck of the humerus most commonly injures which nerve that traverses the region of the pectoral girdle?",
+      "options": [
+        "Radial nerve",
+        "Ulnar nerve",
+        "Axillary nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": 2,
+      "explanation": "The axillary nerve runs in the quadrangular space near the surgical neck of the humerus; it is frequently damaged in fractures at this site, leading to deltoid weakness.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "The glenoid cavity of the scapula is best described as:",
+      "options": [
+        "A deep socket that forms a ball-and-socket joint with the head of the humerus",
+        "A flat surface for attachment of the clavicle",
+        "A notch that articulates with the acromion",
+        "A ridge that separates the supraspinous and infraspinous fossae"
+      ],
+      "answer": 0,
+      "explanation": "The glenoid cavity (or fossa) is a shallow, concave articular surface on the lateral scapula that receives the spherical head of the humerus, forming the glenohumeral (ball-and-socket) joint.",
+      "topic": "Pectoral girdle"
+    },
+    {
+      "question": "Which bones constitute the pelvic girdle?",
+      "options": [
+        "Ilium, ischium and pubis",
+        "Femur, tibia and fibula",
+        "Sacrum, coccyx and vertebrae",
+        "Scapula, clavicle and sternum"
+      ],
+      "answer": 0,
+      "explanation": "The pelvic girdle is formed by the two hip bones, each composed of three fused parts: ilium, ischium and pubis.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "The acetabulum is formed by the union of which three bones?",
+      "options": [
+        "Ilium, ischium and pubis",
+        "Sacrum, coccyx and ilium",
+        "Femur, tibia and fibula",
+        "Pubis, sacrum and coccyx"
+      ],
+      "answer": 0,
+      "explanation": "The acetabulum, the socket for the head of the femur, is a deep concavity created by the meeting of the ilium, ischium and pubis.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "In the female pelvis, which feature is notably wider compared to the male pelvis?",
+      "options": [
+        "Greater sciatic notch",
+        "Lesser sciatic notch",
+        "Obturator foramen",
+        "Acetabular notch"
+      ],
+      "answer": 0,
+      "explanation": "The greater sciatic notch is broader in females, facilitating a larger pelvic outlet for childbirth.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "The sacroiliac joint is classified as which type of joint?",
+      "options": [
+        "Synovial plane joint",
+        "Fibrous syndesmosis",
+        "Cartilaginous symphysis",
+        "Synovial ball-and-socket joint"
+      ],
+      "answer": 1,
+      "explanation": "The sacroiliac joint is a strong fibrous syndesmosis that allows only minimal movement, linking the sacrum to the ilium.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "Which of the following is NOT a function of the pelvic girdle?",
+      "options": [
+        "Transfer weight from trunk to lower limbs",
+        "Protect pelvic viscera",
+        "Provide attachment for abdominal muscles",
+        "Produce red blood cells"
+      ],
+      "answer": 3,
+      "explanation": "Bone marrow in long bones, not the pelvic girdle, is the primary site for red blood cell production; the pelvic girdle mainly supports weight, protects organs, and serves as muscle attachment.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "The obturator foramen is located between which two parts of the hip bone?",
+      "options": [
+        "Ilium and ischium",
+        "Ischium and pubis",
+        "Ilium and pubis",
+        "Sacrum and ilium"
+      ],
+      "answer": 1,
+      "explanation": "The large opening called the obturator foramen lies between the ischium and pubis, and is largely covered by the obturator membrane.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "The pelvic inlet is bounded anteriorly by which structure?",
+      "options": [
+        "Pubic symphysis",
+        "Sacral promontory",
+        "Arcuate line",
+        "Greater sciatic notch"
+      ],
+      "answer": 0,
+      "explanation": "The anterior boundary of the pelvic inlet is the pubic symphysis, while the posterior boundary is the sacral promontory.",
+      "topic": "Pelvic girdle"
+    },
+    {
+      "question": "Which bone forms the posterior boundary of the axilla?",
+      "options": [
+        "Scapula",
+        "Clavicle",
+        "Humerus",
+        "Ulna"
+      ],
+      "answer": 0,
+      "explanation": "The scapula lies posterior to the axilla and forms its back wall, whereas the clavicle and humerus are anterior or lateral.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "The bony prominence on the lateral side of the distal humerus that articulates with the head of the radius is called?",
+      "options": [
+        "Trochlea",
+        "Capitulum",
+        "Olecranon fossa",
+        "Lateral epicondyle"
+      ],
+      "answer": 1,
+      "explanation": "The capitulum is a rounded eminence on the lateral distal humerus that articulates with the radial head, enabling forearm rotation.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "Which carpal bone is most commonly fractured and has a retrograde blood supply?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetrum",
+        "Hamate"
+      ],
+      "answer": 0,
+      "explanation": "The scaphoid is the most frequently fractured carpal bone; its blood vessels enter distally, so fractures can lead to avascular necrosis of the proximal fragment.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "The bony projection on the medial side of the distal ulna that serves as attachment for the ulnar collateral ligament of the wrist is?",
+      "options": [
+        "Styloid process of ulna",
+        "Styloid process of radius",
+        "Pisiform",
+        "Hook of hamate"
+      ],
+      "answer": 0,
+      "explanation": "The styloid process of the ulna projects from its distal medial end and provides attachment for the ulnar collateral ligament of the wrist.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "The total number of bones in the adult human upper limb (including the hand) is?",
+      "options": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "answer": 1,
+      "explanation": "Upper limb bones: scapula, clavicle, humerus, radius, ulna (5) + hand bones: 8 carpals, 5 metacarpals, 14 phalanges = 27; 5+27 = 32.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "The anatomical landmark on the humerus that gives attachment to the deltoid muscle is?",
+      "options": [
+        "Greater tubercle",
+        "Lesser tubercle",
+        "Deltoid tuberosity",
+        "Lateral epicondyle"
+      ],
+      "answer": 2,
+      "explanation": "The deltoid tuberosity is a roughened area on the lateral shaft of the humerus where the deltoid muscle inserts.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "Which statement about the proximal radioulnar joint is correct?",
+      "options": [
+        "It is a hinge joint allowing flexion‑extension",
+        "It permits pronation and supination",
+        "It is a plane joint permitting gliding movements",
+        "It is a pivot joint permitting rotation of the radius around the ulna"
+      ],
+      "answer": 3,
+      "explanation": "The proximal radioulnar joint is a pivot (trochoid) joint that allows the radius to rotate around the ulna, producing pronation and supination of the forearm.",
+      "topic": "Bones of upper limb"
+    },
+    {
+      "question": "Which bone forms the medial malleolus at the distal end of the leg?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Talus",
+        "Calcaneus"
+      ],
+      "answer": 1,
+      "explanation": "The medial malleolus is the prominent distal end of the tibia, whereas the lateral malleolus is formed by the fibula.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "The head of which bone articulates with the acetabulum of the pelvis to form the hip joint?",
+      "options": [
+        "Patella",
+        "Femur",
+        "Tibia",
+        "Fibula"
+      ],
+      "answer": 1,
+      "explanation": "The spherical head of the femur fits into the acetabulum of the pelvis, constituting the ball-and-socket hip joint.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "Which tarsal bone possesses a sustentaculum tali that supports the talus?",
+      "options": [
+        "Navicular",
+        "Cuboid",
+        "Calcaneus",
+        "Talus"
+      ],
+      "answer": 2,
+      "explanation": "The sustentaculum tali is a medial projection on the calcaneus that supports the head of the talus.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "The bony prominence on the anterior distal femur where the quadriceps tendon attaches is called:",
+      "options": [
+        "Intercondylar fossa",
+        "Patellar surface",
+        "Linea aspera",
+        "Medial condyle"
+      ],
+      "answer": 1,
+      "explanation": "The patellar surface (or trochlear groove) of the distal femur provides the attachment for the quadriceps tendon via the patella.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "Which of the following is a sesamoid bone found in the knee joint?",
+      "options": [
+        "Patella",
+        "Fibula",
+        "Tibia",
+        "Femur"
+      ],
+      "answer": 0,
+      "explanation": "The patella is the largest sesamoid bone in the human body and lies within the quadriceps tendon over the knee joint.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "The articulation between the talus and the calcaneus is known as:",
+      "options": [
+        "Talocrural joint",
+        "Subtalar joint",
+        "Calcaneocuboid joint",
+        "Transverse tarsal joint"
+      ],
+      "answer": 1,
+      "explanation": "The subtalar joint is the synovial joint between the talus and calcaneus, allowing inversion and eversion of the foot.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "Which bone forms the lateral malleolus at the ankle?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Talus",
+        "Calcaneus"
+      ],
+      "answer": 1,
+      "explanation": "The lateral malleolus is the distal end of the fibula, projecting laterally at the ankle.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "Which structure is present on the proximal end of the tibia?",
+      "options": [
+        "Intercondylar eminence",
+        "Medial malleolus",
+        "Tibial tuberosity",
+        "Fibular notch"
+      ],
+      "answer": 0,
+      "explanation": "The intercondylar eminence (or intercondylar tubercle) is a raised area between the medial and lateral condyles on the proximal tibia, serving as attachment for cruciate ligaments.",
+      "topic": "Bones of lower limb"
+    },
+    {
+      "question": "How many carpal bones are present in the human hand and how are they arranged?",
+      "options": [
+        "Eight bones arranged in two rows of four each",
+        "Six bones in a single row",
+        "Ten bones in two rows of five",
+        "Eight bones arranged in a single row"
+      ],
+      "answer": 0,
+      "explanation": "The human hand contains eight carpal bones, organized into a proximal row and a distal row, each consisting of four bones.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "Which carpal bone articulates with the base of the second metacarpal bone?",
+      "options": [
+        "Trapezium",
+        "Trapezoid",
+        "Capitate",
+        "Hamate"
+      ],
+      "answer": 1,
+      "explanation": "The base of the second metacarpal forms a joint with the trapezoid bone of the distal carpal row.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "In the proximal row of carpal bones, which bone is situated most laterally (on the radial side)?",
+      "options": [
+        "Lunate",
+        "Triquetrum",
+        "Scaphoid",
+        "Pisiform"
+      ],
+      "answer": 2,
+      "explanation": "The scaphoid lies on the radial (lateral) side of the proximal carpal row, making it the most lateral bone in that row.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "Which metacarpal bone is the longest in the adult human hand?",
+      "options": [
+        "First metacarpal",
+        "Second metacarpal",
+        "Third metacarpal",
+        "Fifth metacarpal"
+      ],
+      "answer": 1,
+      "explanation": "Among the five metacarpals, the second metacarpal is typically the longest, extending farther than the others.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "Fracture of which carpal bone most commonly leads to avascular necrosis due to its retrograde blood supply?",
+      "options": [
+        "Lunate",
+        "Scaphoid",
+        "Trapezium",
+        "Hamate"
+      ],
+      "answer": 1,
+      "explanation": "The scaphoid receives blood in a retrograde fashion; fractures can disrupt this supply, predisposing the bone to avascular necrosis.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "The articulation between the capitate and the base of the third metacarpal is classified as which type of synovial joint?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Plane (gliding) joint",
+        "Saddle joint"
+      ],
+      "answer": 2,
+      "explanation": "The capitate‑third metacarpal joint is a plane (gliding) joint, allowing limited sliding movements between the bones.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "The primary arterial supply to the scaphoid bone is derived from which artery?",
+      "options": [
+        "Ulnar artery",
+        "Dorsal carpal branch of the radial artery",
+        "Anterior interosseous artery",
+        "Posterior interosseous artery"
+      ],
+      "answer": 1,
+      "explanation": "The dorsal carpal branch of the radial artery provides the main blood flow to the scaphoid, especially to its proximal pole.",
+      "topic": "Carpals and metacarpals"
+    },
+    {
+      "question": "Which of the following bones is not a tarsal bone?",
+      "options": [
+        "Talus",
+        "Navicular",
+        "Cuboid",
+        "Metatarsal I"
+      ],
+      "answer": 3,
+      "explanation": "Metatarsal I belongs to the metatarsal series of the foot, whereas the other three are tarsal bones.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "The articulation between the talus and calcaneus forms which joint?",
+      "options": [
+        "Subtalar joint",
+        "Talocrural joint",
+        "Calcaneocuboid joint",
+        "Intermetatarsal joint"
+      ],
+      "answer": 0,
+      "explanation": "The talus and calcaneus articulate to form the subtalar (talocalcaneal) joint, which allows inversion and eversion of the foot.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "Which tarsal bone forms the medial border of the foot's longitudinal arch?",
+      "options": [
+        "Calcaneus",
+        "Navicular",
+        "Cuboid",
+        "Lateral cuneiform"
+      ],
+      "answer": 1,
+      "explanation": "The navicular bone is a key component of the medial longitudinal arch, acting as a keystone.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "The first metatarsal bone is unique because it:",
+      "options": [
+        "Has a sesamoid bone at its head",
+        "Articulates directly with the talus",
+        "Is the longest metatarsal",
+        "Has a bipartite base"
+      ],
+      "answer": 0,
+      "explanation": "Two sesamoid bones are embedded in the tendons of the flexor hallucis brevis at the head of the first metatarsal, aiding weight bearing.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "A fracture of the base of the fifth metatarsal is commonly known as:",
+      "options": [
+        "Jones fracture",
+        "Lisfranc injury",
+        "Pott's fracture",
+        "Colles fracture"
+      ],
+      "answer": 0,
+      "explanation": "A fracture at the metaphyseal-diaphyseal junction of the fifth metatarsal is termed a Jones fracture, often caused by inversion injuries.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "The tarsal bone that articulates with the tibia to form the ankle joint is:",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Medial cuneiform"
+      ],
+      "answer": 0,
+      "explanation": "The talus forms the superior part of the ankle (talocrural) joint by articulating with the tibia and fibula.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "In the foot, the three cuneiform bones are named based on their position. Which one lies lateral to the other two?",
+      "options": [
+        "Medial cuneiform",
+        "Intermediate cuneiform",
+        "Lateral cuneiform",
+        "Cuboid"
+      ],
+      "answer": 2,
+      "explanation": "The lateral cuneiform is situated most laterally among the three cuneiforms, between the intermediate cuneiform and the cuboid.",
+      "topic": "Tarsals and metatarsals"
+    },
+    {
+      "question": "How many phalanges are present in the human hand?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Each hand has 5 fingers; the thumb has 2 phalanges and the other four fingers have 3 each, giving 2+4×3=14 phalanges.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "Which phalanx is absent in the thumb?",
+      "options": [
+        "Proximal phalanx",
+        "Middle phalanx",
+        "Distal phalanx",
+        "All are present"
+      ],
+      "answer": 1,
+      "explanation": "The thumb consists of only a proximal and a distal phalanx; the middle phalanx is absent.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "The distal phalanx of the index finger articulates with which bone?",
+      "options": [
+        "Proximal phalanx of index finger",
+        "Middle phalanx of index finger",
+        "Metacarpal of index finger",
+        "Proximal phalanx of middle finger"
+      ],
+      "answer": 1,
+      "explanation": "The distal phalanx forms a hinge joint with the middle phalanx of the same finger.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "The primary ossification center for the phalanges appears during which developmental period?",
+      "options": [
+        "5th week of embryonic life",
+        "7th week of embryonic life",
+        "5th month of fetal life",
+        "8th month of fetal life"
+      ],
+      "answer": 2,
+      "explanation": "Long bone ossification in the phalanges begins around the 5th month (≈20 weeks) of fetal development.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "Which nerve provides sensory innervation to the palmar surface of the distal phalanx of the thumb?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": 0,
+      "explanation": "The palmar digital branches of the median nerve supply the thumb's palmar distal phalanx.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "In a typical phalanx, the epiphyseal (growth) plate is located at:",
+      "options": [
+        "Proximal end",
+        "Distal end",
+        "Both ends",
+        "Neither end"
+      ],
+      "answer": 2,
+      "explanation": "Phalanges are short long bones with epiphyses at both ends; each end has an epiphyseal plate during growth.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "Which statement about the interphalangeal joints is correct?",
+      "options": [
+        "All interphalangeal joints are hinge joints",
+        "The distal interphalangeal joint allows rotation",
+        "The proximal interphalangeal joint is a plane joint",
+        "The interphalangeal joints are synovial pivot joints"
+      ],
+      "answer": 0,
+      "explanation": "Both proximal and distal interphalangeal joints are hinge-type synovial joints permitting flexion and extension only.",
+      "topic": "Phalanges"
+    },
+    {
+      "question": "Which type of joint permits movement in only one plane and is exemplified by the elbow joint?",
+      "options": [
+        "Ball-and-socket joint",
+        "Hinge joint",
+        "Pivot joint",
+        "Gliding joint"
+      ],
+      "answer": 1,
+      "explanation": "The elbow allows flexion and extension in a single sagittal plane, characteristic of a hinge joint.",
+      "topic": "Joints"
+    },
+    {
+      "question": "The joint between the first pair of ribs and the sternum is an example of which type of joint?",
+      "options": [
+        "Synovial joint",
+        "Fibrous (suture) joint",
+        "Cartilaginous (synchondrosis) joint",
+        "Fibrous (syndesmosis) joint"
+      ],
+      "answer": 2,
+      "explanation": "The first rib attaches to the sternum via a hyaline cartilage connection, forming a primary cartilaginous joint called a synchondrosis.",
+      "topic": "Joints"
+    },
+    {
+      "question": "Which of the following movements is NOT possible at a pivot joint?",
+      "options": [
+        "Rotation about its own longitudinal axis",
+        "Flexion",
+        "Supination",
+        "Pronation"
+      ],
+      "answer": 1,
+      "explanation": "Pivot joints allow rotational movements (pronation, supination) around a single axis but do not permit flexion or extension.",
+      "topic": "Joints"
+    },
+    {
+      "question": "The temporomandibular joint (TMJ) is classified as which type of synovial joint?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Condyloid (ellipsoidal) joint",
+        "Saddle joint"
+      ],
+      "answer": 2,
+      "explanation": "The TMJ has an oval articular surface on the condyle fitting into an elliptical socket, fitting the definition of a condyloid (ellipsoidal) joint.",
+      "topic": "Joints"
+    },
+    {
+      "question": "Which structure is absent in a fibrous joint but present in a synovial joint?",
+      "options": [
+        "Articular cartilage",
+        "Joint cavity",
+        "Ligaments",
+        "Dense regular connective tissue"
+      ],
+      "answer": 1,
+      "explanation": "Synovial joints possess a fluid‑filled joint cavity, whereas fibrous joints are bound directly by connective tissue without a cavity.",
+      "topic": "Joints"
+    },
+    {
+      "question": "In the hip joint, the acetabulum is formed by contributions from which bones?",
+      "options": [
+        "Ilium",
+        "Ischium",
+        "Pubis",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The acetabular socket is a composite of the ilium, ischium, and pubis, each contributing a portion to its rim.",
+      "topic": "Joints"
+    },
+    {
+      "question": "Which of the following statements about gliding (plane) joints is correct?",
+      "options": [
+        "They allow rotation around a single axis",
+        "They have a joint cavity filled with synovial fluid",
+        "Their articular surfaces are flat or slightly curved",
+        "They are found only in the skull"
+      ],
+      "answer": 2,
+      "explanation": "Gliding joints have relatively flat or mildly curved articular surfaces that slide over each other, permitting limited translational movements.",
+      "topic": "Joints"
+    },
+    {
+      "question": "Which of the following best describes a characteristic feature of a suture joint in the skull?",
+      "options": [
+        "Presence of a fibrocartilaginous disc",
+        "Allows free movement between the bones",
+        "Interlocking serrated edges of the adjoining bones",
+        "Contains a synovial cavity"
+      ],
+      "answer": 2,
+      "explanation": "Sutures are immovable fibrous joints where the adjoining bones have interdigitating, serrated margins that fit together tightly.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "The distal tibiofibular joint exemplifies which type of fibrous joint?",
+      "options": [
+        "Suture",
+        "Syndesmosis",
+        "Gomphosis",
+        "Synovial joint"
+      ],
+      "answer": 1,
+      "explanation": "The distal tibiofibular joint is a syndesmosis, where the tibia and fibula are bound together by a strong interosseous membrane allowing slight movement.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "In a gomphosis joint, the tooth is anchored to the alveolar bone by which structure?",
+      "options": [
+        "Sharpey's fibers",
+        "Articular cartilage",
+        "Meniscus",
+        "Ligamentum flavum"
+      ],
+      "answer": 0,
+      "explanation": "Gomphoses (e.g., tooth‑socket) are held together by Sharpey's fibers, which are collagen fibers that penetrate the cementum of the tooth and the alveolar bone.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "Which statement correctly distinguishes a syndesmosis from a suture?",
+      "options": [
+        "Syndesmosis permits more movement than suture",
+        "Syndesmosis is found only in the skull",
+        "Sutures are connected by a dense fibroelastic membrane",
+        "Syndesmosis contains a synovial fluid"
+      ],
+      "answer": 0,
+      "explanation": "Syndesmoses allow slight gliding or rotational movement, whereas sutures are essentially immobile.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "Premature closure of which fibrous joint most commonly leads to cranial deformities?",
+      "options": [
+        "Coronal suture",
+        "Distal tibiofibular syndesmosis",
+        "Periodontal ligament (tooth socket)",
+        "Interosseous membrane of forearm"
+      ],
+      "answer": 0,
+      "explanation": "Early fusion (craniosynostosis) of cranial sutures such as the coronal suture restricts skull growth and causes deformities.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "The interosseous membrane between the radius and ulna is classified as:",
+      "options": [
+        "Suture",
+        "Syndesmosis",
+        "Gomphosis",
+        "Synovial pivot joint"
+      ],
+      "answer": 1,
+      "explanation": "The radius‑ulna interosseous membrane is a syndesmosis, a type of fibrous joint that permits limited movement and transmits forces.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of fibrous joints?",
+      "options": [
+        "Lack of a joint cavity",
+        "Presence of articular cartilage covering bone ends",
+        "Connection by dense regular connective tissue",
+        "Generally immovable or allow slight movement"
+      ],
+      "answer": 1,
+      "explanation": "Fibrous joints lack a joint cavity and are held together by dense regular connective tissue; they do not have articular cartilage, which is a feature of synovial joints.",
+      "topic": "Fibrous joints"
+    },
+    {
+      "question": "Which of the following is a synchondrosis?",
+      "options": [
+        "Pubic symphysis",
+        "First sternocostal joint",
+        "Intervertebral disc",
+        "Sacroiliac joint"
+      ],
+      "answer": 1,
+      "explanation": "The first sternocostal joint (between the first rib and the manubrium) is a synchondrosis, where the bones are united by hyaline cartilage.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "The intervertebral disc is an example of which type of cartilaginous joint?",
+      "options": [
+        "Synchondrosis",
+        "Symphysis",
+        "Synovial",
+        "Fibrous"
+      ],
+      "answer": 1,
+      "explanation": "Intervertebral discs consist of a fibrocartilaginous pad between two vertebral bodies, classifying them as symphyses.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "In a growing long bone, the epiphyseal plate is composed of which type of cartilage?",
+      "options": [
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Fibrocartilage",
+        "Articular cartilage"
+      ],
+      "answer": 0,
+      "explanation": "The epiphyseal (growth) plate is made of hyaline cartilage, which later ossifies to lengthen the bone.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "Which statement correctly distinguishes synchondroses from symphyses?",
+      "options": [
+        "Synchondroses are permanent, symphyses are temporary",
+        "Synchondroses contain fibrocartilage, symphyses contain hyaline cartilage",
+        "Synchondroses are immovable, symphyses allow slight movement",
+        "Synchondroses are found only in the axial skeleton, symphyses only in appendicular"
+      ],
+      "answer": 2,
+      "explanation": "Synchondroses are typically immovable joints, whereas symphyses are slightly movable due to their fibrocartilaginous pad.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "The pubic symphysis permits which type of movement?",
+      "options": [
+        "No movement",
+        "Slight gliding",
+        "Rotation",
+        "Flexion"
+      ],
+      "answer": 1,
+      "explanation": "The fibrocartilaginous pad of the pubic symphysis allows a small amount of gliding movement, especially during childbirth.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "Which of the following joints is a temporary synchondrosis that later becomes a synostosis?",
+      "options": [
+        "First rib to sternum",
+        "Epiphyseal plate in long bones",
+        "Intervertebral disc",
+        "Pubic symphysis"
+      ],
+      "answer": 1,
+      "explanation": "The epiphyseal plate is initially a synchondrosis (hyaline cartilage) that ossifies into a synostosis after growth ceases.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "The fibrocartilaginous pad in a symphysis is called:",
+      "options": [
+        "Articular disc",
+        "Meniscus",
+        "Interpubic disc",
+        "Synchondral plate"
+      ],
+      "answer": 2,
+      "explanation": "In a symphysis, the fibrocartilaginous material between the two bones is termed the interpubic (or intervertebral) disc, providing slight flexibility.",
+      "topic": "Cartilaginous joints"
+    },
+    {
+      "question": "Which of the following structures is NOT a component of a typical synovial joint?",
+      "options": [
+        "Articular cartilage",
+        "Synovial fluid",
+        "Meniscus",
+        "Periosteum"
+      ],
+      "answer": 3,
+      "explanation": "Periosteum covers the outer surface of bone and is not part of the joint capsule or intra‑articular structures of a synovial joint.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "The hip joint is an example of which type of synovial joint?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Ball-and-socket joint",
+        "Gliding joint"
+      ],
+      "answer": 2,
+      "explanation": "The acetabulofemoral (hip) joint allows movement in multiple planes and is classified as a ball‑and‑socket joint.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "Which movement is characteristic of a pivot type synovial joint?",
+      "options": [
+        "Flexion",
+        "Extension",
+        "Rotation about its own longitudinal axis",
+        "Abduction"
+      ],
+      "answer": 2,
+      "explanation": "Pivot joints, such as the proximal radioulnar joint, permit rotation around the longitudinal axis of the bone.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "Although primarily a hinge joint, the knee also permits a small degree of which additional movement?",
+      "options": [
+        "Lateral rotation",
+        "Medial rotation",
+        "Circumduction",
+        "Gliding"
+      ],
+      "answer": 1,
+      "explanation": "When the knee is flexed, the tibia can rotate slightly medially and laterally; the most commonly noted is medial rotation.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "Which ligament is located within the joint capsule of a synovial joint?",
+      "options": [
+        "Collateral ligament",
+        "Cruciate ligament",
+        "Accessory ligament",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Cruciate ligaments (anterior and posterior) of the knee are intracapsular ligaments, lying inside the joint capsule.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "In a synovial joint, the structure that primarily reduces friction and absorbs shock between the articular surfaces is:",
+      "options": [
+        "Synovial membrane",
+        "Articular cartilage",
+        "Meniscus",
+        "Bursa"
+      ],
+      "answer": 2,
+      "explanation": "Menisci are fibrocartilaginous pads (e.g., in the knee) that cushion the joint and improve congruence, thereby reducing friction and shock.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "Which pair correctly matches a synovial joint with its primary movement?",
+      "options": [
+        "Elbow – circumduction",
+        "Shoulder – flexion and extension only",
+        "Radioulnar – rotation",
+        "Hip – gliding"
+      ],
+      "answer": 2,
+      "explanation": "The proximal and distal radioulnar joints are classic examples of pivot (rotational) synovial joints.",
+      "topic": "Synovial joints"
+    },
+    {
+      "question": "Which of the following movements is NOT possible at a ball‑and‑socket joint?",
+      "options": [
+        "Flexion",
+        "Extension",
+        "Pronation",
+        "Circumduction"
+      ],
+      "answer": 2,
+      "explanation": "Pronation is a movement of the forearm about a pivot joint; ball‑and‑socket joints allow flexion, extension, abduction, adduction, rotation and circumduction.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "In the hip joint, which bony structure forms the socket that receives the femoral head?",
+      "options": [
+        "Femur",
+        "Ilium",
+        "Acetabulum",
+        "Pubis"
+      ],
+      "answer": 2,
+      "explanation": "The acetabulum of the pelvis is a deep, cup‑shaped socket that articulates with the spherical head of the femur, forming a ball‑and‑socket joint.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "Which structural feature primarily distinguishes a ball‑and‑socket joint from a hinge joint?",
+      "options": [
+        "Presence of a shallow concave articular surface",
+        "Presence of a spherical head",
+        "Presence of a meniscus",
+        "Presence of a fibrocartilaginous disc"
+      ],
+      "answer": 1,
+      "explanation": "A ball‑and‑socket joint is characterized by a spherical (ball‑shaped) head that fits into a concave socket, unlike a hinge joint which has a cylindrical condyle and a corresponding groove.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "The fibrocartilaginous rim that deepens the socket of the shoulder joint is called the:",
+      "options": [
+        "Collateral ligaments",
+        "Capsular ligaments",
+        "Labrum",
+        "Tendon"
+      ],
+      "answer": 2,
+      "explanation": "The glenoid labrum is a fibrocartilaginous structure that surrounds the glenoid cavity, increasing its depth and stability in the shoulder ball‑and‑socket joint.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "Which clinical condition is most commonly associated with the ball‑and‑socket joint of the shoulder?",
+      "options": [
+        "Osteoarthritis of the knee",
+        "Rotator cuff tear",
+        "Meniscus tear",
+        "Carpal tunnel syndrome"
+      ],
+      "answer": 1,
+      "explanation": "Rotator cuff tears affect the muscles and tendons that stabilize the shoulder’s ball‑and‑socket joint, making it a frequent shoulder pathology.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "The shoulder joint has a greater range of motion than the hip joint mainly because:",
+      "options": [
+        "The acetabulum is deeper than the glenoid cavity",
+        "The glenoid cavity is shallow",
+        "The humeral head is larger than the femoral head",
+        "The capsule of the shoulder is stronger"
+      ],
+      "answer": 1,
+      "explanation": "The glenoid cavity of the scapula is shallow compared with the deep acetabulum of the pelvis, allowing the shoulder ball‑and‑socket joint a wider range of movement.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "Which statement about synovial fluid in ball‑and‑socket joints is correct?",
+      "options": [
+        "It is secreted by articular cartilage",
+        "It provides nutrients to the avascular cartilage",
+        "It is produced by the meniscus",
+        "It contains a high concentration of calcium"
+      ],
+      "answer": 1,
+      "explanation": "Synovial fluid, secreted by the synovial membrane, lubricates the joint and supplies nutrients to the avascular articular cartilage.",
+      "topic": "Ball and socket joint"
+    },
+    {
+      "question": "Which of the following movements is NOT possible at a hinge joint?",
+      "options": [
+        "Flexion",
+        "Extension",
+        "Abduction",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "Hinge joints permit movement primarily in one plane – flexion and extension. Abduction, which requires movement away from the mid‑line, is not allowed.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "The elbow joint is a typical example of a hinge joint. Which bony structure prevents hyperextension of the elbow?",
+      "options": [
+        "Olecranon process",
+        "Medial collateral ligament",
+        "Lateral collateral ligament",
+        "Annular ligament"
+      ],
+      "answer": 0,
+      "explanation": "The olecranon process of the ulna fits into the olecranon fossa of the humerus, acting as a bony stop that limits excessive extension.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "In a typical hinge joint, the articulating surfaces are best described as:",
+      "options": [
+        "Convex‑convex",
+        "Concave‑convex",
+        "Cylindrical",
+        "Spherical"
+      ],
+      "answer": 1,
+      "explanation": "Hinge joints have a convex surface (e.g., trochlea of the humerus) fitting into a concave surface (trochlear notch of the ulna), allowing a hinge‑like motion.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "Which hinge joint in the human body contains a meniscus?",
+      "options": [
+        "Elbow",
+        "Knee",
+        "Ankle",
+        "Wrist"
+      ],
+      "answer": 1,
+      "explanation": "The knee joint, a modified hinge joint, possesses two semilunar fibrocartilaginous menisci that improve congruence and absorb shock.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "The hinge joint of the knee is stabilized against anterior translation of the tibia by which ligament?",
+      "options": [
+        "Posterior cruciate ligament",
+        "Medial collateral ligament",
+        "Anterior cruciate ligament",
+        "Lateral collateral ligament"
+      ],
+      "answer": 2,
+      "explanation": "The anterior cruciate ligament (ACL) resists forward movement of the tibia relative to the femur, providing key stability in the knee hinge joint.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "Which statement about hinge joints is FALSE?",
+      "options": [
+        "They allow movement in one plane",
+        "They have a joint cavity filled with synovial fluid",
+        "They are classified as fibrous joints",
+        "They possess collateral ligaments"
+      ],
+      "answer": 2,
+      "explanation": "Hinge joints are synovial joints, not fibrous joints. The other statements correctly describe hinge joint characteristics.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "The intercondylar eminence is a distinctive feature of which hinge joint?",
+      "options": [
+        "Elbow",
+        "Knee",
+        "Ankle",
+        "Temporomandibular joint"
+      ],
+      "answer": 1,
+      "explanation": "The intercondylar eminence (or tibial spine) is present on the tibial plateau of the knee joint, serving as attachment for cruciate ligaments.",
+      "topic": "Hinge joint"
+    },
+    {
+      "question": "Which statement correctly describes a pivot joint?",
+      "options": [
+        "It allows rotation around a single longitudinal axis",
+        "It permits angular movement in multiple planes",
+        "It enables gliding movements between articular surfaces",
+        "It allows flexion and extension only"
+      ],
+      "answer": 0,
+      "explanation": "A pivot joint is a synovial joint that permits rotation around a single longitudinal axis, such as the proximal radioulnar joint.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "Which of the following is an example of a pivot joint in the human body?",
+      "options": [
+        "Knee joint",
+        "Proximal radioulnar joint",
+        "Hip joint",
+        "Temporomandibular joint"
+      ],
+      "answer": 1,
+      "explanation": "The proximal radioulnar joint allows rotation of the radius around the ulna and is a classic example of a pivot joint.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "The atlantoaxial joint, a pivot joint between C1 and C2 vertebrae, is primarily stabilized by which ligament?",
+      "options": [
+        "Anterior cruciate ligament",
+        "Annular ligament",
+        "Transverse ligament of the atlas",
+        "Coracoclavicular ligament"
+      ],
+      "answer": 2,
+      "explanation": "The transverse ligament of the atlas holds the dens of C2 against the anterior arch of C1, providing the main stability for the atlantoaxial pivot joint.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "The movement produced at a pivot joint is best described as:",
+      "options": [
+        "Flexion",
+        "Extension",
+        "Rotation",
+        "Abduction"
+      ],
+      "answer": 2,
+      "explanation": "Pivot joints permit rotational movement around the longitudinal axis of the bone, e.g., pronation and supination of the forearm.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "Which feature distinguishes a pivot joint from a hinge joint?",
+      "options": [
+        "Presence of a convex‑concave articular surface",
+        "Ability to rotate around its long axis",
+        "Presence of a meniscus",
+        "Presence of a synovial cavity"
+      ],
+      "answer": 1,
+      "explanation": "Pivot joints allow rotation around a single axis, whereas hinge joints permit only flexion‑extension movements.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "A fracture of the radial head would most likely impair which movement at the proximal radioulnar pivot joint?",
+      "options": [
+        "Flexion at the elbow",
+        "Extension at the knee",
+        "Supination of the forearm",
+        "Inversion of the foot"
+      ],
+      "answer": 2,
+      "explanation": "The proximal radioulnar joint is responsible for supination and pronation; a radial head fracture compromises supination.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "The annular ligament encircles which bone to form a pivot joint?",
+      "options": [
+        "Ulna",
+        "Radius",
+        "Femur",
+        "Tibia"
+      ],
+      "answer": 1,
+      "explanation": "The annular ligament wraps around the head of the radius, holding it against the ulna and enabling rotation at the proximal radioulnar joint.",
+      "topic": "Pivot joint"
+    },
+    {
+      "question": "Which type of movement is primarily permitted at a gliding (plane) joint?",
+      "options": [
+        "Sliding or translation of articular surfaces",
+        "Rotation about a single axis",
+        "Angular movement in one plane",
+        "Flexion and extension"
+      ],
+      "answer": 0,
+      "explanation": "Gliding joints allow the relatively flat or slightly curved articular surfaces to slide over each other, producing translational movements.",
+      "topic": "Gliding joint"
+    },
+    {
+      "question": "Which of the following is a classic example of a gliding joint in the human body?",
+      "options": [
+        "Hip joint",
+        "Elbow joint",
+        "Intercarpal joints of wrist",
+        "Temporomandibular joint (hinge)"
+      ],
+      "answer": 2,
+      "explanation": "The intercarpal joints between the carpal bones of the wrist are plane joints that permit limited sliding movements.",
+      "topic": "Gliding joint"
+    },
+    {
+      "question": "The articular surfaces of a gliding joint are covered by which type of cartilage?",
+      "options": [
+        "Hyaline cartilage",
+        "Fibrocartilage",
+        "Elastic cartilage",
+        "No cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Synovial joints, including gliding joints, have their articular surfaces lined with hyaline cartilage to reduce friction.",
+      "topic": "Gliding joint"
+    },
+    {
+      "question": "Which structural feature distinguishes a gliding joint from a hinge joint?",
+      "options": [
+        "Presence of a convex‑concave articulation",
+        "Presence of a meniscus",
+        "Flat or slightly curved articular surfaces allowing translation",
+        "Presence of a cruciate ligament"
+      ],
+      "answer": 2,
+      "explanation": "Gliding joints have flat or mildly curved surfaces that slide past each other, whereas hinge joints have a convex‑concave arrangement permitting angular motion.",
+      "topic": "Gliding joint"
+    },
+    {
+      "question": "In a gliding joint, the joint capsule is reinforced mainly by which type of ligament?",
+      "options": [
+        "Collateral ligaments",
+        "Capsular ligaments",
+        "Interosseous membrane",
+        "No reinforcement needed"
+      ],
+      "answer": 1,
+      "explanation": "The fibrous capsule of a gliding joint is strengthened by capsular ligaments that blend with the surrounding joint capsule.",
+      "topic": "Gliding joint"
+    },
+    {
+      "question": "Which movement is NOT typically performed at a gliding joint?",
+      "options": [
+        "Abduction",
+        "Lateral translation",
+        "Rotation",
+        "Flexion"
+      ],
+      "answer": 3,
+      "explanation": "Gliding joints allow sliding and limited rotational movements but do not produce angular movements such as flexion.",
+      "topic": "Gliding joint"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 35,
+    "mcqCount": 244
+  }
+}

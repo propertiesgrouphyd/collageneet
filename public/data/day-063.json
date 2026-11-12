@@ -1,0 +1,2421 @@
+{
+  "day": 63,
+  "courseDate": "2026-10-31",
+  "publishAt": "2026-10-31T06:00:00+05:30",
+  "title": "Day 63: Digestion of Carbohydrates, Proteins, Fats and Nucleic Acids",
+  "introduction": "This lesson integrates the sequential mechanical and chemical processes that break down macronutrients and nucleic acids, emphasizing enzyme specificity, site of action, pH dependence and the role of bile salts, to prepare you for NEET‑UG questions on digestion.",
+  "sections": [
+    {
+      "topic": "Digestion overview",
+      "heading": "Overall Process of Digestion",
+      "content": "Digestion is a coordinated sequence of mechanical breakdown and enzymatic hydrolysis that converts complex food macromolecules into absorbable monomers. It proceeds from the oral cavity through the stomach to the small intestine, where the majority of chemical digestion and absorption occur.",
+      "keyPoints": [
+        "Mechanical and chemical steps are interdependent",
+        "Major sites: mouth, stomach, duodenum, jejunum, ileum"
+      ],
+      "neetTips": [
+        "Remember the order of organs and the primary macronutrient digested at each site"
+      ]
+    },
+    {
+      "topic": "Mechanical and chemical digestion",
+      "heading": "Physical Disruption and Enzymatic Hydrolysis",
+      "content": "Mechanical digestion (chewing, churning, segmentation) increases surface area, while chemical digestion uses specific enzymes to cleave glycosidic, peptide and ester bonds. Both are essential for efficient nutrient breakdown.",
+      "keyPoints": [
+        "Mechanical action precedes most enzymatic activity",
+        "Enzyme action is substrate‑specific"
+      ],
+      "neetTips": [
+        "Link each enzyme to its substrate when answering matching questions"
+      ]
+    },
+    {
+      "topic": "Digestion in mouth",
+      "heading": "Oral Phase of Digestion",
+      "content": "In the mouth, food is mixed with saliva, which contains mucin (lubrication), electrolytes and salivary amylase. Chewing creates a bolus, raising the surface area for enzymatic attack.",
+      "keyPoints": [
+        "Saliva maintains pH ~6.8",
+        "Bolus formation is critical for downstream digestion"
+      ],
+      "neetTips": [
+        "pH of saliva is slightly acidic to neutral; enzymes function optimally near this pH"
+      ]
+    },
+    {
+      "topic": "Carbohydrate digestion",
+      "heading": "Breakdown of Polysaccharides",
+      "content": "Carbohydrate digestion begins with salivary amylase and continues with pancreatic amylase, producing maltose, maltotriose and limit dextrins, which are finally hydrolysed by brush‑border disaccharidases to glucose.",
+      "keyPoints": [
+        "Amylases act on α‑1,4‑glycosidic bonds",
+        "Final products are monosaccharides"
+      ],
+      "neetTips": [
+        "Recall that starch → maltose → glucose; no β‑linkage digestion in humans"
+      ]
+    },
+    {
+      "topic": "Salivary amylase",
+      "heading": "α‑Amylase in Saliva",
+      "content": "Salivary α‑amylase (pH optimum ~6.7) hydrolyses internal α‑1,4‑glycosidic bonds of starch, yielding maltose, maltotriose and dextrins. Activity ceases in the acidic stomach.",
+      "keyPoints": [
+        "Optimal pH ~6.7",
+        "Stops at pH <4"
+      ],
+      "neetTips": [
+        "Enzyme inactivation in stomach explains why carbohydrate digestion resumes only after neutralisation"
+      ]
+    },
+    {
+      "topic": "Digestion in stomach",
+      "heading": "Gastric Digestion Environment",
+      "content": "The stomach provides a highly acidic milieu (pH 1.5‑3.5) that denatures proteins, activates pepsinogen to pepsin, and halts salivary amylase. Mechanical churning mixes chyme with gastric secretions.",
+      "keyPoints": [
+        "Acidic pH denatures protein secondary structure",
+        "Pepsinogen → pepsin activation requires HCl"
+      ],
+      "neetTips": [
+        "Link low pH to protein unfolding and pepsin activity"
+      ]
+    },
+    {
+      "topic": "Protein digestion",
+      "heading": "Proteolysis Overview",
+      "content": "Protein digestion starts in the stomach with pepsin, continues in the duodenum with trypsin, chymotrypsin and carboxypeptidase, and finishes at the brush border with peptidases that release amino acids and di‑/tripeptides.",
+      "keyPoints": [
+        "Sequential cleavage from large to small peptides",
+        "Both endo‑ and exopeptidases are involved"
+      ],
+      "neetTips": [
+        "Remember the order: pepsin → trypsin/chymotrypsin → carboxypeptidase → peptidases"
+      ]
+    },
+    {
+      "topic": "Pepsin",
+      "heading": "Gastric Endopeptidase Pepsin",
+      "content": "Pepsin, active at pH 1.5‑2.5, cleaves peptide bonds preferentially adjacent to aromatic residues (Phe, Trp, Tyr). It is secreted as inactive pepsinogen and auto‑activated by HCl.",
+      "keyPoints": [
+        "Endopeptidase; aromatic side‑chain preference",
+        "Inactive precursor prevents autodigestion"
+      ],
+      "neetTips": [
+        "Pepsin works only in the stomach; its activity stops in the duodenum"
+      ]
+    },
+    {
+      "topic": "Digestion in small intestine",
+      "heading": "Duodenal and Jejunal Digestion",
+      "content": "The small intestine provides a neutral to slightly alkaline pH (6‑8) optimal for pancreatic enzymes and brush‑border enzymes. Bile salts emulsify fats, increasing the surface area for lipases.",
+      "keyPoints": [
+        "pH gradient from duodenum to ileum",
+        "Bile salts act as emulsifiers"
+      ],
+      "neetTips": [
+        "Match each enzyme to its intestinal pH range"
+      ]
+    },
+    {
+      "topic": "Pancreatic amylase",
+      "heading": "Pancreatic α‑Amylase",
+      "content": "Secreted into the duodenum, pancreatic α‑amylase continues starch hydrolysis, producing maltose, maltotriose and limit dextrins. It works best at pH 6.7‑7.0.",
+      "keyPoints": [
+        "Complementary to salivary amylase",
+        "Optimal pH ~7"
+      ],
+      "neetTips": [
+        "Remember pancreatic amylase acts after gastric phase"
+      ]
+    },
+    {
+      "topic": "Trypsin and chymotrypsin",
+      "heading": "Pancreatic Endopeptidases",
+      "content": "Trypsin (activated by enteropeptidase) cleaves peptide bonds at the carboxyl side of Lys and Arg; chymotrypsin prefers aromatic residues. Both function at pH 7‑8.",
+      "keyPoints": [
+        "Trypsin activation cascade",
+        "Specificity based on side‑chain"
+      ],
+      "neetTips": [
+        "Enterokinase → trypsin → activation of other zymogens"
+      ]
+    },
+    {
+      "topic": "Carboxypeptidase",
+      "heading": "Pancreatic Exopeptidase",
+      "content": "Carboxypeptidase A removes C‑terminal aromatic or branched‑chain residues; Carboxypeptidase B removes basic residues. Both require Zn²⁺ and work at pH 7‑8.",
+      "keyPoints": [
+        "Exopeptidase; removes terminal amino acids",
+        "Metal ion cofactor"
+      ],
+      "neetTips": [
+        "Link Zn²⁺ requirement to catalytic mechanism"
+      ]
+    },
+    {
+      "topic": "Lipase",
+      "heading": "Pancreatic Lipase",
+      "content": "Pancreatic lipase, aided by colipase and bile salts, hydrolyses triglycerides into 2‑monoacylglycerol and free fatty acids at pH 7‑8. It acts at the oil‑water interface created by emulsification.",
+      "keyPoints": [
+        "Requires colipase for activity in presence of bile salts",
+        "Produces 2‑monoacylglycerol"
+      ],
+      "neetTips": [
+        "Remember that lipase cannot act on intact fat globules"
+      ]
+    },
+    {
+      "topic": "Nucleases",
+      "heading": "Nucleic Acid Hydrolysis Enzymes",
+      "content": "Pancreatic nucleases (DNase, RNase) cleave phosphodiester bonds, generating nucleotides and oligonucleotides. Activity peaks at pH 7‑8 and is completed by brush‑border nucleotidases.",
+      "keyPoints": [
+        "Hydrolyse both DNA and RNA",
+        "Produce nucleotides"
+      ],
+      "neetTips": [
+        "Nucleic acid digestion is minor but follows same enzyme‑substrate logic"
+      ]
+    },
+    {
+      "topic": "Intestinal enzymes",
+      "heading": "Brush‑Border Enzymes",
+      "content": "The microvillar membrane houses disaccharidases, peptidases, nucleotidases and intestinal lipase. They complete the final step of digestion, converting oligomers to absorbable monomers.",
+      "keyPoints": [
+        "Located on enterocyte apical surface",
+        "Operate at pH 6‑7"
+      ],
+      "neetTips": [
+        "All final products are ready for active transport across enterocytes"
+      ]
+    },
+    {
+      "topic": "Enterokinase or enteropeptidase",
+      "heading": "Activator of Trypsinogen",
+      "content": "Enterokinase, a membrane‑bound serine protease, cleaves the activation peptide of trypsinogen to generate active trypsin, initiating the cascade of pancreatic protease activation.",
+      "keyPoints": [
+        "Only enzyme that activates trypsinogen directly",
+        "Located in duodenal mucosa"
+      ],
+      "neetTips": [
+        "Enterokinase → trypsin → activation of chymotrypsinogen, procarboxypeptidase"
+      ]
+    },
+    {
+      "topic": "Peptidases",
+      "heading": "Brush‑Border Peptidases",
+      "content": "Aminopeptidases, dipeptidases and tripeptidases hydrolyse terminal peptide bonds, yielding free amino acids and di‑/tripeptides for absorption via Na⁺‑dependent transporters.",
+      "keyPoints": [
+        "End‑point of protein digestion",
+        "Require neutral pH"
+      ],
+      "neetTips": [
+        "Di‑/tripeptides are absorbed intact before intracellular hydrolysis"
+      ]
+    },
+    {
+      "topic": "Disaccharidases",
+      "heading": "Carbohydrate‑Specific Brush‑Border Enzymes",
+      "content": "Lactase, sucrase, maltase and isomaltase hydrolyse respective disaccharides into monosaccharides. Deficiency of lactase leads to clinical lactose intolerance.",
+      "keyPoints": [
+        "Each enzyme specific to one disaccharide",
+        "Optimal pH ~6"
+      ],
+      "neetTips": [
+        "Link enzyme deficiency to common clinical presentations"
+      ]
+    },
+    {
+      "topic": "Intestinal lipase",
+      "heading": "Enterocyte Lipase",
+      "content": "Intestinal lipase (also called gastric lipase) acts on residual triglycerides, especially in infants, producing 2‑monoacylglycerol and fatty acids at pH 6‑7.",
+      "keyPoints": [
+        "Works alongside pancreatic lipase",
+        "Important in neonates"
+      ],
+      "neetTips": [
+        "Remember its role when pancreatic function is compromised"
+      ]
+    },
+    {
+      "topic": "Nucleotidases and nucleosidases",
+      "heading": "Final Nucleic Acid‑Digesting Enzymes",
+      "content": "Brush‑border nucleotidases dephosphorylate nucleotides to nucleosides; nucleosidases further hydrolyse nucleosides to free bases and ribose. Absorption occurs via nucleobase transporters.",
+      "keyPoints": [
+        "Two‑step dephosphorylation",
+        "Products: bases, ribose, phosphate"
+      ],
+      "neetTips": [
+        "NEET may ask for final products of nucleic acid digestion"
+      ]
+    },
+    {
+      "topic": "Final products of digestion",
+      "heading": "Absorbable Monomers",
+      "content": "Carbohydrates → glucose, galactose, fructose; Proteins → amino acids, di‑/tripeptides; Fats → fatty acids, 2‑monoacylglycerol; Nucleic acids → bases, ribose, phosphate. All are transported into enterocytes.",
+      "keyPoints": [
+        "All macromolecules reduced to monomers"
+      ],
+      "neetTips": [
+        "Memorise the four categories of final products for quick recall"
+      ]
+    },
+    {
+      "topic": "Role of bile salts in fat digestion",
+      "heading": "Bile Salts as Emulsifiers and Micelle Formers",
+      "content": "Bile salts (amphipathic molecules) emulsify large fat globules into fine droplets, increasing surface area for lipase. They also form mixed micelles that solubilise fatty acids and monoglycerides for absorption.",
+      "keyPoints": [
+        "Amphipathic nature creates micelles",
+        "Essential for fat absorption"
+      ],
+      "neetTips": [
+        "Link bile salt deficiency to steatorrhea"
+      ]
+    },
+    {
+      "topic": "Emulsification of fats",
+      "heading": "Physical Disruption of Lipid Droplets",
+      "content": "Emulsification breaks triglyceride globules into sub‑micron droplets, preventing coalescence. This process is non‑enzymatic and occurs in the duodenum under the influence of bile salts and vigorous peristalsis.",
+      "keyPoints": [
+        "Increases interfacial area"
+      ],
+      "neetTips": [
+        "Remember emulsification precedes enzymatic hydrolysis"
+      ]
+    },
+    {
+      "topic": "pH conditions in different regions",
+      "heading": "pH Gradient Along the GI Tract",
+      "content": "Mouth ~6.8, Stomach 1.5‑3.5 (acidic), Duodenum 6‑7 (neutralised by bicarbonate), Jejunum 7‑8, Ileum 7‑8. Enzyme activity aligns with these pH zones, dictating where each enzyme functions optimally.",
+      "keyPoints": [
+        "Acidic stomach inactivates salivary amylase"
+      ],
+      "neetTips": [
+        "Match each enzyme to its optimal pH when solving NEET matching items"
+      ]
+    },
+    {
+      "topic": "Integrated enzyme-substrate understanding",
+      "heading": "Coordinated Enzyme‑Substrate Interplay",
+      "content": "Digestive efficiency relies on sequential activation (e.g., enterokinase → trypsin → other proteases), substrate availability (surface area from mechanical digestion), and appropriate pH. Bile salts, colipase and co‑factors (Zn²⁺, Ca²⁺) fine‑tune enzyme action, ensuring complete conversion to absorbable monomers.",
+      "keyPoints": [
+        "Sequential activation prevents premature enzyme activity",
+        "Physical and chemical environments are interdependent"
+      ],
+      "neetTips": [
+        "When faced with enzyme‑substrate questions, consider site, pH, co‑factor and activation cascade"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the sequential mechanical and chemical events of digestion across the oral, gastric and intestinal phases",
+    "Identify the specific enzymes, their activation mechanisms, optimal pH and substrate specificity for carbohydrates, proteins, fats and nucleic acids",
+    "Explain the role of bile salts and emulsification in fat digestion and micelle formation",
+    "Recall the final absorbable products of each macronutrient and nucleic acid",
+    "Apply integrated knowledge of enzyme‑substrate relationships to NEET‑style matching and scenario questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly orders the regions where major digestion of carbohydrates, proteins, and fats occurs?",
+      "options": [
+        "Mouth → Stomach → Small intestine",
+        "Stomach → Mouth → Small intestine",
+        "Small intestine → Stomach → Mouth",
+        "Mouth → Small intestine → Stomach"
+      ],
+      "answer": 0,
+      "explanation": "Carbohydrate digestion begins in the mouth, protein digestion continues in the stomach, and the majority of digestion of all macromolecules, especially fats, occurs in the small intestine.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "The primary function of bile salts in digestion is to:",
+      "options": [
+        "Hydrolyze triglycerides",
+        "Emulsify dietary fats",
+        "Activate pancreatic enzymes",
+        "Neutralize gastric acid"
+      ],
+      "answer": 1,
+      "explanation": "Bile salts are amphipathic molecules that break large fat globules into smaller droplets, increasing surface area for pancreatic lipase action.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "Which pH range is optimal for the activity of pancreatic enzymes in the duodenum?",
+      "options": [
+        "1.5-3.0",
+        "4.0-5.5",
+        "6.5-8.0",
+        "9.0-10.5"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic enzymes such as amylase, trypsin, and lipase function best in a slightly alkaline environment (pH 6.5‑8) provided by bicarbonate secretion.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "The term \"mechanical digestion\" refers to:",
+      "options": [
+        "Enzymatic breakdown of macromolecules",
+        "Chemical alteration of nutrients by acids",
+        "Physical breakdown of food into smaller particles",
+        "Absorption of nutrients across mucosa"
+      ],
+      "answer": 2,
+      "explanation": "Mechanical digestion involves physical processes like chewing, mixing, and segmentation that reduce food particle size without chemical change.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "Which statement best describes the role of the small intestine in the overall digestive process?",
+      "options": [
+        "It is the primary site for mechanical digestion only",
+        "It provides the acidic environment required for pepsin activation",
+        "It is the major site for chemical digestion and nutrient absorption",
+        "It secretes bile directly into its lumen"
+      ],
+      "answer": 2,
+      "explanation": "The small intestine houses pancreatic and brush‑border enzymes that chemically digest nutrients, and its mucosa is specialized for absorption.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "During digestion, the conversion of large macromolecules into absorbable monomers is primarily achieved by:",
+      "options": [
+        "Peristaltic movements",
+        "Hormonal regulation",
+        "Enzymatic hydrolysis",
+        "Osmotic gradients"
+      ],
+      "answer": 2,
+      "explanation": "Enzymes catalyze hydrolysis reactions that cleave polymers (carbohydrates, proteins, fats, nucleic acids) into monomers ready for absorption.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "Which of the following correctly pairs a digestive region with its characteristic pH condition?",
+      "options": [
+        "Stomach – pH 7-8",
+        "Duodenum – pH 1-2",
+        "Mouth – pH 6.5-7.5",
+        "Large intestine – pH 2-3"
+      ],
+      "answer": 2,
+      "explanation": "The oral cavity maintains a near‑neutral pH (≈6.5‑7.5), optimal for salivary amylase activity, whereas the stomach is highly acidic and the duodenum is alkaline.",
+      "topic": "Digestion overview"
+    },
+    {
+      "question": "Which of the following best describes the primary mechanical process that increases the surface area of food in the stomach?",
+      "options": [
+        "Segmentation",
+        "Peristalsis",
+        "Churning",
+        "Peristaltic wave"
+      ],
+      "answer": 2,
+      "explanation": "Churning in the stomach mixes food with gastric secretions, breaking it into smaller particles and increasing surface area for enzymatic action.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "The enzyme responsible for chemical digestion of proteins in the stomach is secreted as an inactive zymogen. Which statement correctly pairs the enzyme with its activation site?",
+      "options": [
+        "Pepsinogen activated by HCl in the stomach lumen",
+        "Pepsinogen activated by trypsin in duodenum",
+        "Pepsin activated by HCl in the mouth",
+        "Pepsin activated by bile salts in the small intestine"
+      ],
+      "answer": 0,
+      "explanation": "Pepsinogen is secreted by chief cells and is converted to active pepsin by the acidic pH (HCl) in the stomach.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "Mechanical digestion in the oral cavity is primarily achieved by:",
+      "options": [
+        "Peristaltic contractions",
+        "Segmentation",
+        "Mastication",
+        "Churning"
+      ],
+      "answer": 2,
+      "explanation": "Mastication (chewing) physically breaks down food particles, increasing their surface area before swallowing.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "Which pH range provides optimal activity for salivary amylase during chemical digestion of carbohydrates?",
+      "options": [
+        "1.5-2.5",
+        "3.0-4.0",
+        "6.7-7.0",
+        "8.0-9.0"
+      ],
+      "answer": 2,
+      "explanation": "Salivary amylase functions best at near‑neutral pH (approximately 6.7–7.0) found in the mouth.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "In the small intestine, the mixing of chyme with pancreatic secretions and bile is an example of:",
+      "options": [
+        "Mechanical digestion by segmentation",
+        "Chemical digestion by brush border enzymes",
+        "Mechanical digestion by peristalsis",
+        "Chemical digestion by gastric acid"
+      ],
+      "answer": 0,
+      "explanation": "Segmentation contractions mix chyme with pancreatic enzymes and bile, a mechanical process that enhances chemical digestion.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "Which statement correctly distinguishes mechanical from chemical digestion?",
+      "options": [
+        "Mechanical digestion physically reduces particle size without altering chemical composition",
+        "Mechanical digestion involves hydrolysis of polymers",
+        "Chemical digestion only occurs in the mouth",
+        "Chemical digestion is independent of pH"
+      ],
+      "answer": 0,
+      "explanation": "Mechanical digestion is the physical breakdown of food without chemical change, whereas chemical digestion involves enzymatic hydrolysis.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "The coordinated rhythmic contractions that propel food through the gastrointestinal tract are called:",
+      "options": [
+        "Segmentation",
+        "Peristalsis",
+        "Churning",
+        "Mastication"
+      ],
+      "answer": 1,
+      "explanation": "Peristalsis is a wave-like muscular contraction that moves the bolus along the GI tract, a key mechanical process.",
+      "topic": "Mechanical and chemical digestion"
+    },
+    {
+      "question": "Which enzyme initiates carbohydrate digestion in the oral cavity?",
+      "options": [
+        "Salivary amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 0,
+      "explanation": "Salivary (ptyalin) amylase is secreted by the salivary glands and begins the hydrolysis of starches in the mouth.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "At which pH does salivary amylase exhibit maximal activity?",
+      "options": [
+        "6.8",
+        "2.0",
+        "7.4",
+        "5.0"
+      ],
+      "answer": 0,
+      "explanation": "Salivary amylase works best in slightly alkaline conditions, around pH 6.7‑7.0, which matches the oral cavity environment.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "Which lipase is secreted in the oral cavity but exerts its activity mainly in the stomach?",
+      "options": [
+        "Lingual lipase",
+        "Gastric lipase",
+        "Pancreatic lipase",
+        "Salivary lipase"
+      ],
+      "answer": 0,
+      "explanation": "Lingual lipase is released by the tongue; it remains inactive in the mouth and becomes active in the acidic gastric milieu.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "Chewing primarily enhances digestion efficiency by:",
+      "options": [
+        "Raising the temperature of the bolus",
+        "Increasing the surface area of food particles",
+        "Neutralizing the pH of the bolus",
+        "Releasing bile salts into the mouth"
+      ],
+      "answer": 1,
+      "explanation": "Mastication breaks food into smaller pieces, increasing surface area and allowing enzymes like salivary amylase to act more effectively.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "The main product formed when salivary amylase hydrolyses starch is:",
+      "options": [
+        "Glucose",
+        "Maltose",
+        "Sucrose",
+        "Fructose"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase cleaves α‑1,4 glycosidic bonds, producing maltose, maltotriose and dextrins as primary products.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "Which statement about the oral phase of digestion is FALSE?",
+      "options": [
+        "Mechanical breakdown begins with mastication",
+        "Salivary amylase requires acidic pH for activity",
+        "Lingual lipase is secreted by the tongue",
+        "The bolus is mixed with mucus to facilitate swallowing"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase functions optimally at neutral to slightly alkaline pH, not at acidic pH.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "A student swallows a piece of bread and a piece of boiled potato. Which will be digested faster in the mouth and why?",
+      "options": [
+        "Bread because it contains more starch",
+        "Boiled potato because cooking gelatinizes starch making it more accessible to amylase",
+        "Both equally because salivary amylase acts the same on all starches",
+        "Neither because digestion only occurs in the stomach"
+      ],
+      "answer": 1,
+      "explanation": "Cooking gelatinizes the starch in boiled potato, exposing more α‑1,4 bonds to salivary amylase, leading to faster hydrolysis compared with raw bread.",
+      "topic": "Digestion in mouth"
+    },
+    {
+      "question": "Which enzyme initiates carbohydrate digestion in the oral cavity?",
+      "options": [
+        "Salivary amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 0,
+      "explanation": "Salivary (ptyalin) amylase is secreted by the salivary glands and begins the hydrolysis of starch in the mouth.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "What is the optimal pH range for the activity of salivary amylase?",
+      "options": [
+        "pH 6.7–7.0",
+        "pH 2.0",
+        "pH 8.0",
+        "pH 5.0"
+      ],
+      "answer": 0,
+      "explanation": "Salivary amylase works best in a near‑neutral environment (approximately pH 6.7 to 7.0) found in the oral cavity.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "Which brush‑border enzyme hydrolyses the disaccharide lactose into its monosaccharide components?",
+      "options": [
+        "Lactase",
+        "Maltase",
+        "Sucrase",
+        "Isomaltase"
+      ],
+      "answer": 0,
+      "explanation": "Lactase, located on the microvilli of the small intestine, splits lactose into glucose and galactose.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "Pancreatic amylase primarily cleaves which type of glycosidic bond in dietary starch?",
+      "options": [
+        "α‑1,4 glycosidic bonds",
+        "β‑1,4 glycosidic bonds",
+        "α‑1,6 glycosidic bonds",
+        "β‑1,6 glycosidic bonds"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic amylase hydrolyses internal α‑1,4 linkages of starch, producing maltose, maltotriose and limit dextrins.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "The final products of starch digestion in the small intestine are:",
+      "options": [
+        "Only glucose",
+        "Glucose and galactose",
+        "Glucose, maltose and maltotriose",
+        "Only maltose"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic amylase and brush‑border maltases generate glucose, maltose and maltotriose; subsequent disaccharidases convert maltose and maltotriose to glucose.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "Deficiency of which enzyme leads to an inability to digest sucrose?",
+      "options": [
+        "Sucrase",
+        "Lactase",
+        "Maltase",
+        "Isomaltase"
+      ],
+      "answer": 0,
+      "explanation": "Sucrase (also called invertase) hydrolyses sucrose into glucose and fructose; its deficiency causes sucrose intolerance.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "Which statement correctly describes the role of pancreatic amylase compared to salivary amylase?",
+      "options": [
+        "Both function optimally at acidic pH",
+        "Pancreatic amylase continues starch digestion in the duodenum where the pH is alkaline",
+        "Salivary amylase is secreted by the pancreas",
+        "Pancreatic amylase hydrolyses β‑glycosidic linkages"
+      ],
+      "answer": 1,
+      "explanation": "After the acidic stomach, pancreatic amylase operates in the alkaline environment of the duodenum (pH ~7.5-8) to further digest starch.",
+      "topic": "Carbohydrate digestion"
+    },
+    {
+      "question": "Which salivary gland(s) secrete salivary amylase?",
+      "options": [
+        "Parotid gland",
+        "Submandibular gland",
+        "Sublingual gland",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Salivary amylase is produced by all major salivary glands – parotid, submandibular and sublingual.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "What is the approximate optimal pH for salivary amylase activity?",
+      "options": [
+        "2.0",
+        "4.5",
+        "6.7",
+        "8.0"
+      ],
+      "answer": 2,
+      "explanation": "Salivary amylase works best in the slightly alkaline environment of the mouth, around pH 6.5‑7.0.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "The primary substrate on which salivary amylase acts in the oral cavity is:",
+      "options": [
+        "Glycogen",
+        "Starch",
+        "Cellulose",
+        "Lactose"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase hydrolyses the α‑1,4‑glycosidic bonds of starch, producing maltose and dextrins.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "After the bolus reaches the stomach, salivary amylase activity:",
+      "options": [
+        "Continues because gastric pH remains optimal",
+        "Is completely inactivated by gastric acid",
+        "Remains partially active until the pH falls below 5",
+        "Is activated by pepsin"
+      ],
+      "answer": 2,
+      "explanation": "The enzyme retains some activity in the mildly acidic gastric juice, but it is rapidly inactivated when the pH drops below about 5.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "A person lacking functional salivary amylase would most likely exhibit which immediate effect after consuming a starchy meal?",
+      "options": [
+        "Inability to taste sweet",
+        "Delayed rise in blood glucose",
+        "Increased gastric acidity",
+        "Rapid weight loss"
+      ],
+      "answer": 1,
+      "explanation": "Without pre‑digestion of starch in the mouth, glucose appearance in blood is delayed because pancreatic amylase acts later in the duodenum.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "Which of the following reagents would most effectively inhibit salivary amylase activity in an in‑vitro assay?",
+      "options": [
+        "EDTA (a calcium chelator)",
+        "PMSF (serine protease inhibitor)",
+        "Iodoacetamide (cysteine protease inhibitor)",
+        "Phenylmethylsulfonyl fluoride"
+      ],
+      "answer": 0,
+      "explanation": "Salivary amylase requires Ca²⁺ for structural stability; chelation of Ca²⁺ by EDTA markedly reduces its activity.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "If the temperature of the reaction mixture containing salivary amylase and starch is raised from 37 °C to 50 °C, the enzyme activity will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain the same",
+        "First increase then sharply decrease after 45 °C"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase denatures at temperatures above its optimum (~37‑40 °C); thus activity falls at 50 °C.",
+      "topic": "Salivary amylase"
+    },
+    {
+      "question": "Which cells in the gastric mucosa are primarily responsible for secreting pepsinogen?",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "G cells",
+        "Enteroendocrine cells"
+      ],
+      "answer": 0,
+      "explanation": "Chief cells synthesize and release pepsinogen, the inactive precursor of pepsin, into the gastric lumen.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "The conversion of pepsinogen to active pepsin in the stomach is primarily triggered by:",
+      "options": [
+        "Low gastric pH (≈1.5–2)",
+        "Trypsin activation",
+        "Bile salts",
+        "Pancreatic lipase"
+      ],
+      "answer": 0,
+      "explanation": "The acidic environment (pH 1.5–2) denatures pepsinogen, causing it to autocatalytically cleave into active pepsin.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "What is the optimal pH range for the catalytic activity of gastric pepsin?",
+      "options": [
+        "1.5–2",
+        "3–4",
+        "5–6",
+        "7–8"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin exhibits maximal activity at highly acidic pH, typically between 1.5 and 2, matching the gastric lumen conditions.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "Which statement about gastric lipase is correct?",
+      "options": [
+        "It hydrolyzes triglycerides efficiently at acidic pH",
+        "It requires bile salts for activity",
+        "It is secreted by chief cells",
+        "It works best at neutral pH"
+      ],
+      "answer": 0,
+      "explanation": "Gastric lipase functions in the acidic gastric environment, hydrolyzing a portion of dietary triglycerides without the need for bile salts.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "Intrinsic factor, essential for vitamin B12 absorption, is secreted by:",
+      "options": [
+        "Parietal cells",
+        "Chief cells",
+        "G cells",
+        "D cells"
+      ],
+      "answer": 0,
+      "explanation": "Parietal cells produce intrinsic factor along with hydrochloric acid; intrinsic factor binds vitamin B12 for ileal absorption.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "Which hormone most directly stimulates hydrochloric acid secretion from parietal cells?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Motilin"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin, released from G cells, binds CCK‑B receptors on enterochromaffin‑like cells, leading to histamine release and subsequent HCl secretion by parietal cells.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "The primary roles of gastric hydrochloric acid include:",
+      "options": [
+        "Denaturation of proteins",
+        "Activation of pepsinogen to pepsin",
+        "Providing optimal pH for pepsin activity",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "HCl denatures dietary proteins, converts pepsinogen to pepsin, and creates the low‑pH environment required for maximal pepsin activity, thus all listed functions are correct.",
+      "topic": "Digestion in stomach"
+    },
+    {
+      "question": "Which enzyme initiates protein digestion in the stomach?",
+      "options": [
+        "Pepsin",
+        "Trypsin",
+        "Chymotrypsin",
+        "Carboxypeptidase"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin, secreted as pepsinogen and activated by gastric acid, is the primary proteolytic enzyme in the stomach.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Pepsinogen is converted to active pepsin by which of the following?",
+      "options": [
+        "Hydrochloric acid (HCl)",
+        "Calcium ions (Ca2+)",
+        "Enteropeptidase",
+        "Bile salts"
+      ],
+      "answer": 0,
+      "explanation": "The low pH created by HCl in the gastric lumen causes the conformational change of pepsinogen to active pepsin.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "What is the optimal pH range for pepsin activity?",
+      "options": [
+        "1.5–2.5",
+        "6.5–7.5",
+        "8.0–9.0",
+        "4.5–5.5"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin exhibits maximal catalytic efficiency in the highly acidic environment of the stomach, around pH 1.5 to 2.5.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Which pancreatic enzyme specifically cleaves peptide bonds on the carboxyl side of lysine and arginine residues?",
+      "options": [
+        "Trypsin",
+        "Chymotrypsin",
+        "Carboxypeptidase",
+        "Elastase"
+      ],
+      "answer": 0,
+      "explanation": "Trypsin hydrolyzes peptide bonds after basic amino acids lysine and arginine, making it essential for protein breakdown in the duodenum.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Enterokinase (enteropeptidase) is located on which structure?",
+      "options": [
+        "Brush border membrane of duodenal enterocytes",
+        "Chief cells of gastric glands",
+        "Acinar cells of pancreas",
+        "Hepatocytes of liver"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase is a membrane‑bound enzyme on the duodenal brush border that activates trypsinogen to trypsin.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Carboxypeptidase removes which part of a peptide chain?",
+      "options": [
+        "N‑terminal amino acid",
+        "C‑terminal amino acid",
+        "An internal peptide bond",
+        "A phosphate group"
+      ],
+      "answer": 1,
+      "explanation": "Carboxypeptidases are exopeptidases that cleave single amino acids from the C‑terminal end of peptide chains.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Which statement about peptide absorption in the small intestine is correct?",
+      "options": [
+        "Dipeptides are absorbed by Na⁺‑dependent active transporters",
+        "Free amino acids are absorbed solely by passive diffusion",
+        "Tripeptides cannot be absorbed and must be fully hydrolyzed",
+        "Peptides enter the bloodstream unchanged"
+      ],
+      "answer": 0,
+      "explanation": "The intestinal epithelium possesses Na⁺‑dependent cotransporters that actively take up dipeptides and tripeptides, after which they are hydrolyzed intracellularly.",
+      "topic": "Protein digestion"
+    },
+    {
+      "question": "Which statement correctly describes the secretion and activation of pepsin in the stomach?",
+      "options": [
+        "It is secreted as an active enzyme directly into the gastric lumen.",
+        "It is secreted as pepsinogen and activated by gastric HCl.",
+        "It is secreted as pepsinogen and activated by pancreatic trypsin.",
+        "It is secreted as an inactive enzyme and activated by bile salts."
+      ],
+      "answer": 1,
+      "explanation": "Pepsin is synthesized and stored as the inactive zymogen pepsinogen in chief cells; the acidic gastric juice (HCl) cleaves the pro‑segment, converting it to active pepsin.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Pepsin is primarily secreted by which type of gastric cell?",
+      "options": [
+        "Chief (zymogenic) cells",
+        "Parietal (oxyntic) cells",
+        "G cells",
+        "Enteroendocrine cells"
+      ],
+      "answer": 0,
+      "explanation": "Chief cells located in the gastric mucosa synthesize and release pepsinogen, the precursor of pepsin.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Pepsin preferentially cleaves peptide bonds adjacent to which group of amino acids?",
+      "options": [
+        "Aromatic residues such as phenylalanine, tyrosine and tryptophan",
+        "Basic residues such as lysine and arginine",
+        "Acidic residues such as aspartate and glutamate",
+        "Proline residues"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin shows a preference for cleaving peptide bonds on the N‑terminal side of aromatic amino acids, owing to the hydrophobic nature of its active site.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "What is the approximate optimal pH for pepsin activity?",
+      "options": [
+        "1.5–2.0",
+        "4.0–5.0",
+        "6.0–7.0",
+        "8.0–9.0"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin exhibits maximal catalytic efficiency at highly acidic pH, typically around 1.5 to 2, which corresponds to the gastric lumen environment.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Which condition would most likely lead to the inactivation of pepsin?",
+      "options": [
+        "Presence of 0.1 M HCl",
+        "Gastric pH of 2",
+        "Gastric pH of 7",
+        "Co‑presence of calcium ions"
+      ],
+      "answer": 2,
+      "explanation": "Pepsin denatures and loses activity at neutral or alkaline pH; a pH of about 7 causes conformational changes that inactivate the enzyme.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Pepsin contributes to protein digestion mainly in which part of the gastrointestinal tract?",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Duodenum",
+        "Jejunum"
+      ],
+      "answer": 1,
+      "explanation": "Pepsin functions in the acidic environment of the stomach, initiating the breakdown of dietary proteins before they reach the small intestine.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Which of the following statements about the catalytic mechanism of pepsin is FALSE?",
+      "options": [
+        "Pepsin is classified as an aspartic protease.",
+        "Its active site contains two aspartate residues that activate a water molecule for nucleophilic attack.",
+        "It uses a serine residue in its active site to perform nucleophilic attack.",
+        "It works optimally at acidic pH."
+      ],
+      "answer": 2,
+      "explanation": "Pepsin, an aspartic protease, employs two aspartate residues to polarize water for peptide bond hydrolysis; it does not use a serine residue, which is characteristic of serine proteases.",
+      "topic": "Pepsin"
+    },
+    {
+      "question": "Which pancreatic enzyme secreted into the duodenum primarily hydrolyzes dietary starches into maltose and dextrins?",
+      "options": [
+        "Pancreatic amylase",
+        "Trypsin",
+        "Pancreatic lipase",
+        "Pancreatic nuclease"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic amylase is released by the pancreas into the duodenum where it cleaves α‑1,4‑glycosidic bonds of starch, producing maltose and short dextrins.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "Bile salts aid fat digestion in the small intestine mainly by:",
+      "options": [
+        "Emulsifying large fat globules into smaller droplets",
+        "Activating pancreatic lipase directly",
+        "Providing a cofactor for micelle formation",
+        "Inhibiting cholesterol absorption"
+      ],
+      "answer": 0,
+      "explanation": "Bile salts are amphipathic molecules that emulsify dietary fats, increasing surface area for pancreatic lipase action and facilitating micelle formation.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "The optimal pH range for most pancreatic enzymes operating in the duodenum is:",
+      "options": [
+        "6.0‑6.5",
+        "7.0‑8.0",
+        "8.0‑8.5",
+        "5.0‑5.5"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic secretions function best in a slightly alkaline environment; the duodenal pH is maintained around 7.0‑8.0 by bicarbonate.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "Enterokinase (enteropeptidase) is located on the brush border of the duodenum and its primary function is to:",
+      "options": [
+        "Convert trypsinogen to active trypsin",
+        "Activate chymotrypsinogen to chymotrypsin",
+        "Activate pepsinogen to pepsin",
+        "Activate bile salts"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase cleaves a specific peptide bond in trypsinogen, generating active trypsin, which then activates other pancreatic proteases.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "Disaccharidases that hydrolyze sucrose, lactose and maltose are anchored to:",
+      "options": [
+        "Microvilli (brush border) of small‑intestinal epithelial cells",
+        "Pancreatic acinar cells",
+        "Hepatocyte membranes",
+        "Gastric chief cells"
+      ],
+      "answer": 0,
+      "explanation": "Disaccharidases such as sucrase‑isomaltase, lactase‑phlorizin hydrolase and maltase are integral membrane enzymes of the brush border.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "Which of the following is NOT a final product of carbohydrate digestion in the small intestine?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Galactose",
+        "Maltose"
+      ],
+      "answer": 3,
+      "explanation": "Carbohydrate digestion yields monosaccharides—glucose, fructose and galactose. Maltose is a disaccharide that must be further hydrolyzed by maltase.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "The efficient hydrolysis of dietary triglycerides by pancreatic lipase requires the presence of:",
+      "options": [
+        "Colipase",
+        "Bile salts",
+        "Hormone‑sensitive lipase",
+        "Gastric lipase"
+      ],
+      "answer": 0,
+      "explanation": "Colipase binds to pancreatic lipase and anchors it to the lipid‑water interface, allowing lipase to act despite the presence of bile salts.",
+      "topic": "Digestion in small intestine"
+    },
+    {
+      "question": "From which part of the pancreas is pancreatic amylase secreted?",
+      "options": [
+        "Acinar cells of pancreas",
+        "Salivary glands",
+        "Liver",
+        "Stomach"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic amylase is synthesized and secreted by the acinar cells of the exocrine pancreas into the pancreatic ducts.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "What is the approximate optimal pH for pancreatic amylase activity in the duodenum?",
+      "options": [
+        "pH 6.0-6.5",
+        "pH 2.0",
+        "pH 7.0-7.5",
+        "pH 5.0"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic amylase exhibits maximal activity around neutral to slightly alkaline pH (≈7.0‑7.5), matching the duodenal environment.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "Which type of biomolecule is the primary substrate for pancreatic amylase?",
+      "options": [
+        "Disaccharides",
+        "Polysaccharides (starch, glycogen)",
+        "Proteins",
+        "Lipids"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic amylase hydrolyzes α‑1,4‑glycosidic bonds in polysaccharides such as starch and glycogen.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "The main products formed when pancreatic amylase acts on dietary starch are:",
+      "options": [
+        "Maltose and maltotriose",
+        "Glucose only",
+        "Lactose",
+        "Sucrose"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic amylase cleaves starch into maltose (disaccharide) and maltotriose (trisaccharide), which are later converted to glucose by brush‑border enzymes.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "Which statement correctly distinguishes pancreatic amylase from salivary amylase?",
+      "options": [
+        "Both have same optimal pH",
+        "Pancreatic amylase is secreted into duodenum",
+        "Salivary amylase hydrolyzes peptide bonds",
+        "Pancreatic amylase is inhibited by bile salts"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic amylase is released by the pancreas into the duodenum, whereas salivary amylase is secreted into the oral cavity.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "In a patient with pancreatic exocrine insufficiency, stool analysis is most likely to show:",
+      "options": [
+        "Increased maltose in stool",
+        "Decreased reducing sugars in stool",
+        "Presence of undigested starch in stool",
+        "Increased lipase activity in stool"
+      ],
+      "answer": 2,
+      "explanation": "Lack of pancreatic amylase leads to incomplete starch digestion, resulting in undigested starch appearing in the feces.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "Elevated serum amylase is a diagnostic marker for pancreatitis. Which isoenzyme contributes most to this rise?",
+      "options": [
+        "Salivary amylase",
+        "Pancreatic amylase",
+        "Intestinal maltase",
+        "Hepatic amylase"
+      ],
+      "answer": 1,
+      "explanation": "Serum amylase elevation in pancreatitis is primarily due to leakage of pancreatic amylase into the bloodstream.",
+      "topic": "Pancreatic amylase"
+    },
+    {
+      "question": "Which enzyme converts the inactive zymogen trypsinogen into active trypsin in the duodenum?",
+      "options": [
+        "Enterokinase (enteropeptidase)",
+        "Pepsin",
+        "Pancreatic lipase",
+        "Salivary amylase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase, present on the duodenal brush border, cleaves a specific peptide bond in trypsinogen to generate active trypsin.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "Trypsin preferentially cleaves peptide bonds on the carboxyl side of which type of amino acid residues?",
+      "options": [
+        "Aromatic residues such as phenylalanine, tyrosine, tryptophan",
+        "Basic residues such as lysine and arginine",
+        "Acidic residues such as aspartate and glutamate",
+        "Proline residues at the N‑terminal side"
+      ],
+      "answer": 1,
+      "explanation": "Trypsin’s specificity pocket accommodates positively charged side chains, so it hydrolyzes bonds after basic residues Lys and Arg.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "At which pH does chymotrypsin exhibit its maximal catalytic activity in the small intestine?",
+      "options": [
+        "pH 2",
+        "pH 5",
+        "pH 7.5",
+        "pH 8.5"
+      ],
+      "answer": 3,
+      "explanation": "Chymotrypsin, like other pancreatic serine proteases, works best in a slightly alkaline environment; its optimum is around pH 8–8.5.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "What amino‑acid residues form the catalytic triad common to both trypsin and chymotrypsin?",
+      "options": [
+        "Serine, Histidine, Aspartate",
+        "Serine, Lysine, Glutamate",
+        "Cysteine, Histidine, Aspartate",
+        "Aspartate, Histidine, Serine"
+      ],
+      "answer": 0,
+      "explanation": "The serine protease mechanism relies on a triad of Ser‑195, His‑57, and Asp‑102 that act together to cleave peptide bonds.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "Which natural inhibitor prevents premature activation of trypsin within the pancreas?",
+      "options": [
+        "Bile salts",
+        "Pancreatic lipase",
+        "Pancreatic trypsin inhibitor (PTI)",
+        "Enterokinase"
+      ],
+      "answer": 2,
+      "explanation": "PTI (also called pancreatic secretory trypsin inhibitor) binds any accidentally activated trypsin, protecting pancreatic tissue from autodigestion.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "Which statement best describes the combined action of trypsin and chymotrypsin in the duodenum?",
+      "options": [
+        "They hydrolyze peptide bonds at the carboxyl side of aromatic and basic residues, producing smaller peptides for peptidases.",
+        "They convert disaccharides into monosaccharides for absorption.",
+        "They emulsify dietary fats to increase surface area for lipase action.",
+        "They neutralize gastric acid by releasing bicarbonate ions."
+      ],
+      "answer": 0,
+      "explanation": "Both enzymes cleave internal peptide bonds—trypsin after basic residues and chymotrypsin after aromatic residues—generating oligopeptides that are further digested by brush‑border peptidases.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "Which sequence correctly represents the activation cascade of pancreatic proteases?",
+      "options": [
+        "Enterokinase → trypsinogen → trypsin → chymotrypsinogen → chymotrypsin",
+        "Trypsin → enterokinase → chymotrypsinogen → chymotrypsin",
+        "Chymotrypsinogen → chymotrypsin → trypsinogen → trypsin",
+        "Enterokinase → chymotrypsinogen → chymotrypsin → trypsinogen → trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase first activates trypsinogen to trypsin; active trypsin then cleaves chymotrypsinogen to form active chymotrypsin, establishing a proteolytic cascade.",
+      "topic": "Trypsin and chymotrypsin"
+    },
+    {
+      "question": "Carboxypeptidase secreted by the pancreas belongs to which class of proteolytic enzymes?",
+      "options": [
+        "Endopeptidase",
+        "Exopeptidase",
+        "Lipase",
+        "Nuclease"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic carboxypeptidase removes amino acids from the C‑terminal end of peptide chains, classifying it as an exopeptidase.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "What is the approximate optimal pH for pancreatic carboxypeptidase activity in the duodenum?",
+      "options": [
+        "pH 2.0",
+        "pH 4.5",
+        "pH 7.5",
+        "pH 9.0"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic carboxypeptidase functions best in the slightly alkaline environment of the small intestine, around pH 7.5.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "Which metal ion acts as an essential cofactor for the catalytic activity of carboxypeptidase?",
+      "options": [
+        "Mg²⁺",
+        "Zn²⁺",
+        "Ca²⁺",
+        "Fe²⁺"
+      ],
+      "answer": 1,
+      "explanation": "Carboxypeptidases are zinc metalloproteases; Zn²⁺ is required for their catalytic mechanism.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "Carboxypeptidase removes amino acids from which terminus of a peptide chain?",
+      "options": [
+        "N‑terminal end",
+        "C‑terminal end",
+        "Internal peptide bonds",
+        "Both N‑ and C‑terminal ends"
+      ],
+      "answer": 1,
+      "explanation": "By definition, carboxypeptidases cleave the peptide bond at the C‑terminal (carboxyl) end of the substrate.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "During protein digestion, which enzyme acts after trypsin and chymotrypsin to release free amino acids?",
+      "options": [
+        "Pepsin",
+        "Carboxypeptidase",
+        "Amylase",
+        "Lactase"
+      ],
+      "answer": 1,
+      "explanation": "Trypsin and chymotrypsin generate shorter peptides; carboxypeptidase then removes terminal amino acids, completing protein digestion.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "Which statement correctly distinguishes carboxypeptidase A from carboxypeptidase B?",
+      "options": [
+        "Carboxypeptidase A removes C‑terminal basic residues, while B removes aromatic residues",
+        "Carboxypeptidase A removes C‑terminal aromatic residues, while B removes basic residues",
+        "Both enzymes have identical substrate specificity",
+        "Carboxypeptidase A is secreted by the stomach"
+      ],
+      "answer": 1,
+      "explanation": "Carboxypeptidase A preferentially hydrolyses peptide bonds with aromatic (Phe, Tyr, Trp) C‑terminal residues, whereas carboxypeptidase B prefers basic residues (Lys, Arg).",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "A deficiency of pancreatic carboxypeptidase would most likely lead to accumulation of which type of peptide fragments in the small intestine?",
+      "options": [
+        "Peptides ending with aromatic residues",
+        "Peptides ending with basic residues",
+        "Free amino acids",
+        "Disaccharides"
+      ],
+      "answer": 0,
+      "explanation": "Without carboxypeptidase A, peptides that terminate with aromatic amino acids are not efficiently cleaved, causing their accumulation.",
+      "topic": "Carboxypeptidase"
+    },
+    {
+      "question": "Which lipase is secreted by the pancreas and requires colipase and bile salts for its activity?",
+      "options": [
+        "Pancreatic lipase",
+        "Gastric lipase",
+        "Lingual lipase",
+        "Intestinal lipase"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic lipase is produced by the pancreas; its activity on dietary triglycerides depends on the presence of the protein cofactor colipase and bile salts that keep the fat droplets emulsified.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "What is the optimal pH range for maximal activity of pancreatic lipase in the small intestine?",
+      "options": [
+        "pH 2-3",
+        "pH 4-5",
+        "pH 7-8",
+        "pH 9-10"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic lipase functions best in the slightly alkaline environment of the duodenum, around pH 7 to 8.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "The primary products formed when pancreatic lipase hydrolyzes dietary triglycerides are:",
+      "options": [
+        "Free fatty acids and 2‑monoacylglycerol",
+        "Glycerol and free fatty acids",
+        "Diglycerides and free fatty acids",
+        "Cholesterol and fatty acids"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic lipase cleaves two ester bonds of a triglyceride, yielding two free fatty acids and one 2‑monoacylglycerol, which are then absorbed.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "Which statement correctly describes the role of colipase in fat digestion?",
+      "options": [
+        "It donates electrons to the substrate",
+        "It is a protein cofactor that anchors pancreatic lipase to the lipid‑water interface",
+        "It is a bile salt that emulsifies fats",
+        "It acts as an inhibitor of lipase activity"
+      ],
+      "answer": 1,
+      "explanation": "Colipase binds to pancreatic lipase and to the surface of emulsified fat droplets, allowing the enzyme to remain attached and active despite the presence of bile salts.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "A deficiency of which organ’s lipase most commonly leads to steatorrhea in humans?",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Stomach",
+        "Small intestine"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic lipase deficiency, often due to pancreatic exocrine insufficiency, results in poor fat digestion and the passage of fatty stools (steatorrhea).",
+      "topic": "Lipase"
+    },
+    {
+      "question": "In the presence of bile salts, the substrate on which pancreatic lipase acts is primarily present as:",
+      "options": [
+        "Micelles",
+        "Emulsified fat droplets",
+        "Free fatty acids",
+        "Glycerol"
+      ],
+      "answer": 1,
+      "explanation": "Bile salts emulsify dietary fats into fine droplets, increasing the surface area for pancreatic lipase to act; the enzyme works at the surface of these emulsified droplets.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "Which of the following best describes the catalytic action of pancreatic lipase?",
+      "options": [
+        "It hydrolyzes ester bonds of triglycerides, releasing fatty acids and monoacylglycerol",
+        "It transfers a phosphate group to triglycerides",
+        "It oxidizes fatty acids to aldehydes",
+        "It cleaves peptide bonds in proteins"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic lipase catalyzes the hydrolysis of the ester linkages in triglycerides, producing free fatty acids and 2‑monoacylglycerol, which are then absorbed.",
+      "topic": "Lipase"
+    },
+    {
+      "question": "Which nuclease secreted by the pancreas functions optimally at the alkaline pH of the small intestine?",
+      "options": [
+        "Pancreatic RNase",
+        "Pancreatic DNase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic RNase (RNase A) is secreted by the pancreas and exhibits maximal activity around pH 7.5‑8, the pH of the duodenum.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "Endonucleases differ from exonucleases because they:",
+      "options": [
+        "cleave internal phosphodiester bonds",
+        "require ATP for activity",
+        "act only on DNA",
+        "produce nucleosides directly"
+      ],
+      "answer": 0,
+      "explanation": "Endonucleases cut phosphodiester bonds within the nucleic‑acid chain, whereas exonucleases remove nucleotides sequentially from the ends.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "The final products of nucleic‑acid digestion after pancreatic nucleases and brush‑border enzymes are:",
+      "options": [
+        "Nucleotides",
+        "Nucleosides and free bases",
+        "Amino acids",
+        "Fatty acids and glycerol"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic nucleases generate nucleotides; intestinal nucleotidases remove the phosphate, yielding nucleosides, and nucleosidases release the free bases.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "Which metal ion is an essential cofactor for most nucleases acting in the small intestine?",
+      "options": [
+        "Mg2+",
+        "Ca2+",
+        "Fe2+",
+        "Zn2+"
+      ],
+      "answer": 0,
+      "explanation": "Mg2+ stabilises the negative charges on the phosphate backbone and is required for the catalytic activity of many nucleases.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "In the small‑intestine brush‑border, the enzyme that converts nucleotides to nucleosides is:",
+      "options": [
+        "Nucleotidase",
+        "Nucleosidase",
+        "Phosphatase",
+        "Peptidase"
+      ],
+      "answer": 0,
+      "explanation": "Nucleotidases hydrolyse the 5'‑phosphate from nucleotides, producing nucleosides; nucleosidases act later to release the free bases.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "Pancreatic DNase primarily hydrolyses DNA to produce:",
+      "options": [
+        "5'-monophosphate nucleotides",
+        "3'-phosphate nucleotides",
+        "Only single‑stranded DNA fragments",
+        "Only double‑stranded DNA fragments"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic DNase cleaves phosphodiester bonds yielding nucleotides with a 5'‑phosphate group.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "The optimal pH for activity of pancreatic RNase is closest to:",
+      "options": [
+        "2.0",
+        "5.5",
+        "7.5",
+        "9.0"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic RNase (RNase A) shows maximal activity around neutral to slightly alkaline pH (~7.5), matching the duodenal environment.",
+      "topic": "Nucleases"
+    },
+    {
+      "question": "Which intestinal enzyme activates pancreatic trypsinogen to trypsin in the duodenum?",
+      "options": [
+        "Enterokinase (enteropeptidase)",
+        "Maltase",
+        "Sucrase",
+        "Intestinal lipase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase, located on the duodenal brush border, cleaves the activation peptide from trypsinogen, converting it to active trypsin.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "The optimal pH at which intestinal maltase exhibits maximal activity is:",
+      "options": [
+        "pH 2.0",
+        "pH 4.5",
+        "pH 6.5",
+        "pH 8.0"
+      ],
+      "answer": 2,
+      "explanation": "Disaccharidases such as maltase function best at the near‑neutral pH (≈6.5–7.0) found in the small intestine.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "Which enzyme secreted by the intestinal brush border hydrolyzes residual triglycerides in the lumen?",
+      "options": [
+        "Pancreatic lipase",
+        "Intestinal lipase",
+        "Gastric lipase",
+        "Hormone‑sensitive lipase"
+      ],
+      "answer": 1,
+      "explanation": "Intestinal lipase, produced by enterocytes, acts on triglycerides that escape pancreatic lipase, completing fat digestion.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "Brush‑border nucleotidases that convert nucleotides to nucleosides require which metal ion as a cofactor?",
+      "options": [
+        "Mg²⁺",
+        "Zn²⁺",
+        "Ca²⁺",
+        "No cofactor is required"
+      ],
+      "answer": 0,
+      "explanation": "Nucleotidases are phosphatases that need Mg²⁺ for optimal catalytic activity.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "Which brush‑border enzyme specifically hydrolyzes dipeptides into free amino acids?",
+      "options": [
+        "Aminopeptidase",
+        "Dipeptidase",
+        "Carboxypeptidase",
+        "Endopeptidase"
+      ],
+      "answer": 1,
+      "explanation": "Dipeptidases present on the intestinal microvilli cleave dipeptides into their constituent amino acids.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "Intestinal sucrase catalyzes the hydrolysis of which disaccharide?",
+      "options": [
+        "Maltose",
+        "Lactose",
+        "Sucrose",
+        "Starch"
+      ],
+      "answer": 2,
+      "explanation": "Sucrase acts on sucrose, splitting it into glucose and fructose during carbohydrate digestion.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "The brush‑border enzyme that converts maltose into two glucose molecules is:",
+      "options": [
+        "Maltase",
+        "Lactase",
+        "Sucrase",
+        "Isomaltase"
+      ],
+      "answer": 0,
+      "explanation": "Maltase hydrolyzes maltose (α‑1,4‑glucose dimer) into two glucose units, completing starch digestion.",
+      "topic": "Intestinal enzymes"
+    },
+    {
+      "question": "Enterokinase is primarily found on the surface of which part of the gastrointestinal tract?",
+      "options": [
+        "Salivary glands",
+        "Gastric chief cells",
+        "Brush border of duodenum",
+        "Pancreatic acinar cells"
+      ],
+      "answer": 2,
+      "explanation": "Enterokinase (enteropeptidase) is a membrane‑bound enzyme located on the microvilli of the duodenal brush border, where it initiates protein digestion.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "The immediate substrate acted upon by enterokinase is:",
+      "options": [
+        "Pepsinogen",
+        "Trypsinogen",
+        "Chymotrypsinogen",
+        "Procarboxypeptidase"
+      ],
+      "answer": 1,
+      "explanation": "Enterokinase specifically cleaves and activates trypsinogen to trypsin; other pancreatic zymogens are activated downstream by trypsin.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "Enterokinase recognizes and cleaves which peptide sequence to activate trypsinogen?",
+      "options": [
+        "Lys‑Arg",
+        "Asp‑Asp‑Asp‑Asp‑Lys",
+        "Arg‑Ser",
+        "Phe‑Leu"
+      ],
+      "answer": 1,
+      "explanation": "The enzyme cleaves after the Lys in the DDDDK (Asp‑Asp‑Asp‑Asp‑Lys) sequence at the C‑terminus of trypsinogen, generating active trypsin.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "A congenital deficiency of enterokinase most likely results in:",
+      "options": [
+        "Hyperamylasemia",
+        "Steatorrhea due to fat malabsorption",
+        "Protein malabsorption with low serum trypsin levels",
+        "Excess gastric acid secretion"
+      ],
+      "answer": 2,
+      "explanation": "Without enterokinase, trypsinogen is not converted to trypsin, leading to poor activation of other pancreatic proteases and consequent protein malabsorption; serum trypsin is markedly reduced.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "Enterokinase belongs to which class of proteolytic enzymes?",
+      "options": [
+        "Aspartic protease",
+        "Cysteine protease",
+        "Serine protease",
+        "Metalloprotease"
+      ],
+      "answer": 2,
+      "explanation": "Enterokinase is a serine protease; its catalytic mechanism involves a serine residue in the active site.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "In the cascade of pancreatic enzyme activation, the role of enterokinase is best described as:",
+      "options": [
+        "Directly hydrolyzing dietary proteins",
+        "Converting procarboxypeptidase to its active form",
+        "Activating trypsinogen, which then activates other zymogens",
+        "Inhibiting trypsin to prevent autodigestion"
+      ],
+      "answer": 2,
+      "explanation": "Enterokinase activates trypsinogen to trypsin; the generated trypsin then activates other pancreatic zymogens such as chymotrypsinogen, procarboxypeptidase, and proelastase.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "Enterokinase is anchored to the intestinal mucosa as:",
+      "options": [
+        "A soluble secreted protein",
+        "A transmembrane glycoprotein",
+        "A lipid droplet-associated enzyme",
+        "A cytosolic enzyme"
+      ],
+      "answer": 1,
+      "explanation": "Enterokinase is a type II transmembrane glycoprotein; its catalytic domain faces the lumen of the intestine while the anchor spans the enterocyte membrane.",
+      "topic": "Enterokinase or enteropeptidase"
+    },
+    {
+      "question": "Which peptidase is anchored to the microvillar membrane of the small intestine and removes single amino acids from the N‑terminus of oligopeptides?",
+      "options": [
+        "Aminopeptidase N",
+        "Carboxypeptidase A",
+        "Dipeptidase",
+        "Trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Aminopeptidase N is a brush‑border enzyme that cleaves N‑terminal amino acids from oligopeptides during intestinal protein digestion.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "The brush‑border enzyme dipeptidase primarily hydrolyzes which type of substrate?",
+      "options": [
+        "Peptide bonds between two aromatic amino acids",
+        "Peptide bonds at the C‑terminal end of polypeptides",
+        "Peptide bonds in dipeptides",
+        "Peptide bonds in proteins larger than 10 kDa"
+      ],
+      "answer": 2,
+      "explanation": "Dipeptidase specifically hydrolyzes the peptide bond of dipeptides, releasing free amino acids.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "Which peptidase requires zinc as a cofactor for its catalytic activity?",
+      "options": [
+        "Carboxypeptidase A",
+        "Aminopeptidase N",
+        "Dipeptidase",
+        "Enteropeptidase"
+      ],
+      "answer": 0,
+      "explanation": "Carboxypeptidase A is a zinc‑dependent metallo‑enzyme that removes C‑terminal residues from peptides.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "In the small intestine, activation of trypsinogen to trypsin is catalyzed by which enzyme, and what is the subsequent role of peptidases?",
+      "options": [
+        "Enterokinase; they further hydrolyze oligopeptides to free amino acids",
+        "Pancreatic lipase; they emulsify fats for absorption",
+        "Chymotrypsin; they cleave peptide bonds at aromatic residues",
+        "Pepsin; they function optimally at acidic pH"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase (enteropeptidase) converts trypsinogen to trypsin, and the resulting active proteases generate oligopeptides that are finally broken down to amino acids by intestinal peptidases.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "Which statement about pancreatic carboxypeptidase B is correct?",
+      "options": [
+        "It removes C‑terminal aromatic amino acids",
+        "It removes C‑terminal basic amino acids",
+        "It removes N‑terminal acidic amino acids",
+        "It is active at the acidic pH of the stomach"
+      ],
+      "answer": 1,
+      "explanation": "Carboxypeptidase B preferentially cleaves basic residues (lysine or arginine) from the C‑terminal end of peptide chains.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "The optimal pH for intestinal peptidases such as aminopeptidase N is:",
+      "options": [
+        "pH 2",
+        "pH 5",
+        "pH 7–8",
+        "pH 9–10"
+      ],
+      "answer": 2,
+      "explanation": "Intestinal peptidases function best in the neutral to slightly alkaline environment (pH 7–8) of the small intestine.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "Which peptidase is responsible for the final step of protein digestion by cleaving the peptide bond adjacent to the terminal amino acid of dipeptides?",
+      "options": [
+        "Dipeptidase",
+        "Aminopeptidase N",
+        "Carboxypeptidase A",
+        "Trypsin"
+      ],
+      "answer": 0,
+      "explanation": "Dipeptidase hydrolyzes dipeptides into two free amino acids, completing protein digestion in the brush border.",
+      "topic": "Peptidases"
+    },
+    {
+      "question": "Which disaccharidase hydrolyzes sucrose into glucose and fructose?",
+      "options": [
+        "Maltase",
+        "Sucrase",
+        "Lactase",
+        "Isomaltase"
+      ],
+      "answer": 1,
+      "explanation": "Sucrase specifically cleaves the α‑1,2 glycosidic bond of sucrose, yielding one molecule each of glucose and fructose.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "The inability to digest lactose in many individuals is due to deficiency of which brush‑border enzyme?",
+      "options": [
+        "Sucrase",
+        "Lactase",
+        "Maltase",
+        "Trehalase"
+      ],
+      "answer": 1,
+      "explanation": "Lactase hydrolyzes lactose into glucose and galactose; its reduced activity causes lactose intolerance.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "Which of the following disaccharidases exhibits optimal activity at pH 6.0–6.5 in the small intestine?",
+      "options": [
+        "Lactase",
+        "Maltase",
+        "Sucrase",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Brush‑border disaccharidases (lactase, maltase, sucrase) function best in the slightly acidic environment of the intestinal lumen, around pH 6.0–6.5.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "A newborn with a genetic defect in the gene encoding which enzyme will accumulate which disaccharide in the intestinal lumen?",
+      "options": [
+        "Lactase – lactose",
+        "Sucrase – sucrose",
+        "Maltase – maltose",
+        "Isomaltase – isomaltose"
+      ],
+      "answer": 0,
+      "explanation": "A defect in lactase prevents hydrolysis of lactose, leading to its accumulation and symptoms of lactose intolerance.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "Which disaccharidase is primarily responsible for hydrolyzing the α‑1,6 glycosidic bond present in isomaltose?",
+      "options": [
+        "Maltase",
+        "Sucrase",
+        "Isomaltase",
+        "Lactase"
+      ],
+      "answer": 2,
+      "explanation": "Isomaltase specifically cleaves α‑1,6 linkages such as those in isomaltose, converting it to glucose units.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "In the jejunal brush border, a mutation that reduces expression of transcription factor CDX2 would most likely decrease activity of which enzymes?",
+      "options": [
+        "Lactase",
+        "Sucrase",
+        "Maltase",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "CDX2 regulates several intestinal genes, including those encoding lactase, sucrase, and maltase; its down‑regulation lowers all their activities.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "A patient with chronic pancreatitis shows normal pancreatic amylase but persistent malabsorption of disaccharides. The most probable cause is:",
+      "options": [
+        "Deficiency of brush‑border disaccharidases",
+        "Inadequate bile salt secretion",
+        "Reduced gastric acidity",
+        "Impaired intestinal motility"
+      ],
+      "answer": 0,
+      "explanation": "Since pancreatic amylase is normal, the problem lies in the intestinal phase; deficiency of brush‑border disaccharidases prevents disaccharide breakdown, leading to malabsorption.",
+      "topic": "Disaccharidases"
+    },
+    {
+      "question": "Where is intestinal lipase secreted from in the gastrointestinal tract?",
+      "options": [
+        "Chief cells of the pancreas",
+        "Goblet cells of the stomach",
+        "Enterocytes of the duodenum",
+        "Salivary glands"
+      ],
+      "answer": 2,
+      "explanation": "Intestinal lipase is produced by the enterocytes lining the duodenum and proximal jejunum, not by pancreatic or salivary tissues.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "At which pH does intestinal lipase exhibit its maximal catalytic activity?",
+      "options": [
+        "pH 6.0",
+        "pH 7.5",
+        "pH 8.0",
+        "pH 9.5"
+      ],
+      "answer": 1,
+      "explanation": "The optimal pH for intestinal lipase is around neutral to slightly alkaline (≈7.5), matching the environment of the upper small intestine.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "Compared with pancreatic lipase, intestinal lipase preferentially hydrolyzes which type of triglycerides?",
+      "options": [
+        "Long-chain triglycerides",
+        "Medium-chain triglycerides",
+        "Short-chain triglycerides",
+        "Phospholipids"
+      ],
+      "answer": 2,
+      "explanation": "Intestinal lipase is more efficient at hydrolyzing short-chain triglycerides, whereas pancreatic lipase acts on long-chain triglycerides.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "Which substance is essential for the optimal activity of intestinal lipase in the lumen of the small intestine?",
+      "options": [
+        "Calcium ions",
+        "Bile salts",
+        "Coenzyme A",
+        "Magnesium ions"
+      ],
+      "answer": 1,
+      "explanation": "Bile salts emulsify dietary fats and provide a suitable interface for intestinal lipase to act, enhancing its activity.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "A deficiency of intestinal lipase would most likely lead to which of the following findings in stool?",
+      "options": [
+        "Increased protein content",
+        "Increased carbohydrate content",
+        "Increased fat content (steatorrhea)",
+        "Increased nucleic acid content"
+      ],
+      "answer": 2,
+      "explanation": "Without intestinal lipase, triglycerides are not efficiently hydrolyzed, resulting in fat malabsorption and steatorrhea.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "The principal product formed when intestinal lipase hydrolyzes dietary triglycerides is:",
+      "options": [
+        "Free fatty acids only",
+        "2-Monoacylglycerol",
+        "Glycerol",
+        "Phosphatidic acid"
+      ],
+      "answer": 1,
+      "explanation": "Intestinal lipase cleaves the ester bonds at the sn‑1 and sn‑3 positions, yielding free fatty acids and 2‑monoacylglycerol; the latter is the main absorbable product.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "Why is intestinal lipase less dependent on colipase than pancreatic lipase?",
+      "options": [
+        "It is secreted in an active form",
+        "It does not require calcium for activity",
+        "It acts on already emulsified fats due to bile salts",
+        "It is inhibited by bile salts"
+      ],
+      "answer": 2,
+      "explanation": "Bile salts already emulsify fats in the duodenum, allowing intestinal lipase to act directly without the need for colipase, which is required by pancreatic lipase for anchoring to the lipid-water interface.",
+      "topic": "Intestinal lipase"
+    },
+    {
+      "question": "Which of the following correctly describes the reaction catalyzed by intestinal nucleotidases?",
+      "options": [
+        "Hydrolysis of nucleotides to nucleosides and inorganic phosphate",
+        "Hydrolysis of nucleosides to free bases and ribose",
+        "Phosphorylation of nucleosides to nucleotides",
+        "Deamination of nucleobases to uric acid"
+      ],
+      "answer": 0,
+      "explanation": "Nucleotidases cleave the phospho‑ester bond of a nucleotide, yielding a nucleoside and a free phosphate ion, which is the last step before absorption of nucleic acid digestion products.",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "Nucleosidases present in the small intestine primarily convert which substrate into its constituent base and ribose?",
+      "options": [
+        "Nucleotides",
+        "Nucleosides",
+        "Nucleic acids",
+        "Phospholipids"
+      ],
+      "answer": 1,
+      "explanation": "Nucleosidases hydrolyze the N‑glycosidic bond of nucleosides, releasing the free nitrogenous base and ribose (or deoxyribose).",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "The enzyme that removes a phosphate group from the 5' position of a nucleotide is called:",
+      "options": [
+        "3'-nucleotidase",
+        "5'-nucleotidase",
+        "nucleosidase",
+        "phosphodiesterase"
+      ],
+      "answer": 1,
+      "explanation": "5'-nucleotidase specifically acts on the 5'‑phosphate of nucleotides, producing the corresponding nucleoside and inorganic phosphate.",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "Which of the following statements correctly differentiates nucleotidases from nucleosidases?",
+      "options": [
+        "Nucleotidases act on nucleic acids, whereas nucleosidases act on nucleotides.",
+        "Nucleotidases produce nucleosides, while nucleosidases produce free bases.",
+        "Nucleotidases require ATP, while nucleosidases do not.",
+        "Nucleotidases function only in the liver, whereas nucleosidases function only in the intestine."
+      ],
+      "answer": 1,
+      "explanation": "Nucleotidases hydrolyze nucleotides to nucleosides + phosphate; nucleosidases further hydrolyze nucleosides to free bases + ribose.",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "The optimal pH for intestinal nucleotidases and nucleosidases is closest to:",
+      "options": [
+        "pH 2-3",
+        "pH 5-6",
+        "pH 7-8",
+        "pH 9-10"
+      ],
+      "answer": 2,
+      "explanation": "These brush‑border enzymes function best in the slightly alkaline environment of the small intestine (pH ~7–8).",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "In the digestion of dietary nucleic acids, the final absorbable products after the action of nucleotidases and nucleosidases are:",
+      "options": [
+        "Nucleotides",
+        "Nucleosides",
+        "Free nitrogenous bases",
+        "Amino acids"
+      ],
+      "answer": 2,
+      "explanation": "The sequential action of nucleotidases and nucleosidases yields free purine and pyrimidine bases, which are the forms absorbed across the intestinal epithelium.",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "Which enzyme is most likely to be inhibited by a deficiency of zinc, affecting the final step of nucleic acid digestion?",
+      "options": [
+        "5'-nucleotidase",
+        "Nucleosidase",
+        "RNA polymerase",
+        "DNA ligase"
+      ],
+      "answer": 1,
+      "explanation": "Nucleosidases are metallo‑enzymes that commonly require Zn²⁺ as a cofactor; zinc deficiency can impair their activity, reducing conversion of nucleosides to bases.",
+      "topic": "Nucleotidases and nucleosidases"
+    },
+    {
+      "question": "Which monosaccharide is the primary end product of carbohydrate digestion that is absorbed into the bloodstream?",
+      "options": [
+        "Glucose",
+        "Maltose",
+        "Sucrose",
+        "Lactose"
+      ],
+      "answer": 0,
+      "explanation": "Salivary and pancreatic amylases break down polysaccharides to maltose and isomaltose, which are further hydrolyzed by brush‑border maltase to glucose, the main monosaccharide absorbed.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "Pancreatic lipase, acting with bile salts, converts dietary triglycerides into which of the following absorbable products?",
+      "options": [
+        "Triglycerides",
+        "Free fatty acids and monoglycerides",
+        "Phospholipids",
+        "Cholesterol esters"
+      ],
+      "answer": 1,
+      "explanation": "Lipase hydrolyzes triglycerides at the sn‑1 and sn‑3 positions, yielding two free fatty acids and one 2‑monoacylglycerol; these micellar products are taken up by enterocytes.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "Brush‑border peptidases in the small intestine primarily convert which of the following into absorbable molecules?",
+      "options": [
+        "Polypeptides to dipeptides",
+        "Dipeptides to free amino acids",
+        "Amino acids to ammonia",
+        "Peptides to nucleotides"
+      ],
+      "answer": 1,
+      "explanation": "Aminopeptidases and dipeptidases on the intestinal microvilli hydrolyze di‑ and tripeptides to individual amino acids, the form that can be transported across the epithelium.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "The final absorbable products of dietary nucleic acid digestion are:",
+      "options": [
+        "Nucleotides",
+        "Nucleosides",
+        "Free nitrogenous bases",
+        "Both nucleosides and free bases"
+      ],
+      "answer": 3,
+      "explanation": "Nucleotidases first remove phosphate, giving nucleosides; nucleosidases then cleave the N‑glycosidic bond, releasing free bases. Both nucleosides and bases are taken up by the intestinal cells.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "Which statement correctly describes a feature of the final products of fat digestion?",
+      "options": [
+        "Fatty acids are absorbed as intact triglycerides",
+        "Monoglycerides are re‑esterified in enterocytes before entering the lymph",
+        "Glycerol is not absorbed from the intestine",
+        "Only saturated fatty acids are absorbed"
+      ],
+      "answer": 1,
+      "explanation": "After absorption, monoglycerides and free fatty acids are re‑esterified to triglycerides within enterocytes and packaged into chylomicrons for lymphatic transport.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "Which monosaccharides are directly absorbed across the intestinal epithelium after carbohydrate digestion?",
+      "options": [
+        "Glucose only",
+        "Fructose only",
+        "Galactose only",
+        "Glucose, fructose and galactose"
+      ],
+      "answer": 3,
+      "explanation": "Brush‑border enzymes generate glucose, fructose and galactose; all three are transported via SGLT1 (glucose, galactose) or GLUT5 (fructose) into enterocytes.",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "After complete digestion of a mixed meal, which combination of molecules enters the portal circulation?",
+      "options": [
+        "Glucose only",
+        "Amino acids only",
+        "Fatty acids only",
+        "Glucose, amino acids, fatty acids and glycerol"
+      ],
+      "answer": 3,
+      "explanation": "Carbohydrate digestion yields glucose, protein digestion yields amino acids, and fat digestion provides free fatty acids and glycerol; all are absorbed into the portal blood (except long‑chain fatty acids, which enter lymph as chylomicrons).",
+      "topic": "Final products of digestion"
+    },
+    {
+      "question": "What is the primary role of bile salts in the digestion of dietary fats?",
+      "options": [
+        "Emulsification of large lipid droplets into smaller ones",
+        "Activation of pancreatic lipase",
+        "Hydrolysis of triglycerides into free fatty acids",
+        "Transport of fatty acids across the intestinal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Bile salts are amphipathic molecules that surround lipid droplets, breaking them into smaller droplets (emulsification), thereby increasing the surface area for pancreatic lipase action.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "Which structural feature of bile salts makes them amphipathic?",
+      "options": [
+        "A steroid nucleus with a hydrophilic side‑chain (e.g., conjugated glycine/taurine)",
+        "A long saturated fatty‑acid chain",
+        "A peptide bond linking amino acids",
+        "A disulfide bridge between two cysteine residues"
+      ],
+      "answer": 0,
+      "explanation": "The steroid nucleus is largely hydrophobic, while the conjugated side‑chain (glycine or taurine) is hydrophilic, giving bile salts their amphipathic character.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "The critical micelle concentration (CMC) of bile salts refers to:",
+      "options": [
+        "The temperature at which bile salts denature",
+        "The minimum concentration required for micelle formation",
+        "The concentration at which bile salts become toxic to enterocytes",
+        "A value that does not change with bile‑salt composition"
+      ],
+      "answer": 1,
+      "explanation": "CMC is defined as the lowest concentration of amphipathic molecules at which they spontaneously aggregate to form micelles.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "Which transporter mediates the active reabsorption of bile salts from the lumen of the ileum?",
+      "options": [
+        "Apical sodium‑dependent bile acid transporter (ASBT)",
+        "Na+/K+‑ATPase",
+        "GLUT2",
+        "PEPT1"
+      ],
+      "answer": 0,
+      "explanation": "ASBT located on the apical membrane of ileal enterocytes actively transports conjugated bile acids back into the cell, enabling enterohepatic circulation.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "Conjugation of bile acids with glycine or taurine primarily enhances:",
+      "options": [
+        "Their solubility in the aqueous intestinal lumen",
+        "Their ability to hydrolyze triglycerides",
+        "Their resistance to bacterial deconjugation",
+        "Their capacity to bind dietary cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Glycine or taurine conjugation adds a polar group, markedly increasing the water solubility of bile acids, which is essential for micelle formation.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "How do bile salts influence the activity of pancreatic lipase during fat digestion?",
+      "options": [
+        "They act as essential cofactors that increase enzyme activity",
+        "They competitively inhibit the enzyme",
+        "They do not directly affect the enzyme but increase substrate availability by emulsifying fats",
+        "They denature the enzyme at high concentrations"
+      ],
+      "answer": 2,
+      "explanation": "Bile salts do not alter the catalytic activity of pancreatic lipase; instead, by emulsifying fats they provide a larger surface area, allowing the enzyme to act more efficiently.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "What is the main function of mixed micelles formed by bile salts in the intestinal lumen?",
+      "options": [
+        "To ferry monoglycerides and free fatty acids to the brush‑border membrane for absorption",
+        "To hydrolyze triglycerides into free fatty acids",
+        "To neutralize gastric acid entering the duodenum",
+        "To synthesize cholesterol esters"
+      ],
+      "answer": 0,
+      "explanation": "Mixed micelles solubilize the products of lipolysis (monoglycerides, fatty acids, cholesterol) and transport them to the enterocyte surface, facilitating their uptake.",
+      "topic": "Role of bile salts in fat digestion"
+    },
+    {
+      "question": "Which component of bile is primarily responsible for emulsifying dietary fats in the duodenum?",
+      "options": [
+        "Bile acids (bile salts)",
+        "Cholesterol",
+        "Phospholipids",
+        "Bilirubin"
+      ],
+      "answer": 0,
+      "explanation": "Bile acids, present as conjugated bile salts, have amphipathic molecules that surround fat droplets and break them into smaller droplets, achieving emulsification.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "Emulsification of fats increases the rate of digestion by pancreatic lipase because it:",
+      "options": [
+        "Increases the surface area of fat droplets",
+        "Lowers the pH to the optimum for lipase",
+        "Provides a co‑factor required by lipase",
+        "Converts triglycerides directly into monoglycerides"
+      ],
+      "answer": 0,
+      "explanation": "Smaller droplets created by emulsification present a larger total surface area, allowing pancreatic lipase to act on more triglyceride molecules simultaneously.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "Which statement about micelle formation during fat digestion is correct?",
+      "options": [
+        "Micelles are formed only in the stomach",
+        "Micelles contain fatty acids, monoglycerides, bile salts and cholesterol",
+        "Micelles are large aggregates visible to the naked eye",
+        "Micelles transport digested fats to the pancreas"
+      ],
+      "answer": 1,
+      "explanation": "Micelles are tiny, soluble aggregates formed in the intestinal lumen that consist of bile salts surrounding fatty acids, monoglycerides and a small amount of cholesterol, facilitating their transport to the intestinal brush border.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "The amphipathic nature of bile salts is due to:",
+      "options": [
+        "A hydrophobic steroid nucleus and a hydrophilic side chain",
+        "A long fatty‑acid chain and a polar head group",
+        "A peptide backbone and a carbohydrate side chain",
+        "A phosphate group only"
+      ],
+      "answer": 0,
+      "explanation": "Bile salts possess a rigid, hydrophobic steroid ring system and a hydrophilic conjugated side chain (often with a sulfonate group), giving them both water‑soluble and lipid‑soluble properties.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "In the absence of bile salts, which step of dietary triglyceride digestion would be most impaired?",
+      "options": [
+        "Hydrolysis by gastric lipase",
+        "Hydrolysis by pancreatic lipase",
+        "Absorption of monoglycerides in the ileum",
+        "Synthesis of chylomicrons in enterocytes"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic lipase requires emulsified fat droplets to access triglycerides efficiently; without bile salts, the substrate surface area is insufficient, markedly reducing pancreatic lipase activity.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "Why are bile salts not reabsorbed in the stomach?",
+      "options": [
+        "At gastric pH they remain ionised and cannot cross the mucosa",
+        "They are too large to pass through gastric epithelium",
+        "They are actively secreted only into the duodenum",
+        "They are degraded by gastric acid"
+      ],
+      "answer": 0,
+      "explanation": "The acidic gastric environment keeps bile salts ionised, preventing passive diffusion; active reabsorption occurs mainly in the distal ileum where the pH is neutral to slightly alkaline.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "The critical micelle concentration (CMC) of bile salts is important because:",
+      "options": [
+        "It determines the pH at which bile salts become active",
+        "It is the minimum concentration required for micelle formation to aid fat digestion",
+        "It indicates the amount of cholesterol excreted in bile",
+        "It reflects the rate of bile production by the liver"
+      ],
+      "answer": 1,
+      "explanation": "CMC is the lowest concentration at which bile salts aggregate into micelles; concentrations below CMC cannot form micelles, limiting the solubilisation and transport of lipid digestion products.",
+      "topic": "Emulsification of fats"
+    },
+    {
+      "question": "What is the approximate pH of the gastric lumen during active secretion of gastric juice?",
+      "options": [
+        "1.5‑2.5",
+        "3‑4",
+        "5‑6",
+        "7‑8"
+      ],
+      "answer": 0,
+      "explanation": "Hydrochloric acid secreted by parietal cells lowers gastric pH to about 1.5‑2.5, providing the acidic environment required for pepsin activity.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "In which part of the digestive tract is the pH around 6.8‑7.2, the optimal range for pancreatic amylase?",
+      "options": [
+        "Stomach",
+        "Duodenum",
+        "Mouth",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic secretions mix with duodenal contents, raising the pH to near neutral (6.8‑7.2), which is ideal for pancreatic amylase to hydrolyse starch.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "Salivary amylase exhibits maximal activity at which pH?",
+      "options": [
+        "pH 2.0",
+        "pH 6.7",
+        "pH 8.0",
+        "pH 9.5"
+      ],
+      "answer": 1,
+      "explanation": "The oral cavity has a slightly alkaline pH (~6.7‑7.0); salivary amylase is adapted to work best at this pH.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "Pepsin shows maximal catalytic activity at which pH?",
+      "options": [
+        "pH 2",
+        "pH 4",
+        "pH 6",
+        "pH 8"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin, the principal gastric protease, is most active in strongly acidic conditions, with an optimum around pH 2.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "What is the typical pH of the jejunal lumen?",
+      "options": [
+        "pH 5.5",
+        "pH 6.5",
+        "pH 7.5",
+        "pH 8.5"
+      ],
+      "answer": 2,
+      "explanation": "By the time chyme reaches the jejunum, bicarbonate neutralises the acid, resulting in a slightly alkaline pH of about 7.5, suitable for intestinal enzymes.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "Why does pancreatic bicarbonate raise the pH of duodenal contents?",
+      "options": [
+        "To inactivate pepsin",
+        "To provide optimal pH for pancreatic enzymes",
+        "To facilitate glucose absorption",
+        "To stimulate bile secretion"
+      ],
+      "answer": 1,
+      "explanation": "Neutralising gastric acid creates an alkaline environment (pH 7‑8) that allows pancreatic enzymes such as trypsin, lipase and amylase to function efficiently.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "Which digestive enzyme has its optimum activity at an alkaline pH (~8) in the small intestine?",
+      "options": [
+        "Pepsin",
+        "Salivary amylase",
+        "Trypsin",
+        "Gastric lipase"
+      ],
+      "answer": 2,
+      "explanation": "Trypsin, secreted by the pancreas and activated in the duodenum, works best at alkaline pH (~8), enabling efficient protein digestion.",
+      "topic": "pH conditions in different regions"
+    },
+    {
+      "question": "Which enzyme‑substrate pair correctly matches the site and optimal pH in the human digestive tract?",
+      "options": [
+        "Salivary amylase – starch – pH 7.0",
+        "Pepsin – peptide bonds – pH 2.0",
+        "Pancreatic lipase – triglycerides – pH 8.0",
+        "Intestinal disaccharidases – disaccharides – pH 6.0"
+      ],
+      "answer": 1,
+      "explanation": "Pepsin is secreted as pepsinogen in the stomach and becomes active at the highly acidic pH (~2) optimal for protein cleavage.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "A peptide hormone is secreted as an inactive zymogen and requires activation by an enzyme that cleaves a specific dipeptide sequence. Which combination reflects this activation step in the small intestine?",
+      "options": [
+        "Enterokinase – activation of trypsinogen",
+        "Trypsin – activation of chymotrypsinogen",
+        "Carboxypeptidase – activation of pepsinogen",
+        "Pancreatic amylase – activation of maltase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase (enteropeptidase) present on the duodenal brush border cleaves a specific peptide bond in trypsinogen, converting it to active trypsin.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "Which statement best describes the integrated role of bile salts and pancreatic lipase in fat digestion?",
+      "options": [
+        "Bile salts hydrolyze triglycerides, while pancreatic lipase emulsifies fats.",
+        "Bile salts form micelles that increase surface area for pancreatic lipase to act on triglycerides.",
+        "Bile salts inhibit pancreatic lipase to prevent excessive fat breakdown.",
+        "Bile salts convert fatty acids into monoglycerides, which are then acted upon by pancreatic lipase."
+      ],
+      "answer": 1,
+      "explanation": "Bile salts emulsify fats and create mixed micelles, presenting triglyceride droplets to pancreatic lipase, which then hydrolyses them into monoglycerides and free fatty acids.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "In the small intestine, the disaccharidase sucrase hydrolyzes sucrose into which specific products, and which transporter subsequently absorbs them?",
+      "options": [
+        "Glucose and fructose; absorbed by Na⁺‑glucose transporter (SGLT1)",
+        "Glucose and galactose; absorbed by GLUT2",
+        "Fructose and galactose; absorbed by GLUT5",
+        "Glucose and fructose; absorbed by GLUT5"
+      ],
+      "answer": 0,
+      "explanation": "Sucrase splits sucrose into glucose and fructose; glucose is taken up by the Na⁺‑glucose cotransporter SGLT1, while fructose uses GLUT5.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "Which enzyme‑substrate interaction is incorrectly paired regarding its optimal pH and location?",
+      "options": [
+        "Pepsin – peptide bonds – stomach, pH 2",
+        "Pancreatic amylase – starch – duodenum, pH 7.5",
+        "Intestinal maltase – maltose – jejunum, pH 6.0",
+        "Gastric lipase – triglycerides – stomach, pH 8.0"
+      ],
+      "answer": 3,
+      "explanation": "Gastric lipase functions best in the acidic environment of the stomach (pH ~3‑4), not at pH 8.0.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "A patient has a deficiency of enterokinase. Which downstream digestive process will be most directly impaired?",
+      "options": [
+        "Hydrolysis of dietary proteins in the stomach",
+        "Activation of pancreatic proteases in the duodenum",
+        "Emulsification of dietary fats",
+        "Absorption of monosaccharides in the ileum"
+      ],
+      "answer": 1,
+      "explanation": "Enterokinase activates trypsinogen to trypsin; without it, activation of other pancreatic proteases (trypsin, chymotrypsin, elastase, carboxypeptidase) is severely reduced.",
+      "topic": "Integrated enzyme-substrate understanding"
+    },
+    {
+      "question": "Which of the following correctly pairs an intestinal brush‑border enzyme with its specific substrate and the product formed?",
+      "options": [
+        "Lactase – lactose – glucose + galactose",
+        "Maltase – maltose – glucose + galactose",
+        "Sucrase – sucrose – glucose + galactose",
+        "Nucleotidase – nucleotides – nucleosides + phosphate"
+      ],
+      "answer": 0,
+      "explanation": "Lactase hydrolyses lactose into one molecule each of glucose and galactose; the other pairings are mismatched.",
+      "topic": "Integrated enzyme-substrate understanding"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 25,
+    "mcqCount": 175
+  }
+}

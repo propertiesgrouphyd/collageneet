@@ -1,0 +1,1309 @@
+{
+  "day": 15,
+  "courseDate": "2026-09-13",
+  "publishAt": "2026-09-13T06:00:00+05:30",
+  "title": "Day 15: Integrated Revision of Cell Structure and Function",
+  "introduction": "This lesson consolidates all cellular concepts from Days 11‑14, linking cell theory, organelle architecture, biomolecules, enzymes and cell division to NEET‑style problem solving.",
+  "sections": [
+    {
+      "topic": "Cell theory revision",
+      "heading": "Fundamentals and Evolution of Cell Theory",
+      "content": "The cell theory rests on three postulates: (i) all living organisms are composed of cells, (ii) the cell is the basic unit of life, and (iii) all cells arise from pre‑existing cells. Historical milestones—from Hooke’s discovery of cork cells to Schleiden, Schwann and Virchow—are illustrated in NCERT diagrams. Complete cell organisation includes the plasma membrane, cytoplasm, nucleus and organelles, each contributing to the functional integrity of the cell.",
+      "keyPoints": [
+        "Three postulates of cell theory",
+        "Historical contributors and dates",
+        "NCERT schematic of a typical animal and plant cell"
+      ],
+      "neetTips": [
+        "Memorise the three postulates verbatim; they appear in statement‑based NEET questions",
+        "Link each postulate to a specific cellular component for quick recall"
+      ]
+    },
+    {
+      "topic": "Prokaryotic and eukaryotic cells",
+      "heading": "Structural and Functional Contrasts",
+      "content": "Prokaryotes lack a true nucleus and membrane‑bound organelles, possessing a nucleoid region, ribosomes (70S) and often a cell wall containing peptidoglycan. Eukaryotes have a nucleus, linear chromosomes, and diverse organelles. The comparison extends to plant versus animal cells: plant cells contain a rigid cell wall, large central vacuole, chloroplasts, whereas animal cells have centrioles and lysosomes. These distinctions are essential for answering prokaryote‑eukaryote comparison statements.",
+      "keyPoints": [
+        "Absence of nucleus in prokaryotes",
+        "Presence of membrane‑bound organelles in eukaryotes",
+        "Plant cell unique features vs animal cell"
+      ],
+      "neetTips": [
+        "Create a two‑column table for quick visual comparison; NEET often uses ‘All EXCEPT’ format"
+      ]
+    },
+    {
+      "topic": "Cell organelles",
+      "heading": "Structure‑Function Matching of Organelles",
+      "content": "Each organelle exhibits a specific architecture that underlies its role: nucleus (double membrane, nucleolus – DNA storage and transcription), mitochondria (double membrane, cristae – ATP synthesis), chloroplasts (thylakoids, stroma – photosynthesis), ER (ribosome‑studded – protein synthesis), Golgi (cis‑trans stacks – modification and sorting), lysosome (hydrolytic enzymes – degradation). Many organelles are semiautonomous, containing their own DNA and ribosomes, supporting the endosymbiotic theory.",
+      "keyPoints": [
+        "Nucleus: genetic control",
+        "Mitochondria & chloroplasts: double membranes, own DNA",
+        "ER‑Golgi pathway"
+      ],
+      "neetTips": [
+        "Link organelle shape to function; e.g., cristae increase surface area for oxidative phosphorylation"
+      ]
+    },
+    {
+      "topic": "Endomembrane system",
+      "heading": "Integration of Membrane‑Bound Compartments",
+      "content": "The endomembrane system comprises the nuclear envelope, ER, Golgi apparatus, vesicles, lysosomes, and plasma membrane. Proteins synthesized on rough ER are packaged into vesicles, modified in Golgi, and dispatched to their destinations. This continuous network ensures coordinated trafficking and membrane renewal, a concept frequently tested through diagram‑labeling questions.",
+      "keyPoints": [
+        "Components of the endomembrane system",
+        "Protein trafficking route",
+        "Vesicular transport"
+      ],
+      "neetTips": [
+        "Practice drawing the flow from rough ER → Golgi → secretory vesicle → plasma membrane"
+      ]
+    },
+    {
+      "topic": "Mitochondria",
+      "heading": "Powerhouse and Genetic Legacy",
+      "content": "Mitochondria generate ATP via oxidative phosphorylation; inner membrane folds (cristae) house the electron transport chain. They possess circular DNA, ribosomes (70S) and can synthesize a subset of proteins, classifying them as semiautonomous. Comparison with chloroplasts highlights similarities (double membrane, own DNA) and differences (site of ATP generation vs photosynthesis).",
+      "keyPoints": [
+        "Oxidative phosphorylation steps",
+        "Mitochondrial DNA characteristics",
+        "Mitochondria vs chloroplast"
+      ],
+      "neetTips": [
+        "Remember the mnemonic ‘Mito‑CHLOR’ – Mitochondria: CO₂, H₂O, Light‑independent"
+      ]
+    },
+    {
+      "topic": "Plastids",
+      "heading": "Diverse Plant Organelles",
+      "content": "Plastids include chloroplasts, chromoplasts and leucoplasts. Chloroplasts conduct photosynthesis (thylakoid stacks – granum). Chromoplasts store carotenoids, giving fruit colour; leucoplasts store starch, oils or proteins. All plastids share a double membrane and a vestigial genome, supporting the endosymbiotic origin.",
+      "keyPoints": [
+        "Types of plastids and their pigments",
+        "Thylakoid arrangement in chloroplasts",
+        "Semiautonomous nature"
+      ],
+      "neetTips": [
+        "Link each plastid type to a visible plant example – e.g., carrot (chromoplast)"
+      ]
+    },
+    {
+      "topic": "Cytoskeleton",
+      "heading": "Framework for Shape and Movement",
+      "content": "The cytoskeleton consists of microfilaments (actin), intermediate filaments and microtubules (tubulin). Functions include maintaining cell shape, intracellular transport, and chromosome segregation during mitosis. In plant cells, microtubules guide cell‑plate formation; in animal cells, actin filaments drive muscle contraction and cytokinesis.",
+      "keyPoints": [
+        "Three filament types and composition",
+        "Role in cell division",
+        "Plant vs animal cytoskeletal functions"
+      ],
+      "neetTips": [
+        "Visualise the spindle apparatus as microtubules pulling sister chromatids – a frequent diagram question"
+      ]
+    },
+    {
+      "topic": "Biomolecules",
+      "heading": "Comparative Overview of Cellular Macromolecules",
+      "content": "Cellular biomolecules are classified as carbohydrates, lipids, proteins and nucleic acids. Carbohydrates provide quick energy; lipids form membranes and store energy; proteins perform catalysis, transport and signaling; nucleic acids store genetic information. Comparative tables of monomer‑polymer relationships, functional groups and examples aid rapid recall.",
+      "keyPoints": [
+        "Monomer‑polymer examples for each class",
+        "Key functional groups",
+        "Energy vs structural roles"
+      ],
+      "neetTips": [
+        "Use the ‘CHON’ mnemonic to remember the four major biomolecule categories"
+      ]
+    },
+    {
+      "topic": "Enzymes",
+      "heading": "Catalytic Principles and Regulation",
+      "content": "Enzymes are protein catalysts that lower activation energy. They exhibit specificity via the lock‑and‑key or induced‑fit models, follow Michaelis‑Menten kinetics, and are regulated by competitive, non‑competitive inhibitors and allosteric effectors. Understanding enzyme concepts is vital for statement‑based NEET items on Vmax, Km and temperature‑pH effects.",
+      "keyPoints": [
+        "Lock‑and‑key vs induced‑fit"
+      ],
+      "neetTips": [
+        "Memorise the Michaelis‑Menten equation and its graphical interpretation"
+      ]
+    },
+    {
+      "topic": "Cell cycle",
+      "heading": "Ordered Sequence from G1 to M Phase",
+      "content": "The cell cycle comprises G1 (cell growth), S (DNA synthesis), G2 (pre‑mitotic growth) and M (mitosis). Checkpoints at G1/S and G2/M ensure DNA integrity, mediated by cyclins and CDKs. Disruption leads to uncontrolled proliferation, a core concept for cancer‑related NEET questions.",
+      "keyPoints": [
+        "Four phases and key events"
+      ],
+      "neetTips": [
+        "Associate each phase with a landmark event – e.g., DNA replication in S phase"
+      ]
+    },
+    {
+      "topic": "Mitosis",
+      "heading": "Sequence and Biological Significance",
+      "content": "Mitosis proceeds through prophase, metaphase, anaphase, telophase, followed by cytokinesis. It ensures equal segregation of sister chromatids, producing two genetically identical diploid daughter cells—essential for growth and tissue repair. Diagrammatic representation of each stage is a staple of NEET exams.",
+      "keyPoints": [
+        "Four stages and chromosome behaviour"
+      ],
+      "neetTips": [
+        "Remember ‘PMAT’ – the order of mitotic phases"
+      ]
+    },
+    {
+      "topic": "Meiosis",
+      "heading": "Two‑Division Process and Genetic Variation",
+      "content": "Meiosis I (reductional) separates homologous chromosomes; Meiosis II (equational) separates sister chromatids, yielding four haploid gametes. Crossing over during prophase I creates recombinant chromosomes, increasing genetic variation. Understanding the sequence and significance is crucial for NEET genetics questions.",
+      "keyPoints": [
+        "Meiosis I vs II differences"
+      ],
+      "neetTips": [
+        "Link crossing over to chiasmata formation in prophase I diagrams"
+      ]
+    },
+    {
+      "topic": "Integrated NEET practice",
+      "heading": "Application‑Based Revision and Statement Questions",
+      "content": "This final section consolidates NCERT diagrams, statement‑based NEET questions and mixed conceptual problems covering all previous topics. Practice includes matching organelles to functions, interpreting cell‑cycle checkpoint scenarios, and solving enzyme kinetics statements. Emphasis on time‑bound, concept‑driven answering strategies prepares students for the NEET exam.",
+      "keyPoints": [
+        "Integrated practice strategies"
+      ],
+      "neetTips": [
+        "Attempt at least five statement‑based questions daily; review explanations to reinforce concepts"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Integrate cellular structure, organelle functions, biomolecule roles and cell‑division mechanisms into a cohesive NEET‑ready framework",
+    "Apply this integrated knowledge to solve statement‑based and diagrammatic NEET questions efficiently"
+  ],
+  "mcqs": [
+    {
+      "question": "Who proposed the principle that all cells arise from pre‑existing cells?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Robert Hooke",
+        "Rudolf Virchow"
+      ],
+      "answer": 3,
+      "explanation": "Rudolf Virchow introduced the concept 'Omnis cellula e cellula' in 1855, stating that new cells originate only from existing cells.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "Which statement is NOT included in the original cell theory formulated by Schleiden and Schwann?",
+      "options": [
+        "All living organisms are composed of one or more cells",
+        "The cell is the basic unit of structure and function",
+        "All cells contain a nucleus",
+        "All cells arise from pre‑existing cells"
+      ],
+      "answer": 2,
+      "explanation": "The original cell theory did not claim that every cell has a nucleus; prokaryotic cells lacking nuclei were unknown at that time.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "In which year did Schleiden and Schwann publish their seminal works that together formed the cell theory?",
+      "options": [
+        "1838",
+        "1839",
+        "1845",
+        "1855"
+      ],
+      "answer": 1,
+      "explanation": "Schleiden's work on plant cells appeared in 1838 and Schwann's on animal cells in 1839, together establishing the cell theory.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "The addition of which concept led to the modern extension of the cell theory to include heredity?",
+      "options": [
+        "Discovery of DNA as genetic material",
+        "Observation of mitosis in animal cells",
+        "Discovery of chromosomes as carriers of genetic information",
+        "Observation of plasmids in bacteria"
+      ],
+      "answer": 2,
+      "explanation": "The identification of chromosomes as the carriers of genetic material expanded the cell theory to recognize the cell as the unit of heredity.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "According to the contemporary view of cell theory, viruses are considered:",
+      "options": [
+        "Living cells capable of independent metabolism",
+        "Non‑living entities that can replicate only inside a host cell",
+        "Autonomous cellular organisms",
+        "Organelles within host cells"
+      ],
+      "answer": 1,
+      "explanation": "Viruses lack cellular organization and metabolic activity outside a host, so they are classified as non‑living, though they can reproduce within host cells.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "Which scientist first used the term \"cell\" after observing cork tissue under a microscope?",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "answer": 0,
+      "explanation": "Robert Hooke coined the word \"cell\" in 1665 when he described the box‑like structures in thin slices of cork.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "Which statement best reflects the modern interpretation of \"the cell is the basic unit of life\" in multicellular organisms?",
+      "options": [
+        "Each cell functions independently without interaction",
+        "Cells are the smallest unit that can carry out all life processes",
+        "Cells can perform metabolic functions but not genetic functions",
+        "Cells are the smallest unit that can maintain homeostasis and reproduce"
+      ],
+      "answer": 3,
+      "explanation": "A cell is the minimal entity that can exhibit all characteristics of life, including metabolism, homeostasis, growth, and reproduction, especially within the context of multicellular organisms.",
+      "topic": "Cell theory revision"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes prokaryotic cells from eukaryotic cells?",
+      "options": [
+        "Prokaryotes possess a membrane‑bound nucleus",
+        "Eukaryotes have linear chromosomes",
+        "Prokaryotes contain mitochondria",
+        "Eukaryotes lack ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cells have linear chromosomes housed within a nucleus, whereas prokaryotic chromosomes are typically circular and not enclosed by a membrane.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "In a typical bacterial cell, the genetic material is organized as:",
+      "options": [
+        "Multiple linear chromosomes",
+        "A single circular chromosome",
+        "Multiple circular plasmids only",
+        "Linear DNA within a nucleoid region"
+      ],
+      "answer": 1,
+      "explanation": "Most bacteria contain one circular chromosome that resides in the nucleoid; plasmids are additional small circular DNA molecules but not the main genome.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which organelle is present in eukaryotic cells but absent in prokaryotes, and is directly involved in the synthesis of lipids and detoxification?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosome",
+        "Peroxisome",
+        "Chloroplast"
+      ],
+      "answer": 2,
+      "explanation": "Peroxisomes are membrane‑bound organelles found only in eukaryotes; they carry out β‑oxidation of fatty acids and detoxify hydrogen peroxide.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "The simultaneous occurrence of transcription and translation is characteristic of:",
+      "options": [
+        "Eukaryotic nucleus",
+        "Prokaryotic cytoplasm",
+        "Mitochondria",
+        "Chloroplast"
+      ],
+      "answer": 1,
+      "explanation": "In prokaryotes, there is no nuclear membrane separating DNA from ribosomes, so mRNA is translated while it is being synthesized.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which cell type is most likely to contain internal membrane‑bound thylakoids?",
+      "options": [
+        "Gram‑positive bacteria",
+        "Archaea",
+        "Plant cells",
+        "Animal cells"
+      ],
+      "answer": 2,
+      "explanation": "Thylakoids are membrane stacks within chloroplasts, which are present in plant (and some algal) eukaryotic cells.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "The usual size range of prokaryotic cells is:",
+      "options": [
+        "0.1–0.5 µm",
+        "0.5–5 µm",
+        "5–10 µm",
+        "10–100 µm"
+      ],
+      "answer": 1,
+      "explanation": "Most bacteria measure between 0.5 and 5 micrometres in diameter; this distinguishes them from the generally larger eukaryotic cells.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which statement about the endomembrane system is true when comparing prokaryotes and eukaryotes?",
+      "options": [
+        "Both have a well‑developed endoplasmic reticulum",
+        "Only eukaryotes possess a continuous internal membrane network",
+        "Prokaryotes have Golgi stacks",
+        "Both lack vesicular transport"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotes contain a complex endomembrane system (ER, Golgi, vesicles) that is absent in prokaryotes, which rely on simpler membrane structures.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which organelle is the primary site of oxidative phosphorylation in eukaryotic cells?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria contain the inner membrane folds (cristae) where the electron transport chain and ATP synthase carry out oxidative phosphorylation.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "In plant cells, which organelle is chiefly responsible for the synthesis and storage of starch granules?",
+      "options": [
+        "Chloroplast",
+        "Vacuole",
+        "Golgi apparatus",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "During photosynthesis, chloroplasts produce glucose, which is polymerized into starch and stored as granules within the chloroplast stroma.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which of the following statements about the endoplasmic reticulum is FALSE?",
+      "options": [
+        "Rough ER has ribosomes attached to its cytoplasmic surface",
+        "Smooth ER is involved in lipid synthesis",
+        "Rough ER is a major site of protein glycosylation",
+        "Smooth ER contains DNA"
+      ],
+      "answer": 3,
+      "explanation": "The smooth ER lacks ribosomes and DNA; it is involved in lipid synthesis and detoxification, whereas DNA is confined to the nucleus and organelles like mitochondria.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which organelle possesses its own circular DNA and replicates independently of the cell cycle?",
+      "options": [
+        "Nucleus",
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria contain their own genome, a circular DNA molecule, and divide by binary fission independent of nuclear DNA replication.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "The principal metabolic function of peroxisomes in plant cells is:",
+      "options": [
+        "Protein synthesis",
+        "Lipid β‑oxidation and detoxification of hydrogen peroxide",
+        "Photosynthesis",
+        "Storage of pigments"
+      ],
+      "answer": 1,
+      "explanation": "Peroxisomes carry out β‑oxidation of fatty acids and contain catalase, which converts the toxic H₂O₂ produced into water and oxygen.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which membrane‑bound organelle is absent in prokaryotic cells but present in all eukaryotic cells?",
+      "options": [
+        "Ribosome",
+        "Plasma membrane",
+        "Nucleoid",
+        "Nucleus"
+      ],
+      "answer": 3,
+      "explanation": "Prokaryotes lack a membrane‑bound nucleus; their genetic material resides in a nucleoid region, whereas eukaryotes have a true nucleus enclosed by a double membrane.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "In the secretory pathway, proteins that leave the rough ER are packaged into vesicles coated with which protein before reaching the Golgi apparatus?",
+      "options": [
+        "Clathrin",
+        "Actin",
+        "Tubulin",
+        "Myosin"
+      ],
+      "answer": 0,
+      "explanation": "Clathrin forms a polyhedral coat on transport vesicles that bud from the ER and fuse with the Golgi, facilitating cargo selection and vesicle formation.",
+      "topic": "Cell organelles"
+    },
+    {
+      "question": "Which organelle is the site of synthesis of secretory proteins and is continuous with the nuclear envelope?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Lysosome",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "The rough ER is studded with ribosomes for secretory protein synthesis and its membrane is continuous with the outer nuclear membrane.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "In the secretory pathway, transport vesicles that bud from the ER and carry proteins to the Golgi are coated with which protein complex?",
+      "options": [
+        "Clathrin",
+        "COPI",
+        "COPII",
+        "Dynamin"
+      ],
+      "answer": 2,
+      "explanation": "COPII coats mediate budding of vesicles from the ER and forward transport to the Golgi.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which modification primarily occurs in the cis‑Golgi network?",
+      "options": [
+        "N‑linked glycosylation trimming",
+        "O‑linked glycosylation",
+        "Phosphorylation of lipids",
+        "Protein folding"
+      ],
+      "answer": 0,
+      "explanation": "The cis‑Golgi network trims the core oligosaccharide of N‑linked glycoproteins added in the ER.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "In plant cells, the large central vacuole mainly functions in:",
+      "options": [
+        "Protein synthesis",
+        "Storage of pigments and ions",
+        "ATP generation",
+        "DNA replication"
+      ],
+      "answer": 1,
+      "explanation": "The central vacuole stores pigments, ions, metabolites and contributes to turgor pressure.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Lysosomal enzymes acquire mannose‑6‑phosphate tags in which organelle to ensure delivery to lysosomes?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Clathrin-coated vesicles",
+        "Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Mannose‑6‑phosphate residues are added to lysosomal enzymes in the Golgi, directing them to lysosomes via specific receptors.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which statement about the endomembrane system is FALSE?",
+      "options": [
+        "The nuclear envelope is continuous with the rough ER",
+        "The Golgi apparatus receives lipids from the smooth ER",
+        "Endosomes are derived from the plasma membrane",
+        "The smooth ER is the primary site of protein synthesis"
+      ],
+      "answer": 3,
+      "explanation": "Protein synthesis occurs mainly on ribosomes attached to the rough ER; the smooth ER is involved in lipid synthesis and detoxification.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "During receptor‑mediated endocytosis, clathrin‑coated pits form vesicles that subsequently fuse with which organelle?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosome",
+        "Early endosome",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 2,
+      "explanation": "Clathrin‑coated vesicles first fuse with early endosomes, where sorting of internalised material occurs.",
+      "topic": "Endomembrane system"
+    },
+    {
+      "question": "Which statement about the inner mitochondrial membrane is correct?",
+      "options": [
+        "It is impermeable to ions and houses the electron transport chain",
+        "It contains ribosomes for protein synthesis",
+        "It is continuous with the outer membrane",
+        "It is the site of glycolysis"
+      ],
+      "answer": 0,
+      "explanation": "The inner membrane is highly selective, impermeable to most ions, and contains the complexes of the electron transport chain where oxidative phosphorylation occurs.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "The primary source of ATP in most eukaryotic cells is",
+      "options": [
+        "Substrate‑level phosphorylation in the cytosol",
+        "Oxidative phosphorylation in mitochondria",
+        "Photophosphorylation in chloroplasts",
+        "Fermentation"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial oxidative phosphorylation generates the bulk of cellular ATP through the electron transport chain and chemiosmosis.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Mitochondrial DNA is inherited in a",
+      "options": [
+        "Mendelian autosomal dominant manner",
+        "Maternal (maternal) inheritance",
+        "Paternal inheritance",
+        "Biparental inheritance"
+      ],
+      "answer": 1,
+      "explanation": "mtDNA is transmitted almost exclusively from the mother because sperm mitochondria are usually eliminated after fertilization.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Which complex of the mitochondrial electron transport chain does NOT pump protons across the inner membrane?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 1,
+      "explanation": "Complex II transfers electrons from succinate to ubiquinone but does not translocate protons, unlike the other three complexes.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Which structure distinguishes mitochondria from chloroplasts?",
+      "options": [
+        "Thylakoid membranes",
+        "Cristae",
+        "Stroma",
+        "Granum"
+      ],
+      "answer": 1,
+      "explanation": "Cristae are the folded inner membrane extensions unique to mitochondria; chloroplasts have thylakoids, stroma, and granum.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "During apoptosis, the release of which mitochondrial protein into the cytosol is a key event?",
+      "options": [
+        "Cytochrome c",
+        "ATP synthase",
+        "NADH dehydrogenase",
+        "Citrate synthase"
+      ],
+      "answer": 0,
+      "explanation": "Cytochrome c released from the intermembrane space activates caspases, driving the apoptotic cascade.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "The number of mitochondria in a cell is primarily regulated by",
+      "options": [
+        "DNA replication timing",
+        "Mitochondrial fission and fusion dynamics",
+        "Ribosomal RNA synthesis",
+        "Lysosomal degradation"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial biogenesis, fission, and fusion adjust organelle numbers to meet cellular energy demands.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Which statement correctly describes the structural difference between chloroplasts and chromoplasts?",
+      "options": [
+        "Chloroplasts have well‑developed thylakoid membranes forming grana, whereas chromoplasts lack thylakoids",
+        "Chromoplasts possess stacked thylakoids while chloroplasts have dispersed thylakoids",
+        "Both organelles have identical thylakoid organization but differ only in pigment composition",
+        "Chloroplasts have a single membrane envelope whereas chromoplasts have a double envelope"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts contain extensive thylakoid stacks (grana) for photosynthesis; chromoplasts generally lose thylakoid organization and accumulate carotenoid pigments.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "In a dark‑grown seedling, the plastid present is an etioplast. Which pigment is characteristic of etioplasts?",
+      "options": [
+        "Protochlorophyllide",
+        "Chlorophyll a",
+        "Carotene",
+        "Phytoene"
+      ],
+      "answer": 0,
+      "explanation": "Etioplasts contain the precursor pigment protochlorophyllide, which is converted to chlorophyll upon illumination.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Amyloplasts are specialized leucoplasts primarily involved in:",
+      "options": [
+        "Synthesis of fatty acids",
+        "Storage of starch granules",
+        "Photosynthetic electron transport",
+        "Synthesis of amino acids"
+      ],
+      "answer": 1,
+      "explanation": "Amyloplasts store starch as granules, especially in tubers and seeds, serving as an energy reserve.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Why are plastids considered semiautonomous organelles?",
+      "options": [
+        "They possess their own circular DNA and ribosomes capable of synthesizing a limited set of proteins",
+        "They are completely dependent on nuclear‑encoded proteins for all functions",
+        "They can replicate only during cell division",
+        "They lack any genetic material"
+      ],
+      "answer": 0,
+      "explanation": "Plastids contain their own genome and ribosomes, allowing synthesis of some proteins independently of the nucleus, though many proteins are nuclear‑encoded.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "During the conversion of proplastids to chloroplasts, which event occurs first?",
+      "options": [
+        "Formation of thylakoid membranes",
+        "Accumulation of starch granules",
+        "Synthesis of carotenoid pigments",
+        "Development of a double‑membrane envelope"
+      ],
+      "answer": 0,
+      "explanation": "The initial step is the development of internal thylakoid membranes; the double envelope is already present in proplastids.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which pigment is predominantly responsible for the red colour of ripe tomato chromoplasts?",
+      "options": [
+        "β‑carotene",
+        "Chlorophyll a",
+        "Xanthophyll",
+        "Lutein"
+      ],
+      "answer": 0,
+      "explanation": "β‑Carotene, a red‑orange carotenoid, accumulates in tomato chromoplasts, giving the fruit its characteristic colour.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "A mutation that abolishes plastid‑encoded RNA polymerase (PEP) would most directly affect which plastid function?",
+      "options": [
+        "Synthesis of plastid‑encoded photosynthetic proteins",
+        "Import of nuclear‑encoded proteins",
+        "Division of plastids",
+        "Formation of the outer envelope membrane"
+      ],
+      "answer": 0,
+      "explanation": "PEP transcribes plastid genes, including those encoding core photosynthetic proteins; loss of PEP impairs their synthesis.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which cytoskeletal element is primarily responsible for formation of the contractile ring during cytokinesis in animal cells?",
+      "options": [
+        "Microtubules",
+        "Intermediate filaments",
+        "Actin filaments",
+        "Centrioles"
+      ],
+      "answer": 2,
+      "explanation": "The contractile ring is composed of actin filaments and myosin II; actin provides the scaffold for ring constriction.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "The motor protein that moves cargo toward the minus end of microtubules is:",
+      "options": [
+        "Kinesin",
+        "Dynein",
+        "Myosin II",
+        "Dynamin"
+      ],
+      "answer": 1,
+      "explanation": "Dynein walks toward the microtubule minus end, whereas most kinesins move toward the plus end.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which of the following drugs stabilizes microtubules and is used as an anti‑cancer agent?",
+      "options": [
+        "Colchicine",
+        "Taxol (paclitaxel)",
+        "Nocodazole",
+        "Vincristine"
+      ],
+      "answer": 1,
+      "explanation": "Taxol binds to β‑tubulin and prevents depolymerization, stabilizing microtubules and inhibiting cell division.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "In plant cells, the cortical array of microtubules is oriented parallel to which structure to guide cellulose synthase complexes?",
+      "options": [
+        "Nucleus",
+        "Plasma membrane",
+        "Golgi apparatus",
+        "Vacuole"
+      ],
+      "answer": 1,
+      "explanation": "Cortical microtubules lie just beneath the plasma membrane and direct the movement of cellulose synthase complexes.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which statement correctly describes intermediate filaments?",
+      "options": [
+        "They are composed of tubulin dimers and exhibit dynamic instability",
+        "They are primarily composed of actin and provide tracks for myosin",
+        "They are composed of various proteins like keratin and provide tensile strength",
+        "They are the main component of cilia and flagella axoneme"
+      ],
+      "answer": 2,
+      "explanation": "Intermediate filaments consist of proteins such as keratin, vimentin, and neurofilaments, giving cells mechanical resilience.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "The basal body of a flagellum is structurally similar to which cytoskeletal structure?",
+      "options": [
+        "Microtubule organizing center (MTOC)",
+        "Actin filament bundle",
+        "Intermediate filament network",
+        "Desmosome"
+      ],
+      "answer": 0,
+      "explanation": "Basal bodies are derived from centrioles, which are microtubule‑organizing centers that nucleate the 9+2 axoneme.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which of the following processes directly involves the polymerization of actin filaments?",
+      "options": [
+        "Chromosome segregation during mitosis",
+        "Vesicle transport along axons",
+        "Formation of lamellipodia during cell migration",
+        "Separation of sister chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Lamellipodia are sheet‑like protrusions formed by rapid actin polymerization at the leading edge of migrating cells.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which biomolecule serves as the primary source of energy for most cellular activities?",
+      "options": [
+        "Glucose",
+        "DNA",
+        "Phospholipid",
+        "Collagen"
+      ],
+      "answer": 0,
+      "explanation": "Glucose, a monosaccharide, is readily metabolized to produce ATP, the universal energy currency of the cell.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "The monomeric building block of nucleic acids is:",
+      "options": [
+        "Amino acid",
+        "Nucleotide",
+        "Fatty acid",
+        "Monosaccharide"
+      ],
+      "answer": 1,
+      "explanation": "Nucleic acids are polymers of nucleotides, each comprising a sugar, a phosphate group, and a nitrogenous base.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which statement correctly describes the structural difference between saturated and unsaturated fatty acids?",
+      "options": [
+        "Saturated fatty acids contain one or more double bonds; unsaturated contain none",
+        "Saturated fatty acids have no double bonds; unsaturated fatty acids contain one or more double bonds",
+        "Both saturated and unsaturated fatty acids have the same number of double bonds",
+        "Unsaturated fatty acids are always longer in carbon chain than saturated fatty acids"
+      ],
+      "answer": 1,
+      "explanation": "Saturated fatty acids lack C=C double bonds, while unsaturated fatty acids possess one or more double bonds, affecting fluidity of membranes.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "In proteins, a peptide bond is formed between:",
+      "options": [
+        "The carboxyl group of one amino acid and the amino group of another",
+        "Two hydroxyl groups of adjacent amino acids",
+        "A phosphate group and a hydroxyl group",
+        "The side chains of two aromatic amino acids"
+      ],
+      "answer": 0,
+      "explanation": "A peptide bond results from a condensation reaction linking the α‑carboxyl group of one amino acid to the α‑amino group of the next, releasing water.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which biomolecule is amphipathic, possessing both hydrophilic and hydrophobic regions, and is a major component of cellular membranes?",
+      "options": [
+        "Cholesterol",
+        "Phospholipid",
+        "Starch",
+        "Glycogen"
+      ],
+      "answer": 1,
+      "explanation": "Phospholipids have a polar head (hydrophilic) and two non‑polar fatty‑acid tails (hydrophobic), forming the bilayer structure of membranes.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "The principal storage form of glucose in animals is:",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Fructose"
+      ],
+      "answer": 1,
+      "explanation": "Glycogen is a highly branched polysaccharide stored mainly in liver and muscle cells for rapid glucose mobilization.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which of the following statements about nucleic acids is FALSE?",
+      "options": [
+        "DNA contains deoxyribose sugar",
+        "RNA contains ribose sugar",
+        "Both DNA and RNA are polymers of nucleotides",
+        "DNA is usually single‑stranded"
+      ],
+      "answer": 3,
+      "explanation": "DNA is typically double‑stranded, forming a double helix; the statement that it is usually single‑stranded is incorrect.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which statement best describes the induced fit model of enzyme action?",
+      "options": [
+        "The enzyme active site is rigid and matches the substrate exactly",
+        "Substrate binding induces a conformational change in the enzyme that enhances complementarity",
+        "The enzyme changes shape only after the product is released",
+        "The enzyme active site remains permanently open"
+      ],
+      "answer": 1,
+      "explanation": "In the induced fit model, binding of the substrate causes the enzyme to undergo a conformational change, improving the fit between enzyme and substrate and facilitating catalysis.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "An enzyme shows a Km of 0.5 mM for substrate X. Which of the following statements is true?",
+      "options": [
+        "The enzyme has high affinity for X",
+        "The enzyme has low affinity for X",
+        "At 0.5 mM substrate the reaction rate is zero",
+        "Km equals Vmax"
+      ],
+      "answer": 0,
+      "explanation": "A low Km value indicates that a relatively low substrate concentration is needed to reach half‑maximal velocity, reflecting high affinity between enzyme and substrate.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "A competitive inhibitor affects enzyme kinetics by:",
+      "options": [
+        "Decreasing Vmax while Km remains unchanged",
+        "Decreasing both Vmax and Km",
+        "Increasing Km while Vmax remains unchanged",
+        "Increasing Vmax and decreasing Km"
+      ],
+      "answer": 2,
+      "explanation": "Competitive inhibitors bind to the active site, raising the apparent Km (lower affinity) but do not affect the maximum velocity (Vmax) because the inhibition can be overcome by high substrate concentrations.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "Which of the following is NOT a cofactor required by enzymes?",
+      "options": [
+        "NAD+",
+        "Mg2+",
+        "ATP",
+        "Biotin"
+      ],
+      "answer": 2,
+      "explanation": "ATP generally acts as a substrate or energy donor, not as a cofactor. NAD+, Mg2+, and biotin function as cofactors or coenzymes in various enzymatic reactions.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "The optimal temperature for most human enzymes is closest to:",
+      "options": [
+        "0°C",
+        "25°C",
+        "37°C",
+        "60°C"
+      ],
+      "answer": 2,
+      "explanation": "Human enzymes function best at body temperature, approximately 37°C; temperatures much lower or higher reduce catalytic efficiency or cause denaturation.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "Which enzyme classification (EC number) corresponds to oxidoreductases?",
+      "options": [
+        "EC 1",
+        "EC 2",
+        "EC 3",
+        "EC 4"
+      ],
+      "answer": 0,
+      "explanation": "The Enzyme Commission (EC) system assigns EC 1 to oxidoreductases, which catalyze oxidation‑reduction (redox) reactions.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "In a metabolic pathway, the activity of an enzyme is increased by covalent attachment of a phosphate group. This regulation is an example of:",
+      "options": [
+        "Allosteric inhibition",
+        "Feedback inhibition",
+        "Covalent modification activation",
+        "Competitive inhibition"
+      ],
+      "answer": 2,
+      "explanation": "Phosphorylation is a covalent modification that can activate (or deactivate) enzymes, representing a common regulatory mechanism in metabolism.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "During which phase of the cell cycle does DNA synthesis occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "The S (synthesis) phase is dedicated to replication of the entire genome, producing two identical sister chromatids for each chromosome.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "The restriction point (R point) that commits a cell to division is located in which phase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 0,
+      "explanation": "The R point is situated in late G1; once passed, the cell is committed to completing the cell cycle irrespective of external growth signals.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which cyclin‑CDK complex primarily triggers the initiation of DNA replication?",
+      "options": [
+        "Cyclin D‑CDK4/6",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 1,
+      "explanation": "Cyclin E binds to CDK2 at the G1/S transition, phosphorylating substrates that allow the assembly of the pre‑replication complex and entry into S phase.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Loss of functional p53 most directly compromises which cell‑cycle checkpoint?",
+      "options": [
+        "G1/S checkpoint",
+        "G2/M checkpoint",
+        "Metaphase/Anaphase checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 0,
+      "explanation": "p53 activates transcription of p21, which inhibits CDK activity at the G1/S checkpoint, preventing replication of damaged DNA.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "At what stage of mitosis does the nuclear envelope re‑form around the daughter chromosomes?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 3,
+      "explanation": "During telophase, nuclear membranes reassemble around each set of chromosomes, marking the end of nuclear division.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which statement correctly describes the G2/M checkpoint?",
+      "options": [
+        "It ensures DNA replication is complete",
+        "It monitors spindle attachment",
+        "It checks for DNA damage before mitosis",
+        "It regulates cytokinesis"
+      ],
+      "answer": 2,
+      "explanation": "The G2/M checkpoint assesses DNA integrity after replication; unresolved damage activates pathways that halt entry into mitosis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "The activity of cyclin B‑CDK1 is kept inactive until the onset of mitosis by which protein?",
+      "options": [
+        "Wee1 kinase",
+        "Cdc25 phosphatase",
+        "p21",
+        "Retinoblastoma protein"
+      ],
+      "answer": 0,
+      "explanation": "Wee1 phosphorylates and inhibits cyclin B‑CDK1; removal of this inhibition by Cdc25 triggers mitotic entry.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "What is the principal role of the anaphase‑promoting complex/cyclosome (APC/C) during the cell cycle?",
+      "options": [
+        "It phosphorylates cyclins to activate CDKs",
+        "It ubiquitinates securin leading to sister chromatid separation",
+        "It dephosphorylates histones for chromosome condensation",
+        "It initiates DNA replication at origins"
+      ],
+      "answer": 1,
+      "explanation": "APC/C tags securin with ubiquitin, marking it for degradation; this releases separase, allowing cohesin cleavage and sister chromatid separation in anaphase.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which of the following lists the stages of mitosis in their correct order?",
+      "options": [
+        "Prophase, Metaphase, Anaphase, Telophase",
+        "Metaphase, Prophase, Anaphase, Telophase",
+        "Prophase, Anaphase, Metaphase, Telophase",
+        "Anaphase, Metaphase, Prophase, Telophase"
+      ],
+      "answer": 0,
+      "explanation": "Mitosis proceeds sequentially as prophase → metaphase → anaphase → telophase.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "During which stage of mitosis does the nuclear envelope re-form around the separated chromatids?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 3,
+      "explanation": "The nuclear envelope disassembles in prophase and reassembles in telophase, enclosing the two sets of chromatids.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "The movement of chromosomes toward opposite poles during mitosis is primarily mediated by:",
+      "options": [
+        "Centrioles",
+        "Spindle fibers attached to kinetochores",
+        "Nucleolus",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Kinetochore microtubules of the spindle attach to chromosomes and generate forces that pull sister chromatids apart.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Loss of sister chromatid cohesion, allowing chromatids to separate, is triggered by activation of which enzyme?",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase",
+        "Separase",
+        "Topoisomerase II"
+      ],
+      "answer": 2,
+      "explanation": "Separase cleaves cohesin complexes at the onset of anaphase, releasing sister chromatids.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "The checkpoint that monitors proper attachment of spindle fibers to kinetochores before proceeding to the next phase is known as the:",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Spindle assembly checkpoint",
+        "DNA damage checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The spindle assembly checkpoint ensures all chromosomes are correctly attached to spindle microtubules before anaphase begins.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Mitosis in somatic cells results in:",
+      "options": [
+        "Four haploid cells",
+        "Two diploid cells genetically identical to the parent cell",
+        "Two haploid cells",
+        "Four diploid cells with varied genetic content"
+      ],
+      "answer": 1,
+      "explanation": "A somatic cell undergoes mitosis to produce two diploid daughter cells that are genetically identical to each other and to the original cell.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which protein complex is essential for condensing chromosomes during prophase?",
+      "options": [
+        "Cohesin",
+        "Condensin",
+        "Histone acetyltransferase",
+        "DNA ligase"
+      ],
+      "answer": 1,
+      "explanation": "Condensin complexes facilitate the high‑level compaction of chromosomes during prophase.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Nondisjunction during mitosis of a somatic cell can lead to:",
+      "options": [
+        "Gamete formation with extra chromosomes",
+        "Mosaicism due to aneuploid cells",
+        "Crossing over between homologous chromosomes",
+        "Formation of a multinucleated cell without DNA"
+      ],
+      "answer": 1,
+      "explanation": "If sister chromatids fail to separate in mitosis, some daughter cells become aneuploid, producing mosaicism in the organism.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "During which phase of meiosis does crossing over between homologous chromosomes occur?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over takes place during prophase I when homologous chromosomes are paired as tetrads and exchange genetic material.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "At the end of which meiotic division are the resulting cells haploid?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Prophase I",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "Only after meiosis II are sister chromatids separated, producing four haploid cells; meiosis I yields diploid cells with duplicated chromosomes.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Which statement correctly distinguishes meiosis I from mitosis?",
+      "options": [
+        "Homologous chromosomes separate during anaphase I of meiosis, whereas sister chromatids separate during anaphase of mitosis.",
+        "Sister chromatids separate during anaphase I of meiosis, whereas homologous chromosomes separate during mitosis.",
+        "Both meiosis I and mitosis separate sister chromatids in anaphase.",
+        "Meiosis I does not involve chromosome segregation."
+      ],
+      "answer": 0,
+      "explanation": "In meiosis I, homologous chromosomes are pulled apart, while mitosis separates sister chromatids; this key difference reduces chromosome number.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "The formation of a chiasma is essential for which meiotic process?",
+      "options": [
+        "DNA replication",
+        "Synapsis",
+        "Cytokinesis",
+        "Spindle checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata are the visible manifestations of crossing over that occur during synapsis of homologous chromosomes in prophase I.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Nondisjunction during meiosis II most commonly results in a gamete that:",
+      "options": [
+        "Contains an extra chromosome",
+        "Lacks a chromosome",
+        "Contains duplicated sister chromatids",
+        "Has the normal chromosome number"
+      ],
+      "answer": 0,
+      "explanation": "If sister chromatids fail to separate in meiosis II, one gamete receives both copies (extra chromosome) and another receives none.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Which mechanism primarily contributes to genetic variation among the products of meiosis?",
+      "options": [
+        "Independent assortment of homologous chromosomes",
+        "Random fertilization",
+        "Crossing over between non‑homologous chromosomes",
+        "DNA methylation"
+      ],
+      "answer": 0,
+      "explanation": "Independent assortment randomly distributes maternal and paternal homologues into gametes, creating many possible chromosome combinations.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "During which stage does the nuclear envelope re-form around each set of chromosomes in meiosis?",
+      "options": [
+        "Telophase I",
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase I"
+      ],
+      "answer": 0,
+      "explanation": "At telophase I, after homologous chromosomes have segregated, the nuclear envelope reassembles around the two daughter nuclei.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Which of the following correctly distinguishes prokaryotic cells from eukaryotic cells?",
+      "options": [
+        "Prokaryotes possess a nucleus, whereas eukaryotes do not",
+        "Prokaryotes have membrane‑bound organelles, while eukaryotes lack them",
+        "Prokaryotes contain circular DNA free in the cytoplasm, whereas eukaryotes have linear DNA enclosed within a nucleus",
+        "Prokaryotes synthesize proteins on ribosomes attached to the endoplasmic reticulum, unlike eukaryotes"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotic cells have a single circular chromosome that lies in the nucleoid region without a nuclear membrane, while eukaryotic cells have linear chromosomes enclosed within a nuclear envelope.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "A secretory protein is synthesized in the rough endoplasmic reticulum. Which sequence correctly describes its subsequent transport to the extracellular space?",
+      "options": [
+        "Golgi apparatus → transport vesicle → rough ER → plasma membrane",
+        "Transport vesicle → Golgi apparatus → secretory vesicle → plasma membrane",
+        "Plasma membrane → Golgi apparatus → transport vesicle → rough ER",
+        "Rough ER → transport vesicle → Golgi apparatus → secretory vesicle → plasma membrane"
+      ],
+      "answer": 3,
+      "explanation": "After synthesis in the rough ER, the protein is packaged into transport vesicles that fuse with the Golgi apparatus for processing, then packed into secretory vesicles that fuse with the plasma membrane to release the protein.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "During which phase of meiosis does crossing over occur, and what is its primary significance?",
+      "options": [
+        "Prophase I; it generates genetic variation by exchanging DNA between homologous chromosomes",
+        "Metaphase I; it aligns homologous chromosomes for segregation",
+        "Anaphase II; it separates sister chromatids",
+        "Telophase I; it reforms nuclear membranes around daughter nuclei"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over takes place in prophase I of meiosis, where non‑sister chromatids of homologous chromosomes exchange segments, creating new allele combinations.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "Which organelle is primarily responsible for fatty acid synthesis in animal cells?",
+      "options": [
+        "Mitochondrion",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Peroxisome"
+      ],
+      "answer": 1,
+      "explanation": "The smooth ER contains enzymes for lipid and fatty acid synthesis, whereas mitochondria are mainly involved in ATP production.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "A competitive inhibitor of an enzyme will:",
+      "options": [
+        "Decrease Vmax and increase Km",
+        "Decrease both Vmax and Km",
+        "Increase Vmax and decrease Km",
+        "Increase Km without affecting Vmax"
+      ],
+      "answer": 3,
+      "explanation": "Competitive inhibition raises the apparent Km (lower affinity) because more substrate is needed to reach half‑maximal velocity, but Vmax remains unchanged as inhibition can be overcome at high substrate concentrations.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "Which macromolecule is a polymer of nucleotides and serves as the genetic material in cells?",
+      "options": [
+        "Proteins",
+        "Polysaccharides",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "answer": 3,
+      "explanation": "Nucleic acids (DNA and RNA) are polymers of nucleotides that store and transmit genetic information.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "Which component of the cytoskeleton is mainly involved in maintaining cell shape and providing tracks for vesicle transport?",
+      "options": [
+        "Microtubules",
+        "Intermediate filaments",
+        "Actin filaments (microfilaments)",
+        "Centrioles"
+      ],
+      "answer": 2,
+      "explanation": "Actin filaments (microfilaments) form a dense network that supports cell shape and serves as tracks for myosin‑driven vesicle and organelle movement.",
+      "topic": "Integrated NEET practice"
+    },
+    {
+      "question": "A plant cell lacking functional chloroplasts but possessing normal mitochondria would be most directly impaired in which process?",
+      "options": [
+        "Cellular respiration",
+        "Photosynthetic carbon fixation",
+        "Protein synthesis in the rough ER",
+        "DNA replication in the nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts are the site of photosynthetic carbon fixation; without functional chloroplasts, the plant cell cannot perform photosynthesis, while mitochondrial respiration remains unaffected.",
+      "topic": "Integrated NEET practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 13,
+    "mcqCount": 94
+  }
+}

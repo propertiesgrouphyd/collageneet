@@ -1,0 +1,1382 @@
+{
+  "day": 41,
+  "courseDate": "2026-10-09",
+  "publishAt": "2026-10-09T06:00:00+05:30",
+  "title": "Cell Cycle and Cell Division – Day 41",
+  "introduction": "This lesson provides a concise, NCERT‑aligned overview of the cell cycle, detailing each phase, its molecular events, checkpoints, regulation, and the biological significance of cell division, essential for NEET‑UG preparation.",
+  "sections": [
+    {
+      "topic": "Cell cycle overview",
+      "heading": "Overall Sequence and Purpose of the Cell Cycle",
+      "content": "The cell cycle is a series of ordered events that lead to cell growth and division, ensuring accurate transmission of genetic material. It consists of interphase (cell growth and DNA synthesis) followed by the mitotic (M) phase where chromosome segregation and cytokinesis occur. The cycle is tightly regulated to prevent uncontrolled proliferation.",
+      "keyPoints": [
+        "Interphase + M phase constitute the complete cell cycle",
+        "Ensures genome integrity across generations",
+        "Alternates between growth (G phases) and division (M)"
+      ],
+      "neetTips": [
+        "Memorize the order: G1 → S → G2 → M"
+      ]
+    },
+    {
+      "topic": "Phases of the cell cycle",
+      "heading": "Four Main Phases of the Cell Cycle",
+      "content": "The cell cycle is divided into G1 (first gap), S (synthesis), G2 (second gap), and M (mitosis). G1, S, and G2 together form interphase, a period of cellular growth and preparation for division, while M phase executes chromosome segregation and cytokinesis.",
+      "keyPoints": [
+        "G1, S, G2 = Interphase",
+        "M phase = mitosis + cytokinesis",
+        "Each phase has distinct biochemical activities"
+      ],
+      "neetTips": [
+        "Link each phase with its hallmark activity: G1‑growth, S‑DNA synthesis, G2‑pre‑division, M‑division"
+      ]
+    },
+    {
+      "topic": "Interphase",
+      "heading": "Interphase – The Growth and Preparation Period",
+      "content": "Interphase occupies ~90% of the cell’s lifespan. It involves cell enlargement, organelle duplication, and DNA replication. Metabolic activity is high, and the cell assesses internal and external cues before committing to division.",
+      "keyPoints": [
+        "Longest portion of the cycle",
+        "Cell grows, synthesizes proteins, duplicates organelles",
+        "DNA replication occurs only in S phase"
+      ],
+      "neetTips": [
+        "Remember that DNA replication is confined to S phase, not the whole interphase"
+      ]
+    },
+    {
+      "topic": "G1 phase",
+      "heading": "G1 Phase – First Gap and Cellular Growth",
+      "content": "During G1, the cell increases its size, produces RNA, and synthesizes proteins required for DNA replication. The restriction point (R) is passed here; cells that receive adequate growth signals commit to DNA synthesis.",
+      "keyPoints": [
+        "Cell size increase and protein synthesis",
+        "Passage of restriction point determines commitment",
+        "Preparation for S phase"
+      ],
+      "neetTips": [
+        "G1 is the decision point – if conditions are unfavorable, cells may enter G0"
+      ]
+    },
+    {
+      "topic": "S phase",
+      "heading": "S Phase – DNA Synthesis",
+      "content": "S phase is dedicated to the faithful duplication of the entire genome. Each chromosome replicates to form sister chromatids joined at the centromere. High-fidelity DNA polymerases, sliding clamps, and proofreading mechanisms ensure accuracy.",
+      "keyPoints": [
+        "Complete genome duplication",
+        "Formation of sister chromatids",
+        "Involves DNA polymerase III, helicase, primase"
+      ],
+      "neetTips": [
+        "NEET often asks about enzymes and the directionality (5'→3') of DNA synthesis"
+      ]
+    },
+    {
+      "topic": "G2 phase",
+      "heading": "G2 Phase – Second Gap and Pre‑Mitosis Check",
+      "content": "G2 allows the cell to synthesize proteins required for mitosis (e.g., cyclins, microtubule components) and to repair any DNA damage post‑replication. The G2/M checkpoint ensures readiness for chromosome segregation.",
+      "keyPoints": [
+        "Protein synthesis for mitotic spindle",
+        "DNA damage repair",
+        "G2/M checkpoint verification"
+      ],
+      "neetTips": [
+        "G2 is a quality‑control stage; remember the role of cyclin B‑Cdk1 activation"
+      ]
+    },
+    {
+      "topic": "M phase",
+      "heading": "M Phase – Mitosis and Cytokinesis",
+      "content": "M phase comprises prophase, prometaphase, metaphase, anaphase, telophase, followed by cytokinesis. Chromosomes align, sister chromatids separate, and two genetically identical daughter cells are formed.",
+      "keyPoints": [
+        "Four mitotic stages plus cytokinesis",
+        "Chromosome alignment at metaphase plate",
+        "Sister chromatid separation at anaphase"
+      ],
+      "neetTips": [
+        "Sequence of mitotic stages is a frequent NEET recall question"
+      ]
+    },
+    {
+      "topic": "DNA replication during S phase",
+      "heading": "Molecular Events of DNA Replication",
+      "content": "Replication initiates at origins of replication where the pre‑replication complex assembles. Helicase unwinds DNA, primase lays RNA primers, DNA polymerase synthesizes new strands, and ligase joins Okazaki fragments on the lagging strand. Proofreading by exonuclease activity reduces errors.",
+      "keyPoints": [
+        "Origins of replication, helicase, primase, DNA polymerase, ligase",
+        "Leading vs. lagging strand synthesis",
+        "Proofreading ensures <1 error per 10⁹ nucleotides"
+      ],
+      "neetTips": [
+        "Focus on enzymes and their specific roles; NEET often pairs enzyme with step"
+      ]
+    },
+    {
+      "topic": "Cell growth during interphase",
+      "heading": "Biomass Accumulation and Organelle Duplication",
+      "content": "Interphase cells double their cytoplasmic volume, synthesize ribosomes, mitochondria, and other organelles. Metabolic pathways are up‑regulated to meet energy demands for subsequent division.",
+      "keyPoints": [
+        "Increase in cell size and organelle number",
+        "Up‑regulation of protein synthesis",
+        "Energy generation for DNA replication"
+      ],
+      "neetTips": [
+        "Link G1 growth with increased ribosome biogenesis"
+      ]
+    },
+    {
+      "topic": "Preparation for cell division",
+      "heading": "Readiness Checks Before Mitosis",
+      "content": "Before entering M phase, cells verify DNA integrity, complete centrosome duplication, and assemble the mitotic spindle apparatus. Cyclin‑Cdk complexes drive the transition, while phosphatases reverse phosphorylation events post‑division.",
+      "keyPoints": [
+        "Centrosome duplication, spindle assembly",
+        "Cyclin B‑Cdk1 activation triggers M phase",
+        "Checkpoint kinases (Chk1/2) monitor DNA"
+      ],
+      "neetTips": [
+        "Remember that cyclin levels rise and fall cyclically; they are not constant"
+      ]
+    },
+    {
+      "topic": "Cell cycle checkpoints",
+      "heading": "Surveillance Mechanisms Ensuring Fidelity",
+      "content": "Three major checkpoints exist: G1/S (restriction point), intra‑S (DNA damage), and G2/M. They halt progression via p53‑mediated transcription of p21, inhibition of Cdk activity, and activation of repair pathways.",
+      "keyPoints": [
+        "G1/S, intra‑S, G2/M checkpoints",
+        "p53‑p21 axis arrests cycle",
+        "Checkpoint kinases activate DNA repair"
+      ],
+      "neetTips": [
+        "NEET often links p53 mutation with loss of G1 checkpoint"
+      ]
+    },
+    {
+      "topic": "Regulation of cell cycle",
+      "heading": "Cyclins, Cdks, and Inhibitors",
+      "content": "Cyclins bind to cyclin‑dependent kinases (Cdks) to form active complexes that phosphorylate target proteins. Specific cyclin‑Cdk pairs act at distinct phases (e.g., Cyclin D‑Cdk4/6 in G1, Cyclin E‑Cdk2 at G1/S, Cyclin A‑Cdk2 in S, Cyclin B‑Cdk1 in G2/M). CDK inhibitors (CKIs) like p21 and p27 provide negative regulation.",
+      "keyPoints": [
+        "Phase‑specific cyclin‑Cdk complexes",
+        "CKIs halt progression when needed",
+        "Phosphorylation of Rb releases E2F transcription factors"
+      ],
+      "neetTips": [
+        "Associate each cyclin with its phase; this mapping is high‑yield"
+      ]
+    },
+    {
+      "topic": "Significance of cell division",
+      "heading": "Biological Importance of the Cell Cycle",
+      "content": "Cell division enables growth, tissue repair, and asexual reproduction. It maintains genetic continuity while allowing for differentiation. Dysregulation leads to oncogenesis, highlighting the clinical relevance of cell‑cycle control.",
+      "keyPoints": [
+        "Growth, regeneration, asexual reproduction",
+        "Genetic continuity via accurate chromosome segregation",
+        "Link to cancer when regulation fails"
+      ],
+      "neetTips": [
+        "NEET may ask about diseases caused by checkpoint failure"
+      ]
+    },
+    {
+      "topic": "Chromosome behaviour during division",
+      "heading": "Dynamics of Chromosomes in Mitosis",
+      "content": "During prophase, chromosomes condense; kinetochores form. In metaphase, they align at the equatorial plate. Anaphase sees sister chromatid separation via spindle fibers pulling toward opposite poles. Telophase re‑forms nuclear envelopes, and cytokinesis partitions cytoplasm.",
+      "keyPoints": [
+        "Condensation, kinetochore attachment, metaphase plate",
+        "Anaphase – sister chromatid separation",
+        "Re‑formation of nuclei in telophase"
+      ],
+      "neetTips": [
+        "Visualize the spindle‑microtubule attachment; NEET often asks about kinetochore‑microtubule interaction"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the sequential phases of the cell cycle and their biochemical hallmarks",
+    "Explain DNA replication mechanisms and the role of key enzymes in S phase",
+    "Identify the function of each cell‑cycle checkpoint and its regulatory proteins",
+    "Correlate cyclin‑Cdk complexes with specific cell‑cycle transitions",
+    "Interpret the significance of accurate chromosome behaviour during mitosis for NEET‑level questions"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the correct sequential order of the phases of the eukaryotic cell cycle?",
+      "options": [
+        "G1 → S → G2 → M",
+        "G1 → G2 → S → M",
+        "M → G1 → S → G2",
+        "S → G1 → G2 → M"
+      ],
+      "answer": 0,
+      "explanation": "The cell cycle proceeds in the order G1 (first gap), S (DNA synthesis), G2 (second gap), and M (mitosis).",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "During which phase does DNA replication occur?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "DNA synthesis is the hallmark event of the S (synthesis) phase of the cell cycle.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "Which checkpoint ensures that DNA replication has been completed before entry into mitosis?",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Metaphase (spindle) checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2 checkpoint verifies that DNA replication is complete and that any DNA damage is repaired before the cell proceeds to mitosis.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "The primary role of the G1 phase is:",
+      "options": [
+        "Chromosome segregation",
+        "DNA synthesis",
+        "Cell growth and preparation for DNA synthesis",
+        "Nuclear envelope breakdown"
+      ],
+      "answer": 2,
+      "explanation": "In G1 the cell grows in size, synthesizes proteins and organelles, and prepares the necessary machinery for DNA replication in the subsequent S phase.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "Which statement best describes the significance of the cell cycle in multicellular organisms?",
+      "options": [
+        "It allows for increase in cell size only",
+        "It enables tissue growth, repair, and asexual reproduction",
+        "It prevents any genetic variation",
+        "It restricts cells to a single division"
+      ],
+      "answer": 1,
+      "explanation": "The cell cycle provides a controlled mechanism for cell proliferation, which is essential for organismal growth, tissue regeneration, and asexual reproduction in some organisms.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "Cyclins regulate the cell cycle by:",
+      "options": [
+        "Directly binding DNA to initiate replication",
+        "Activating cyclin-dependent kinases (CDKs) at specific phases",
+        "Degrading mRNA of cell‑cycle genes",
+        "Forming the spindle fibers"
+      ],
+      "answer": 1,
+      "explanation": "Cyclins bind to and activate CDKs; the cyclin‑CDK complexes phosphorylate target proteins to drive the cell cycle forward at defined stages.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "Which phase is characterized by condensation of chromatin into visible chromosomes and segregation of sister chromatids?",
+      "options": [
+        "G2 phase",
+        "S phase",
+        "M phase (mitosis)",
+        "G1 phase"
+      ],
+      "answer": 2,
+      "explanation": "During M phase, specifically mitosis, chromatin condenses into distinct chromosomes and sister chromatids are separated to opposite poles.",
+      "topic": "Cell cycle overview"
+    },
+    {
+      "question": "What is the correct chronological order of the phases of the cell cycle from the beginning of interphase to the end of mitosis?",
+      "options": [
+        "G1 → S → G2 → M",
+        "G1 → G2 → S → M",
+        "S → G1 → G2 → M",
+        "G1 → S → M → G2"
+      ],
+      "answer": 0,
+      "explanation": "The cell cycle proceeds as G1 (cell growth), S (DNA synthesis), G2 (pre‑mitotic growth and preparation), and finally M (mitosis).",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "Which of the following events is characteristic of the G1 phase of the cell cycle?",
+      "options": [
+        "DNA replication",
+        "Chromosome condensation",
+        "Cell growth with synthesis of RNA and proteins",
+        "Separation of sister chromatids"
+      ],
+      "answer": 2,
+      "explanation": "During G1 the cell increases in size, synthesizes RNA and proteins, and prepares the machinery required for DNA replication, but DNA synthesis has not yet begun.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "The cell‑cycle checkpoint that verifies the integrity of replicated DNA before the cell enters mitosis is the:",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Metaphase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2 checkpoint monitors DNA for damage or incomplete replication before allowing the cell to proceed to the M phase.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "Which statement about the S phase is FALSE?",
+      "options": [
+        "Each chromosome is duplicated to form sister chromatids",
+        "DNA polymerase synthesizes new DNA strands",
+        "Histone synthesis is minimal",
+        "Replication initiates at multiple origins of replication"
+      ],
+      "answer": 2,
+      "explanation": "Histone synthesis is actually high during S phase to package the newly synthesized DNA into nucleosomes; it is not minimal.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "During which substage of mitosis do chromosomes align at the metaphase plate?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "In metaphase, the condensed chromosomes line up at the cell’s equatorial plane (metaphase plate) before being separated.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "Which checkpoint ensures that all chromosomes are correctly attached to spindle microtubules before anaphase begins?",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Metaphase (spindle assembly) checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The spindle assembly (metaphase) checkpoint monitors kinetochore‑microtubule attachments and prevents premature separation of sister chromatids.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "The synthesis of cyclins that trigger the transition from G2 to M phase primarily occurs during which phase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 2,
+      "explanation": "Cyclins that activate CDK1 for entry into mitosis are synthesized during G2, preparing the cell for the M phase.",
+      "topic": "Phases of the cell cycle"
+    },
+    {
+      "question": "Which of the following events occurs specifically during the G1 phase of the cell cycle?",
+      "options": [
+        "DNA replication",
+        "Chromosome condensation",
+        "Synthesis of new organelles",
+        "Chromosome segregation"
+      ],
+      "answer": 2,
+      "explanation": "During G1, the cell grows and synthesizes new organelles and proteins, preparing for DNA synthesis. DNA replication occurs in S phase, chromosome condensation in prophase, and chromosome segregation in anaphase.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "During the S phase, the replication of DNA is coordinated by which of the following enzyme complexes?",
+      "options": [
+        "DNA ligase I complex",
+        "DNA polymerase III holoenzyme",
+        "DNA polymerase α-primase complex",
+        "DNA helicase-primase complex"
+      ],
+      "answer": 2,
+      "explanation": "DNA polymerase α-primase initiates DNA synthesis by laying down RNA primers and extending them. DNA polymerase δ and ε take over for lagging and leading strand synthesis respectively. DNA ligase joins Okazaki fragments later.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "Which checkpoint monitors the integrity of DNA before a cell proceeds from G2 to M phase?",
+      "options": [
+        "G1 restriction point",
+        "Spindle assembly checkpoint",
+        "G2/M DNA damage checkpoint",
+        "Metaphase checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The G2/M checkpoint ensures that DNA replication is complete and checks for DNA damage before entering mitosis. The G1 restriction point checks cell size and nutrients; the spindle assembly checkpoint monitors spindle attachment during metaphase.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "During which sub-phase of interphase does the cell achieve its maximum size and accumulate most of its cytoplasmic contents?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 2,
+      "explanation": "G2 phase follows DNA synthesis and is characterized by continued cell growth, accumulation of proteins and organelles, preparing the cell for mitosis. G1 is earlier growth, S is DNA synthesis, M is mitosis.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes interphase from mitosis?",
+      "options": [
+        "Chromosomes are highly condensed in interphase",
+        "Spindle fibers are present only in interphase",
+        "DNA replication occurs in mitosis",
+        "The cell does not undergo cytokinesis in the M phase"
+      ],
+      "answer": 0,
+      "explanation": "In interphase, chromosomes are in a relaxed, extended form (chromatin). In mitosis, chromosomes condense. Spindle fibers form during mitosis, not interphase. DNA replication occurs in S phase (part of interphase). Cytokinesis occurs after mitosis, not during the M phase.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "The G1 checkpoint (restriction point) primarily assesses which of the following?",
+      "options": [
+        "Integrity of replicated chromosomes",
+        "Cell size and nutrient availability",
+        "Completion of spindle attachment",
+        "DNA methylation patterns"
+      ],
+      "answer": 1,
+      "explanation": "The G1 checkpoint evaluates whether the cell has sufficient size, nutrients, and growth signals to proceed. It does not assess chromosome integrity (that's later) nor spindle attachment.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "Which protein complex is directly responsible for initiating DNA replication at origins of replication during the S phase?",
+      "options": [
+        "Cyclin B-CDK1 complex",
+        "Origin recognition complex (ORC)",
+        "Anaphase-promoting complex (APC)",
+        "Cohesin complex"
+      ],
+      "answer": 1,
+      "explanation": "The Origin Recognition Complex (ORC) binds to origins of replication and recruits other factors to form the pre-replication complex, initiating DNA synthesis. Cyclin B-CDK1 drives entry into mitosis, APC triggers anaphase, and cohesin holds sister chromatids together.",
+      "topic": "Interphase"
+    },
+    {
+      "question": "Which event is characteristic of the G1 phase of the cell cycle?",
+      "options": [
+        "Sister chromatid separation",
+        "Cell growth and protein synthesis",
+        "DNA replication",
+        "Cytokinesis"
+      ],
+      "answer": 1,
+      "explanation": "During G1 the cell increases its size, synthesizes RNA and proteins, and prepares for DNA replication, but DNA synthesis itself occurs in S phase.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "The point in G1 after which a cell is committed to entering S phase is called the:",
+      "options": [
+        "G1 checkpoint",
+        "Restriction point (R)",
+        "G2 checkpoint",
+        "Metaphase checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The restriction point (R) in late G1 is the point of no return; once passed, the cell is committed to DNA replication irrespective of external signals.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "Which cyclin‑CDK complex is primarily active during early G1?",
+      "options": [
+        "Cyclin D‑CDK4/6",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 0,
+      "explanation": "Cyclin D binds CDK4/6 in early G1, driving progression through the G1 phase and responding to mitogenic signals.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "Growth factors promote progression through G1 mainly by stimulating the synthesis of:",
+      "options": [
+        "p53",
+        "Cyclin D",
+        "Cyclin B",
+        "DNA polymerase"
+      ],
+      "answer": 1,
+      "explanation": "Mitogenic growth factors up‑regulate cyclin D expression, which forms active complexes with CDK4/6 to push the cell past the restriction point.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "The increase in cell size during G1 is achieved chiefly by:",
+      "options": [
+        "DNA replication",
+        "Mitochondrial biogenesis",
+        "Ribosome biogenesis and protein synthesis",
+        "Spindle apparatus formation"
+      ],
+      "answer": 2,
+      "explanation": "G1 cells synthesize large amounts of ribosomal RNA and proteins, expanding cytoplasmic volume and preparing for later DNA replication.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "Which statement about the G1 checkpoint is FALSE?",
+      "options": [
+        "It ensures DNA damage is repaired before S phase",
+        "It is regulated by p53",
+        "It monitors spindle attachment",
+        "It involves the restriction point"
+      ],
+      "answer": 2,
+      "explanation": "Spindle attachment is monitored during the M phase (spindle assembly checkpoint), not at the G1 checkpoint.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "A cell in G1 phase will have high activity of which enzyme?",
+      "options": [
+        "DNA helicase",
+        "RNA polymerase II",
+        "DNA ligase",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "G1 cells are transcriptionally active, requiring RNA polymerase II for synthesis of mRNA that encodes proteins needed for growth and cell‑cycle progression.",
+      "topic": "G1 phase"
+    },
+    {
+      "question": "Which enzyme synthesizes the new DNA strand by adding nucleotides to the 3' end during the S phase of the cell cycle?",
+      "options": [
+        "DNA polymerase",
+        "DNA helicase",
+        "DNA ligase",
+        "Topoisomerase II"
+      ],
+      "answer": 0,
+      "explanation": "DNA polymerase catalyzes the addition of deoxyribonucleotides to the 3'‑OH of the growing strand, which is the core reaction of DNA synthesis in S phase.",
+      "topic": "S phase"
+    },
+    {
+      "question": "The site where the two parental DNA strands separate to allow replication is called:",
+      "options": [
+        "Replication fork",
+        "Origin of replication",
+        "Telomere",
+        "Centromere"
+      ],
+      "answer": 0,
+      "explanation": "The replication fork is the Y‑shaped region where the double helix is unwound and new strands are synthesized.",
+      "topic": "S phase"
+    },
+    {
+      "question": "During the S phase, histone synthesis is:",
+      "options": [
+        "Restricted to after DNA replication is complete",
+        "Maximum in G2 phase",
+        "Co‑ordinated with DNA synthesis",
+        "Independent of DNA replication"
+      ],
+      "answer": 2,
+      "explanation": "Histone proteins are produced concurrently with DNA synthesis so that newly formed DNA can be promptly packaged into nucleosomes.",
+      "topic": "S phase"
+    },
+    {
+      "question": "Which checkpoint specifically monitors the integrity of DNA replication during the S phase?",
+      "options": [
+        "G1 checkpoint",
+        "G2/M checkpoint",
+        "S‑phase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The S‑phase checkpoint detects stalled replication forks or DNA damage and halts cell‑cycle progression until replication is completed correctly.",
+      "topic": "S phase"
+    },
+    {
+      "question": "In eukaryotes, which protein complex first recognizes replication origins and initiates DNA unwinding at the start of S phase?",
+      "options": [
+        "DNA polymerase",
+        "Origin recognition complex (ORC)",
+        "Telomerase",
+        "Cohesin"
+      ],
+      "answer": 1,
+      "explanation": "The ORC binds to origin sequences and recruits other factors that unwind DNA and assemble the replication machinery.",
+      "topic": "S phase"
+    },
+    {
+      "question": "The short DNA fragments synthesized discontinuously on the lagging strand during S phase are called:",
+      "options": [
+        "Okazaki fragments",
+        "Introns",
+        "Exons",
+        "Telomeres"
+      ],
+      "answer": 0,
+      "explanation": "Okazaki fragments are synthesized in the opposite direction to the replication fork movement and later joined by DNA ligase.",
+      "topic": "S phase"
+    },
+    {
+      "question": "Which statement correctly describes the semi‑conservative nature of DNA replication in S phase?",
+      "options": [
+        "Each daughter DNA molecule contains one parental strand and one newly synthesized strand",
+        "Both strands of each daughter DNA are newly synthesized",
+        "Each daughter DNA molecule contains two parental strands",
+        "Parental DNA strands are degraded and replaced entirely"
+      ],
+      "answer": 0,
+      "explanation": "In semi‑conservative replication, each of the two original strands serves as a template for a new complementary strand, yielding two hybrid DNA molecules.",
+      "topic": "S phase"
+    },
+    {
+      "question": "Which process primarily occurs during the G2 phase of the cell cycle?",
+      "options": [
+        "DNA replication",
+        "Chromosome condensation",
+        "Synthesis of microtubule‑organizing proteins",
+        "Cytokinesis"
+      ],
+      "answer": 2,
+      "explanation": "During G2 the cell synthesizes proteins required for mitosis, including those that form the microtubule‑organizing centers (centrosomes) and spindle apparatus.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "The G2/M checkpoint mainly prevents entry into mitosis until which condition is satisfied?",
+      "options": [
+        "DNA replication is complete",
+        "Chromosomes are aligned at the metaphase plate",
+        "All DNA damage is repaired",
+        "Cytokinesis is finished"
+      ],
+      "answer": 2,
+      "explanation": "The G2 checkpoint monitors DNA integrity; cells are allowed to proceed to M phase only after any DNA damage incurred during replication has been repaired.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "Which cyclin‑CDK complex triggers the onset of mitosis at the end of G2 phase?",
+      "options": [
+        "Cyclin D‑CDK4",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 3,
+      "explanation": "Cyclin B binds to CDK1 forming the M‑phase promoting factor (MPF), whose activation drives the G2‑to‑M transition.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "Why does the amount of RNA and protein increase during G2 phase?",
+      "options": [
+        "It provides energy for cytokinesis",
+        "It prepares the cell for rapid DNA synthesis in S phase",
+        "It supplies components required for spindle formation and chromosome segregation",
+        "It triggers apoptosis if DNA is damaged"
+      ],
+      "answer": 2,
+      "explanation": "The elevated synthesis of RNA and protein in G2 supplies the structural and enzymatic components needed for spindle assembly and accurate chromosome segregation during mitosis.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "A cell line with a defective G2 checkpoint is most likely to exhibit which outcome?",
+      "options": [
+        "Permanent arrest in G1 phase",
+        "Increased frequency of aneuploidy",
+        "Enhanced DNA‑repair efficiency",
+        "Decreased rate of cell proliferation"
+      ],
+      "answer": 1,
+      "explanation": "Failure of the G2 checkpoint allows cells with unrepaired DNA or replication errors to enter mitosis, leading to missegregation of chromosomes and aneuploidy.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "Which organelle duplicates during G2 phase to ensure proper spindle formation?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Centrosome",
+        "Golgi apparatus"
+      ],
+      "answer": 2,
+      "explanation": "Centrosomes duplicate in G2, providing two mature centrosomes that nucleate the bipolar mitotic spindle.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "Activation of which kinase by dephosphorylation governs the G2‑to‑M transition?",
+      "options": [
+        "CDK4",
+        "CDK2",
+        "CDK1",
+        "CDK5"
+      ],
+      "answer": 2,
+      "explanation": "Dephosphorylation activates CDK1 (part of the Cyclin B‑CDK1 complex), which is essential for initiating mitosis.",
+      "topic": "G2 phase"
+    },
+    {
+      "question": "Which event characterizes the transition from prophase to metaphase in the M phase?",
+      "options": [
+        "Nuclear envelope breakdown",
+        "Alignment of chromosomes at the metaphase plate",
+        "Separation of sister chromatids",
+        "Reformation of the nuclear envelope"
+      ],
+      "answer": 1,
+      "explanation": "At the end of prophase the nuclear envelope breaks down, and the chromosomes become fully attached to spindle fibers and align at the cell equator, forming the metaphase plate, marking the transition to metaphase.",
+      "topic": "M phase"
+    },
+    {
+      "question": "During anaphase, the separation of sister chromatids is driven primarily by:",
+      "options": [
+        "Depolymerization of kinetochore microtubules",
+        "Polymerization of polar microtubules",
+        "Sliding of interpolar microtubules",
+        "Disassembly of centrosomes"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochore microtubules shorten by depolymerization at the kinetochore, pulling the sister chromatids toward opposite poles during anaphase.",
+      "topic": "M phase"
+    },
+    {
+      "question": "Which structure is responsible for cytokinesis in animal cells?",
+      "options": [
+        "Cell plate",
+        "Cleavage furrow",
+        "Spindle fibers",
+        "Nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "In animal cells a contractile ring of actin‑myosin forms a cleavage furrow that deepens to separate the two daughter cells during cytokinesis.",
+      "topic": "M phase"
+    },
+    {
+      "question": "The checkpoint that ensures all chromosomes are correctly attached to spindle fibers before proceeding to anaphase is called:",
+      "options": [
+        "G1 checkpoint",
+        "G2/M checkpoint",
+        "Metaphase (spindle assembly) checkpoint",
+        "DNA damage checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The spindle assembly (metaphase) checkpoint monitors kinetochore‑microtubule attachment and tension; the cell does not enter anaphase until all chromosomes are properly bi‑oriented.",
+      "topic": "M phase"
+    },
+    {
+      "question": "In telophase, which of the following occurs?",
+      "options": [
+        "Chromosomes decondense",
+        "Sister chromatids separate",
+        "Nuclear envelope disintegrates",
+        "Spindle fibers elongate"
+      ],
+      "answer": 0,
+      "explanation": "During telophase the chromosomes begin to decondense, nuclear envelopes re‑form around each set of chromosomes, and the spindle apparatus disassembles.",
+      "topic": "M phase"
+    },
+    {
+      "question": "Which cyclin‑CDK complex is primarily active during the M phase?",
+      "options": [
+        "Cyclin D‑CDK4/6",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 3,
+      "explanation": "Cyclin B binds to CDK1 (also called Cdc2) to form the maturation‑promoting factor (MPF), which drives entry into and progression through M phase.",
+      "topic": "M phase"
+    },
+    {
+      "question": "Compared to mitosis, meiosis I differs in that during metaphase I:",
+      "options": [
+        "Homologous chromosomes line up as pairs",
+        "Sister chromatids line up individually",
+        "No spindle formation occurs",
+        "Cytokinesis occurs before anaphase"
+      ],
+      "answer": 0,
+      "explanation": "In metaphase I of meiosis, each homologous pair (tetrad) aligns at the metaphase plate, unlike mitosis where individual sister chromatids align.",
+      "topic": "M phase"
+    },
+    {
+      "question": "Which enzyme synthesizes the RNA primer required to initiate DNA synthesis during the S phase in eukaryotic cells?",
+      "options": [
+        "DNA polymerase α (primase activity)",
+        "DNA helicase",
+        "DNA ligase",
+        "Topoisomerase II"
+      ],
+      "answer": 0,
+      "explanation": "DNA polymerase α possesses primase activity that lays down a short RNA primer, providing a 3'‑OH for DNA polymerases to extend.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "The leading strand is synthesized continuously in the 5'→3' direction. How does the movement of the replication fork relate to this synthesis?",
+      "options": [
+        "The fork moves in the same direction as leading‑strand synthesis",
+        "The fork moves opposite to the direction of leading‑strand synthesis",
+        "The fork remains stationary while DNA is synthesized",
+        "The fork moves randomly without a defined direction"
+      ],
+      "answer": 0,
+      "explanation": "As the leading strand is extended continuously, the replication fork progresses forward in the same direction, unwinding the parental DNA ahead of synthesis.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "Which enzyme is primarily responsible for joining adjacent Okazaki fragments on the lagging strand during S‑phase DNA replication?",
+      "options": [
+        "DNA ligase I",
+        "DNA polymerase δ",
+        "DNA helicase",
+        "Topoisomerase I"
+      ],
+      "answer": 0,
+      "explanation": "DNA ligase I catalyzes the formation of phosphodiester bonds between the 3'‑OH of one fragment and the 5'‑phosphate of the next, sealing Okazaki fragments.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "Which statement correctly describes the origin of replication in eukaryotic chromosomes?",
+      "options": [
+        "Each chromosome contains a single origin of replication",
+        "Origins are AT‑rich sequences recognized by the Origin Recognition Complex (ORC)",
+        "Origins are present only in mitochondrial DNA",
+        "Origins become active only after the G2 phase"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic origins are typically AT‑rich regions where the ORC binds to initiate replication; multiple origins exist per chromosome.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "Unwinding of DNA ahead of the replication fork generates supercoils. Which enzyme relieves this torsional stress in eukaryotic cells?",
+      "options": [
+        "DNA ligase",
+        "DNA helicase",
+        "Topoisomerase II (DNA gyrase‑like)",
+        "RNA polymerase"
+      ],
+      "answer": 2,
+      "explanation": "Topoisomerase II cuts both strands, allows passage of another DNA segment, and reseals the break, removing positive supercoils ahead of the fork.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "Which cell‑cycle checkpoint specifically monitors the completion of DNA replication before the cell proceeds to G2 phase?",
+      "options": [
+        "G1/S checkpoint",
+        "S‑phase checkpoint",
+        "G2/M checkpoint",
+        "Metaphase checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The S‑phase checkpoint detects stalled or incomplete replication and activates pathways that halt progression until DNA synthesis is finished.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "During S‑phase DNA replication, the lagging strand is synthesized as:",
+      "options": [
+        "A continuous strand",
+        "Discontinuous fragments called Okazaki fragments",
+        "In the 3'→5' direction",
+        "Without the need for RNA primers"
+      ],
+      "answer": 1,
+      "explanation": "The lagging strand is synthesized discontinuously as short Okazaki fragments, each initiated by an RNA primer and later joined by DNA ligase.",
+      "topic": "DNA replication during S phase"
+    },
+    {
+      "question": "Which process predominantly occurs during the G1 phase of interphase?",
+      "options": [
+        "DNA replication",
+        "Cytokinesis",
+        "Synthesis of ribosomal RNA and proteins",
+        "Mitosis"
+      ],
+      "answer": 2,
+      "explanation": "G1 is a growth phase where the cell synthesizes RNA (including rRNA) and proteins to increase its size and prepare for DNA replication.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "The increase in cell size during G2 phase is primarily due to:",
+      "options": [
+        "DNA replication",
+        "Mitochondrial biogenesis and accumulation of cytoplasmic components",
+        "Chromosome condensation",
+        "Spindle formation"
+      ],
+      "answer": 1,
+      "explanation": "During G2 the cell continues to grow by producing more mitochondria and other organelles, accumulating cytoplasmic material needed for mitosis.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "Which checkpoint ensures that the cell has attained sufficient size before entering S phase?",
+      "options": [
+        "G1/S checkpoint",
+        "G2/M checkpoint",
+        "Metaphase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 0,
+      "explanation": "The G1/S (restriction) checkpoint monitors cell size, nutrient status and growth‑factor signals before allowing DNA synthesis to begin.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "Growth factors promote G1 progression by stimulating synthesis of cyclin D, which partners with CDK4/6 to phosphorylate which protein?",
+      "options": [
+        "p53",
+        "Rb",
+        "Cyclin B",
+        "APC/C"
+      ],
+      "answer": 1,
+      "explanation": "Cyclin D‑CDK4/6 phosphorylates the retinoblastoma protein (Rb), releasing E2F transcription factors and permitting entry into S phase.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "Cell growth during interphase is chiefly regulated by which intracellular signaling pathway that senses nutrient availability?",
+      "options": [
+        "mTOR pathway",
+        "MAPK pathway",
+        "JAK-STAT pathway",
+        "Wnt pathway"
+      ],
+      "answer": 0,
+      "explanation": "The mechanistic target of rapamycin (mTOR) integrates growth‑factor and nutrient signals to stimulate protein synthesis and cell growth in interphase.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "Which statement about cell growth during interphase is FALSE?",
+      "options": [
+        "G1 phase is characterized by increase in cell mass and synthesis of RNA",
+        "S phase includes DNA replication but no net increase in cell size",
+        "G2 phase prepares the cell for mitosis by synthesizing proteins required for chromosome segregation",
+        "Cell growth is independent of extracellular growth factors"
+      ],
+      "answer": 3,
+      "explanation": "Cell growth is heavily dependent on extracellular growth factors; without them, the cell cannot progress through G1.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "In plant cells, the increase in cell size during interphase is accompanied mainly by:",
+      "options": [
+        "Formation of a rigid cell wall",
+        "Deposition of chloroplasts",
+        "Expansion of vacuole",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "During interphase, especially in G1 and G2, the central vacuole expands, contributing significantly to the increase in cell volume in plant cells.",
+      "topic": "Cell growth during interphase"
+    },
+    {
+      "question": "Which event primarily occurs during the G2 phase to ready the cell for mitosis?",
+      "options": [
+        "DNA replication",
+        "Centrosome duplication",
+        "Synthesis of microtubules",
+        "Chromosome condensation"
+      ],
+      "answer": 2,
+      "explanation": "During G2 the cell synthesizes microtubules and other proteins required for spindle formation, preparing for mitosis.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Growth in cell size and accumulation of organelles during interphase are mainly driven by which cyclin‑CDK complex?",
+      "options": [
+        "Cyclin D‑CDK4/6",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 0,
+      "explanation": "Cyclin D bound to CDK4/6 is active in early G1 and promotes cell growth and biosynthesis before DNA replication.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Which checkpoint verifies that DNA replication is complete before the cell enters mitosis?",
+      "options": [
+        "G1 checkpoint",
+        "G2/M checkpoint",
+        "Metaphase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2/M (DNA damage) checkpoint monitors the integrity and completeness of DNA replication before allowing entry into M phase.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "During preparation for cell division, the activity of which enzyme increases to unwind the replicated DNA?",
+      "options": [
+        "DNA polymerase III",
+        "DNA helicase",
+        "RNA polymerase II",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "DNA helicase unwinds the double helix, a step essential for processes such as chromosome condensation and segregation in mitosis.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Which statement about the G1 phase is FALSE?",
+      "options": [
+        "Cell grows in size",
+        "DNA is replicated",
+        "Synthesis of RNA and proteins occurs",
+        "Cell checks for growth factors"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication occurs in the S phase, not in G1; G1 is dedicated to cell growth and preparation for DNA synthesis.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Duplication of centrosomes, ensuring formation of a bipolar spindle, takes place in which phase?",
+      "options": [
+        "G1",
+        "S",
+        "G2",
+        "M"
+      ],
+      "answer": 1,
+      "explanation": "Centrosome duplication is coordinated with DNA replication and occurs during the S phase.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Which of the following is NOT a specific preparation event for mitosis?",
+      "options": [
+        "Condensation of chromatin",
+        "Formation of the mitotic spindle",
+        "Synthesis of ribosomal RNA",
+        "Disassembly of nuclear envelope"
+      ],
+      "answer": 2,
+      "explanation": "Ribosomal RNA synthesis is a continuous cellular activity and not a dedicated mitotic preparation; the other three are directly involved in mitotic setup.",
+      "topic": "Preparation for cell division"
+    },
+    {
+      "question": "Which checkpoint ensures that a cell does not enter S phase until its DNA is free of damage?",
+      "options": [
+        "G1 restriction point",
+        "G2/M checkpoint",
+        "Spindle assembly checkpoint",
+        "Metaphase checkpoint"
+      ],
+      "answer": 0,
+      "explanation": "The G1 restriction point (G1/S checkpoint) monitors DNA integrity and prevents entry into S phase if damage is detected.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "The tumor suppressor protein p53 primarily exerts its function at which cell‑cycle checkpoint?",
+      "options": [
+        "G1/S checkpoint",
+        "G2/M checkpoint",
+        "Spindle assembly checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 0,
+      "explanation": "p53 activates transcription of p21, which inhibits cyclin‑E/CDK2 at the G1/S checkpoint, halting the cycle in response to DNA damage.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "In response to DNA double‑strand breaks, which kinase is crucial for activating the G2/M checkpoint?",
+      "options": [
+        "ATM kinase",
+        "CDK1",
+        "PLK1",
+        "APC/C complex"
+      ],
+      "answer": 0,
+      "explanation": "ATM (Ataxia‑telangiectasia mutated) detects double‑strand breaks and phosphorylates downstream effectors to enforce the G2/M checkpoint.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "The spindle assembly checkpoint prevents progression from metaphase to anaphase by inhibiting which complex?",
+      "options": [
+        "Anaphase‑promoting complex/cyclosome (APC/C)",
+        "DNA polymerase δ",
+        "RNA polymerase II",
+        "Ribosomal subunit assembly"
+      ],
+      "answer": 0,
+      "explanation": "Unattached kinetochores generate a signal that keeps the APC/C inactive, thereby blocking the metaphase‑to‑anaphase transition.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "Which cyclin‑CDK complex is directly inhibited by the G2 checkpoint to block entry into mitosis?",
+      "options": [
+        "Cyclin B‑CDK1",
+        "Cyclin D‑CDK4/6",
+        "Cyclin A‑CDK2",
+        "Cyclin E‑CDK2"
+      ],
+      "answer": 0,
+      "explanation": "The G2 checkpoint prevents activation of the Cyclin B‑CDK1 (MPF) complex, which is essential for initiating mitosis.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "When DNA replication is incomplete, which checkpoint kinase phosphorylates Cdc25C to keep CDK1 inactive?",
+      "options": [
+        "Chk1",
+        "p53",
+        "Retinoblastoma protein (Rb)",
+        "Cyclin B"
+      ],
+      "answer": 0,
+      "explanation": "Chk1 phosphorylates Cdc25C, preventing it from dephosphorylating and activating CDK1, thereby enforcing the G2 checkpoint.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "Which statement is FALSE regarding cells that have passed the G1 restriction point?",
+      "options": [
+        "They are committed to complete the cell cycle",
+        "They no longer require external mitogenic growth factors",
+        "They can enter S phase without any further checkpoints",
+        "They have active cyclin D‑CDK4/6 complexes"
+      ],
+      "answer": 2,
+      "explanation": "Even after passing the G1 restriction point, cells are still subject to G2 and spindle assembly checkpoints; they cannot bypass all subsequent checks.",
+      "topic": "Cell cycle checkpoints"
+    },
+    {
+      "question": "Which statement correctly describes the role of cyclin‑dependent kinase (CDK) activity during the G1‑S transition?",
+      "options": [
+        "CDK activity is inhibited by binding of cyclin D",
+        "Phosphorylation of retinoblastoma protein by cyclin D‑CDK4/6 complex releases E2F",
+        "Cyclin A binds CDK2 to initiate DNA replication",
+        "CDK activity is independent of cyclins"
+      ],
+      "answer": 1,
+      "explanation": "The cyclin D‑CDK4/6 complex phosphorylates Rb, causing release of E2F transcription factors that activate genes required for S phase.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "The tumor suppressor protein p53 induces cell‑cycle arrest mainly by up‑regulating which CDK inhibitor?",
+      "options": [
+        "p21^Cip1",
+        "p27^Kip1",
+        "p16^INK4a",
+        "Cyclin B"
+      ],
+      "answer": 0,
+      "explanation": "p53 activates transcription of the CDK inhibitor p21^Cip1, which binds and inhibits cyclin‑CDK complexes, causing G1 arrest.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "Which checkpoint monitors the integrity of the spindle apparatus before the onset of anaphase?",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Metaphase (spindle assembly) checkpoint",
+        "DNA damage checkpoint"
+      ],
+      "answer": 2,
+      "explanation": "The spindle assembly (metaphase) checkpoint ensures all kinetochores are attached to spindle microtubules before allowing progression to anaphase.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "The anaphase‑promoting complex/cyclosome (APC/C) triggers metaphase‑to‑anaphase transition by targeting which protein for ubiquitin‑mediated degradation?",
+      "options": [
+        "Cyclin D",
+        "Securin",
+        "p21",
+        "Retinoblastoma protein"
+      ],
+      "answer": 1,
+      "explanation": "APC/C ubiquitinates securin, leading to its degradation and freeing separase to cleave cohesin, allowing sister‑chromatid separation.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "In the presence of growth factors, synthesis of which cyclin is up‑regulated to promote progression through G1 phase?",
+      "options": [
+        "Cyclin B",
+        "Cyclin D",
+        "Cyclin A",
+        "Cyclin E"
+      ],
+      "answer": 1,
+      "explanation": "Growth factor signaling stimulates transcription of cyclin D, which partners with CDK4/6 to drive G1 progression.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "Why is the G2 checkpoint crucial before entry into mitosis?",
+      "options": [
+        "It ensures that the cell has sufficient nutrients",
+        "It verifies that DNA replication is complete and DNA is undamaged",
+        "It checks for proper chromosome alignment at the metaphase plate",
+        "It monitors the size of the cell"
+      ],
+      "answer": 1,
+      "explanation": "The G2 checkpoint assesses whether DNA replication has finished and DNA damage has been repaired, preventing entry into mitosis with genomic errors.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "CDK1 (Cdc2) is inhibited during interphase by phosphorylation at which residues, and which phosphatase removes these inhibitory phosphates to activate CDK1 at mitosis onset?",
+      "options": [
+        "Tyrosine residues; Protein phosphatase 1",
+        "Threonine residues; Calcineurin",
+        "Tyrosine and threonine residues; Cdc25 phosphatase",
+        "Serine residues; PP2A"
+      ],
+      "answer": 2,
+      "explanation": "CDK1 is kept inactive by phosphorylation on tyrosine and threonine residues; the Cdc25 phosphatase dephosphorylates these sites, activating CDK1 for mitotic entry.",
+      "topic": "Regulation of cell cycle"
+    },
+    {
+      "question": "The primary reason multicellular organisms increase in size after birth is because of:",
+      "options": [
+        "Increase in cell size (hypertrophy)",
+        "Increase in number of cells (hyperplasia)",
+        "Accumulation of extracellular matrix",
+        "Programmed cell death (apoptosis)"
+      ],
+      "answer": 1,
+      "explanation": "Growth after birth occurs mainly by hyperplasia, i.e., proliferation of cells, which raises the total cell number.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "Which process directly depends on cell division for healing of a cut skin wound?",
+      "options": [
+        "Protein synthesis",
+        "Angiogenesis",
+        "Replacement of lost epidermal cells",
+        "Inflammation"
+      ],
+      "answer": 2,
+      "explanation": "Healing requires new epidermal cells to replace those lost; this replacement is achieved through mitotic division of basal keratinocytes.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "In unicellular organisms like Amoeba, cell division serves mainly as:",
+      "options": [
+        "A means of sexual reproduction",
+        "A way to increase genetic variation",
+        "A method of asexual reproduction",
+        "A process to eliminate damaged organelles"
+      ],
+      "answer": 2,
+      "explanation": "Amoebae reproduce asexually by binary fission, where a single cell divides to give rise to two genetically identical daughter cells.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "During mitotic cell division, the significance of sister chromatid separation is to:",
+      "options": [
+        "Halve the chromosome number",
+        "Ensure each daughter cell receives an identical set of chromosomes",
+        "Create genetic diversity",
+        "Produce haploid gametes"
+      ],
+      "answer": 1,
+      "explanation": "Separation of sister chromatids guarantees that each daughter cell inherits one complete copy of each chromosome, preserving the diploid chromosome number.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "Which statement best describes the role of cell division in maintaining tissue homeostasis?",
+      "options": [
+        "Cells continuously divide without any regulation",
+        "Cell division replaces cells lost by apoptosis at a rate matching loss",
+        "Cell division only occurs during embryonic development",
+        "Cell division leads to accumulation of mutations"
+      ],
+      "answer": 1,
+      "explanation": "Homeostasis is achieved when cell proliferation balances cell loss (e.g., by apoptosis), keeping tissue cell numbers constant.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "The significance of cell division in embryonic development includes:",
+      "options": [
+        "Formation of identical clones of the embryo only",
+        "Generation of diverse cell types through differentiation after division",
+        "Reduction of chromosome number",
+        "Preventing any growth after fertilization"
+      ],
+      "answer": 1,
+      "explanation": "Repeated rounds of division provide a pool of cells that can later differentiate into various specialized cell types, driving morphogenesis.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "Uncontrolled cell division is a hallmark of:",
+      "options": [
+        "Apoptosis",
+        "Necrosis",
+        "Cancer",
+        "Autophagy"
+      ],
+      "answer": 2,
+      "explanation": "Cancer arises when regulatory mechanisms fail, leading to unchecked proliferation of abnormal cells.",
+      "topic": "Significance of cell division"
+    },
+    {
+      "question": "During prophase of mitosis, chromosomes become visible because of which process?",
+      "options": [
+        "DNA replication",
+        "Chromosome condensation",
+        "Spindle fiber formation",
+        "Nuclear envelope breakdown"
+      ],
+      "answer": 1,
+      "explanation": "Chromosome condensation compacts the long DNA molecules into distinct rod‑shaped structures that can be seen under a microscope.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "At metaphase, chromosomes align at the metaphase plate primarily due to:",
+      "options": [
+        "Attachment of kinetochores to microtubules from opposite poles",
+        "Duplication of centromeres",
+        "Separation of sister chromatids",
+        "Reformation of the nuclear envelope"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochores on each sister chromatid bind microtubules emanating from opposite spindle poles, generating tension that aligns chromosomes at the cell equator.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "The poleward movement of chromosomes in anaphase A is driven by:",
+      "options": [
+        "Depolymerization of kinetochore microtubules",
+        "Sliding of interpolar microtubules",
+        "Contraction of the actomyosin ring",
+        "Further chromosome condensation"
+      ],
+      "answer": 0,
+      "explanation": "Shortening of kinetochore microtubules by depolymerization pulls the chromosomes toward the spindle poles during anaphase A.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "Which statement about sister‑chromatid cohesion is correct?",
+      "options": [
+        "Cohesin complexes are removed from chromosome arms at anaphase onset",
+        "Cohesin remains at centromeres until telophase",
+        "Cohesin is absent during metaphase",
+        "Cohesin is only present in prophase"
+      ],
+      "answer": 0,
+      "explanation": "At the onset of anaphase, cohesin is cleaved from the chromosome arms, allowing arm separation, while centromeric cohesin persists until later stages.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "During meiosis I, homologous chromosomes behave like:",
+      "options": [
+        "Sister chromatids",
+        "Independent chromosomes",
+        "Paired homologues aligning at the metaphase plate",
+        "Unreplicated chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis I is a reductional division where each pair of homologous chromosomes aligns together at the metaphase plate and then segregates.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "The term \"chiasma\" refers to:",
+      "options": [
+        "Point of spindle attachment",
+        "Site of crossing over between homologous chromosomes",
+        "Centromere region",
+        "Region of DNA replication origin"
+      ],
+      "answer": 1,
+      "explanation": "A chiasma is the visible manifestation of genetic exchange (crossing over) between homologous chromosomes during prophase I.",
+      "topic": "Chromosome behaviour during division"
+    },
+    {
+      "question": "Reformation of the nuclear envelope around separated daughter chromosomes occurs in which phase?",
+      "options": [
+        "Anaphase",
+        "Telophase",
+        "Prophase",
+        "Metaphase"
+      ],
+      "answer": 1,
+      "explanation": "During telophase, nuclear membranes reassemble around each set of chromosomes, forming two distinct nuclei.",
+      "topic": "Chromosome behaviour during division"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 14,
+    "mcqCount": 98
+  }
+}

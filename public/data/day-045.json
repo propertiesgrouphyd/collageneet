@@ -1,0 +1,1695 @@
+{
+  "day": 45,
+  "courseDate": "2026-10-13",
+  "publishAt": "2026-10-13T06:00:00+05:30",
+  "title": "Day 45: Integrated Revision of Cell Cycle and Cell Division",
+  "introduction": "This lesson provides a concise, NEET‑focused revision of the entire cell‑cycle, mitosis, meiosis and associated high‑yield concepts, enabling rapid recall and accurate answer selection.",
+  "sections": [
+    {
+      "topic": "Complete cell-cycle revision",
+      "heading": "Overall Cell‑Cycle Overview",
+      "content": "The eukaryotic cell‑cycle comprises G1, S, G2 (collectively interphase) followed by M phase. Checkpoints at G1/S, G2/M and spindle ensure fidelity. Cyclin‑dependent kinases drive transitions, while DNA replication occurs only in S phase and chromosome condensation begins in prophase.",
+      "keyPoints": [
+        "G1 → S → G2 → M sequence",
+        "Three major checkpoints",
+        "Cyclins rise and fall cyclically"
+      ],
+      "neetTips": [
+        "Memorise the order G1‑S‑G2‑M with the mnemonic \"Go Study More\"",
+        "Link each checkpoint to its key regulator (e.g., p53 at G1/S)"
+      ]
+    },
+    {
+      "topic": "Interphase event mapping",
+      "heading": "Events in Interphase",
+      "content": "G1: cell growth, organelle synthesis, preparation for DNA synthesis. S: bidirectional replication of each chromosome, forming sister chromatids; DNA content doubles (2C→4C). G2: further growth, synthesis of microtubules, and activation of mitotic cyclins. No visible chromosomal changes.",
+      "keyPoints": [
+        "G1 – growth, no DNA change",
+        "S – DNA replication, 2C→4C",
+        "G2 – preparation for M"
+      ],
+      "neetTips": [
+        "Associate G1 with \"Grow\", S with \"Synthesize DNA\", G2 with \"Gear up for M\""
+      ]
+    },
+    {
+      "topic": "Mitosis stage identification",
+      "heading": "Mitosis Stages",
+      "content": "Prophase – chromatin condenses, nuclear envelope breaks, spindle forms. Metaphase – chromosomes align at metaphase plate, kinetochores attach. Anaphase – sister chromatids separate, move to poles. Telophase – nuclear envelopes re‑form, chromosomes decondense.",
+      "keyPoints": [
+        "Prophase: condensation & NE breakdown",
+        "Metaphase: plate alignment",
+        "Anaphase: chromatid separation",
+        "Telophase: re‑formation of nuclei"
+      ],
+      "neetTips": [
+        "Visualise the sequence as \"C‑P‑S‑D\" (Condense, Plate, Separate, Decondense)"
+      ]
+    },
+    {
+      "topic": "Meiosis stage identification",
+      "heading": "Meiosis Overview",
+      "content": "Meiosis I (reductional): Prophase I (leptotene‑diakinesis), Metaphase I (homologous pairs at plate), Anaphase I (homologs separate), Telophase I (two haploid nuclei). Meiosis II mirrors mitosis without DNA replication: Prophase II, Metaphase II, Anaphase II, Telophase II.",
+      "keyPoints": [
+        "Meiosis I reduces chromosome number",
+        "Meiosis II separates sister chromatids",
+        "No DNA synthesis between I and II"
+      ],
+      "neetTips": [
+        "Remember Meiosis I = \"Homologs separate\", Meiosis II = \"Sisters separate\""
+      ]
+    },
+    {
+      "topic": "Prophase I substage identification",
+      "heading": "Prophase I Substages",
+      "content": "Leptotene – chromosomes begin to coil; Zygotene – synapsis initiates, formation of the synaptonemal complex; Pachytene – crossing over occurs, chiasmata visible; Diplotene – homologs start to separate but remain attached at chiasmata; Diakinesis – chromosomes fully condense, chiasmata move to terminal positions.",
+      "keyPoints": [
+        "Leptotene: coil",
+        "Zygotene: synapsis start",
+        "Pachytene: crossing over",
+        "Diplotene: chiasmata hold",
+        "Diakinesis: terminal chiasmata"
+      ],
+      "neetTips": [
+        "Mnemonic \"LZPDD\" for order of substages"
+      ]
+    },
+    {
+      "topic": "Chromosome counting practice",
+      "heading": "Counting Chromosomes in Stages",
+      "content": "Diploid somatic cell (2n) = 46 chromosomes. In G1: 46 (2C). After S: 46 chromosomes each with two sister chromatids (4C). In Mitosis metaphase: 46 condensed chromosomes. In Meiosis I metaphase: 46 homologous pairs (still 46 chromosomes, 2C). In Meiosis II metaphase: 23 chromosomes per cell, each with two chromatids (2C).",
+      "keyPoints": [
+        "Somatic G1: 46 chromosomes, 2C",
+        "Post‑S: 46 chromosomes, 4C",
+        "Meiosis I: 46 chromosomes, 2C",
+        "Meiosis II: 23 chromosomes, 2C"
+      ],
+      "neetTips": [
+        "Always separate chromosome number (n) from DNA content (C)"
+      ]
+    },
+    {
+      "topic": "Chromatid counting practice",
+      "heading": "Counting Sister Chromatids",
+      "content": "In G1 each chromosome has 1 chromatid. After S phase each has 2 (total 92 chromatids). Metaphase of mitosis: 92 chromatids. Anaphase of mitosis: 46 chromatids per pole. Meiosis I: homologs separate, each still has 2 chromatids (92 total). Meiosis II anaphase: each chromatid separates, yielding 46 chromatids per daughter cell.",
+      "keyPoints": [
+        "G1: 1 chromatid per chromosome",
+        "Post‑S: 2 chromatids per chromosome",
+        "Mitosis anaphase: 1 chromatid per pole",
+        "Meiosis I retains sister chromatids"
+      ],
+      "neetTips": [
+        "Link ‘chromatid’ count directly to DNA content (C)"
+      ]
+    },
+    {
+      "topic": "DNA-content changes through cell cycle",
+      "heading": "DNA Content (C value) Dynamics",
+      "content": "G1 – 2C (diploid DNA amount). S – DNA synthesis doubles to 4C while chromosome number stays 2n. G2 – remains 4C. M – after cytokinesis each daughter returns to 2C. In meiosis, after Meiosis I each cell is 2C but haploid (n); after Meiosis II each is 1C (haploid DNA).",
+      "keyPoints": [
+        "G1: 2C",
+        "S/G2: 4C",
+        "Post‑M: 2C",
+        "Meiosis I: 2C haploid",
+        "Meiosis II: 1C haploid"
+      ],
+      "neetTips": [
+        "Remember ‘C’ follows DNA amount, not chromosome number"
+      ]
+    },
+    {
+      "topic": "Mitosis versus meiosis integrated comparison",
+      "heading": "Mitosis vs Meiosis – Key Differences",
+      "content": "Mitosis: one division, produces 2 diploid (2n) cells, identical chromosomes, no crossing over. Meiosis: two divisions, yields 4 haploid (n) cells, genetic variation via crossing over and independent assortment, homologous chromosomes separate in Meiosis I.",
+      "keyPoints": [
+        "Divisions: 1 vs 2",
+        "Products: 2 diploid vs 4 haploid",
+        "Genetic variation only in meiosis",
+        "Crossing over absent in mitosis"
+      ],
+      "neetTips": [
+        "Compare using a 2‑column table in mind: \"Mitosis | Meiosis\""
+      ]
+    },
+    {
+      "topic": "Crossing over and genetic variation",
+      "heading": "Crossing Over Mechanism",
+      "content": "During pachytene, non‑sister chromatids of homologous chromosomes exchange DNA at chiasmata. This creates recombinant chromosomes, increasing allelic diversity. Frequency of crossing over varies per chromosome; at least one crossover per bivalent is essential for proper segregation.",
+      "keyPoints": [
+        "Occurs in pachytene",
+        "Involves non‑sister chromatids",
+        "Generates recombination",
+        "Ensures disjunction"
+      ],
+      "neetTips": [
+        "Link crossing over to ‘genetic variation’ and ‘chiasma’"
+      ]
+    },
+    {
+      "topic": "Cytokinesis comparison",
+      "heading": "Cytokinesis in Plant vs Animal Cells",
+      "content": "Animal cells: cleavage furrow forms via actomyosin contractile ring, pinching cell into two. Plant cells: cell plate forms from vesicles at equator, matures into new cell wall. Timing: usually concurrent with telophase in both, but plant cells complete after telophase.",
+      "keyPoints": [
+        "Animal: contractile ring",
+        "Plant: cell plate from vesicles",
+        "Both finish by end of telophase"
+      ],
+      "neetTips": [
+        "Visualise animal cytokinesis as ‘pinching’, plant as ‘building a wall’"
+      ]
+    },
+    {
+      "topic": "Diagram-based questions",
+      "heading": "Approach to Diagram Questions",
+      "content": "Identify stage by key landmarks: chromosome condensation, spindle orientation, metaphase plate, chiasmata, cell plate. Trace the sequence forward or backward. Mark chromosome number and DNA content on the diagram to avoid mistakes.",
+      "keyPoints": [
+        "Look for condensation, plate, chiasmata",
+        "Note chromosome count",
+        "Annotate DNA content"
+      ],
+      "neetTips": [
+        "Practice labeling NCERT diagrams repeatedly"
+      ]
+    },
+    {
+      "topic": "NCERT line-based concepts",
+      "heading": "NCERT Line Highlights for Quick Recall",
+      "content": "Key NCERT lines: “Each chromosome consists of two sister chromatids after S phase”, “Crossing over occurs in prophase I (pachytene)”, “Meiosis I is reductional, Meiosis II is equational”, “Cytokinesis in plants forms a cell plate”. Memorise verbatim for NEET answer justification.",
+      "keyPoints": [
+        "Chromatid formation after S",
+        "Crossing over in pachytene",
+        "Reductional vs equational divisions",
+        "Plant cytokinesis cell plate"
+      ],
+      "neetTips": [
+        "Write these lines on a sticky note for daily revision"
+      ]
+    },
+    {
+      "topic": "Sequence-based questions",
+      "heading": "Solving Sequence‑Based Items",
+      "content": "Read the question stem, list events in chronological order, match with the given sequence options. Use checkpoint knowledge: G1 precedes S, which precedes G2, then M. For meiosis, remember homolog separation precedes chromatid separation.",
+      "keyPoints": [
+        "Chronology: G1→S→G2→M",
+        "Meiosis I before Meiosis II",
+        "Checkpoints guide order"
+      ],
+      "neetTips": [
+        "Eliminate options that violate checkpoint order"
+      ]
+    },
+    {
+      "topic": "Assertion and reasoning concepts",
+      "heading": "Handling Assertion‑Reason Types",
+      "content": "Identify the factual assertion (e.g., “Crossing over increases genetic variation”) and the reasoning (e.g., “Because homologous chromosomes exchange DNA segments”). Verify if the reason correctly explains the assertion; both must be true and linked for ‘A‑R’ correct answer.",
+      "keyPoints": [
+        "Both statements must be true",
+        "Reason must directly explain assertion"
+      ],
+      "neetTips": [
+        "Replace technical terms with plain meaning to test logical link"
+      ]
+    },
+    {
+      "topic": "Common NEET traps",
+      "heading": "Frequent Pitfalls to Avoid",
+      "content": "Mistaking chromosome number for chromatid number, confusing 2C with 2n, assuming crossing over occurs in mitosis, overlooking that cytokinesis timing differs in plants, and mixing up stages of prophase I with prophase of mitosis. Also, misreading “haploid” as “half DNA” instead of “n chromosomes”.",
+      "keyPoints": [
+        "Chromosome ≠ chromatid",
+        "2C ≠ 2n",
+        "Crossing over only in meiosis",
+        "Plant vs animal cytokinesis timing"
+      ],
+      "neetTips": [
+        "Create a ‘trap list’ and review before each mock test"
+      ]
+    },
+    {
+      "topic": "Integrated chapter practice",
+      "heading": "Comprehensive Revision Strategy",
+      "content": "Combine all concepts: start with the full cell‑cycle diagram, annotate interphase events, map mitosis and meiosis stages, insert prophase I substages, calculate chromosome/chromatid numbers at each point, indicate DNA content (C value), and highlight crossing over and cytokinesis differences. Solve at least five integrated NCERT‑style questions daily.",
+      "keyPoints": [
+        "Full‑cycle diagram with annotations",
+        "Calculate numbers at each stage",
+        "Highlight variation points"
+      ],
+      "neetTips": [
+        "Allocate 15 min daily for integrated practice; use timed mock questions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Recall the complete sequence and key events of the cell‑cycle, interphase, mitosis and meiosis",
+    "Distinguish between chromosome, chromatid and DNA‑content (C) values at every stage",
+    "Identify prophase I substages and explain crossing over’s role in genetic variation",
+    "Compare mitotic and meiotic processes, including cytokinesis differences, for rapid NEET answer selection"
+  ],
+  "mcqs": [
+    {
+      "question": "In a diploid somatic cell, which phase of the cell cycle has a 4C DNA content just before cell division?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 2,
+      "explanation": "DNA replication occurs during S phase, doubling the DNA content. The cell retains this 4C content through G2 and until the chromosomes separate in M phase. Hence, G2 phase has 4C DNA content just before division.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Which statement correctly describes the chromosome and chromatid numbers in a human somatic cell at metaphase of mitosis and at metaphase I of meiosis?",
+      "options": [
+        "Both have 46 chromosomes; mitosis has 92 chromatids while meiosis I has 46 chromatids",
+        "Mitosis: 46 chromosomes, 92 chromatids; Meiosis I: 23 chromosomes, 46 chromatids",
+        "Mitosis: 23 chromosomes, 46 chromatids; Meiosis I: 46 chromosomes, 92 chromatids",
+        "Both have 23 chromosomes and 46 chromatids"
+      ],
+      "answer": 0,
+      "explanation": "In mitotic metaphase, each of the 46 chromosomes consists of two sister chromatids (92 chromatids). In meiosis I metaphase, homologous chromosomes are paired but each still has two sister chromatids, giving 46 chromosomes (23 pairs) and 46 chromatids.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "During which substage of prophase I does crossing over predominantly occur?",
+      "options": [
+        "Leptotene",
+        "Pachytene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over, the exchange of genetic material between homologous chromosomes, mainly takes place during the pachytene substage of prophase I when homologues are fully synapsed.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "In plant cells, which cellular structure supplies the membrane material required for formation of the cell plate during cytokinesis?",
+      "options": [
+        "Golgi-derived vesicles",
+        "Mitochondria",
+        "Lysosomes",
+        "Peroxisomes"
+      ],
+      "answer": 0,
+      "explanation": "During plant cytokinesis, vesicles derived from the Golgi apparatus coalesce at the centre of the cell to form the cell plate, which later develops into a new cell wall.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Which statement is incorrect regarding chromatids after the S phase in a diploid cell?",
+      "options": [
+        "Each chromosome consists of two sister chromatids",
+        "The total number of chromatids is twice the number of chromosomes",
+        "The chromosome number doubles",
+        "The DNA content doubles"
+      ],
+      "answer": 2,
+      "explanation": "S phase duplicates the DNA, so each chromosome now has two sister chromatids, doubling the DNA content and the number of chromatids, but the chromosome number (count of distinct chromosomes) remains unchanged.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Which of the following correctly distinguishes mitosis from meiosis I?",
+      "options": [
+        "Homologous chromosomes separate in mitosis",
+        "Sister chromatids separate in meiosis I",
+        "Crossing over occurs in meiosis I but not in mitosis",
+        "Cytokinesis occurs twice in mitosis"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over is a hallmark of meiosis I, occurring between homologous chromosomes. It does not happen during mitosis, where homologues do not pair.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Arrange the following phases of the cell cycle in their correct sequential order: S, G2, prophase, metaphase.",
+      "options": [
+        "S → G2 → prophase → metaphase",
+        "G2 → S → prophase → metaphase",
+        "prophase → S → G2 → metaphase",
+        "S → prophase → G2 → metaphase"
+      ],
+      "answer": 0,
+      "explanation": "The correct order is DNA synthesis (S), followed by the second gap (G2), then the first stage of mitosis (prophase), and finally metaphase.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Assertion: \"During meiosis II, sister chromatids separate similarly to mitosis.\" Reason: \"Meiosis II follows a DNA replication step.\"",
+      "options": [
+        "Both A and R are true and R explains A",
+        "Both A and R are true but R does not explain A",
+        "A is true, R is false",
+        "A is false, R is true"
+      ],
+      "answer": 2,
+      "explanation": "The assertion is true: sister chromatids separate in meiosis II just like in mitosis. However, the reason is false because meiosis II occurs without an intervening DNA replication step; the DNA was already replicated during the preceding S phase.",
+      "topic": "Complete cell-cycle revision"
+    },
+    {
+      "question": "Which event is exclusive to the S phase of interphase?",
+      "options": [
+        "DNA replication",
+        "Centrosome duplication",
+        "Cell growth and protein synthesis",
+        "Formation of the mitotic spindle"
+      ],
+      "answer": 0,
+      "explanation": "During the S (synthesis) phase the cell replicates its entire genome, producing identical sister chromatids. Other listed events occur in G1, G2 or M phases.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "Which of the following is NOT a typical occurrence during the G1 phase of interphase?",
+      "options": [
+        "Synthesis of histone proteins",
+        "Increase in cell size",
+        "Preparation for DNA synthesis",
+        "High levels of cyclin B-CDK1 complex"
+      ],
+      "answer": 3,
+      "explanation": "Cyclin B-CDK1 activity peaks in G2/M transition, not in G1. G1 is characterized by cell growth, histone synthesis, and preparation for DNA replication.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "The G2 checkpoint primarily monitors which of the following before a cell enters mitosis?",
+      "options": [
+        "Completion of DNA replication",
+        "Proper chromosome condensation",
+        "Spindle microtubule attachment",
+        "Cytokinesis completion"
+      ],
+      "answer": 0,
+      "explanation": "The G2/M checkpoint ensures that DNA replication has been fully completed and any DNA damage repaired before the cell proceeds to mitosis.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "Centrosome duplication is completed by which interphase subphase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 2,
+      "explanation": "Centrosome duplication initiates in late G1, proceeds through S phase, and is completed by the end of G2, ensuring two centrosomes are available for spindle formation in mitosis.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "Compared to a cell in G1, the DNA content (C value) of a cell at the end of G2 phase is:",
+      "options": [
+        "The same as in G1",
+        "Double that of G1",
+        "Half of the G1 value",
+        "Identical to the M phase value"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication in S phase doubles the amount of DNA; this doubled content is retained through G2, so a G2 cell has 2C DNA, whereas a G1 cell has 1C.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "Which cyclin‑CDK complex shows peak activity at the G1‑to‑S transition?",
+      "options": [
+        "Cyclin D‑CDK4/6",
+        "Cyclin E‑CDK2",
+        "Cyclin A‑CDK2",
+        "Cyclin B‑CDK1"
+      ],
+      "answer": 1,
+      "explanation": "Cyclin E binds CDK2 and drives the cell past the G1/S restriction point, initiating DNA synthesis. Cyclin D acts earlier, Cyclin A later in S, and Cyclin B in G2/M.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "During the S phase, which DNA repair mechanism is most actively employed to correct replication errors?",
+      "options": [
+        "Non‑homologous end joining",
+        "Base excision repair",
+        "Mismatch repair",
+        "Nucleotide excision repair"
+      ],
+      "answer": 2,
+      "explanation": "Mismatch repair detects and corrects base‑pair mismatches that arise during DNA synthesis, ensuring high fidelity of the replicated genome.",
+      "topic": "Interphase event mapping"
+    },
+    {
+      "question": "In which stage of mitosis do chromosomes line up at the cell's equatorial plane, forming the metaphase plate?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "During metaphase, chromosomes align at the cell's equatorial plane, creating the characteristic metaphase plate.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "During which mitotic stage does the nuclear envelope re-form around the separated sets of chromosomes?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 3,
+      "explanation": "In telophase, a new nuclear envelope assembles around each set of chromosomes at opposite poles.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "Which event characterizes prophase in mitosis?",
+      "options": [
+        "Separation of sister chromatids",
+        "Alignment at the metaphase plate",
+        "Condensation of chromatin into visible chromosomes and appearance of spindle fibers",
+        "Reformation of the nuclear envelope"
+      ],
+      "answer": 2,
+      "explanation": "Prophase is marked by chromatin condensation into distinct chromosomes and the emergence of the mitotic spindle.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "In which stage are sister chromatids pulled toward opposite poles after the centromere splits?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "Anaphase involves the splitting of centromeres and the movement of sister chromatids toward opposite poles.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "Cytokinesis in animal cells is initiated by the formation of a cleavage furrow. This process begins during which mitotic stage?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 3,
+      "explanation": "In animal cells, the cleavage furrow that leads to cytokinesis appears during telophase, after chromosome segregation.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "The disintegration of the nuclear envelope occurs during which mitotic stage?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 0,
+      "explanation": "According to NCERT, the nuclear envelope breaks down in prophase, allowing spindle fibers to contact chromosomes.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "A diagram shows a cell with chromosomes each consisting of two sister chromatids attached to spindle fibers at their kinetochores, and the chromosomes are aligned at the cell's equator. Which stage is depicted?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "The described arrangement—paired sister chromatids aligned at the equatorial plane—corresponds to metaphase.",
+      "topic": "Mitosis stage identification"
+    },
+    {
+      "question": "During meiosis, homologous chromosomes undergo synapsis and exchange genetic material. At which stage does this occur?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Synapsis and crossing over of homologous chromosomes take place during prophase I (pachytene substage) as described in NCERT.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "In which meiotic stage are tetrads aligned at the equatorial plane before separation?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "During metaphase I, each tetrad (paired homologues) lines up at the metaphase plate, a key feature of meiosis I.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "During meiosis, sister chromatids separate and move toward opposite poles, resulting in haploid cells each containing two chromatids per chromosome. Which stage is described?",
+      "options": [
+        "Anaphase I",
+        "Anaphase II",
+        "Metaphase II",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "In anaphase II, sister chromatids separate, giving rise to haploid cells where each chromosome still consists of two chromatids.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "Four haploid nuclei, each surrounded by a nuclear membrane and containing a single set of chromosomes, are observed at the end of meiosis. Which stage corresponds to this observation?",
+      "options": [
+        "Telophase I",
+        "Cytokinesis I",
+        "Telophase II",
+        "Interkinesis"
+      ],
+      "answer": 2,
+      "explanation": "Telophase II marks the formation of four haploid nuclei, each with a single set of chromosomes, as per NCERT description.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "Chromosomes have condensed, the nuclear envelope has broken down, but homologous chromosomes are not paired. Spindle fibers are attached to kinetochores. Which meiotic stage is this?",
+      "options": [
+        "Prophase I",
+        "Prophase II",
+        "Metaphase I",
+        "Metaphase II"
+      ],
+      "answer": 1,
+      "explanation": "Prophase II involves chromosome condensation and spindle formation without synapsis of homologues, unlike prophase I.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "During meiosis, chromosomes line up individually along the equatorial plate, not as pairs. Which stage is being described?",
+      "options": [
+        "Metaphase I",
+        "Metaphase II",
+        "Anaphase I",
+        "Anaphase II"
+      ],
+      "answer": 1,
+      "explanation": "In metaphase II, individual chromosomes (single chromatids) align at the metaphase plate, unlike the paired alignment in metaphase I.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "Homologous chromosomes are pulled to opposite poles while sister chromatids remain attached. Which stage is this?",
+      "options": [
+        "Anaphase I",
+        "Anaphase II",
+        "Metaphase I",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Anaphase I is characterized by the separation of homologous chromosomes, while sister chromatids stay together until meiosis II.",
+      "topic": "Meiosis stage identification"
+    },
+    {
+      "question": "During which substage of Prophase I does the synaptonemal complex begin to form, allowing homologous chromosomes to start pairing?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 1,
+      "explanation": "In Zygotene, the synaptonemal complex is assembled and homologous chromosomes begin synapsis, whereas Leptotene only shows chromosome condensation.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "At which substage of Prophase I do chiasmata become visible as homologous chromosomes begin to separate but remain attached?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 3,
+      "explanation": "Diplotene is characterized by the dissolution of the synaptonemal complex and the appearance of chiasmata where crossing‑over sites become visible.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "Which substage of Prophase I is marked by highly condensed chromosomes, disappearance of the nuclear envelope, and preparation for metaphase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diakinesis"
+      ],
+      "answer": 3,
+      "explanation": "Diakinesis is the final substage of Prophase I; chromosomes are maximally condensed, the nuclear envelope breaks down, and the cell readies for metaphase I.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "In which substage are chromosomes observed as thin, thread‑like structures with no evident pairing of homologues?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 0,
+      "explanation": "Leptotene is the earliest substage where chromosomes start to condense into long, thin threads and homologous pairing has not yet occurred.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "During which substage does the synaptonemal complex reach its maximum development and crossing‑over (recombination) primarily occur?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "Pachytene is the stage of full synapsis; the synaptonemal complex is fully formed and most crossing‑over events take place.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "A diagram shows homologous chromosomes aligned side by side with visible chiasmata and the ends beginning to separate. Which substage of Prophase I does this represent?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 2,
+      "explanation": "The description matches Diplotene, where chiasmata are visible and homologues start to pull apart while still attached at crossover points.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "Which substage directly follows Pachytene and is characterized by the disassembly of the synaptonemal complex?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diakinesis"
+      ],
+      "answer": 3,
+      "explanation": "After Pachytene, the synaptonemal complex breaks down during Diakinesis, leading to chromosome condensation and preparation for metaphase I.",
+      "topic": "Prophase I substage identification"
+    },
+    {
+      "question": "In a human somatic cell during G1 phase (before DNA replication), what is the correct count of chromosomes and chromatids?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids",
+        "92 chromosomes, 92 chromatids",
+        "92 chromosomes, 46 chromatids"
+      ],
+      "answer": 0,
+      "explanation": "During G1 each chromosome consists of a single chromatid, so a diploid human cell has 46 chromosomes and 46 chromatids.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "After the S phase (G2 phase) of the cell cycle in a human somatic cell, how many chromosomes and chromatids are present?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids",
+        "92 chromosomes, 92 chromatids",
+        "92 chromosomes, 46 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication doubles the chromatids while the chromosome number remains 46; thus there are 46 chromosomes each with 2 sister chromatids, totaling 92 chromatids.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "In a diploid organism with 2n = 24, how many chromosomes line up at the metaphase plate during metaphase I of meiosis?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "During metaphase I homologous chromosome pairs (bivalents) align; the number of units is the haploid number, 12, even though each unit contains two chromosomes.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "During anaphase II of meiosis in the same organism (2n = 24), how many chromatids separate and move toward opposite poles?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "At anaphase II sister chromatids separate. The cell is haploid (12 chromosomes) each with 2 chromatids, giving 24 chromatids that separate.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "A plant cell with a diploid number 2n = 30 has completed DNA replication and entered mitosis. How many chromatids are present at metaphase?",
+      "options": [
+        "30",
+        "60",
+        "15",
+        "45"
+      ],
+      "answer": 1,
+      "explanation": "After DNA replication each of the 30 chromosomes consists of 2 sister chromatids, giving 30 × 2 = 60 chromatids at metaphase.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "During prophase I of meiosis, crossing over occurs between non‑sister chromatids. If the cell has 2n = 8, how many chromatids are present in each tetrad that can undergo crossing over?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "A tetrad consists of two homologous chromosomes, each with two sister chromatids, totaling 4 chromatids available for crossing over.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "After meiosis I in human spermatogenesis, each secondary spermatocyte contains what number of chromosomes and chromatids?",
+      "options": [
+        "23 chromosomes, 23 chromatids",
+        "23 chromosomes, 46 chromatids",
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I separates homologous chromosomes, producing haploid cells (23 chromosomes) that still have duplicated sister chromatids, so each secondary spermatocyte has 23 chromosomes and 46 chromatids.",
+      "topic": "Chromosome counting practice"
+    },
+    {
+      "question": "In a diploid human somatic cell (2n = 46) at the start of S phase, how many chromatids are present?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "184"
+      ],
+      "answer": 1,
+      "explanation": "During S phase each of the 46 chromosomes replicates to form a sister chromatid, resulting in 46 × 2 = 92 chromatids.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "During metaphase of mitosis in a plant cell with 2n = 24, how many chromatids line up at the metaphase plate?",
+      "options": [
+        "24",
+        "48",
+        "12",
+        "36"
+      ],
+      "answer": 1,
+      "explanation": "At metaphase each chromosome consists of two sister chromatids, so 24 chromosomes × 2 = 48 chromatids are aligned.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "In prophase I of meiosis in a diploid organism with 2n = 16, after DNA replication, how many chromatids are present in total?",
+      "options": [
+        "16",
+        "32",
+        "8",
+        "64"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication duplicates each of the 16 chromosomes, giving 16 × 2 = 32 chromatids before homologous pairing.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "At anaphase I of meiosis, homologous chromosomes separate. In a cell with 2n = 8, how many chromatids move toward each pole?",
+      "options": [
+        "4",
+        "8",
+        "2",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "Each homologous chromosome still has two sister chromatids. With 8 chromosomes (4 homologous pairs), each pole receives 4 chromosomes × 2 chromatids = 8 chromatids.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "During anaphase II of meiosis, sister chromatids finally separate. In a cell that started meiosis with 2n = 6, how many chromatids are present in each daughter nucleus after completion of meiosis II?",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "After meiosis II each gamete is haploid (n = 3) and each chromosome consists of a single chromatid, giving 3 chromatids per daughter nucleus.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "In a cell undergoing mitosis, the DNA content (C value) doubles during S phase. If a diploid cell has a DNA content of 2C in G1, what is the DNA content in terms of C at metaphase?",
+      "options": [
+        "2C",
+        "4C",
+        "1C",
+        "3C"
+      ],
+      "answer": 1,
+      "explanation": "G1 diploid cells have 2C DNA. After replication (S phase) the amount becomes 4C, which remains through metaphase.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "A researcher counts 20 chromatids at the metaphase plate of a cell from a species with a haploid number n = 5. Assuming the cell is in mitosis, what is the ploidy (2n) of the cell?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "answer": 3,
+      "explanation": "20 chromatids correspond to 10 chromosomes (each chromosome has 2 chromatids). Hence the cell has 2n = 10 chromosomes, confirming diploidy for n = 5.",
+      "topic": "Chromatid counting practice"
+    },
+    {
+      "question": "During which phase of the cell cycle does the total DNA content of a diploid somatic cell double?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication occurs only in S phase, converting the DNA content from 2C to 4C.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "A diploid (2n) human cell in G2 phase contains 46 chromosomes. How many copies of each chromosome are present?",
+      "options": [
+        "One copy (single chromatid)",
+        "Two copies (sister chromatids)",
+        "Three copies",
+        "Four copies"
+      ],
+      "answer": 1,
+      "explanation": "After DNA synthesis in S phase, each chromosome consists of two sister chromatids, so there are two copies of each chromosome in G2.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "What is the DNA content (C value) of a haploid gamete (n) after completion of meiosis II?",
+      "options": [
+        "1C",
+        "2C",
+        "4C",
+        "8C"
+      ],
+      "answer": 0,
+      "explanation": "A haploid gamete contains half the DNA of a diploid cell; after meiosis II no further replication occurs, so its DNA content is 1C.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "A somatic cell shows 46 chromosomes and 92 chromatids. What is its DNA content relative to the diploid 2C baseline?",
+      "options": [
+        "2C",
+        "4C",
+        "1C",
+        "8C"
+      ],
+      "answer": 1,
+      "explanation": "Each chromosome has been replicated into two sister chromatids, doubling the DNA amount from 2C to 4C.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "Between which two successive stages does the DNA content of a cell remain unchanged?",
+      "options": [
+        "G1 to S",
+        "S to G2",
+        "G2 to M",
+        "G1 to G0"
+      ],
+      "answer": 2,
+      "explanation": "DNA replication is completed in S phase; therefore G2 and M phases have the same DNA content (4C in a diploid cell).",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "A tetraploid (4n) plant cell has 48 chromosomes in G1. How many chromatids will be present in G2?",
+      "options": [
+        "48",
+        "96",
+        "192",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "In G2 each chromosome has been duplicated into two sister chromatids, so the number of chromatids equals 2 × 48 = 96.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "Which statement correctly describes the change in DNA content from G1 to G2 in a diploid cell?",
+      "options": [
+        "DNA content remains the same",
+        "DNA content doubles",
+        "DNA content triples",
+        "DNA content halves"
+      ],
+      "answer": 1,
+      "explanation": "A diploid cell starts G1 with 2C DNA; after S phase the DNA doubles to 4C, which is retained through G2.",
+      "topic": "DNA-content changes through cell cycle"
+    },
+    {
+      "question": "During which phase of meiosis is the chromosome number reduced, making the resulting cells differ from those produced by mitosis?",
+      "options": [
+        "Anaphase I",
+        "Telophase I",
+        "Anaphase II",
+        "Telophase II"
+      ],
+      "answer": 0,
+      "explanation": "In Anaphase I homologous chromosomes separate, halving the chromosome number. Mitosis reduces chromosome number only during Anaphase, where sister chromatids separate, so the reduction occurs later and does not produce haploid cells.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "What is the DNA content (C value) of a cell at the end of the S phase in both mitotic and meiotic cycles?",
+      "options": [
+        "Both have 2C DNA content",
+        "Mitosis has 4C, meiosis has 2C",
+        "Both have 4C DNA content",
+        "Mitosis has 2C, meiosis has 4C"
+      ],
+      "answer": 2,
+      "explanation": "After DNA replication in S phase each chromosome consists of two sister chromatids, doubling the DNA amount to 4C irrespective of whether the cell will undergo mitosis or meiosis.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "Which event occurs exclusively during meiosis and not during mitosis?",
+      "options": [
+        "Synapsis of homologous chromosomes",
+        "Formation of the mitotic spindle",
+        "Cytokinesis",
+        "Chromosome condensation"
+      ],
+      "answer": 0,
+      "explanation": "Synapsis, the pairing of homologous chromosomes, is a hallmark of prophase I of meiosis and has no counterpart in mitosis.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "Which mechanism generates genetic variation among gametes produced by meiosis but is absent in mitosis?",
+      "options": [
+        "Crossing over",
+        "Independent assortment of homologous chromosomes",
+        "DNA replication",
+        "Centromere duplication"
+      ],
+      "answer": 1,
+      "explanation": "Independent assortment of homologous chromosome pairs during metaphase I randomizes their segregation, creating new allele combinations; this does not occur in mitosis.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "Which meiotic stage is analogous to metaphase of mitosis in terms of chromosome alignment, and what is the key difference?",
+      "options": [
+        "Metaphase I – homologous pairs line up, not individual chromosomes",
+        "Metaphase II – sister chromatids line up, same as mitosis",
+        "Anaphase I – chromosomes separate",
+        "Prophase I – crossing over"
+      ],
+      "answer": 0,
+      "explanation": "In Metaphase I, homologous chromosome pairs (tetrads) align at the metaphase plate, whereas in mitotic metaphase individual chromosomes (single chromatids) align.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "How does cytokinesis differ between mitosis and meiosis?",
+      "options": [
+        "Cytokinesis occurs twice in meiosis but once in mitosis",
+        "Cytokinesis is absent in meiosis",
+        "Cytokinesis occurs before DNA replication in meiosis",
+        "Mitosis cytokinesis produces four cells"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis includes two rounds of division, each followed by cytokinesis, resulting in two cytokinetic events, whereas mitosis has a single cytokinesis.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "What is the ploidy and chromosome number of cells at the end of meiosis II compared to the original diploid parent cell?",
+      "options": [
+        "Haploid with half the chromosome number",
+        "Diploid with same chromosome number",
+        "Haploid with same chromosome number as parent",
+        "Diploid with half the chromosome number"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis II separates sister chromatids, yielding four haploid cells each containing half the original chromosome number (n), unlike the diploid (2n) parent.",
+      "topic": "Mitosis versus meiosis integrated comparison"
+    },
+    {
+      "question": "During which stage of meiosis does crossing over most frequently occur?",
+      "options": [
+        "Prophase I (pachytene)",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over takes place between non‑sister chromatids of homologous chromosomes during the pachytene substage of prophase I, when homologues are fully synapsed.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "A single crossover event between non‑sister chromatids of homologous chromosomes results in which of the following?",
+      "options": [
+        "Recombinant chromosomes carrying new combinations of alleles",
+        "Loss of genetic material from both chromatids",
+        "Formation of identical sister chromatids",
+        "Duplication of entire chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over exchanges corresponding segments, producing chromatids that carry a mixture of maternal and paternal alleles, i.e., recombinant chromosomes.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "If the recombination frequency between two loci on the same chromosome is 10 map units, what percentage of gametes will be recombinant for these loci?",
+      "options": [
+        "10 %",
+        "20 %",
+        "5 %",
+        "15 %"
+      ],
+      "answer": 0,
+      "explanation": "Recombination frequency is defined as the proportion of recombinant gametes; 10 map units correspond to 10 % recombinant gametes.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "Which statement about crossing over is FALSE?",
+      "options": [
+        "It occurs only in prophase I of meiosis",
+        "It increases genetic variation",
+        "It can occur between sister chromatids",
+        "It results in chiasmata that are visible under a microscope"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over normally occurs between non‑sister chromatids of homologous chromosomes; exchange between sister chromatids is extremely rare and not considered typical crossing over.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "How does crossing over differ from independent assortment in generating genetic variation?",
+      "options": [
+        "It creates new allele combinations within a chromosome, whereas independent assortment shuffles whole chromosomes",
+        "It reduces genetic variation",
+        "It only affects mitochondrial DNA",
+        "It occurs after fertilization"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over recombines alleles on the same chromosome, while independent assortment randomly distributes whole maternal and paternal chromosomes to gametes.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "For two linked genes A and B with a recombination frequency of 20 %, what is the expected phenotypic ratio of parental to recombinant types in the F₂ generation of a dihybrid cross?",
+      "options": [
+        "4 : 4 : 1 : 1",
+        "5 : 3 : 2 : 0",
+        "9 : 3 : 3 : 1",
+        "8 : 2 : 2 : 8"
+      ],
+      "answer": 0,
+      "explanation": "With r = 0.20, parental gametes constitute 80 % (40 % each) and recombinant gametes 20 % (10 % each), giving a 4 : 4 : 1 : 1 ratio for the four phenotypes.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "Why is crossing over considered important for evolution?",
+      "options": [
+        "It creates new allele combinations that can be acted upon by natural selection",
+        "It repairs DNA double‑strand breaks",
+        "It ensures equal segregation of chromosomes during meiosis",
+        "It duplicates the genome before cell division"
+      ],
+      "answer": 0,
+      "explanation": "By generating novel combinations of alleles, crossing over provides raw material for natural selection to act upon, thereby driving evolutionary change.",
+      "topic": "Crossing over and genetic variation"
+    },
+    {
+      "question": "Which structure directly mediates the formation of the cell plate during cytokinesis in plant cells?",
+      "options": [
+        "Phragmoplast",
+        "Cleavage furrow",
+        "Spindle fibers",
+        "Centrosome"
+      ],
+      "answer": 0,
+      "explanation": "The phragmoplast, a microtubule‑rich structure, guides Golgi‑derived vesicles to the centre of the cell where they fuse to form the new cell plate.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "The contractile ring that drives cleavage furrow formation in animal cells is primarily composed of which proteins?",
+      "options": [
+        "Actin and myosin II",
+        "Tubulin and kinesin",
+        "Intermediate filaments",
+        "Spectrin"
+      ],
+      "answer": 0,
+      "explanation": "Actin filaments and myosin II generate the contractile force that pinches the plasma membrane, producing the cleavage furrow.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "In animal cells, cytokinesis usually initiates during which stage of mitosis?",
+      "options": [
+        "Anaphase",
+        "Metaphase",
+        "Telophase",
+        "Prophase"
+      ],
+      "answer": 2,
+      "explanation": "The contractile ring assembles as chromosomes reach the poles, and cytokinesis begins in late anaphase/early telophase, completing in telophase.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes plant and animal cytokinesis?",
+      "options": [
+        "Plant cells use a cleavage furrow, animal cells form a cell plate",
+        "Plant cells form a cell plate via vesicle fusion, animal cells form a cleavage furrow via a contractile ring",
+        "Both use an actin‑myosin contractile ring",
+        "Both rely on spindle microtubules for furrow ingression"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells build a new cell wall (cell plate) by vesicle fusion guided by the phragmoplast, whereas animal cells constrict the membrane using an actin‑myosin contractile ring.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "The membrane and wall material that expands the cell plate in plant cytokinesis is supplied mainly by:",
+      "options": [
+        "Golgi‑derived vesicles",
+        "Endoplasmic reticulum",
+        "Lysosomes",
+        "Mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Golgi apparatus packages polysaccharides and membrane lipids into vesicles that coalesce at the centre of the phragmoplast to form the cell plate.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic feature of cytokinesis in animal cells?",
+      "options": [
+        "Formation of a contractile ring",
+        "Involvement of actin filaments",
+        "Deposition of a new cell wall",
+        "Recruitment of RhoA GTPase"
+      ],
+      "answer": 2,
+      "explanation": "Animal cells do not synthesize a new cell wall; deposition of a cell wall is a plant‑specific event during cytokinesis.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "In animal cytokinesis, the \"midbody\" refers to:",
+      "options": [
+        "A dense structure at the centre of the intercellular bridge during final abscission",
+        "The region where vesicles fuse to form the plant cell plate",
+        "The spindle midzone",
+        "The region of high microtubule density in the phragmoplast"
+      ],
+      "answer": 0,
+      "explanation": "The midbody is a proteinaceous bridge that connects the two daughter cells just before the final membrane scission (abscission) in animal cells.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "A diagram shows a cell with chromosomes aligned at the metaphase plate, each chromosome consisting of two sister chromatids, and spindle fibers attached to kinetochores. Which stage of mitosis is depicted?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "In metaphase of mitosis, chromosomes line up at the cell equator (metaphase plate) with sister chromatids attached to spindle fibers via kinetochores.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "In a diagram of meiosis I, homologous chromosomes are paired as tetrads and crossing over is indicated. The tetrads are positioned at the cell equator. Which stage is shown?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "During metaphase I, each tetrad (paired homologous chromosomes) aligns at the metaphase plate, and prior crossing‑over events are visible as chiasmata.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "A diagram of prophase I displays chromosomes each consisting of four chromatids with visible chiasmata. Which substage of prophase I is this?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 3,
+      "explanation": "Diplotene is the substage where homologous chromosomes start to separate but remain connected at chiasmata, giving the appearance of four chromatids per chromosome.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "After cytokinesis of mitosis, two daughter cells each contain 46 chromosomes, each chromosome being a single chromatid. How does the DNA content (C value) of each daughter cell compare to the original G1 cell?",
+      "options": [
+        "0.5C",
+        "1C",
+        "2C",
+        "4C"
+      ],
+      "answer": 2,
+      "explanation": "A G1 cell has a diploid DNA content of 2C. After mitosis, each daughter cell returns to the same 2C DNA content.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "A diagram of meiosis II shows sister chromatids separating and moving toward opposite poles. Which stage is illustrated?",
+      "options": [
+        "Prophase II",
+        "Metaphase II",
+        "Anaphase II",
+        "Telophase II"
+      ],
+      "answer": 2,
+      "explanation": "Anaphase II is characterized by the separation of sister chromatids, which are then pulled to opposite poles of the cell.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "In a diagram, a single chromosome consisting of two sister chromatids is shown inside an intact nucleus with a visible nucleolus and no spindle apparatus. Which phase of the cell cycle does this represent?",
+      "options": [
+        "Interphase (G1)",
+        "Prophase",
+        "Metaphase",
+        "Telophase"
+      ],
+      "answer": 0,
+      "explanation": "During interphase (specifically G1), chromosomes are uncondensed, the nuclear envelope is intact, and the nucleolus is visible; no spindle fibers are present.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "A diagram depicts homologous chromosomes with exchange of genetic material at chiasmata during prophase I. Which mechanism shown primarily contributes to genetic variation in gametes?",
+      "options": [
+        "Independent assortment",
+        "Random fertilization",
+        "Crossing over",
+        "Polyploidy"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over during prophase I creates new allele combinations on chromosomes, directly increasing genetic variation in the resulting gametes.",
+      "topic": "Diagram-based questions"
+    },
+    {
+      "question": "In the NCERT line diagram of the cell cycle, which segment corresponds to the S phase where DNA synthesis occurs?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "The S (synthesis) phase is represented by the segment labelled 'S phase' in the line diagram, indicating the period of DNA replication.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "According to the NCERT line representation of DNA content (C value) during the cell cycle, the DNA content doubles during which interval?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "During the S phase the amount of DNA doubles, changing from 2C to 4C; this is shown as a rise in the line diagram.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "In the NCERT line diagram of meiosis, crossing over is indicated between which two substages of Prophase I?",
+      "options": [
+        "Leptotene‑Zygotene",
+        "Zygotene‑Pachytene",
+        "Pachytene‑Diplotene",
+        "Diplotene‑Diakinesis"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over occurs during the pachytene stage and is completed by diplotene, so the line connecting these substages marks the event.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "A diploid human somatic cell is shown as 46 chromosomes (2n) in the NCERT line diagram. After DNA replication but before division, how many chromatids are represented?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "48"
+      ],
+      "answer": 1,
+      "explanation": "Each chromosome replicates to form two sister chromatids, so 46 chromosomes become 92 chromatids, which the line diagram reflects.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "In the NCERT comparative line diagram of mitosis and meiosis, which line indicates the reduction in chromosome number?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Mitosis",
+        "Interphase"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I is the reductional division where the chromosome number halves; the line representing Meiosis I shows this decrease.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "The NCERT line diagram of cytokinesis in animal cells shows a cleavage furrow. Which line corresponds to the stage where the furrow deepens to separate the daughter cells?",
+      "options": [
+        "Anaphase",
+        "Telophase",
+        "Cytokinesis",
+        "Metaphase"
+      ],
+      "answer": 2,
+      "explanation": "Cytokinesis is the stage during which the cleavage furrow deepens and eventually splits the cytoplasm, as depicted by the corresponding line.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "In the NCERT line‑based sequence of the cell cycle, the total duration of G1 + S + G2 is shown as a continuous line of 24 h. If the S phase occupies 8 h, what fraction of the line corresponds to the S phase?",
+      "options": [
+        "1/3",
+        "1/4",
+        "1/6",
+        "1/2"
+      ],
+      "answer": 0,
+      "explanation": "S phase duration (8 h) divided by total (24 h) equals 8/24 = 1/3, so one‑third of the line represents S phase.",
+      "topic": "NCERT line-based concepts"
+    },
+    {
+      "question": "Arrange the phases of interphase in the correct chronological order:",
+      "options": [
+        "G2 → S → G1",
+        "S → G1 → G2",
+        "G1 → S → G2",
+        "G1 → G2 → S"
+      ],
+      "answer": 2,
+      "explanation": "During interphase, the cell first grows (G1), then replicates its DNA (S), and finally prepares for mitosis (G2).",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Which sequence correctly represents the stages of mitosis?",
+      "options": [
+        "Metaphase → Prophase → Anaphase → Telophase",
+        "Prophase → Metaphase → Anaphase → Telophase",
+        "Anaphase → Prophase → Metaphase → Telophase",
+        "Telophase → Anaphase → Metaphase → Prophase"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis proceeds as prophase, metaphase, anaphase, and finally telophase.",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Select the correct order of events in Meiosis I:",
+      "options": [
+        "Metaphase I → Prophase I → Anaphase I → Telophase I",
+        "Prophase I → Metaphase I → Anaphase I → Telophase I",
+        "Anaphase I → Prophase I → Metaphase I → Telophase I",
+        "Telophase I → Anaphase I → Metaphase I → Prophase I"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I starts with prophase I, followed by metaphase I, anaphase I, and telophase I.",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Arrange the substages of Prophase I of meiosis in their correct sequence:",
+      "options": [
+        "Leptotene → Zygotene → Pachytene → Diplotene → Diakinesis",
+        "Zygotene → Leptotene → Diplotene → Pachytene → Diakinesis",
+        "Pachytene → Leptotene → Zygotene → Diakinesis → Diplotene",
+        "Leptotene → Pachytene → Zygotene → Diplotene → Diakinesis"
+      ],
+      "answer": 0,
+      "explanation": "The five substages occur as leptotene, zygotene, pachytene, diplotene, and finally diakinesis.",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "What is the correct sequence of DNA content (C value) changes from the beginning of G1 phase through one complete cell division cycle in a diploid somatic cell?",
+      "options": [
+        "2C → 4C → 2C → 4C",
+        "2C → 4C → 4C → 2C",
+        "4C → 2C → 4C → 2C",
+        "2C → 2C → 4C → 2C"
+      ],
+      "answer": 1,
+      "explanation": "At G1 the cell has 2C DNA. After S phase it becomes 4C, remains 4C in G2, and after mitosis each daughter cell returns to 2C.",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Which of the following lists the steps of cytokinesis in animal cells in the correct order?",
+      "options": [
+        "Formation of contractile ring → Deepening of cleavage furrow → Abscission",
+        "Deepening of cleavage furrow → Formation of contractile ring → Abscission",
+        "Abscission → Formation of contractile ring → Deepening of cleavage furrow",
+        "Formation of contractile ring → Abscission → Deepening of cleavage furrow"
+      ],
+      "answer": 0,
+      "explanation": "Animal cytokinesis begins with assembly of the actomyosin contractile ring, which then constricts to deepen the cleavage furrow, and finally the daughter cells separate (abscission).",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Identify the correct chronological order of events that lead to genetic variation during meiosis:",
+      "options": [
+        "Crossing over → Synapsis → Homologous chromosome separation → Formation of chiasmata",
+        "Synapsis → Crossing over → Formation of chiasmata → Homologous chromosome separation",
+        "Formation of chiasmata → Synapsis → Crossing over → Homologous chromosome separation",
+        "Synapsis → Formation of chiasmata → Crossing over → Homologous chromosome separation"
+      ],
+      "answer": 1,
+      "explanation": "First homologous chromosomes synapse (pair), then crossing over occurs forming chiasmata, which are visible, and finally homologues separate during anaphase I, generating variation.",
+      "topic": "Sequence-based questions"
+    },
+    {
+      "question": "Assertion (A): During S phase, the DNA content of a somatic cell doubles from 2C to 4C.\nReason (R): DNA replication occurs only once per cell cycle to ensure each daughter cell receives an identical set of chromosomes.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 0,
+      "explanation": "In S phase the cell synthesizes a complete copy of its genome, raising the DNA content from 2C to 4C. DNA replication is restricted to a single round per cycle so that each daughter cell inherits the same chromosome complement.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): In meiosis I, homologous chromosomes separate, reducing chromosome number from diploid to haploid.\nReason (R): Sister chromatids separate during anaphase I.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis I separates homologous chromosomes, not sister chromatids. Sister chromatids remain attached until anaphase II, so the reason is false while the assertion is true.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): Crossing over occurs during prophase I of meiosis and increases genetic variation.\nReason (R): Crossing over involves exchange of DNA between non‑sister chromatids of homologous chromosomes.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over is a hallmark of prophase I (specifically pachytene) and it happens between non‑sister chromatids of homologous pairs, creating new allele combinations.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): Cytokinesis in animal cells is accomplished by formation of a cleavage furrow mediated by a contractile ring of actin and myosin.\nReason (R): Plant cells also form a cleavage furrow during cytokinesis.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 2,
+      "explanation": "Animal cells use a contractile actomyosin ring to pinch the cell, forming a cleavage furrow. Plant cells, due to a rigid cell wall, build a cell plate instead of a cleavage furrow; thus the reason is false.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): The DNA content (C value) of a cell at the end of G2 phase is twice that of a cell at the end of G1 phase.\nReason (R): The cell has completed DNA replication but not yet undergone mitosis.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 0,
+      "explanation": "G1 cells contain 2C DNA. After S phase, during G2, the replicated chromosomes give a 4C DNA content. The reason correctly states that replication is finished while division has not started.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): In mitosis, sister chromatids separate during anaphase, resulting in two genetically identical daughter nuclei.\nReason (R): The separation is driven by shortening of kinetochore microtubules attached to each chromatid.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 0,
+      "explanation": "Anaphase A of mitosis involves depolymerization of kinetochore microtubules, pulling sister chromatids toward opposite poles, producing identical nuclei.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "Assertion (A): Crossing over occurs between sister chromatids.\nReason (R): Sister chromatids are identical copies of each other.",
+      "options": [
+        "Both A and R are true and R correctly explains A",
+        "Both A and R are true but R does not correctly explain A",
+        "A is true but R is false",
+        "A is false but R is true"
+      ],
+      "answer": 3,
+      "explanation": "Crossing over takes place between non‑sister chromatids of homologous chromosomes. While sister chromatids are indeed identical, the assertion is false, making option (d) correct.",
+      "topic": "Assertion and reasoning concepts"
+    },
+    {
+      "question": "A common mistake is to think that after DNA replication each cell has double the number of chromosomes. In a human somatic cell that has just completed S phase, what is the correct statement about chromosome and chromatid numbers?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids",
+        "92 chromosomes, 92 chromatids",
+        "92 chromosomes, 46 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "After S phase, each of the 46 chromosomes consists of two sister chromatids, so the cell has 46 chromosomes but 92 chromatids.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Students often confuse prophase and prometaphase. Which feature distinguishes prometaphase from prophase in mitosis?",
+      "options": [
+        "Nuclear envelope still intact",
+        "Chromosomes begin to condense",
+        "Kinetochores attach to spindle microtubules",
+        "Sister chromatids separate"
+      ],
+      "answer": 2,
+      "explanation": "In prometaphase the nuclear envelope breaks down and kinetochores on chromosomes attach to spindle microtubules, a step not present in prophase.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A trap is to think crossing over occurs in meiosis II. In which stage does crossing over actually take place?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over (genetic recombination) is confined to prophase I, specifically during the pachytene substage of meiosis.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Many students assume cytokinesis always follows telophase in the same way for mitosis and meiosis. Which statement correctly describes cytokinesis after meiosis I in animal cells?",
+      "options": [
+        "A cleavage furrow forms, dividing the cytoplasm into two cells",
+        "No cytokinesis occurs until after meiosis II",
+        "A cell plate forms as in plant cells",
+        "Cytokinesis occurs before anaphase I"
+      ],
+      "answer": 0,
+      "explanation": "In animal cells, cytokinesis follows telophase I, producing two daughter cells each entering meiosis II; a cleavage furrow is formed.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A frequent misconception is that sister chromatids separate during anaphase I of meiosis. What actually separates in anaphase I?",
+      "options": [
+        "Sister chromatids",
+        "Homologous chromosomes",
+        "Replicated chromosomes",
+        "Chromatids of different chromosomes"
+      ],
+      "answer": 1,
+      "explanation": "During anaphase I, homologous chromosome pairs (each still consisting of two sister chromatids) are pulled to opposite poles; sister chromatids separate later in anaphase II.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Students often mix up the C‑value (DNA content) after meiosis. After completion of meiosis II, a diploid human cell will have how many C units compared to the original somatic cell?",
+      "options": [
+        "Same C value (2C)",
+        "Half the C value (1C)",
+        "One quarter the C value (0.5C)",
+        "Double the C value (4C)"
+      ],
+      "answer": 1,
+      "explanation": "A somatic cell is 2C. Each gamete after meiosis II contains one set of chromosomes, i.e., 1C, which is half the original DNA content.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A trap is to think that both mitosis and meiosis involve two rounds of DNA replication. How many times does DNA replicate during the entire meiotic process?",
+      "options": [
+        "Once, before meiosis I",
+        "Twice, before each division",
+        "Not at all",
+        "Three times, before each substage"
+      ],
+      "answer": 0,
+      "explanation": "DNA replication occurs only once, during the S phase preceding meiosis I; the two subsequent divisions separate the already replicated chromosomes without another round of replication.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Which of the following correctly lists the order of phases that a somatic cell passes through from the beginning of interphase to the completion of cytokinesis during mitosis?",
+      "options": [
+        "G1 → S → G2 → prophase → metaphase → anaphase → telophase → cytokinesis",
+        "G1 → G2 → S → prophase → metaphase → anaphase → telophase → cytokinesis",
+        "Prophase → metaphase → anaphase → telophase → G1 → S → G2 → cytokinesis",
+        "G1 → S → prophase → G2 → metaphase → anaphase → telophase → cytokinesis"
+      ],
+      "answer": 0,
+      "explanation": "The correct sequence is G1, S, G2 (interphase) followed by prophase, metaphase, anaphase, telophase and finally cytokinesis.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "During meiosis in a diploid human cell (2n = 46), what is the number of chromosomes and chromatids present in a cell at the end of metaphase I?",
+      "options": [
+        "46 chromosomes, 92 chromatids",
+        "23 chromosomes, 46 chromatids",
+        "46 chromosomes, 46 chromatids",
+        "23 chromosomes, 23 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "At metaphase I homologous chromosomes line up as pairs; each chromosome still consists of two sister chromatids, giving 23 chromosomes with 46 chromatids.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "At which stage of the cell cycle does a somatic cell have the maximum DNA content (measured as C value)?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "After DNA replication in S phase, the cell enters G2 with duplicated chromosomes, resulting in 4C DNA content, the highest before division.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "Which statement correctly differentiates cytokinesis in animal cells from that in plant cells?",
+      "options": [
+        "Animal cells form a cleavage furrow by a contractile ring of actin‑myosin, whereas plant cells assemble a cell plate from vesicles at the former metaphase plate.",
+        "Animal cells build a cell plate, plant cells form a cleavage furrow.",
+        "Both use a cleavage furrow but plant cells have a rigid wall.",
+        "Both use a cell plate but animal cells have a rigid wall."
+      ],
+      "answer": 0,
+      "explanation": "Animal cytokinesis uses a contractile actin‑myosin ring to pinch the cell, while plant cells construct a new cell wall (cell plate) from Golgi‑derived vesicles.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "Crossing over, which contributes to genetic variation, occurs during which substage of meiosis I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over (chiasma formation) is most frequent during pachytene when homologous chromosomes are fully synapsed.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "In prophase I of meiosis, the substage in which homologous chromosomes become closely paired and form a tetrad is called:",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "During pachytene, synapsis is complete and each homologous pair appears as a tetrad (bivalent).",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "A diploid cell (2n = 46) completes meiosis I. Which of the following correctly describes the chromosome and chromatid composition of each of the two resulting cells?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "23 chromosomes, 23 chromatids",
+        "23 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis I separates homologous chromosomes, so each daughter cell has 23 chromosomes, each still consisting of two sister chromatids (46 chromatids).",
+      "topic": "Integrated chapter practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 17,
+    "mcqCount": 120
+  }
+}

@@ -1,0 +1,1749 @@
+{
+  "day": 33,
+  "courseDate": "2026-10-01",
+  "publishAt": "2026-10-01T06:00:00+05:30",
+  "title": "Day 33: Cockroach – External Morphology and Digestive System",
+  "introduction": "This lesson covers the structural organization of the cockroach, an important insect model for NEET biology. Emphasis is placed on body divisions, appendages, mouthparts, wing morphology, abdominal structures and the complete digestive system from foregut to hindgut, including associated glands and nutrient absorption mechanisms.",
+  "sections": [
+    {
+      "topic": "Cockroach as an insect",
+      "heading": "Cockroach: An Overview of Insect Characteristics",
+      "content": "Cockroaches belong to the class Insecta, possessing a chitinous exoskeleton, segmented body, jointed appendages and a tracheal respiratory system. They exhibit hemimetabolous development, undergoing incomplete metamorphosis from egg to nymph to adult, retaining functional mouthparts throughout life.",
+      "keyPoints": [
+        "Class Insecta; chitinous exoskeleton",
+        "Three body regions: head, thorax, abdomen",
+        "Hemimetabolous life cycle"
+      ],
+      "neetTips": [
+        "Recall that cockroaches are hemimetabolous – no pupal stage, useful for life‑cycle questions."
+      ]
+    },
+    {
+      "topic": "Scientific classification of cockroach",
+      "heading": "Taxonomic Position of Cockroach",
+      "content": "Kingdom Animalia, Phylum Arthropoda, Subphylum Hexapoda, Class Insecta, Order Blattodea, Family Blattidae (common house cockroach). The order Blattodea also includes termites, reflecting close evolutionary ties.",
+      "keyPoints": [
+        "Order Blattodea",
+        "Family Blattidae includes Periplaneta americana"
+      ],
+      "neetTips": [
+        "Remember order Blattodea when a question asks for cockroach classification."
+      ]
+    },
+    {
+      "topic": "Habit and habitat",
+      "heading": "Ecology and Preferred Environments",
+      "content": "Cockroaches are nocturnal, thrive in warm, humid environments, and are highly adaptable. They inhabit human dwellings, sewers, forests and deserts, feeding on decaying organic matter, starches and proteins, which makes them important decomposers.",
+      "keyPoints": [
+        "Nocturnal and thermophilic",
+        "Found in human habitations and natural habitats",
+        "Omnivorous scavengers"
+      ],
+      "neetTips": [
+        "Link their scavenging habit to the presence of robust digestive enzymes."
+      ]
+    },
+    {
+      "topic": "External morphology",
+      "heading": "General External Features",
+      "content": "The external body is covered by a hardened cuticle with sclerites. The dorsal surface shows a pronotum covering the thorax. Sensory setae and spiracles are visible on the thorax and abdomen.",
+      "keyPoints": [
+        "Cuticle with sclerites",
+        "Pronotum on thorax",
+        "Spiracles for gas exchange"
+      ],
+      "neetTips": [
+        "Identify the pronotum as a key diagnostic feature in insect identification."
+      ]
+    },
+    {
+      "topic": "Head, thorax and abdomen",
+      "heading": "Three Main Body Divisions",
+      "content": "The head bears sensory organs and mouthparts; the thorax consists of three segments (prothorax, mesothorax, metathorax) each bearing a pair of legs, with the meso‑ and metathorax supporting wings. The abdomen contains the digestive tract, reproductive organs and spiracles.",
+      "keyPoints": [
+        "Head: sensory + mouthparts",
+        "Thorax: 3 segments, legs, wings on meso‑ & metathorax",
+        "Abdomen: digestive & reproductive systems"
+      ],
+      "neetTips": [
+        "Remember that only mesothorax and metathorax bear wings in cockroaches."
+      ]
+    },
+    {
+      "topic": "Appendages of cockroach",
+      "heading": "Types and Functions of Appendages",
+      "content": "Cockroaches possess one pair of antennae, three pairs of walking legs, and two pairs of wings (fore‑ and hind‑wings). Each appendage is jointed, allowing precise movements for locomotion, sensory perception and flight.",
+      "keyPoints": [
+        "Antennae: chemoreception",
+        "Three pairs of legs for walking",
+        "Two pairs of wings (tegmina and membranous)"
+      ],
+      "neetTips": [
+        "Distinguish tegmina (fore‑wings) as leathery protective covers."
+      ]
+    },
+    {
+      "topic": "Antennae",
+      "heading": "Structure and Sensory Role of Antennae",
+      "content": "Antennae are long, filiform, composed of a scape, pedicel and multiple flagellomeres bearing numerous sensilla for olfaction, mechanoreception and thermoreception, crucial for locating food and mates.",
+      "keyPoints": [
+        "Filiform, multi‑segmented",
+        "Sensilla for smell and touch",
+        "Key in foraging behavior"
+      ],
+      "neetTips": [
+        "Antennae length correlates with habitat complexity; longer in nocturnal insects."
+      ]
+    },
+    {
+      "topic": "Mouthparts",
+      "heading": "Chewing Mouthparts of Cockroach",
+      "content": "Cockroaches have mandibulate mouthparts: a pair of strong mandibles for cutting, maxillae with palps for manipulation, and a labium forming the lower lip. The labrum acts as an upper lip. This arrangement enables ingestion of solid food.",
+      "keyPoints": [
+        "Mandibles: cutting",
+        "Maxillae with palps: handling",
+        "Labium and labrum: lip structures"
+      ],
+      "neetTips": [
+        "Mandibulate mouthparts indicate a chewing diet – useful for diet‑related questions."
+      ]
+    },
+    {
+      "topic": "Wings",
+      "heading": "Wing Morphology and Function",
+      "content": "The fore‑wings (tegmina) are thickened, leathery, and protect the delicate hind‑wings, which are membranous and folded beneath. Both pairs are used for short bursts of flight; tegmina also aid in camouflage.",
+      "keyPoints": [
+        "Fore‑wings: tegmina, protective"
+      ],
+      "neetTips": [
+        "Recall that tegmina are not used for sustained flight but for protection."
+      ]
+    },
+    {
+      "topic": "Walking legs",
+      "heading": "Leg Structure and Locomotion",
+      "content": "Each leg has coxa, trochanter, femur, tibia and tarsus ending in claws. The tarsal claws enable grip on surfaces, while the femur houses powerful muscles for rapid running, characteristic of cockroaches.",
+      "keyPoints": [
+        "Five segments per leg"
+      ],
+      "neetTips": [
+        "Rapid running is due to enlarged femoral muscles – a point for physiology questions."
+      ]
+    },
+    {
+      "topic": "Abdominal structures",
+      "heading": "Abdomen Anatomy Relevant to Digestion",
+      "content": "The abdomen consists of eleven segments, each bearing a pair of spiracles for respiration. The dorsal tergites protect the underlying gut, while the ventral sternites provide attachment sites for digestive muscles.",
+      "keyPoints": [
+        "Spiracles on each segment"
+      ],
+      "neetTips": [
+        "Spiracle placement aids in identifying the abdominal region in diagrams."
+      ]
+    },
+    {
+      "topic": "Digestive system",
+      "heading": "Overview of Cockroach Digestive Tract",
+      "content": "The digestive system is a continuous tube: foregut (crop, proventriculus), midgut (ventriculus) and hindgut (ileum, colon, rectum). Associated glands include salivary, gastric and Malpighian tubules, facilitating enzymatic breakdown and osmoregulation.",
+      "keyPoints": [
+        "Foregut, midgut, hindgut"
+      ],
+      "neetTips": [
+        "Link Malpighian tubules to excretory function, not digestion."
+      ]
+    },
+    {
+      "topic": "Alimentary canal",
+      "heading": "Segmental Organization of the Alimentary Canal",
+      "content": "The alimentary canal starts at the mouth, proceeds through the crop (storage), proventriculus (mechanical grinding), ventriculus (enzyme secretion and absorption), then to the ileum, colon and rectum where water reabsorption occurs.",
+      "keyPoints": [
+        "Crop stores food",
+        "Proventriculus grinds",
+        "Ventriculus absorbs nutrients"
+      ],
+      "neetTips": [
+        "Remember that most absorption occurs in the midgut (ventriculus)."
+      ]
+    },
+    {
+      "topic": "Foregut",
+      "heading": "Components and Functions of the Foregut",
+      "content": "The foregut includes the crop, a thin-walled sac for temporary storage, and the proventriculus, a muscular gizzard‑like structure lined with sclerotized teeth that triturates food before it enters the midgut.",
+      "keyPoints": [
+        "Crop: storage"
+      ],
+      "neetTips": [
+        "Proventricular teeth are analogous to a bird's gizzard – a useful analogy."
+      ]
+    },
+    {
+      "topic": "Midgut",
+      "heading": "Midgut Structure and Digestive Role",
+      "content": "The midgut (ventriculus) is a large, sac‑like region lined with microvilli, secreting proteases, amylases and lipases from the gastric caeca. It is the principal site for enzymatic digestion and nutrient absorption into hemolymph.",
+      "keyPoints": [
+        "Microvilli increase surface area"
+      ],
+      "neetTips": [
+        "Enzyme secretion from gastric caeca makes the midgut a major digestive hub."
+      ]
+    },
+    {
+      "topic": "Hindgut",
+      "heading": "Hindgut Functions in Water Reabsorption and Excretion",
+      "content": "The hindgut comprises the ileum, colon and rectum. It reabsorbs water and ions, concentrates waste, and forms fecal pellets. The rectum houses symbiotic microbes that aid in cellulose breakdown.",
+      "keyPoints": [
+        "Water reabsorption"
+      ],
+      "neetTips": [
+        "Symbiotic microbes in rectum assist in fiber digestion – a high‑yield fact."
+      ]
+    },
+    {
+      "topic": "Digestive glands",
+      "heading": "Salivary, Gastric and Accessory Glands",
+      "content": "Salivary glands secrete amylase for carbohydrate digestion. Gastric glands in the proventriculus release proteases. Accessory gastric caeca extend from the midgut, increasing enzyme output and surface area for absorption.",
+      "keyPoints": [
+        "Salivary amylase"
+      ],
+      "neetTips": [
+        "Distinguish salivary amylase (carbohydrate) from midgut proteases (protein)."
+      ]
+    },
+    {
+      "topic": "Digestion and absorption in cockroach",
+      "heading": "Integrated Digestive Process",
+      "content": "Ingestion begins with mandibular chewing, followed by enzymatic action of salivary amylase. Mechanical grinding in the proventriculus mixes food with gastric enzymes. The midgut’s microvilli absorb amino acids, sugars and fatty acids, which enter the hemolymph. Hindgut reclaims water, and waste is expelled as fecal pellets.",
+      "keyPoints": [
+        "Mechanical + enzymatic digestion"
+      ],
+      "neetTips": [
+        "Focus on the sequence: chewing → proventriculus → midgut absorption → hindgut water reclamation."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and describe the external morphological features and body divisions of a cockroach.",
+    "Explain the structure and function of each segment of the cockroach alimentary canal and associated digestive glands.",
+    "Apply knowledge of cockroach anatomy to answer NEET‑style questions on morphology, appendage function and digestion."
+  ],
+  "mcqs": [
+    {
+      "question": "Which characteristic confirms that a cockroach belongs to the class Insecta?",
+      "options": [
+        "Presence of three pairs of legs",
+        "Presence of four pairs of legs",
+        "Presence of a mantle",
+        "Presence of radial symmetry"
+      ],
+      "answer": 0,
+      "explanation": "Insects are defined by having three pairs of jointed legs attached to the thorax; cockroaches possess exactly this feature.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "To which family does the common household cockroach (Periplaneta americana) belong?",
+      "options": [
+        "Blattidae",
+        "Tenebrionidae",
+        "Formicidae",
+        "Culicidae"
+      ],
+      "answer": 0,
+      "explanation": "The American cockroach is classified under the family Blattidae within the order Blattodea.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "The body of a cockroach is divided into which three regions typical of insects?",
+      "options": [
+        "Head, thorax, abdomen",
+        "Cephalothorax and abdomen",
+        "Head, trunk, tail",
+        "Prosoma and opisthosoma"
+      ],
+      "answer": 0,
+      "explanation": "Insects have a tripartite body plan: a distinct head, thorax, and abdomen, which is also seen in cockroaches.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "What type of metamorphosis is exhibited by cockroaches?",
+      "options": [
+        "Holometabolous",
+        "Hemimetabolous",
+        "Paurometabolous",
+        "Ametabolous"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches undergo incomplete metamorphosis, termed hemimetabolous, where nymphs resemble adults and develop gradually.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "Which respiratory structures are present in cockroaches?",
+      "options": [
+        "Tracheae with spiracles",
+        "Book lungs",
+        "Gills",
+        "Lungs"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches breathe through a network of tracheae that open to the exterior via paired spiracles on the body surface.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "Which statement about cockroach antennae is correct?",
+      "options": [
+        "They are biramous",
+        "They are composed of many segments called antennomeres",
+        "They are absent in adult cockroaches",
+        "They are used for sound production"
+      ],
+      "answer": 1,
+      "explanation": "Cockroach antennae are multi‑segmented sensory organs; each segment is termed an antennomere, providing tactile and chemosensory input.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "The exoskeleton of a cockroach is primarily composed of which biopolymer?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Collagen",
+        "Keratin"
+      ],
+      "answer": 1,
+      "explanation": "In arthropods, including cockroaches, the hard outer cuticle is mainly made of chitin, a polysaccharide that provides rigidity and protection.",
+      "topic": "Cockroach as an insect"
+    },
+    {
+      "question": "Which of the following is the correct hierarchical classification (from higher to lower) for the American cockroach?",
+      "options": [
+        "Kingdom Animalia > Phylum Arthropoda > Class Insecta > Order Blattodea > Family Blattidae > Genus Periplaneta > Species americana",
+        "Kingdom Animalia > Phylum Arthropoda > Class Arachnida > Order Blattodea > Family Blattidae > Genus Periplaneta > Species americana",
+        "Kingdom Plantae > Phylum Arthropoda > Class Insecta > Order Blattodea > Family Blattidae > Genus Periplaneta > Species americana",
+        "Kingdom Animalia > Phylum Arthropoda > Class Insecta > Order Coleoptera > Family Blattidae > Genus Periplaneta > Species americana"
+      ],
+      "answer": 0,
+      "explanation": "The American cockroach belongs to Animalia, Arthropoda, Insecta, Blattodea, Blattidae, Periplaneta, americana.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "The order Blattodea now includes which other group of insects due to recent taxonomic revision?",
+      "options": [
+        "Termites",
+        "Beetles",
+        "Diptera",
+        "Lepidoptera"
+      ],
+      "answer": 0,
+      "explanation": "Molecular studies have merged termites (formerly Isoptera) into the order Blattodea.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "In the scientific name Periplaneta americana, \"Periplaneta\" denotes which taxonomic rank?",
+      "options": [
+        "Family",
+        "Genus",
+        "Species",
+        "Order"
+      ],
+      "answer": 1,
+      "explanation": "The first part of a binomial name is the genus; the second part is the specific epithet.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "The common household cockroach Blattella germanica belongs to which family?",
+      "options": [
+        "Blattidae",
+        "Blaberidae",
+        "Ectobiidae",
+        "Noctuidae"
+      ],
+      "answer": 2,
+      "explanation": "Blattella germanica is classified in the family Ectobiidae (formerly Blattellidae).",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "Which of the following characteristics is NOT used to place cockroaches in the class Insecta?",
+      "options": [
+        "Presence of three pairs of legs",
+        "Tracheal respiratory system",
+        "Presence of a notochord",
+        "Body divided into head, thorax, abdomen"
+      ],
+      "answer": 2,
+      "explanation": "Insects lack a notochord; it is a chordate feature, not an insect characteristic.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "According to current classification, termites are placed within which taxonomic rank relative to cockroaches?",
+      "options": [
+        "Same order Blattodea",
+        "Same family Blattidae",
+        "Different order Isoptera",
+        "Same class but different order"
+      ],
+      "answer": 0,
+      "explanation": "Termites are now considered a suborder (Isoptera) within the order Blattodea, sharing the same order with cockroaches.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "The phylum to which cockroaches belong is characterized by which of the following features?",
+      "options": [
+        "Radial symmetry",
+        "Exoskeleton of chitin",
+        "Water vascular system",
+        "Notochord"
+      ],
+      "answer": 1,
+      "explanation": "Arthropoda, the phylum of cockroaches, is defined by a chitinous exoskeleton, segmented body, and jointed appendages.",
+      "topic": "Scientific classification of cockroach"
+    },
+    {
+      "question": "In ecological terminology, which statement best defines the \"habitat\" of an organism?",
+      "options": [
+        "The physical place where it lives and obtains resources",
+        "Its specific diet and feeding mechanism",
+        "The period during which it reproduces",
+        "Its taxonomic classification"
+      ],
+      "answer": 0,
+      "explanation": "Habitat refers to the natural environment or physical place where an organism lives, finds food, shelter, and mates.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "Cockroaches are most commonly associated with which type of habitat?",
+      "options": [
+        "Arid desert regions",
+        "Aquatic ponds and streams",
+        "Human dwellings such as houses and kitchens",
+        "High‑altitude alpine zones"
+      ],
+      "answer": 2,
+      "explanation": "Many cockroach species are synanthropic and thrive in domestic habitats where food, moisture, and shelter are readily available.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "The nocturnal habit of cockroaches primarily helps them to:",
+      "options": [
+        "Escape from visual predators",
+        "Minimize water loss through transpiration",
+        "Avoid high daytime temperatures",
+        "Utilize all of the above factors"
+      ],
+      "answer": 2,
+      "explanation": "Being active at night reduces exposure to high temperatures that prevail during the day, aiding thermoregulation and survival.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "Which of the following cockroach species is a classic example of a synanthropic (human‑associated) species?",
+      "options": [
+        "Periplaneta americana (American cockroach)",
+        "Blatta orientalis (Oriental cockroach)",
+        "Gromphadorhina portentosa (Madagascar hissing cockroach)",
+        "Diploptera punctata (Pacific beetle cockroach)"
+      ],
+      "answer": 0,
+      "explanation": "Periplaneta americana commonly inhabits human structures and is considered a typical synanthropic cockroach.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "Cockroaches prefer habitats with relatively high humidity because:",
+      "options": [
+        "Their cuticle is highly permeable, leading to rapid water loss",
+        "Eggs can only be deposited on moist substrates",
+        "Their digestive enzymes function only in wet conditions",
+        "They cannot regulate internal temperature"
+      ],
+      "answer": 0,
+      "explanation": "A permeable cuticle makes cockroaches prone to desiccation, so they seek humid environments to maintain water balance.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "Which morphological adaptation enables cockroaches to live efficiently in narrow crevices and cracks?",
+      "options": [
+        "Elongated antennae for sensing",
+        "Flattened, dorsoventrally compressed body",
+        "Powerful mandibles for chewing wood",
+        "Well‑developed wings for rapid flight"
+      ],
+      "answer": 1,
+      "explanation": "A flattened body allows cockroaches to squeeze into tight spaces, providing shelter and protection.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "In entomology, the term \"habit\" of an insect most accurately refers to:",
+      "options": [
+        "Its specific feeding behavior",
+        "The mode of locomotion it employs",
+        "Its typical way of life, including behavior and ecological niche",
+        "The strategy it uses for reproduction"
+      ],
+      "answer": 2,
+      "explanation": "Habit encompasses the overall lifestyle of an insect, covering its behavior, activity pattern, and ecological role.",
+      "topic": "Habit and habitat"
+    },
+    {
+      "question": "The external body of a cockroach is divided into three main regions. Which sequence correctly lists them from anterior to posterior?",
+      "options": [
+        "Head, thorax, abdomen",
+        "Thorax, head, abdomen",
+        "Abdomen, thorax, head",
+        "Head, abdomen, thorax"
+      ],
+      "answer": 0,
+      "explanation": "In insects, the body plan consists of head (anterior), followed by thorax, and then abdomen (posterior).",
+      "topic": "External morphology"
+    },
+    {
+      "question": "Which pair of structures on the cockroach head primarily function as olfactory organs?",
+      "options": [
+        "Antennae",
+        "Compound eyes",
+        "Mandibles",
+        "Maxillary palps"
+      ],
+      "answer": 0,
+      "explanation": "Antennae are covered with sensilla that detect chemical cues, serving as the main olfactory organs in cockroaches.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "The mouthparts of a cockroach are adapted for which type of feeding?",
+      "options": [
+        "Chewing",
+        "Siphoning",
+        "Sponging",
+        "Piercing-sucking"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches possess chewing mouthparts (mandibles, maxillae, labium) suitable for biting and grinding solid food.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "The leathery, protective forewings of a cockroach are called:",
+      "options": [
+        "Tegmina",
+        "Elytra",
+        "Halteres",
+        "Pterostigma"
+      ],
+      "answer": 0,
+      "explanation": "In cockroaches, the forewings are thickened, leathery structures known as tegmina, which protect the hindwings.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "Walking legs of a cockroach are attached to which body segment?",
+      "options": [
+        "Thorax",
+        "Abdomen",
+        "Head",
+        "Wing pads"
+      ],
+      "answer": 0,
+      "explanation": "All three pairs of walking legs in insects arise from the thorax, each pair on a separate thoracic segment.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "Which abdominal structure in female cockroaches is responsible for producing the protective egg case?",
+      "options": [
+        "Ootheca",
+        "Cerci",
+        "Spiracles",
+        "Tergites"
+      ],
+      "answer": 0,
+      "explanation": "Female cockroaches secrete an ootheca, a hardened capsule that encloses multiple eggs.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "The paired appendages at the posterior end of a cockroach, known as cerci, are mainly involved in:",
+      "options": [
+        "Mechanoreception",
+        "Respiration",
+        "Feeding",
+        "Mating"
+      ],
+      "answer": 0,
+      "explanation": "Cerci are sensory organs that detect mechanical stimuli such as air currents, helping the insect respond to threats.",
+      "topic": "External morphology"
+    },
+    {
+      "question": "How many distinct segments constitute the thorax of a cockroach?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "Five"
+      ],
+      "answer": 0,
+      "explanation": "The thorax of an insect, including the cockroach, is divided into three segments: prothorax, mesothorax, and metathorax, each bearing a pair of legs.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "Which paired appendage on the cockroach head is primarily responsible for detecting chemical cues?",
+      "options": [
+        "Compound eyes",
+        "Antennae",
+        "Maxillary palps",
+        "Mandibles"
+      ],
+      "answer": 1,
+      "explanation": "Antennae are the main olfactory organs in insects; they contain numerous sensilla that detect volatile chemicals.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "Spiracles are present on which abdominal segments in a cockroach?",
+      "options": [
+        "Segments 1 to 8",
+        "Segments 2 to 9",
+        "Segments 3 to 10",
+        "Segments 4 to 11"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches possess a pair of abdominal spiracles on each of the first eight abdominal segments, facilitating gas exchange.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "The mesothorax of a cockroach primarily bears which pair of wing structures?",
+      "options": [
+        "Forewings (tegmina)",
+        "Hindwings",
+        "First pair of legs",
+        "Second pair of legs"
+      ],
+      "answer": 0,
+      "explanation": "In cockroaches, the mesothorax carries the forewings, which are thickened into protective tegmina, while the hindwings are attached to the metathorax.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "Externally, the abdomen of a cockroach is visible as how many segments?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 0,
+      "explanation": "The cockroach abdomen shows ten visible segments; the last segment is reduced and forms the anal plate.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "Which statement correctly describes the head capsule of a cockroach?",
+      "options": [
+        "It is composed of a single sclerite",
+        "It consists of several fused sclerites forming a rigid box",
+        "It is flexible and lacks sclerotization",
+        "It contains a dorsal plate called the pronotum"
+      ],
+      "answer": 1,
+      "explanation": "The head capsule is formed by multiple fused sclerites that create a hard, protective box surrounding the brain and sensory organs.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "What is the name of the shield-like dorsal structure that covers the prothorax of a cockroach?",
+      "options": [
+        "Pronotum",
+        "Mesonotum",
+        "Metanotum",
+        "Scutellum"
+      ],
+      "answer": 0,
+      "explanation": "The pronotum is the prominent dorsal plate covering the prothorax, giving cockroaches their characteristic appearance.",
+      "topic": "Head, thorax and abdomen"
+    },
+    {
+      "question": "Which pair of appendages in a cockroach is primarily responsible for detecting air currents and vibrations at the posterior end?",
+      "options": [
+        "Antennae",
+        "Cerci",
+        "Maxillary palps",
+        "Tibial spines"
+      ],
+      "answer": 1,
+      "explanation": "Cerci are paired, filamentous sensory organs located at the rear of the abdomen that detect mechanical stimuli such as air currents and vibrations.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "The forewings of a cockroach are termed \"tegmina.\" What is the main characteristic of these tegmina?",
+      "options": [
+        "They are membranous and used for flight",
+        "They are hardened and protect the hindwings",
+        "They are absent in all cockroach species",
+        "They are modified into jumping pads"
+      ],
+      "answer": 1,
+      "explanation": "In cockroaches, the forewings (tegmina) are thickened, leathery structures that protect the delicate membranous hindwings underneath.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "Which segment of a cockroach leg bears the pretarsus that ends in claws and an arolium?",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Coxa",
+        "Trochanter"
+      ],
+      "answer": 1,
+      "explanation": "The pretarsus is located at the distal end of the tibia, bearing the claws and a pad-like arolium that aids in adhesion to surfaces.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "Cockroach mouthparts are adapted for chewing. Which structure functions as the primary cutting organ?",
+      "options": [
+        "Labrum",
+        "Mandibles",
+        "Maxillae",
+        "Labium"
+      ],
+      "answer": 1,
+      "explanation": "The mandibles are robust, sclerotized structures that act as the main cutting and grinding organs in the chewing mouthparts of cockroaches.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "How many pairs of walking legs does a typical cockroach possess, and where are they attached?",
+      "options": [
+        "Two pairs, attached to the abdomen",
+        "Three pairs, attached to the thorax",
+        "Four pairs, attached to the head",
+        "Five pairs, attached to the thorax"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches have three pairs of walking legs, all attached to the three thoracic segments (prothorax, mesothorax, and metathorax).",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "The maxillary palps of a cockroach are elongated. What is their primary role?",
+      "options": [
+        "Sound production",
+        "Chemoreception and manipulation of food",
+        "Wing articulation",
+        "Water absorption"
+      ],
+      "answer": 1,
+      "explanation": "Maxillary palps are sensory appendages that contain chemoreceptors and help in tasting and handling food particles.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "Which of the following statements about the hindwings of a cockroach is correct?",
+      "options": [
+        "They are leathery and protect the abdomen",
+        "They are membranous and folded beneath the tegmina",
+        "They are absent in all domestic species",
+        "They are used for sound production"
+      ],
+      "answer": 1,
+      "explanation": "The hindwings are thin, membranous wings that are folded beneath the protective forewings (tegmina) and are used for flight when unfolded.",
+      "topic": "Appendages of cockroach"
+    },
+    {
+      "question": "How many antennomeres are typically present in the antenna of a cockroach?",
+      "options": [
+        "10-15",
+        "20-25",
+        "30-40",
+        "50-60"
+      ],
+      "answer": 2,
+      "explanation": "Cockroach antennae are long and consist of many segments, usually ranging from 30 to 40 antennomeres.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "The antennae of a cockroach are best described as:",
+      "options": [
+        "Clavate",
+        "Filiform",
+        "Moniliform",
+        "Pectinate"
+      ],
+      "answer": 1,
+      "explanation": "Cockroach antennae are thread‑like (filiform), a characteristic shape for many insects that rely on tactile and chemical sensing.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "Which region of the cockroach antenna primarily bears olfactory sensilla?",
+      "options": [
+        "Scape",
+        "Pedicel",
+        "Flagellum",
+        "Base"
+      ],
+      "answer": 2,
+      "explanation": "The flagellum, the distal part of the antenna, carries the majority of chemosensory (olfactory) sensilla in cockroaches.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "Antennae of cockroaches are most important for which of the following functions?",
+      "options": [
+        "Flight stabilization",
+        "Sound production",
+        "Detection of chemical cues",
+        "Water absorption"
+      ],
+      "answer": 2,
+      "explanation": "The primary role of cockroach antennae is chemoreception—detecting volatile chemicals for locating food, mates, and suitable habitats.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "The basal segment of the cockroach antenna is called the:",
+      "options": [
+        "Flagellum",
+        "Pedicel",
+        "Scape",
+        "Antenna"
+      ],
+      "answer": 2,
+      "explanation": "The first segment attached to the head is the scape; it connects the antenna to the head capsule.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "Which type of sensory receptor is NOT found on cockroach antennae?",
+      "options": [
+        "Mechanoreceptor",
+        "Thermoreceptor",
+        "Photoreceptor",
+        "Chemoreceptor"
+      ],
+      "answer": 2,
+      "explanation": "Antennae possess mechanoreceptors, thermoreceptors, and chemoreceptors, but they lack photoreceptors, which are confined to the eyes.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "During embryonic development, cockroach antennae are derived from which germ layer?",
+      "options": [
+        "Endoderm",
+        "Mesoderm",
+        "Ectoderm",
+        "None of the above"
+      ],
+      "answer": 2,
+      "explanation": "In insects, all external appendages, including antennae, originate from the ectodermal layer.",
+      "topic": "Antennae"
+    },
+    {
+      "question": "Which structure forms the dorsal covering of the oral cavity in a cockroach?",
+      "options": [
+        "Labrum",
+        "Labium",
+        "Maxilla",
+        "Mandible"
+      ],
+      "answer": 0,
+      "explanation": "The labrum acts as the upper lip and forms the dorsal (upper) covering of the mouth cavity in chewing insects like cockroaches.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "What is the primary function of the mandibles in cockroach mouthparts?",
+      "options": [
+        "Secretion of saliva",
+        "Cutting and grinding food",
+        "Detecting chemicals",
+        "Supporting the labium"
+      ],
+      "answer": 1,
+      "explanation": "Mandibles are robust, sclerotized jaws that cut and grind solid food, enabling mechanical digestion.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "The paired sensory structures attached to the maxillae of a cockroach are called:",
+      "options": [
+        "Labial palps",
+        "Maxillary palps",
+        "Antennal sensilla",
+        "Tarsal claws"
+      ],
+      "answer": 1,
+      "explanation": "Each maxilla bears a maxillary palp, a sensory appendage that helps in tasting and manipulating food.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "In cockroaches, the hypopharynx is primarily associated with:",
+      "options": [
+        "Production of digestive enzymes",
+        "Transport of food to foregut",
+        "Mechanical breakdown of food",
+        "Sensory perception"
+      ],
+      "answer": 1,
+      "explanation": "The hypopharynx forms a muscular tube that conveys chewed food from the mouth cavity to the foregut (crop).",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "Which statement correctly distinguishes the chewing mouthparts of a cockroach from the sucking mouthparts of a lepidopteran?",
+      "options": [
+        "Cockroach has elongated proboscis",
+        "Cockroach lacks mandibles",
+        "Cockroach possesses well‑developed mandibles for mastication",
+        "Cockroach has a stylet for piercing"
+      ],
+      "answer": 2,
+      "explanation": "Chewing insects like cockroaches have prominent mandibles for mastication, whereas sucking insects have a proboscis and lack functional mandibles.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "The labium of a cockroach is formed by the fusion of which embryonic segments?",
+      "options": [
+        "Second maxillary and labial segments",
+        "First and second maxillary segments",
+        "First and second labial segments",
+        "Third maxillary and labial segments"
+      ],
+      "answer": 0,
+      "explanation": "During insect development, the labium originates from the fusion of the second maxillary segment with the labial segment, forming a three‑lobed lower lip.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "Salivary glands in cockroaches open into which part of the mouthparts?",
+      "options": [
+        "Labrum",
+        "Labium",
+        "Hypopharynx",
+        "Maxillae"
+      ],
+      "answer": 2,
+      "explanation": "The ducts of the salivary glands empty into the hypopharynx, allowing saliva to mix with food before it enters the foregut.",
+      "topic": "Mouthparts"
+    },
+    {
+      "question": "How many pairs of wings does a typical cockroach possess?",
+      "options": [
+        "One pair",
+        "Two pairs",
+        "Three pairs",
+        "No wings"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches, like all insects, have two pairs of wings – the forewings (tegmina) and the hindwings.",
+      "topic": "Wings"
+    },
+    {
+      "question": "The forewings of cockroaches are called:",
+      "options": [
+        "Elytra",
+        "Tegmina",
+        "Halteres",
+        "Scales"
+      ],
+      "answer": 1,
+      "explanation": "In cockroaches the leathery, protective forewings are termed tegmina; elytra are beetle forewings, halteres are dipteran structures, and scales belong to Lepidoptera.",
+      "topic": "Wings"
+    },
+    {
+      "question": "Which statement correctly describes the hindwings of cockroaches?",
+      "options": [
+        "They are leathery and protect the abdomen",
+        "They are membranous and folded beneath the forewings",
+        "They are absent in all species",
+        "They are used for sound production"
+      ],
+      "answer": 1,
+      "explanation": "Cockroach hindwings are thin, membranous and lie folded under the tougher forewings (tegmina) when not in use.",
+      "topic": "Wings"
+    },
+    {
+      "question": "The forewings of cockroaches are attached to which thoracic segment?",
+      "options": [
+        "Prothorax",
+        "Mesothorax",
+        "Metathorax",
+        "Abdomen"
+      ],
+      "answer": 1,
+      "explanation": "The forewings (tegmina) arise from the mesothorax; the prothorax bears the first pair of legs only, while the metathorax bears the hindwings.",
+      "topic": "Wings"
+    },
+    {
+      "question": "In cockroaches, the primary muscles that power wing movement are:",
+      "options": [
+        "Direct flight muscles attached to wing bases",
+        "Indirect flight muscles attached to the thoracic walls",
+        "Abdominal muscles",
+        "Leg muscles"
+      ],
+      "answer": 1,
+      "explanation": "Cockroach flight is driven mainly by indirect flight muscles that deform the thoracic exoskeleton, causing the wings to move.",
+      "topic": "Wings"
+    },
+    {
+      "question": "Which species exhibits reduced wings and is a poor flyer?",
+      "options": [
+        "Periplaneta americana",
+        "Blattella germanica",
+        "Supella longipalpa",
+        "Ectobius lapponicus"
+      ],
+      "answer": 1,
+      "explanation": "The German cockroach (Blattella germanica) has shortened forewings and weak hindwings, making it a very poor flyer compared with other cockroaches.",
+      "topic": "Wings"
+    },
+    {
+      "question": "Which vein is most reduced or absent in the venation of cockroach tegmina?",
+      "options": [
+        "Costa",
+        "Subcosta",
+        "Radius",
+        "Media"
+      ],
+      "answer": 1,
+      "explanation": "The subcosta vein is highly reduced or absent in the tegmina of cockroaches, whereas the costa is usually present as a strong leading edge.",
+      "topic": "Wings"
+    },
+    {
+      "question": "How many pairs of walking legs does a typical cockroach possess?",
+      "options": [
+        "Two pairs",
+        "Three pairs",
+        "Four pairs",
+        "Five pairs"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches, like all insects, have three pairs (total six) of walking legs attached to the thorax.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "Which segment of the cockroach walking leg contains the largest muscle mass and is primarily responsible for powerful movements?",
+      "options": [
+        "Coxa",
+        "Trochanter",
+        "Femur",
+        "Tibia"
+      ],
+      "answer": 2,
+      "explanation": "The femur is the thickest segment of the insect leg and houses the bulk of the leg muscles, enabling strong locomotion.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "The tarsus of a cockroach walking leg is specially adapted for which function?",
+      "options": [
+        "Jumping",
+        "Digging",
+        "Adhesion to surfaces",
+        "Sound production"
+      ],
+      "answer": 2,
+      "explanation": "The tarsus bears pulvilli—soft pads that secrete a sticky fluid, allowing the cockroach to adhere to smooth surfaces.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "Which joint in the cockroach walking leg permits flexion of the tibia relative to the femur?",
+      "options": [
+        "Hip joint",
+        "Knee joint",
+        "Ankle joint",
+        "Tarsal joint"
+      ],
+      "answer": 1,
+      "explanation": "The knee joint, formed between the femur and tibia, allows flexion and extension of the tibia during walking.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "What structure on the pretarsus of cockroach walking legs aids in climbing smooth surfaces?",
+      "options": [
+        "Claws",
+        "Spurs",
+        "Pulvilli",
+        "Setae"
+      ],
+      "answer": 2,
+      "explanation": "Pulvilli are adhesive pads on the pretarsus that increase surface contact and enable climbing on smooth substrates.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "The coxa of each cockroach walking leg is articulated with which body region?",
+      "options": [
+        "Head",
+        "Thorax",
+        "Abdomen",
+        "Wings"
+      ],
+      "answer": 1,
+      "explanation": "The coxa is the proximal leg segment that attaches directly to the thoracic segment of the insect body.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "Which statement correctly describes the segmentation of a cockroach walking leg?",
+      "options": [
+        "It has four segments: coxa, femur, tibia, tarsus",
+        "It has five segments: coxa, trochanter, femur, tibia, tarsus",
+        "It has six segments including the pretarsus",
+        "It has three segments: femur, tibia, tarsus"
+      ],
+      "answer": 1,
+      "explanation": "A typical insect leg, including that of a cockroach, consists of five main segments: coxa, trochanter, femur, tibia, and tarsus.",
+      "topic": "Walking legs"
+    },
+    {
+      "question": "How many abdominal segments are externally visible in an adult cockroach?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "The cockroach abdomen consists of 10 segments, but only the first seven are externally visible; the last three are reduced and hidden.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "Which abdominal structure primarily functions in gas exchange in cockroaches?",
+      "options": [
+        "Malpighian tubules",
+        "Spiracles",
+        "Ovarioles",
+        "Cerci"
+      ],
+      "answer": 1,
+      "explanation": "Spiracles are external openings on each abdominal segment that lead to the tracheal system for respiration.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "The terminal abdominal segment of a female cockroach contains which reproductive structure?",
+      "options": [
+        "Ovipositor",
+        "Malpighian tubules",
+        "Hindgut",
+        "Spiracles"
+      ],
+      "answer": 0,
+      "explanation": "The ovipositor, located on the posterior abdominal segment, is used for laying eggs and forming the ootheca.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "Into which part of the hindgut do the Malpighian tubules empty their waste products?",
+      "options": [
+        "Midgut",
+        "Hindgut (ileum)",
+        "Foregut",
+        "Rectum"
+      ],
+      "answer": 1,
+      "explanation": "Malpighian tubules open into the hindgut at the junction of the ileum and colon, allowing waste to be excreted with feces.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "The cerci, situated at the posterior end of the cockroach abdomen, serve mainly as:",
+      "options": [
+        "Sensory organs for tactile and olfactory detection",
+        "Respiratory openings",
+        "Excretory organs",
+        "Digestive glands"
+      ],
+      "answer": 0,
+      "explanation": "Cerci are paired sensory appendages that detect mechanical and chemical stimuli, aiding in predator avoidance.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "The dorsal sclerites of each abdominal segment in a cockroach are called:",
+      "options": [
+        "Tergites",
+        "Sternites",
+        "Pleura",
+        "Sclerites"
+      ],
+      "answer": 0,
+      "explanation": "Tergites are the hardened dorsal plates covering each abdominal segment, providing protection and attachment sites for muscles.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "Which abdominal segment bears the anal opening in a cockroach?",
+      "options": [
+        "First abdominal segment",
+        "Last visible abdominal segment (segment 7)",
+        "Third abdominal segment",
+        "Fourth abdominal segment"
+      ],
+      "answer": 1,
+      "explanation": "The anal opening is located on the posterior margin of the last visible abdominal segment, which is segment 7 in cockroaches.",
+      "topic": "Abdominal structures"
+    },
+    {
+      "question": "Which part of the cockroach alimentary canal is primarily responsible for enzymatic digestion and absorption?",
+      "options": [
+        "Foregut",
+        "Midgut",
+        "Hindgut",
+        "Malpighian tubules"
+      ],
+      "answer": 1,
+      "explanation": "The midgut (ventriculus) contains the epithelial cells that secrete digestive enzymes and possess microvilli for nutrient absorption.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "The proventriculus in a cockroach functions as:",
+      "options": [
+        "A storage organ for food",
+        "A grinding chamber with chitinous teeth",
+        "A site of water reabsorption",
+        "A site of nitrogenous waste excretion"
+      ],
+      "answer": 1,
+      "explanation": "The proventriculus is a muscular, sclerotized region that mechanically grinds the ingested material before it passes to the midgut.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "Which gland secretes amylolytic enzymes into the foregut of a cockroach?",
+      "options": [
+        "Salivary glands",
+        "Midgut caeca",
+        "Hindgut glands",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "Salivary glands in insects release amylase and other enzymes into the crop, initiating carbohydrate digestion.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "The peritrophic membrane in the cockroach midgut primarily serves to:",
+      "options": [
+        "Increase surface area for absorption",
+        "Protect the epithelium from mechanical damage and pathogens",
+        "Secrete digestive enzymes",
+        "Transport waste to the hindgut"
+      ],
+      "answer": 1,
+      "explanation": "The semi‑permeable peritrophic membrane lines the midgut lumen, shielding epithelial cells while allowing diffusion of digested nutrients.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "In the cockroach hindgut, the main function is:",
+      "options": [
+        "Secretion of digestive enzymes",
+        "Absorption of water and ions",
+        "Synthesis of proteins",
+        "Storage of lipids"
+      ],
+      "answer": 1,
+      "explanation": "The hindgut (ileum, colon, rectum) reabsorbs water and electrolytes, concentrating the waste before excretion.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "Which of the following digestive organs is not present in a cockroach?",
+      "options": [
+        "Crop",
+        "Proventriculus",
+        "Pancreas",
+        "Midgut"
+      ],
+      "answer": 2,
+      "explanation": "Cockroaches lack a pancreas; digestive enzymes are supplied by salivary glands and midgut cells instead.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "The midgut caeca in a cockroach are primarily involved in:",
+      "options": [
+        "Secretion of bile‑like substances",
+        "Increasing surface area for digestion",
+        "Storage of fat",
+        "Excretion of uric acid"
+      ],
+      "answer": 1,
+      "explanation": "Caeca are blind‑ended outpouchings that enlarge the midgut lumen, providing additional surface for enzyme action and nutrient absorption.",
+      "topic": "Digestive system"
+    },
+    {
+      "question": "Which part of the cockroach alimentary canal is primarily responsible for secretion of digestive enzymes?",
+      "options": [
+        "Crop",
+        "Proventriculus",
+        "Midgut",
+        "Hindgut"
+      ],
+      "answer": 2,
+      "explanation": "The midgut epithelium of cockroaches produces a variety of digestive enzymes such as proteases, amylases and lipases essential for digestion.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The structure that prevents backflow of food from the foregut to the mouth in a cockroach is?",
+      "options": [
+        "Cardiac valve",
+        "Proventricular valve",
+        "Malpighian tubule",
+        "Anal sphincter"
+      ],
+      "answer": 0,
+      "explanation": "The cardiac valve (cardia) at the foregut‑midgut junction acts as a one‑way valve, stopping regurgitation of ingested material.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "In the cockroach, the region where absorption of amino acids and sugars occurs is:",
+      "options": [
+        "Crop",
+        "Midgut",
+        "Hindgut",
+        "Proventriculus"
+      ],
+      "answer": 1,
+      "explanation": "Nutrient absorption, especially of simple sugars and amino acids, takes place across the microvilli‑rich epithelium of the midgut.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Which gland opens into the foregut of the cockroach and secretes saliva containing amylase?",
+      "options": [
+        "Salivary glands",
+        "Malpighian tubules",
+        "Hepatopancreas",
+        "Proventricular glands"
+      ],
+      "answer": 0,
+      "explanation": "Salivary glands empty into the foregut and release saliva rich in amylase that begins carbohydrate digestion.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The hindgut of a cockroach is specialized for:",
+      "options": [
+        "Water reabsorption and feces formation",
+        "Enzyme secretion",
+        "Protein synthesis",
+        "Lipid digestion"
+      ],
+      "answer": 0,
+      "explanation": "The hindgut (ileum, colon and rectum) reabsorbs water and electrolytes and compacts waste into feces.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The peritrophic membrane in a cockroach is associated with which part of the alimentary canal?",
+      "options": [
+        "Midgut",
+        "Foregut",
+        "Hindgut",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "A chitin‑protein peritrophic membrane lines the midgut lumen, protecting the epithelium and facilitating digestion.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Which statement about the cockroach's crop is true?",
+      "options": [
+        "It stores food temporarily before digestion",
+        "It secretes digestive enzymes",
+        "It is the site of nutrient absorption",
+        "It connects directly to the hindgut"
+      ],
+      "answer": 0,
+      "explanation": "The crop functions as a storage sac, holding ingested material before it passes to the proventriculus for further processing.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "In the cockroach foregut, which structure is primarily responsible for mechanical grinding of ingested food?",
+      "options": [
+        "Crop",
+        "Pharynx",
+        "Proventriculus",
+        "Esophagus"
+      ],
+      "answer": 2,
+      "explanation": "The proventriculus, a muscular part of the foregut, grinds food before it passes to the midgut.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "The lining of the cockroach foregut is best described as:",
+      "options": [
+        "Simple columnar epithelium",
+        "Stratified squamous epithelium",
+        "Cuticle‑covered ectodermal epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 2,
+      "explanation": "Foregut tissues are derived from ectoderm and are covered by a rigid cuticle, preventing enzyme secretion and absorption.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "Which foregut structure in a cockroach functions as a temporary storage chamber for food after ingestion?",
+      "options": [
+        "Proventriculus",
+        "Crop",
+        "Gizzard",
+        "Pylorus"
+      ],
+      "answer": 1,
+      "explanation": "The crop is an expandable sac that stores food before it is passed to the proventriculus for grinding.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "Which activity is absent in the foregut of a cockroach?",
+      "options": [
+        "Secretion of salivary enzymes",
+        "Mechanical grinding of food",
+        "Temporary storage of food",
+        "Passage of food to the midgut"
+      ],
+      "answer": 0,
+      "explanation": "The foregut does not secrete digestive enzymes; enzyme secretion begins in the midgut.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "Embryologically, the foregut of insects such as the cockroach originates from:",
+      "options": [
+        "Endoderm",
+        "Mesoderm",
+        "Ectoderm",
+        "Both endoderm and mesoderm"
+      ],
+      "answer": 2,
+      "explanation": "In insects, the foregut, along with the hindgut, is derived from ectodermal tissue.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "The region that connects the crop to the midgut in a cockroach is called:",
+      "options": [
+        "Pyloric valve",
+        "Proventriculus",
+        "Esophagus",
+        "Ileum"
+      ],
+      "answer": 1,
+      "explanation": "The proventriculus follows the crop and regulates the flow of food into the midgut.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "Which statement correctly distinguishes the foregut from the midgut in a cockroach?",
+      "options": [
+        "Foregut is cuticle‑lined and does not absorb nutrients, whereas the midgut lacks cuticle and is the main site of absorption.",
+        "Foregut secretes digestive enzymes, while the midgut only stores food.",
+        "Both foregut and midgut are derived from mesoderm.",
+        "Midgut has a cuticular lining similar to the foregut."
+      ],
+      "answer": 0,
+      "explanation": "The foregut’s cuticular lining prevents absorption, while the midgut, lacking cuticle, is specialized for enzymatic digestion and nutrient absorption.",
+      "topic": "Foregut"
+    },
+    {
+      "question": "Which statement correctly describes the epithelial lining of the cockroach midgut?",
+      "options": [
+        "Stratified squamous epithelium with a cuticular layer",
+        "Simple columnar epithelium bearing microvilli and lacking cuticle",
+        "Pseudostratified columnar epithelium with motile cilia",
+        "Simple cuboidal epithelium with a thick basement membrane"
+      ],
+      "answer": 1,
+      "explanation": "The insect midgut is lined by a simple columnar epithelium that possesses dense microvilli (brush border) to increase absorptive area and it does not have an external cuticular layer, unlike the foregut.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "The gastric caeca attached to the cockroach midgut primarily serve to:",
+      "options": [
+        "Produce silk for cocoon formation",
+        "Increase the surface area for secretion and absorption of nutrients",
+        "Store nitrogenous waste products",
+        "Act as a pump for hemolymph circulation"
+      ],
+      "answer": 1,
+      "explanation": "Gastric caeca are blind‑pouch extensions of the midgut that markedly enlarge the absorptive surface, allowing greater secretion of digestive enzymes and uptake of digested nutrients.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "The pH of the lumen of the cockroach midgut is generally:",
+      "options": [
+        "Highly acidic (pH 2‑3)",
+        "Neutral (pH 7)",
+        "Slightly alkaline (pH 8‑9)",
+        "Strongly alkaline (pH 10‑11)"
+      ],
+      "answer": 3,
+      "explanation": "In most insects, including cockroaches, the midgut environment is strongly alkaline (pH around 10‑11), which optimizes the activity of many digestive enzymes.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "Which of the following enzymes is NOT typically secreted by the midgut cells of a cockroach?",
+      "options": [
+        "Proteases",
+        "Amylase",
+        "Lipase",
+        "Cellulase"
+      ],
+      "answer": 3,
+      "explanation": "Cockroaches lack endogenous cellulase; they cannot digest cellulose without symbiotic microbes. Their midgut secretes proteases, amylases and lipases for protein, carbohydrate and lipid digestion.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "The peritrophic membrane that lines the cockroach midgut lumen is mainly composed of:",
+      "options": [
+        "Chitin and proteins",
+        "Cellulose fibers",
+        "Keratin",
+        "Collagen"
+      ],
+      "answer": 0,
+      "explanation": "The peritrophic membrane is a semi‑permeable sleeve formed chiefly of chitin fibrils embedded in a protein matrix, protecting the epithelium and facilitating digestion.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "Absorption of digested nutrients across the cockroach midgut epithelium occurs primarily by:",
+      "options": [
+        "Simple diffusion through a cuticular layer",
+        "Active transport across the microvillar membrane",
+        "Endocytosis by goblet‑like cells",
+        "Phagocytosis by circulating hemocytes"
+      ],
+      "answer": 1,
+      "explanation": "Nutrients are taken up mainly via carrier‑mediated active transport mechanisms across the brush‑border microvilli of the midgut epithelial cells.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "Regenerative (stem) cells in the cockroach midgut are located:",
+      "options": [
+        "Floating freely in the gut lumen",
+        "In the basal layer of the epithelial lining",
+        "Within the peritrophic membrane",
+        "Inside the gastric caeca"
+      ],
+      "answer": 1,
+      "explanation": "Stem or regenerative cells reside at the basal side of the midgut epithelium, continuously replacing damaged or aged absorptive cells.",
+      "topic": "Midgut"
+    },
+    {
+      "question": "Which region of the cockroach hindgut is primarily responsible for water reabsorption?",
+      "options": [
+        "Ileum",
+        "Colon",
+        "Rectum",
+        "Malpighian tubules"
+      ],
+      "answer": 1,
+      "explanation": "The colon in insects is the main site where water and electrolytes are reabsorbed, concentrating the fecal material.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "The lining of the cockroach hindgut is best described as:",
+      "options": [
+        "Simple columnar epithelium with microvilli",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Cuticularized epithelium (chitinous cuticle)"
+      ],
+      "answer": 3,
+      "explanation": "The hindgut is lined by a cuticularized epithelium, a chitinous cuticle that protects the lumen and prevents digestion of its own wall.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "Which structure empties its filtrate into the hindgut at the junction of the ileum and colon?",
+      "options": [
+        "Salivary glands",
+        "Malpighian tubules",
+        "Midgut caeca",
+        "Proventriculus"
+      ],
+      "answer": 1,
+      "explanation": "Malpighian tubules discharge primary urine into the hindgut at the ileum‑colon junction for further processing.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "Symbiotic microorganisms residing in the cockroach hindgut mainly assist in the digestion of:",
+      "options": [
+        "Cellulose",
+        "Proteins",
+        "Lipids",
+        "Nucleic acids"
+      ],
+      "answer": 0,
+      "explanation": "Hindgut microbes produce cellulases that break down plant cellulose, a substrate the cockroach itself cannot digest.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "Specialized structures present in the rectum of the cockroach hindgut that aid in water reabsorption are called:",
+      "options": [
+        "Rectal pads",
+        "Peritrophic membrane",
+        "Gastric caeca",
+        "Malpighian tubules"
+      ],
+      "answer": 0,
+      "explanation": "Rectal pads increase surface area and facilitate efficient reabsorption of water and ions from the fecal mass.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "Which statement about the cockroach hindgut is FALSE?",
+      "options": [
+        "It lacks digestive enzymes",
+        "It is involved in active secretion of enzymes",
+        "It reabsorbs water and ions",
+        "It is lined by a chitinous cuticle"
+      ],
+      "answer": 1,
+      "explanation": "The hindgut does not secrete digestive enzymes; its role is mainly absorption and transport, not enzymatic digestion.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "In nitrogenous waste management, the primary role of the cockroach hindgut is:",
+      "options": [
+        "Conversion of uric acid to urea",
+        "Excretion of excess water",
+        "Reabsorption of water leading to concentration of uric acid",
+        "Storage of waste before elimination"
+      ],
+      "answer": 2,
+      "explanation": "Water reabsorption in the hindgut concentrates uric acid into a semi‑solid paste, facilitating its excretion with minimal water loss.",
+      "topic": "Hindgut"
+    },
+    {
+      "question": "Which gland in a cockroach secretes amylase for carbohydrate digestion?",
+      "options": [
+        "Salivary glands",
+        "Hepatic caeca",
+        "Malpighian tubules",
+        "Proventriculus"
+      ],
+      "answer": 0,
+      "explanation": "The salivary glands of cockroaches release amylase, initiating carbohydrate breakdown in the foregut.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "The hepatic caeca in a cockroach are extensions of which part of the alimentary canal?",
+      "options": [
+        "Foregut",
+        "Midgut",
+        "Hindgut",
+        "Proventriculus"
+      ],
+      "answer": 1,
+      "explanation": "Hepatic caeca are blind‑ended outpouchings of the midgut that increase digestive surface area.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "Which enzyme is primarily secreted by the midgut glands (hepatic caeca) of a cockroach?",
+      "options": [
+        "Protease",
+        "Lipase",
+        "Chitinase",
+        "Cellulase"
+      ],
+      "answer": 0,
+      "explanation": "Midgut glands secrete proteolytic enzymes, mainly trypsin‑like proteases, to digest proteins.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "All of the following are functions of the cockroach salivary glands except:",
+      "options": [
+        "Production of digestive enzymes",
+        "Lubrication of food bolus",
+        "Absorption of nutrients",
+        "Initiation of extracellular digestion"
+      ],
+      "answer": 2,
+      "explanation": "Salivary glands secrete enzymes, lubricate food, and start extracellular digestion, but they do not absorb nutrients.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "Which structure most effectively increases the surface area for digestion in the cockroach midgut?",
+      "options": [
+        "Hepatic caeca",
+        "Malpighian tubules",
+        "Salivary glands",
+        "Oenocytes"
+      ],
+      "answer": 0,
+      "explanation": "The hepatic caeca are numerous finger‑like projections that markedly enlarge the midgut’s absorptive surface.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "Which enzyme secreted by the cockroach salivary glands aids in protein digestion?",
+      "options": [
+        "Trypsin",
+        "Pepsin",
+        "Chymotrypsin",
+        "Carboxypeptidase"
+      ],
+      "answer": 0,
+      "explanation": "Cockroach salivary glands release trypsin‑like proteases that begin protein breakdown before the food reaches the midgut.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "Regulation of the cockroach digestive glands involves:",
+      "options": [
+        "Hormonal control only",
+        "Direct neuronal stimulation",
+        "Both hormonal and neuronal",
+        "No control"
+      ],
+      "answer": 2,
+      "explanation": "Digestive gland activity is modulated by both neuro‑hormonal signals and direct neuronal inputs, ensuring coordinated secretion.",
+      "topic": "Digestive glands"
+    },
+    {
+      "question": "Which part of the cockroach alimentary canal is primarily responsible for enzymatic digestion of proteins?",
+      "options": [
+        "Foregut (crop)",
+        "Proventriculus",
+        "Midgut (ventriculus)",
+        "Hindgut"
+      ],
+      "answer": 2,
+      "explanation": "The midgut (ventriculus) contains digestive enzymes such as proteases that break down proteins before absorption.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "The chitinous structure in the cockroach foregut that mechanically grinds food is called?",
+      "options": [
+        "Peritrophic membrane",
+        "Proventricular teeth",
+        "Malpighian tubules",
+        "Salivary gland"
+      ],
+      "answer": 1,
+      "explanation": "The proventriculus bears rows of chitinous teeth (or spines) that crush food particles, aiding mechanical digestion.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "Nutrient absorption in the cockroach midgut occurs across an epithelium characterized by which feature?",
+      "options": [
+        "Thick keratinized cuticle",
+        "Ciliated cells",
+        "Microvilli forming brush border",
+        "Simple squamous cells"
+      ],
+      "answer": 2,
+      "explanation": "The midgut epithelium is lined with microvilli, increasing surface area for efficient absorption of amino acids, sugars and fatty acids.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "Which digestive gland in the cockroach secretes amylase for carbohydrate digestion?",
+      "options": [
+        "Salivary glands",
+        "Midgut caeca",
+        "Proventricular glands",
+        "Hindgut glands"
+      ],
+      "answer": 0,
+      "explanation": "Salivary glands of insects release amylase, initiating the breakdown of starches in the ingested food.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "The main function of the cockroach hindgut is to:",
+      "options": [
+        "Synthesize proteins",
+        "Reabsorb water and ions",
+        "Produce digestive enzymes",
+        "Mechanically grind food"
+      ],
+      "answer": 1,
+      "explanation": "The hindgut (ileum, colon, rectum) reabsorbs water, electrolytes and some nitrogenous wastes, concentrating the fecal material.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "The peritrophic membrane in the cockroach midgut primarily:",
+      "options": [
+        "Secrete enzymes",
+        "Protect epithelium from abrasive food particles",
+        "Store waste",
+        "Facilitate gas exchange"
+      ],
+      "answer": 1,
+      "explanation": "The peritrophic membrane is a semi‑permeable chitinous layer that shields the midgut epithelium from mechanical damage and pathogens while allowing diffusion of digested nutrients.",
+      "topic": "Digestion and absorption in cockroach"
+    },
+    {
+      "question": "Which statement about cockroach digestion is FALSE?",
+      "options": [
+        "The crop stores ingested food temporarily",
+        "The proventriculus secretes lipases",
+        "The midgut epithelium has high alkaline pH",
+        "The hindgut reabsorbs uric acid"
+      ],
+      "answer": 1,
+      "explanation": "The proventriculus functions in mechanical grinding; lipases are secreted by midgut glands, not the proventriculus.",
+      "topic": "Digestion and absorption in cockroach"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 18,
+    "mcqCount": 126
+  }
+}

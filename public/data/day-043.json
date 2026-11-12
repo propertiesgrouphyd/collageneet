@@ -1,0 +1,2199 @@
+{
+  "day": 43,
+  "courseDate": "2026-10-11",
+  "publishAt": "2026-10-11T06:00:00+05:30",
+  "title": "Meiosis — Reduction Division (Day 43)",
+  "introduction": "This lesson details the complete sequence of meiosis, emphasizing the five substages of Prophase I, chromosome behaviours, and the generation of four haploid cells, all aligned with NEET‑UG high‑yield concepts.",
+  "sections": [
+    {
+      "topic": "Meiosis overview",
+      "heading": "General Outline of Meiosis",
+      "content": "Meiosis is a specialized cell division that reduces diploid (2n) chromosome number to haploid (n) through two successive nuclear divisions (Meiosis I and II) without an intervening S phase, producing four genetically distinct gametes.",
+      "keyPoints": [
+        "Two consecutive divisions: Meiosis I (reduction) and Meiosis II (equational)",
+        "No DNA replication between the divisions",
+        "Results in four non‑identical haploid cells"
+      ],
+      "neetTips": [
+        "Remember: Meiosis I halves chromosome number, Meiosis II separates sister chromatids."
+      ]
+    },
+    {
+      "topic": "Significance of meiosis",
+      "heading": "Biological Importance of Meiosis",
+      "content": "Meiosis ensures genetic diversity via independent assortment and crossing over, and maintains species‑specific chromosome number across generations, essential for sexual reproduction.",
+      "keyPoints": [
+        "Generates genetic variation",
+        "Restores diploid number at fertilisation",
+        "Prevents chromosome number doubling over generations"
+      ],
+      "neetTips": [
+        "Link reduction division to maintenance of constant chromosome number in offspring."
+      ]
+    },
+    {
+      "topic": "Meiosis I",
+      "heading": "Reduction Division – Meiosis I",
+      "content": "Meiosis I separates homologous chromosomes. It comprises Prophase I, Metaphase I, Anaphase I, and Telophase I, each displaying characteristic chromosome behaviours distinct from mitosis.",
+      "keyPoints": [
+        "Homologous chromosomes pair as bivalents",
+        "Crossing over occurs in Prophase I",
+        "Homologs move to opposite poles in Anaphase I"
+      ],
+      "neetTips": [
+        "Focus on differences: homologs vs. sister chromatids."
+      ]
+    },
+    {
+      "topic": "Prophase I",
+      "heading": "Prophase I – Five Substages",
+      "content": "Prophase I is the longest phase, subdivided into Leptotene, Zygotene, Pachytene, Diplotene, and Diakinesis. It involves chromosome condensation, synapsis, recombination, and preparation for segregation.",
+      "keyPoints": [
+        "Five sequential substages",
+        "Synaptonemal complex formation",
+        "Recombination hotspots"
+      ],
+      "neetTips": [
+        "Memorise order: L‑Z‑P‑D‑D (Lepto‑Zygo‑Pachy‑Dipl‑Diaki)."
+      ]
+    },
+    {
+      "topic": "Leptotene",
+      "heading": "Leptotene – Chromosome Condensation",
+      "content": "During Leptotene, chromosomes begin to coil, becoming visible as thin threads; each chromosome consists of two sister chromatids joined at the centromere.",
+      "keyPoints": [
+        "Chromosomes start to condense",
+        "Visible as long, thin threads"
+      ],
+      "neetTips": [
+        "Lepto = \"thin\" – think of thin threads forming."
+      ]
+    },
+    {
+      "topic": "Zygotene",
+      "heading": "Zygotene – Initiation of Synapsis",
+      "content": "In Zygotene, homologous chromosomes locate each other and initiate pairing; the synaptonemal complex begins to assemble, establishing close alignment.",
+      "keyPoints": [
+        "Homologs find each other (pairing)",
+        "Synaptonemal complex starts forming"
+      ],
+      "neetTips": [
+        "Zygote = pair; remember pairing begins here."
+      ]
+    },
+    {
+      "topic": "Pachytene",
+      "heading": "Pachytene – Crossing Over",
+      "content": "Pachytene is the stage of maximal synapsis; the synaptonemal complex is fully formed and crossing over (exchange of genetic material) occurs at recombination nodules.",
+      "keyPoints": [
+        "Full synapsis of homologs",
+        "Crossing over at recombination nodules"
+      ],
+      "neetTips": [
+        "Pachy = \"dense\" – dense pairing and recombination."
+      ]
+    },
+    {
+      "topic": "Diplotene",
+      "heading": "Diplotene – Desynapsis and Chiasmata Formation",
+      "content": "During Diplotene, the synaptonemal complex disassembles; homologs begin to separate but remain attached at crossover sites called chiasmata.",
+      "keyPoints": [
+        "Synaptonemal complex breaks down",
+        "Chiasmata become visible"
+      ],
+      "neetTips": [
+        "Diplotene = \"double\" – homologs start to double‑back apart."
+      ]
+    },
+    {
+      "topic": "Diakinesis",
+      "heading": "Diakinesis – Chromosome Preparation for Metaphase I",
+      "content": "Diakinesis marks terminal condensation; chromosomes become short and thick, chiasmata move toward chromosome ends (terminalization), and the nuclear envelope breaks down.",
+      "keyPoints": [
+        "Maximum condensation",
+        "Chiasmata terminalize",
+        "Nuclear envelope disintegrates"
+      ],
+      "neetTips": [
+        "Diaki = \"final\" – final preparation before metaphase."
+      ]
+    },
+    {
+      "topic": "Synapsis",
+      "heading": "Synapsis – Homologous Pairing Mechanism",
+      "content": "Synapsis is the intimate pairing of homologous chromosomes mediated by the proteinaceous synaptonemal complex, essential for accurate recombination.",
+      "keyPoints": [
+        "Mediated by synaptonemal complex",
+        "Ensures homolog alignment"
+      ],
+      "neetTips": [
+        "Synapsis = \"together\" – think of chromosomes holding hands."
+      ]
+    },
+    {
+      "topic": "Bivalent formation",
+      "heading": "Bivalent (Tetrad) Formation",
+      "content": "A bivalent, or tetrad, consists of two homologous chromosomes each with two sister chromatids, held together by chiasmata after crossing over.",
+      "keyPoints": [
+        "Four chromatids per bivalent",
+        "Stabilised by chiasmata"
+      ],
+      "neetTips": [
+        "Bivalent = two (bi) homologs; remember tetrad = four chromatids."
+      ]
+    },
+    {
+      "topic": "Crossing over",
+      "heading": "Crossing Over – Genetic Recombination",
+      "content": "Crossing over is the reciprocal exchange of DNA segments between non‑sister chromatids at recombination nodules, creating new allele combinations.",
+      "keyPoints": [
+        "Occurs in Pachytene",
+        "Increases genetic variation"
+      ],
+      "neetTips": [
+        "Crossing over = exchange; link to independent assortment."
+      ]
+    },
+    {
+      "topic": "Chiasmata",
+      "heading": "Chiasmata – Physical Manifestation of Crossing Over",
+      "content": "Chiasmata are the visible X‑shaped structures where homologs remain attached after synaptonemal complex dissolution, guiding proper segregation in Anaphase I.",
+      "keyPoints": [
+        "Visible during Diplotene/Diakinesis",
+        "Serve as tension points for spindle attachment"
+      ],
+      "neetTips": [
+        "Chiasma = \"X\" – picture an X linking homologs."
+      ]
+    },
+    {
+      "topic": "Metaphase I",
+      "heading": "Metaphase I – Alignment of Bivalents",
+      "content": "Bivalents align at the metaphase plate with their homologous centromeres oriented toward opposite poles; spindle fibers attach to kinetochores of each homolog.",
+      "keyPoints": [
+        "Homologous centromeres face opposite poles",
+        "Independent assortment of maternal/paternal sets"
+      ],
+      "neetTips": [
+        "Metaphase I = random orientation → genetic diversity."
+      ]
+    },
+    {
+      "topic": "Anaphase I",
+      "heading": "Anaphase I – Separation of Homologs",
+      "content": "Spindle fibers shorten, pulling each homolog of a bivalent toward opposite poles while sister chromatids remain attached at centromeres.",
+      "keyPoints": [
+        "Homologs separate, not sister chromatids",
+        "Reduces chromosome number by half"
+      ],
+      "neetTips": [
+        "Anaphase I = reduction step; remember sister chromatids stay together."
+      ]
+    },
+    {
+      "topic": "Telophase I",
+      "heading": "Telophase I – Re‑formation of Nuclear Envelopes",
+      "content": "Chromosomes arrive at poles, nuclear envelopes may reform, and cytokinesis often follows, yielding two haploid (n) cells each still containing duplicated sister chromatids.",
+      "keyPoints": [
+        "Two haploid cells formed",
+        "Chromosomes still duplicated"
+      ],
+      "neetTips": [
+        "Telophase I ends reduction; cells are haploid but chromosomes are still in sister‑chromatid form."
+      ]
+    },
+    {
+      "topic": "Meiosis II",
+      "heading": "Equational Division – Meiosis II",
+      "content": "Meiosis II resembles mitosis; sister chromatids separate during anaphase II, resulting in four genetically distinct haploid gametes.",
+      "keyPoints": [
+        "No DNA replication before entry",
+        "Separates sister chromatids"
+      ],
+      "neetTips": [
+        "Meiosis II = mitosis‑like; focus on chromatid separation."
+      ]
+    },
+    {
+      "topic": "Prophase II",
+      "heading": "Prophase II – Preparation for Chromatid Separation",
+      "content": "Chromosomes re‑condense, a new spindle forms, and the nuclear envelope disintegrates; no synapsis occurs as chromosomes are already haploid.",
+      "keyPoints": [
+        "Chromosomes condense again",
+        "Spindle re‑assembles"
+      ],
+      "neetTips": [
+        "Prophase II is brief; remember no crossing over here."
+      ]
+    },
+    {
+      "topic": "Metaphase II",
+      "heading": "Metaphase II – Chromatid Alignment",
+      "content": "Sister chromatids line up individually at the metaphase plate, each chromatid’s kinetochore attaching to spindle fibers from opposite poles.",
+      "keyPoints": [
+        "Single chromatids align",
+        "Random orientation of chromatids"
+      ],
+      "neetTips": [
+        "Metaphase II mirrors mitotic metaphase; focus on individual chromatids."
+      ]
+    },
+    {
+      "topic": "Anaphase II",
+      "heading": "Anaphase II – Separation of Sister Chromatids",
+      "content": "Centromeric cohesion is released, allowing sister chromatids to move to opposite poles, now becoming independent chromosomes.",
+      "keyPoints": [
+        "Cohesin cleavage separates sisters",
+        "Restores true haploid chromosome set"
+      ],
+      "neetTips": [
+        "Anaphase II completes the haploidization process."
+      ]
+    },
+    {
+      "topic": "Telophase II",
+      "heading": "Telophase II – Nuclear Re‑formation",
+      "content": "Nuclear envelopes re‑form around each set of chromosomes at the poles; chromosomes de‑condense, preparing the cells for the final stage.",
+      "keyPoints": [
+        "Four nuclei formed",
+        "Chromosomes begin to de‑condense"
+      ],
+      "neetTips": [
+        "Telophase II finalises the four gametes."
+      ]
+    },
+    {
+      "topic": "Cytokinesis",
+      "heading": "Cytokinesis – Cytoplasmic Division",
+      "content": "Cytokinesis partitions the cytoplasm, producing four separate haploid cells, each with a distinct genetic makeup due to prior recombination events.",
+      "keyPoints": [
+        "Physical separation of cells",
+        "Results in four gametes"
+      ],
+      "neetTips": [
+        "Cytokinesis follows Telophase II in most animal cells."
+      ]
+    },
+    {
+      "topic": "Haploid product formation",
+      "heading": "Outcome – Four Haploid Gametes",
+      "content": "The culmination of meiosis yields four genetically diverse haploid cells, each containing one set of chromosomes and a unique combination of alleles.",
+      "keyPoints": [
+        "Four non‑identical haploid cells",
+        "Basis for sexual reproduction"
+      ],
+      "neetTips": [
+        "Link final product to NEET focus: reduction of chromosome number and genetic variation."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe each stage of meiosis and its sub‑stages with emphasis on chromosome behaviour.",
+    "Explain the significance of synapsis, crossing over, chiasmata and reduction of chromosome number.",
+    "Differentiate events of Meiosis I from Meiosis II and predict the outcome of haploid gamete formation."
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary purpose of meiosis in sexually reproducing organisms?",
+      "options": [
+        "To increase cell size",
+        "To produce genetically identical cells",
+        "To reduce chromosome number by half",
+        "To repair DNA damage"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis reduces the diploid chromosome complement to a haploid set, ensuring that upon fertilization the normal diploid number is restored.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "After completion of Meiosis I, the chromosome number in each daughter cell is:",
+      "options": [
+        "The same as the parent diploid cell",
+        "Half the diploid number",
+        "Double the diploid number",
+        "Variable depending on species"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I is a reductional division; homologous chromosomes separate, resulting in cells with half the original chromosome number (haploid).",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "Which statement correctly distinguishes Meiosis I from Meiosis II?",
+      "options": [
+        "Homologous chromosomes separate in Meiosis I, sister chromatids separate in Meiosis II",
+        "Sister chromatids separate in Meiosis I, homologous chromosomes separate in Meiosis II",
+        "Both divisions separate sister chromatids",
+        "Both divisions separate homologous chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I separates homologous chromosome pairs (reductional), whereas Meiosis II separates sister chromatids (equational), similar to mitosis.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "The term \"reduction division\" in meiosis refers to:",
+      "options": [
+        "Reduction in cell size",
+        "Reduction in DNA content per chromosome",
+        "Reduction in chromosome number",
+        "Reduction in the number of cell divisions"
+      ],
+      "answer": 2,
+      "explanation": "Reduction division denotes the halving of chromosome number from diploid to haploid during meiosis.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "Which of the following is NOT a source of genetic variation introduced during meiosis?",
+      "options": [
+        "Independent assortment of homologous chromosomes",
+        "Crossing over between nonsister chromatids",
+        "Random fertilization",
+        "Synapsis of homologous chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "Random fertilization occurs after meiosis; the other three mechanisms operate during meiosis to generate variation.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "From one diploid germ cell, how many haploid cells are produced at the end of meiosis in humans?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "Meiosis consists of two successive divisions, yielding four genetically distinct haploid gametes from a single diploid precursor.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "During which phase of meiosis do homologous chromosomes pair (synapse) and form bivalents?",
+      "options": [
+        "Metaphase I",
+        "Prophase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "Synapsis and bivalent formation occur during Prophase I, specifically in the zygotene and pachytene substages.",
+      "topic": "Meiosis overview"
+    },
+    {
+      "question": "Why is the reduction of chromosome number during meiosis essential for sexually reproducing organisms?",
+      "options": [
+        "It ensures that offspring have the same diploid chromosome number as the parents",
+        "It allows each gamete to contain two copies of each gene",
+        "It doubles the genetic material for increased vigor",
+        "It prevents the formation of haploid cells"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis halves the chromosome number so that when two haploid gametes fuse during fertilization, the resulting zygote restores the species‑specific diploid number.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "How does crossing over during prophase I contribute to genetic variation in the offspring?",
+      "options": [
+        "It duplicates chromosomes to increase DNA content",
+        "It exchanges DNA segments between non‑sister chromatids of homologous chromosomes",
+        "It separates sister chromatids into different cells",
+        "It aligns chromosomes at the metaphase plate"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over involves reciprocal exchange of genetic material between non‑sister chromatids, creating new allele combinations that are transmitted to gametes.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "The independent assortment of homologous chromosome pairs during meiosis I leads to:",
+      "options": [
+        "Identical genetic makeup of all four gametes",
+        "Random combination of maternal and paternal chromosomes in each gamete",
+        "Duplication of each chromosome before segregation",
+        "Fusion of sister chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Each homologous pair aligns independently at the metaphase plate, so the maternal or paternal chromosome can go to either pole, generating many possible gamete genotypes.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "What is the primary significance of producing haploid gametes rather than diploid cells for fertilization?",
+      "options": [
+        "Haploid cells can undergo mitosis faster",
+        "Fusion of two haploid cells restores the diploid chromosome complement",
+        "Haploid cells contain double the amount of genetic information",
+        "It prevents crossing over"
+      ],
+      "answer": 1,
+      "explanation": "When two haploid gametes fuse, their chromosome sets combine to re‑establish the species‑specific diploid number, ensuring chromosomal stability across generations.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "If meiosis failed to occur and gametes were produced by mitosis (remaining diploid), what would be the most likely outcome after fertilization?",
+      "options": [
+        "The zygote would have the normal diploid chromosome number",
+        "The zygote would be haploid and non‑viable",
+        "The zygote would become tetraploid, leading to developmental abnormalities",
+        "The zygote would lack genetic variation"
+      ],
+      "answer": 2,
+      "explanation": "Diploid gametes fusing would double the chromosome number (2n + 2n = 4n), producing a tetraploid zygote that is usually lethal or causes severe abnormalities.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "How does meiotic recombination aid in the removal of deleterious mutations from a population?",
+      "options": [
+        "It directly deletes mutated DNA segments",
+        "It creates new alleles that can mask harmful mutations through heterozygosity",
+        "It prevents DNA replication errors",
+        "It increases the number of chromosomes"
+      ],
+      "answer": 1,
+      "explanation": "Recombination can place a deleterious allele onto a different genetic background, allowing natural selection to act more efficiently and sometimes masking its effect in heterozygotes.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "Compared to mitosis, why is the production of four genetically distinct haploid cells by meiosis biologically important?",
+      "options": [
+        "It ensures each daughter cell receives an identical set of organelles",
+        "It provides genetic uniformity across the organism",
+        "It generates genetic diversity essential for evolution and adaptation",
+        "It doubles the rate of cell division"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis creates four non‑identical haploid cells, each with a unique combination of alleles, which increases genetic diversity in the population and is a key driver of evolution.",
+      "topic": "Significance of meiosis"
+    },
+    {
+      "question": "Which event distinguishes Meiosis I from mitosis?",
+      "options": [
+        "Separation of sister chromatids",
+        "Replication of DNA",
+        "Separation of homologous chromosomes",
+        "Cytokinesis"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis I is characterized by the segregation of homologous chromosome pairs, whereas mitosis separates sister chromatids.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "The physical pairing of homologous chromosomes during prophase I is called?",
+      "options": [
+        "Synapsis",
+        "Independent assortment",
+        "Chromatid cohesion",
+        "Telophase"
+      ],
+      "answer": 0,
+      "explanation": "Synapsis is the process where homologous chromosomes align tightly and form a bivalent.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "The random orientation of bivalents on the metaphase I plate underlies which genetic principle?",
+      "options": [
+        "Law of segregation",
+        "Law of independent assortment",
+        "Principle of dominance",
+        "Principle of linkage"
+      ],
+      "answer": 1,
+      "explanation": "Independent assortment arises because each bivalent can orient in two ways, leading to random combination of maternal and paternal chromosomes.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "Crossing over primarily occurs during which substage of prophase I, and what structure marks the exchange site?",
+      "options": [
+        "Leptotene – synaptonemal complex",
+        "Zygotene – chiasmata",
+        "Pachytene – chiasmata",
+        "Diplotene – chiasmata"
+      ],
+      "answer": 2,
+      "explanation": "During pachytene, homologous chromosomes are fully synapsed and crossing over creates chiasmata that become visible later.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "At the end of anaphase I, each daughter cell contains:",
+      "options": [
+        "One chromatid per chromosome",
+        "Two sister chromatids per chromosome",
+        "Two homologous chromosomes",
+        "Four chromatids per chromosome"
+      ],
+      "answer": 1,
+      "explanation": "Homologous chromosomes separate, but each chromosome still consists of two sister chromatids.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "Which statement correctly compares Meiosis I and Meiosis II?",
+      "options": [
+        "Meiosis I reduces chromosome number, Meiosis II does not",
+        "Meiosis I separates sister chromatids, Meiosis II separates homologues",
+        "Both divisions involve crossing over",
+        "Cytokinesis occurs only in Meiosis I"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I is the reductional division that halves the chromosome number; Meiosis II is equational, separating sister chromatids without further reduction.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "The generation of four genetically distinct haploid cells after Meiosis I is due to:",
+      "options": [
+        "Independent assortment only",
+        "Crossing over only",
+        "Both independent assortment and crossing over",
+        "No recombination"
+      ],
+      "answer": 2,
+      "explanation": "Both independent assortment of homologues and crossing over generate new allele combinations, leading to genetically diverse haploid cells.",
+      "topic": "Meiosis I"
+    },
+    {
+      "question": "Which substage of Prophase I is characterized by the appearance of chiasmata?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 2,
+      "explanation": "Chiasmata become visible during diplotene when homologous chromosomes begin to separate but remain connected at crossover sites.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "The initial pairing of homologous chromosomes (synapsis) begins in which substage of Prophase I?",
+      "options": [
+        "Pachytene",
+        "Zygotene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 1,
+      "explanation": "Synapsis is initiated in zygotene, where homologues start aligning and the synaptonemal complex begins to form.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "Crossing over between non‑sister chromatids of homologous chromosomes occurs primarily during which substage of Prophase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "The pachytene stage provides the fully synapsed homologues where recombination enzymes mediate crossing over.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "The physical manifestation of crossing over is observed as:",
+      "options": [
+        "Centromeres",
+        "Kinetochores",
+        "Chiasmata",
+        "Spindle fibers"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over creates chiasmata, the X‑shaped structures that hold homologues together until anaphase I.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "At the start of Prophase I in a human somatic cell, the chromosome number is:",
+      "options": [
+        "haploid (n)",
+        "diploid (2n)",
+        "polyploid",
+        "triploid (3n)"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis begins with a diploid (2n) cell; reduction of chromosome number occurs only after segregation in anaphase I.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "Which of the following events does NOT occur during Prophase I?",
+      "options": [
+        "Synapsis of homologous chromosomes",
+        "Crossing over between homologues",
+        "Separation of homologous chromosomes",
+        "Formation of tetrads (bivalents)"
+      ],
+      "answer": 2,
+      "explanation": "Separation of homologous chromosomes takes place in Anaphase I, not during Prophase I.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "In meiosis, a \"bivalent\" refers to:",
+      "options": [
+        "A pair of sister chromatids",
+        "A pair of homologous chromosomes",
+        "A pair of centromeres",
+        "A pair of spindle fibers"
+      ],
+      "answer": 1,
+      "explanation": "A bivalent (or tetrad) is the association of two homologous chromosomes, each consisting of two sister chromatids, formed during Prophase I.",
+      "topic": "Prophase I"
+    },
+    {
+      "question": "Which cytological feature is most characteristic of the leptotene stage of prophase I in meiosis?",
+      "options": [
+        "Complete synapsis of homologous chromosomes",
+        "Formation of visible chiasmata",
+        "Condensation of chromosomes into long, thin threads",
+        "Segregation of sister chromatids"
+      ],
+      "answer": 2,
+      "explanation": "In leptotene, chromosomes begin to condense and appear as long, thin threads; synapsis and chiasmata formation occur in later substages.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "Which protein directly catalyzes the formation of programmed double‑strand breaks that initiate recombination during leptotene?",
+      "options": [
+        "DNA polymerase I",
+        "Spo11",
+        "RecA",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "Spo11 creates the programmed double‑strand breaks in leptotene that are essential for homologous recombination.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "The earliest recombination structures observed in leptotene are called:",
+      "options": [
+        "Mature chiasmata",
+        "Early recombination nodules",
+        "Synaptonemal complex central elements",
+        "Cohesin complexes"
+      ],
+      "answer": 1,
+      "explanation": "Early recombination nodules appear on the thin leptotene chromosomes soon after double‑strand breaks are introduced.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "How does the leptotene stage differ from zygotene regarding synapsis of homologous chromosomes?",
+      "options": [
+        "Complete synapsis occurs in leptotene",
+        "No synapsis; homologues remain separate in leptotene",
+        "The synaptonemal complex is fully formed in leptotene",
+        "Crossing over takes place in leptotene"
+      ],
+      "answer": 1,
+      "explanation": "During leptotene homologous chromosomes are not yet paired; synapsis begins in the subsequent zygotene stage.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "In a human primary spermatocyte at leptotene, how many distinct chromosomes are visible under the microscope?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "44"
+      ],
+      "answer": 0,
+      "explanation": "At leptotene the cell is still diploid (2n) with each chromosome consisting of two sister chromatids, so 46 chromosomes are observed.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "Which statement about leptotene is FALSE?",
+      "options": [
+        "Chromosomes appear as long, thin threads",
+        "Homologous chromosomes are already fully synapsed",
+        "Double‑strand breaks are introduced to initiate recombination",
+        "The nuclear envelope remains intact"
+      ],
+      "answer": 1,
+      "explanation": "Full synapsis of homologues occurs later (zygotene); during leptotene they are still separate.",
+      "topic": "Leptotene"
+    },
+    {
+      "question": "What major cytological event characterizes the zygotene stage of prophase I?",
+      "options": [
+        "Chromosome condensation reaches its maximum",
+        "Homologous chromosomes begin to pair and synapse",
+        "Crossing over between non‑sister chromatids occurs",
+        "Bivalents align at the metaphase plate"
+      ],
+      "answer": 1,
+      "explanation": "During zygotene, homologous chromosomes initiate pairing and start forming the synaptonemal complex, a process called synapsis. The other events belong to different substages of meiosis.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "Which structure is assembled during zygotene to facilitate synapsis of homologous chromosomes?",
+      "options": [
+        "Spindle microtubules",
+        "Kinetochore plate",
+        "Synaptonemal complex",
+        "Centromeric heterochromatin"
+      ],
+      "answer": 2,
+      "explanation": "The synaptonemal complex, a proteinaceous scaffold, is built in zygotene and holds homologues together, enabling their precise alignment.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "Which protein is a key component of the transverse filaments of the synaptonemal complex formed in zygotene?",
+      "options": [
+        "Cohesin",
+        "SYCP1",
+        "RecA homolog",
+        "DNA polymerase δ"
+      ],
+      "answer": 1,
+      "explanation": "SYCP1 (Synaptonemal Complex Protein 1) forms the transverse filaments that bridge the lateral elements of homologues during zygotene.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "The “bouquet” arrangement of telomeres observed in zygotene primarily aids in:",
+      "options": [
+        "Initiation of DNA replication",
+        "Cytokinesis completion",
+        "Homologous chromosome pairing",
+        "Separation of sister chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Clustering of telomeres at the nuclear envelope creates a bouquet configuration that brings homologues into proximity, promoting efficient pairing and synapsis.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "Which statement correctly distinguishes zygotene from leptotene?",
+      "options": [
+        "Leptotene shows a fully formed synaptonemal complex, whereas zygotene lacks it",
+        "Leptotene is characterized by chromosome condensation; zygotene is characterized by homologous pairing",
+        "Crossing over occurs in leptotene, while chromosomes decondense in zygotene",
+        "Both stages exhibit identical chromosome behavior"
+      ],
+      "answer": 1,
+      "explanation": "Leptotene involves initial chromosome condensation and appearance of thin threads; zygotene follows with the onset of homologous pairing and synaptonemal complex formation.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "The transition from zygotene to pachytene is marked by:",
+      "options": [
+        "Completion of full synapsis along the entire length of homologues",
+        "Initiation of spindle fiber attachment to kinetochores",
+        "Separation of homologous chromosomes to opposite poles",
+        "Disassembly of the nuclear envelope"
+      ],
+      "answer": 0,
+      "explanation": "Pachytene begins when homologous chromosomes are completely synapsed, forming fully mature bivalents; earlier events like spindle formation occur later.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "A mutation that prevents formation of the central element of the synaptonemal complex would most likely arrest meiosis at which stage?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 1,
+      "explanation": "The central element is assembled during zygotene; failure to form it blocks progression to full synapsis, halting meiosis before pachytene.",
+      "topic": "Zygotene"
+    },
+    {
+      "question": "What is the primary cytological event that characterizes the pachytene stage of prophase I?",
+      "options": [
+        "Initiation of homologous chromosome pairing",
+        "Separation of homologues to opposite poles",
+        "Completion of synapsis with crossing over between homologues",
+        "Condensation of chromosomes into visible bivalents"
+      ],
+      "answer": 2,
+      "explanation": "During pachytene, homologous chromosomes are fully synapsed and crossing over (recombination) occurs, distinguishing it from earlier substages.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "Recombination nodules observed in pachytene are important because they represent:",
+      "options": [
+        "Sites of DNA replication",
+        "Points where sister chromatids separate",
+        "Locations of crossing over between homologous chromosomes",
+        "Anchors for spindle microtubules"
+      ],
+      "answer": 2,
+      "explanation": "Recombination nodules are protein complexes at the sites of genetic exchange, indicating where crossing over takes place.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "Which protein is a key component of the synaptonemal complex formed during pachytene?",
+      "options": [
+        "Cohesin",
+        "Synaptonemal complex protein SYCP1",
+        "DNA polymerase delta",
+        "Histone H1"
+      ],
+      "answer": 1,
+      "explanation": "SYCP1 is a transverse filament protein essential for building the central element of the synaptonemal complex that holds homologues together in pachytene.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "In pachytene, the typical number of chiasmata per bivalent is:",
+      "options": [
+        "Zero",
+        "One or more",
+        "Exactly two",
+        "Never more than one"
+      ],
+      "answer": 1,
+      "explanation": "At least one chiasma forms per bivalent to ensure proper segregation, but the number can vary and often exceeds one.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "The pachytene checkpoint primarily monitors:",
+      "options": [
+        "Completion of DNA replication",
+        "Proper synapsis and recombination events",
+        "Spindle assembly integrity",
+        "Cytokinesis progression"
+      ],
+      "answer": 1,
+      "explanation": "The checkpoint ensures that homologous chromosomes are correctly synapsed and that recombination has occurred before meiosis proceeds.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "Compared with leptotene and zygotene, chromosomes in pachytene are:",
+      "options": [
+        "Less condensed and more diffuse",
+        "Highly condensed and visible as X‑shaped structures",
+        "Fully synapsed with a thick synaptonemal complex",
+        "Completely separated as individual chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Pachytene is marked by a well‑developed synaptonemal complex that tightly aligns homologues, giving them a thick appearance.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "Which statement about pachytene is FALSE?",
+      "options": [
+        "Crossing over occurs primarily during this stage",
+        "Homologous chromosomes are held together by chiasmata",
+        "The nuclear envelope remains intact",
+        "Sister chromatids separate during this stage"
+      ],
+      "answer": 3,
+      "explanation": "Sister chromatids do not separate in pachytene; they remain attached until later stages of meiosis.",
+      "topic": "Pachytene"
+    },
+    {
+      "question": "Which of the following best describes the chromosome behavior during the diplotene stage of meiosis I?",
+      "options": [
+        "Synaptonemal complex is fully formed and chromosomes are tightly condensed",
+        "Homologous chromosomes begin to separate but remain attached at chiasmata",
+        "Crossing over occurs for the first time",
+        "The nuclear envelope disintegrates and spindle fibers attach to kinetochores"
+      ],
+      "answer": 1,
+      "explanation": "In diplotene, homologous chromosomes start moving apart after synapsis, yet they stay linked at the sites of crossing over called chiasmata.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "What cytological feature becomes prominently visible on homologous chromosomes during diplotene?",
+      "options": [
+        "Synaptonemal complex threads",
+        "Centromeric heterochromatin",
+        "Chiasmata",
+        "Spindle microtubules"
+      ],
+      "answer": 2,
+      "explanation": "Chiasmata, the physical manifestations of crossing‑over, are most evident during diplotene as the synaptonemal complex disassembles.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "Resolution of recombination intermediates that generate chiasmata in diplotene primarily involves which type of enzyme?",
+      "options": [
+        "DNA ligase I",
+        "RecA recombinase",
+        "Holliday junction resolvase (e.g., GEN1)",
+        "DNA polymerase δ"
+      ],
+      "answer": 2,
+      "explanation": "Holliday junction resolvases cleave the crossed‑over DNA structures, producing the chiasmata observed in diplotene.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "Why are chromosomes longest during diplotene compared with earlier prophase I substages?",
+      "options": [
+        "They are highly condensed by condensin complexes",
+        "They undergo decondensation after synaptonemal complex disassembly",
+        "Cohesin complexes are removed from chromosome arms",
+        "Spindle fibers pull them apart"
+      ],
+      "answer": 1,
+      "explanation": "After the synaptonemal complex breaks down, chromosomes decondense, making them appear elongated and allowing chiasmata to be seen clearly.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "Which statement correctly distinguishes diplotene from the subsequent diakinesis stage?",
+      "options": [
+        "Chiasmata are still present in diplotene but disappear in diakinesis",
+        "The nuclear envelope remains intact in diplotene and breaks down in diakinesis",
+        "Homologous chromosomes remain fully synapsed in diplotene",
+        "Crossing over occurs in diakinesis but not in diplotene"
+      ],
+      "answer": 1,
+      "explanation": "During diplotene the nuclear envelope is still intact; it disintegrates in diakinesis as chromosomes further condense and prepare for metaphase I.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "The presence of chiasmata in diplotene is crucial for which meiotic event?",
+      "options": [
+        "Segregation of sister chromatids in meiosis II",
+        "Accurate alignment of homologous chromosomes on the metaphase I plate",
+        "Initiation of DNA replication in S phase",
+        "Cytokinesis after meiosis I"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata provide the physical link that ensures homologous chromosomes align correctly on the metaphase I plate, facilitating their proper segregation.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "A plant mutant lacking functional synaptonemal complex proteins would most likely exhibit abnormal morphology at which meiotic stage?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 2,
+      "explanation": "Without a functional synaptonemal complex, homologous chromosomes cannot synapse properly, leading to defective chiasma formation that becomes evident during diplotene.",
+      "topic": "Diplotene"
+    },
+    {
+      "question": "Which event characterizes diakinesis, the final substage of prophase I in meiosis?",
+      "options": [
+        "Formation of the synaptonemal complex",
+        "Separation of homologous chromosomes at centromeres",
+        "Chromosomes become highly condensed and chiasmata are clearly visible",
+        "Re‑formation of the nuclear envelope"
+      ],
+      "answer": 2,
+      "explanation": "During diakinesis chromosomes reach maximal condensation, the synaptonemal complex disassembles and chiasmata become prominent, preparing the bivalents for attachment to the spindle.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "What happens to the nuclear envelope during diakinesis?",
+      "options": [
+        "It remains intact throughout the stage",
+        "It disintegrates, allowing spindle microtubules to access chromosomes",
+        "It reforms around each individual chromosome",
+        "It thickens to protect the condensed chromosomes"
+      ],
+      "answer": 1,
+      "explanation": "In diakinesis the nuclear envelope breaks down, a prerequisite for spindle fibers to interact with kinetochores of the condensed chromosomes.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "The transition from diplotene to diakinesis is marked by the disappearance of which structure?",
+      "options": [
+        "Chiasmata",
+        "Synaptonemal complex",
+        "Centromere",
+        "Nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "The synaptonemal complex, which holds homologues together during earlier prophase I stages, disassembles as cells enter diakinesis, leaving only chiasmata as points of attachment.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "During diakinesis, homologous chromosomes (bivalents) are held together mainly by:",
+      "options": [
+        "Cohesin proteins at centromeres",
+        "Chiasmata formed after crossing over",
+        "Microtubule attachments from the spindle",
+        "Telomere clustering at the nuclear periphery"
+      ],
+      "answer": 1,
+      "explanation": "After crossing over, the only physical links between homologues are the chiasmata; cohesin at centromeres holds sister chromatids together, not the homologues.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "How are chromosomes oriented within the nucleus during diakinesis?",
+      "options": [
+        "Chromosomes are highly condensed and positioned randomly within the nucleus",
+        "Chromosomes are aligned at the future metaphase plate",
+        "Chromosomes are attached to spindle fibers and positioned at opposite poles",
+        "Chromosomes are dispersed as individual chromatids"
+      ],
+      "answer": 0,
+      "explanation": "In diakinesis chromosomes are maximally condensed and still dispersed; they have not yet aligned at the metaphase plate, which occurs in metaphase I.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "The spindle fibers that will attach to kinetochores in diakinesis originate from:",
+      "options": [
+        "Duplicated centrosomes (microtubule organizing centers)",
+        "The disintegrating nuclear envelope",
+        "The nucleolus",
+        "The cell membrane"
+      ],
+      "answer": 0,
+      "explanation": "Centrosomes duplicate during interphase and, after nuclear envelope breakdown, nucleate microtubules that form the meiotic spindle.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "What is the primary functional significance of diakinesis in meiosis I?",
+      "options": [
+        "Separation of sister chromatids",
+        "Facilitation of crossing over between homologues",
+        "Preparation of homologous chromosomes for segregation by making chiasmata visible and allowing spindle attachment",
+        "Duplication of the DNA content"
+      ],
+      "answer": 2,
+      "explanation": "Diakinesis ensures that chiasmata are visible and that the highly condensed bivalents can be captured by spindle microtubules, setting the stage for accurate segregation in metaphase I.",
+      "topic": "Diakinesis"
+    },
+    {
+      "question": "What best defines synapsis during meiosis?",
+      "options": [
+        "Separation of sister chromatids during anaphase I",
+        "Pairing of homologous chromosomes to form a bivalent",
+        "Alignment of chromosomes at the metaphase plate",
+        "Division of the cytoplasm after nuclear division"
+      ],
+      "answer": 1,
+      "explanation": "Synapsis is the process in prophase I where each homologous chromosome pair aligns closely and forms a bivalent (tetrad) through the synaptonemal complex.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "During which substage of Prophase I does synapsis primarily take place?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 1,
+      "explanation": "In the zygotene stage, homologous chromosomes begin to pair and the synaptonemal complex is assembled, establishing synapsis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "The proteinaceous structure that holds homologous chromosomes together during synapsis is called:",
+      "options": [
+        "Spindle fibers",
+        "Kinetochores",
+        "Synaptonemal complex",
+        "Centrioles"
+      ],
+      "answer": 2,
+      "explanation": "The synaptonemal complex is a tripartite protein scaffold that aligns homologues and facilitates crossing over during prophase I.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "Failure of synapsis most directly results in which meiotic defect?",
+      "options": [
+        "Nondisjunction of sister chromatids",
+        "Absence of chiasmata formation",
+        "Premature separation of homologues",
+        "Formation of polyploid gametes"
+      ],
+      "answer": 1,
+      "explanation": "Without synapsis, homologues cannot undergo crossing over, so chiasmata (the physical manifestations of crossover) do not form, leading to segregation errors.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "After successful synapsis, each homologous chromosome pair is termed a:",
+      "options": [
+        "Bivalent",
+        "Dyad",
+        "Chromatid",
+        "Polyad"
+      ],
+      "answer": 0,
+      "explanation": "A bivalent (also called a tetrad) consists of two homologous chromosomes, each with two sister chromatids, held together after synapsis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between synapsis and crossing over?",
+      "options": [
+        "Crossing over initiates synapsis",
+        "Synapsis is required for crossing over to occur",
+        "Crossing over occurs before synapsis",
+        "Synapsis and crossing over are unrelated processes"
+      ],
+      "answer": 1,
+      "explanation": "Synapsis aligns homologous chromosomes, providing the physical proximity needed for the enzymatic machinery to mediate crossing over.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "The synaptonemal complex reaches its maximum development during which substage of Prophase I?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "During pachytene, the synaptonemal complex is fully formed and most extensive, allowing maximal crossing over events.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "What best describes a bivalent (tetrad) formed during meiosis I?",
+      "options": [
+        "A pair of sister chromatids",
+        "A pair of homologous chromosomes each consisting of two sister chromatids",
+        "A single chromosome after DNA replication",
+        "A chromosome that has undergone crossing over"
+      ],
+      "answer": 1,
+      "explanation": "A bivalent, also called a tetrad, consists of two homologous chromosomes, each composed of two sister chromatids, making a total of four chromatids.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "At which sub‑stage of prophase I are bivalents first clearly visible as paired homologues?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "During pachytene, synapsis is complete and homologous chromosomes are fully paired, allowing the bivalents (tetrads) to be observed under the microscope.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "How many bivalents are present in a human diploid cell (46 chromosomes) undergoing meiosis?",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "Each bivalent contains a pair of homologous chromosomes; therefore the number of bivalents equals the haploid number (n), which is 23 in humans.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "Which cellular structure directly holds the two homologous chromosomes together within a bivalent?",
+      "options": [
+        "Centromere",
+        "Kinetochore",
+        "Synaptonemal complex",
+        "Spindle fibers"
+      ],
+      "answer": 2,
+      "explanation": "The synaptonemal complex is a proteinaceous scaffold that aligns homologous chromosomes along their lengths during synapsis, maintaining the bivalent.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "In a mutant lacking a functional synaptonemal complex, what is the most likely outcome for bivalent formation?",
+      "options": [
+        "Normal bivalent formation",
+        "Reduced number of bivalents",
+        "Increased crossing‑over frequency",
+        "Premature separation of sister chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Without the synaptonemal complex, homologous chromosomes cannot synapse efficiently, leading to fewer or absent bivalents.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "During which stage of prophase I do chiasmata become visible, indicating sites of crossing over within bivalents?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Diplotene",
+        "Metaphase I"
+      ],
+      "answer": 2,
+      "explanation": "Chiasmata, the physical manifestations of crossing over, become apparent in diplotene when homologues start to separate but remain linked at crossover points.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "How does the formation of bivalents contribute to the reduction of chromosome number in meiosis?",
+      "options": [
+        "Each bivalent reduces chromosome number by half",
+        "Each bivalent ensures segregation of homologous chromosomes leading to haploid cells",
+        "Bivalents double the chromosome number",
+        "Bivalents have no role in chromosome number reduction"
+      ],
+      "answer": 1,
+      "explanation": "Bivalents align homologous chromosomes so that, at anaphase I, each homolog is pulled to opposite poles, halving the chromosome number in the resulting gametes.",
+      "topic": "Bivalent formation"
+    },
+    {
+      "question": "At which substage of prophase I does crossing over primarily occur?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over takes place when homologous chromosomes are fully synapsed, which is the pachytene stage of prophase I.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Which protein complex directly mediates the strand exchange during crossing over in meiosis?",
+      "options": [
+        "DNA ligase",
+        "DNA polymerase I",
+        "Rad51 recombinase",
+        "Topoisomerase II"
+      ],
+      "answer": 2,
+      "explanation": "Rad51 (a RecA homolog) promotes homologous pairing and strand invasion, the key steps of crossover formation.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "The visible manifestation of a crossover event on a chromosome is called a:",
+      "options": [
+        "Synaptonemal complex",
+        "Chiasma",
+        "Centromere",
+        "Telomere"
+      ],
+      "answer": 1,
+      "explanation": "A chiasma (plural chiasmata) is the X‑shaped region where homologues remain attached after crossing over.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Crossing over contributes to genetic variation by:",
+      "options": [
+        "Increasing chromosome number",
+        "Forming sister chromatids",
+        "Creating new allele combinations on the same chromosome",
+        "Duplicating the whole genome"
+      ],
+      "answer": 2,
+      "explanation": "Exchange of DNA between non‑sister chromatids produces recombinant chromosomes with new allele combinations.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "On average, how many crossover events occur per bivalent in human meiosis?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Human autosomes typically undergo about 1–2 crossovers per bivalent, with an average close to two.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Which statement about chiasmata is FALSE?",
+      "options": [
+        "They hold homologous chromosomes until anaphase I",
+        "The DNA strands at a chiasma are covalently linked",
+        "They form after synapsis is complete",
+        "They increase genetic variation"
+      ],
+      "answer": 1,
+      "explanation": "The DNA strands are not covalently linked; they are held together by protein complexes after strand exchange.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "The frequency of crossing over between two genes is expressed in which unit of genetic distance?",
+      "options": [
+        "Centimorgan",
+        "Kilobase",
+        "Micron",
+        "Dalton"
+      ],
+      "answer": 0,
+      "explanation": "One centimorgan corresponds to a 1% recombination frequency, reflecting crossing‑over distance.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Chiasmata are best described as:",
+      "options": [
+        "Points where sister chromatids separate",
+        "Sites of DNA replication",
+        "Physical manifestations of crossing over between homologous chromosomes",
+        "Regions where spindle fibers attach"
+      ],
+      "answer": 2,
+      "explanation": "Chiasmata are the visible points where homologous chromosomes have exchanged genetic material (crossing over) and remain physically linked until they separate in anaphase I.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "During which sub‑stage of Prophase I do chiasmata become first visible under the microscope?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Diplotene",
+        "Diakinesis"
+      ],
+      "answer": 2,
+      "explanation": "In diplotene, homologous chromosomes begin to separate but remain attached at the sites of crossing over, which appear as chiasmata.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "The primary functional significance of chiasmata in meiosis I is to:",
+      "options": [
+        "Facilitate DNA replication",
+        "Hold homologous chromosomes together until anaphase I",
+        "Separate sister chromatids",
+        "Initiate cytokinesis"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata provide the physical connection that ensures homologous chromosomes are correctly aligned and segregated during anaphase I.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "If a bivalent has only one chiasma, what is the expected outcome for the segregation of that chromosome pair during anaphase I?",
+      "options": [
+        "Random segregation of sister chromatids",
+        "Accurate segregation of homologues",
+        "Failure of segregation leading to nondisjunction",
+        "No effect on segregation"
+      ],
+      "answer": 1,
+      "explanation": "A single chiasma is sufficient to hold the homologues together, allowing their proper orientation and segregation at anaphase I.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "Which protein initiates the formation of chiasmata by creating double‑strand breaks?",
+      "options": [
+        "DNA polymerase I",
+        "Spo11",
+        "RecA",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "Spo11 catalyzes programmed double‑strand breaks that initiate homologous recombination, ultimately leading to chiasma formation.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "In a mutant plant lacking a functional synaptonemal complex, chiasmata are still observed because:",
+      "options": [
+        "Crossing over can occur without the synaptonemal complex",
+        "Chiasmata are formed by spindle fibers",
+        "The synaptonemal complex is not involved in recombination",
+        "The mutant compensates by increasing DNA replication"
+      ],
+      "answer": 0,
+      "explanation": "Although the synaptonemal complex facilitates efficient recombination, crossover (and thus chiasma formation) can still occur via alternative pathways.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "The number of chiasmata per bivalent influences:",
+      "options": [
+        "The size of the cell",
+        "The amount of genetic recombination",
+        "The rate of DNA replication",
+        "The number of mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "More chiasmata correspond to more crossover events, increasing genetic variation among the resulting gametes.",
+      "topic": "Chiasmata"
+    },
+    {
+      "question": "During Metaphase I of meiosis, how are the homologous chromosomes oriented on the metaphase plate?",
+      "options": [
+        "Sister chromatids face opposite poles",
+        "Homologous chromosomes face opposite poles",
+        "Chromosomes line up individually",
+        "Random orientation of chromosomes"
+      ],
+      "answer": 1,
+      "explanation": "In Metaphase I, each homologous pair (bivalent) aligns such that the two homologues are attached to spindle fibers from opposite poles, while sister chromatids remain together.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "Which structure primarily holds the homologous chromosomes together during Metaphase I?",
+      "options": [
+        "Centromere",
+        "Chiasmata",
+        "Spindle fibers",
+        "Kinetochore"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata are the physical manifestations of crossing‑over and keep the homologues linked until they are pulled apart in Anaphase I.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "A human somatic cell enters Metaphase I of meiosis. How many chromosomes are present at this stage?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "44"
+      ],
+      "answer": 0,
+      "explanation": "The diploid number (2n) remains 46; homologous chromosomes are still paired as bivalents, so the total chromosome count does not change until Anaphase I.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "The arrangement of bivalents at Metaphase I is crucial because it:",
+      "options": [
+        "Ensures random assortment of sister chromatids",
+        "Ensures reductional division",
+        "Ensures each daughter cell gets identical set",
+        "Ensures crossing over occurs"
+      ],
+      "answer": 1,
+      "explanation": "Alignment of homologous pairs allows their segregation to opposite poles, reducing the chromosome number by half in the subsequent division.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "Which statement is FALSE regarding events in Metaphase I?",
+      "options": [
+        "Each chromosome is attached to spindle fibers from opposite poles",
+        "Sister chromatids are separated",
+        "Bivalents align at the equatorial plane",
+        "Chiasmata are visible"
+      ],
+      "answer": 1,
+      "explanation": "Sister chromatids remain attached at their centromeres during Metaphase I; they separate only in Meiosis II.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "The tension sensed by kinetochores in Metaphase I arises from:",
+      "options": [
+        "Attachment of each sister chromatid to opposite poles",
+        "Attachment of each homologous chromosome to opposite poles",
+        "Attachment of both homologues to the same pole",
+        "Lack of spindle fibers"
+      ],
+      "answer": 1,
+      "explanation": "Kinetochores of each homologue are pulled toward opposite poles, generating tension that stabilizes the metaphase plate.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "If a cell in Metaphase I is treated with colchicine, which disrupts microtubule polymerisation, what immediate effect is expected?",
+      "options": [
+        "Chromosomes fail to align at metaphase plate",
+        "Sister chromatids separate prematurely",
+        "Chiasmata disappear",
+        "Cytokinesis proceeds normally"
+      ],
+      "answer": 0,
+      "explanation": "Colchicine prevents spindle formation, so chromosomes cannot be captured and aligned at the metaphase plate.",
+      "topic": "Metaphase I"
+    },
+    {
+      "question": "What is the primary event that characterizes Anaphase I of meiosis?",
+      "options": [
+        "Separation of sister chromatids",
+        "Separation of homologous chromosomes",
+        "Crossing over between non‑sister chromatids",
+        "Reformation of the nuclear envelope"
+      ],
+      "answer": 1,
+      "explanation": "During Anaphase I the homologous chromosomes that were paired as bivalents are pulled apart to opposite poles, while sister chromatids remain together.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "The movement of homologous chromosomes toward opposite poles in Anaphase I is driven mainly by which type of spindle fibers?",
+      "options": [
+        "Kinetochore microtubules",
+        "Polar (astral) microtubules",
+        "Interpolar microtubules",
+        "Cytoplasmic actin filaments"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochore microtubules attach to the kinetochores of each chromosome and shorten, pulling the homologous chromosomes toward the poles.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "At the end of Anaphase I, each chromosome arriving at a pole consists of:",
+      "options": [
+        "A single chromatid",
+        "Two sister chromatids",
+        "Four chromatids",
+        "No chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Centromeres do not split in Anaphase I, so each chromosome still contains its two sister chromatids.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "Which statement about chiasmata during Anaphase I is correct?",
+      "options": [
+        "Chiasmata are resolved before the chromosomes reach the poles",
+        "Chiasmata persist until Anaphase II",
+        "Chiasmata are the points where homologous chromosomes remain attached during Anaphase I",
+        "Chiasmata are formed by spindle fibers"
+      ],
+      "answer": 2,
+      "explanation": "Chiasmata are the physical manifestations of crossing over and keep homologous chromosomes linked until they are pulled apart in Anaphase I.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "The reduction of chromosome number from diploid to haploid during meiosis occurs because:",
+      "options": [
+        "Sister chromatids separate",
+        "Homologous chromosomes separate",
+        "DNA replication is halted",
+        "Cytokinesis takes place"
+      ],
+      "answer": 1,
+      "explanation": "Segregation of homologous chromosome pairs in Meiosis I halves the chromosome number, producing haploid cells.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "In a human male, how many chromosomes (as whole chromosomes) will be present at each pole at the end of Anaphase I?",
+      "options": [
+        "23",
+        "46",
+        "44",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "Humans are diploid (2n=46). After homologues separate, each pole receives one set of 23 chromosomes, each still consisting of two sister chromatids.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "Which protein complex is essential for the segregation of homologous chromosomes during Anaphase I?",
+      "options": [
+        "Cohesin",
+        "Separase",
+        "Shugoshin",
+        "Condensin"
+      ],
+      "answer": 1,
+      "explanation": "Separase cleaves the cohesin complexes along chromosome arms, allowing homologous chromosomes to separate while centromeric cohesin is protected by shugoshin.",
+      "topic": "Anaphase I"
+    },
+    {
+      "question": "Which event specifically characterizes Telophase I of meiosis?",
+      "options": [
+        "Reformation of the nuclear envelope around each set of chromosomes",
+        "Synapsis of homologous chromosomes",
+        "Separation of sister chromatids",
+        "Crossing over between non‑sister chromatids"
+      ],
+      "answer": 0,
+      "explanation": "During Telophase I the chromosomes that have been pulled to opposite poles become surrounded by newly formed nuclear envelopes, marking the completion of the first meiotic division.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "At the conclusion of Telophase I, each daughter cell contains chromosomes that are:",
+      "options": [
+        "Haploid sets, each still consisting of two sister chromatids",
+        "Diploid sets, each consisting of a single chromatid",
+        "Haploid sets, each consisting of a single chromatid",
+        "Diploid sets, each consisting of two sister chromatids"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I reduces the chromosome number by half, but the chromosomes remain duplicated; thus each cell is haploid (n) but each chromosome still has two sister chromatids.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "In animal cells, cytokinesis that follows Telophase I results in:",
+      "options": [
+        "Formation of a cleavage furrow that partitions the cytoplasm",
+        "Formation of a cell plate at the equatorial region",
+        "Absence of cytokinesis until after Telophase II",
+        "Immediate fusion of the two nuclei"
+      ],
+      "answer": 0,
+      "explanation": "Animal cells complete cytokinesis after Telophase I by forming a contractile actomyosin ring that creates a cleavage furrow, separating the two haploid cells.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "Which protein complex primarily mediates the disassembly of spindle microtubules during Telophase I?",
+      "options": [
+        "Kinesin‑5",
+        "Dynein",
+        "Kinesin‑13 (MCAK)",
+        "Cohesin"
+      ],
+      "answer": 2,
+      "explanation": "Kinesin‑13 family members, such as MCAK, depolymerize microtubules at their ends, facilitating spindle breakdown as the cell enters Telophase I.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "How does chromosome composition in Telophase I differ from that in Telophase II?",
+      "options": [
+        "In Telophase I chromosomes are still duplicated as sister chromatids, whereas in Telophase II they are single chromatids",
+        "In Telophase I chromosomes are single chromatids, whereas in Telophase II they are duplicated",
+        "Both stages have single chromatids",
+        "Both stages have duplicated chromatids"
+      ],
+      "answer": 0,
+      "explanation": "Telophase I follows the segregation of homologous chromosomes, leaving each chromosome as a duplicated unit (two sister chromatids). Telophase II follows separation of sister chromatids, so chromosomes are single chromatids.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "The brief interphase‑like period that may occur between Telophase I and Prophase II is called:",
+      "options": [
+        "Interkinesis",
+        "Interphase",
+        "G2 checkpoint",
+        "S phase"
+      ],
+      "answer": 0,
+      "explanation": "Interkinesis is a short resting phase after Telophase I, lacking DNA replication, before the second meiotic division begins.",
+      "topic": "Telophase I"
+    },
+    {
+      "question": "Which event distinguishes Meiosis II from Meiosis I?",
+      "options": [
+        "Separation of homologous chromosomes",
+        "Separation of sister chromatids",
+        "Replication of DNA",
+        "Crossing over"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I separates homologous chromosomes, whereas Meiosis II separates the sister chromatids of each chromosome.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "What happens to the nuclear envelope at the beginning of Prophase II?",
+      "options": [
+        "Nuclear envelope remains intact",
+        "Nuclear envelope disintegrates",
+        "Nuclear envelope reforms then disintegrates",
+        "Nuclear envelope reforms and remains"
+      ],
+      "answer": 1,
+      "explanation": "After Telophase I, nuclei reform; in Prophase II the nuclear envelope breaks down again to allow spindle attachment.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "At the onset of Meiosis II in human cells, each daughter cell contains:",
+      "options": [
+        "46 chromosomes each with one chromatid",
+        "23 chromosomes each with two chromatids",
+        "23 chromosomes each with one chromatid",
+        "46 chromosomes each with two chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Each cell is haploid (23 chromosomes) but each chromosome still consists of two sister chromatids, totaling 46 chromatids.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "How do chromosomes align during Metaphase II?",
+      "options": [
+        "Homologous pairs line up at the equatorial plate",
+        "Sister chromatids line up at the equatorial plate",
+        "Chromosomes line up randomly",
+        "Chromosomes do not align"
+      ],
+      "answer": 1,
+      "explanation": "In Metaphase II, individual sister chromatids line up at the metaphase plate, similar to mitosis.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "Anaphase II results in:",
+      "options": [
+        "Separation of homologous chromosomes",
+        "Separation of sister chromatids",
+        "Crossing over",
+        "Formation of chiasmata"
+      ],
+      "answer": 1,
+      "explanation": "The key event of Anaphase II is the separation of sister chromatids toward opposite poles.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "Which statement about the final products of Meiosis II is true?",
+      "options": [
+        "Four genetically identical haploid cells",
+        "Four genetically diverse haploid cells",
+        "Two diploid cells",
+        "Two haploid cells each with duplicated DNA"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis II yields four haploid cells, each genetically distinct due to prior crossing over and independent assortment.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "The spindle apparatus in Meiosis II is organized by:",
+      "options": [
+        "Centrioles duplicate during interkinesis",
+        "Centrioles do not duplicate",
+        "Microtubule organizing centers arise de novo",
+        "Kinetochores nucleate microtubules"
+      ],
+      "answer": 0,
+      "explanation": "Centrioles undergo a second duplication during the brief interkinesis, providing centrosomes for the Meiosis II spindle.",
+      "topic": "Meiosis II"
+    },
+    {
+      "question": "Which event characteristically occurs during prophase II of meiosis?",
+      "options": [
+        "Synapsis of homologous chromosomes",
+        "Crossing over between non‑sister chromatids",
+        "Reformation of the nuclear envelope",
+        "Condensation of chromosomes"
+      ],
+      "answer": 3,
+      "explanation": "In prophase II the chromosomes condense again after telophase I to become visible and ready for segregation; synapsis and crossing over are absent.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "During prophase II, the centrioles:",
+      "options": [
+        "Duplicate for the second time",
+        "Migrate to opposite poles forming spindle poles",
+        "Disintegrate completely",
+        "Remain at the same pole"
+      ],
+      "answer": 1,
+      "explanation": "After their duplication in interphase, centrioles move to opposite cell poles in prophase II to organize the spindle apparatus.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "A key difference between prophase I and prophase II is that prophase II:",
+      "options": [
+        "Involves pairing of homologous chromosomes",
+        "Features crossing over between chromatids",
+        "Occurs in cells that are already haploid",
+        "Prevents breakdown of the nuclear envelope"
+      ],
+      "answer": 2,
+      "explanation": "By the onset of meiosis II each cell contains a haploid set of chromosomes; homologous pairing and crossing over, which occur in prophase I, are no longer possible.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "What happens to the nucleolus during prophase II?",
+      "options": [
+        "It reappears",
+        "It disappears",
+        "It remains unchanged",
+        "It splits into two separate nucleoli"
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus, which re‑forms in telophase I, disappears again in prophase II as ribosomal RNA synthesis is temporarily halted.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "Which structure present in prophase I is absent in prophase II?",
+      "options": [
+        "Spindle fibers",
+        "Chiasmata",
+        "Kinetochores",
+        "Centrioles"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata are the physical links formed by crossing over in prophase I; they are absent in prophase II because recombination does not occur.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "During prophase II, sister chromatids are:",
+      "options": [
+        "Separated into individual chromosomes",
+        "Remain attached at the centromere",
+        "Undergoing recombination",
+        "Degraded"
+      ],
+      "answer": 1,
+      "explanation": "Sister chromatids stay together at their centromeres throughout prophase II and only separate during anaphase II.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "Compared with prophase I, the duration of prophase II is generally:",
+      "options": [
+        "Longer because of extensive recombination",
+        "Shorter because no recombination occurs",
+        "Equal, as the same processes repeat",
+        "Highly variable among species"
+      ],
+      "answer": 1,
+      "explanation": "Prophase II lacks the lengthy processes of synapsis and crossing over, so it proceeds more rapidly than the longer prophase I.",
+      "topic": "Prophase II"
+    },
+    {
+      "question": "During Metaphase II of meiosis, how are the chromosomes arranged on the metaphase plate?",
+      "options": [
+        "Each chromosome consists of two sister chromatids that line up individually at the equatorial plane.",
+        "Homologous chromosome pairs line up side by side as bivalents.",
+        "Chromosomes are dispersed randomly throughout the cytoplasm.",
+        "Only single chromatids, without their sister, are present on the plate."
+      ],
+      "answer": 0,
+      "explanation": "In Metaphase II the cell is haploid, but each chromosome still has two sister chromatids that behave like mitotic chromosomes, aligning individually at the metaphase plate.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "Which feature distinguishes Metaphase I from Metaphase II regarding centromere orientation?",
+      "options": [
+        "In Metaphase I, sister centromeres face opposite poles; in Metaphase II they face the same pole.",
+        "In Metaphase I, homologous chromosomes are aligned as bivalents with sister centromeres oriented toward the same pole; in Metaphase II sister centromeres are oriented toward opposite poles.",
+        "In Metaphase I, centromeres are not attached to spindle fibers; in Metaphase II they are.",
+        "In Metaphase I, centromeres are oriented toward the cell periphery; in Metaphase II they are oriented toward the center."
+      ],
+      "answer": 1,
+      "explanation": "During Metaphase I, each homolog’s centromere faces the same pole (sister centromeres are together), whereas in Metaphase II sister centromeres face opposite poles, similar to mitosis.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "Which structure generates the forces that move chromosomes to the metaphase plate during Metaphase II?",
+      "options": [
+        "Centrosomes",
+        "Kinetochore microtubules",
+        "Astral microtubules",
+        "Actin filaments"
+      ],
+      "answer": 1,
+      "explanation": "Kinetochore microtubules attach to the kinetochores of sister chromatids and shorten, pulling the chromosomes toward the equatorial plane.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "At the onset of Metaphase II, the chromosomal complement of a human cell can be described as:",
+      "options": [
+        "Diploid (2n) with each chromosome consisting of two sister chromatids.",
+        "Haploid (n) with each chromosome consisting of two sister chromatids.",
+        "Haploid (n) with each chromosome consisting of a single chromatid.",
+        "Diploid (2n) with each chromosome consisting of a single chromatid."
+      ],
+      "answer": 1,
+      "explanation": "After Meiosis I, cells are haploid (n) but each chromosome still comprises two sister chromatids, which will separate in Meiosis II.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "Nondisjunction of sister chromatids during Metaphase II would most likely produce which of the following gamete chromosome numbers in humans?",
+      "options": [
+        "A gamete with 22 chromosomes.",
+        "A gamete with 23 chromosomes.",
+        "A gamete with 24 chromosomes.",
+        "A gamete with 25 chromosomes."
+      ],
+      "answer": 2,
+      "explanation": "Failure of sister chromatids to separate yields one gamete with an extra chromosome (24) and another with one fewer (22).",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "What is the status of chiasmata during Metaphase II?",
+      "options": [
+        "Chiasmata are still present and hold sister chromatids together.",
+        "Chiasmata have been resolved; sister chromatids are held together only at centromeres.",
+        "New chiasmata are formed between non‑sister chromatids.",
+        "Chiasmata are converted into kinetochores."
+      ],
+      "answer": 1,
+      "explanation": "By Metaphase II, all chiasmata formed in Prophase I have been resolved; sister chromatids remain attached only at their centromeres.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "In mammalian oocytes, Metaphase II arrest is maintained until fertilization. Which molecular factor is primarily responsible for sustaining this arrest?",
+      "options": [
+        "Cyclin‑dependent kinase 1 (CDK1) activity alone.",
+        "Cytostatic factor (CSF) that keeps MPF activity high.",
+        "Anaphase‑promoting complex/cyclosome (APC/C) activation.",
+        "Low levels of cyclin B."
+      ],
+      "answer": 1,
+      "explanation": "CSF maintains high MPF (CDK1‑cyclin B) activity, preventing the onset of anaphase and thus keeping the oocyte arrested at Metaphase II until fertilization.",
+      "topic": "Metaphase II"
+    },
+    {
+      "question": "What is the primary event that characterizes Anaphase II of meiosis?",
+      "options": [
+        "Separation of sister chromatids",
+        "Separation of homologous chromosomes",
+        "Crossing over between non‑sister chromatids",
+        "Reformation of the nuclear envelope"
+      ],
+      "answer": 0,
+      "explanation": "During Anaphase II, the centromeres split and each sister chromatid moves to opposite poles, constituting the separation of sister chromatids.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "In Anaphase II, what happens to the centromeres of each chromosome?",
+      "options": [
+        "They split, allowing sister chromatids to separate",
+        "They remain fused throughout the division",
+        "They duplicate again before segregation",
+        "They migrate to the cell cortex"
+      ],
+      "answer": 0,
+      "explanation": "The centromere divides in Anaphase II, releasing the two sister chromatids so they can be pulled toward opposite poles.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "Which statement correctly distinguishes Anaphase I from Anaphase II?",
+      "options": [
+        "Anaphase I separates homologous chromosomes; Anaphase II separates sister chromatids",
+        "Anaphase I involves crossing over; Anaphase II does not",
+        "Anaphase I reduces chromosome number; Anaphase II restores diploidy",
+        "Anaphase I uses actin filaments; Anaphase II uses microtubules"
+      ],
+      "answer": 0,
+      "explanation": "In Anaphase I, homologous chromosomes are pulled apart, whereas in Anaphase II the sister chromatids of each chromosome are separated.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "The movement of chromosomes toward opposite poles in Anaphase II is driven mainly by:",
+      "options": [
+        "Shortening of kinetochore microtubules",
+        "Elongation of polar microtubules",
+        "Contraction of actin filaments",
+        "Osmotic pressure differences"
+      ],
+      "answer": 0,
+      "explanation": "Kinetochore microtubules attached to chromosomes shorten, pulling the sister chromatids toward the spindle poles.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "At the completion of Anaphase II, each daughter nucleus contains:",
+      "options": [
+        "A haploid set of chromosomes, each consisting of a single chromatid",
+        "A diploid set of chromosomes, each consisting of two chromatids",
+        "Duplicated chromosomes awaiting segregation",
+        "Only mitochondrial DNA"
+      ],
+      "answer": 0,
+      "explanation": "Anaphase II results in haploid nuclei where each chromosome is represented by a single chromatid.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "Which enzyme is directly responsible for cleaving cohesin complexes to allow sister chromatid separation in Anaphase II?",
+      "options": [
+        "Separase",
+        "DNA polymerase III",
+        "Topoisomerase II",
+        "Helicase"
+      ],
+      "answer": 0,
+      "explanation": "Separase proteolytically cleaves cohesin at the centromere, enabling sister chromatids to separate during Anaphase II.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "A cell arrested in Anaphase II due to activation of the spindle assembly checkpoint most likely has a defect in:",
+      "options": [
+        "Attachment of kinetochores to spindle microtubules",
+        "DNA replication during S phase",
+        "Formation of chiasmata during Prophase I",
+        "Cytokinetic ring formation"
+      ],
+      "answer": 0,
+      "explanation": "The spindle checkpoint monitors proper kinetochore‑microtubule attachment; failure of this attachment halts progression at Anaphase II.",
+      "topic": "Anaphase II"
+    },
+    {
+      "question": "Which event specifically characterizes Telophase II in animal meiosis?",
+      "options": [
+        "Reformation of the nuclear envelope around each set of chromosomes",
+        "Synapsis of homologous chromosomes",
+        "Crossing over between non‑sister chromatids",
+        "Formation of tetrads"
+      ],
+      "answer": 0,
+      "explanation": "During Telophase II the nuclear envelope re‑forms around the separated chromatids, marking the end of nuclear division.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "At the conclusion of Telophase II, the chromosomes are found in which state?",
+      "options": [
+        "Highly condensed as metaphase chromosomes",
+        "Decondensed to a diffuse chromatin thread",
+        "Paired as bivalents",
+        "Maintaining chiasmata connections"
+      ],
+      "answer": 1,
+      "explanation": "After Telophase II the chromosomes decondense into typical interphase chromatin within each haploid nucleus.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "How does the chromosome composition in Telophase II differ from that in Telophase I?",
+      "options": [
+        "Both stages contain homologous chromosome pairs",
+        "Telophase II contains sister chromatids still attached",
+        "Telophase II contains single, unpaired chromatids",
+        "Telophase II has duplicated chromosomes with two centromeres"
+      ],
+      "answer": 2,
+      "explanation": "Telophase I ends with chromosomes that are still composed of two sister chromatids; Telophase II follows separation of these sister chromatids, leaving single chromatids in each nucleus.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "In plant cells, cytokinesis that accompanies Telophase II is achieved by:",
+      "options": [
+        "Formation of a cleavage furrow",
+        "Development of a cell plate from vesicle fusion",
+        "Constriction of a contractile ring",
+        "Absence of cytokinesis until later"
+      ],
+      "answer": 1,
+      "explanation": "Plants form a new cell wall (cell plate) by vesicle fusion at the centre of the cell during Telophase II, completing cytokinesis.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "Which cellular structure disassembles during Telophase II?",
+      "options": [
+        "Kinetochores",
+        "Spindle microtubules",
+        "Centrosomes",
+        "Nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "The mitotic spindle breaks down as the cell transitions to interphase, allowing the nuclear envelope to re‑form.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "By the time Telophase II is completed, chiasmata are:",
+      "options": [
+        "Still visible linking chromatids",
+        "Resolved during anaphase I",
+        "Resolved during anaphase II",
+        "Converted into centromeres"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata, the physical manifestations of crossing over, are resolved when homologous chromosomes separate in anaphase I, so they are absent by Telophase II.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "Each of the four cells produced after Telophase II contains:",
+      "options": [
+        "Diploid nuclei with duplicated chromosomes",
+        "Haploid nuclei each with sister chromatids",
+        "Haploid nuclei each with a single chromosome",
+        "Diploid nuclei each with a single chromosome"
+      ],
+      "answer": 2,
+      "explanation": "Telophase II yields four haploid cells, each containing one copy of each chromosome (single chromatid), completing meiosis.",
+      "topic": "Telophase II"
+    },
+    {
+      "question": "In animal meiosis, cytokinesis after meiosis I results in cells that are:",
+      "options": [
+        "haploid with each chromosome consisting of two sister chromatids",
+        "diploid with each chromosome consisting of a single chromatid",
+        "haploid with each chromosome consisting of a single chromatid",
+        "diploid with each chromosome consisting of two sister chromatids"
+      ],
+      "answer": 0,
+      "explanation": "After meiosis I, homologous chromosomes separate, leaving each daughter cell with one set of chromosomes, but each chromosome still has its two sister chromatids, making the cells haploid (n) with duplicated chromosomes.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "Which structure primarily drives the formation of the cleavage furrow during cytokinesis in animal meiotic cells?",
+      "options": [
+        "Spindle microtubules",
+        "Contractile ring of actin and myosin II",
+        "Golgi-derived vesicles",
+        "Centrioles"
+      ],
+      "answer": 1,
+      "explanation": "The contractile ring composed of actin filaments and myosin II generates the constriction force that pinches the cell membrane to form the cleavage furrow.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "In plant cells undergoing meiosis, cytokinesis is achieved by formation of a:",
+      "options": [
+        "cleavage furrow",
+        "contractile ring",
+        "cell plate derived from vesicles at the phragmoplast",
+        "spindle midzone"
+      ],
+      "answer": 2,
+      "explanation": "Plant cells build a new cell wall called the cell plate by fusion of Golgi‑derived vesicles at the center of the phragmoplast, which later becomes the separating wall.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "The enzyme that regulates assembly of the actin‑myosin contractile ring during cytokinesis in animal cells is:",
+      "options": [
+        "DNA polymerase",
+        "Rho‑associated kinase (ROCK)",
+        "RNA polymerase II",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Rho‑associated kinase (ROCK) is activated by RhoA and phosphorylates downstream targets to promote actin filament formation and myosin II activation in the contractile ring.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "Which statement correctly describes the timing of cytokinesis relative to telophase in meiosis II of animal cells?",
+      "options": [
+        "Cytokinesis begins before telophase I is completed",
+        "Cytokinesis initiates concurrently with the onset of anaphase II",
+        "Cytokinesis starts after the chromosomes have decondensed in telophase II",
+        "Cytokinesis occurs after telophase II when the nuclear envelope has reformed"
+      ],
+      "answer": 3,
+      "explanation": "In animal meiosis II, cytokinesis follows telophase II; the nuclear envelope reforms around the separated chromatids before the contractile ring constricts to divide the cytoplasm.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "In meiosis of animal oocytes, cytokinesis after meiosis I is termed \"asymmetric\" because:",
+      "options": [
+        "The cleavage furrow divides the cytoplasm equally",
+        "The contractile ring fails to form",
+        "One daughter cell receives most of the cytoplasm while the other becomes a small polar body",
+        "The spindle poles are positioned at opposite poles of the cell"
+      ],
+      "answer": 2,
+      "explanation": "The first meiotic division in oocytes produces a large secondary oocyte and a tiny polar body, reflecting an unequal (asymmetric) distribution of cytoplasm.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "Which protein is NOT directly involved in the formation of the cell plate during plant cytokinesis?",
+      "options": [
+        "KNOLLE (a syntaxin)",
+        "Dynamin",
+        "Callose synthase",
+        "Phospholipase D"
+      ],
+      "answer": 1,
+      "explanation": "Dynamin mediates vesicle scission in animal cells; plant cell‑plate formation relies on KNOLLE, callose synthase, and phospholipase D, but not dynamin.",
+      "topic": "Cytokinesis"
+    },
+    {
+      "question": "After completion of meiosis in humans, how many haploid cells are produced from a single diploid germ cell?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis involves one round of DNA replication followed by two successive divisions (meiosis I and II), yielding four haploid gametes from one diploid precursor.",
+      "topic": "Haploid product formation"
+    },
+    {
+      "question": "In flowering plants, the haploid products of meiosis in the anther develop into which structure?",
+      "options": [
+        "Pollen grains",
+        "Ovules",
+        "Sporophyte",
+        "Zygote"
+      ],
+      "answer": 0,
+      "explanation": "Microspores produced by meiosis in the anther undergo mitosis to form pollen grains, the male haploid gametophyte.",
+      "topic": "Haploid product formation"
+    },
+    {
+      "question": "What is the chromosome number in each of the four cells formed at the end of meiosis II relative to the original diploid cell?",
+      "options": [
+        "Each contains half the diploid number",
+        "Each contains the same number as the original diploid cell",
+        "Each contains a variable number due to crossing over",
+        "Each is diploid"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis reduces the chromosome number by half; after meiosis II each of the four cells is haploid, carrying one set of chromosomes.",
+      "topic": "Haploid product formation"
+    },
+    {
+      "question": "The genetic relationship among the four haploid cells produced at the end of meiosis is that they are:",
+      "options": [
+        "Identical to each other",
+        "All genetically distinct",
+        "Two are identical and two are distinct",
+        "Identical to the parent cell"
+      ],
+      "answer": 1,
+      "explanation": "Independent assortment of homologous chromosomes and crossing over generate new allele combinations, making each of the four haploid cells genetically unique.",
+      "topic": "Haploid product formation"
+    },
+    {
+      "question": "Which meiotic phase directly separates sister chromatids to generate haploid cells?",
+      "options": [
+        "Anaphase I",
+        "Anaphase II",
+        "Metaphase I",
+        "Telophase I"
+      ],
+      "answer": 1,
+      "explanation": "During anaphase II, the sister chromatids of each chromosome separate, resulting in individual chromosomes in each haploid daughter cell.",
+      "topic": "Haploid product formation"
+    },
+    {
+      "question": "Why does meiosis produce four haploid cells instead of two diploid cells?",
+      "options": [
+        "Two rounds of division after a single round of DNA replication",
+        "Two rounds of DNA replication followed by one division",
+        "One round of DNA replication and two divisions",
+        "No DNA replication occurs"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis consists of one S phase (DNA replication) followed by two successive cell divisions (meiosis I and II), which halves the chromosome number and yields four haploid cells.",
+      "topic": "Haploid product formation"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 23,
+    "mcqCount": 158
+  }
+}

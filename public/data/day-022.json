@@ -1,0 +1,420 @@
+{
+  "day": 22,
+  "courseDate": "2026-09-20",
+  "publishAt": "2026-09-20T06:00:00+05:30",
+  "title": "Day 22: Transport in Plants – Mineral Nutrition, Phloem, and Translocation",
+  "introduction": "This lesson covers the mechanisms by which minerals and organic solutes are absorbed, moved and distributed in plants, focusing on root uptake, xylem transport, phloem structure, source‑sink dynamics, and the pressure‑flow model essential for NEET‑UG preparation.",
+  "sections": [
+    {
+      "topic": "Mineral nutrition and transport",
+      "heading": "Mineral Nutrition and Its Transport in Plants",
+      "content": "Mineral absorption occurs at the root epidermis and cortex. Passive absorption relies on diffusion down concentration gradients through aqueous pores and plasmodesmata, allowing ions like K⁺ and NO₃⁻ to enter when external concentrations are high. Active absorption uses energy (ATP) to transport essential minerals (N, P, K, Ca, Mg, Fe, Zn, Mn, Cu) against gradients via H⁺‑ATPase‑generated proton motive force and specific carriers. Once inside the root cortex, minerals enter the endodermis via the Casparian strip, forcing symplastic movement into the pericycle and then into the xylem. In the xylem, minerals are carried upward as part of the transpiration stream, driven by negative pressure (cohesion‑tension theory). The bulk flow transports both inorganic ions and water to shoots, where they are released into the apoplast of leaves for metabolic use.",
+      "keyPoints": [
+        "Passive absorption = diffusion; active absorption = energy‑dependent transport",
+        "Essential mineral elements include N, P, K, Ca, Mg, Fe, Zn, Mn, Cu",
+        "Casparian strip forces symplastic entry into the stele",
+        "Xylem transport is a unidirectional bulk flow driven by transpiration"
+      ],
+      "neetTips": [
+        "Memorize the difference between passive and active mineral uptake",
+        "Link the role of H⁺‑ATPase to active transport of cations",
+        "Remember that xylem moves minerals only upward with water"
+      ]
+    },
+    {
+      "topic": "Phloem transport",
+      "heading": "Phloem Structure and Function",
+      "content": "Phloem consists of sieve‑elements (sieve tubes and companion cells) and associated parenchyma. It conducts photosynthates from source tissues (mature leaves, storage organs) to sink tissues (growing buds, roots, fruits). Source‑sink relationship is defined by the metabolic status: sources export sugars, sinks import them. Phloem loading can be symplastic (via plasmodesmata) or apoplastic (active transport of sucrose into sieve elements using sucrose‑H⁺ symporters). Loading raises osmotic pressure, drawing water from adjacent xylem and generating turgor. At sinks, phloem unloading may be passive (diffusion) or active (sucrose‑H⁺ antiport), reducing osmotic pressure and allowing water to exit back to xylem. This creates a pressure gradient that drives bulk flow of solutes.",
+      "keyPoints": [
+        "Phloem tissue comprises sieve tubes, companion cells, and parenchyma",
+        "Source = net exporter of photosynthates; sink = net importer",
+        "Phloem loading can be symplastic or apoplastic",
+        "Unloading mechanisms determine sink strength"
+      ],
+      "neetTips": [
+        "Identify source and sink in diagrammatic plant parts",
+        "Focus on the role of sucrose‑H⁺ symporters in apoplastic loading"
+      ]
+    },
+    {
+      "topic": "Pressure flow hypothesis",
+      "heading": "Pressure Flow Hypothesis of Phloem Transport",
+      "content": "The pressure flow hypothesis (Münch model) explains phloem translocation as a mass flow driven by turgor pressure differences between source and sink. Loading of sucrose at the source increases solute concentration, lowering water potential and causing water influx from xylem, raising turgor pressure. At the sink, sucrose is removed, water potential rises, water exits to xylem, lowering turgor. The resulting pressure gradient pushes the sap along the sieve tubes. Mass flow of sugars is rapid and can be bidirectional in complex branching systems, but net flow follows the pressure gradient. The model predicts that interruption of loading or unloading halts transport, a principle used in experimental validation.",
+      "keyPoints": [
+        "Loading raises source turgor; unloading lowers sink turgor",
+        "Pressure gradient drives bulk flow of solutes",
+        "Mass flow is independent of the size of individual molecules"
+      ],
+      "neetTips": [
+        "Remember that the pressure flow model requires both loading and unloading steps",
+        "Link the concept of water potential to turgor generation"
+      ]
+    },
+    {
+      "topic": "Translocation of organic solutes",
+      "heading": "Bidirectional Translocation of Organic Solutes",
+      "content": "While the pressure flow model describes net movement, phloem can transport solutes in both directions to meet multiple sink demands. Bidirectional translocation occurs when different branches have distinct source‑sink configurations, allowing simultaneous upward and downward flow in separate sieve tubes. Unlike xylem, which moves only water and minerals upward, phloem transports a variety of organic solutes (sucrose, amino acids, hormones) both upward and downward. The direction is dictated by local pressure gradients, not by a fixed anatomical orientation. Understanding this flexibility is crucial for interpreting experiments on hormone distribution and nutrient allocation.",
+      "keyPoints": [
+        "Phloem can move solutes upward and downward depending on pressure gradients",
+        "Xylem transport is unidirectional (upward) and mainly water/minerals",
+        "Organic solutes include sugars, amino acids, hormones",
+        "Bidirectional flow supports multiple sinks in a branching plant"
+      ],
+      "neetTips": [
+        "Differentiate xylem (upward, water/minerals) from phloem (bidirectional, organics) in answers",
+        "Highlight source‑sink dynamics when answering translocation questions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain mechanisms of mineral absorption and xylem transport",
+    "Describe phloem anatomy and source‑sink relationships",
+    "Apply the pressure flow hypothesis to predict phloem movement",
+    "Distinguish between unidirectional xylem flow and bidirectional phloem translocation",
+    "Identify key steps in phloem loading and unloading for NEET‑UG questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which mineral is primarily taken up by plant roots through an energy‑requiring active transport mechanism?",
+      "options": [
+        "Nitrate",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "answer": 2,
+      "explanation": "Calcium uptake involves Ca2+‑ATPases and H+-ATPase‑driven antiporters, requiring ATP, unlike many anions that enter via symport with H+.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Movement of mineral ions through the apoplastic pathway in roots occurs via:",
+      "options": [
+        "movement through plasmodesmata",
+        "movement through cell walls and intercellular spaces",
+        "movement across the plasma membrane",
+        "movement via carrier proteins"
+      ],
+      "answer": 1,
+      "explanation": "The apoplastic route follows the continuum of cell walls and intercellular spaces without crossing any plasma membrane.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Which essential mineral is most mobile in the phloem and can be readily translocated from older to younger tissues?",
+      "options": [
+        "Calcium",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": 3,
+      "explanation": "Potassium ions are highly mobile in the phloem and are readily redistributed from source to sink organs.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "The main driving force for the upward movement of mineral ions in the xylem is:",
+      "options": [
+        "root pressure",
+        "transpiration pull",
+        "phloem loading",
+        "osmotic gradient in phloem"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration creates a negative pressure (tension) that pulls water and dissolved minerals upward through the xylem.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Mycorrhizal association most significantly enhances the uptake of which mineral element?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Sodium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "Arbuscular mycorrhizae increase the root surface area and secrete chelators, markedly improving iron (and phosphorus) acquisition.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Which statement correctly describes passive absorption of minerals by roots?",
+      "options": [
+        "It requires ATP",
+        "It occurs against the concentration gradient",
+        "It occurs through ion channels following the electrochemical gradient",
+        "It is mediated by H+-ATPase"
+      ],
+      "answer": 2,
+      "explanation": "Passive uptake uses ion channels that allow ions to move down their electrochemical gradient without direct energy input.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Xylem sap is primarily composed of:",
+      "options": [
+        "sugars",
+        "amino acids",
+        "mineral ions and water",
+        "hormones only"
+      ],
+      "answer": 2,
+      "explanation": "Xylem sap transports dissolved mineral nutrients together with water from roots to aerial parts; sugars are mainly in phloem.",
+      "topic": "Mineral nutrition and transport"
+    },
+    {
+      "question": "Which plant part functions as the primary source of assimilates in phloem transport?",
+      "options": [
+        "Mature leaf (photosynthetic tissue)",
+        "Root tip (growing region)",
+        "Cambium (lateral meristem)",
+        "Xylem vessel (water conduit)"
+      ],
+      "answer": 0,
+      "explanation": "The source is the photosynthetically active tissue, typically mature leaves, where sucrose is produced and loaded into the phloem.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, what provides the driving force for bulk flow of sugars in the phloem?",
+      "options": [
+        "Root pressure",
+        "Transpiration pull",
+        "Osmotic gradient generated by active loading",
+        "Capillary action"
+      ],
+      "answer": 2,
+      "explanation": "Active loading of sucrose at the source raises the osmotic potential, causing water influx and generating a pressure gradient that drives mass flow toward the sink.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "In most angiosperms, phloem loading of sucrose occurs mainly through which pathway?",
+      "options": [
+        "Apoplastic loading",
+        "Symplastic loading",
+        "Transmembrane diffusion",
+        "Passive loading"
+      ],
+      "answer": 0,
+      "explanation": "Apoplastic loading involves active transport of sucrose across the plasma membrane into the sieve element–companion cell complex, the predominant mechanism in many species.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "Which statement correctly describes phloem unloading at a sink organ?",
+      "options": [
+        "It occurs only by diffusion",
+        "It requires active transport of sucrose into sink cells",
+        "It is independent of metabolic activity of sink",
+        "It occurs exclusively in the phloem parenchyma"
+      ],
+      "answer": 1,
+      "explanation": "At sinks, sucrose is often actively transported out of the sieve tubes into sink cells to maintain the concentration gradient and support growth.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of sieve tube elements?",
+      "options": [
+        "Lack of nucleus at maturity",
+        "Presence of companion cells",
+        "Thick lignified walls",
+        "Presence of sieve plates"
+      ],
+      "answer": 2,
+      "explanation": "Sieve tube elements have thin, non‑lignified walls; thick lignified walls are a feature of xylem vessels, not phloem.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "Phloem transport can be bidirectional because:",
+      "options": [
+        "Phloem vessels have valves",
+        "Sieve tubes are connected to multiple sources and sinks",
+        "Pressure flow only works one way",
+        "Companion cells pump water"
+      ],
+      "answer": 1,
+      "explanation": "A single sieve tube network can receive assimilates from several sources and deliver them to several sinks, allowing flow in either direction depending on source‑sink gradients.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "A drop in ambient temperature most directly affects phloem transport by:",
+      "options": [
+        "Reducing the rate of photosynthesis only",
+        "Decreasing the viscosity of phloem sap",
+        "Slowing down the activity of H⁺‑ATPases involved in loading",
+        "Increasing the osmotic pressure in the phloem"
+      ],
+      "answer": 2,
+      "explanation": "Temperature lowers the activity of plasma‑membrane H⁺‑ATPases that power active sucrose loading, thereby reducing the osmotic gradient and slowing phloem translocation.",
+      "topic": "Phloem transport"
+    },
+    {
+      "question": "Which of the following best describes the driving force behind the movement of sugars in the phloem according to the pressure flow hypothesis?",
+      "options": [
+        "Transpirational pull",
+        "Root pressure",
+        "Turgor pressure gradient generated by osmotic loading at source and unloading at sink",
+        "Active transport of sugars along sieve tubes"
+      ],
+      "answer": 2,
+      "explanation": "The pressure flow hypothesis states that loading of sugars at the source lowers water potential, causing water influx and a high turgor pressure; unloading at the sink lowers pressure, creating a pressure gradient that drives bulk flow.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "In the pressure flow hypothesis, phloem loading at the source is primarily accomplished by:",
+      "options": [
+        "Passive diffusion of sucrose into sieve elements",
+        "Active transport of sucrose into companion cells followed by symplastic movement into sieve tubes",
+        "Endocytosis of sugars into sieve elements",
+        "Water uptake through aquaporins"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose is actively transported into companion cells (often via H⁺‑sucrose symporters) and then moves symplastically into sieve tube elements, raising osmotic pressure.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "Which experimental observation supports the pressure flow hypothesis?",
+      "options": [
+        "Cutting the stem above a source causes accumulation of sugars above the cut",
+        "Girdling a stem results in accumulation of sugars above the girdle and depletion below",
+        "Application of auxin increases phloem flow speed",
+        "Phloem sap contains high concentrations of potassium ions only"
+      ],
+      "answer": 1,
+      "explanation": "Girdling blocks phloem continuity; sugars accumulate above the girdle and are depleted below, indicating bulk flow driven by a pressure gradient.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "According to the pressure flow hypothesis, what would be the expected effect on phloem transport if the sink tissues are experimentally prevented from unloading sugars?",
+      "options": [
+        "Increased turgor pressure at the source and reduced flow",
+        "No change in flow because pressure gradient is independent of unloading",
+        "Decrease in turgor pressure at the source",
+        "Reverse flow from sink to source"
+      ],
+      "answer": 0,
+      "explanation": "If unloading is blocked, sucrose accumulates at the sink, reducing the pressure difference; the source pressure rises while the sink pressure remains high, diminishing the gradient and slowing flow.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "Which statement about the directionality of phloem transport is true under the pressure flow hypothesis?",
+      "options": [
+        "Flow is always unidirectional from leaves to roots",
+        "Flow can be bidirectional depending on the location of sources and sinks",
+        "Flow direction is determined by the orientation of sieve plates",
+        "Flow occurs only during daylight"
+      ],
+      "answer": 1,
+      "explanation": "Phloem transport follows the source‑sink gradient, which can change; e.g., developing fruits become sinks, causing flow toward them, while roots can also act as sources during mobilization.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "In a plant where sucrose is the main translocated carbohydrate, the osmotic potential (Ψs) in the sieve tube at the source is:",
+      "options": [
+        "More negative than in the surrounding companion cells",
+        "Equal to that in the xylem",
+        "Less negative (i.e., higher) than in the sink region",
+        "Irrelevant to phloem transport"
+      ],
+      "answer": 0,
+      "explanation": "Loading of sucrose lowers the water potential (more negative Ψs) inside the sieve tube, drawing water in and raising turgor pressure at the source.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "Which factor would most directly increase the rate of phloem translocation according to the pressure flow hypothesis?",
+      "options": [
+        "Increase in ambient temperature raising metabolic activity of loading cells",
+        "Decrease in atmospheric CO₂ concentration",
+        "Increase in leaf cuticle thickness",
+        "Decrease in root hydraulic conductivity"
+      ],
+      "answer": 0,
+      "explanation": "Higher temperature enhances enzyme activity and active loading of sugars, increasing the osmotic gradient and thus the pressure difference that drives faster bulk flow.",
+      "topic": "Pressure flow hypothesis"
+    },
+    {
+      "question": "Which of the following best describes the primary mechanism by which sucrose is loaded into the phloem at a source leaf in most dicotyledonous plants?",
+      "options": [
+        "Passive diffusion through plasmodesmata (symplastic loading)",
+        "Active transport via sucrose‑H+ symporters into companion cells (apoplastic loading)",
+        "Bulk flow driven solely by transpiration pull",
+        "Endocytosis of sucrose into sieve elements"
+      ],
+      "answer": 1,
+      "explanation": "In most dicots, sucrose is actively transported into companion cells by sucrose‑H+ symporters, a process that requires energy and creates the high solute concentration needed for phloem loading.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "In the pressure‑flow hypothesis, the driving force for the mass flow of organic solutes in the phloem is:",
+      "options": [
+        "Water potential gradient generated by transpiration from leaves",
+        "Osmotic pressure difference between source and sink regions",
+        "Electrical potential difference across sieve plates",
+        "Gravity acting on the phloem sap"
+      ],
+      "answer": 1,
+      "explanation": "The hypothesis states that a higher osmotic pressure at the source (due to accumulated sugars) draws water in, raising turgor pressure, while lower pressure at the sink draws water out, creating a pressure gradient that drives bulk flow.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "Which statement correctly distinguishes symplastic from apoplastic phloem loading?",
+      "options": [
+        "Symplastic loading requires ATP, while apoplastic loading does not.",
+        "Symplastic loading occurs via plasmodesmata, whereas apoplastic loading involves membrane transport proteins.",
+        "Symplastic loading is found only in monocots, apoplastic only in dicots.",
+        "Symplastic loading moves solutes against their concentration gradient, apoplastic moves them down the gradient."
+      ],
+      "answer": 1,
+      "explanation": "Symplastic loading uses plasmodesmata to move sucrose directly between cells, while apoplastic loading requires membrane transporters (e.g., sucrose‑H+ symporters) to move solutes across cell walls.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "The presence of which of the following proteins in companion cells is essential for maintaining the proton gradient used in active phloem loading?",
+      "options": [
+        "Aquaporin",
+        "H+-ATPase",
+        "Rubisco",
+        "Cellulose synthase"
+      ],
+      "answer": 1,
+      "explanation": "H+-ATPases pump protons out of companion cells, establishing an electrochemical gradient that drives sucrose‑H+ symporters during active loading.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "During phloem unloading at a sink organ, sucrose often moves from the sieve element into surrounding cells by:",
+      "options": [
+        "Active transport using sucrose‑H+ antiporters",
+        "Simple diffusion through plasmodesmata",
+        "Vesicular transport mediated by clathrin-coated pits",
+        "Osmotic water influx causing bulk flow"
+      ],
+      "answer": 1,
+      "explanation": "In many sink tissues, sucrose exits the sieve element passively through plasmodesmata into adjacent parenchyma cells, a process called symplastic unloading.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "Which of the following experimental observations would most directly support the pressure‑flow hypothesis?",
+      "options": [
+        "Higher concentration of sucrose in phloem sap at the source than at the sink",
+        "Increased transpiration rate leading to faster phloem transport",
+        "Measurement of higher turgor pressure in sieve tubes at the source compared to the sink",
+        "Detection of electrical currents along the phloem pathway"
+      ],
+      "answer": 2,
+      "explanation": "Direct measurement of a higher turgor (hydrostatic) pressure at the source relative to the sink confirms the pressure gradient required for bulk flow.",
+      "topic": "Translocation of organic solutes"
+    },
+    {
+      "question": "Bidirectional movement of organic solutes in the phloem is possible because:",
+      "options": [
+        "Phloem sap contains both sucrose and amino acids that move in opposite directions",
+        "Individual sieve tubes are isolated, allowing separate flow directions",
+        "The pressure gradient can be established independently in different regions of the same phloem strand",
+        "Phloem loading occurs only at the roots, while unloading occurs only at the leaves"
+      ],
+      "answer": 2,
+      "explanation": "Different source‑sink pairs can generate local pressure differences, allowing separate sections of the same phloem strand to transport solutes in opposite directions simultaneously.",
+      "topic": "Translocation of organic solutes"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 4,
+    "mcqCount": 28
+  }
+}

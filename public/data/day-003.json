@@ -1,0 +1,833 @@
+{
+  "day": 3,
+  "courseDate": "2026-09-01",
+  "publishAt": "2026-09-01T06:00:00+05:30",
+  "title": "Plant Kingdom – Day 3 Lesson",
+  "introduction": "This lesson covers the major plant groups from algae to angiosperms, their distinguishing features, evolutionary significance, and the various plant life‑cycle patterns examined in NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Algae",
+      "heading": "Algae – General Characteristics and Major Classes",
+      "content": "Algae are primarily aquatic, photosynthetic organisms ranging from unicellular micro‑algae to large multicellular seaweeds. They possess chlorophyll a and accessory pigments, store starch, and have cell walls of cellulose or agar. Major classes: Chlorophyceae (green algae) – e.g., Chlamydomonas, Ulva; Phaeophyceae (brown algae) – e.g., Laminaria, Fucus; Rhodophyceae (red algae) – e.g., Porphyra, Gracilaria. Economically important for food (spirulina, nori), fertilizers, agar, carrageenan, and biofuels.",
+      "keyPoints": [
+        "Aquatic, photosynthetic, chlorophyll a present in all.",
+        "Chlorophyceae: chlorophyll b, store starch, cell walls of cellulose.",
+        "Phaeophyceae: fucoxanthin gives brown colour, store laminarin, cell walls of alginates.",
+        "Rhodophyceae: phycoerythrin gives red colour, lack flagella, store floridean starch.",
+        "Uses: food, industrial polysaccharides, fertilizers, biofuel precursors."
+      ],
+      "neetTips": [
+        "Remember pigment combinations to identify classes.",
+        "Link economic products (agar‑Rhodophyceae, alginate‑Phaeophyceae).",
+        "NEET often asks about storage products and cell‑wall constituents."
+      ]
+    },
+    {
+      "topic": "Bryophytes",
+      "heading": "Bryophytes – Non‑vascular Land Plants",
+      "content": "Bryophytes are the simplest terrestrial plants lacking true vascular tissue. They consist of a dominant gametophyte and a dependent sporophyte. Two major groups: Liverworts (Marchantiophyta) – thalloid or leafy, rhizoids for anchorage; Mosses (Bryophyta) – leafy shoots with a simple stem‑leaf arrangement. They require moist habitats, a trait shared with many amphibians, facilitating water‑dependent fertilisation.",
+      "keyPoints": [
+        "Dominant gametophyte; sporophyte attached to gametophyte.",
+        "No true xylem or phloem; water and nutrients conducted by diffusion.",
+        "Liverworts: oil bodies, simple thallus; Mosses: leaf‑like phyllids, rhizoids.",
+        "Reproduction via water‑mediated sperm motility."
+      ],
+      "neetTips": [
+        "Identify the dominant phase (gametophyte) for bryophytes.",
+        "Recall that absence of vascular tissue distinguishes them from pteridophytes.",
+        "Link moist habitat requirement to amphibian ecology for conceptual questions."
+      ]
+    },
+    {
+      "topic": "Pteridophytes",
+      "heading": "Pteridophytes – Vascular Seedless Plants",
+      "content": "Pteridophytes possess true xylem and phloem, allowing larger size and colonisation of drier habitats. They exhibit a dominant sporophyte and a free‑living, usually reduced, gametophyte (prothallus). Major groups include ferns and horsetails. Heterospory – production of distinct microspores (male) and megaspores (female) – first appears in some pteridophytes (e.g., Selaginella).",
+      "keyPoints": [
+        "True vascular tissue (tracheids, sieve elements).",
+        "Life cycle: dominant sporophyte, independent gametophyte.",
+        "Heterospory: microspores → male gametophyte; megaspores → female gametophyte.",
+        "Examples: Ferns (Polypodiopsida), Horsetails (Equisetopsida)."
+      ],
+      "neetTips": [
+        "Remember heterospory as a key evolutionary step toward seed plants.",
+        "Distinguish between homosporous (most ferns) and heterosporous pteridophytes.",
+        "NEET may ask about vascular tissue types in pteridophytes."
+      ]
+    },
+    {
+      "topic": "Gymnosperms",
+      "heading": "Gymnosperms – Naked Seed Plants",
+      "content": "Gymnosperms are seed‑bearing plants with ovules exposed on cone scales (naked seeds). They are heterosporous, producing microspores in pollen cones and megaspores in ovulate cones. Major groups: Conifers (Pinus, Abies), Cycads, Ginkgo, Gnetales. Seeds contain a nutritive tissue (albumen) and a protective integument, but lack a fruit.",
+      "keyPoints": [
+        "Naked seeds on cone scales; no enclosing ovary.",
+        "Heterospory with distinct male (pollen) and female (ovule) cones.",
+        "Vascular tissue: tracheids for water transport; sieve‑tube elements for photosynthate.",
+        "Adaptations: resin canals, thick cuticle, sunken stomata."
+      ],
+      "neetTips": [
+        "Link ‘gymnosperm’ to ‘naked seed’ – no fruit.",
+        "Recall that conifers dominate boreal forests – useful for ecological questions.",
+        "Focus on heterospory and cone morphology for NEET."
+      ]
+    },
+    {
+      "topic": "Angiosperms",
+      "heading": "Angiosperms – Flowering Plants",
+      "content": "Angiosperms are the most advanced plant group, characterised by seeds enclosed within a fruit (ovary). They are heterosporous with flowers containing stamens (microsporangia) and carpels (megasporangia). Two major classes: Monocotyledons (single cotyledon, parallel leaf venation, scattered vascular bundles) and Dicotyledons (two cotyledons, netted venation, ring‑arranged vascular bundles).",
+      "keyPoints": [
+        "Enclosed seeds – ovary develops into fruit.",
+        "Flower structure: sepals, petals, stamens, carpels.",
+        "Monocots: 1 cotyledon, parallel veins, fibrous roots.",
+        "Dicots: 2 cotyledons, reticulate veins, taproot system."
+      ],
+      "neetTips": [
+        "Memorise monocot vs dicot leaf‑venation and vascular bundle arrangement.",
+        "Fruit type (simple, aggregate) often asked – focus on ovary position.",
+        "Remember that double fertilisation produces endosperm (triploid)."
+      ]
+    },
+    {
+      "topic": "Plant life cycles",
+      "heading": "Plant Life Cycles – Dominant Phases",
+      "content": "Plant life cycles are described by the relative dominance of haploid (gametophyte) and diploid (sporophyte) phases. Three patterns occur: haplontic (haploid dominant), diplontic (diploid dominant), and haplo‑diplontic (both phases free‑living, as in most land plants). The alternation of generations links these phases through meiosis and fertilisation.",
+      "keyPoints": [
+        "Haplontic: only gametophyte is multicellular (e.g., many algae).",
+        "Diplontic: only sporophyte is multicellular (e.g., animals, some algae).",
+        "Haplo‑diplontic: both phases multicellular – typical of land plants.",
+        "Meiosis produces spores; fertilisation restores diploidy."
+      ],
+      "neetTips": [
+        "NEET often asks to identify the life‑cycle type from a diagram.",
+        "Remember that the dominant phase shifts from algae → bryophytes → vascular plants."
+      ]
+    },
+    {
+      "topic": "Alternation of generations",
+      "heading": "Alternation of Generations – Gametophyte ↔ Sporophyte",
+      "content": "Alternation of generations is the cyclic transition between a haploid gametophyte and a diploid sporophyte. The sporophyte undergoes meiosis to produce haploid spores, which develop into gametophytes. Gametophytes produce gametes by mitosis; fusion of gametes (fertilisation) restores the diploid sporophyte. In bryophytes the gametophyte is dominant; in pteridophytes, gymnosperms and angiosperms the sporophyte dominates.",
+      "keyPoints": [
+        "Meiosis → spores (haploid).",
+        "Spore germination → gametophyte (mitosis).",
+        "Gametes → fertilisation → zygote → sporophyte.",
+        "Shift in dominance across plant evolution."
+      ],
+      "neetTips": [
+        "Identify which phase is dominant for each plant group.",
+        "Diagrammatic representation is a common NEET question."
+      ]
+    },
+    {
+      "topic": "Haplontic life cycle",
+      "heading": "Haplontic Life Cycle – Predominantly Haploid",
+      "content": "In a haplontic cycle, the multicellular organism is haploid; diploid stage exists only as a short‑lived zygote that undergoes immediate meiosis to produce haploid spores. This pattern is typical of many unicellular algae (e.g., Chlamydomonas).",
+      "keyPoints": [
+        "Multicellular stage = haploid.",
+        "Zygote undergoes meiosis without growth.",
+        "Common in many green algae."
+      ],
+      "neetTips": [
+        "Remember that the sporophyte is absent or reduced to a zygote.",
+        "NEET may contrast haplontic algae with diplontic algae."
+      ]
+    },
+    {
+      "topic": "Diplontic life cycle",
+      "heading": "Diplontic Life Cycle – Predominantly Diploid",
+      "content": "In a diplontic cycle, the multicellular organism is diploid; haploid cells are limited to gametes. The only haploid stage is the gamete, which fuses to form a diploid zygote that develops directly into the sporophyte. This pattern is seen in most animals and some brown algae (e.g., Fucus).",
+      "keyPoints": [
+        "Multicellular stage = diploid.",
+        "Haploid stage restricted to gametes.",
+        "Zygote grows directly into sporophyte."
+      ],
+      "neetTips": [
+        "Distinguish from haplontic by noting presence of a true multicellular sporophyte.",
+        "Brown algae (Fucus) exemplify diplontic life cycle."
+      ]
+    },
+    {
+      "topic": "Haplo-diplontic life cycle",
+      "heading": "Haplo‑Diplontic Life Cycle – Both Phases Free‑Living",
+      "content": "The haplo‑diplontic cycle features independent, multicellular haploid (gametophyte) and diploid (sporophyte) generations. This is the hallmark of land plants. The sporophyte produces spores by meiosis; spores develop into gametophytes, which produce gametes by mitosis. Fertilisation restores the diploid sporophyte.",
+      "keyPoints": [
+        "Both gametophyte and sporophyte are multicellular.",
+        "Sporophyte dominant in vascular plants; gametophyte dominant in bryophytes.",
+        "Meiosis → spores; mitosis → gametophyte; fertilisation → sporophyte."
+      ],
+      "neetTips": [
+        "NEET often asks which plant groups exhibit haplo‑diplontic cycles.",
+        "Remember the shift in dominance from bryophytes to angiosperms."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and compare the major plant groups and understand their evolutionary progression and life-cycle patterns."
+  ],
+  "mcqs": [
+    {
+      "question": "Which pigment gives brown algae (Phaeophyceae) their characteristic colour, distinguishing them from green algae?",
+      "options": [
+        "Fucoxanthin",
+        "Phycoerythrin",
+        "Chlorophyll b",
+        "Carotene"
+      ],
+      "answer": 0,
+      "explanation": "Brown algae contain the brown‑coloured pigment fucoxanthin, masking chlorophylls, whereas green algae lack this pigment.",
+      "topic": "Plant Kingdom"
+    },
+    {
+      "question": "In the life cycle of a typical moss, which generation is nutritionally independent and dominant?",
+      "options": [
+        "Sporophyte",
+        "Gametophyte",
+        "Zygote",
+        "Embryo"
+      ],
+      "answer": 1,
+      "explanation": "Mosses exhibit a gametophyte‑dominant (haploid) life cycle; the sporophyte remains attached to and depends on the gametophyte.",
+      "topic": "Plant Kingdom"
+    },
+    {
+      "question": "Heterospory, the production of two distinct spores, first evolved in which plant group?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes (e.g., Selaginella)",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "answer": 1,
+      "explanation": "True heterospory appears in some pteridophytes such as Selaginella, predating its widespread occurrence in gymnosperms.",
+      "topic": "Plant Kingdom"
+    },
+    {
+      "question": "Which statement about monocotyledonous angiosperms is FALSE?",
+      "options": [
+        "Vascular bundles are scattered in the stem",
+        "Flowers usually have parts in multiples of three",
+        "Secondary growth is common",
+        "Leaves show parallel venation"
+      ],
+      "answer": 2,
+      "explanation": "Monocots generally lack a vascular cambium, so secondary growth is rare; the other statements are true for monocots.",
+      "topic": "Plant Kingdom"
+    },
+    {
+      "question": "Which feature most clearly distinguishes bryophytes from pteridophytes?",
+      "options": [
+        "Presence of true vascular tissue",
+        "Dominant sporophyte generation",
+        "Presence of rhizoids",
+        "Production of seeds"
+      ],
+      "answer": 2,
+      "explanation": "Bryophytes lack true vascular tissue and have rhizoids for anchorage, whereas pteridophytes possess well‑developed vascular bundles (xylem and phloem).",
+      "topic": "Bryophytes"
+    },
+    {
+      "question": "In a typical moss, the part of the sporophyte that penetrates the gametophyte to obtain nutrients is called the:",
+      "options": [
+        "Capsule",
+        "Calyptra",
+        "Foot",
+        "Peristome"
+      ],
+      "answer": 2,
+      "explanation": "The foot is the basal region of the sporophyte that grows into the gametophytic tissue, allowing transfer of water and nutrients.",
+      "topic": "Bryophytes"
+    },
+    {
+      "question": "The group of algae that shares the closest chloroplast structure and pigment composition with bryophytes is:",
+      "options": [
+        "Chlorophyceae",
+        "Phaeophyceae",
+        "Rhodophyceae",
+        "Cyanobacteria"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyceae (green algae) have chloroplasts containing chlorophyll a, b and carotenoids, similar to the chloroplasts of bryophytes, indicating a close evolutionary relationship.",
+      "topic": "Bryophytes"
+    },
+    {
+      "question": "Which statement about the dominant generation in bryophytes is correct?",
+      "options": [
+        "The sporophyte generation is diploid and photosynthetic",
+        "The gametophyte generation is haploid and photosynthetic",
+        "The sporophyte generation is haploid and non‑photosynthetic",
+        "The gametophyte generation is diploid and non‑photosynthetic"
+      ],
+      "answer": 1,
+      "explanation": "In bryophytes the gametophyte is the conspicuous, photosynthetic, haploid phase, while the sporophyte is smaller, diploid and nutritionally dependent on the gametophyte.",
+      "topic": "Bryophytes"
+    },
+    {
+      "question": "Which statement correctly distinguishes gymnosperms from angiosperms?",
+      "options": [
+        "Gymnosperms bear seeds enclosed within an ovary",
+        "Gymnosperms possess vessel elements in their xylem",
+        "Gymnosperms produce pollen in microsporangia of male cones",
+        "Gymnosperms undergo double fertilization"
+      ],
+      "answer": 2,
+      "explanation": "Gymnosperms produce pollen grains in the microsporangia of male cones, whereas angiosperms produce pollen in anthers of flowers. The other statements describe angiosperm traits.",
+      "topic": "Gymnosperms"
+    },
+    {
+      "question": "Which extant gymnosperm is the sole representative of its division and bears ovules on the surface of a fleshy, seed‑like megasporophyll?",
+      "options": [
+        "Gnetum",
+        "Cycas",
+        "Ginkgo",
+        "Pinus"
+      ],
+      "answer": 2,
+      "explanation": "Ginkgo biloba, the only living member of Ginkgoales, has ovules borne on a fleshy megasporophyll. Gnetum, Cycas, and Pinus belong to other gymnosperm groups.",
+      "topic": "Gymnosperms"
+    },
+    {
+      "question": "Gymnosperm wood is primarily composed of which type of water‑conducting cell, distinguishing it from most angiosperm wood?",
+      "options": [
+        "Vessel elements",
+        "Fibers with thick lignified walls",
+        "Tracheids",
+        "Parenchyma cells"
+      ],
+      "answer": 2,
+      "explanation": "Gymnosperm xylem consists mainly of tracheids for water transport and support. Angiosperm wood typically contains vessel elements, which are absent in most gymnosperms.",
+      "topic": "Gymnosperms"
+    },
+    {
+      "question": "Which structural adaptation most directly enables many gymnosperms to survive in cold, dry environments?",
+      "options": [
+        "Broad, deciduous leaves",
+        "Presence of resin canals in stems and leaves",
+        "Large, fleshy fruits",
+        "CAM photosynthetic pathway"
+      ],
+      "answer": 1,
+      "explanation": "Resin canals produce terpenoid resins that protect against desiccation, herbivory, and freezing injury, aiding gymnosperms in harsh, xeric or cold habitats. The other options are not characteristic of gymnosperms.",
+      "topic": "Gymnosperms"
+    },
+    {
+      "question": "Which plant group exhibits a dominant sporophyte phase and heterospory?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Algae"
+      ],
+      "answer": 2,
+      "explanation": "Gymnosperms have a conspicuous diploid sporophyte and produce two distinct types of spores (microspores and megaspores), i.e., heterospory.",
+      "topic": "Plant life cycles"
+    },
+    {
+      "question": "In the typical haplo‑diplontic life cycle of a fern, what are the ploidy levels of the gametophyte and sporophyte respectively?",
+      "options": [
+        "Gametophyte diploid, sporophyte haploid",
+        "Both diploid",
+        "Gametophyte haploid, sporophyte diploid",
+        "Both haploid"
+      ],
+      "answer": 2,
+      "explanation": "The fern gametophyte (prothallus) is haploid (n) and gives rise to gametes, while the sporophyte that develops after fertilisation is diploid (2n).",
+      "topic": "Plant life cycles"
+    },
+    {
+      "question": "Which statement correctly describes the life cycle of a typical moss (Bryophyte)?",
+      "options": [
+        "Dominant sporophyte, heterosporous",
+        "Dominant gametophyte, haplontic",
+        "Dominant gametophyte, diplontic",
+        "Alternation with equal phases"
+      ],
+      "answer": 1,
+      "explanation": "Mosses have a conspicuous haploid gametophyte that carries out most of the life functions; the diploid sporophyte is short‑lived and dependent, reflecting a haplontic cycle.",
+      "topic": "Plant life cycles"
+    },
+    {
+      "question": "In a typical diploid‑dominant plant such as an angiosperm, which generation is nutritionally independent and carries out photosynthesis?",
+      "options": [
+        "Gametophyte generation",
+        "Sporophyte generation",
+        "Both generations equally",
+        "Neither generation"
+      ],
+      "answer": 1,
+      "explanation": "Angiosperms have a dominant sporophyte that is free‑living, photosynthetic and nutritionally independent, whereas the gametophyte is reduced and dependent.",
+      "topic": "Alternation of generations"
+    },
+    {
+      "question": "Heterosporous plants (e.g., most gymnosperms and pteridophytes) differ from homosporous plants because they:",
+      "options": [
+        "Produce only microspores",
+        "Produce only megaspores",
+        "Produce both microspores and megaspores",
+        "Produce isomorphic spores of the same size"
+      ],
+      "answer": 2,
+      "explanation": "Heterospory is the production of two distinct spore types: microspores (male) and megaspores (female), each developing into separate gametophytes.",
+      "topic": "Alternation of generations"
+    },
+    {
+      "question": "In the life cycle of a fern, the specialized structure that bears the sporangia on the undersurface of the frond is called:",
+      "options": [
+        "Prothallus",
+        "Rhizome",
+        "Frond",
+        "Sorus"
+      ],
+      "answer": 3,
+      "explanation": "A sorus (plural sori) is a cluster of sporangia on the underside of fern fronds where meiosis occurs to produce spores.",
+      "topic": "Alternation of generations"
+    },
+    {
+      "question": "In a haplontic life cycle, which cell is the only diploid stage?",
+      "options": [
+        "Zygote",
+        "Sporophyte",
+        "Gametophyte",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "In haplontic organisms (many algae), the diploid stage is limited to the zygote, which undergoes meiosis directly to give haploid cells.",
+      "topic": "Alternation of generations"
+    },
+    {
+      "question": "Which of the following organisms is a classic example of a haplontic life cycle?",
+      "options": [
+        "Chlamydomonas",
+        "Fern",
+        "Human",
+        "Pine"
+      ],
+      "answer": 0,
+      "explanation": "Chlamydomonas (a unicellular green alga) has a haplontic cycle where the dominant phase is haploid and the only diploid stage is the zygote.",
+      "topic": "Haplontic life cycle"
+    },
+    {
+      "question": "In a haplontic life cycle, the phase that persists for the longest period is:",
+      "options": [
+        "Diploid sporophyte",
+        "Haploid gametophyte",
+        "Diploid zygote",
+        "Haploid spore"
+      ],
+      "answer": 1,
+      "explanation": "The haploid gametophyte (or vegetative haploid organism) is the long‑lived stage; the diploid zygote undergoes meiosis immediately.",
+      "topic": "Haplontic life cycle"
+    },
+    {
+      "question": "During the haplontic life cycle, meiosis takes place:",
+      "options": [
+        "During gamete formation",
+        "During spore formation",
+        "Immediately after fertilization, converting the diploid zygote into haploid cells",
+        "Meiosis does not occur in haplontic organisms"
+      ],
+      "answer": 2,
+      "explanation": "In haplontic organisms, the diploid zygote undergoes meiosis right after fertilization to produce haploid cells, so the diploid stage is transient.",
+      "topic": "Haplontic life cycle"
+    },
+    {
+      "question": "Which statement correctly distinguishes a haplontic cycle from a diplontic cycle?",
+      "options": [
+        "In haplontic life cycles the zygote undergoes mitosis to form a multicellular diploid organism",
+        "In diplontic cycles haploid spores give rise to a gametophyte",
+        "In haplontic cycles the only diploid stage is the zygote",
+        "In diplontic cycles meiosis occurs only in the gametophyte"
+      ],
+      "answer": 2,
+      "explanation": "In haplontic cycles the zygote is the sole diploid phase and immediately undergoes meiosis; diplontic cycles have a persistent diploid multicellular organism.",
+      "topic": "Haplontic life cycle"
+    },
+    {
+      "question": "In a diplontic life cycle, which phase constitutes the conspicuous, multicellular organism that we commonly recognize?",
+      "options": [
+        "The haploid gametophyte",
+        "The diploid sporophyte",
+        "Both haploid and diploid phases equally",
+        "A unicellular haploid cell"
+      ],
+      "answer": 1,
+      "explanation": "Diplontic life cycles are characterized by a dominant diploid sporophyte; the haploid gametophyte is reduced to unicellular gametes.",
+      "topic": "Diplontic life cycle"
+    },
+    {
+      "question": "What type of cell division gives rise to haploid gametes in a diplontic plant?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis reduces the chromosome number from diploid (2n) to haploid (n), producing the male and female gametes.",
+      "topic": "Diplontic life cycle"
+    },
+    {
+      "question": "Which of the following plant groups primarily exhibits a diplontic life cycle?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Algae"
+      ],
+      "answer": 2,
+      "explanation": "Gymnosperms (and angiosperms) have a diplontic life cycle where the diploid sporophyte is the main plant body; bryophytes and pteridophytes are haplontic or haplo‑diplontic.",
+      "topic": "Diplontic life cycle"
+    },
+    {
+      "question": "Immediately after fertilization in a diplontic organism, the zygote is:",
+      "options": [
+        "Haploid (n)",
+        "Diploid (2n)",
+        "Triploid (3n)",
+        "Tetraploid (4n)"
+      ],
+      "answer": 1,
+      "explanation": "Fertilization fuses two haploid gametes, restoring the diploid chromosome number (2n) in the zygote, which then develops into the sporophyte.",
+      "topic": "Diplontic life cycle"
+    },
+    {
+      "question": "In a haplo‑diplontic life cycle, which statement correctly describes the relative prominence of the sporophyte and gametophyte in most land plants?",
+      "options": [
+        "Sporophyte is multicellular and dominant, while gametophyte is reduced and often dependent.",
+        "Gametophyte is multicellular and dominant, while sporophyte is reduced.",
+        "Both sporophyte and gametophyte are equally conspicuous.",
+        "Neither phase is multicellular; both are unicellular."
+      ],
+      "answer": 0,
+      "explanation": "Most land plants (bryophytes to angiosperms) have a haplo‑diplontic cycle where the diploid sporophyte is the conspicuous, photosynthetic generation and the haploid gametophyte is reduced and nutritionally dependent.",
+      "topic": "Haplo-diplontic life cycle"
+    },
+    {
+      "question": "In the haplo‑diplontic life cycle of a typical fern (a pteridophyte), spores are produced by which process and in which structure?",
+      "options": [
+        "Meiosis in the sporangia of the sporophyte.",
+        "Mitosis in the archegonia of the gametophyte.",
+        "Meiosis in the antheridia of the gametophyte.",
+        "Mitosis in the rhizome of the sporophyte."
+      ],
+      "answer": 0,
+      "explanation": "Ferns produce haploid spores by meiosis within sporangia that are borne on the fronds of the diploid sporophyte. These spores germinate into the free‑living gametophyte.",
+      "topic": "Haplo-diplontic life cycle"
+    },
+    {
+      "question": "Which photosynthetic pigment is characteristically absent in members of the class Chlorophyceae?",
+      "options": [
+        "Phycobilins",
+        "Chlorophyll a",
+        "Carotenoids",
+        "Xanthophylls"
+      ],
+      "answer": 0,
+      "explanation": "Green algae (Chlorophyceae) contain chlorophyll a, chlorophyll b, carotenoids and xanthophylls, but lack the phycobilin pigments (phycoerythrin, phycocyanin) that are typical of red and brown algae.",
+      "topic": "Chlorophyceae"
+    },
+    {
+      "question": "The principal storage product accumulated in the vegetative cells of Chlorophyceae is:",
+      "options": [
+        "Laminarin",
+        "Starch",
+        "Floridean starch",
+        "Glycogen"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyceae store photosynthate as starch granules, similar to higher plants. Laminarin is typical of brown algae, floridean starch of red algae, and glycogen is a storage polysaccharide of many fungi and animals.",
+      "topic": "Chlorophyceae"
+    },
+    {
+      "question": "Which of the following best describes the composition of the cell wall in Chlorophyceae?",
+      "options": [
+        "Silica deposits",
+        "Calcium carbonate plates",
+        "Cellulose and pectin",
+        "Sulphated polysaccharides"
+      ],
+      "answer": 2,
+      "explanation": "The cell walls of green algae are primarily composed of cellulose fibers embedded in a matrix of pectic substances, resembling the primary walls of land plants. Silica and calcium carbonate are characteristic of diatoms and some marine algae, while sulphated polysaccharides are typical of red algae.",
+      "topic": "Chlorophyceae"
+    },
+    {
+      "question": "Which pigment is primarily responsible for the characteristic red colour of Rhodophyceae and is absent in Chlorophyceae?",
+      "options": [
+        "Phycoerythrin",
+        "Chlorophyll a",
+        "Carotene",
+        "Phycocyanin"
+      ],
+      "answer": 0,
+      "explanation": "Rhodophyceae contain the accessory pigment phycoerythrin, which absorbs green light and imparts a red hue; this pigment is not found in Chlorophyceae.",
+      "topic": "Rhodophyceae"
+    },
+    {
+      "question": "The principal storage polysaccharide in Rhodophyceae is:",
+      "options": [
+        "Starch",
+        "Floridean starch",
+        "Lipids",
+        "Glycogen"
+      ],
+      "answer": 1,
+      "explanation": "Red algae store carbohydrates as floridean starch, a β‑1,3‑glucan, unlike the amylose/amylopectin starch of green plants.",
+      "topic": "Rhodophyceae"
+    },
+    {
+      "question": "Which commercially important product is extracted mainly from members of the Rhodophyceae?",
+      "options": [
+        "Starch",
+        "Agar",
+        "Cellulose",
+        "Lignin"
+      ],
+      "answer": 1,
+      "explanation": "Agar, a gelatinous polysaccharide used in microbiology and food industry, is obtained from red algae such as Gelidium and Gracilaria.",
+      "topic": "Rhodophyceae"
+    },
+    {
+      "question": "The typical life cycle of most Rhodophyceae is best described as:",
+      "options": [
+        "Haploid‑dominant (haplontic)",
+        "Diploid‑dominant (diplontic)",
+        "Haplo‑diplontic (triphasic)",
+        "No alternation of generations"
+      ],
+      "answer": 2,
+      "explanation": "Red algae exhibit a triphasic (haplo‑diplontic) life cycle comprising a haploid gametophyte, a diploid carposporophyte, and a diploid tetrasporophyte.",
+      "topic": "Rhodophyceae"
+    },
+    {
+      "question": "Which characteristic most clearly distinguishes bryophytes from pteridophytes?",
+      "options": [
+        "Presence of true vascular tissue",
+        "Dominant gametophyte generation",
+        "Production of seeds",
+        "Presence of cones"
+      ],
+      "answer": 1,
+      "explanation": "Bryophytes have a dominant haploid gametophyte stage, whereas pteridophytes have a dominant diploid sporophyte and possess vascular tissues.",
+      "topic": "Bryophytes and amphibians of plant kingdom"
+    },
+    {
+      "question": "In a typical moss life cycle, the sporangium that bears spores is formed by which generation?",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Both generations equally",
+        "Neither generation; it is a separate structure"
+      ],
+      "answer": 1,
+      "explanation": "The sporangium (capsule) is part of the diploid sporophyte, which grows attached to the haploid gametophyte and releases spores.",
+      "topic": "Bryophytes and amphibians of plant kingdom"
+    },
+    {
+      "question": "Molecular and pigment evidence suggests that the closest algal relatives of land bryophytes belong to which class?",
+      "options": [
+        "Chlorophyceae",
+        "Phaeophyceae",
+        "Rhodophyceae",
+        "Charophyceae"
+      ],
+      "answer": 3,
+      "explanation": "Charophyceae (charophyte algae) share similar chlorophyll a+b ratios, cell wall components, and DNA sequences with embryophytes, indicating they are the nearest algal ancestors of bryophytes.",
+      "topic": "Bryophytes and amphibians of plant kingdom"
+    },
+    {
+      "question": "Which statement about water relations in bryophytes is correct?",
+      "options": [
+        "They possess a cuticle thicker than most angiosperms",
+        "They rely on capillary action for internal water transport",
+        "They have well‑developed xylem vessels",
+        "They regulate transpiration through stomata that open only at night"
+      ],
+      "answer": 1,
+      "explanation": "Bryophytes lack true vascular tissue; water moves by capillary action and diffusion through their thin tissues, making them dependent on a moist environment.",
+      "topic": "Bryophytes and amphibians of plant kingdom"
+    },
+    {
+      "question": "In the life cycle of mosses, which generation is dominant and primarily responsible for photosynthesis?",
+      "options": [
+        "The diploid sporophyte generation",
+        "The haploid gametophyte generation",
+        "The diploid gametophyte generation",
+        "The haploid sporophyte generation"
+      ],
+      "answer": 1,
+      "explanation": "Mosses have a haploid gametophyte that is long‑lived, green, and photosynthetic, whereas the sporophyte is short‑lived and dependent on the gametophyte.",
+      "topic": "Mosses"
+    },
+    {
+      "question": "The part of a moss sporophyte that penetrates the gametophyte tissue and absorbs nutrients is called the:",
+      "options": [
+        "Foot",
+        "Capsule",
+        "Calyptra",
+        "Rhizoid"
+      ],
+      "answer": 0,
+      "explanation": "The foot is a basal structure of the sporophyte that grows into the gametophyte, anchoring it and facilitating transfer of water and nutrients.",
+      "topic": "Mosses"
+    },
+    {
+      "question": "Which characteristic most clearly separates mosses (Bryophyta) from liverworts (Marchantiophyta)?",
+      "options": [
+        "Presence of true vascular tissue",
+        "Presence of peristome teeth around the capsule opening",
+        "Presence of chloroplast‑bearing rhizoids",
+        "Presence of a dominant gametophyte generation"
+      ],
+      "answer": 1,
+      "explanation": "Most mosses possess a peristome – a ring of teeth that regulate spore release – a feature generally absent in liverworts.",
+      "topic": "Mosses"
+    },
+    {
+      "question": "Mosses are economically important for all of the following EXCEPT:",
+      "options": [
+        "Acting as bio‑indicators of air quality",
+        "Providing peat used in horticulture",
+        "Supplying commercial algal polysaccharides",
+        "Providing microhabitats for forest floor fauna"
+      ],
+      "answer": 2,
+      "explanation": "Commercial polysaccharides are extracted from algae, not from mosses; the other options are recognized uses of mosses.",
+      "topic": "Mosses"
+    },
+    {
+      "question": "Heterospory is the production of two distinct types of spores, microspores and megaspores, which develop into male and female gametophytes respectively. Which of the following plant groups is NOT heterosporous?",
+      "options": [
+        "Selaginella (lycophyte)",
+        "Marsilea (fern)",
+        "Pinus (gymnosperm)",
+        "Bryophytes (mosses)"
+      ],
+      "answer": 3,
+      "explanation": "Bryophytes are homosporous; they produce a single type of spore that gives rise to a bisexual gametophyte. All the other listed groups exhibit heterospory.",
+      "topic": "Heterospory"
+    },
+    {
+      "question": "The evolution of heterospory is considered a key step towards the development of seeds because:",
+      "options": [
+        "It allows separation of male and female gametophytes in time",
+        "It results in larger megaspores that can retain nutritive tissue",
+        "It eliminates the need for water for fertilization",
+        "It increases the number of spores produced per sporangium"
+      ],
+      "answer": 1,
+      "explanation": "Larger megaspores in heterosporous plants can develop nutritive tissue (megagametophyte) that supports the embryo, a fundamental feature of seed plants.",
+      "topic": "Heterospory"
+    },
+    {
+      "question": "In heterosporous lycophytes such as Selaginella, the structures that bear microspores are:",
+      "options": [
+        "Strobili",
+        "Rhizomes",
+        "Fronds",
+        "Roots"
+      ],
+      "answer": 0,
+      "explanation": "Microsporangia are produced on strobili (cone-like structures) in heterosporous lycophytes, separating them from megasporangia.",
+      "topic": "Heterospory"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of monocotyledonous plants?",
+      "options": [
+        "Scattered vascular bundles in the stem",
+        "Fibrous root system",
+        "Net‑like leaf venation",
+        "Single cotyledon in the seed"
+      ],
+      "answer": 2,
+      "explanation": "Monocots have parallel leaf venation; net‑like (reticulate) venation is typical of dicots.",
+      "topic": "Monocots and dicots"
+    },
+    {
+      "question": "In a typical dicot leaf, the arrangement of vascular bundles is:",
+      "options": [
+        "Collateral with xylem towards the adaxial side",
+        "Collateral with xylem towards the abaxial side",
+        "Bicollateral",
+        "Radial"
+      ],
+      "answer": 0,
+      "explanation": "In dicot leaves, vascular bundles are collateral; the xylem is positioned toward the upper (adaxial) surface and phloem toward the lower (abaxial) surface.",
+      "topic": "Monocots and dicots"
+    },
+    {
+      "question": "Regarding the dominance of generations in flowering plants, which statement is correct?",
+      "options": [
+        "Both monocots and dicots have a dominant sporophyte generation",
+        "Monocots have a dominant gametophyte generation",
+        "Dicots exhibit a haplontic life cycle",
+        "Monocots show alternation of generations with a dominant gametophyte"
+      ],
+      "answer": 0,
+      "explanation": "All angiosperms, whether monocots or dicots, have a dominant diploid sporophyte; the gametophyte is reduced and short‑lived.",
+      "topic": "Monocots and dicots"
+    },
+    {
+      "question": "Which floral formula best represents a typical monocot flower?",
+      "options": [
+        "* [4+4]",
+        "* [5+5]",
+        "* [3+3]",
+        "* [2+2]"
+      ],
+      "answer": 2,
+      "explanation": "Monocot flowers are usually trimerous, i.e., parts occur in multiples of three, giving the formula *[3+3] (e.g., three sepals, three petals).",
+      "topic": "Monocots and dicots"
+    },
+    {
+      "question": "In which plant group is the sporophyte the dominant, diploid phase and the gametophyte highly reduced, while the plant exhibits heterospory?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Algae"
+      ],
+      "answer": 2,
+      "explanation": "Gymnosperms have a dominant diploid sporophyte, a minute gametophyte, and produce two distinct spores (microspores and megaspores), i.e., they are heterosporous.",
+      "topic": "Alternation between gametophyte and sporophyte"
+    },
+    {
+      "question": "In the life cycle of a typical moss, which statement correctly describes the ploidy of the dominant phase?",
+      "options": [
+        "The dominant phase is diploid sporophyte",
+        "The dominant phase is haploid gametophyte",
+        "Both gametophyte and sporophyte are equally prominent",
+        "The dominant phase is diploid gametophyte"
+      ],
+      "answer": 1,
+      "explanation": "Mosses (bryophytes) have a dominant haploid gametophyte; the sporophyte remains attached to and nutritionally dependent on the gametophyte.",
+      "topic": "Alternation between gametophyte and sporophyte"
+    },
+    {
+      "question": "Which description best fits the alternation of generations in a homosporous fern?",
+      "options": [
+        "It produces two types of spores, microspores and megaspores",
+        "The diploid sporophyte produces identical spores that develop into a free‑living, photosynthetic gametophyte",
+        "The gametophyte is diploid",
+        "Ferns lack alternation of generations"
+      ],
+      "answer": 1,
+      "explanation": "In homosporous ferns, the diploid sporophyte undergoes meiosis to produce one type of spore; each spore grows into a small, independent, photosynthetic haploid gametophyte (prothallus).",
+      "topic": "Alternation between gametophyte and sporophyte"
+    },
+    {
+      "question": "In a haplontic life cycle, which stage undergoes meiosis?",
+      "options": [
+        "The diploid sporophyte",
+        "The haploid gametophyte",
+        "The diploid zygote",
+        "The diploid gametophyte"
+      ],
+      "answer": 2,
+      "explanation": "In a haplontic life cycle, the only diploid cell is the zygote, which immediately undergoes meiosis to give rise to haploid cells, so meiosis occurs in the zygote.",
+      "topic": "Alternation between gametophyte and sporophyte"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "3-5 MCQs per syllabus topic",
+    "topicCount": 25,
+    "mcqCount": 55
+  }
+}

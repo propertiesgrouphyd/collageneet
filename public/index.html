@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    >
+
+    <meta
+        name="theme-color"
+        content="#ffffff"
+    >
+
+    <meta
+        name="description"
+        content="VIDHWAAN NEET — 365-Day NEET Preparation"
+    >
+
+    <meta
+        name="application-name"
+        content="VIDHWAAN NEET"
+    >
+
+    <meta
+        name="mobile-web-app-capable"
+        content="yes"
+    >
+
+    <meta
+        name="apple-mobile-web-app-capable"
+        content="yes"
+    >
+
+    <meta
+        name="apple-mobile-web-app-status-bar-style"
+        content="default"
+    >
+
+    <meta
+        name="apple-mobile-web-app-title"
+        content="VIDHWAAN NEET"
+    >
+
+    <title>VIDHWAAN NEET — 365-Day Preparation</title>
+
+    <!-- PWA -->
+    <link
+        rel="manifest"
+        href="./manifest.json"
+    >
+
+    <!-- App icon -->
+    <link
+        rel="icon"
+        type="image/png"
+        href="./icons/logo.png"
+    >
+
+    <link
+        rel="apple-touch-icon"
+        href="./icons/icon-512.png"
+    >
+
+    <!-- Main CSS -->
+    <link
+        rel="stylesheet"
+        href="./css/main.css"
+    >
+</head>
+
+<body>
+
+<div id="app">
+
+    <!-- =====================================================
+         HEADER
+         ===================================================== -->
+
+    <header class="app-header">
+
+        <div class="header-inner">
+
+            <button
+                id="brand-home"
+                class="brand"
+                type="button"
+                aria-label="VIDHWAAN NEET home"
+            >
+
+                <span class="brand-logo">
+                    <img
+                        src="./icons/logo.png"
+                        alt="VIDHWAAN NEET"
+                        width="52"
+                        height="52"
+                    >
+                </span>
+
+                <span class="brand-text">
+
+                    <span class="brand-title">
+                        VIDHWAAN NEET
+                    </span>
+
+                    <span class="brand-subtitle">
+                        365-Day NEET Preparation
+                    </span>
+
+                </span>
+
+            </button>
+
+            <div
+                id="release-status-text"
+                class="release-status"
+                aria-live="polite"
+            >
+                Loading course...
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- =====================================================
+         MAIN
+         ===================================================== -->
+
+    <main class="main-container">
+
+
+        <!-- =================================================
+             HOME / 365 DAY GRID
+             ================================================= -->
+
+        <section
+            id="days-view"
+            class="days-view"
+            aria-labelledby="course-title"
+        >
+
+            <!-- HERO -->
+
+            <div class="hero-card">
+
+                <div class="hero-content">
+
+                    <span class="eyebrow">
+                        VIDHWAAN NEET
+                    </span>
+
+                    <h1 id="course-title">
+                        365-Day NEET Preparation
+                    </h1>
+
+                    <p>
+                        Learn every day. Master the concepts.
+                        Practice with NEET-level MCQs.
+                    </p>
+
+                </div>
+
+                <div
+                    id="today-badge"
+                    class="today-badge"
+                    aria-live="polite"
+                >
+                    Loading...
+                </div>
+
+            </div>
+
+
+            <!-- COURSE DAYS -->
+
+            <section
+                class="course-days-section"
+                aria-labelledby="days-title"
+            >
+
+                <div class="section-heading">
+
+                    <div>
+
+                        <span class="section-kicker">
+                            YOUR NEET JOURNEY
+                        </span>
+
+                        <h2 id="days-title">
+                            Course Days
+                        </h2>
+
+                        <p>
+                            A new lesson becomes available every day
+                            at 6:00 AM IST.
+                        </p>
+
+                    </div>
+
+                    <div
+                        id="released-days-count"
+                        class="days-count"
+                        aria-live="polite"
+                    >
+                        0 / 365 available
+                    </div>
+
+                </div>
+
+
+                <!--
+                    app.js will generate ALL 365 circles here.
+
+                    IMPORTANT:
+                    Nothing opens automatically.
+
+                    Example:
+                    30 Aug 2026 → Day 1 enabled
+                    31 Aug 2026 → Day 1 + Day 2 enabled
+                    01 Sep 2026 → Day 1 + Day 2 + Day 3 enabled
+
+                    Future days remain locked.
+                -->
+
+                <div
+                    id="day-grid"
+                    class="day-grid"
+                    aria-label="365 NEET course days"
+                ></div>
+
+
+                <!-- LEGEND -->
+
+                <div class="days-legend">
+
+                    <div class="legend-item">
+
+                        <span
+                            class="legend-dot available"
+                            aria-hidden="true"
+                        ></span>
+
+                        <span>
+                            Available
+                        </span>
+
+                    </div>
+
+                    <div class="legend-item">
+
+                        <span
+                            class="legend-dot locked"
+                            aria-hidden="true"
+                        ></span>
+
+                        <span>
+                            Locked
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </section>
+
+
+        <!-- =================================================
+             LESSON VIEW
+             ================================================= -->
+
+        <section
+            id="lesson-view"
+            class="lesson-view"
+            hidden
+            aria-labelledby="lesson-title"
+        >
+
+            <!-- BACK TO DAYS -->
+
+            <div class="lesson-navigation">
+
+                <button
+                    id="back-button"
+                    class="back-button"
+                    type="button"
+                >
+                    <span aria-hidden="true">←</span>
+                    <span>All Days</span>
+                </button>
+
+                <span
+                    id="lesson-day-badge"
+                    class="lesson-day-badge"
+                >
+                    DAY 1
+                </span>
+
+            </div>
+
+
+            <!--
+                app.js will render the COMPLETE selected JSON
+                into this container.
+
+                RAW JSON MUST NEVER be displayed.
+
+                The renderer will create:
+
+                1. Day heading
+                2. Subject / chapter
+                3. Learning outcome
+                4. NEET Focus
+                5. Topic cards
+                6. Concept explanations
+                7. Key points
+                8. NEET tips
+                9. MCQ cards
+                10. Clickable A/B/C/D options
+                11. Green correct state
+                12. Red wrong state
+                13. Correct answer
+                14. Explanation
+            -->
+
+            <div
+                id="lesson-container"
+                class="lesson-container"
+            ></div>
+
+        </section>
+
+
+        <!-- =================================================
+             LOADING
+             ================================================= -->
+
+        <section
+            id="loading-state"
+            class="loading-state"
+            hidden
+            aria-live="polite"
+        >
+
+            <div class="loading-card">
+
+                <div
+                    class="loading-spinner"
+                    aria-hidden="true"
+                ></div>
+
+                <h2>
+                    Loading lesson
+                </h2>
+
+                <p>
+                    Preparing your NEET content...
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             ERROR
+             ================================================= -->
+
+        <section
+            id="error-state"
+            class="error-state"
+            hidden
+            role="alert"
+            aria-live="assertive"
+        >
+
+            <div class="error-card">
+
+                <div
+                    class="error-icon"
+                    aria-hidden="true"
+                >
+                    !
+                </div>
+
+                <h2>
+                    Unable to load lesson
+                </h2>
+
+                <p id="error-message">
+                    Please try again.
+                </p>
+
+                <button
+                    id="retry-button"
+                    class="retry-button"
+                    type="button"
+                >
+                    Try Again
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =====================================================
+         FOOTER
+         ===================================================== -->
+
+    <footer class="site-footer">
+
+        <div class="footer-inner">
+
+            <div class="footer-brand">
+
+                <img
+                    src="./icons/logo.png"
+                    alt="VIDHWAAN"
+                    width="38"
+                    height="38"
+                >
+
+                <div>
+
+                    <strong>
+                        VIDHWAAN
+                    </strong>
+
+                    <span>
+                        NEET Preparation
+                    </span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <!-- =====================================================
+         PWA INSTALL
+         ===================================================== -->
+
+    <button
+        id="install-button"
+        class="install-button"
+        type="button"
+        hidden
+        aria-label="Install VIDHWAAN NEET"
+    >
+
+        <span
+            class="install-icon"
+            aria-hidden="true"
+        >
+            ↓
+        </span>
+
+        <span class="install-text">
+
+            <strong>
+                Install App
+            </strong>
+
+            <small>
+                Install VIDHWAAN NEET
+            </small>
+
+        </span>
+
+    </button>
+
+</div>
+
+
+<!-- =========================================================
+     APPLICATION JAVASCRIPT
+     ========================================================= -->
+
+<script
+    src="./js/app.js"
+    defer
+></script>
+
+</body>
+</html>

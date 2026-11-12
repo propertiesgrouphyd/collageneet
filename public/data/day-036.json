@@ -1,0 +1,1662 @@
+{
+  "day": 36,
+  "courseDate": "2026-10-04",
+  "publishAt": "2026-10-04T06:00:00+05:30",
+  "title": "Day 36: Cell — Basic Concepts and Cell Theory",
+  "introduction": "This lesson covers the fundamental concepts of cell structure, the historical development of cell theory, and comparative features of prokaryotic, eukaryotic, plant and animal cells, emphasizing NEET‑relevant facts.",
+  "sections": [
+    {
+      "topic": "Cell as the basic structural and functional unit of life",
+      "heading": "Cell: Fundamental Unit of Life",
+      "content": "A cell is the smallest autonomous unit capable of performing all life processes—metabolism, growth, response to stimuli, and reproduction. It integrates structural components and biochemical pathways to maintain homeostasis.",
+      "keyPoints": [
+        "All living organisms are composed of one or more cells",
+        "Cellular functions are confined within the plasma membrane",
+        "Cellular organization underlies tissue, organ and system levels"
+      ],
+      "neetTips": [
+        "Remember the definition word‑for‑word for NEET: \"the basic structural and functional unit of life\""
+      ]
+    },
+    {
+      "topic": "Discovery of the cell",
+      "heading": "Historical Discovery of Cells",
+      "content": "Robert Hooke observed cork cells in 1665 using a compound microscope, coining the term \"cell\" due to their box‑like appearance. Subsequent improvements by Leeuwenhoek revealed living microorganisms, establishing the microscopic basis of biology.",
+      "keyPoints": [
+        "Hooke (1665) – first cell observation",
+        "Leeuwenhoek – first live cell observations",
+        "Microscopy paved the way for cell theory"
+      ],
+      "neetTips": [
+        "Link Hooke with \"cork\" and Leeuwenhoek with \"microorganisms\" for quick recall"
+      ]
+    },
+    {
+      "topic": "Cell theory",
+      "heading": "Classical Cell Theory",
+      "content": "The cell theory states: (1) All living organisms are composed of cells, (2) The cell is the basic unit of structure and function, (3) All cells arise from pre‑existing cells. These statements form the cornerstone of modern biology.",
+      "keyPoints": [
+        "Three postulates form the classical cell theory",
+        "Provides a unifying principle for biology"
+      ],
+      "neetTips": [
+        "Memorize the three postulates in order; they are frequently asked"
+      ]
+    },
+    {
+      "topic": "Contributions of Schleiden and Schwann",
+      "heading": "Schleiden and Schwann’s Contributions",
+      "content": "Matthias Schleiden (1838) proposed that all plants are made of cells, while Theodor Schwann (1839) extended this to animals, together establishing that the cell is the universal structural unit of living matter.",
+      "keyPoints": [
+        "Schleiden – plant cells",
+        "Schwann – animal cells",
+        "Jointly formulated the first two postulates"
+      ],
+      "neetTips": [
+        "Associate Schleiden with \"plants\" and Schwann with \"animals\""
+      ]
+    },
+    {
+      "topic": "Role of Virchow in cell theory",
+      "heading": "Virchow’s Addition",
+      "content": "Rudolf Virchow (1855) added the third postulate, \"Omnis cellula e cellula,\" emphasizing that new cells arise only from existing cells, thereby rejecting spontaneous generation.",
+      "keyPoints": [
+        "Virchow – \"Omnis cellula e cellula\"",
+        "Completed the cell theory"
+      ],
+      "neetTips": [
+        "Virchow’s phrase is a must‑remember exact wording"
+      ]
+    },
+    {
+      "topic": "Exceptions and limitations of classical cell theory",
+      "heading": "Exceptions to Classical Cell Theory",
+      "content": "Viruses lack cellular organization and cannot be considered cells, challenging the universality of the theory. Additionally, endosymbiotic events blur the line between independent and organelle‑originated cells.",
+      "keyPoints": [
+        "Viruses are acellular",
+        "Endosymbiosis shows organelles originated from prokaryotes"
+      ],
+      "neetTips": [
+        "NEET may ask which entity is not a cell – answer: virus"
+      ]
+    },
+    {
+      "topic": "Prokaryotic and eukaryotic cells",
+      "heading": "Prokaryotes vs Eukaryotes",
+      "content": "Prokaryotes are unicellular organisms lacking a true nucleus and membrane‑bound organelles; their DNA is circular and resides in the nucleoid. Eukaryotes possess a membrane‑bound nucleus, linear chromosomes, and diverse organelles.",
+      "keyPoints": [
+        "Prokaryotes: no nucleus, circular DNA",
+        "Eukaryotes: nucleus, linear DNA, organelles"
+      ],
+      "neetTips": [
+        "Recall the mnemonic \"P for Primitive, E for Elaborate\""
+      ]
+    },
+    {
+      "topic": "Major differences between prokaryotic and eukaryotic cells",
+      "heading": "Key Structural Differences",
+      "content": "Differences include size (prokaryotes 0.1–5 µm; eukaryotes 10–100 µm), presence of membrane‑bound organelles, ribosome size (70S vs 80S), and modes of gene expression (operons vs introns).",
+      "keyPoints": [
+        "Size disparity",
+        "Membrane‑bound organelles only in eukaryotes",
+        "Ribosome subunits differ"
+      ],
+      "neetTips": [
+        "NEET often asks ribosome size; remember 70S = prokaryote, 80S = eukaryote"
+      ]
+    },
+    {
+      "topic": "Plant cells and animal cells",
+      "heading": "Plant vs Animal Cells",
+      "content": "Plant cells contain a rigid cell wall, chloroplasts, and large central vacuole, whereas animal cells have centrioles, lysosomes, and more irregular shapes. Both share nucleus, mitochondria, ER, Golgi, and plasma membrane.",
+      "keyPoints": [
+        "Cell wall, chloroplasts, vacuole – plant only",
+        "Centrioles, lysosomes – animal only"
+      ],
+      "neetTips": [
+        "Link chloroplasts with photosynthesis; centrioles with cell division"
+      ]
+    },
+    {
+      "topic": "Cell size and shape",
+      "heading": "Determinants of Cell Size and Shape",
+      "content": "Cell size is constrained by the surface area‑to‑volume (SA:V) ratio; optimal size ensures efficient diffusion of nutrients and waste. Shape adapts to function—e.g., neurons (long), erythrocytes (biconcave).",
+      "keyPoints": [
+        "SA:V ratio limits size",
+        "Shape reflects physiological role"
+      ],
+      "neetTips": [
+        "NEET may present a diagram; identify shape‑function correlation"
+      ]
+    },
+    {
+      "topic": "Surface area to volume relationship",
+      "heading": "SA:V Ratio Importance",
+      "content": "As a cell grows, volume increases faster (∝r³) than surface area (∝r²), reducing SA:V ratio and impeding exchange. Cells mitigate this by flattening, forming microvilli, or dividing.",
+      "keyPoints": [
+        "SA ∝ r², V ∝ r³",
+        "Low SA:V hampers diffusion"
+      ],
+      "neetTips": [
+        "Remember the mathematical relationship; useful for quantitative NEET questions"
+      ]
+    },
+    {
+      "topic": "Cell envelope",
+      "heading": "Cell Envelope Overview",
+      "content": "The cell envelope comprises the plasma membrane and, in plants, fungi and bacteria, additional layers such as cell wall and, in Gram‑negative bacteria, an outer membrane. It protects and maintains cellular integrity.",
+      "keyPoints": [
+        "Envelope = membrane + wall (if present)",
+        "Provides protection and shape"
+      ],
+      "neetTips": [
+        "Distinguish envelope components for different kingdoms"
+      ]
+    },
+    {
+      "topic": "Plasma membrane overview",
+      "heading": "Plasma Membrane Structure",
+      "content": "A fluid mosaic of phospholipid bilayer with embedded proteins, cholesterol (in animal cells), and glycolipids. Functions include selective permeability, signal transduction, and cell‑cell communication.",
+      "keyPoints": [
+        "Phospholipid bilayer with amphipathic molecules",
+        "Integral and peripheral proteins"
+      ],
+      "neetTips": [
+        "Recall the ‘fluid mosaic model’ phrase"
+      ]
+    },
+    {
+      "topic": "Cell wall overview",
+      "heading": "Cell Wall Characteristics",
+      "content": "Plant cell walls are primarily cellulose‑hemicellulose matrix with pectin; fungal walls contain chitin; bacterial walls have peptidoglycan (Gram‑positive thick, Gram‑negative thin). They confer rigidity and protection.",
+      "keyPoints": [
+        "Cellulose = plants",
+        "Chitin = fungi",
+        "Peptidoglycan = bacteria"
+      ],
+      "neetTips": [
+        "Match wall composition with kingdom for quick answers"
+      ]
+    },
+    {
+      "topic": "Cytoplasm",
+      "heading": "Cytoplasm Composition",
+      "content": "The cytoplasm includes cytosol (aqueous matrix) and suspended organelles. It hosts metabolic pathways, ion gradients, and the cytoskeleton, which maintains cell shape and facilitates intracellular transport.",
+      "keyPoints": [
+        "Cytosol + organelles",
+        "Site of glycolysis, protein synthesis"
+      ],
+      "neetTips": [
+        "Cytoplasm ≠ nucleus; keep distinction clear"
+      ]
+    },
+    {
+      "topic": "Nucleus overview",
+      "heading": "Nuclear Structure and Function",
+      "content": "Encased by a double membrane (nuclear envelope) with nuclear pores, the nucleus houses linear DNA organized into chromosomes, nucleolus (ribosome biogenesis), and regulates gene expression.",
+      "keyPoints": [
+        "Double membrane with pores",
+        "Contains nucleolus"
+      ],
+      "neetTips": [
+        "NEET often asks nuclear pore function – transport of macromolecules"
+      ]
+    },
+    {
+      "topic": "Cell organelles overview",
+      "heading": "Major Eukaryotic Organelles",
+      "content": "Key organelles: mitochondria (ATP production), chloroplasts (photosynthesis), endoplasmic reticulum (protein/lipid synthesis), Golgi apparatus (modification/packaging), lysosomes (digestion), peroxisomes (oxidation), and vacuoles (storage).",
+      "keyPoints": [
+        "Mitochondria – power house",
+        "Chloroplast – photosynthesis",
+        "ER – synthesis"
+      ],
+      "neetTips": [
+        "Link each organelle with its primary function for rapid recall"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the historical development and core statements of cell theory",
+    "Differentiate prokaryotic and eukaryotic cells at structural and functional levels",
+    "Compare plant and animal cell specific features",
+    "Explain the significance of cell size, shape and SA:V ratio in cellular physiology",
+    "Identify the composition and role of plasma membrane, cell wall, nucleus and major organelles"
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly defines why a cell is considered the basic structural unit of living organisms?",
+      "options": [
+        "It is the smallest unit that can exist independently outside an organism.",
+        "It contains DNA and can perform all life processes.",
+        "It is the smallest unit that can carry out all metabolic activities.",
+        "It is the smallest unit that can reproduce by binary fission."
+      ],
+      "answer": 2,
+      "explanation": "A cell is termed the basic structural unit because it is the smallest entity that can perform all the metabolic activities essential for life.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "According to cell theory, which of the following is NOT a postulate?",
+      "options": [
+        "All living organisms are composed of one or more cells.",
+        "The cell is the basic unit of structure and function.",
+        "All cells arise spontaneously from non‑living matter.",
+        "All cells arise from pre‑existing cells."
+      ],
+      "answer": 2,
+      "explanation": "Classical cell theory states that cells arise only from pre‑existing cells; spontaneous generation is not a postulate.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "Which of the following best explains why most cells are microscopic in size?",
+      "options": [
+        "Larger cells have higher metabolic rates.",
+        "Surface area to volume ratio decreases with increase in size, limiting efficient exchange.",
+        "Larger cells cannot contain a nucleus.",
+        "Small cells have more DNA."
+      ],
+      "answer": 1,
+      "explanation": "As size increases, SA:V ratio falls, reducing the efficiency of nutrient uptake and waste removal, thus limiting cell size.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "In a multicellular organism, a single cell can be considered a functional unit because:",
+      "options": [
+        "It can carry out photosynthesis.",
+        "It can independently maintain homeostasis.",
+        "It can synthesize all proteins required for its survival.",
+        "It can perform all processes characteristic of life."
+      ],
+      "answer": 3,
+      "explanation": "A cell qualifies as a functional unit because it can independently execute all life processes such as metabolism, growth, and response to stimuli.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "Which of the following is a key difference between prokaryotic and eukaryotic cells that directly relates to the concept of a cell being a functional unit?",
+      "options": [
+        "Presence of a cell wall.",
+        "Presence of membrane-bound organelles.",
+        "Ability to undergo mitosis.",
+        "Size of ribosomes."
+      ],
+      "answer": 1,
+      "explanation": "Membrane‑bound organelles compartmentalize functions, allowing eukaryotic cells to perform complex processes within a single unit.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "The limitation on cell size imposed by the surface area to volume ratio primarily affects which cellular function?",
+      "options": [
+        "DNA replication.",
+        "Protein synthesis.",
+        "Diffusion of nutrients and waste.",
+        "Cell division."
+      ],
+      "answer": 2,
+      "explanation": "Diffusion of substances across the plasma membrane is constrained by SA:V; a lower ratio hampers efficient exchange.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "Which statement correctly reflects the functional significance of the plasma membrane in the context of the cell being the basic unit of life?",
+      "options": [
+        "It provides structural rigidity like a cell wall.",
+        "It stores genetic information.",
+        "It regulates selective exchange of substances, maintaining internal environment.",
+        "It synthesizes ATP directly."
+      ],
+      "answer": 2,
+      "explanation": "The plasma membrane controls the entry and exit of molecules, preserving the cell's internal milieu essential for its autonomous functioning.",
+      "topic": "Cell as the basic structural and functional unit of life"
+    },
+    {
+      "question": "Who first coined the term \"cell\" after observing cork under a microscope?",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "answer": 0,
+      "explanation": "Robert Hooke, in 1665, observed hollow compartments in cork and named them \"cells\" because they resembled the rooms (cells) of a monastery.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "Which scientist was the first to observe living microorganisms, which he called \"animalcules\", using a microscope?",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Robert Brown",
+        "Carl Linnaeus"
+      ],
+      "answer": 1,
+      "explanation": "Antonie van Leeuwenhoek, using his handcrafted single‑lens microscopes in the 1670s, reported the existence of microscopic living organisms he termed \"animalcules\".",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "In which year was Hooke's seminal work \"Micrographia\", containing the first description of cells, published?",
+      "options": [
+        "1655",
+        "1660",
+        "1665",
+        "1670"
+      ],
+      "answer": 2,
+      "explanation": "\"Micrographia\" was published in 1665 and included Hooke's detailed drawings of cork cells, marking the first formal description of cells.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "The microscope employed by Antonie van Leeuwenhoek to view bacteria was primarily a:",
+      "options": [
+        "Compound microscope",
+        "Electron microscope",
+        "Single‑lens microscope",
+        "Fluorescence microscope"
+      ],
+      "answer": 2,
+      "explanation": "Leeuwenhoek used simple, high‑quality single‑lens microscopes with magnifications up to 300×, enabling him to see bacteria for the first time.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "Hooke described the structures he saw in cork as \"cells\" because they reminded him of:",
+      "options": [
+        "rooms of a monastery",
+        "blood vessels",
+        "plant roots",
+        "animal tissues"
+      ],
+      "answer": 0,
+      "explanation": "The term \"cell\" was inspired by the resemblance of the cork's hollow compartments to the small rooms (cells) of a monastery.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "Who first proposed that all plants are composed of cells, laying a foundation for the cell theory?",
+      "options": [
+        "Theodor Schwann",
+        "Matthias Schleiden",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "answer": 1,
+      "explanation": "Matthias Schleiden, in 1838, asserted that all plant tissues are made up of cells, a key step toward the modern cell theory.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "The statement \"Omnis cellula e cellula\" (all cells arise from pre‑existing cells) is attributed to:",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Rudolf Virchow",
+        "Matthias Schleiden"
+      ],
+      "answer": 2,
+      "explanation": "Rudolf Virchow introduced the phrase in 1855, emphasizing that new cells originate only from existing cells, completing the cell theory.",
+      "topic": "Discovery of the cell"
+    },
+    {
+      "question": "Which of the following is NOT a component of the classical cell theory?",
+      "options": [
+        "All living organisms are composed of cells",
+        "The cell is the basic unit of structure and function",
+        "All cells arise spontaneously from non‑living matter",
+        "All cells arise from pre‑existing cells"
+      ],
+      "answer": 2,
+      "explanation": "The classical cell theory states that cells arise only from pre‑existing cells; spontaneous generation was disproved.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Who first proposed that all plants are composed of cells?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "answer": 0,
+      "explanation": "Schleiden, in 1838, formulated the plant part of the cell theory, stating that all plants are made of cells.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "The addition of which statement to the original cell theory was made by Rudolf Virchow?",
+      "options": [
+        "All cells arise from pre‑existing cells",
+        "Cells are the basic unit of life",
+        "All organisms are made of cells",
+        "Cells contain a nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Virchow (1855) added the principle that \"Omnis cellula e cellula\" – every cell originates from another cell.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which of the following is considered an exception to the classical cell theory?",
+      "options": [
+        "Bacterial binary fission",
+        "Multinucleated muscle fibers",
+        "Plant cells with cell walls",
+        "Animal cells with lysosomes"
+      ],
+      "answer": 1,
+      "explanation": "Multinucleated muscle fibers (syncytia) arise by nuclear division without cytokinesis, challenging the idea that each cell originates from a single parent cell.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "According to the cell theory, which statement correctly describes the relationship between prokaryotic and eukaryotic cells?",
+      "options": [
+        "Prokaryotes evolved from eukaryotes",
+        "Eukaryotes lack a true nucleus",
+        "Both are cellular units of life",
+        "Only eukaryotes can undergo mitosis"
+      ],
+      "answer": 2,
+      "explanation": "Cell theory applies to all cells, whether prokaryotic or eukaryotic; both are fundamental units of life.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which scientist is credited with coining the term \"cell\" after observing cork tissue?",
+      "options": [
+        "Robert Hooke",
+        "Antonie van Leeuwenhoek",
+        "Matthias Schleiden",
+        "Theodor Schwann"
+      ],
+      "answer": 0,
+      "explanation": "Hooke described the microscopic compartments in cork as \"cells\" in 1665.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "The statement \"All cells arise from pre‑existing cells\" contradicts which outdated concept?",
+      "options": [
+        "Spontaneous generation",
+        "Endosymbiotic theory",
+        "Gene theory",
+        "Theory of inheritance"
+      ],
+      "answer": 0,
+      "explanation": "Spontaneous generation suggested life could arise from non‑living matter, which the cell theory refutes.",
+      "topic": "Cell theory"
+    },
+    {
+      "question": "Which scientist first proposed that plants are composed of a collection of cells?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodor Schwann",
+        "Rudolf Virchow",
+        "Robert Hooke"
+      ],
+      "answer": 0,
+      "explanation": "Schleiden, in 1838, stated that all plants are made up of cells, laying the foundation for the plant part of the cell theory.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "The statement \"All animals are made up of cells\" is attributed to which scientist?",
+      "options": [
+        "Theodor Schwann",
+        "Matthias Schleiden",
+        "Rudolf Virchow",
+        "Gregor Mendel"
+      ],
+      "answer": 0,
+      "explanation": "Schwann extended the cell concept to animals in 1839, asserting that animal bodies are also composed of cells.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "According to Schleiden, plant cells originate from:",
+      "options": [
+        "pre‑existing cells",
+        "de novo from non‑living matter",
+        "the nucleus",
+        "the cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "Schleiden believed that plant cells could arise spontaneously (de novo), a view later corrected by Virchow.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "Schwann introduced which term to describe the organized nature of cells in tissues?",
+      "options": [
+        "Cellular organization",
+        "Cell theory",
+        "Protoplasm",
+        "Tissue"
+      ],
+      "answer": 0,
+      "explanation": "Schwann coined \"cellular organization\" to emphasize that cells are arranged in a definite manner to form tissues.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "Which statement was NOT part of the original cell theory formulated by Schleiden and Schwann?",
+      "options": [
+        "All living organisms are composed of one or more cells",
+        "Cells are the basic unit of structure and function",
+        "All cells arise from pre‑existing cells",
+        "All cells contain a nucleus"
+      ],
+      "answer": 3,
+      "explanation": "The idea that every cell contains a nucleus was not included in the original cell theory; it was a later discovery.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "The combined contributions of Schleiden and Schwann emphasized which relationship between structure and function?",
+      "options": [
+        "Structure determines function",
+        "Function determines structure",
+        "Both are independent",
+        "Neither is related"
+      ],
+      "answer": 0,
+      "explanation": "Their work highlighted that the cellular structure underlies the functional attributes of living organisms.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "What is the most significant legacy of Schleiden and Schwann for modern biology?",
+      "options": [
+        "Establishment of the cell as the basic unit of life",
+        "Disproof of spontaneous generation",
+        "Introduction of DNA as the genetic material",
+        "Formulation of the theory of evolution"
+      ],
+      "answer": 0,
+      "explanation": "Their articulation of the cell theory—recognizing the cell as the fundamental structural and functional unit—remains a cornerstone of biology.",
+      "topic": "Contributions of Schleiden and Schwann"
+    },
+    {
+      "question": "Which Latin phrase is credited to Rudolf Virchow for summarizing his contribution to cell theory?",
+      "options": [
+        "All cells arise from pre-existing cells",
+        "Cells are the basic unit of life",
+        "Cells contain a nucleus",
+        "Cells are indivisible"
+      ],
+      "answer": 0,
+      "explanation": "Virchow coined the phrase \"Omnis cellula e cellula\", meaning all cells arise from pre-existing cells, adding the concept of cell division to the cell theory.",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "Virchow’s addition to the classical cell theory primarily emphasized which biological process?",
+      "options": [
+        "Cell division",
+        "Photosynthesis",
+        "Osmosis",
+        "Protein synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Virchow highlighted that new cells are produced only by the division of existing cells, reinforcing the role of cell division in growth and repair.",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "According to Virchow’s cellular pathology, the origin of most diseases can be traced to:",
+      "options": [
+        "Abnormalities in cells",
+        "Humoral imbalance",
+        "Planetary alignment",
+        "Lack of vital force"
+      ],
+      "answer": 0,
+      "explanation": "Virchow proposed that disease results from structural or functional changes in cells, linking pathology directly to cell biology.",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "In which year did Virchow publish his seminal work introducing the concept that \"all cells arise from pre‑existing cells\"?",
+      "options": [
+        "1855",
+        "1838",
+        "1865",
+        "1845"
+      ],
+      "answer": 0,
+      "explanation": "Virchow presented the idea in 1855 (later expanded in his 1858 book \"Cellular Pathology\").",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "Virchow’s principle directly contradicted which earlier scientific belief?",
+      "options": [
+        "Spontaneous generation",
+        "Biogenesis",
+        "Theory of inheritance",
+        "Theory of evolution"
+      ],
+      "answer": 0,
+      "explanation": "Spontaneous generation claimed life could arise from non‑living matter; Virchow’s statement refuted this by asserting cells arise only from existing cells.",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "What is the most significant impact of Virchow’s contribution on modern biology?",
+      "options": [
+        "It established that cells can arise de novo",
+        "It emphasized that cell division is the basis of growth and repair",
+        "It proved that all organisms are made of protoplasm",
+        "It showed that cells are the smallest unit of heredity"
+      ],
+      "answer": 1,
+      "explanation": "Virchow’s insight that all cells originate from pre‑existing cells underscored the central role of cell division in organismal growth, development, and tissue regeneration.",
+      "topic": "Role of Virchow in cell theory"
+    },
+    {
+      "question": "Which of the following is NOT an exception to the classical cell theory?",
+      "options": [
+        "Viruses",
+        "Multinucleated muscle fibers",
+        "Bacteria lacking cell wall",
+        "Prokaryotic cells"
+      ],
+      "answer": 3,
+      "explanation": "Prokaryotic cells conform to the classical cell theory; they are cellular, have a nucleus‑like region (nucleoid) and arise from pre‑existing cells, unlike the listed exceptions.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "The statement \"All cells arise from pre‑existing cells\" fails to account for which entity?",
+      "options": [
+        "Viruses",
+        "Prions",
+        "Mitochondria",
+        "Chloroplasts"
+      ],
+      "answer": 0,
+      "explanation": "Viruses are acellular and replicate without a parent cell, so they are not covered by the cell‑theory statement.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "Which of the following is an exception to the claim that every cell possesses a nucleus?",
+      "options": [
+        "Mature mammalian erythrocytes",
+        "Neurons",
+        "Plant parenchyma cells",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Mature red blood cells in mammals lose their nucleus during differentiation, whereas neurons and plant parenchyma cells retain nuclei.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "According to the classical cell theory, which of the following is considered non‑living?",
+      "options": [
+        "Viruses",
+        "Bacteria",
+        "Archaea",
+        "Fungi"
+      ],
+      "answer": 0,
+      "explanation": "Classical cell theory defines living entities as cellular; viruses lack cellular organization and are therefore excluded.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "Which phenomenon highlights a limitation of the cell theory statement that a cell is the basic unit of structure and function?",
+      "options": [
+        "Syncytial formation in skeletal muscle",
+        "Presence of plasmodesmata in plant cells",
+        "Endosymbiotic origin of mitochondria",
+        "Presence of cell wall in plants"
+      ],
+      "answer": 0,
+      "explanation": "Syncytial muscle fibers contain many nuclei sharing a common cytoplasm, functioning as a single multinucleated unit, challenging the notion of a single cell as the basic functional unit.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "The classical cell theory does not explain the origin of certain organelles. Which concept addresses this limitation?",
+      "options": [
+        "Endosymbiotic theory",
+        "Cell wall synthesis",
+        "Cytoplasmic streaming",
+        "Plasmolysis"
+      ],
+      "answer": 0,
+      "explanation": "The endosymbiotic theory explains the origin of mitochondria and chloroplasts, which the original cell theory could not account for.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "Which statement reveals a limitation of the cell theory regarding cell size?",
+      "options": [
+        "Some cells (e.g., neurons) can be meters long",
+        "All cells are microscopic",
+        "Cell size is constant across species",
+        "Cell size is independent of surface‑area‑to‑volume ratio"
+      ],
+      "answer": 0,
+      "explanation": "Neurons can extend over a meter, showing that cell size is not universally microscopic and that size constraints vary with function.",
+      "topic": "Exceptions and limitations of classical cell theory"
+    },
+    {
+      "question": "Which of the following is a characteristic exclusive to eukaryotic cells?",
+      "options": [
+        "Presence of ribosomes",
+        "Presence of DNA",
+        "Presence of membrane-bound nucleus",
+        "Presence of plasma membrane"
+      ],
+      "answer": 2,
+      "explanation": "Only eukaryotic cells possess a true nucleus bounded by a nuclear membrane, whereas prokaryotes have a nucleoid region without a membrane.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "In prokaryotes, the site of transcription and translation is:",
+      "options": [
+        "Nucleus",
+        "Cytoplasm",
+        "Mitochondria",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic cells lack a nucleus, so both transcription and translation occur simultaneously in the cytoplasm.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which statement correctly compares the size range of typical prokaryotic and eukaryotic cells?",
+      "options": [
+        "Prokaryotes 1-10 µm, eukaryotes 0.1-1 µm",
+        "Prokaryotes 0.1-5 µm, eukaryotes 10-100 µm",
+        "Prokaryotes 0.2-2 µm, eukaryotes 10-100 µm",
+        "Prokaryotes 10-100 µm, eukaryotes 0.2-2 µm"
+      ],
+      "answer": 2,
+      "explanation": "Typical prokaryotic cells are 0.2–2 µm in diameter, while eukaryotic cells are generally larger, ranging from about 10 to 100 µm.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which organelle is found only in eukaryotic cells and is involved in ATP synthesis through oxidative phosphorylation?",
+      "options": [
+        "Nucleoid",
+        "Chloroplast",
+        "Mitochondrion",
+        "Ribosome"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria are membrane‑bound organelles present only in eukaryotes and carry out oxidative phosphorylation to generate ATP.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "The presence of which structure distinguishes bacterial (prokaryotic) cells from plant (eukaryotic) cells?",
+      "options": [
+        "Cell wall composed of cellulose",
+        "Nucleoid region",
+        "Chloroplasts",
+        "Central vacuole"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial cells contain a nucleoid region where their circular DNA is located, a feature absent in plant cells that have a true nucleus.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which of the following statements about the plasma membrane is true for both prokaryotic and eukaryotic cells?",
+      "options": [
+        "Contains sterols in all organisms",
+        "Is composed of a phospholipid bilayer with embedded proteins",
+        "Has an outer peptidoglycan layer",
+        "Contains mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "Both prokaryotes and eukaryotes have a plasma membrane made of a phospholipid bilayer with integral and peripheral proteins.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "In terms of genetic material organization, prokaryotic cells differ from eukaryotic cells because:",
+      "options": [
+        "Prokaryotes have linear chromosomes",
+        "Eukaryotes have circular DNA",
+        "Prokaryotes lack histone proteins",
+        "Eukaryotes have multiple plasmids"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotic DNA is not associated with histone proteins, whereas eukaryotic DNA is packaged with histones into chromatin.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which of the following is a correct example of a eukaryotic cell that lacks a cell wall?",
+      "options": [
+        "Bacterial cell",
+        "Plant cell",
+        "Animal cell",
+        "Fungal cell"
+      ],
+      "answer": 2,
+      "explanation": "Animal cells are eukaryotic and do not possess a rigid cell wall, unlike plant and fungal cells.",
+      "topic": "Prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of prokaryotic cells?",
+      "options": [
+        "Presence of membrane-bound organelles",
+        "Circular DNA",
+        "Lack of nucleus",
+        "70S ribosomes"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotes lack membrane-bound organelles such as mitochondria and endoplasmic reticulum, which are present only in eukaryotic cells.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "In eukaryotic cells, transcription and translation are separated spatially. Which statement best explains this?",
+      "options": [
+        "mRNA is processed in the nucleus before export to the cytoplasm",
+        "Ribosomes are absent in eukaryotic cells",
+        "DNA exists as a single strand",
+        "Eukaryotic cells lack a cell wall"
+      ],
+      "answer": 0,
+      "explanation": "Eukaryotic nuclei allow mRNA capping, splicing, and polyadenylation before the transcript leaves the nucleus, separating transcription from cytoplasmic translation.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which statement correctly compares the size of ribosomes in prokaryotes and eukaryotes?",
+      "options": [
+        "Prokaryotes have 80S ribosomes",
+        "Eukaryotes have 70S ribosomes",
+        "Prokaryotes have 70S, eukaryotes have 80S",
+        "Both have 70S ribosomes"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotic ribosomes are 70S (30S + 50S), whereas eukaryotic ribosomes are larger, 80S (40S + 60S).",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which component is present in the cell wall of most bacteria (prokaryotes) but absent in plant (eukaryotic) cell walls?",
+      "options": [
+        "Cellulose",
+        "Peptidoglycan",
+        "Lignin",
+        "Pectin"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial cell walls are primarily composed of peptidoglycan, a polymer not found in plant cell walls, which are mainly cellulose.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "The DNA of prokaryotic cells is organized as:",
+      "options": [
+        "Linear chromosomes with multiple origins of replication",
+        "Circular chromosome without histones",
+        "Linear chromosomes with telomeres",
+        "Multiple linear chromosomes"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic genomes are typically a single circular DNA molecule that lacks histone proteins, unlike eukaryotic linear chromosomes.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which of the following is a true statement regarding the presence of introns?",
+      "options": [
+        "Introns are abundant in prokaryotic genes",
+        "Introns are absent in eukaryotic genes",
+        "Introns are common in eukaryotic nuclear genes but rare in prokaryotes",
+        "Both have equal intron content"
+      ],
+      "answer": 2,
+      "explanation": "Eukaryotic nuclear genes frequently contain introns that are removed by splicing, whereas prokaryotic genes generally lack introns.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which statement correctly describes the cytoskeleton in prokaryotes versus eukaryotes?",
+      "options": [
+        "Both have well‑developed microtubules",
+        "Only eukaryotes possess a complex cytoskeleton of microtubules, microfilaments, and intermediate filaments",
+        "Prokaryotes have intermediate filaments",
+        "Cytoskeleton is absent in eukaryotes"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cells contain an elaborate cytoskeleton composed of microtubules, actin filaments, and intermediate filaments; prokaryotes have only rudimentary filamentous structures.",
+      "topic": "Major differences between prokaryotic and eukaryotic cells"
+    },
+    {
+      "question": "Which of the following is present in plant cells but absent in animal cells?",
+      "options": [
+        "Cell wall",
+        "Lysosome",
+        "Centriole",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Plant cells possess a rigid cell wall composed mainly of cellulose, which is absent in animal cells.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "The primary site of photosynthesis in plant cells is:",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts contain thylakoid membranes where the light‑dependent reactions of photosynthesis occur.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "Which organelle is responsible for the synthesis of starch granules in plant cells?",
+      "options": [
+        "Amyloplast",
+        "Ribosome",
+        "Endoplasmic reticulum",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Amyloplasts, a type of plastid, store and synthesize starch in plant cells.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "In animal cells, which structure is essential for formation of the mitotic spindle?",
+      "options": [
+        "Centrioles",
+        "Cell wall",
+        "Large central vacuole",
+        "Chloroplast"
+      ],
+      "answer": 0,
+      "explanation": "Centrioles organize microtubules that form the mitotic spindle during cell division in animal cells.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "Which statement correctly compares the vacuoles of plant and animal cells?",
+      "options": [
+        "Plant cells have a single large central vacuole, animal cells have multiple small vacuoles",
+        "Plant cells have multiple small vacuoles, animal cells have a single large central vacuole",
+        "Both plant and animal cells have a single large central vacuole",
+        "Neither plant nor animal cells possess vacuoles"
+      ],
+      "answer": 0,
+      "explanation": "Plant cells typically contain one large central vacuole, whereas animal cells contain several smaller vacuoles.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "Which of the following is a key distinguishing feature of animal cells regarding the extracellular matrix?",
+      "options": [
+        "Cellulose-rich cell wall",
+        "Glycocalyx",
+        "Plasmodesmata",
+        "Middle lamella"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells are surrounded by a glycocalyx, a carbohydrate‑rich layer, while plant cells have a cellulose cell wall.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "Which statement about plasma membrane composition is true for both plant and animal cells?",
+      "options": [
+        "Contains sterols",
+        "Contains cellulose",
+        "Contains chitin",
+        "Contains peptidoglycan"
+      ],
+      "answer": 0,
+      "explanation": "Both plant and animal plasma membranes incorporate sterols (phytosterols in plants, cholesterol in animals) to modulate fluidity.",
+      "topic": "Plant cells and animal cells"
+    },
+    {
+      "question": "Why are most animal cells limited to a diameter of about 10–100 µm?",
+      "options": [
+        "To maintain a high surface area‑to‑volume ratio for efficient diffusion of nutrients and wastes",
+        "Because larger cells would require more DNA",
+        "To fit within the extracellular matrix",
+        "To avoid excessive heat loss"
+      ],
+      "answer": 0,
+      "explanation": "A high surface area‑to‑volume ratio ensures that diffusion of oxygen, nutrients, and waste products can meet the metabolic needs of the cell; larger diameters would reduce this ratio and limit diffusion efficiency.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "The biconcave disc shape of human erythrocytes primarily helps to:",
+      "options": [
+        "Increase surface area for gas exchange",
+        "Provide structural rigidity",
+        "Store hemoglobin",
+        "Facilitate movement through capillaries"
+      ],
+      "answer": 0,
+      "explanation": "The flattened, biconcave shape maximizes the surface area relative to volume, allowing rapid diffusion of O₂ and CO₂ across the cell membrane.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "In a typical plant cell, the large central vacuole contributes to the cell's shape by:",
+      "options": [
+        "Generating turgor pressure that stretches the cell wall",
+        "Producing chlorophyll",
+        "Storing genetic material",
+        "Facilitating cell division"
+      ],
+      "answer": 0,
+      "explanation": "The central vacuole fills with water, creating turgor pressure that pushes against the rigid cell wall, maintaining the cell’s expanded shape.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which cell type attains the highest surface area‑to‑volume ratio due to the presence of numerous microvilli?",
+      "options": [
+        "Intestinal epithelial cells",
+        "Skeletal muscle fibers",
+        "Neurons",
+        "Red blood cells"
+      ],
+      "answer": 0,
+      "explanation": "Microvilli on intestinal epithelial cells dramatically increase the apical surface area, enhancing nutrient absorption and giving the highest SA/V ratio among the options.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "When a spherical cell doubles its radius, its surface area to volume ratio:",
+      "options": [
+        "Halves",
+        "Remains unchanged",
+        "Doubles",
+        "Increases four‑fold"
+      ],
+      "answer": 0,
+      "explanation": "For a sphere, SA∝r² and V∝r³, so SA/V∝1/r. Doubling the radius reduces the ratio to one‑half of its original value.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Which of the following is NOT a reason for the elongated shape of a typical neuron?",
+      "options": [
+        "To increase surface area for synaptic connections",
+        "To allow rapid transmission of nerve impulses over long distances",
+        "To reduce the metabolic demand per unit volume",
+        "To facilitate transport of organelles along the axon"
+      ],
+      "answer": 2,
+      "explanation": "Elongation increases surface area and allows long‑distance signal transmission, but it does not reduce metabolic demand; in fact, longer axons require active transport and energy.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "Compared with smaller cells, larger cells generally have:",
+      "options": [
+        "Higher metabolic rate per unit volume",
+        "Lower surface area‑to‑volume ratio",
+        "Faster diffusion of nutrients",
+        "Greater efficiency in waste removal"
+      ],
+      "answer": 1,
+      "explanation": "As cell size increases, the surface area grows slower than volume, leading to a lower SA/V ratio, which limits diffusion and reduces metabolic efficiency per unit volume.",
+      "topic": "Cell size and shape"
+    },
+    {
+      "question": "If the linear dimension of a cell is doubled, how does its surface area to volume ratio change?",
+      "options": [
+        "remains the same",
+        "halves",
+        "doubles",
+        "quarters"
+      ],
+      "answer": 1,
+      "explanation": "Surface area ∝ L^2 and volume ∝ L^3, so SA/V ∝ 1/L. Doubling L makes the ratio half of its original value.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "Among the given regular shapes, which has the highest surface area to volume ratio for the same volume?",
+      "options": [
+        "sphere",
+        "cube",
+        "cylinder",
+        "rectangular prism"
+      ],
+      "answer": 1,
+      "explanation": "For a given volume, a sphere has the minimum surface area. A cube therefore possesses a larger SA:V than a sphere, making it the highest among the listed shapes.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "Why do many epithelial cells possess microvilli on their apical surface?",
+      "options": [
+        "to increase volume",
+        "to increase diffusion rate across membrane",
+        "to reduce metabolic demand",
+        "to store nutrients"
+      ],
+      "answer": 1,
+      "explanation": "Microvilli increase the effective surface area, enhancing the rate of exchange of nutrients and waste by diffusion.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "A spherical cell has radius r. Its surface area to volume ratio is given by 3/r. What is the SA:V for r = 5 µm?",
+      "options": [
+        "0.6 µm⁻¹",
+        "0.3 µm⁻¹",
+        "0.15 µm⁻¹",
+        "0.05 µm⁻¹"
+      ],
+      "answer": 0,
+      "explanation": "SA:V = 3/r = 3/5 = 0.6 µm⁻¹.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "Which statement best explains why very large single cells are uncommon in nature?",
+      "options": [
+        "Larger cells have lower SA:V leading to insufficient nutrient uptake",
+        "Larger cells have higher metabolic rate",
+        "Larger cells cannot maintain membrane potential",
+        "Larger cells have more organelles causing crowding"
+      ],
+      "answer": 0,
+      "explanation": "A low SA:V limits the rate at which nutrients and wastes can diffuse across the membrane, making it difficult for large cells to meet metabolic needs.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "During growth, a cell’s volume increases faster than its surface area. Which cellular adaptation helps maintain an adequate SA:V ratio?",
+      "options": [
+        "Cell becomes more spherical",
+        "Cell develops folds and microvilli",
+        "Cell reduces cytoplasmic content",
+        "Cell increases nuclear size"
+      ],
+      "answer": 1,
+      "explanation": "Forming folds, invaginations or microvilli raises the surface area without a proportional increase in volume, preserving efficient exchange.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "For a cylindrical cell where length L is much greater than radius r, the surface area to volume ratio is approximately:",
+      "options": [
+        "2/r",
+        "2/L",
+        "1/(rL)",
+        "4πr/L"
+      ],
+      "answer": 0,
+      "explanation": "Lateral surface area ≈ 2πrL, volume ≈ πr^2L, so SA/V ≈ (2πrL)/(πr^2L)=2/r.",
+      "topic": "Surface area to volume relationship"
+    },
+    {
+      "question": "Which component of the bacterial cell envelope retains the crystal violet‑iodine complex during Gram staining?",
+      "options": [
+        "Peptidoglycan layer",
+        "Outer membrane",
+        "Cytoplasmic membrane",
+        "Lipopolysaccharide"
+      ],
+      "answer": 0,
+      "explanation": "The thick peptidoglycan layer in Gram‑positive bacteria traps the crystal violet‑iodine complex, giving the cells a purple colour after the decolorisation step.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "In plant cells, the primary cell wall is mainly composed of which polysaccharide?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Glycogen"
+      ],
+      "answer": 0,
+      "explanation": "Cellulose microfibrils form the major structural component of the primary cell wall in plants.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "Which statement correctly distinguishes the plasma membrane of animal cells from the cell wall of plant cells?",
+      "options": [
+        "Plasma membrane contains sterols while plant cell wall is composed of peptidoglycan",
+        "Plasma membrane is a phospholipid bilayer whereas plant cell wall is mainly polysaccharide",
+        "Both are composed of phospholipids",
+        "Plant cell wall is impermeable to water"
+      ],
+      "answer": 1,
+      "explanation": "Animal plasma membrane is a phospholipid bilayer with proteins; the plant cell wall is a rigid matrix primarily of polysaccharides such as cellulose.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "The periplasmic space is found in which type of cells?",
+      "options": [
+        "Gram‑positive bacteria",
+        "Gram‑negative bacteria",
+        "Plant cells",
+        "Animal cells"
+      ],
+      "answer": 1,
+      "explanation": "The periplasmic space, located between the inner and outer membranes, is characteristic of Gram‑negative bacteria.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "Which component is unique to the outer membrane of Gram‑negative bacteria?",
+      "options": [
+        "Lipopolysaccharide",
+        "Peptidoglycan",
+        "Teichoic acid",
+        "Cellulose"
+      ],
+      "answer": 0,
+      "explanation": "Lipopolysaccharide (LPS) is present only in the outer leaflet of the outer membrane of Gram‑negative bacteria.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "The rigidity of the bacterial cell wall is primarily due to cross‑linking of which molecules?",
+      "options": [
+        "Peptidoglycan strands",
+        "Phospholipids",
+        "Sterols",
+        "Glycogen"
+      ],
+      "answer": 0,
+      "explanation": "Peptidoglycan consists of glycan chains cross‑linked by short peptides, providing mechanical strength to bacterial cell walls.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "In a hypotonic solution, which cellular structure prevents plant cells from bursting?",
+      "options": [
+        "Central vacuole",
+        "Cell wall",
+        "Plasma membrane",
+        "Nucleus"
+      ],
+      "answer": 1,
+      "explanation": "The rigid cell wall counteracts the osmotic pressure generated in hypotonic environments, preventing lysis of plant cells.",
+      "topic": "Cell envelope"
+    },
+    {
+      "question": "Which statement correctly describes the fluid mosaic model of the plasma membrane?",
+      "options": [
+        "The membrane is a rigid structure with fixed proteins.",
+        "Lipids and proteins are laterally mobile, forming a dynamic structure.",
+        "Carbohydrate chains are embedded within the lipid core.",
+        "Cholesterol is absent in animal cell membranes."
+      ],
+      "answer": 1,
+      "explanation": "The fluid mosaic model states that phospholipids and proteins can move laterally within the bilayer, giving the membrane a dynamic, fluid character.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "The main role of cholesterol in the plasma membrane of animal cells is to:",
+      "options": [
+        "Increase membrane permeability to ions.",
+        "Provide sites for glycosylation.",
+        "Modulate membrane fluidity and stability.",
+        "Act as a channel for glucose transport."
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol intercalates between phospholipid tails, preventing tight packing at low temperatures and restricting movement at high temperatures, thus regulating fluidity.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "Which of the following membrane proteins is most likely to be involved in cell‑cell recognition?",
+      "options": [
+        "Integral channel protein.",
+        "Peripheral enzyme.",
+        "Glycoprotein with extracellular carbohydrate chains.",
+        "Lipid‑anchored protein lacking carbohydrates."
+      ],
+      "answer": 2,
+      "explanation": "Glycoproteins display carbohydrate moieties on the extracellular surface, which serve as specific markers for cell‑cell recognition.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "In a hypotonic solution, water moves into a plant cell. The plasma membrane's role in this process is to:",
+      "options": [
+        "Act as a rigid barrier preventing water entry.",
+        "Facilitate water entry through aquaporins.",
+        "Pump ions out to reduce osmotic pressure.",
+        "Synthesize solutes to balance osmolarity."
+      ],
+      "answer": 1,
+      "explanation": "Aquaporins are channel proteins that allow rapid water movement across the plasma membrane following the osmotic gradient.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "Which of the following best explains the selective permeability of the plasma membrane?",
+      "options": [
+        "Presence of a uniform phospholipid layer that blocks all solutes.",
+        "Specific carrier proteins that allow only certain molecules to cross.",
+        "Random pores formed by cholesterol molecules.",
+        "Fixed channels that allow any ion to pass freely."
+      ],
+      "answer": 1,
+      "explanation": "Selective permeability arises because only particular solutes can pass through specific carrier or channel proteins, while the lipid bilayer blocks most polar molecules.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "The term “hydrophobic core” of the plasma membrane refers to:",
+      "options": [
+        "The extracellular carbohydrate layer.",
+        "The fatty acid tails of phospholipids.",
+        "The polar head groups of phospholipids.",
+        "The embedded integral proteins."
+      ],
+      "answer": 1,
+      "explanation": "The interior of the bilayer consists of the non‑polar fatty‑acid tails, creating a hydrophobic region that restricts passage of polar substances.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "Which process requires energy directly from ATP hydrolysis to move substances against their concentration gradient across the plasma membrane?",
+      "options": [
+        "Facilitated diffusion.",
+        "Simple diffusion.",
+        "Primary active transport.",
+        "Osmosis."
+      ],
+      "answer": 2,
+      "explanation": "Primary active transport uses ATP‑driven pumps (e.g., Na⁺/K⁺‑ATPase) to transport ions or molecules against their electrochemical gradients.",
+      "topic": "Plasma membrane overview"
+    },
+    {
+      "question": "Which polysaccharide in the primary cell wall primarily provides tensile strength to plant cells?",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Hemicellulose",
+        "Lignin"
+      ],
+      "answer": 0,
+      "explanation": "Cellulose microfibrils form a rigid network that bears most of the tensile load in the primary wall.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "The secondary cell wall differs from the primary cell wall mainly by the presence of which polymer that imparts rigidity and water impermeability?",
+      "options": [
+        "Cellulose",
+        "Lignin",
+        "Pectin",
+        "Chitin"
+      ],
+      "answer": 1,
+      "explanation": "Lignin is deposited in the secondary wall, making it rigid, hydrophobic and resistant to microbial attack.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "The middle lamella, which glues adjacent plant cells together, is richest in which substance?",
+      "options": [
+        "Cellulose",
+        "Pectin",
+        "Hemicellulose",
+        "Proteins"
+      ],
+      "answer": 1,
+      "explanation": "The middle lamella is composed mainly of pectic polysaccharides, especially homogalacturonan, which cement cells together.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "Plasmodesmata are microscopic channels that traverse the cell wall. Their primary function is to:",
+      "options": [
+        "Provide mechanical support",
+        "Facilitate intercellular transport of small molecules and signaling molecules",
+        "Synthesize cellulose",
+        "Store starch"
+      ],
+      "answer": 1,
+      "explanation": "Plasmodesmata allow the movement of nutrients, hormones and signaling molecules between neighboring plant cells.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "Which component is a characteristic feature of fungal cell walls but absent in plant cell walls?",
+      "options": [
+        "Cellulose",
+        "Lignin",
+        "Chitin",
+        "Pectin"
+      ],
+      "answer": 2,
+      "explanation": "Fungal cell walls contain chitin, a β‑1,4‑linked N‑acetylglucosamine polymer, which is not found in plant walls.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "Which of the following statements about the plant cell wall is FALSE?",
+      "options": [
+        "It is composed mainly of cellulose, hemicellulose and pectin",
+        "It is permeable to gases and water",
+        "It contains a high amount of cholesterol",
+        "It provides structural support to the cell"
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol is a membrane sterol; plant cell walls do not contain significant cholesterol.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "During cell growth, the primary cell wall must be flexible. Which of the following modifications allows this flexibility?",
+      "options": [
+        "Deposition of lignin",
+        "Cross‑linking of pectin by calcium ions",
+        "Incorporation of expansins that loosen cellulose‑hemicellulose bonds",
+        "Formation of secondary wall"
+      ],
+      "answer": 2,
+      "explanation": "Expansins disrupt hydrogen bonding between cellulose and hemicellulose, permitting wall extension during growth.",
+      "topic": "Cell wall overview"
+    },
+    {
+      "question": "Which statement correctly describes the cytoplasm?",
+      "options": [
+        "It includes only the organelles, excluding the fluid matrix.",
+        "It is the region between the plasma membrane and the nuclear envelope, consisting of cytosol and organelles.",
+        "It is the same as the nucleoplasm.",
+        "It contains only the cytoskeleton."
+      ],
+      "answer": 1,
+      "explanation": "The cytoplasm comprises the cytosol (fluid matrix) together with all organelles, situated between the plasma membrane and the nuclear envelope.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "In plant cells, the large central vacuole occupies most of the cytoplasmic space. What is the primary function of the cytoplasm surrounding the vacuole?",
+      "options": [
+        "Storage of pigments.",
+        "Site of photosynthesis.",
+        "Site of metabolic activities and synthesis of macromolecules.",
+        "Generation of turgor pressure."
+      ],
+      "answer": 2,
+      "explanation": "The peripheral cytoplasm contains enzymes, ribosomes, and other organelles where most metabolic processes and macromolecule synthesis occur.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Cytoplasmic streaming (cyclosis) in plant cells is primarily facilitated by which component?",
+      "options": [
+        "Microtubules.",
+        "Actin filaments and myosin motors.",
+        "Intermediate filaments.",
+        "Endoplasmic reticulum."
+      ],
+      "answer": 1,
+      "explanation": "Actin filaments interacting with myosin motor proteins generate the directed flow of cytoplasm observed as streaming.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which of the following is NOT a typical inclusion found in the cytoplasm of animal cells?",
+      "options": [
+        "Glycogen granules.",
+        "Lipid droplets.",
+        "Chloroplasts.",
+        "Ribosomes."
+      ],
+      "answer": 2,
+      "explanation": "Chloroplasts are photosynthetic organelles present only in plant and algal cells, not in animal cell cytoplasm.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "The viscosity of the cytoplasm is mainly due to:",
+      "options": [
+        "High concentration of water only.",
+        "Presence of cytoskeletal proteins and macromolecular crowding.",
+        "Presence of plasma membrane lipids.",
+        "Nucleic acids in the nucleus."
+      ],
+      "answer": 1,
+      "explanation": "Cytoplasmic viscosity arises from a crowded environment of proteins, cytoskeletal filaments, and other macromolecules, not merely water.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "During cytokinesis in animal cells, the contractile ring is formed just beneath the plasma membrane. Which cytoplasmic component provides the force for cleavage furrow formation?",
+      "options": [
+        "Microtubules of the mitotic spindle.",
+        "Actin filaments and myosin II.",
+        "Intermediate filaments.",
+        "Golgi vesicles."
+      ],
+      "answer": 1,
+      "explanation": "The contractile ring consists of actin filaments and myosin II, whose interaction generates the constriction that pinches the cell.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which best explains why many enzymatic reactions occur in the cytoplasm rather than in membrane‑bound organelles?",
+      "options": [
+        "Cytoplasm has a higher pH than organelles.",
+        "Cytoplasm provides a homogeneous aqueous environment facilitating diffusion of substrates.",
+        "Cytoplasm lacks enzymes, so reactions are forced there.",
+        "Cytoplasm is isolated from the nucleus."
+      ],
+      "answer": 1,
+      "explanation": "The cytoplasm’s aqueous, relatively uniform environment allows substrates to diffuse readily, making it suitable for numerous metabolic reactions.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which statement correctly describes the nuclear envelope in eukaryotic cells?",
+      "options": [
+        "It is a single phospholipid bilayer continuous with the plasma membrane",
+        "It is a double phospholipid bilayer continuous with the rough endoplasmic reticulum",
+        "It is a single phospholipid bilayer containing embedded chloroplasts",
+        "It is a double phospholipid bilayer that is isolated from all other organelles"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope consists of two concentric phospholipid membranes that are continuous with the membrane of the rough endoplasmic reticulum, allowing exchange of lipids and proteins.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "The nucleolus within the nucleus is primarily the site of:",
+      "options": [
+        "DNA replication",
+        "Ribosomal RNA synthesis and ribosome assembly",
+        "Lipid synthesis",
+        "Protein folding"
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus is the region where rRNA genes are transcribed, processed, and assembled with ribosomal proteins to form ribosomal subunits.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "In interphase nuclei, the densely staining chromatin observed under a microscope is called:",
+      "options": [
+        "Euchromatin",
+        "Heterochromatin",
+        "Nucleoplasm",
+        "Nucleolus"
+      ],
+      "answer": 1,
+      "explanation": "Heterochromatin is tightly packed chromatin that stains darkly and is generally transcriptionally inactive, unlike loosely packed euchromatin.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "Nuclear pore complexes primarily function to:",
+      "options": [
+        "Allow free diffusion of all macromolecules",
+        "Permit selective transport of molecules larger than ~40 kDa",
+        "Export only proteins from the nucleus",
+        "Import only DNA into the nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Nuclear pores regulate the bidirectional movement of macromolecules, allowing selective passage of proteins, RNAs, and ribonucleoprotein particles larger than ~40 kDa.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "During mitosis in animal cells, the nuclear envelope:",
+      "options": [
+        "Remains intact throughout cell division",
+        "Disassembles into vesicles and reassembles later",
+        "Fuses with the plasma membrane",
+        "Transforms into a single membrane"
+      ],
+      "answer": 1,
+      "explanation": "In prometaphase of animal cell mitosis, the nuclear envelope breaks down into vesicles, allowing spindle fibers to interact with chromosomes; it reassembles during telophase.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "Which of the following is NOT a function of the nucleus?",
+      "options": [
+        "Transcription of DNA to mRNA",
+        "DNA replication",
+        "Synthesis of ATP",
+        "Ribosome biogenesis"
+      ],
+      "answer": 2,
+      "explanation": "ATP synthesis occurs mainly in mitochondria (and chloroplasts in plants), not in the nucleus.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "The nuclear lamina is mainly composed of:",
+      "options": [
+        "Microtubules",
+        "Intermediate filament proteins called lamins",
+        "Actin filaments",
+        "Collagen fibers"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear lamina is a dense fibrillar network of lamin proteins, a type of intermediate filament, providing structural support to the nuclear envelope.",
+      "topic": "Nucleus overview"
+    },
+    {
+      "question": "Which organelle is the primary site of ATP synthesis in eukaryotic cells?",
+      "options": [
+        "Nucleus",
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Lysosome"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria generate ATP through oxidative phosphorylation, the main energy‑producing process in eukaryotic cells.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "In plant cells, the organelle responsible for photosynthesis contains its own DNA and ribosomes. Which organelle is this?",
+      "options": [
+        "Chloroplast",
+        "Endoplasmic reticulum",
+        "Peroxisome",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts have a double membrane, internal thylakoid stacks, and their own genome, enabling them to conduct photosynthesis.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "Which statement about the rough endoplasmic reticulum (RER) is correct?",
+      "options": [
+        "It is studded with ribosomes and synthesizes secretory proteins",
+        "It modifies lipids exclusively",
+        "It is the site of ATP production",
+        "It stores calcium ions"
+      ],
+      "answer": 0,
+      "explanation": "RER bears ribosomes on its cytoplasmic surface, making it the major site for synthesis of proteins destined for secretion or membrane insertion.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "The Golgi apparatus primarily functions in:",
+      "options": [
+        "Protein synthesis",
+        "Lipid degradation",
+        "Modification, sorting and packaging of proteins",
+        "DNA replication"
+      ],
+      "answer": 2,
+      "explanation": "Golgi stacks receive proteins from the ER, modify them (e.g., glycosylation), and sort them into vesicles for transport to their final destinations.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "Which organelle detoxifies hydrogen peroxide in plant cells?",
+      "options": [
+        "Peroxisome",
+        "Mitochondrion",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "answer": 0,
+      "explanation": "Peroxisomes contain catalase, which converts toxic H₂O₂ into water and oxygen, protecting the cell from oxidative damage.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "The presence of which organelle distinguishes most animal cells from plant cells?",
+      "options": [
+        "Central vacuole",
+        "Chloroplast",
+        "Lysosome",
+        "Cell wall"
+      ],
+      "answer": 2,
+      "explanation": "Lysosomes, containing hydrolytic enzymes, are abundant in animal cells, whereas they are rare or absent in typical plant cells.",
+      "topic": "Cell organelles overview"
+    },
+    {
+      "question": "Which organelle is directly continuous with the nuclear envelope?",
+      "options": [
+        "Rough endoplasmic reticulum",
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondrion"
+      ],
+      "answer": 0,
+      "explanation": "The outer membrane of the nuclear envelope is continuous with the membrane of the rough ER, allowing direct transfer of materials.",
+      "topic": "Cell organelles overview"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 17,
+    "mcqCount": 119
+  }
+}

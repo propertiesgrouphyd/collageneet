@@ -1,0 +1,704 @@
+{
+  "day": 8,
+  "courseDate": "2026-09-06",
+  "publishAt": "2026-09-06T06:00:00+05:30",
+  "title": "Day 8: Structural Organisation in Animals – Animal Tissues and Body Organization",
+  "introduction": "This lesson covers the four major animal tissue types, their sub‑categories, and how they combine to form organs, organ systems and the overall body organization. Emphasis is on NCERT‑aligned definitions, locations, functions and NEET‑focused comparisons.",
+  "sections": [
+    {
+      "topic": "Animal tissues",
+      "heading": "Overview of Animal Tissues",
+      "content": "Animal tissues are groups of similar cells performing a specific function. The four major types are epithelial, connective, muscular and neural tissues. Each type differs in cell shape, extracellular matrix, vascularity and control mechanisms, which are crucial for NEET diagram‑based questions.",
+      "keyPoints": [
+        "Four major tissue types: epithelial, connective, muscular, neural",
+        "Tissues are the intermediate level between cells and organs",
+        "Cellularity, matrix, vascularity vary among tissue types"
+      ],
+      "neetTips": [
+        "Memorise the four tissue categories and their primary functions for quick elimination in MCQs",
+        "Link each tissue type to its characteristic NCERT diagram (e.g., simple squamous epithelium lining alveoli)"
+      ]
+    },
+    {
+      "topic": "Epithelial tissue",
+      "heading": "Structure, Types and Functions of Epithelial Tissue",
+      "content": "Epithelial tissue forms protective linings and functional surfaces. It is classified by cell layers (simple = one layer, compound = multiple layers) and cell shape (squamous, cuboidal, columnar). Specialized forms include ciliated epithelium (movement of particles) and glandular epithelium (secretion).",
+      "keyPoints": [
+        "Simple epithelium: single layer; compound epithelium: multiple layers",
+        "Squamous – flat; cuboidal – cube‑shaped; columnar – tall",
+        "Ciliated epithelium lines respiratory tract; glandular epithelium forms glands"
+      ],
+      "neetTips": [
+        "Remember location‑function pairs: simple squamous – diffusion (alveoli), simple cuboidal – secretion/absorption (renal tubules)",
+        "Ciliated epithelium = movement of mucus; glandular = secretion – useful for diagram labeling"
+      ]
+    },
+    {
+      "topic": "Connective tissue",
+      "heading": "Diversity and Functions of Connective Tissue",
+      "content": "Connective tissue supports, binds and protects other tissues. It consists of cells (fibroblasts, adipocytes, chondrocytes, osteocytes, blood cells) and an extracellular matrix (fibres and ground substance). Major subtypes are areolar (loose), adipose (fat storage), dense (tensile strength), cartilage (flexible support), bone (rigid support) and blood (fluid connective tissue).",
+      "keyPoints": [
+        "Areolar – loose, flexible, surrounds organs",
+        "Adipose – stores fat, insulates",
+        "Dense – parallel (tendons) or irregular (dermis)",
+        "Cartilage – hyaline, fibro, elastic; avascular",
+        "Bone – calcified matrix, osteocytes in lacunae",
+        "Blood – cells suspended in plasma"
+      ],
+      "neetTips": [
+        "Compare matrix density: areolar (least) → dense (most) for quick MCQ matching",
+        "Link NCERT examples: hyaline cartilage in fetal ribs, compact bone in femur"
+      ]
+    },
+    {
+      "topic": "Muscular tissue",
+      "heading": "Types and Characteristics of Muscular Tissue",
+      "content": "Muscular tissue generates movement. Three types exist: striated (skeletal) muscle – voluntary, multinucleated, long cylindrical fibers with peripheral nuclei; smooth muscle – involuntary, spindle‑shaped cells with central nuclei, found in walls of hollow organs; cardiac muscle – involuntary, branched, intercalated discs, single nucleus per cell, found only in heart.",
+      "keyPoints": [
+        "Striated muscle: voluntary, attached to skeleton",
+        "Smooth muscle: involuntary, non‑striated, regulates lumen diameter",
+        "Cardiac muscle: involuntary, striated, intercalated discs for synchronized contraction"
+      ],
+      "neetTips": [
+        "NEET tip: Identify control (voluntary vs involuntary) and nucleus position to differentiate muscle types"
+      ]
+    },
+    {
+      "topic": "Neural tissue",
+      "heading": "Neuron Structure and Function of Neural Tissue",
+      "content": "Neural tissue comprises neurons and neuroglia. A typical neuron has a cell body (soma) containing nucleus, dendrites for receiving signals, and an axon for transmitting impulses. Neuroglia support, nourish and insulate neurons. Functionally, neural tissue conducts electrical impulses, processes information and coordinates responses.",
+      "keyPoints": [
+        "Neuron parts: soma, dendrites, axon, myelin sheath",
+        "Neuroglia types: astrocytes, oligodendrocytes, Schwann cells, microglia",
+        "Function: impulse generation, transmission, integration"
+      ],
+      "neetTips": [
+        "For NEET, focus on the direction of impulse flow: dendrites → soma → axon → synapse"
+      ]
+    },
+    {
+      "topic": "Organ and organ systems",
+      "heading": "From Tissues to Organs and Systems",
+      "content": "An organ is a structure composed of two or more tissue types performing a specific function (e.g., stomach – epithelial lining, connective wall, muscular layer, neural plexus). Organ systems are groups of organs that work together, such as the digestive system (mouth, esophagus, stomach, intestines).",
+      "keyPoints": [
+        "Organ = multiple tissue types integrated for a function",
+        "Organ system = collection of organs with a common physiological goal"
+      ],
+      "neetTips": [
+        "Recall NCERT organ examples to quickly map tissue types during diagram questions"
+      ]
+    },
+    {
+      "topic": "Animal body organisation",
+      "heading": "Hierarchical Organization of the Animal Body",
+      "content": "The animal body is organized hierarchically: cells → tissues → organs → organ systems → organism. This progression reflects increasing structural complexity and functional integration, a concept frequently tested in NEET through flow‑chart or labeling questions.",
+      "keyPoints": [
+        "Levels: cell → tissue → organ → system → organism",
+        "Each higher level exhibits emergent properties not present at lower levels"
+      ],
+      "neetTips": [
+        "When faced with a hierarchy question, start from the given level and work upward or downward using known examples"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand the structure, location and functions of major animal tissues.",
+    "Distinguish epithelial, connective, muscular and neural tissues using NEET‑relevant characteristics."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT a characteristic of simple squamous epithelium?",
+      "options": [
+        "Thin for diffusion",
+        "Multiple layers of cells",
+        "Flat cells with a centrally placed nucleus",
+        "Lines the alveoli of lungs"
+      ],
+      "answer": 1,
+      "explanation": "Simple squamous epithelium is a single layer of flat cells; having multiple layers describes stratified epithelium.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which connective tissue is rich in elastic fibers and provides elasticity to structures such as the walls of large arteries?",
+      "options": [
+        "Areolar tissue",
+        "Elastic cartilage",
+        "Dense regular connective tissue",
+        "Adipose tissue"
+      ],
+      "answer": 0,
+      "explanation": "Areolar tissue contains abundant elastic fibers that allow stretch and recoil, important in arterial walls.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which muscle type is under involuntary control and shows transverse striations?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle is involuntary and striated, unlike skeletal (voluntary) and smooth (non‑striated) muscles.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "The cell body (soma) of a neuron contains which organelle that is essential for protein synthesis?",
+      "options": [
+        "Nucleus",
+        "Myelin sheath",
+        "Axon hillock",
+        "Synaptic vesicle"
+      ],
+      "answer": 0,
+      "explanation": "The nucleus houses DNA and directs protein synthesis needed for neuronal function.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which epithelial tissue lines the gastrointestinal tract and possesses microvilli to increase absorption?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple columnar epithelium",
+        "Stratified cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Simple columnar epithelium lines the gut; its apical surface bears microvilli that enlarge surface area for absorption.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which statement about dense regular connective tissue is correct?",
+      "options": [
+        "Contains many fibroblasts and abundant ground substance",
+        "Provides flexibility to the skin",
+        "Collagen fibers are arranged parallel to each other",
+        "Found in bone marrow"
+      ],
+      "answer": 2,
+      "explanation": "In dense regular connective tissue, collagen fibers run parallel, giving great tensile strength in one direction, as seen in tendons.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which function is unique to adipose tissue among connective tissues?",
+      "options": [
+        "Support skeletal muscles",
+        "Store fat as energy reserve",
+        "Produce blood cells",
+        "Provide elasticity"
+      ],
+      "answer": 1,
+      "explanation": "Adipose tissue specializes in storing triglycerides; other connective tissues do not perform this function.",
+      "topic": "Animal tissues"
+    },
+    {
+      "question": "Which type of epithelium lines the alveoli of the lungs and is best suited for gas diffusion?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar walls are composed of a single thin layer of cells – simple squamous epithelium – allowing rapid diffusion of gases.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "The epithelium that lines most of the respiratory tract, secretes mucus and possesses motile cilia, is:",
+      "options": [
+        "Simple columnar epithelium",
+        "Pseudostratified columnar ciliated epithelium",
+        "Stratified cuboidal epithelium",
+        "Simple squamous epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The respiratory tract is lined by pseudostratified columnar epithelium with goblet cells and cilia, facilitating mucus transport.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes simple from stratified epithelium?",
+      "options": [
+        "Simple epithelium has a single cell layer, whereas stratified epithelium has multiple layers",
+        "Simple epithelipe is always keratinized",
+        "Stratified epithelium is found only in the intestinal lining",
+        "Simple epithelium always lines body cavities"
+      ],
+      "answer": 0,
+      "explanation": "Simple epithelium consists of one cell layer; stratified epithelium consists of two or more layers, providing greater protection.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "The ducts of most exocrine glands, such as the pancreas, are lined by which epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Exocrine gland ducts are typically lined by simple cuboidal epithelium, which offers secretion and some protection.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which epithelial type forms the outermost layer of the skin?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified cuboidal epithelium",
+        "Stratified squamous keratinized epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "The epidermis consists of keratinized stratified squamous epithelium, providing a tough, water‑impermeable barrier.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Reabsorption in the proximal convoluted tubule of the nephron is performed by which epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Stratified squamous epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The proximal tubule is lined by simple cuboidal epithelium with abundant microvilli to increase surface area for reabsorption.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of epithelial tissue?",
+      "options": [
+        "Avascular nature",
+        "High regenerative capacity",
+        "Presence of a basement membrane",
+        "Abundant blood vessels within the tissue"
+      ],
+      "answer": 3,
+      "explanation": "Epithelial tissue is avascular; nutrients diffuse from underlying connective tissue, so it does not contain abundant blood vessels.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which connective tissue type is characterized by abundant ground substance, few fibers, and functions as a packing material under epithelia?",
+      "options": [
+        "Areolar tissue",
+        "Adipose tissue",
+        "Dense regular connective tissue",
+        "Hyaline cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Areolar tissue has a loose arrangement of fibers in a gelatinous ground substance, making it an ideal packing material beneath epithelial layers.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "The primary cell type responsible for the synthesis of collagen fibers in most connective tissues is:",
+      "options": [
+        "Fibroblasts",
+        "Chondrocytes",
+        "Osteocytes",
+        "Adipocytes"
+      ],
+      "answer": 0,
+      "explanation": "Fibroblasts are the principal cells that produce collagen and other extracellular matrix components in most connective tissues.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which of the following connective tissues is avascular and receives nutrients by diffusion from surrounding tissues?",
+      "options": [
+        "Bone",
+        "Blood",
+        "Hyaline cartilage",
+        "Dense regular connective tissue"
+      ],
+      "answer": 2,
+      "explanation": "Hyaline cartilage lacks blood vessels; nutrients diffuse through its dense extracellular matrix from surrounding perichondrium.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "In which connective tissue type are adipocytes the predominant cell type and the tissue functions in insulation and energy storage?",
+      "options": [
+        "Areolar tissue",
+        "Adipose tissue",
+        "Dense irregular connective tissue",
+        "Elastic cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Adipose tissue is composed mainly of adipocytes, which store triglycerides and provide thermal insulation.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which type of collagen fibers are most abundant in dense regular connective tissue and provide tensile strength in one direction?",
+      "options": [
+        "Reticular fibers",
+        "Elastic fibers",
+        "Type I collagen fibers",
+        "Type III collagen fibers"
+      ],
+      "answer": 2,
+      "explanation": "Type I collagen fibers are thick, strong fibers that are densely packed parallel to each other in dense regular connective tissue, giving unidirectional tensile strength.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "The periosteum is a dense irregular connective tissue that covers bone. Which component of this tissue contributes most to its resistance to multidirectional stress?",
+      "options": [
+        "Parallel collagen bundles",
+        "Randomly oriented collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers"
+      ],
+      "answer": 1,
+      "explanation": "Dense irregular connective tissue contains collagen fibers arranged in multiple directions, allowing it to resist stresses from various angles.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes blood from other connective tissues?",
+      "options": [
+        "It contains fibroblasts as its main cell type",
+        "It has a solid extracellular matrix",
+        "It is a fluid connective tissue with cells suspended in plasma",
+        "It is avascular and contains abundant collagen fibers"
+      ],
+      "answer": 2,
+      "explanation": "Blood is a fluid connective tissue; its cells (erythrocytes, leukocytes, platelets) are suspended in the liquid extracellular matrix called plasma.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which type of muscular tissue is under involuntary control and typically has a single centrally located nucleus?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Striated muscle"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle is involuntary, non‑striated and its cells usually contain a single centrally placed nucleus.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Intercalated discs, which contain gap junctions and desmosomes, are a distinctive feature of which muscle type?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All three muscle types"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs are specialized junctions found only in cardiac muscle, allowing rapid electrical coupling between cells.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "The basic contractile unit of a skeletal muscle fibre is called the:",
+      "options": [
+        "Myofibril",
+        "Sarcomere",
+        "Myofilament",
+        "Myosin filament"
+      ],
+      "answer": 1,
+      "explanation": "A sarcomere is the repeating unit between two Z‑lines within a myofibril and is the fundamental contractile element of skeletal muscle.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which regulatory protein directly binds calcium ions to initiate contraction in skeletal muscle?",
+      "options": [
+        "Troponin",
+        "Tropomyosin",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Calcium binds to the troponin complex, causing a conformational change that moves tropomyosin and exposes the myosin‑binding sites on actin.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which statement about cardiac muscle is FALSE?",
+      "options": [
+        "It exhibits transverse striations",
+        "It possesses intercalated discs",
+        "Its fibres are multinucleated",
+        "It contracts rhythmically without neural stimulation"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle fibres are typically uninucleated; multinucleation is a characteristic of skeletal muscle fibres.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "The muscle fibre type that is highly fatigue‑resistant, rich in mitochondria and myoglobin, and primarily uses oxidative metabolism is:",
+      "options": [
+        "Type I slow‑oxidative fibers",
+        "Type II fast‑glycolytic fibers",
+        "Type IIa intermediate fibers",
+        "Type III fibers"
+      ],
+      "answer": 0,
+      "explanation": "Type I slow‑oxidative (slow‑twitch) fibres have abundant mitochondria, high myoglobin content and rely on aerobic metabolism, making them fatigue resistant.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "In smooth muscle, an increase in which intracellular ion most directly triggers contraction?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Potassium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "Elevated intracellular Ca²⁺ binds to calmodulin, activating myosin light‑chain kinase and leading to smooth muscle contraction.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which of the following is NOT a function of neuroglial cells in the central nervous system?",
+      "options": [
+        "Myelination of axons",
+        "Forming the blood‑brain barrier",
+        "Generating action potentials",
+        "Providing structural support"
+      ],
+      "answer": 2,
+      "explanation": "Neuroglial cells support, myelinate, and help form the BBB, but they do not generate action potentials; that is a neuronal function.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "The part of a neuron that primarily receives synaptic inputs is the:",
+      "options": [
+        "Dendrite",
+        "Axon hillock",
+        "Axon terminal",
+        "Myelin sheath"
+      ],
+      "answer": 0,
+      "explanation": "Dendrites contain receptors and receive neurotransmitter signals from other neurons.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "Which type of neuron transmits impulses from the central nervous system to skeletal muscles?",
+      "options": [
+        "Sensory neuron",
+        "Interneuron",
+        "Motor neuron",
+        "Bipolar neuron"
+      ],
+      "answer": 2,
+      "explanation": "Motor (efferent) neurons carry signals from CNS to effectors such as skeletal muscles.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "In the peripheral nervous system, the myelin sheath surrounding axons is produced by:",
+      "options": [
+        "Oligodendrocytes",
+        "Schwann cells",
+        "Astrocytes",
+        "Microglia"
+      ],
+      "answer": 1,
+      "explanation": "Schwann cells wrap around peripheral axons to form the myelin sheath, whereas oligodendrocytes perform this role in the CNS.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "The typical width of the synaptic cleft between a presynaptic terminal and a postsynaptic membrane is:",
+      "options": [
+        "20–40 nm",
+        "200–400 nm",
+        "2–4 µm",
+        "0.2–0.4 µm"
+      ],
+      "answer": 0,
+      "explanation": "The synaptic cleft is a narrow extracellular gap of about 20–40 nanometres, allowing neurotransmitter diffusion.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "Which statement about the blood‑brain barrier (BBB) is correct?",
+      "options": [
+        "It is formed by endothelial cells with tight junctions",
+        "It allows free passage of large plasma proteins",
+        "It is absent in the spinal cord",
+        "It consists mainly of astrocyte processes without endothelial contribution"
+      ],
+      "answer": 0,
+      "explanation": "The BBB is created by tightly joined endothelial cells of cerebral capillaries, restricting passage of many substances.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "The resting membrane potential of a typical neuron is approximately:",
+      "options": [
+        "-30 mV",
+        "-70 mV",
+        "+30 mV",
+        "0 mV"
+      ],
+      "answer": 1,
+      "explanation": "Neurons maintain a resting potential of about –70 mV due to ion distribution and membrane permeability.",
+      "topic": "Neural tissue"
+    },
+    {
+      "question": "Which organ is not part of the human digestive system?",
+      "options": [
+        "Stomach",
+        "Liver",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 3,
+      "explanation": "The spleen is part of the lymphatic system and does not participate in digestion, unlike the stomach, liver, and pancreas which are digestive organs.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "The functional unit of the kidney is the:",
+      "options": [
+        "Nephron",
+        "Alveolus",
+        "Glomerulus",
+        "Loop of Henle"
+      ],
+      "answer": 0,
+      "explanation": "A nephron, comprising the glomerulus, tubules, and associated structures, performs the filtration and reabsorption processes of the kidney.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "Which statement about the heart is false?",
+      "options": [
+        "It has four chambers",
+        "It pumps blood through pulmonary and systemic circuits",
+        "It contains skeletal muscle fibers",
+        "It has an atrioventricular node"
+      ],
+      "answer": 2,
+      "explanation": "The heart is composed of cardiac muscle, not skeletal muscle; the other statements are true.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "In the respiratory system, gas exchange occurs across which type of epithelium?",
+      "options": [
+        "Simple squamous",
+        "Stratified cuboidal",
+        "Pseudostratified columnar",
+        "Transitional"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar walls are lined by simple squamous epithelium, providing a thin barrier for efficient diffusion of gases.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "Which organ system primarily regulates body temperature?",
+      "options": [
+        "Integumentary",
+        "Nervous",
+        "Endocrine",
+        "Muscular"
+      ],
+      "answer": 0,
+      "explanation": "The integumentary system, through sweat glands and vasodilation/vasoconstriction of skin blood vessels, maintains thermal homeostasis.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "The male reproductive organ that produces sperm and testosterone is:",
+      "options": [
+        "Prostate gland",
+        "Testis",
+        "Epididymis",
+        "Seminal vesicle"
+      ],
+      "answer": 1,
+      "explanation": "The testes contain seminiferous tubules for spermatogenesis and Leydig cells that synthesize testosterone.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "Which of the following correctly matches an organ with its associated epithelial tissue type?",
+      "options": [
+        "Lungs – Simple squamous epithelium",
+        "Stomach – Stratified squamous epithelium",
+        "Skin – Simple columnar epithelium",
+        "Heart – Simple cuboidal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar surfaces of the lungs are lined by simple squamous epithelium, facilitating rapid gas diffusion; the other pairings are incorrect.",
+      "topic": "Organ and organ systems"
+    },
+    {
+      "question": "Which of the following correctly pairs a tissue type with its typical location in the human body?",
+      "options": [
+        "Simple squamous epithelium – alveolar walls",
+        "Stratified cuboidal epithelium – epidermis",
+        "Dense regular connective tissue – myocardium",
+        "Adipose tissue – articular cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium forms the thin lining of alveoli to facilitate gas exchange, whereas the other pairings are incorrect.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "In the organization of animal bodies, the sequence from simplest to most complex is: cell → ____ → ____ → ____.",
+      "options": [
+        "Tissue, organ, organ system",
+        "Organ, tissue, organ system",
+        "Organ system, organ, tissue",
+        "Tissue, organ system, organ"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchical organization proceeds from cells forming tissues, tissues forming organs, and organs forming organ systems.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "Which organ system is primarily responsible for the transport of nutrients, gases, and waste products in mammals?",
+      "options": [
+        "Digestive system",
+        "Respiratory system",
+        "Circulatory system",
+        "Excretory system"
+      ],
+      "answer": 2,
+      "explanation": "The circulatory system, comprising the heart and blood vessels, distributes nutrients, oxygen, and removes metabolic wastes.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "The muscular tissue that is under involuntary control, striated and found only in the heart is:",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Myocardial connective tissue"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle is striated, involuntary, and exclusive to the heart, enabling rhythmic contraction.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "Which statement about neural tissue is incorrect?",
+      "options": [
+        "Neurons are excitable cells that generate action potentials.",
+        "Neuroglial cells outnumber neurons in the CNS.",
+        "Myelination in the peripheral nervous system is performed by Schwann cells.",
+        "Action potentials propagate only in one direction along the axon due to the presence of dendrites at both ends."
+      ],
+      "answer": 3,
+      "explanation": "Action potentials travel unidirectionally because of the refractory period, not because dendrites are present at both ends; dendrites receive signals, not propagate them.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "In the human body, the type of connective tissue that provides a flexible yet strong support to the trachea is:",
+      "options": [
+        "Areolar tissue",
+        "Hyaline cartilage",
+        "Dense regular connective tissue",
+        "Adipose tissue"
+      ],
+      "answer": 1,
+      "explanation": "Hyaline cartilage forms the rings of the trachea, giving it rigidity while maintaining flexibility.",
+      "topic": "Animal body organisation"
+    },
+    {
+      "question": "Which of the following best describes the difference between open and closed circulatory systems in animals?",
+      "options": [
+        "Open systems have a heart, closed systems do not.",
+        "In open systems, blood is confined to vessels; in closed systems, it bathes organs directly.",
+        "Closed systems have blood contained within vessels, while open systems allow blood to mix with interstitial fluid in sinuses.",
+        "Open systems are found only in vertebrates, closed systems only in invertebrates."
+      ],
+      "answer": 2,
+      "explanation": "In open circulatory systems, the haemolymph is released into body cavities (sinuses) where it directly contacts tissues, whereas closed systems keep blood within a network of vessels.",
+      "topic": "Animal body organisation"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 7,
+    "mcqCount": 49
+  }
+}

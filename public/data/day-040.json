@@ -1,0 +1,2171 @@
+{
+  "day": 40,
+  "courseDate": "2026-10-08",
+  "publishAt": "2026-10-08T06:00:00+05:30",
+  "title": "Day 40: Nucleus, Chromosomes and Integrated Cell Revision",
+  "introduction": "This lesson integrates the structural and functional aspects of the nucleus, chromatin, chromosomes and compares cellular organelles across plant, animal and prokaryotic systems, aligning with NCERT concepts for NEET preparation.",
+  "sections": [
+    {
+      "topic": "Nucleus",
+      "heading": "Nucleus – The Command Centre",
+      "content": "The nucleus is a membrane‑bound organelle containing the cell’s genetic material as DNA‑protein complexes. It regulates gene expression, DNA replication and RNA synthesis, and isolates nucleic acids from cytoplasmic enzymes.",
+      "keyPoints": [
+        "Enclosed by a double membrane (nuclear envelope)",
+        "Contains nucleoplasm, nucleolus and chromatin",
+        "Site of transcription and DNA replication"
+      ],
+      "neetTips": [
+        "Remember the nucleus is the only organelle with its own double membrane"
+      ]
+    },
+    {
+      "topic": "Nuclear envelope",
+      "heading": "Structure of the Nuclear Envelope",
+      "content": "The nuclear envelope consists of two concentric lipid bilayers – the outer membrane continuous with the rough ER and the inner membrane lined by nuclear lamina. It provides mechanical support and compartmentalisation.",
+      "keyPoints": [
+        "Outer membrane continuous with ER",
+        "Inner membrane attached to nuclear lamina",
+        "Contains nuclear pores for transport"
+      ],
+      "neetTips": [
+        "Link outer membrane to endoplasmic reticulum in NEET diagrams"
+      ]
+    },
+    {
+      "topic": "Nuclear pores",
+      "heading": "Nuclear Pores – Gatekeepers",
+      "content": "Nuclear pore complexes (NPCs) are large protein assemblies perforating the envelope, allowing selective exchange of macromolecules. Small molecules diffuse freely; larger proteins require nuclear transport receptors.",
+      "keyPoints": [
+        "~30–50 NPCs per µm²",
+        "Transport mediated by importins/exportins",
+        "Regulated by Ran‑GTP gradient"
+      ],
+      "neetTips": [
+        "Focus on size‑selectivity and Ran‑GTP role for NEET questions"
+      ]
+    },
+    {
+      "topic": "Nucleoplasm",
+      "heading": "Nucleoplasm – Nuclear Matrix Fluid",
+      "content": "Nucleoplasm is the semi‑fluid matrix filling the nucleus, containing dissolved enzymes, nucleotides, and the chromatin fibers. It provides a medium for nuclear reactions and structural support via the nuclear matrix.",
+      "keyPoints": [
+        "Viscous gel‑like consistency",
+        "Contains soluble enzymes and ions",
+        "Supports chromatin organization"
+      ],
+      "neetTips": [
+        "Distinguish nucleoplasm from cytoplasm in comparative tables"
+      ]
+    },
+    {
+      "topic": "Nucleolus",
+      "heading": "Nucleolus – Ribosome Factory",
+      "content": "The nucleolus is a dense, non‑membranous region within the nucleoplasm where rRNA genes are transcribed, processed and assembled with ribosomal proteins to form ribosomal subunits.",
+      "keyPoints": [
+        "Composed of fibrillar centre, dense fibrillar component, granular component",
+        "Site of 45S rRNA synthesis",
+        "Exports pre‑ribosomal subunits to cytoplasm"
+      ],
+      "neetTips": [
+        "Remember nucleolus disappears during mitosis – a high‑yield fact"
+      ]
+    },
+    {
+      "topic": "Chromatin",
+      "heading": "Chromatin – DNA‑Protein Complex",
+      "content": "Chromatin is DNA wrapped around histone octamers forming nucleosomes, further folded into higher‑order structures. It exists in two functional states: euchromatin (active) and heterochromatin (inactive).",
+      "keyPoints": [
+        "DNA + histone proteins",
+        "Repeats of nucleosome units",
+        "Dynamic condensation regulates gene expression"
+      ],
+      "neetTips": [
+        "Link chromatin state to transcriptional activity for NEET"
+      ]
+    },
+    {
+      "topic": "Chromosomes",
+      "heading": "Chromosomes – Condensed Genetic Units",
+      "content": "During mitosis/meiosis, chromatin condenses into discrete chromosomes, each comprising a single DNA molecule with associated proteins, visible under light microscopy.",
+      "keyPoints": [
+        "Humans: 46 chromosomes (23 pairs)",
+        "Each chromosome has a centromere and telomeres",
+        "Visible in prophase onward"
+      ],
+      "neetTips": [
+        "Centromere position (metacentric, submetacentric, etc.) is a common NEET query"
+      ]
+    },
+    {
+      "topic": "Structure of chromosome",
+      "heading": "Structural Features of a Chromosome",
+      "content": "A chromosome consists of a short arm (p), long arm (q), centromere, telomeres, and a primary constriction. The chromatid pair is held together by cohesin until anaphase.",
+      "keyPoints": [
+        "p‑arm = short, q‑arm = long",
+        "Centromere determines chromosome shape",
+        "Telomeres protect ends from degradation"
+      ],
+      "neetTips": [
+        "Memorise p/q notation for NEET diagram labeling"
+      ]
+    },
+    {
+      "topic": "Chromatin organisation",
+      "heading": "Higher‑Order Chromatin Organisation",
+      "content": "Nucleosomes coil into 30 nm fibers, which loop into chromatin domains attached to the nuclear matrix, forming chromosome territories. This spatial arrangement influences gene regulation.",
+      "keyPoints": [
+        "30 nm fiber formed by nucleosome stacking",
+        "Loop domains anchored to nuclear matrix",
+        "Chromosome territories occupy distinct nuclear regions"
+      ],
+      "neetTips": [
+        "Visualise chromosome territories when answering spatial NEET questions"
+      ]
+    },
+    {
+      "topic": "Euchromatin and heterochromatin",
+      "heading": "Euchromatin vs Heterochromatin",
+      "content": "Euchromatin is loosely packed, transcriptionally active, rich in genes, and stains lightly. Heterochromatin is densely packed, transcriptionally silent, often contains repetitive DNA, and stains darkly.",
+      "keyPoints": [
+        "Euchromatin: light staining, gene‑rich",
+        "Heterochromatin: dark staining, repeat‑rich",
+        "Reversible via histone modifications"
+      ],
+      "neetTips": [
+        "Associate light staining with active genes for quick recall"
+      ]
+    },
+    {
+      "topic": "Nucleosome",
+      "heading": "Nucleosome – Fundamental Unit of Chromatin",
+      "content": "A nucleosome comprises ~147 bp of DNA wrapped ~1.65 turns around an octamer of histones (2×H2A, H2B, H3, H4). Linker DNA (~20–80 bp) connects successive nucleosomes, often bound by H1.",
+      "keyPoints": [
+        "147 bp DNA per nucleosome",
+        "Histone octamer core",
+        "Linker histone H1 stabilises higher order"
+      ],
+      "neetTips": [
+        "Remember the 147 bp number – a frequent NEET fact"
+      ]
+    },
+    {
+      "topic": "Nuclear matrix",
+      "heading": "Nuclear Matrix – Scaffold of the Nucleus",
+      "content": "The nuclear matrix is a fibrous network of proteins (lamins, scaffold attachment factors) that provides structural support and anchors chromatin loops, influencing replication and transcription domains.",
+      "keyPoints": [
+        "Composed of lamins and scaffold proteins",
+        "Anchors chromatin loops",
+        "Regulates nuclear architecture"
+      ],
+      "neetTips": [
+        "Link matrix to chromatin loop organization in NEET integrative questions"
+      ]
+    },
+    {
+      "topic": "Cell organelle comparison",
+      "heading": "Comparative Overview of Cellular Organelles",
+      "content": "Organelles differ in membrane presence, function, and genetic autonomy. Membrane‑bound organelles (e.g., mitochondria) have distinct lipid bilayers, whereas non‑membrane‑bound structures (e.g., ribosomes) are protein‑RNA complexes.",
+      "keyPoints": [
+        "Membrane‑bound vs non‑membrane‑bound",
+        "Functional specialization (energy, synthesis, storage)",
+        "Genetic autonomy varies"
+      ],
+      "neetTips": [
+        "Create a two‑column table for quick NEET revision"
+      ]
+    },
+    {
+      "topic": "Membrane-bound and non-membrane-bound organelles",
+      "heading": "Membrane‑Bound vs Non‑Membrane‑Bound Organelles",
+      "content": "Membrane‑bound organelles possess phospholipid bilayers (e.g., ER, Golgi, lysosome) enabling compartmentalised reactions. Non‑membrane‑bound organelles like ribosomes, centrosomes lack membranes and function as macromolecular assemblies.",
+      "keyPoints": [
+        "Phospholipid bilayer encloses organelle",
+        "Compartmentalisation allows distinct pH, enzymes",
+        "Non‑membrane organelles are dynamic protein complexes"
+      ],
+      "neetTips": [
+        "Recall that ribosomes are the site of protein synthesis – a high‑yield point"
+      ]
+    },
+    {
+      "topic": "Plant cell versus animal cell",
+      "heading": "Key Differences: Plant vs Animal Cells",
+      "content": "Plant cells contain a rigid cell wall, chloroplasts, and a large central vacuole, while animal cells have centrioles, lysosomes, and more numerous small vacuoles. Both share nucleus, mitochondria, ER, Golgi.",
+      "keyPoints": [
+        "Cell wall & chloroplasts unique to plants",
+        "Centrioles & lysosomes typical of animal cells",
+        "Vacuole size differs markedly"
+      ],
+      "neetTips": [
+        "Use the mnemonic \"C L V\" – Cell wall, Chloroplast, Large vacuole (plant)"
+      ]
+    },
+    {
+      "topic": "Prokaryotic versus eukaryotic cell",
+      "heading": "Prokaryote vs Eukaryote Distinctions",
+      "content": "Prokaryotes lack a true nucleus and membrane‑bound organelles; DNA is circular and nucleoid‑located. Eukaryotes possess a nucleus, linear chromosomes, and diverse organelles.",
+      "keyPoints": [
+        "DNA: circular (prokaryote) vs linear (eukaryote)",
+        "Membrane‑bound organelles present only in eukaryotes",
+        "Ribosome size: 70S (prokaryote) vs 80S (eukaryote)"
+      ],
+      "neetTips": [
+        "Remember the 70S vs 80S ribosome rule for quick differentiation"
+      ]
+    },
+    {
+      "topic": "Endomembrane system integration",
+      "heading": "Integration of the Endomembrane System",
+      "content": "The endomembrane system comprises the nuclear envelope, ER, Golgi apparatus, vesicles, lysosomes, and plasma membrane, linked by vesicular transport. It coordinates synthesis, modification, sorting and delivery of macromolecules.",
+      "keyPoints": [
+        "ER synthesises proteins/lipids",
+        "Golgi modifies and sorts cargo",
+        "Vesicles mediate transport between compartments"
+      ],
+      "neetTips": [
+        "Visualise the flow: Nucleus → ER → Golgi → Plasma membrane/lysosome"
+      ]
+    },
+    {
+      "topic": "Semi-autonomous organelles",
+      "heading": "Semi‑Autonomous Organelles: Mitochondria & Chloroplasts",
+      "content": "Mitochondria and chloroplasts contain their own circular DNA, ribosomes, and replicate independently of the cell cycle, reflecting endosymbiotic origin. They perform oxidative phosphorylation and photosynthesis respectively.",
+      "keyPoints": [
+        "Own DNA & ribosomes",
+        "Double membrane architecture",
+        "Replicate by binary fission"
+      ],
+      "neetTips": [
+        "Link endosymbiotic theory to semi‑autonomy for NEET conceptual questions"
+      ]
+    },
+    {
+      "topic": "Cell structure diagram practice",
+      "heading": "Practice: Drawing a Comprehensive Cell Diagram",
+      "content": "Students should sketch a eukaryotic cell showing nucleus, nuclear envelope, pores, nucleolus, chromatin, mitochondria, ER, Golgi, lysosome, ribosome, cytoskeleton, and plasma membrane, labeling each accurately as per NCERT conventions.",
+      "keyPoints": [
+        "Include all major organelles with correct relative positions",
+        "Label nuclear envelope, pores, nucleolus distinctly",
+        "Use NCERT‑approved symbols"
+      ],
+      "neetTips": [
+        "Practice the diagram in one stroke to save time during the exam"
+      ]
+    },
+    {
+      "topic": "NCERT-based integrated revision",
+      "heading": "Integrated Revision Using NCERT Texts",
+      "content": "Cross‑reference each organelle with its NCERT description, focusing on definitions, functions, and structural features. Create a mind‑map linking nucleus → chromatin → chromosomes → gene expression pathways.",
+      "keyPoints": [
+        "NCERT terminology is exam‑exact",
+        "Integrate structure‑function relationships",
+        "Mind‑maps aid memory retention"
+      ],
+      "neetTips": [
+        "Quote NCERT phrasing verbatim in answer writing for maximum marks"
+      ]
+    },
+    {
+      "topic": "High-yield NEET comparisons",
+      "heading": "High‑Yield Comparative Tables for NEET",
+      "content": "Prepare concise tables comparing: (i) Euchromatin vs heterochromatin, (ii) Plant vs animal cell organelles, (iii) Prokaryote vs eukaryote features, (iv) Membrane‑bound vs non‑membrane‑bound organelles. Highlight NEET‑focused attributes.",
+      "keyPoints": [
+        "Focus on staining, gene activity, presence/absence of membranes",
+        "Highlight unique organelles per cell type",
+        "Use bullet points for quick recall"
+      ],
+      "neetTips": [
+        "Tables earn fast marks in objective sections"
+      ]
+    },
+    {
+      "topic": "Common conceptual traps",
+      "heading": "Avoiding Frequent Misconceptions",
+      "content": "Common errors include: confusing nucleolus with nucleus, assuming all chromatin is DNA only, mixing up euchromatin staining, and overlooking that prokaryotes lack a nuclear envelope. Clarify each with NCERT facts.",
+      "keyPoints": [
+        "Nucleolus ≠ nucleus – it is inside nucleus",
+        "Chromatin = DNA + histones",
+        "Euchromatin stains lightly, heterochromatin darkly",
+        "Prokaryotes have no nuclear envelope"
+      ],
+      "neetTips": [
+        "Write a ‘trap‑check’ note before attempting NEET questions"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and describe the structural components of the nucleus and its associated sub‑structures",
+    "Explain chromatin organization, nucleosome architecture and the functional differences between euchromatin and heterochromatin",
+    "Compare plant, animal and prokaryotic cells highlighting organelle presence, membrane‑bound status and genetic autonomy",
+    "Integrate the endomembrane system and semi‑autonomous organelles into a cohesive cellular model",
+    "Apply NCERT‑aligned terminology and high‑yield comparisons to solve NEET‑style questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following statements correctly describes the nuclear envelope in eukaryotic cells?",
+      "options": [
+        "It consists of a single phospholipid bilayer continuous with the plasma membrane.",
+        "It is composed of two concentric phospholipid bilayers that are continuous with the endoplasmic reticulum.",
+        "It is a rigid proteinaceous shell lacking any membrane continuity.",
+        "It contains pores that allow free diffusion of all macromolecules."
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope has an inner and outer membrane that are continuous with the rough endoplasmic reticulum, forming a double‑membrane system.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "The nuclear pore complexes (NPCs) primarily facilitate the transport of molecules whose size is:",
+      "options": [
+        "Less than 5 kDa, allowing free diffusion of ions only.",
+        "Up to about 40–60 kDa, requiring active transport for larger proteins.",
+        "Greater than 100 kDa, permitting only large ribonucleoprotein particles.",
+        "Any size, as NPCs are non‑selective channels."
+      ],
+      "answer": 1,
+      "explanation": "NPCs allow passive diffusion of small molecules (<~40‑60 kDa) while larger macromolecules need specific transport receptors.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "The nucleolus is the site of:",
+      "options": [
+        "DNA replication.",
+        "Synthesis of ribosomal RNA and assembly of ribosomal subunits.",
+        "Packaging of histones onto DNA.",
+        "Lipid synthesis."
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus is the nuclear substructure where rRNA is transcribed, processed, and combined with ribosomal proteins to form ribosomal subunits.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Which chromatin type is most closely associated with active transcription in interphase nuclei?",
+      "options": [
+        "Constitutive heterochromatin.",
+        "Facultative heterochromatin.",
+        "Euchromatin.",
+        "Pericentromeric heterochromatin."
+      ],
+      "answer": 2,
+      "explanation": "Euchromatin is less condensed, rich in gene density, and is the region where most transcription occurs.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "A nucleosome core particle consists of DNA wrapped around a histone octamer. Which set of histones correctly represents this octamer?",
+      "options": [
+        "Two each of H1, H2A, H2B, H3, H4.",
+        "Two each of H2A, H2B, H3, H4.",
+        "One each of H2A, H2B, H3, H4, and H5.",
+        "Four copies of H1 only."
+      ],
+      "answer": 1,
+      "explanation": "The nucleosome core particle contains an octamer of histones: two copies each of H2A, H2B, H3 and H4; H1 is a linker histone, not part of the core.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "The nuclear matrix is best described as:",
+      "options": [
+        "A rigid, protein‑free space within the nucleoplasm.",
+        "A fibrous network that provides structural support and organizes chromatin into loops.",
+        "The lipid bilayer that surrounds the nucleus.",
+        "The region where ribosomal subunits are assembled."
+      ],
+      "answer": 1,
+      "explanation": "The nuclear matrix is a scaffold of proteins that maintains nuclear shape and anchors chromatin, forming looped domains.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Which of the following features distinguishes eukaryotic cells from prokaryotic cells concerning the nucleus?",
+      "options": [
+        "Presence of circular DNA.",
+        "Absence of ribosomes.",
+        "DNA enclosed within a double‑membraned nuclear envelope.",
+        "Lack of transcriptional regulation."
+      ],
+      "answer": 2,
+      "explanation": "Eukaryotes have a true nucleus bounded by a double‑membrane envelope, whereas prokaryotes lack such a membrane‑bound compartment.",
+      "topic": "Nucleus"
+    },
+    {
+      "question": "Which statement correctly describes the composition of the nuclear envelope?",
+      "options": [
+        "A single phospholipid bilayer continuous with the plasma membrane",
+        "A double phospholipid bilayer continuous with the rough endoplasmic reticulum",
+        "A triple membrane containing embedded mitochondria",
+        "A single phospholipid bilayer with no continuity to other membranes"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope consists of two concentric phospholipid bilayers (inner and outer membranes) that are continuous with the membrane of the rough endoplasmic reticulum.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "The nuclear lamina is primarily composed of which type of protein?",
+      "options": [
+        "Actin filaments",
+        "Tubulin polymers",
+        "Intermediate filament proteins called lamins",
+        "Myosin heavy chains"
+      ],
+      "answer": 2,
+      "explanation": "The nuclear lamina is a meshwork of intermediate filament proteins known as lamins, providing structural support to the inner nuclear membrane.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "During mitosis in higher eukaryotes, the nuclear envelope breaks down mainly because:",
+      "options": [
+        "Phosphorylation of lamins leads to lamina disassembly",
+        "Fusion of the outer nuclear membrane with the Golgi apparatus",
+        "Increase in nuclear pore size allowing chromosome leakage",
+        "Degradation of inner membrane lipids by lysosomal enzymes"
+      ],
+      "answer": 0,
+      "explanation": "Cyclin-dependent kinases phosphorylate lamins, causing the lamina to disassemble and the nuclear envelope to fragment, a key step in prometaphase.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "Which structure is NOT a component of the nuclear envelope?",
+      "options": [
+        "Nuclear pore complex",
+        "Perinuclear space",
+        "Endoplasmic reticulum ribosomes",
+        "Nuclear lamina"
+      ],
+      "answer": 2,
+      "explanation": "Ribosomes attached to the rough ER are not part of the nuclear envelope; they are associated with the cytoplasmic side of the ER.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "The perinuclear space is equivalent in size to:",
+      "options": [
+        "The cytoplasmic matrix",
+        "The lumen of the endoplasmic reticulum",
+        "The mitochondrial intermembrane space",
+        "The vacuolar lumen"
+      ],
+      "answer": 1,
+      "explanation": "The perinuclear space is continuous with the lumen of the endoplasmic reticulum and therefore has a comparable width.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "Which option best explains the functional significance of nuclear pores?",
+      "options": [
+        "They allow free diffusion of all macromolecules between nucleus and cytoplasm",
+        "They selectively transport proteins, RNAs, and ribosomal subunits via signal‑mediated mechanisms",
+        "They anchor microtubules to the nucleus",
+        "They synthesize lipids for the nuclear membrane"
+      ],
+      "answer": 1,
+      "explanation": "Nuclear pore complexes regulate nucleocytoplasmic transport, permitting selective passage of molecules that possess appropriate nuclear localization or export signals.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "In plant cells, the nuclear envelope is continuous with which organelle, facilitating direct lipid exchange?",
+      "options": [
+        "Golgi apparatus",
+        "Chloroplast envelope",
+        "Endoplasmic reticulum",
+        "Vacuolar membrane"
+      ],
+      "answer": 2,
+      "explanation": "Like in animal cells, the outer nuclear membrane is continuous with the endoplasmic reticulum, allowing lipid and protein exchange between these membranes.",
+      "topic": "Nuclear envelope"
+    },
+    {
+      "question": "Which of the following statements about nuclear pore complexes (NPC) is correct?",
+      "options": [
+        "They are composed solely of lipids.",
+        "They allow free diffusion of all macromolecules regardless of size.",
+        "They contain FG‑repeat nucleoporins that form a selective barrier.",
+        "They are present only in plant cells."
+      ],
+      "answer": 2,
+      "explanation": "NPCs are large protein assemblies that contain phenylalanine‑glycine (FG) repeat nucleoporins; these repeats create a selective permeability barrier allowing regulated transport.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "The approximate size limit for passive diffusion of molecules through nuclear pores is:",
+      "options": [
+        "5 kDa",
+        "40–60 kDa",
+        "150 kDa",
+        "500 kDa"
+      ],
+      "answer": 1,
+      "explanation": "Molecules smaller than about 40–60 kDa can diffuse freely; larger macromolecules require active transport mediated by importins/exportins.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "Which protein mediates the directionality of nuclear import by providing energy?",
+      "options": [
+        "ATP synthase",
+        "Ran‑GTP",
+        "DNA polymerase",
+        "Histone H1"
+      ],
+      "answer": 1,
+      "explanation": "Ran bound to GTP in the nucleus and Ran‑GDP in the cytoplasm creates a gradient that drives importin‑cargo release and ensures directional transport.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "The nuclear localization signal (NLS) recognized by importin‑α is typically rich in:",
+      "options": [
+        "Acidic residues",
+        "Hydrophobic residues",
+        "Basic residues",
+        "Aromatic residues"
+      ],
+      "answer": 2,
+      "explanation": "Classical NLSs consist of short stretches of lysine and arginine, i.e., basic amino acids, which are recognized by importin‑α.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "In the context of nuclear export, which cargo primarily uses the CRM1 (exportin 1) pathway?",
+      "options": [
+        "tRNA",
+        "Ribosomal subunits",
+        "mRNA",
+        "Proteins containing leucine‑rich NES"
+      ],
+      "answer": 3,
+      "explanation": "CRM1/exportin 1 specifically binds proteins that possess a leucine‑rich nuclear export signal (NES) and mediates their export.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "Which statement best describes the relationship between the endoplasmic reticulum (ER) and nuclear pores?",
+      "options": [
+        "Nuclear pores are formed by the fusion of ER vesicles.",
+        "The outer nuclear membrane is continuous with the rough ER, and NPCs are embedded in this membrane.",
+        "ER provides the energy for nuclear transport.",
+        "NPCs are absent in cells lacking ER."
+      ],
+      "answer": 1,
+      "explanation": "The outer nuclear membrane is an extension of the rough ER; nuclear pore complexes are inserted into this continuous membrane system.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "A mutation that eliminates the FG‑repeat domains of nucleoporins would most likely result in:",
+      "options": [
+        "Increased rate of DNA replication",
+        "Unrestricted diffusion of large macromolecules between nucleus and cytoplasm",
+        "Complete blockage of all nuclear‑cytoplasmic transport",
+        "Enhanced transcription of ribosomal RNA"
+      ],
+      "answer": 1,
+      "explanation": "FG repeats form the selective barrier; their loss would abolish size‑restriction, allowing large macromolecules to diffuse freely, though transport regulation would be compromised.",
+      "topic": "Nuclear pores"
+    },
+    {
+      "question": "What is the predominant component of nucleoplasm?",
+      "options": [
+        "Water",
+        "DNA",
+        "Ribosomes",
+        "Mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Nucleoplasm is a gel-like matrix mainly composed of water along with dissolved ions, enzymes and nucleotides.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "Which cellular process primarily takes place within the nucleoplasm?",
+      "options": [
+        "DNA replication",
+        "Protein synthesis",
+        "Lipid synthesis",
+        "Photosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "DNA replication occurs in the nucleoplasm (nucleus) where the DNA template is accessible to replication enzymes.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "The nucleoplasm is separated from the cytoplasm by which structure?",
+      "options": [
+        "Nuclear envelope",
+        "Mitochondrial membrane",
+        "Plasma membrane",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "The nuclear envelope, a double membrane with nuclear pores, encloses the nucleoplasm and isolates it from the cytoplasm.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "Which statement about nucleoplasm is correct?",
+      "options": [
+        "It contains ribosomes for protein synthesis",
+        "It is the site of mRNA splicing",
+        "It is rich in chlorophyll",
+        "It contains lysosomes"
+      ],
+      "answer": 1,
+      "explanation": "Pre‑mRNA splicing of newly transcribed RNA occurs in the nucleoplasm before the mature mRNA is exported.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "Compared to the cytoplasm, the viscosity of nucleoplasm is:",
+      "options": [
+        "Higher than cytoplasm",
+        "Lower than cytoplasm",
+        "Same as cytoplasm",
+        "Variable depending on cell type"
+      ],
+      "answer": 0,
+      "explanation": "The dense network of chromatin and nuclear proteins makes nucleoplasm more viscous than the surrounding cytoplasm.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "Which molecule is least likely to be found dissolved in nucleoplasm?",
+      "options": [
+        "ATP",
+        "Ribosomal RNA",
+        "tRNA",
+        "DNA polymerase"
+      ],
+      "answer": 2,
+      "explanation": "tRNA functions mainly in the cytoplasm for translation; it is not a typical constituent of nucleoplasmic fluid.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "During mitosis, what happens to the nucleoplasm?",
+      "options": [
+        "Disintegrates",
+        "Remains unchanged",
+        "Becomes more condensed",
+        "Transforms into cytoplasm"
+      ],
+      "answer": 0,
+      "explanation": "At prophase the nuclear envelope breaks down, causing nucleoplasm to mix with the cytoplasm; it effectively disintegrates.",
+      "topic": "Nucleoplasm"
+    },
+    {
+      "question": "What is the primary function of the nucleolus in eukaryotic cells?",
+      "options": [
+        "DNA replication",
+        "Protein synthesis",
+        "Ribosomal RNA synthesis and ribosome assembly",
+        "Lipid metabolism"
+      ],
+      "answer": 2,
+      "explanation": "The nucleolus is the site where rRNA genes are transcribed, processed, and assembled with ribosomal proteins to form ribosomal subunits.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "Which sub‑region of the nucleolus is mainly responsible for the early processing of pre‑rRNA?",
+      "options": [
+        "Fibrillar center",
+        "Dense fibrillar component",
+        "Granular component",
+        "Nucleoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "The dense fibrillar component contains fibrillarin and other processing factors that modify the primary rRNA transcript soon after synthesis.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "Nucleolus organizer regions (NORs) that give rise to nucleoli are located on which type of human chromosomes?",
+      "options": [
+        "Metacentric chromosomes",
+        "Submetacentric chromosomes",
+        "Acrocentric chromosomes",
+        "Telocentric chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "In humans, NORs are present on the short arms of the five acrocentric chromosomes (13, 14, 15, 21, 22), where rRNA genes are clustered.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "During which phase of the cell cycle does the nucleolus disassemble and later re‑form?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "Mitosis (prophase)",
+        "Cytokinesis"
+      ],
+      "answer": 2,
+      "explanation": "The nucleolus breaks down in prophase as chromosomes condense and re‑assembles in telophase when the nuclear envelope reforms.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "Which protein is a major component of the dense fibrillar component and participates in pre‑rRNA processing?",
+      "options": [
+        "Histone H1",
+        "Fibrillarin",
+        "Tubulin",
+        "Actin"
+      ],
+      "answer": 1,
+      "explanation": "Fibrillarin is a methyltransferase localized in the dense fibrillar component and is essential for early rRNA processing steps.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "The number of nucleoli observed in a somatic cell is determined primarily by:",
+      "options": [
+        "Number of mitochondria",
+        "Number of ribosomes",
+        "Number of active nucleolus organizer regions",
+        "Cell size"
+      ],
+      "answer": 2,
+      "explanation": "Each active NOR can give rise to a nucleolus; therefore, the visible nucleoli correspond to the number of transcriptionally active rRNA gene clusters.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "Which of the following statements about the nucleolus is FALSE?",
+      "options": [
+        "It is a membrane‑less organelle",
+        "It is the site of ribosomal subunit assembly",
+        "It contains DNA that is transcribed into mRNA",
+        "Its size correlates with the cell's protein synthesis activity"
+      ],
+      "answer": 2,
+      "explanation": "The nucleolus contains rRNA genes, not protein‑coding genes; thus it does not transcribe DNA into mRNA.",
+      "topic": "Nucleolus"
+    },
+    {
+      "question": "What is the basic repeating structural unit of chromatin?",
+      "options": [
+        "Nucleosome",
+        "Chromatid",
+        "Histone octamer",
+        "DNA polymerase"
+      ],
+      "answer": 0,
+      "explanation": "A nucleosome consists of ~146 bp of DNA wrapped around a histone octamer and is the fundamental repeating unit of chromatin.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "Which statement correctly distinguishes euchromatin from heterochromatin?",
+      "options": [
+        "Euchromatin is transcriptionally active and loosely packed; heterochromatin is inactive and densely packed",
+        "Euchromatin is found only in plant cells",
+        "Heterochromatin contains more RNA polymerase II than euchromatin",
+        "Euchromatin is replicated after heterochromatin"
+      ],
+      "answer": 0,
+      "explanation": "Euchromatin is less condensed, allowing gene expression, whereas heterochromatin is highly condensed and generally transcriptionally silent.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "Approximately how many base pairs of DNA are wrapped around the histone octamer in a nucleosome core particle?",
+      "options": [
+        "~146 base pairs",
+        "~200 base pairs",
+        "~50 base pairs",
+        "~300 base pairs"
+      ],
+      "answer": 0,
+      "explanation": "Each nucleosome core particle contains about 146 bp of DNA wrapped in ~1.65 left‑handed superhelical turns around the histone octamer.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "Which histone modification is most closely associated with transcriptional activation?",
+      "options": [
+        "Methylation of lysine residues",
+        "Acetylation of lysine residues",
+        "Phosphorylation of serine residues",
+        "Ubiquitination of histone H2B"
+      ],
+      "answer": 1,
+      "explanation": "Acetylation of lysine residues neutralises positive charges, reducing histone-DNA interaction and facilitating transcription.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "During interphase, chromatin is observed as:",
+      "options": [
+        "Diffuse fibers",
+        "Distinct chromosomes",
+        "Chromatin loops attached to nuclear matrix",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "In interphase, chromatin exists as a loosely packed, diffuse network of fibers rather than the distinct, condensed chromosomes seen in mitosis.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "Which enzyme adds methyl groups to histone tails, promoting heterochromatin formation?",
+      "options": [
+        "DNA ligase",
+        "Histone methyltransferase",
+        "RNA polymerase II",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "Histone methyltransferases catalyse methylation of specific lysine or arginine residues, a mark commonly linked to heterochromatin and gene silencing.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "The term \"chromatin remodeling\" refers to:",
+      "options": [
+        "Synthesis of histone proteins",
+        "ATP-dependent repositioning of nucleosomes",
+        "Replication of DNA",
+        "Transcription of rRNA"
+      ],
+      "answer": 1,
+      "explanation": "Chromatin remodeling complexes use ATP to slide, eject or restructure nucleosomes, thereby regulating DNA accessibility for transcription and other processes.",
+      "topic": "Chromatin"
+    },
+    {
+      "question": "Which statement about telomeres is correct?",
+      "options": [
+        "They contain repetitive DNA sequences that protect chromosome ends",
+        "They are the region where spindle fibers attach",
+        "They are composed of histone proteins only",
+        "They are the site of DNA replication origin"
+      ],
+      "answer": 0,
+      "explanation": "Telomeres consist of short tandem repeats (TTAGGG in humans) that cap chromosome ends and prevent degradation or end-to-end fusion.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "In a human somatic cell during the S phase, how many chromatids are present?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "184"
+      ],
+      "answer": 1,
+      "explanation": "Each of the 46 chromosomes replicates to form two sister chromatids, giving a total of 46 × 2 = 92 chromatids.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "Euchromatin differs from heterochromatin because:",
+      "options": [
+        "Euchromatin is transcriptionally active, whereas heterochromatin is largely inactive",
+        "Euchromatin is located only at centromeres",
+        "Heterochromatin contains more genes than euchromatin",
+        "Euchromatin lacks nucleosomes"
+      ],
+      "answer": 0,
+      "explanation": "Euchromatin is loosely packed and accessible to transcription machinery, while heterochromatin is densely packed and transcriptionally silent.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "The basic repeating unit of chromatin is:",
+      "options": [
+        "Nucleosome",
+        "Chromatid",
+        "Histone octamer",
+        "Telomere"
+      ],
+      "answer": 0,
+      "explanation": "A nucleosome consists of ~146 bp of DNA wrapped around a histone octamer and is the fundamental repeating unit of chromatin.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "Which description best defines the centromere?",
+      "options": [
+        "Region where sister chromatids are held together",
+        "Region where DNA replication initiates",
+        "Region rich in AT base pairs that forms telomere",
+        "Region that codes for ribosomal RNA"
+      ],
+      "answer": 0,
+      "explanation": "The centromere is the constricted region of a chromosome that links sister chromatids and serves as the attachment site for spindle microtubules.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "In a diploid organism, the typical sex chromosome complement is:",
+      "options": [
+        "XX in females, XY in males",
+        "XY in females, XX in males",
+        "XO in both sexes",
+        "ZZ in males, ZW in females"
+      ],
+      "answer": 0,
+      "explanation": "In humans and most mammals, females have two X chromosomes (XX) and males have one X and one Y chromosome (XY).",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "Which technique is most suitable for visualizing individual chromosomes during metaphase?",
+      "options": [
+        "Karyotyping",
+        "PCR",
+        "Western blot",
+        "ELISA"
+      ],
+      "answer": 0,
+      "explanation": "Karyotyping involves staining and arranging metaphase chromosomes to analyze number, size, and structural abnormalities.",
+      "topic": "Chromosomes"
+    },
+    {
+      "question": "During mitosis, which region of a chromosome serves as the attachment point for spindle microtubules?",
+      "options": [
+        "Centromere",
+        "Telomere",
+        "p arm",
+        "Nucleosome"
+      ],
+      "answer": 0,
+      "explanation": "The centromere forms the kinetochore, which binds spindle fibers and ensures proper segregation of sister chromatids.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "The protective terminal structures of linear chromosomes that prevent loss of genetic material are called:",
+      "options": [
+        "Telomeres",
+        "Centromeres",
+        "Nucleosomes",
+        "Origins of replication"
+      ],
+      "answer": 0,
+      "explanation": "Telomeres consist of repetitive DNA sequences and associated proteins that safeguard chromosome ends from degradation and fusion.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "Each chromosome is divided into a short arm and a long arm. These are designated as:",
+      "options": [
+        "p and q arms",
+        "a and b arms",
+        "alpha and beta arms",
+        "X and Y arms"
+      ],
+      "answer": 0,
+      "explanation": "The short arm is labeled 'p' (from French 'petit') and the long arm 'q' (next letter after p) in cytogenetic nomenclature.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "The fundamental repeating unit of chromatin, where DNA is wound around a histone octamer, is known as:",
+      "options": [
+        "Nucleosome",
+        "Chromatid",
+        "Chromosome",
+        "Nucleolus"
+      ],
+      "answer": 0,
+      "explanation": "A nucleosome consists of ~147 bp of DNA wrapped around an octamer of histone proteins, forming the first level of DNA packaging.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "In a metaphase chromosome, the visible constriction is due to:",
+      "options": [
+        "Centromere",
+        "Telomere",
+        "Nucleosome",
+        "Heterochromatin"
+      ],
+      "answer": 0,
+      "explanation": "The primary constriction corresponds to the centromere, where sister chromatids are held together and where the kinetochore forms.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "After nucleosome formation, the next higher-order level of DNA packaging in chromosomes is:",
+      "options": [
+        "30‑nm fiber",
+        "Chromatid",
+        "Chromosome territory",
+        "Scaffold matrix"
+      ],
+      "answer": 0,
+      "explanation": "Nucleosomes coil further to form a 30‑nm solenoid (or zig‑zag) fiber, representing the second level of chromatin organization.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "Which statement about the centromere is FALSE?",
+      "options": [
+        "It contains repetitive DNA sequences",
+        "It is the site of kinetochore formation",
+        "It is rich in transcriptionally active euchromatin",
+        "It is essential for proper chromosome segregation"
+      ],
+      "answer": 2,
+      "explanation": "Centromeric regions are largely heterochromatic and transcriptionally inactive; they do not contain active euchromatin.",
+      "topic": "Structure of chromosome"
+    },
+    {
+      "question": "The \"beads‑on‑a‑string\" appearance of chromatin observed under electron microscopy corresponds to which level of organization?",
+      "options": [
+        "Nucleosome array (10 nm fiber)",
+        "30 nm fiber (solenoid)",
+        "Metaphase chromosome",
+        "Chromatin loop attached to scaffold"
+      ],
+      "answer": 0,
+      "explanation": "The beads‑on‑a‑string pattern represents the nucleosome array where DNA wraps around histone octamers, forming the 10 nm fiber.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "Euchromatin differs from heterochromatin primarily because it is:",
+      "options": [
+        "Highly condensed and transcriptionally silent",
+        "Stained darkly with Giemsa",
+        "Rich in AT‑rich repetitive sequences",
+        "Less condensed and transcriptionally active"
+      ],
+      "answer": 3,
+      "explanation": "Euchromatin is loosely packed, allowing access of transcription machinery, whereas heterochromatin is densely packed and generally silent.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "Which histone modification is most strongly linked to transcriptional activation?",
+      "options": [
+        "Trimethylation of H3K9",
+        "Acetylation of H3K27",
+        "Trimethylation of H4K20",
+        "Monoubiquitination of H2A"
+      ],
+      "answer": 1,
+      "explanation": "Acetylation of lysine 27 on histone H3 (H3K27ac) relaxes chromatin and is a hallmark of active enhancers and promoters.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "Approximately how many base pairs of DNA are wrapped around each nucleosome core particle in interphase cells?",
+      "options": [
+        "146 bp",
+        "200 bp",
+        "50 bp",
+        "1000 bp"
+      ],
+      "answer": 0,
+      "explanation": "A nucleosome core particle consists of ~146 bp of DNA wrapped around an octamer of histones.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "The chromatin‑remodeling complex that slides nucleosomes along DNA to regulate gene expression is:",
+      "options": [
+        "DNA polymerase",
+        "RNA polymerase II",
+        "SWI/SNF complex",
+        "Topoisomerase II"
+      ],
+      "answer": 2,
+      "explanation": "SWI/SNF is a well‑studied ATP‑dependent chromatin‑remodeling complex that repositions nucleosomes, facilitating transcription.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "Which statement about heterochromatin is FALSE?",
+      "options": [
+        "It is enriched in repetitive DNA sequences",
+        "It replicates early in S phase",
+        "It is transcriptionally silent",
+        "It appears as densely staining regions in the nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Heterochromatin typically replicates late in S phase; early replication is characteristic of euchromatin.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "The conversion of the 10 nm nucleosome fiber into the more compact 30 nm fiber primarily involves:",
+      "options": [
+        "Histone acetylation",
+        "Binding of linker histone H1",
+        "DNA methylation",
+        "RNA polymerase binding"
+      ],
+      "answer": 1,
+      "explanation": "Linker histone H1 binds to the nucleosome entry/exit DNA and promotes folding of the 10 nm fiber into the thicker 30 nm fiber.",
+      "topic": "Chromatin organisation"
+    },
+    {
+      "question": "Which of the following best describes euchromatin?",
+      "options": [
+        "Highly condensed and transcriptionally inactive",
+        "Loosely packed and transcriptionally active",
+        "Contains mainly repetitive DNA sequences",
+        "Located predominantly at the nuclear periphery"
+      ],
+      "answer": 1,
+      "explanation": "Euchromatin is loosely packed chromatin that is accessible to transcription factors, allowing active gene transcription.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "Heterochromatin is primarily associated with which histone modification?",
+      "options": [
+        "Acetylation of histone H3 lysine 9",
+        "Methylation of histone H3 lysine 9",
+        "Phosphorylation of histone H3 serine 10",
+        "Ubiquitination of histone H2A"
+      ],
+      "answer": 1,
+      "explanation": "Trimethylation of H3K9 is a hallmark of constitutive heterochromatin, leading to a compact, transcriptionally silent state.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "During interphase, regions of heterochromatin appear in stained nuclei as:",
+      "options": [
+        "Lightly staining areas",
+        "Darkly staining areas",
+        "Unstained gaps",
+        "Fluorescent puncta"
+      ],
+      "answer": 1,
+      "explanation": "Because heterochromatin is densely packed, it binds more stain and appears as darkly staining (condensed) regions.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "Which statement about replication timing is true for euchromatin and heterochromatin?",
+      "options": [
+        "Euchromatin replicates late in S phase",
+        "Heterochromatin replicates early in S phase",
+        "Euchromatin replicates early in S phase",
+        "Both replicate simultaneously throughout S phase"
+      ],
+      "answer": 2,
+      "explanation": "Euchromatin, being less condensed, is replicated early in S phase, whereas heterochromatin, which is tightly packed, replicates later.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "Gene density is higher in which type of chromatin?",
+      "options": [
+        "Heterochromatin",
+        "Euchromatin",
+        "Both have equal gene density",
+        "Neither contains protein‑coding genes"
+      ],
+      "answer": 1,
+      "explanation": "Euchromatin contains most of the actively transcribed genes and therefore has a higher gene density than heterochromatin.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "A characteristic feature of constitutive heterochromatin is:",
+      "options": [
+        "It harbors the majority of active genes",
+        "It is enriched in satellite DNA repeats",
+        "It possesses highly acetylated histones",
+        "It is found only in prokaryotic genomes"
+      ],
+      "answer": 1,
+      "explanation": "Constitutive heterochromatin is rich in satellite (repetitive) DNA and remains permanently condensed, serving structural roles such as centromere formation.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "Conversion of a transcriptionally silent heterochromatic region to an active euchromatic state is most directly achieved by:",
+      "options": [
+        "DNA methylation of promoter CpG islands",
+        "Histone deacetylation",
+        "Histone acetylation",
+        "Phosphorylation of histone H3 at serine 10"
+      ],
+      "answer": 2,
+      "explanation": "Acetylation of histone tails neutralizes positive charges, loosening DNA‑histone interactions and facilitating transcriptional activation.",
+      "topic": "Euchromatin and heterochromatin"
+    },
+    {
+      "question": "What is the total number of core histone proteins that constitute the nucleosome core particle?",
+      "options": [
+        "Four",
+        "Eight",
+        "Two",
+        "Six"
+      ],
+      "answer": 1,
+      "explanation": "The nucleosome core particle contains an octamer of histones: two each of H2A, H2B, H3 and H4, making a total of eight core histone proteins.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "Approximately how many base pairs of DNA are wrapped around the histone octamer in a nucleosome core particle?",
+      "options": [
+        "146 base pairs",
+        "200 base pairs",
+        "100 base pairs",
+        "50 base pairs"
+      ],
+      "answer": 0,
+      "explanation": "About 146 bp of DNA make 1.65 left‑handed superhelical turns around the histone octamer, forming the nucleosome core particle.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "Which histone protein primarily binds the linker DNA between nucleosomes and helps in higher‑order chromatin folding?",
+      "options": [
+        "Histone H1",
+        "Histone H2A",
+        "Histone H3",
+        "Histone H4"
+      ],
+      "answer": 0,
+      "explanation": "Linker histone H1 binds to the DNA entering and exiting the nucleosome and to the linker DNA, promoting the formation of the 30‑nm fiber and higher‑order structures.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "Acetylation of lysine residues on histone tails generally leads to which effect on gene expression?",
+      "options": [
+        "Increased transcription due to relaxed chromatin",
+        "Tighter DNA‑histone interaction and gene silencing",
+        "Disassembly of the nucleosome",
+        "Targeted degradation of histones"
+      ],
+      "answer": 0,
+      "explanation": "Acetylation neutralises positive charges on lysine residues, reducing histone‑DNA affinity, resulting in a more open chromatin state that facilitates transcription.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "The nucleosome repeat length, which includes core DNA plus linker DNA, is typically about:",
+      "options": [
+        "200 base pairs",
+        "146 base pairs",
+        "500 base pairs",
+        "1000 base pairs"
+      ],
+      "answer": 0,
+      "explanation": "In most eukaryotic cells the average distance from the start of one nucleosome to the start of the next (including linker DNA) is ~200 bp.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "Which statement correctly distinguishes euchromatin from heterochromatin in terms of nucleosome organization?",
+      "options": [
+        "Both have identical nucleosome density, differing only in DNA sequence",
+        "Euchromatin contains loosely packed nucleosomes allowing active transcription, whereas heterochromatin has tightly packed nucleosomes and is transcriptionally silent",
+        "Heterochromatin lacks nucleosomes, while euchromatin is nucleosome‑rich",
+        "Euchromatin is found only in prokaryotes, heterochromatin only in eukaryotes"
+      ],
+      "answer": 1,
+      "explanation": "Euchromatin is less condensed with nucleosomes spaced farther apart, facilitating transcription; heterochromatin is densely packed, restricting access to transcriptional machinery.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "During DNA replication, which histone chaperone is primarily responsible for depositing the H3‑H4 tetramer onto newly synthesized DNA?",
+      "options": [
+        "CAF‑1",
+        "NAP1",
+        "Asf1",
+        "HIRA"
+      ],
+      "answer": 0,
+      "explanation": "Chromatin Assembly Factor‑1 (CAF‑1) interacts with PCNA at replication forks and deposits newly synthesized H3‑H4 tetramers onto nascent DNA, forming the first step of nucleosome assembly.",
+      "topic": "Nucleosome"
+    },
+    {
+      "question": "What is the primary structural component of the nuclear matrix?",
+      "options": [
+        "DNA",
+        "RNA",
+        "Protein fibers (lamins)",
+        "Lipids"
+      ],
+      "answer": 2,
+      "explanation": "The nuclear matrix is mainly composed of a network of protein fibers, especially lamins, which provide structural support to the nucleus.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "Which DNA sequences specifically attach to the nuclear matrix?",
+      "options": [
+        "Promoter regions",
+        "Matrix attachment regions (MARs)",
+        "Telomeric repeats",
+        "Introns"
+      ],
+      "answer": 1,
+      "explanation": "Matrix attachment regions (MARs) are DNA sequences that bind to the nuclear matrix, anchoring chromatin loops.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "The nuclear matrix plays a crucial role in which nuclear process?",
+      "options": [
+        "Protein synthesis",
+        "DNA replication",
+        "Glycolysis",
+        "Lipid metabolism"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear matrix organizes chromatin into loops, facilitating efficient DNA replication and transcription.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "Which statement correctly distinguishes the nuclear matrix from the nucleoplasm?",
+      "options": [
+        "Matrix is a fluid, nucleoplasm is fibrous",
+        "Matrix provides a structural scaffold, nucleoplasm is the soluble phase",
+        "Matrix contains ribosomes, nucleoplasm does not",
+        "Matrix is present only in plant cells"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear matrix is a fibrous scaffold that maintains nuclear architecture, whereas the nucleoplasm is the liquid-like medium surrounding it.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "The nuclear lamina, a specialized form of the nuclear matrix, is located:",
+      "options": [
+        "Adjacent to nuclear pores",
+        "Underlying the inner nuclear membrane",
+        "Within the nucleolus",
+        "In the cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear lamina lines the inner surface of the nuclear envelope, providing mechanical support and anchoring chromatin.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "Disruption of nuclear matrix proteins most likely affects which cellular feature?",
+      "options": [
+        "Chromosome territory organization",
+        "Mitochondrial ATP production",
+        "Cell wall synthesis",
+        "Chlorophyll biosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "The matrix organizes chromatin into distinct territories; its disturbance leads to altered chromosome positioning and gene expression.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "Which statement about matrix attachment regions (MARs) is true?",
+      "options": [
+        "They are rich in GC content and form Z‑DNA",
+        "They are binding sites for histone H1",
+        "They demarcate loops of chromatin anchored to the nuclear matrix",
+        "They code for ribosomal RNA"
+      ],
+      "answer": 2,
+      "explanation": "MARs define the boundaries of chromatin loops that are tethered to the nuclear matrix, influencing replication and transcription regulation.",
+      "topic": "Nuclear matrix"
+    },
+    {
+      "question": "Which organelle is present in plant cells but absent in animal cells?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Lysosome",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts contain chlorophyll for photosynthesis and are characteristic of plant cells; animal cells lack chloroplasts.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes membrane‑bound from non‑membrane‑bound organelles?",
+      "options": [
+        "Membrane‑bound organelles are enclosed by a phospholipid bilayer, whereas non‑membrane‑bound organelles lack such a membrane",
+        "Non‑membrane‑bound organelles contain DNA, while membrane‑bound organelles do not",
+        "Membrane‑bound organelles occur only in animal cells",
+        "Non‑membrane‑bound organelles are exclusively involved in protein synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Membrane‑bound organelles (e.g., nucleus, mitochondria) are surrounded by a lipid bilayer; non‑membrane‑bound structures like ribosomes or the nucleolus have no delimiting membrane.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which organelle is considered semi‑autonomous because it possesses its own DNA and ribosomes?",
+      "options": [
+        "Mitochondrion",
+        "Endoplasmic reticulum",
+        "Peroxisome",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria contain circular DNA and their own ribosomes, allowing limited independent protein synthesis, classifying them as semi‑autonomous.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "In prokaryotic cells, which structure performs a function analogous to the eukaryotic nucleus?",
+      "options": [
+        "Nucleoid region",
+        "Ribosome",
+        "Cell wall",
+        "Plasmid"
+      ],
+      "answer": 0,
+      "explanation": "The nucleoid is an irregularly shaped region containing the cell’s circular DNA, serving a role similar to the nucleus in housing genetic material.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which pair correctly matches an organelle with its primary function?",
+      "options": [
+        "Lysosome – protein synthesis",
+        "Golgi apparatus – modification and sorting of proteins",
+        "Ribosome – lipid synthesis",
+        "Chloroplast – ATP generation via oxidative phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "The Golgi apparatus receives proteins from the ER and modifies, sorts, and packages them for transport; the other pairings are incorrect.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which organelle is not bounded by a membrane but still participates in the organization of the cytoskeleton?",
+      "options": [
+        "Centrosome",
+        "Endoplasmic reticulum",
+        "Mitochondrion",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "The centrosome, composed of centrioles and pericentriolar material, lacks a surrounding membrane and nucleates microtubules for cytoskeletal organization.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which statement correctly compares the genetic material of mitochondria and chloroplasts with that of the nucleus?",
+      "options": [
+        "Both mitochondria and chloroplasts contain circular double‑stranded DNA, whereas nuclear DNA is linear",
+        "Both mitochondria and chloroplasts contain linear DNA, similar to nuclear DNA",
+        "Mitochondria have linear DNA while chloroplasts have circular DNA",
+        "Both mitochondria and chloroplasts contain double‑stranded RNA instead of DNA"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondrial and chloroplast genomes are circular double‑stranded DNA molecules, in contrast to the linear chromosomes of the eukaryotic nucleus.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which organelle is primarily involved in detoxification of hydrogen peroxide in plant cells?",
+      "options": [
+        "Peroxisome",
+        "Lysosome",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "Peroxisomes contain catalase, an enzyme that converts hydrogen peroxide into water and oxygen, thereby detoxifying the cell.",
+      "topic": "Cell organelle comparison"
+    },
+    {
+      "question": "Which of the following is NOT a membrane‑bound organelle?",
+      "options": [
+        "Mitochondrion",
+        "Ribosome",
+        "Lysosome",
+        "Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Ribosomes are composed of RNA and protein and lack a surrounding phospholipid membrane, unlike mitochondria, lysosomes and the Golgi apparatus which are membrane‑bound.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "The nucleolus is classified as:",
+      "options": [
+        "A membrane‑bound organelle",
+        "A non‑membrane‑bound organelle",
+        "Both membrane‑bound and non‑membrane‑bound",
+        "Neither, it is a cellular region"
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus is a dense region within the nucleus that lacks a delimiting membrane; it is therefore a non‑membrane‑bound organelle.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "Which organelle is present in plant cells but absent in animal cells and is membrane‑bound?",
+      "options": [
+        "Chloroplast",
+        "Centrosome",
+        "Lysosome",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts, surrounded by a double membrane, are characteristic of plant cells and are not found in animal cells.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "Which statement correctly distinguishes membrane‑bound from non‑membrane‑bound organelles?",
+      "options": [
+        "Membrane‑bound organelles are enclosed by a phospholipid bilayer, whereas non‑membrane‑bound organelles lack such a membrane.",
+        "Membrane‑bound organelles are involved only in metabolism, while non‑membrane‑bound organelles handle genetic material.",
+        "Membrane‑bound organelles are always larger than 1 µm, non‑membrane‑bound are smaller.",
+        "Membrane‑bound organelles occur only in eukaryotes, non‑membrane‑bound only in prokaryotes."
+      ],
+      "answer": 0,
+      "explanation": "The defining feature is the presence of a surrounding phospholipid membrane for membrane‑bound organelles; non‑membrane‑bound organelles such as ribosomes or centrosomes do not have this enclosure.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "Which pair correctly matches a non‑membrane‑bound organelle with its primary function?",
+      "options": [
+        "Centrosome – protein synthesis",
+        "Ribosome – site of translation",
+        "Nucleolus – ATP production",
+        "Cytoskeleton – lipid digestion"
+      ],
+      "answer": 1,
+      "explanation": "Ribosomes, which lack a membrane, are the cellular sites where mRNA is translated into polypeptide chains.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "In the context of the endomembrane system, which organelle is considered semi‑autonomous and possesses its own DNA?",
+      "options": [
+        "Mitochondrion",
+        "Endoplasmic reticulum",
+        "Peroxisome",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria have their own circular DNA and replicate independently of the cell cycle, making them semi‑autonomous membrane‑bound organelles.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "Which organelle is a non‑membrane‑bound structure that organizes microtubules during cell division?",
+      "options": [
+        "Centrosome",
+        "Lysosome",
+        "Chloroplast",
+        "Endosome"
+      ],
+      "answer": 0,
+      "explanation": "The centrosome, lacking a surrounding membrane, nucleates and anchors microtubules, forming the spindle apparatus in mitosis.",
+      "topic": "Membrane-bound and non-membrane-bound organelles"
+    },
+    {
+      "question": "Which organelle is present in plant cells but absent in animal cells?",
+      "options": [
+        "Chloroplast",
+        "Lysosome",
+        "Centriole",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts are the sites of photosynthesis and are found only in plant (and some algal) cells, whereas animal cells do not contain chloroplasts.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "What provides the rigid structural support characteristic of plant cells?",
+      "options": [
+        "Plasma membrane",
+        "Cell wall",
+        "Cytoskeleton",
+        "Glycocalyx"
+      ],
+      "answer": 1,
+      "explanation": "The cell wall, composed mainly of cellulose, gives plant cells their rigidity and shape, a feature absent in animal cells.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Which statement about vacuoles is correct?",
+      "options": [
+        "Plant cells usually contain a single large central vacuole",
+        "Animal cells contain multiple small vacuoles",
+        "Both plant and animal cells lack vacuoles",
+        "Vacuoles are involved in photosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "A prominent feature of plant cells is a large central vacuole that occupies most of the cell volume and functions in storage and turgor maintenance.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Plasmodesmata are:",
+      "options": [
+        "Gap junctions in animal cells",
+        "Channels connecting plant cells",
+        "Desmosomes",
+        "Tight junctions"
+      ],
+      "answer": 1,
+      "explanation": "Plasmodesmata are microscopic channels that traverse the cell walls of plant cells, allowing transport and communication between adjacent cells.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Which structure organizes the mitotic spindle in animal cells but is generally absent in higher plant cells?",
+      "options": [
+        "Nucleolus",
+        "Centrosome",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells possess centrosomes containing centrioles that nucleate spindle microtubules; most higher plants lack centrosomes and use alternative spindle-organizing centers.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Which feature is typical of animal cells but not of plant cells?",
+      "options": [
+        "Presence of lysosomes",
+        "Presence of chloroplasts",
+        "Presence of cell wall",
+        "Presence of large central vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Lysosomes, containing hydrolytic enzymes for intracellular digestion, are common in animal cells and are generally absent in plant cells.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Plant cells store starch as an energy reserve, whereas animal cells primarily store which polysaccharide?",
+      "options": [
+        "Glycogen",
+        "Starch",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": 0,
+      "explanation": "Animal cells store excess glucose as glycogen, a highly branched polysaccharide, while plants store it as starch.",
+      "topic": "Plant cell versus animal cell"
+    },
+    {
+      "question": "Which of the following is a distinctive feature of eukaryotic cells compared to prokaryotic cells?",
+      "options": [
+        "Presence of a single circular chromosome",
+        "Presence of membrane‑bound organelles",
+        "Presence of a peptidoglycan cell wall",
+        "Presence of 70S ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cells contain membrane‑bound organelles such as nucleus, mitochondria, and endoplasmic reticulum, which are absent in prokaryotes.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "In prokaryotic cells, transcription and translation are coupled because:",
+      "options": [
+        "DNA is linear",
+        "mRNA undergoes extensive splicing",
+        "No nuclear membrane separates the processes",
+        "Ribosomes are 80S"
+      ],
+      "answer": 2,
+      "explanation": "Lack of a nuclear envelope allows ribosomes to initiate translation on nascent mRNA while it is still being transcribed.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "Which statement correctly describes the DNA organization in eukaryotic cells?",
+      "options": [
+        "DNA is organized as a single circular chromosome in the nucleoid",
+        "DNA is linear and associated with histone proteins forming nucleosomes",
+        "DNA is present as plasmids only",
+        "DNA is double‑stranded RNA"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic chromosomes are linear and wrapped around histone octamers, forming nucleosomes that further fold into chromatin.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "Which of the following organelles is absent in prokaryotes but present in eukaryotes?",
+      "options": [
+        "Ribosome",
+        "Cell membrane",
+        "Mitochondrion",
+        "Flagellum"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondria are membrane‑bound organelles found only in eukaryotic cells; prokaryotes lack them.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "The typical size range of prokaryotic cells is:",
+      "options": [
+        "0.1–0.5 µm",
+        "1–10 µm",
+        "10–100 µm",
+        "100–1000 µm"
+      ],
+      "answer": 1,
+      "explanation": "Most bacteria (prokaryotes) are 1–10 µm in length, whereas many eukaryotic cells are larger.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "Which component of the cell wall is characteristic of most bacterial (prokaryotic) cells but not of plant (eukaryotic) cells?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Lignin"
+      ],
+      "answer": 2,
+      "explanation": "Peptidoglycan forms the rigid cell wall of bacteria; plant cell walls are primarily composed of cellulose.",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "Which of the following statements about ribosomes is true?",
+      "options": [
+        "Prokaryotes have 80S ribosomes, eukaryotes have 70S ribosomes",
+        "Both have 70S ribosomes",
+        "Both have 80S ribosomes",
+        "Prokaryotes have 70S ribosomes, eukaryotes have 80S ribosomes"
+      ],
+      "answer": 3,
+      "explanation": "Prokaryotic ribosomes are 70S (30S + 50S), while eukaryotic ribosomes are 80S (40S + 60S).",
+      "topic": "Prokaryotic versus eukaryotic cell"
+    },
+    {
+      "question": "Which sequence correctly describes the intracellular route of a protein that is synthesized for secretion?",
+      "options": [
+        "Ribosome → Nucleus → Golgi → ER → Vesicle → Plasma membrane",
+        "Ribosome → Rough ER → Golgi → Secretory vesicle → Plasma membrane",
+        "Ribosome → Rough ER → Lysosome → Golgi → Plasma membrane",
+        "Ribosome → Smooth ER → Golgi → Vacuole → Plasma membrane"
+      ],
+      "answer": 1,
+      "explanation": "Secretory proteins are translated on ribosomes attached to the rough ER, enter the ER lumen, move to the Golgi for processing, are packaged into secretory vesicles, and finally fuse with the plasma membrane to release their contents.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "COPII-coated vesicles are primarily involved in which transport step within the endomembrane system?",
+      "options": [
+        "Retrograde transport from Golgi to ER",
+        "Lipid transport from plasma membrane to lysosome",
+        "Anterograde transport from ER to Golgi",
+        "Retrograde transport from Golgi to plasma membrane"
+      ],
+      "answer": 2,
+      "explanation": "COPII coats mediate the budding of vesicles that carry newly synthesized proteins from the endoplasmic reticulum to the Golgi apparatus (anterograde transport).",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "Which organelle is a direct continuation of the nuclear envelope and participates in the endomembrane system?",
+      "options": [
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum",
+        "Lysosome",
+        "Peroxisome"
+      ],
+      "answer": 1,
+      "explanation": "The outer membrane of the nuclear envelope is continuous with the membrane of the rough endoplasmic reticulum, making the RER a functional extension of the nuclear envelope.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "In plant cells, the large central vacuole is functionally analogous to which animal cell organelle?",
+      "options": [
+        "Lysosome",
+        "Endosome",
+        "Golgi apparatus",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Both the plant central vacuole and animal lysosome contain hydrolytic enzymes and are involved in degradation of macromolecules, serving similar digestive functions.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "Which statement about the endomembrane system is FALSE?",
+      "options": [
+        "The Golgi apparatus modifies N‑linked oligosaccharides on proteins received from the ER.",
+        "Endosomes receive material from both the plasma membrane and the Golgi.",
+        "The smooth ER is the primary site of protein synthesis for secretory proteins.",
+        "Vesicular transport ensures compartmentalization of metabolic pathways."
+      ],
+      "answer": 2,
+      "explanation": "Secretory protein synthesis occurs on ribosomes bound to the rough ER, not the smooth ER, which is mainly involved in lipid synthesis and detoxification.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "SNARE proteins are essential for which cellular process?",
+      "options": [
+        "Synthesis of phospholipids in the ER",
+        "Recognition of signal peptides in the nucleus",
+        "Fusion of transport vesicles with target membranes",
+        "Degradation of misfolded proteins in lysosomes"
+      ],
+      "answer": 2,
+      "explanation": "SNARE complexes on vesicle and target membranes drive the precise docking and fusion required for vesicular transport within the endomembrane system.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "What is the correct pathway for a membrane protein that is destined for the lysosome?",
+      "options": [
+        "Rough ER → Golgi → Transport vesicle → Lysosome",
+        "Rough ER → Golgi → Plasma membrane → Endocytosis → Lysosome",
+        "Rough ER → Golgi → Endosome → Lysosome",
+        "Rough ER → Endosome → Golgi → Lysosome"
+      ],
+      "answer": 2,
+      "explanation": "Lysosomal membrane proteins are sorted in the Golgi, packaged into vesicles that fuse with early endosomes, and are then delivered to lysosomes via the endosome‑lysosome maturation pathway.",
+      "topic": "Endomembrane system integration"
+    },
+    {
+      "question": "Which characteristic most clearly distinguishes semi‑autonomous organelles from other membrane‑bound organelles in eukaryotic cells?",
+      "options": [
+        "They contain their own circular DNA",
+        "They possess a double membrane",
+        "They are involved in ATP synthesis",
+        "They are surrounded by a single lipid bilayer"
+      ],
+      "answer": 0,
+      "explanation": "Semi‑autonomous organelles such as mitochondria and chloroplasts have their own circular DNA, allowing them to synthesize some of their own proteins independently of the nucleus.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "In most flowering plants, chloroplasts are inherited primarily through which mode of transmission?",
+      "options": [
+        "Biparental inheritance",
+        "Maternal inheritance",
+        "Paternal inheritance",
+        "Random segregation"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts are usually transmitted through the egg cell, leading to maternal inheritance in the majority of angiosperms.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "Mitochondria replicate inside the cell by a mechanism most similar to:",
+      "options": [
+        "Binary fission",
+        "Mitosis",
+        "Meiosis",
+        "Budding"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria divide by binary fission, a process akin to that of many bacteria, reflecting their endosymbiotic origin.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "Which statement about the mitochondrial genome is correct?",
+      "options": [
+        "It is linear like nuclear chromosomes",
+        "It is circular and encodes all proteins required for oxidative phosphorylation",
+        "It is circular but encodes only a small fraction of mitochondrial proteins",
+        "It is identical in sequence to nuclear DNA"
+      ],
+      "answer": 2,
+      "explanation": "The mitochondrial genome is circular and relatively small; it encodes only a limited set of proteins, while the majority are nuclear‑encoded and imported.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "The inner membrane of mitochondria is extensively folded into structures called:",
+      "options": [
+        "Cristae",
+        "Thylakoids",
+        "Lamellae",
+        "Vesicles"
+      ],
+      "answer": 0,
+      "explanation": "Cristae are the invaginations of the inner mitochondrial membrane that increase surface area for oxidative phosphorylation.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "Which of the following organelles is NOT classified as semi‑autonomous?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Peroxisome",
+        "Plastid"
+      ],
+      "answer": 2,
+      "explanation": "Peroxisomes lack their own DNA and rely entirely on nuclear‑encoded proteins, unlike mitochondria, chloroplasts, and other plastids.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "According to the endosymbiotic theory, the ancestral bacterium that gave rise to mitochondria is most closely related to which modern group?",
+      "options": [
+        "Gram‑positive bacteria",
+        "Gram‑negative bacteria",
+        "Archaea",
+        "Cyanobacteria"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria are thought to have originated from an α‑proteobacterial (Gram‑negative) ancestor that entered into a symbiotic relationship with a proto‑eukaryotic cell.",
+      "topic": "Semi-autonomous organelles"
+    },
+    {
+      "question": "In a typical animal cell diagram, which labeled structure corresponds to the site of ribosome assembly?",
+      "options": [
+        "Nucleolus",
+        "Golgi apparatus",
+        "Endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "answer": 0,
+      "explanation": "The nucleolus, located within the nucleus, is the region where ribosomal RNA is synthesized and ribosomal subunits are assembled before being transported to the cytoplasm.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "In a plant cell diagram, the large central vacuole is indicated by label V. Which of the following statements about this vacuole is correct?",
+      "options": [
+        "It stores pigments",
+        "It maintains turgor pressure",
+        "It contains DNA",
+        "It synthesizes proteins"
+      ],
+      "answer": 1,
+      "explanation": "The central vacuole in plant cells primarily maintains turgor pressure, which is essential for cell rigidity and plant stature.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "A diagram shows a double‑membrane‑bound organelle with inner folds called cristae. Which organelle is it?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Nucleus",
+        "Peroxisome"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria have an outer membrane and a highly folded inner membrane (cristae) that increase surface area for oxidative phosphorylation.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "In a cell diagram, label P denotes a network of protein filaments that provides structural support to the nucleus. What is this structure?",
+      "options": [
+        "Nuclear matrix",
+        "Nuclear envelope",
+        "Nucleoplasm",
+        "Chromatin"
+      ],
+      "answer": 0,
+      "explanation": "The nuclear matrix is a fibrous network inside the nucleus that helps maintain its shape and organizes chromatin.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "A diagram of a prokaryotic cell lacks a membrane‑bound nucleus. Which of the following structures present in a eukaryotic cell diagram would be missing in a prokaryotic cell diagram?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Plasma membrane",
+        "Cytoplasm"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotes do not possess a membrane‑bound nucleus; their genetic material is in a nucleoid region, unlike eukaryotic cells which have a distinct nucleus.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "In a diagram of a plant cell, label C indicates a double‑membrane‑bound organelle containing chlorophyll. Which process primarily occurs in this organelle?",
+      "options": [
+        "Photosynthesis",
+        "Cellular respiration",
+        "Protein synthesis",
+        "Lipid digestion"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts contain chlorophyll and are the site of photosynthesis, converting light energy into chemical energy.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "A cell diagram shows a series of flattened sacs stacked like pancakes, labeled G. Which organelle does this represent and what is its main function?",
+      "options": [
+        "Golgi apparatus – protein modification and sorting",
+        "Endoplasmic reticulum – lipid synthesis",
+        "Lysosome – digestion",
+        "Vacuole – storage"
+      ],
+      "answer": 0,
+      "explanation": "The Golgi apparatus consists of stacked cisternae (flattened sacs) and is responsible for modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles.",
+      "topic": "Cell structure diagram practice"
+    },
+    {
+      "question": "Which of the following statements correctly describes euchromatin and heterochromatin as presented in NCERT integrated revision?",
+      "options": [
+        "Euchromatin is densely packed, stains dark, and is transcriptionally inactive, whereas heterochromatin is loosely packed, stains light, and is transcriptionally active.",
+        "Euchromatin is loosely packed, stains light, and is transcriptionally active, whereas heterochromatin is densely packed, stains dark, and is transcriptionally inactive.",
+        "Both euchromatin and heterochromatin are equally packed, but only heterochromatin is transcriptionally active.",
+        "Euchromatin contains only RNA, while heterochromatin contains only DNA."
+      ],
+      "answer": 1,
+      "explanation": "NCERT describes euchromatin as loosely packed, lightly staining, and transcriptionally active, while heterochromatin is densely packed, darkly staining, and transcriptionally inactive.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "According to NCERT integrated revision, which cellular structure is absent in prokaryotic cells but present in all eukaryotic cells?",
+      "options": [
+        "Ribosome",
+        "Plasma membrane",
+        "Nucleus",
+        "Cytoplasm"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotes lack a membrane-bound nucleus; all eukaryotic cells possess a nucleus containing the genetic material.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "In NCERT's integrated revision of plant versus animal cells, which of the following is a characteristic feature unique to plant cells?",
+      "options": [
+        "Presence of centrioles",
+        "Presence of lysosomes",
+        "Presence of cell wall composed of cellulose",
+        "Presence of flagella"
+      ],
+      "answer": 2,
+      "explanation": "Plant cells have a rigid cell wall made of cellulose, a feature not found in animal cells.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "NCERT integrated revision states that nuclear pores allow passive diffusion of certain molecules. Which of the following can freely diffuse through nuclear pores without active transport?",
+      "options": [
+        "DNA polymerase",
+        "mRNA",
+        "Small ions (e.g., Na+)",
+        "Ribosomal subunits"
+      ],
+      "answer": 2,
+      "explanation": "Small ions and molecules below ~40 kDa can passively diffuse through nuclear pores, whereas larger macromolecules require active transport.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "The nucleolus, as described in NCERT integrated revision, is primarily the site of:",
+      "options": [
+        "DNA replication",
+        "Ribosomal RNA synthesis and ribosome assembly",
+        "Lipid synthesis",
+        "Protein degradation"
+      ],
+      "answer": 1,
+      "explanation": "The nucleolus is the region where rRNA is transcribed, processed, and combined with ribosomal proteins to form ribosomal subunits.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "Integrated revision in NCERT links chromatin organization with replication timing. Which statement is correct?",
+      "options": [
+        "Euchromatin replicates late in S phase, while heterochromatin replicates early.",
+        "Heterochromatin replicates early in S phase, while euchromatin replicates late.",
+        "Euchromatin replicates early in S phase, while heterochromatin replicates late.",
+        "Both euchromatin and heterochromatin replicate simultaneously throughout S phase."
+      ],
+      "answer": 2,
+      "explanation": "Euchromatin, being less condensed, is replicated early in S phase; heterochromatin, being more condensed, replicates later.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "NCERT comparison tables classify organelles based on membrane presence. Which pair is correctly matched?",
+      "options": [
+        "Mitochondria – non‑membrane‑bound organelle",
+        "Endoplasmic reticulum – membrane‑bound organelle",
+        "Ribosome – membrane‑bound organelle",
+        "Cytoskeleton – membrane‑bound organelle"
+      ],
+      "answer": 1,
+      "explanation": "The endoplasmic reticulum is a classic example of a membrane‑bound organelle, whereas mitochondria also have membranes but the given pair correctly matches ER with membranes.",
+      "topic": "NCERT-based integrated revision"
+    },
+    {
+      "question": "Which statement correctly distinguishes euchromatin from heterochromatin?",
+      "options": [
+        "Euchromatin is transcriptionally active and appears lightly stained, whereas heterochromatin is transcriptionally inactive and appears densely stained.",
+        "Euchromatin is densely packed and transcriptionally inactive, whereas heterochromatin is loosely packed and transcriptionally active.",
+        "Both euchromatin and heterochromatin are transcriptionally active but differ in DNA sequence composition.",
+        "Heterochromatin contains only RNA, while euchromatin contains DNA."
+      ],
+      "answer": 0,
+      "explanation": "Euchromatin is loosely packed, lightly stained, and transcriptionally active; heterochromatin is densely packed, darkly stained, and transcriptionally silent.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Which of the following is a true difference between plant and animal cells?",
+      "options": [
+        "Plant cells contain centrioles, animal cells do not.",
+        "Plant cells have cell walls made of cellulose, while animal cells lack cell walls.",
+        "Animal cells possess chloroplasts for photosynthesis, whereas plant cells do not.",
+        "Plant cells have lysosomes, whereas animal cells lack lysosomes."
+      ],
+      "answer": 1,
+      "explanation": "Plant cells are characterized by a rigid cellulose cell wall, a feature absent in animal cells.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Which feature correctly differentiates prokaryotic cells from eukaryotic cells?",
+      "options": [
+        "Prokaryotes possess a true nucleus bounded by a nuclear envelope, while eukaryotes do not.",
+        "Eukaryotic chromosomes are linear and associated with histones; prokaryotic chromosomes are circular and lack histones.",
+        "Both prokaryotes and eukaryotes have membrane‑bound organelles such as mitochondria.",
+        "Prokaryotes have introns in their genes, whereas eukaryotes have uninterrupted coding sequences."
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotes have linear, histone‑bound chromosomes; prokaryotes typically have a single circular chromosome without histones.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Which membrane‑bound organelle is primarily involved in protein synthesis?",
+      "options": [
+        "Nucleolus",
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Cytoskeleton"
+      ],
+      "answer": 1,
+      "explanation": "The rough ER is studded with ribosomes and is the main site for synthesis of secretory and membrane proteins.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Which statement correctly compares nuclear pores with the nuclear envelope?",
+      "options": [
+        "Nuclear pores are continuous lipid bilayers, while nuclear envelope is composed of protein channels.",
+        "Nuclear pores allow selective transport of macromolecules, whereas nuclear envelope provides a structural barrier.",
+        "Nuclear envelope is present only in plant cells, nuclear pores only in animal cells.",
+        "Both nuclear pores and nuclear envelope are composed of phospholipid monolayers."
+      ],
+      "answer": 1,
+      "explanation": "Nuclear pores are protein complexes that regulate passage of molecules across the double‑membrane nuclear envelope, which itself acts as a barrier.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Identify the correct organelle‑function pairing:",
+      "options": [
+        "Mitochondria – photosynthesis",
+        "Chloroplast – ATP synthesis via oxidative phosphorylation",
+        "Lysosome – digestion of macromolecules within the cell",
+        "Peroxisome – synthesis of ribosomal RNA"
+      ],
+      "answer": 2,
+      "explanation": "Lysosomes contain hydrolytic enzymes that break down macromolecules, serving as the cell’s digestive system.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "Which comparison correctly distinguishes a membrane‑bound organelle from a non‑membranous one?",
+      "options": [
+        "Ribosomes are membrane‑bound, while mitochondria are non‑membranous",
+        "Nucleolus is membrane‑bound, while Golgi apparatus is non‑membranous",
+        "Endoplasmic reticulum is membrane‑bound; nucleolus is non‑membranous",
+        "Vacuole is non‑membranous, while cytoskeleton is membrane‑bound"
+      ],
+      "answer": 2,
+      "explanation": "The endoplasmic reticulum is enclosed by a lipid bilayer, whereas the nucleolus lacks a surrounding membrane.",
+      "topic": "High-yield NEET comparisons"
+    },
+    {
+      "question": "A common misconception is that the nucleolus is primarily involved in DNA replication. What is the actual main function of the nucleolus?",
+      "options": [
+        "DNA replication",
+        "Protein synthesis",
+        "Ribosomal RNA synthesis and ribosome assembly",
+        "Lipid metabolism"
+      ],
+      "answer": 2,
+      "explanation": "The nucleolus is the site where ribosomal RNA is transcribed, processed, and assembled with ribosomal proteins to form ribosomal subunits, not where DNA replication occurs.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "Students often think that chromatin and chromosomes are identical structures. Which statement correctly distinguishes them?",
+      "options": [
+        "Chromatin is the site of DNA replication",
+        "Chromatin is the condensed form of chromosomes visible during cell division",
+        "Chromatin is a membrane-bound organelle",
+        "Chromatin is the region where RNA transcription occurs"
+      ],
+      "answer": 1,
+      "explanation": "Chromatin refers to DNA-protein complex in a less condensed state; during mitosis it condenses to form visible chromosomes.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "A frequent trap is believing that euchromatin is found only in prokaryotes. Which description accurately reflects euchromatin?",
+      "options": [
+        "DNA found exclusively in prokaryotes",
+        "Highly condensed heterochromatin",
+        "Less condensed, transcriptionally active chromatin in eukaryotes",
+        "A membrane-bound organelle"
+      ],
+      "answer": 2,
+      "explanation": "Euchromatin is the loosely packed form of chromatin in eukaryotic nuclei that is transcriptionally active, unlike the tightly packed heterochromatin.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "Many think plant cells lack lysosomes because they have large vacuoles. What is the correct relationship?",
+      "options": [
+        "Plant cells lack lysosomes",
+        "Plant vacuoles contain hydrolytic enzymes similar to lysosomal enzymes",
+        "Lysosomes are replaced by chloroplasts in plants",
+        "Plant cells have lysosomes identical to animal cells"
+      ],
+      "answer": 1,
+      "explanation": "Plant vacuoles house hydrolytic enzymes that perform functions analogous to lysosomal enzymes, so the degradative role is present albeit in a different compartment.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "A typical misunderstanding is that nuclear pores allow unrestricted passage of all molecules. What actually passes freely through nuclear pores?",
+      "options": [
+        "All molecules pass freely",
+        "Only ions pass freely",
+        "Molecules smaller than ~40 kDa can diffuse freely",
+        "Only proteins pass freely"
+      ],
+      "answer": 2,
+      "explanation": "Nuclear pores permit passive diffusion of small molecules (generally ≤40 kDa); larger macromolecules require active transport mediated by nuclear transport receptors.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "Students sometimes assume the nuclear envelope is continuous with the plasma membrane. Which membrane is it actually continuous with?",
+      "options": [
+        "Plasma membrane",
+        "Rough endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondrial outer membrane"
+      ],
+      "answer": 1,
+      "explanation": "The outer membrane of the nuclear envelope is continuous with the membrane of the rough endoplasmic reticulum, forming a connected membrane system.",
+      "topic": "Common conceptual traps"
+    },
+    {
+      "question": "A common trap is thinking only mitochondria have their own DNA because they are semi‑autonomous. Which statement is correct?",
+      "options": [
+        "Only mitochondria have DNA",
+        "Only chloroplasts have DNA",
+        "Both mitochondria and chloroplasts possess their own circular DNA",
+        "Neither have DNA"
+      ],
+      "answer": 2,
+      "explanation": "Both mitochondria and chloroplasts contain their own circular genomes, reflecting their endosymbiotic origin and semi‑autonomous nature.",
+      "topic": "Common conceptual traps"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 22,
+    "mcqCount": 155
+  }
+}

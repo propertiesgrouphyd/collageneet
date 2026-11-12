@@ -1,0 +1,1004 @@
+{
+  "day": 10,
+  "courseDate": "2026-09-08",
+  "publishAt": "2026-09-08T06:00:00+05:30",
+  "title": "Day 10 Integrated Revision – Structural Organisation in Plants and Animals",
+  "introduction": "This lesson consolidates morphology, anatomy and tissue concepts of plants and animals, revisits earthworm, cockroach and frog systems, and equips you with NEET‑style statement and diagram practice.",
+  "sections": [
+    {
+      "topic": "Morphology revision",
+      "heading": "Root, Stem, Leaf and Floral Morphology",
+      "content": "Compare root, stem and leaf structures: roots possess radicle, root cap, and pericycle; stems have nodes, internodes, and vascular bundles; leaves exhibit lamina, petiole and midrib. Floral terminology includes sepals, petals, stamens, pistils, and inflorescence types. Aestivation (pre‑floral bud arrangement) and placentation (ovule attachment) are key for angiosperm identification.",
+      "keyPoints": [
+        "Root: radicle + root cap; stem: nodes + internodes; leaf: lamina + midrib",
+        "Floral parts: sepals, petals, stamens, pistils",
+        "Aestivation patterns: valvate, imbricate; placentation: axile, basal, free‑central"
+      ],
+      "neetTips": [
+        "Link each organ’s microscopic tissue pattern to its macroscopic function for quick recall",
+        "Remember one example for each aestivation and placentation type to answer statement‑based questions"
+      ]
+    },
+    {
+      "topic": "Plant anatomy revision",
+      "heading": "Tissue Types and Monocot‑Dicot Anatomy",
+      "content": "Plant tissues are classified as dermal (epidermis, periderm), ground (parenchyma, collenchyma, sclerenchyma) and vascular (xylem, phloem). Monocots have scattered vascular bundles, fibrous roots and parallel leaf venation; dicots display a ring of vascular bundles, taproot system and reticulate venation. Comparative tables aid rapid NEET recall.",
+      "keyPoints": [
+        "Dermal: cuticle + epidermis; Ground: photosynthetic and supportive cells; Vascular: xylem + phloem",
+        "Monocot: scattered bundles, parallel veins",
+        "Dicot: ring of bundles, netted veins"
+      ],
+      "neetTips": [
+        "Draw a side‑by‑side schematic of monocot vs dicot cross‑section for visual memory",
+        "Use the mnemonic ‘D‑V‑G’ for Dermal‑Vascular‑Ground when listing tissues"
+      ]
+    },
+    {
+      "topic": "Animal tissues revision",
+      "heading": "Animal Tissue Classification and Muscle‑Connective Comparisons",
+      "content": "Animal tissues are grouped into epithelial, connective, muscle and nervous. Epithelial types: simple squamous to stratified columnar. Connective tissue includes loose (areolar), dense regular, adipose and cartilage. Muscle tissue: skeletal (striated, voluntary), cardiac (branched, intercalated discs), smooth (non‑striated, involuntary). Comparative charts highlight structural‑functional links.",
+      "keyPoints": [
+        "Four basic tissue types: epithelial, connective, muscle, nervous",
+        "Connective: matrix‑rich, varies in fiber density",
+        "Muscle: skeletal‑striated, cardiac‑branched, smooth‑non‑striated"
+      ],
+      "neetTips": [
+        "Associate each muscle type with its control (voluntary vs involuntary) for statement questions",
+        "Recall that cartilage is a specialized connective tissue lacking blood vessels"
+      ]
+    },
+    {
+      "topic": "Earthworm revision",
+      "heading": "Earthworm Organ Systems Overview",
+      "content": "Earthworms (Annelida) possess a closed circulatory system with dorsal blood vessel, five pairs of chaetae, a muscular pharynx, and a simple tubular gut (foregut, crop, gizzard, intestine). Excretory nephridia are segmentally arranged. Sensory structures include light‑sensitive cells in the prostomium.",
+      "keyPoints": [
+        "Closed circulatory system with dorsal vessel",
+        "Five pairs of chaetae aid locomotion",
+        "Nephridia function as excretory units"
+      ],
+      "neetTips": [
+        "Link the presence of a gizzard to mechanical digestion in the earthworm’s gut"
+      ]
+    },
+    {
+      "topic": "Cockroach revision",
+      "heading": "Cockroach (Insect) Organ Systems",
+      "content": "Cockroaches exhibit a tracheal respiratory system with spiracles, a dorsal heart with ostia, a complete digestive tract (foregut, midgut, hindgut), Malpighian tubules for excretion, and compound eyes. Their nervous system includes a brain (supra‑esophageal ganglion) and ventral nerve cord with segmental ganglia.",
+      "keyPoints": [
+        "Spiracles connect to tracheae for gas exchange",
+        "Malpighian tubules regulate water and nitrogenous waste",
+        "Compound eyes provide wide field of view"
+      ],
+      "neetTips": [
+        "Remember that the cockroach’s heart is a dorsal tube – a key contrast to vertebrate ventral hearts"
+      ]
+    },
+    {
+      "topic": "Frog revision",
+      "heading": "Frog (Amphibian) Organ Systems",
+      "content": "Frogs possess a three‑chambered heart (two atria, one ventricle), lungs with moist alveolar walls, a muscular buccal cavity for cutaneous respiration, and a digestive tract ending in a cloaca. Their reproductive system includes external fertilisation via amplexus. The skin is richly vascularised for gas exchange.",
+      "keyPoints": [
+        "Three‑chambered heart allows partial mixing of blood",
+        "Cutaneous respiration via moist skin",
+        "Cloaca serves as common exit for urinary, digestive, reproductive wastes"
+      ],
+      "neetTips": [
+        "Highlight the dual respiratory modes (lungs + skin) for NEET comparative questions"
+      ]
+    },
+    {
+      "topic": "Plant versus animal organisation",
+      "heading": "Comparative Structural Organisation",
+      "content": "Plants exhibit modular growth with meristems, rigid cell walls, and a unidirectional transport system (xylem upward, phloem bidirectional). Animals have determinate growth, flexible connective tissues, and a closed circulatory system. Comparative tables of tissue types, transport mechanisms and organ specialisation aid high‑yield revision.",
+      "keyPoints": [
+        "Plants: meristems, cell walls, xylem‑phloem transport",
+        "Animals: flexible tissues, closed circulation",
+        "Key contrast: unidirectional vs bidirectional transport"
+      ],
+      "neetTips": [
+        "Use a Venn diagram to visualise overlapping and distinct features for quick recall"
+      ]
+    },
+    {
+      "topic": "NCERT diagrams",
+      "heading": "Labelled Diagrams for NEET Preparation",
+      "content": "Key NCERT diagrams include transverse sections of monocot and dicot stems, earthworm body plan, cockroach tracheal system, and frog heart. Focus on correctly labelling epidermis, pericycle, vascular bundles, nephridia, spiracles, and atria. Practice redrawing from memory to cement spatial relationships.",
+      "keyPoints": [
+        "Monocot stem: scattered bundles, no pith",
+        "Dicot stem: ring of bundles, pith present",
+        "Frog heart: two atria, single ventricle"
+      ],
+      "neetTips": [
+        "During revision, cover the diagram and write all labels without peeking – improves recall for diagram‑based questions"
+      ]
+    },
+    {
+      "topic": "High-yield comparisons",
+      "heading": "Critical High‑Yield Contrasts",
+      "content": "Summarise essential contrasts: monocot vs dicot leaf venation, plant vs animal tissue matrix, earthworm closed vs cockroach open circulatory nuances, frog lung vs skin respiration, muscle fibre types, and placentation patterns. These bullet‑point tables are frequently tested in NEET conceptual questions.",
+      "keyPoints": [
+        "Monocot leaf: parallel veins; dicot leaf: reticulate veins",
+        "Animal connective tissue: collagen‑rich matrix vs plant ground tissue: parenchyma"
+      ],
+      "neetTips": [
+        "Create flashcards with one side showing a feature, the other side the contrasting counterpart"
+      ]
+    },
+    {
+      "topic": "NEET conceptual practice",
+      "heading": "Statement‑Based and Mixed Application Questions",
+      "content": "Practice statements such as ‘In monocots, vascular bundles are scattered’ (True) and ‘Frog skin lacks respiratory function’ (False). Mixed NEET applications integrate multiple concepts: e.g., linking plant tissue type to its role in water transport while comparing to animal vascular tissue. Solve at least five such statements daily.",
+      "keyPoints": [
+        "True/False statements test precise knowledge",
+        "Mixed questions require integration of plant and animal concepts"
+      ],
+      "neetTips": [
+        "When faced with a statement, mentally map the underlying structure before answering to avoid traps"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Integrate plant morphology, anatomy and tissue concepts with animal tissue and organ system knowledge for comprehensive NEET readiness",
+    "Apply comparative analysis of plant and animal structures to solve statement‑based and diagram‑based NEET questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which type of leaf venation is characteristic of monocotyledonous plants?",
+      "options": [
+        "Parallel venation",
+        "Reticulate venation",
+        "Dichotomous venation",
+        "Palmate venation"
+      ],
+      "answer": 0,
+      "explanation": "Monocots typically exhibit parallel veins that run the length of the leaf, whereas dicots show a reticulate (net‑like) pattern.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "In xerophytic plants, which root system is most commonly adapted for deep water acquisition?",
+      "options": [
+        "Taproot",
+        "Fibrous root",
+        "Adventitious root",
+        "Pneumatophore"
+      ],
+      "answer": 0,
+      "explanation": "Xerophytes often develop a prominent taproot that penetrates deep soil layers to reach moisture reserves.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "The arrangement of sepals and petals in a flower is described by which term?",
+      "options": [
+        "Phyllotaxy",
+        "Whorl",
+        "Node",
+        "Internode"
+      ],
+      "answer": 1,
+      "explanation": "Sepals and petals are positioned in concentric circles called whorls around the floral axis.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "Members of the Liliaceae family typically show which type of aestivation?",
+      "options": [
+        "Valvate",
+        "Imbricate",
+        "Twisted",
+        "Contorted"
+      ],
+      "answer": 0,
+      "explanation": "Liliaceae flowers display valvate aestivation, where the edges of adjacent perianth parts touch but do not overlap.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "Which placentation type is characteristic of legumes (family Fabaceae)?",
+      "options": [
+        "Axile",
+        "Basal",
+        "Marginal",
+        "Free central"
+      ],
+      "answer": 2,
+      "explanation": "Legumes have marginal placentation, with ovules attached along the ventral suture of the ovary.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "A swollen underground organ used for nutrient storage that is a modified stem is called a:",
+      "options": [
+        "Tuber",
+        "Rhizome",
+        "Bulb",
+        "Succulent stem"
+      ],
+      "answer": 0,
+      "explanation": "A tuber is a thickened stem that stores carbohydrates; examples include potato and yam.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "Which feature distinguishes monocot stems from dicot stems?",
+      "options": [
+        "Scattered vascular bundles",
+        "Ring of vascular bundles",
+        "Presence of pith",
+        "Secondary growth"
+      ],
+      "answer": 0,
+      "explanation": "Monocot stems have vascular bundles dispersed throughout the ground tissue, while dicot stems arrange them in a concentric ring.",
+      "topic": "Morphology revision"
+    },
+    {
+      "question": "Which tissue in the root is primarily responsible for water absorption?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Root hair epidermal cells",
+        "Pericycle"
+      ],
+      "answer": 2,
+      "explanation": "Root hairs are extensions of epidermal cells that increase surface area for water uptake.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "How are vascular bundles arranged in the stems of monocots compared to dicots?",
+      "options": [
+        "Scattered in monocots and in a ring in dicots",
+        "In a ring in monocots and scattered in dicots",
+        "Both have a ring arrangement",
+        "Both have scattered bundles"
+      ],
+      "answer": 0,
+      "explanation": "Monocot stems have vascular bundles scattered throughout the ground tissue, whereas dicot stems have them arranged in a peripheral ring.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "Which feature is NOT typical of a dicot leaf?",
+      "options": [
+        "Net (reticulate) venation",
+        "Parallel venation",
+        "Presence of palisade mesophyll",
+        "Reticulate venation"
+      ],
+      "answer": 1,
+      "explanation": "Parallel venation is characteristic of monocot leaves; dicot leaves usually exhibit net or reticulate venation.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "In a typical dicot stem, the region between adjacent vascular bundles is called the:",
+      "options": [
+        "Pith",
+        "Cortex",
+        "Pericycle",
+        "Interfascicular region"
+      ],
+      "answer": 3,
+      "explanation": "The interfascicular region (or interfascicular parenchyma) lies between vascular bundles in dicot stems.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "Which plant tissue initiates secondary growth (increase in girth) in dicot stems?",
+      "options": [
+        "Vascular cambium",
+        "Cork cambium",
+        "Procambium",
+        "Pith parenchyma"
+      ],
+      "answer": 0,
+      "explanation": "The vascular cambium is a lateral meristem that produces secondary xylem and phloem, leading to stem thickening.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "In a monocot root, the pericycle is located:",
+      "options": [
+        "Inside the endodermis",
+        "Outside the endodermis",
+        "Between xylem and phloem",
+        "In the pith"
+      ],
+      "answer": 1,
+      "explanation": "The pericycle in monocot roots lies just outside the endodermal layer, surrounding the vascular cylinder.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "Which statement about leaf mesophyll is correct?",
+      "options": [
+        "Palisade cells are more abundant in shade leaves",
+        "Spongy mesophyll contains tightly packed cells",
+        "Palisade mesophyll is primarily for gas exchange",
+        "Spongy mesophyll has large intercellular air spaces"
+      ],
+      "answer": 3,
+      "explanation": "Spongy mesophyll is characterized by loosely arranged cells with extensive air spaces, facilitating gas exchange.",
+      "topic": "Plant anatomy revision"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes skeletal muscle from cardiac muscle?",
+      "options": [
+        "Both have intercalated discs, but only skeletal muscle is under voluntary control",
+        "Skeletal muscle fibers are multinucleated, whereas cardiac muscle cells have a single central nucleus",
+        "Skeletal muscle is striated and non‑branched, while cardiac muscle is non‑striated and branched",
+        "Both types possess a high capacity for regeneration after injury"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle fibers are long, multinucleated, and non‑branched, whereas cardiac muscle cells are typically uninucleated, striated, and branched with intercalated discs.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "The epithelium lining the alveolar sacs of the lungs is best described as:",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified cuboidal epithelium",
+        "Pseudostratified columnar epithelium",
+        "Transitional epitheliution"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar walls are composed of a thin single layer of flat cells (simple squamous) to facilitate gas diffusion.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "Which connective tissue type is characterized by a matrix that is liquid at body temperature and functions as a transport medium for cells and nutrients?",
+      "options": [
+        "Dense regular connective tissue",
+        "Adipose tissue",
+        "Blood",
+        "Cartilage"
+      ],
+      "answer": 2,
+      "explanation": "Blood has a fluid (plasma) matrix that circulates throughout the body, carrying cells, nutrients, gases, and waste products.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "In the gastrointestinal tract, the transition from simple columnar epithelium to stratified squamous epithelium occurs at:",
+      "options": [
+        "Stomach to duodenum",
+        "Esophagus to stomach",
+        "Ileum to colon",
+        "Rectum to anal canal"
+      ],
+      "answer": 3,
+      "explanation": "The anal canal is lined by stratified squamous epithelium, whereas the rectum is lined by simple columnar epithelium; the transition occurs at the recto‑anal junction.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "Which of the following is a unique feature of smooth muscle cells compared to skeletal and cardiac muscle cells?",
+      "options": [
+        "Presence of intercalated discs",
+        "Ability to contract without neural stimulation",
+        "Presence of a single centrally placed nucleus and lack of striations",
+        "Multinucleated fibers"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle cells are uninucleated, spindle‑shaped, lack striations, and can contract in response to hormonal or autonomic signals without direct neural input.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "Which type of epithelial tissue provides the greatest protection against mechanical abrasion?",
+      "options": [
+        "Simple cuboidal epithelium",
+        "Stratified squamous keratinized epithelium",
+        "Pseudostratified columnar epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Keratinized stratified squamous epithelium, as found in skin, has multiple layers and a tough keratin layer, offering maximal protection against abrasion.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "Which statement correctly describes the role of fibroblasts in connective tissue?",
+      "options": [
+        "They store lipids for insulation",
+        "They produce collagen and other extracellular matrix fibers",
+        "They generate action potentials for nerve conduction",
+        "They line body cavities and secrete mucus"
+      ],
+      "answer": 1,
+      "explanation": "Fibroblasts are the principal cells that synthesize collagen, elastin, and ground substance, forming the extracellular matrix of connective tissue.",
+      "topic": "Animal tissues revision"
+    },
+    {
+      "question": "Which statement correctly describes the earthworm's circulatory system?",
+      "options": [
+        "It is a closed system with a dorsal blood vessel and multiple ventral vessels",
+        "It is an open system with a dorsal sinus only",
+        "It is a closed system with a ventral heart and dorsal aorta",
+        "It is an open system where blood bathes the tissues directly"
+      ],
+      "answer": 0,
+      "explanation": "Earthworms possess a closed circulatory system; the dorsal blood vessel acts as a pump and is complemented by paired ventral blood vessels that distribute blood to the body.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "The primary excretory organ in earthworms is the:",
+      "options": [
+        "Nephridium",
+        "Malpighian tubule",
+        "Kidney",
+        "Protonephridium"
+      ],
+      "answer": 0,
+      "explanation": "Each segment of an earthworm contains a pair of nephridia that filter waste from the coelomic fluid and expel it through the anus.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "In earthworms, the longitudinal muscles are situated:",
+      "options": [
+        "In the outer circular layer",
+        "Between the dorsal and ventral blood vessels",
+        "In the inner circular layer",
+        "Attached directly to the cuticle"
+      ],
+      "answer": 1,
+      "explanation": "The longitudinal muscle layer lies between the dorsal and ventral blood vessels, allowing the worm to elongate and contract during locomotion.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "Which structure functions as the heart of an earthworm?",
+      "options": [
+        "Dorsal blood vessel",
+        "Ventral blood vessel",
+        "Aortic arch",
+        "Pair of aortic arches"
+      ],
+      "answer": 3,
+      "explanation": "A pair of aortic arches located near the anterior end contract rhythmically, pumping blood from the dorsal to the ventral vessels, effectively acting as a heart.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "During copulation, earthworms exchange sperm via which organ?",
+      "options": [
+        "Seminal vesicles",
+        "Spermathecae",
+        "Clitellum",
+        "Prostomium"
+      ],
+      "answer": 1,
+      "explanation": "Spermathecae (sperm storage sacs) receive sperm from the partner during copulation and later release it for fertilisation.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "The cuticle covering an earthworm is primarily composed of:",
+      "options": [
+        "Chitin",
+        "Cellulose",
+        "Keratin",
+        "Collagen"
+      ],
+      "answer": 0,
+      "explanation": "The flexible cuticle of annelids, including earthworms, is made mainly of chitin, providing protection and preventing desiccation.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "Which statement about earthworm regeneration is correct?",
+      "options": [
+        "Earthworms can regenerate both head and tail from any fragment",
+        "Only posterior fragments can regenerate a functional tail if the clitellum is present",
+        "Anterior fragments can regenerate the posterior part but not the head",
+        "Neither fragment can regenerate lost parts"
+      ],
+      "answer": 2,
+      "explanation": "If the anterior part (including the head) is retained, the worm can regenerate the posterior segments, but the head cannot be regenerated from a posterior fragment.",
+      "topic": "Earthworm revision"
+    },
+    {
+      "question": "Which statement correctly describes the respiratory system of a cockroach?",
+      "options": [
+        "It possesses a closed circulatory system",
+        "Gas exchange occurs through spiracles connected to tracheae",
+        "Oxygen is dissolved in hemolymph",
+        "It has lungs similar to mammals"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches breathe through a network of tracheae that open to the exterior via paired spiracles, allowing direct diffusion of gases.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "The primary function of Malpighian tubules in a cockroach is to:",
+      "options": [
+        "Digest cellulose fibers",
+        "Produce silk for cocoon formation",
+        "Excrete nitrogenous wastes",
+        "Synthesize hemoglobin"
+      ],
+      "answer": 2,
+      "explanation": "Malpighian tubules are excretory organs that remove nitrogenous wastes from the hemolymph and secrete them into the gut for elimination.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "In cockroaches, the dorsal vessel acts as:",
+      "options": [
+        "A true heart with distinct chambers",
+        "A ventral nerve cord",
+        "A muscular tube that pumps hemolymph through the body cavity",
+        "A gland that secretes hormones"
+      ],
+      "answer": 2,
+      "explanation": "The dorsal vessel is a contractile tube that rhythmically contracts to circulate hemolymph in the open circulatory system of insects.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "Which sensory structure in a cockroach is most specialized for detecting air currents?",
+      "options": [
+        "Antennae",
+        "Compound eyes",
+        "Cerci",
+        "Maxillary palps"
+      ],
+      "answer": 2,
+      "explanation": "The paired cerci are long, filamentous appendages at the rear of the abdomen that are highly sensitive to mechanical disturbances such as air currents.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "Cockroaches undergo which type of metamorphosis?",
+      "options": [
+        "Holometabolous (complete)",
+        "Hemimetabolous (incomplete)",
+        "Ametabolous (no metamorphosis)",
+        "Paedomorphic"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches develop through hemimetabolous metamorphosis, progressing from egg to nymphs that resemble miniature adults and then to the adult form without a pupal stage.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "What is the role of the crop in the cockroach digestive system?",
+      "options": [
+        "Site of enzymatic digestion",
+        "Storage of ingested food before it passes to the midgut",
+        "Absorption of nutrients into hemolymph",
+        "Excretion of solid waste"
+      ],
+      "answer": 1,
+      "explanation": "The crop functions as a temporary storage chamber where food is held before being transferred to the midgut for digestion and nutrient absorption.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "Which description best characterises the circulatory system of a cockroach?",
+      "options": [
+        "A closed system with blood confined to vessels",
+        "An open system where hemolymph bathes organs directly",
+        "A lymphatic system with lymph nodes",
+        "Absence of any circulatory fluid"
+      ],
+      "answer": 1,
+      "explanation": "Insects, including cockroaches, possess an open circulatory system; hemolymph is pumped by the dorsal vessel into the hemocoel, bathing internal organs directly.",
+      "topic": "Cockroach revision"
+    },
+    {
+      "question": "Which structure in a frog is primarily responsible for cutaneous respiration?",
+      "options": [
+        "Skin",
+        "Lungs",
+        "Buccal cavity",
+        "Cloaca"
+      ],
+      "answer": 0,
+      "explanation": "The moist, highly vascularized skin of frogs allows diffusion of gases directly with the environment, making it the main site for cutaneous respiration.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "How many chambers are present in the typical frog heart?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "A frog heart is a three-chambered organ consisting of two atria and one ventricle, characteristic of amphibians.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "In frogs, the principal organ for excreting nitrogenous wastes is the:",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Ureter",
+        "Cloaca"
+      ],
+      "answer": 1,
+      "explanation": "Frogs eliminate most nitrogenous waste as urea through the kidneys, which then pass it to the urinary bladder for storage before excretion.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "Which sequence correctly represents the passage of food through the frog digestive tract?",
+      "options": [
+        "Mouth → Stomach → Small intestine → Large intestine → Anus",
+        "Mouth → Small intestine → Stomach → Large intestine → Anus",
+        "Mouth → Stomach → Large intestine → Small intestine → Anus",
+        "Mouth → Esophagus → Stomach → Small intestine → Anus"
+      ],
+      "answer": 3,
+      "explanation": "Food passes from the mouth to the esophagus, then to the stomach, followed by the small intestine, and finally the large intestine before exiting via the anus.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "Frog eggs are laid in water and hatch into:",
+      "options": [
+        "Direct‑developing froglets",
+        "Tadpoles",
+        "Larval salamanders",
+        "Metamorphosing salamanders"
+      ],
+      "answer": 1,
+      "explanation": "Amphibian eggs of frogs develop into aquatic larvae called tadpoles, which later undergo metamorphosis into adult frogs.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "The muscle type that predominates in the frog hind‑limb for powerful jumping is:",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Mixed muscle"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle fibers in the hind limbs generate the rapid, forceful contractions required for jumping in frogs.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "The primary function of the frog's urinary bladder is to:",
+      "options": [
+        "Store urine for later excretion",
+        "Produce urine",
+        "Reabsorb water",
+        "Secrete mucus"
+      ],
+      "answer": 0,
+      "explanation": "The urinary bladder in frogs acts as a storage reservoir for urine before it is expelled through the cloaca.",
+      "topic": "Frog revision"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes the primary transport tissues in plants and animals?",
+      "options": [
+        "Xylem conducts water; blood vessels transport gases and nutrients.",
+        "Phloem transports sugars; lymphatic vessels transport water.",
+        "Xylem transports sugars; blood vessels transport water.",
+        "Phloem conducts water; lymphatic vessels transport gases."
+      ],
+      "answer": 0,
+      "explanation": "Xylem is the plant tissue that moves water and minerals from roots to aerial parts, while blood vessels in animals circulate gases (oxygen, carbon dioxide) and nutrients throughout the body.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "In terms of structural organization, which plant organ is most analogous to the animal digestive system?",
+      "options": [
+        "Root",
+        "Stem",
+        "Leaf",
+        "Flower"
+      ],
+      "answer": 2,
+      "explanation": "The leaf absorbs carbon dioxide and, through photosynthesis, converts it into organic compounds, a process comparable to the animal digestive system that breaks down food to obtain nutrients.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "Which tissue type is present in both plants and animals but performs different primary functions?",
+      "options": [
+        "Epidermis",
+        "Xylem",
+        "Phloem",
+        "Muscle"
+      ],
+      "answer": 0,
+      "explanation": "Both plants and animals have an epidermis that forms the outer protective layer, but in plants it prevents water loss and provides a barrier, whereas in animals it also contains sensory receptors and participates in thermoregulation.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "Which of the following correctly compares the mechanism of gas exchange in plants and animals?",
+      "options": [
+        "Stomata in leaves vs alveoli in lungs",
+        "Lenticels in stems vs gills in fish",
+        "Root hairs vs nasal cavity",
+        "Cuticle vs skin"
+      ],
+      "answer": 0,
+      "explanation": "Plants exchange gases through stomata on leaf surfaces, while animals exchange gases in the alveoli of lungs; both structures maximize surface area for diffusion.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "In terms of support, which statement is true regarding plant and animal structural components?",
+      "options": [
+        "Cellulose in plant cell walls provides rigidity; hydroxyapatite in animal bones provides rigidity.",
+        "Lignin in plant cell walls provides flexibility; collagen in animal skin provides rigidity.",
+        "Pectin in plant cell walls provides rigidity; keratin in animal muscles provides flexibility.",
+        "Cellulose in plant cell walls provides flexibility; calcium carbonate in animal exoskeleton provides rigidity."
+      ],
+      "answer": 0,
+      "explanation": "Cellulose forms a rigid framework in plant cell walls, while hydroxyapatite crystals give hardness and rigidity to animal bones.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "Which organ system in animals is most comparable to the plant vascular system in terms of transport of nutrients and waste?",
+      "options": [
+        "Circulatory system",
+        "Respiratory system",
+        "Excretory system",
+        "Nervous system"
+      ],
+      "answer": 0,
+      "explanation": "The animal circulatory system transports nutrients, gases, and metabolic wastes throughout the body, analogous to the plant's xylem and phloem network.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "Which of the following best describes the difference in cellular organization between plant meristematic tissue and animal stem cells?",
+      "options": [
+        "Plant meristematic cells are totipotent throughout life; animal stem cells are pluripotent and limited.",
+        "Plant meristematic cells are unipotent; animal stem cells are totipotent.",
+        "Both are equally totipotent.",
+        "Plant meristematic cells lack nuclei; animal stem cells have nuclei."
+      ],
+      "answer": 0,
+      "explanation": "Plant meristematic cells retain the ability to divide and give rise to any cell type (totipotent) for the plant's lifetime, whereas animal stem cells are generally pluripotent and have a more restricted differentiation potential.",
+      "topic": "Plant versus animal organisation"
+    },
+    {
+      "question": "In the NCERT diagram of a dicot leaf cross‑section, which layer is primarily responsible for photosynthesis?",
+      "options": [
+        "Upper epidermis",
+        "Palisade mesophyll",
+        "Spongy mesophyll",
+        "Lower epidermis"
+      ],
+      "answer": 1,
+      "explanation": "The palisade mesophyll, located just below the upper epidermis, contains densely packed chloroplast‑rich cells and is the main site of photosynthesis in dicot leaves.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "According to the NCERT diagram of a typical monocot root cross‑section, which tissue is absent?",
+      "options": [
+        "Pericycle",
+        "Endodermis",
+        "Casparian strip",
+        "Vascular cambium"
+      ],
+      "answer": 3,
+      "explanation": "Monocot roots lack a vascular cambium; secondary growth is absent, so the vascular cambium is not shown in the diagram.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "In the NCERT diagram of a frog heart, which chamber receives deoxygenated blood from the systemic circulation?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "answer": 1,
+      "explanation": "The right atrium receives deoxygenated blood from the body and passes it to the right ventricle for pulmonary circulation.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "The NCERT diagram of an earthworm shows a closed circulatory system. Which vessel is identified as the main dorsal vessel?",
+      "options": [
+        "Ventral blood vessel",
+        "Dorsal blood vessel",
+        "Lateral vessel",
+        "Posterior aorta"
+      ],
+      "answer": 1,
+      "explanation": "The dorsal blood vessel runs along the length of the earthworm on the dorsal side and functions as the primary conduit for blood flow.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "In the NCERT diagram of a cockroach digestive system, the crop is situated between which two structures?",
+      "options": [
+        "Esophagus and proventriculus",
+        "Proventriculus and midgut",
+        "Midgut and hindgut",
+        "Malpighian tubules and hindgut"
+      ],
+      "answer": 0,
+      "explanation": "The crop is a storage organ located immediately after the esophagus and before the proventriculus in the cockroach alimentary canal.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "The NCERT diagram of a dicot stem cross‑section shows a ring of cambium. What is the primary function of this cambium?",
+      "options": [
+        "Transport of water",
+        "Secondary growth",
+        "Photosynthesis",
+        "Storage of food"
+      ],
+      "answer": 1,
+      "explanation": "The vascular cambium is a lateral meristem that produces secondary xylem and phloem, contributing to the increase in girth (secondary growth) of dicot stems.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "In the NCERT diagram of animal tissues, which type of muscle tissue is under voluntary control?",
+      "options": [
+        "Cardiac muscle",
+        "Skeletal muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle fibers are innervated by the somatic nervous system and are under voluntary control, unlike cardiac and smooth muscles.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "Which of the following correctly distinguishes the xylem vessels of monocotyledonous plants from those of dicotyledonous plants?",
+      "options": [
+        "Monocots have vessels with scalariform perforation plates, whereas dicots have simple perforation plates",
+        "Monocots have vessels with simple perforation plates, whereas dicots have scalariform perforation plates",
+        "Monocots lack vessels while dicots possess vessels",
+        "Both monocots and dicots have identical vessel structure"
+      ],
+      "answer": 0,
+      "explanation": "Monocot xylem vessels typically possess scalariform or reticulate perforation plates, while dicot vessels usually have simple perforation plates, making option 0 the correct distinction.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Parallel venation of leaf veins is a characteristic feature of which group of plants?",
+      "options": [
+        "Monocotyledons",
+        "Dicotyledons",
+        "Gymnosperms",
+        "Ferns"
+      ],
+      "answer": 0,
+      "explanation": "Leaves of monocotyledons (e.g., grasses) exhibit parallel venation, whereas dicots show reticulate venation. Hence option 0 is correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Which type of muscle tissue possesses intercalated discs?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs are specialized junctions found only in cardiac muscle, allowing synchronized contraction. Therefore, option 1 is correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Compared to mesophytic leaves, xerophytic leaves most prominently show which adaptation?",
+      "options": [
+        "Increased stomatal density",
+        "Thick waxy cuticle",
+        "Larger intercellular spaces",
+        "Absence of palisade mesophyll"
+      ],
+      "answer": 1,
+      "explanation": "Xerophytic leaves reduce water loss primarily by developing a thick, waxy cuticle. This is the most distinctive adaptation, making option 1 correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Which statement correctly describes the circulatory system of an earthworm?",
+      "options": [
+        "It has an open circulatory system with hemolymph bathing the tissues",
+        "It has a closed circulatory system with a dorsal vessel and five aortic arches",
+        "It has a closed system with a single heart",
+        "It has an open system with only a dorsal vessel"
+      ],
+      "answer": 1,
+      "explanation": "Earthworms possess a closed circulatory system comprising a dorsal vessel and five aortic arches (often termed hearts). Option 1 accurately describes this arrangement.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Amphibians such as frogs primarily excrete nitrogenous waste in the form of:",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric acid",
+        "Both urea and ammonia depending on the environment"
+      ],
+      "answer": 0,
+      "explanation": "Adult frogs mainly convert toxic ammonia to urea for excretion, which is less toxic and conserves water. Hence, option 0 is correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Dense regular connective tissue differs from dense irregular connective tissue in that:",
+      "options": [
+        "Collagen fibers are arranged randomly in dense regular tissue",
+        "Collagen fibers run parallel in dense regular tissue",
+        "Dense regular tissue contains more elastin than dense irregular tissue",
+        "Both have the same fiber arrangement"
+      ],
+      "answer": 1,
+      "explanation": "In dense regular connective tissue, collagen fibers are aligned parallel to each other, providing tensile strength in one direction, unlike the random arrangement in dense irregular tissue. Option 1 is correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Plasmodesmata in plant cells are functionally analogous to which structures in animal cells?",
+      "options": [
+        "Desmosomes",
+        "Gap junctions",
+        "Tight junctions",
+        "Hemidesmosomes"
+      ],
+      "answer": 1,
+      "explanation": "Plasmodesmata allow direct cytoplasmic communication between plant cells, similar to gap junctions in animal cells that permit intercellular exchange of ions and small molecules. Thus, option 1 is correct.",
+      "topic": "High-yield comparisons"
+    },
+    {
+      "question": "Which of the following correctly matches the primary tissue type with its predominant function in roots, stems, and leaves of a typical dicot plant?",
+      "options": [
+        "Root – ground tissue for photosynthesis; Stem – vascular tissue for support; Leaf – dermal tissue for absorption of water",
+        "Root – vascular tissue for transport of water; Stem – ground tissue for photosynthesis; Leaf – ground tissue for photosynthetic parenchyma",
+        "Root – dermal tissue for protection; Stem – ground tissue for storage; Leaf – vascular tissue for transport of sugars",
+        "Root – ground tissue for storage; Stem – dermal tissue for protection; Leaf – vascular tissue for support"
+      ],
+      "answer": 1,
+      "explanation": "In dicot roots, the primary function of vascular tissue (xylem and phloem) is water and mineral transport. Stems contain ground tissue (parenchyma, collenchyma) that can perform photosynthesis, especially in herbaceous stems. Leaves are dominated by ground tissue (palisade and spongy parenchyma) for photosynthesis.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "In monocot leaves, the pattern of venation is best described as:",
+      "options": [
+        "Reticulate with a prominent mid‑rib",
+        "Parallel veins with no distinct mid‑rib",
+        "Dichotomous branching from the leaf base",
+        "Randomly arranged veins with multiple mid‑ribs"
+      ],
+      "answer": 1,
+      "explanation": "Monocot leaves characteristically exhibit parallel venation, where veins run side‑by‑side from the leaf base to the tip, and a distinct mid‑rib is usually absent.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which component is absent in the earthworm's closed circulatory system?",
+      "options": [
+        "Heart",
+        "Blood vessels",
+        "Plasma",
+        "Hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Earthworms possess a closed circulatory system with dorsal and ventral blood vessels, plasma, and hemoglobin dissolved in the plasma, but they lack a distinct muscular heart; the dorsal vessel functions as a pump.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "In the cockroach, the organ primarily responsible for osmoregulation and excretion of nitrogenous wastes is:",
+      "options": [
+        "Malpighian tubules",
+        "Hindgut",
+        "Foregut",
+        "Spiracles"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches, like other insects, use Malpighian tubules to remove nitrogenous wastes and regulate water and ion balance, analogous to kidneys in vertebrates.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Cutaneous respiration in frogs is most efficient under which of the following conditions?",
+      "options": [
+        "Dry skin with thick keratin layer",
+        "Moist skin with a thin, highly vascularized epidermis",
+        "Thick, heavily keratinized skin",
+        "Skin covered with mucus that blocks diffusion"
+      ],
+      "answer": 1,
+      "explanation": "Frogs rely on a moist, thin, and highly vascularized skin to allow diffusion of gases; a thin epidermis and mucus keep the surface moist, enhancing cutaneous gas exchange.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which statement correctly compares collagen in animal connective tissue with cellulose in plant cell walls?",
+      "options": [
+        "Both are polysaccharides that provide structural rigidity",
+        "Collagen is a protein that forms fibrils, whereas cellulose is a polysaccharide forming microfibrils",
+        "Both are synthesized by ribosomes and stored in vacuoles",
+        "Collagen and cellulose have identical tensile strengths"
+      ],
+      "answer": 1,
+      "explanation": "Collagen is a protein that assembles into fibrils providing tensile strength in animal connective tissue. Cellulose is a polysaccharide composed of β‑1,4‑linked glucose units forming microfibrils that give rigidity to plant cell walls.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which type of muscle tissue is under voluntary control in humans and is also present in the limb muscles of a frog?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Myocardial muscle"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle is under voluntary (somatic) control in both humans and frogs, enabling purposeful limb movements. Cardiac muscle is involuntary, and smooth muscle is found in walls of hollow organs.",
+      "topic": "NEET conceptual practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 10,
+    "mcqCount": 71
+  }
+}

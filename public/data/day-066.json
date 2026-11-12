@@ -1,0 +1,2592 @@
+{
+  "day": 66,
+  "courseDate": "2026-11-03",
+  "publishAt": "2026-11-03T06:00:00+05:30",
+  "title": "Respiratory Volumes, Gas Exchange and Transport of Respiratory Gases",
+  "introduction": "This lesson systematically covers the quantitative aspects of lung volumes, the principles of alveolar gas exchange, and the mechanisms by which oxygen and carbon dioxide are transported in blood, aligning with NEET‑UG expectations.",
+  "sections": [
+    {
+      "topic": "Respiratory volumes",
+      "heading": "Definition of Respiratory Volumes",
+      "content": "Respiratory volumes are the measurable amounts of air that move in and out of the lungs during a breathing cycle; they are obtained using spirometry and form the basis for calculating capacities.",
+      "keyPoints": [
+        "Measured in millilitres (mL) or litres (L)",
+        "Obtained during quiet breathing or forced maneuvers"
+      ],
+      "neetTips": [
+        "Memorise the hierarchy of volumes to quickly derive capacities"
+      ]
+    },
+    {
+      "topic": "Tidal volume",
+      "heading": "Tidal Volume (TV)",
+      "content": "Tidal volume is the volume of air inhaled or exhaled during a normal, relaxed breath, typically 500 mL in an adult.",
+      "keyPoints": [
+        "Represents the basic ventilatory unit",
+        "Varies with activity and body size"
+      ],
+      "neetTips": [
+        "Recall TV ≈ 0.5 L for quick calculations"
+      ]
+    },
+    {
+      "topic": "Inspiratory reserve volume",
+      "heading": "Inspiratory Reserve Volume (IRV)",
+      "content": "IRV is the maximal additional air that can be inhaled after a normal tidal inspiration, averaging 3000 mL in adults.",
+      "keyPoints": [
+        "Measured during forced inspiration",
+        "Added to TV to give inspiratory capacity"
+      ],
+      "neetTips": [
+        "IRV = IC – TV"
+      ]
+    },
+    {
+      "topic": "Expiratory reserve volume",
+      "heading": "Expiratory Reserve Volume (ERV)",
+      "content": "ERV is the maximal volume of air that can be exhaled forcefully after a normal tidal expiration, about 1200 mL in adults.",
+      "keyPoints": [
+        "Combined with TV to form expiratory capacity"
+      ],
+      "neetTips": [
+        "ERV = FC – TV"
+      ]
+    },
+    {
+      "topic": "Residual volume",
+      "heading": "Residual Volume (RV)",
+      "content": "Residual volume is the air remaining in the lungs after maximal exhalation, preventing alveolar collapse; typical value ≈ 1200 mL.",
+      "keyPoints": [
+        "Cannot be measured directly by spirometry",
+        "Essential for maintaining lung patency"
+      ],
+      "neetTips": [
+        "RV is included in functional residual capacity"
+      ]
+    },
+    {
+      "topic": "Respiratory capacities",
+      "heading": "Respiratory Capacities Overview",
+      "content": "Capacities are combinations of two or more volumes that reflect functional aspects of lung performance; they are derived from primary volumes.",
+      "keyPoints": [
+        "Six capacities are defined in clinical practice"
+      ],
+      "neetTips": [
+        "Learn formulas linking volumes to capacities"
+      ]
+    },
+    {
+      "topic": "Inspiratory capacity",
+      "heading": "Inspiratory Capacity (IC)",
+      "content": "IC equals the sum of tidal volume and inspiratory reserve volume (IC = TV + IRV); it reflects the maximal volume that can be inspired from the end‑expiration position.",
+      "keyPoints": [
+        "Useful in assessing restrictive lung disease"
+      ],
+      "neetTips": [
+        "IC = 0.5 L + 3 L ≈ 3.5 L"
+      ]
+    },
+    {
+      "topic": "Expiratory capacity",
+      "heading": "Expiratory Capacity (EC)",
+      "content": "EC is the sum of tidal volume and expiratory reserve volume (EC = TV + ERV); it indicates the maximal volume that can be expired from the end‑inspiration position.",
+      "keyPoints": [
+        "Reduced in obstructive disorders"
+      ],
+      "neetTips": [
+        "EC = TV + ERV"
+      ]
+    },
+    {
+      "topic": "Functional residual capacity",
+      "heading": "Functional Residual Capacity (FRC)",
+      "content": "FRC comprises the expiratory reserve volume plus residual volume (FRC = ERV + RV); it represents the lung volume at the end of a normal expiration.",
+      "keyPoints": [
+        "Determines baseline gas exchange"
+      ],
+      "neetTips": [
+        "FRC is the volume from which diffusion gradients are established"
+      ]
+    },
+    {
+      "topic": "Vital capacity",
+      "heading": "Vital Capacity (VC)",
+      "content": "VC is the total volume of air that can be moved in and out of the lungs after a maximal inhalation (VC = IRV + TV + ERV); it is a key indicator of overall lung health.",
+      "keyPoints": [
+        "Decreased in restrictive lung disease"
+      ],
+      "neetTips": [
+        "VC ≈ 4–5 L in healthy adults"
+      ]
+    },
+    {
+      "topic": "Total lung capacity",
+      "heading": "Total Lung Capacity (TLC)",
+      "content": "TLC is the sum of all lung volumes (TLC = VC + RV); it reflects the maximal lung expansion possible.",
+      "keyPoints": [
+        "Provides the upper limit for lung volume"
+      ],
+      "neetTips": [
+        "TLC = VC + RV"
+      ]
+    },
+    {
+      "topic": "Pulmonary function",
+      "heading": "Pulmonary Function Tests (PFTs)",
+      "content": "PFTs assess the volumes and capacities described above using spirometry, plethysmography, and diffusion studies, aiding diagnosis of obstructive and restrictive pathologies.",
+      "keyPoints": [
+        "Spirometry measures TV, IRV, ERV, VC"
+      ],
+      "neetTips": [
+        "Interpret patterns: ↓VC with normal FRC → restrictive; ↓FEV1/FVC → obstructive"
+      ]
+    },
+    {
+      "topic": "Alveolar gas exchange",
+      "heading": "Alveolar Gas Exchange Mechanism",
+      "content": "Oxygen diffuses from alveolar air (high PO₂) into pulmonary capillary blood, while carbon dioxide diffuses in the opposite direction, driven by partial pressure gradients across the alveolar‑capillary membrane.",
+      "keyPoints": [
+        "Occurs across a thin (≈0.5 µm) barrier"
+      ],
+      "neetTips": [
+        "Remember: diffusion ∝ ΔP/ thickness"
+      ]
+    },
+    {
+      "topic": "Diffusion of oxygen",
+      "heading": "Oxygen Diffusion Principles",
+      "content": "O₂ diffusion follows Fick’s law: V̇O₂ = (D × A × ΔP_O₂)/d, where D is the diffusion coefficient, A the surface area, ΔP the partial pressure difference, and d the membrane thickness.",
+      "keyPoints": [
+        "Surface area ≈ 70 m² in adults"
+      ],
+      "neetTips": [
+        "Any increase in thickness (e.g., fibrosis) reduces O₂ diffusion"
+      ]
+    },
+    {
+      "topic": "Diffusion of carbon dioxide",
+      "heading": "Carbon Dioxide Diffusion Principles",
+      "content": "CO₂ diffuses more readily than O₂ due to its higher solubility; its diffusion also follows Fick’s law but with a larger diffusion coefficient, making CO₂ exchange efficient even with lower partial pressure gradients.",
+      "keyPoints": [
+        "CO₂ solubility ≈ 20 times that of O₂"
+      ],
+      "neetTips": [
+        "CO₂ removal is rarely diffusion‑limited"
+      ]
+    },
+    {
+      "topic": "Partial pressure",
+      "heading": "Partial Pressure Concept",
+      "content": "Partial pressure (P) is the pressure exerted by an individual gas in a mixture, calculated as P_gas = (fraction of gas) × total atmospheric pressure; it drives respiratory gas exchange.",
+      "keyPoints": [
+        "At sea level, P_total ≈ 760 mmHg"
+      ],
+      "neetTips": [
+        "Use alveolar gas equation to estimate PAO₂"
+      ]
+    },
+    {
+      "topic": "Factors affecting diffusion",
+      "heading": "Factors Influencing Gas Diffusion",
+      "content": "Diffusion rate is affected by surface area, membrane thickness, partial pressure gradient, and gas solubility; pathological changes alter these parameters and impair exchange.",
+      "keyPoints": [
+        "Fibrosis ↓ A, ↑ d"
+      ],
+      "neetTips": [
+        "Recall Fick’s law components for quick recall"
+      ]
+    },
+    {
+      "topic": "Transport of oxygen",
+      "heading": "Oxygen Transport in Blood",
+      "content": "O₂ is carried primarily bound to haemoglobin (≈98 %) as oxyhaemoglobin; a minor fraction is dissolved in plasma (≈2 %).",
+      "keyPoints": [
+        "Each Hb molecule binds up to 4 O₂ molecules"
+      ],
+      "neetTips": [
+        "O₂ content = (Hb × 1.34 × SaO₂) + (0.003 × PaO₂)"
+      ]
+    },
+    {
+      "topic": "Oxyhaemoglobin formation",
+      "heading": "Formation of Oxyhaemoglobin",
+      "content": "When O₂ binds to the ferrous (Fe²⁺) ion of the haem group, a reversible complex (HbO₂) forms, causing a conformational shift from the T (tense) to R (relaxed) state, increasing affinity for additional O₂ molecules.",
+      "keyPoints": [
+        "Cooperative binding yields sigmoidal curve"
+      ],
+      "neetTips": [
+        "Cooperativity explains the steep rise of the O₂ dissociation curve"
+      ]
+    },
+    {
+      "topic": "Oxygen dissociation curve",
+      "heading": "Oxygen–Haemoglobin Dissociation Curve",
+      "content": "The curve plots SaO₂ or HbO₂ saturation against PO₂; its sigmoidal shape reflects cooperative binding, with a P₅₀ ≈ 26 mmHg in adults.",
+      "keyPoints": [
+        "Right shift → decreased affinity (e.g., ↑ CO₂, ↓ pH)"
+      ],
+      "neetTips": [
+        "Remember factors: 2,3‑DPG, temperature, pH, CO₂"
+      ]
+    },
+    {
+      "topic": "Transport of carbon dioxide",
+      "heading": "Carbon Dioxide Transport Mechanisms",
+      "content": "CO₂ is transported via three forms: dissolved in plasma (≈7 %), as bicarbonate ions (≈70 %), and bound to haemoglobin as carbamino compounds (≈23 %).",
+      "keyPoints": [
+        "Bicarbonate is the predominant form"
+      ],
+      "neetTips": [
+        "Conversion to HCO₃⁻ occurs in RBCs via carbonic anhydrase"
+      ]
+    },
+    {
+      "topic": "Bicarbonate formation",
+      "heading": "Bicarbonate (HCO₃⁻) Formation",
+      "content": "CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻; carbonic anhydrase catalyses the forward reaction in RBCs, producing H⁺ and HCO₃⁻, the latter exchanged for Cl⁻ in plasma.",
+      "keyPoints": [
+        "Rapid equilibrium maintains CO₂ transport"
+      ],
+      "neetTips": [
+        "HCO₃⁻ accounts for ~70 % of total CO₂ carriage"
+      ]
+    },
+    {
+      "topic": "Carbaminohaemoglobin",
+      "heading": "Carbaminohaemoglobin Formation",
+      "content": "CO₂ binds directly to the amino groups of the globin chains forming carbaminohaemoglobin; this accounts for ~23 % of CO₂ transport and is reversible in the lungs.",
+      "keyPoints": [
+        "Binding is enhanced at lower O₂ saturation"
+      ],
+      "neetTips": [
+        "Carbamino formation contributes to the Bohr effect"
+      ]
+    },
+    {
+      "topic": "Dissolved carbon dioxide",
+      "heading": "Dissolved CO₂ in Plasma",
+      "content": "A small fraction of CO₂ (~7 %) remains physically dissolved in plasma, following Henry’s law; its concentration is proportional to its partial pressure.",
+      "keyPoints": [
+        "Provides immediate CO₂ for exchange"
+      ],
+      "neetTips": [
+        "Use solubility coefficient 0.03 mL CO₂/100 mL plasma/mmHg"
+      ]
+    },
+    {
+      "topic": "Chloride shift",
+      "heading": "Chloride Shift (Hamburger Phenomenon)",
+      "content": "To maintain electro‑neutrality, HCO₃⁻ exits RBCs in exchange for Cl⁻ from plasma; this anion exchange is mediated by the Band 3 protein and is essential for CO₂ transport.",
+      "keyPoints": [
+        "Facilitates rapid CO₂ removal"
+      ],
+      "neetTips": [
+        "Remember: HCO₃⁻ out, Cl⁻ in"
+      ]
+    },
+    {
+      "topic": "Bohr effect",
+      "heading": "Bohr Effect in Haemoglobin",
+      "content": "An increase in CO₂ or H⁺ (lower pH) reduces haemoglobin’s affinity for O₂, shifting the dissociation curve to the right and promoting O₂ release in metabolically active tissues.",
+      "keyPoints": [
+        "Physiological adaptation for tissue O₂ delivery"
+      ],
+      "neetTips": [
+        "Bohr effect = right shift with ↑ CO₂/↓ pH"
+      ]
+    },
+    {
+      "topic": "Role of haemoglobin",
+      "heading": "Overall Role of Haemoglobin in Gas Transport",
+      "content": "Haemoglobin serves as the principal carrier for both O₂ and CO₂, providing high‑capacity, reversible binding, and mediating cooperative interactions that fine‑tune gas exchange according to metabolic demand.",
+      "keyPoints": [
+        "Four binding sites for O₂, two for CO₂"
+      ],
+      "neetTips": [
+        "Link haemoglobin function to both O₂ delivery and CO₂ removal"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and calculate all primary respiratory volumes and capacities",
+    "Explain the principles of alveolar gas exchange using partial pressures and Fick’s law",
+    "Describe the mechanisms of oxygen and carbon dioxide transport, including haemoglobin binding, bicarbonate formation, and the chloride shift",
+    "Interpret factors that shift the oxygen‑haemoglobin dissociation curve and their clinical relevance"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly defines vital capacity?",
+      "options": [
+        "Sum of tidal volume, inspiratory reserve volume and expiratory reserve volume",
+        "Sum of inspiratory reserve volume and residual volume",
+        "Sum of tidal volume and residual volume",
+        "Sum of expiratory reserve volume and residual volume"
+      ],
+      "answer": 0,
+      "explanation": "Vital capacity is the maximum amount of air that can be exhaled after a maximal inhalation, equal to tidal volume + inspiratory reserve volume + expiratory reserve volume.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "The normal tidal volume in a healthy adult at rest is approximately:",
+      "options": [
+        "500 mL",
+        "1500 mL",
+        "2500 mL",
+        "3500 mL"
+      ],
+      "answer": 0,
+      "explanation": "Tidal volume, the volume of air moved in or out during normal breathing, is about 500 mL in an adult.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "Functional residual capacity (FRC) represents the lung volume remaining after:",
+      "options": [
+        "Normal expiration",
+        "Forced expiration",
+        "Maximal inspiration",
+        "Maximal expiration"
+      ],
+      "answer": 0,
+      "explanation": "FRC is the volume left in the lungs after a normal, passive exhalation.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "If a person has an inspiratory reserve volume of 3000 mL and a tidal volume of 500 mL, what is the inspiratory capacity?",
+      "options": [
+        "3500 mL",
+        "3000 mL",
+        "2500 mL",
+        "4000 mL"
+      ],
+      "answer": 0,
+      "explanation": "Inspiratory capacity = tidal volume + inspiratory reserve volume = 500 mL + 3000 mL = 3500 mL.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "Which lung volume cannot be measured directly by spirometry?",
+      "options": [
+        "Tidal volume",
+        "Residual volume",
+        "Inspiratory reserve volume",
+        "Expiratory reserve volume"
+      ],
+      "answer": 1,
+      "explanation": "Residual volume remains in the lungs after maximal exhalation and cannot be measured directly by spirometry; it requires other techniques such as body plethysmography.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "In restrictive lung disease, which pattern of lung volumes is most characteristic?",
+      "options": [
+        "Decreased vital capacity with normal FRC",
+        "Decreased vital capacity with decreased FRC",
+        "Increased residual volume",
+        "Increased total lung capacity"
+      ],
+      "answer": 1,
+      "explanation": "Restrictive disorders reduce overall lung compliance, leading to proportional reductions in vital capacity and functional residual capacity.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "The total lung capacity (TLC) of a healthy adult is approximately:",
+      "options": [
+        "4-5 L",
+        "2-3 L",
+        "6-7 L",
+        "8-9 L"
+      ],
+      "answer": 0,
+      "explanation": "TLC, the sum of all lung volumes, is about 4–5 L in a typical adult.",
+      "topic": "Respiratory volumes"
+    },
+    {
+      "question": "The volume of air inhaled or exhaled in a normal quiet breath is called",
+      "options": [
+        "Tidal volume",
+        "Inspiratory reserve volume",
+        "Residual volume",
+        "Vital capacity"
+      ],
+      "answer": 0,
+      "explanation": "Tidal volume (TV) is the amount of air moved in or out during a regular, relaxed breath.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "What is the approximate normal tidal volume in a healthy adult at rest?",
+      "options": [
+        "200 mL",
+        "500 mL",
+        "1200 mL",
+        "2500 mL"
+      ],
+      "answer": 1,
+      "explanation": "In adults, a quiet breath moves about 500 mL of air, which is the standard value used in physiology.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "During moderate exercise, which factor primarily contributes to an increase in tidal volume?",
+      "options": [
+        "Increased airway resistance",
+        "Decreased respiratory rate",
+        "Increased metabolic CO₂ production",
+        "Decreased lung compliance"
+      ],
+      "answer": 2,
+      "explanation": "Higher metabolic CO₂ production raises the central chemoreceptor drive, causing both respiratory rate and tidal volume to rise.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "In a term pregnancy, tidal volume compared with a non‑pregnant woman is:",
+      "options": [
+        "Decreased",
+        "Unchanged",
+        "Slightly increased",
+        "Doubled"
+      ],
+      "answer": 2,
+      "explanation": "Progesterone‑mediated hyperventilation and increased chest wall compliance raise tidal volume by about 10–15% in late pregnancy.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "During a spirometry test, the volume measured between the start of inspiration and the end of expiration in a normal breath corresponds to:",
+      "options": [
+        "Inspiratory capacity",
+        "Tidal volume",
+        "Expiratory reserve volume",
+        "Functional residual capacity"
+      ],
+      "answer": 1,
+      "explanation": "Spirometers record the air moved in a single quiet breath, which is the tidal volume.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "Which statement about tidal volume is correct?",
+      "options": [
+        "It constitutes about 40% of vital capacity",
+        "It is the maximum volume that can be exhaled after a normal inspiration",
+        "It remains constant irrespective of body size",
+        "It is the same as residual volume"
+      ],
+      "answer": 0,
+      "explanation": "Tidal volume (~0.5 L) is roughly 40 % of a typical vital capacity of 4–5 L in adults.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "In obstructive lung disease, the ratio of tidal volume to vital capacity is typically:",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "Air trapping reduces vital capacity more than tidal volume, lowering the TV/VC ratio in obstructive disorders.",
+      "topic": "Tidal volume"
+    },
+    {
+      "question": "What does the term inspiratory reserve volume (IRV) refer to?",
+      "options": [
+        "The additional volume of air that can be inhaled beyond a normal tidal inspiration",
+        "The additional volume of air that can be exhaled beyond a normal tidal expiration",
+        "The volume of air remaining in the lungs after a maximal expiration",
+        "The total volume of air that can be moved in and out of the lungs during a breathing cycle"
+      ],
+      "answer": 0,
+      "explanation": "IRV is defined as the maximal amount of air that can be inhaled after a normal tidal inspiration.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "The approximate value of inspiratory reserve volume in a healthy adult male is:",
+      "options": [
+        "1–2 L",
+        "2–3 L",
+        "3–4 L",
+        "4–5 L"
+      ],
+      "answer": 1,
+      "explanation": "In a typical adult male, IRV is about 2.5 L, which falls in the 2–3 L range.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "If tidal volume (TV) is 0.5 L and inspiratory capacity (IC) is 3.5 L, what is the inspiratory reserve volume?",
+      "options": [
+        "2.5 L",
+        "3.0 L",
+        "4.0 L",
+        "1.0 L"
+      ],
+      "answer": 0,
+      "explanation": "IRV = IC – TV = 3.5 L – 0.5 L = 2.5 L.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "During vigorous exercise, the inspiratory reserve volume generally:",
+      "options": [
+        "Decreases because lung compliance falls",
+        "Remains unchanged",
+        "Increases due to enhanced inspiratory effort",
+        "Becomes zero as breathing becomes purely tidal"
+      ],
+      "answer": 2,
+      "explanation": "Exercise augments the drive to breathe, allowing a larger maximal inspiration, so IRV increases.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "In restrictive lung disease, the inspiratory reserve volume is expected to:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Become negative"
+      ],
+      "answer": 1,
+      "explanation": "Restrictive disorders reduce lung compliance and total lung volumes, leading to a reduced IRV.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "Which pulmonary function test maneuver is used to obtain the inspiratory reserve volume directly?",
+      "options": [
+        "Forced vital capacity (FVC) maneuver",
+        "Slow vital capacity (SVC) maneuver",
+        "Inspiratory capacity maneuver performed after a normal expiration",
+        "Maximal voluntary ventilation (MVV) maneuver"
+      ],
+      "answer": 2,
+      "explanation": "The inspiratory capacity (IC) maneuver after a normal expiration gives IC; IRV is then obtained by subtracting the measured tidal volume from IC.",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "Which of the following correctly relates inspiratory reserve volume (IRV) to vital capacity (VC)?",
+      "options": [
+        "VC = IRV + TV",
+        "VC = IRV + TV + ERV",
+        "VC = IRV + ERV",
+        "VC = TV + ERV"
+      ],
+      "answer": 1,
+      "explanation": "Vital capacity is the sum of inspiratory reserve volume, tidal volume, and expiratory reserve volume (VC = IRV + TV + ERV).",
+      "topic": "Inspiratory reserve volume"
+    },
+    {
+      "question": "What is the definition of expiratory reserve volume (ERV)?",
+      "options": [
+        "The volume exhaled after a maximal inhalation",
+        "The maximal volume that can be exhaled after a normal tidal exhalation",
+        "The volume inhaled after a normal tidal inhalation",
+        "The volume remaining in the lungs after a maximal exhalation"
+      ],
+      "answer": 1,
+      "explanation": "ERV is the additional amount of air that can be forcibly exhaled after the end of a normal tidal exhalation.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "Approximately what is the normal ERV in a healthy adult male?",
+      "options": [
+        "0.5 L",
+        "1.0 L",
+        "1.5 L",
+        "2.0 L"
+      ],
+      "answer": 1,
+      "explanation": "In a typical adult male, ERV is about 1.0 litre (range 0.8‑1.2 L).",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "Expiratory reserve volume contributes to which respiratory capacity?",
+      "options": [
+        "Functional residual capacity",
+        "Inspiratory capacity",
+        "Vital capacity",
+        "Total lung capacity"
+      ],
+      "answer": 2,
+      "explanation": "Vital capacity (VC) = IRV + TV + ERV, so ERV is a component of VC.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "In obstructive lung diseases such as COPD, the expiratory reserve volume is usually:",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "Variable depending on severity"
+      ],
+      "answer": 1,
+      "explanation": "Air‑trapping limits the amount of air that can be expelled after a normal exhalation, reducing ERV.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "A subject has TV = 0.5 L, IRV = 2.5 L, ERV = 1.0 L and RV = 1.2 L. What is his vital capacity?",
+      "options": [
+        "3.2 L",
+        "4.0 L",
+        "4.7 L",
+        "5.2 L"
+      ],
+      "answer": 1,
+      "explanation": "VC = IRV + TV + ERV = 2.5 L + 0.5 L + 1.0 L = 4.0 L.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "Which spirometric maneuver is used to measure ERV?",
+      "options": [
+        "Performing a forced vital capacity (FVC) maneuver",
+        "A maximal inspiratory effort after a normal exhalation",
+        "A maximal expiratory effort after a normal inhalation",
+        "A slow vital capacity maneuver"
+      ],
+      "answer": 2,
+      "explanation": "ERV is obtained by asking the subject to exhale maximally after a normal tidal inspiration.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "How does body posture affect expiratory reserve volume?",
+      "options": [
+        "Higher in the supine position",
+        "Higher in the upright position",
+        "Same in both positions",
+        "It fluctuates randomly"
+      ],
+      "answer": 1,
+      "explanation": "In the upright posture the diaphragm descends, allowing a larger ERV compared with the supine position.",
+      "topic": "Expiratory reserve volume"
+    },
+    {
+      "question": "What is the residual volume (RV) of the lungs?",
+      "options": [
+        "The volume of air remaining in the lungs after a maximal forced expiration",
+        "The volume of air inhaled during a normal breath",
+        "The total volume of air the lungs can hold after a maximal inhalation",
+        "The volume of air exhaled during a normal breath"
+      ],
+      "answer": 0,
+      "explanation": "Residual volume is defined as the amount of air that remains in the lungs after a maximal forced exhalation; it cannot be expelled voluntarily.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "Which of the following techniques can directly measure residual volume?",
+      "options": [
+        "Spirometry",
+        "Body plethysmography",
+        "Peak flow meter",
+        "Tidal volume measurement"
+      ],
+      "answer": 1,
+      "explanation": "Body plethysmography measures changes in lung pressure and volume, allowing determination of RV, which spirometry cannot measure because RV is not exhaled.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "In a healthy adult, residual volume constitutes approximately what percentage of the total lung capacity (TLC)?",
+      "options": [
+        "20-25%",
+        "5-10%",
+        "40-45%",
+        "60-65%"
+      ],
+      "answer": 0,
+      "explanation": "RV is about 1.2 L in an adult, which is roughly 20‑25 % of the TLC (≈5‑6 L).",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "Functional residual capacity (FRC) is the sum of which two lung volumes?",
+      "options": [
+        "Residual volume and expiratory reserve volume",
+        "Tidal volume and inspiratory reserve volume",
+        "Vital capacity and residual volume",
+        "Inspiratory capacity and expiratory capacity"
+      ],
+      "answer": 0,
+      "explanation": "FRC = RV + ERV; it is the volume remaining in the lungs after a normal passive expiration.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "In chronic obstructive pulmonary disease (emphysema), the residual volume typically:",
+      "options": [
+        "Increases due to loss of elastic recoil",
+        "Decreases because of airway obstruction",
+        "Remains unchanged",
+        "First decreases then increases with disease progression"
+      ],
+      "answer": 0,
+      "explanation": "Emphysema destroys alveolar walls, reducing elastic recoil and causing air trapping, which raises RV.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "If a subject has a total lung capacity of 6.0 L and a vital capacity of 4.8 L, what is the residual volume?",
+      "options": [
+        "1.2 L",
+        "0.8 L",
+        "2.0 L",
+        "1.5 L"
+      ],
+      "answer": 0,
+      "explanation": "RV = TLC – VC = 6.0 L – 4.8 L = 1.2 L.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "Why is residual volume physiologically important?",
+      "options": [
+        "It maintains alveolar surface area and prevents collapse during expiration",
+        "It provides the driving pressure for inspiration",
+        "It increases the diffusion gradient for oxygen",
+        "It reduces airway resistance during breathing"
+      ],
+      "answer": 0,
+      "explanation": "RV keeps alveoli partially inflated, preventing atelectasis and ensuring continuous gas exchange even between breaths.",
+      "topic": "Residual volume"
+    },
+    {
+      "question": "Inspiratory capacity (IC) is best defined as:",
+      "options": [
+        "Tidal volume plus inspiratory reserve volume",
+        "Tidal volume plus expiratory reserve volume",
+        "Tidal volume plus residual volume",
+        "Inspiratory reserve volume plus expiratory reserve volume"
+      ],
+      "answer": 0,
+      "explanation": "IC represents the maximum volume that can be inhaled after a normal expiration, which equals tidal volume (TV) plus inspiratory reserve volume (IRV).",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "Functional residual capacity (FRC) is the sum of:",
+      "options": [
+        "Inspiratory reserve volume and tidal volume",
+        "Expiratory reserve volume and residual volume",
+        "Tidal volume and residual volume",
+        "Inspiratory reserve volume and expiratory reserve volume"
+      ],
+      "answer": 1,
+      "explanation": "FRC is the volume of air remaining in the lungs after a normal expiration, comprising expiratory reserve volume (ERV) plus residual volume (RV).",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "In restrictive lung disease, which respiratory capacity shows the greatest reduction?",
+      "options": [
+        "Vital capacity",
+        "Residual volume",
+        "Functional residual capacity",
+        "Inspiratory capacity"
+      ],
+      "answer": 0,
+      "explanation": "Restrictive disorders limit lung expansion, causing a proportional fall in all volumes, but vital capacity (the total usable volume) shows the most marked decrease.",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "Given: Tidal volume = 500 mL, Inspiratory reserve volume = 3000 mL, Expiratory reserve volume = 1200 mL, Residual volume = 1200 mL. What is the total lung capacity (TLC)?",
+      "options": [
+        "5900 mL",
+        "6200 mL",
+        "5700 mL",
+        "6000 mL"
+      ],
+      "answer": 0,
+      "explanation": "TLC = TV + IRV + ERV + RV = 500 + 3000 + 1200 + 1200 = 5900 mL.",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "Expiratory capacity (EC) equals:",
+      "options": [
+        "Vital capacity minus inspiratory reserve volume",
+        "Functional residual capacity",
+        "Inspiratory capacity",
+        "Residual volume"
+      ],
+      "answer": 0,
+      "explanation": "EC = TV + ERV, which is the same as vital capacity (TV+IRV+ERV) minus the inspiratory reserve volume (IRV).",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "Which respiratory capacity is most likely to be increased in emphysema?",
+      "options": [
+        "Residual volume",
+        "Inspiratory capacity",
+        "Vital capacity",
+        "Functional residual capacity"
+      ],
+      "answer": 0,
+      "explanation": "Destruction of alveolar walls in emphysema leads to air trapping, markedly raising the residual volume.",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "Which of the following relationships between respiratory capacities is correct?",
+      "options": [
+        "Inspiratory capacity + expiratory reserve volume = total lung capacity",
+        "Vital capacity + residual volume = total lung capacity",
+        "Functional residual capacity + tidal volume = vital capacity",
+        "Inspiratory reserve volume + expiratory reserve volume = vital capacity"
+      ],
+      "answer": 1,
+      "explanation": "Total lung capacity (TLC) equals vital capacity (VC) plus residual volume (RV); therefore VC + RV = TLC.",
+      "topic": "Respiratory capacities"
+    },
+    {
+      "question": "What is the definition of inspiratory capacity (IC) in pulmonary physiology?",
+      "options": [
+        "Tidal volume plus inspiratory reserve volume",
+        "Tidal volume plus expiratory reserve volume",
+        "Tidal volume plus residual volume",
+        "Inspiratory reserve volume plus expiratory reserve volume"
+      ],
+      "answer": 0,
+      "explanation": "Inspiratory capacity is the maximum volume of air that can be inhaled after a normal expiration, which equals tidal volume (TV) plus inspiratory reserve volume (IRV).",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "What is the approximate normal value of inspiratory capacity in a healthy adult male?",
+      "options": [
+        "2.0 L",
+        "3.0 L",
+        "4.5 L",
+        "5.5 L"
+      ],
+      "answer": 1,
+      "explanation": "In healthy adult males, the inspiratory capacity typically ranges from about 3.0 to 3.5 liters.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "In chronic obstructive pulmonary disease (COPD), the inspiratory capacity is usually:",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Unchanged",
+        "Variable depending on severity"
+      ],
+      "answer": 1,
+      "explanation": "COPD leads to air‑trapping and an increase in residual volume, leaving less room for inspiration; consequently, inspiratory capacity is often reduced.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "Which relationship correctly relates inspiratory capacity (IC) to vital capacity (VC) and expiratory reserve volume (ERV)?",
+      "options": [
+        "IC + ERV = VC",
+        "IC = VC - ERV",
+        "IC = TV + ERV",
+        "IC = RV + TV"
+      ],
+      "answer": 1,
+      "explanation": "Since VC = TV + IRV + ERV and IC = TV + IRV, rearranging gives IC = VC - ERV.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "During moderate to intense exercise, the inspiratory capacity of a healthy individual typically:",
+      "options": [
+        "Decreases",
+        "Remains unchanged",
+        "Increases",
+        "Becomes equal to vital capacity"
+      ],
+      "answer": 2,
+      "explanation": "Exercise increases tidal volume and often recruits inspiratory reserve volume, so the total inspiratory capacity rises.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "Measurement of inspiratory capacity is most useful in assessing which type of lung disorder?",
+      "options": [
+        "Restrictive lung disease",
+        "Obstructive lung disease",
+        "Pulmonary embolism",
+        "Pleural effusion"
+      ],
+      "answer": 1,
+      "explanation": "In obstructive diseases like COPD, a reduced inspiratory capacity correlates with the degree of air‑trapping and dyspnea, making it a valuable clinical parameter.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "If tidal volume is 0.5 L, inspiratory reserve volume is 2.5 L, expiratory reserve volume is 1.0 L, and residual volume is 1.2 L, what is the inspiratory capacity?",
+      "options": [
+        "1.7 L",
+        "2.5 L",
+        "3.0 L",
+        "4.2 L"
+      ],
+      "answer": 2,
+      "explanation": "Inspiratory capacity = tidal volume + inspiratory reserve volume = 0.5 L + 2.5 L = 3.0 L.",
+      "topic": "Inspiratory capacity"
+    },
+    {
+      "question": "Expiratory capacity (EC) is defined as which combination of lung volumes?",
+      "options": [
+        "Tidal volume (TV) + Inspiratory reserve volume (IRV)",
+        "Tidal volume (TV) + Expiratory reserve volume (ERV)",
+        "Inspiratory reserve volume (IRV) + Expiratory reserve volume (ERV)",
+        "Tidal volume (TV) + Residual volume (RV)"
+      ],
+      "answer": 1,
+      "explanation": "Expiratory capacity is the maximum volume that can be exhaled after a normal inhalation and is calculated as TV + ERV.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "If a person has a tidal volume of 500 mL and an expiratory reserve volume of 1200 mL, what is the expiratory capacity?",
+      "options": [
+        "1500 mL",
+        "1700 mL",
+        "2000 mL",
+        "2500 mL"
+      ],
+      "answer": 1,
+      "explanation": "Expiratory capacity = TV + ERV = 500 mL + 1200 mL = 1700 mL.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "In obstructive lung disease (e.g., COPD), the expiratory capacity is most likely to:",
+      "options": [
+        "Increase because of air trapping",
+        "Decrease because ERV is reduced",
+        "Remain unchanged compared with normal lungs",
+        "Increase because tidal volume markedly rises"
+      ],
+      "answer": 1,
+      "explanation": "Obstructive diseases cause air trapping and hyperinflation, which reduce the usable expiratory reserve volume, thereby lowering the expiratory capacity.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "Which lung volume is NOT a component of expiratory capacity?",
+      "options": [
+        "Tidal volume (TV)",
+        "Expiratory reserve volume (ERV)",
+        "Residual volume (RV)",
+        "Both TV and ERV"
+      ],
+      "answer": 2,
+      "explanation": "Expiratory capacity consists of TV and ERV only; residual volume remains in the lungs after maximal exhalation and is not part of EC.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "During spirometry, which maneuver directly measures expiratory capacity?",
+      "options": [
+        "Forced vital capacity (FVC) test",
+        "Inspiratory capacity (IC) measurement",
+        "Total lung capacity (TLC) determination",
+        "Measurement of tidal volume plus maximal exhalation after a normal inhalation"
+      ],
+      "answer": 3,
+      "explanation": "Expiratory capacity is obtained by adding the tidal volume to the maximal volume exhaled after a normal inhalation, which is recorded as TV + ERV in spirometry.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "How does expiratory capacity compare with vital capacity?",
+      "options": [
+        "Expiratory capacity is greater than vital capacity",
+        "Expiratory capacity equals vital capacity",
+        "Expiratory capacity is less than vital capacity",
+        "They cannot be compared directly"
+      ],
+      "answer": 2,
+      "explanation": "Vital capacity = TV + IRV + ERV, whereas expiratory capacity = TV + ERV; therefore EC is always less than VC.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "A 25‑year‑old athlete has a tidal volume of 600 mL and an expiratory reserve volume of 1500 mL. Which statement about his expiratory capacity is correct?",
+      "options": [
+        "His expiratory capacity is 2100 mL",
+        "His expiratory capacity is 2100 mL and indicates high lung compliance",
+        "His expiratory capacity is 2100 mL and is less than his vital capacity of 3000 mL",
+        "His expiratory capacity is 2100 mL and exceeds his functional residual capacity"
+      ],
+      "answer": 0,
+      "explanation": "Expiratory capacity = TV + ERV = 600 mL + 1500 mL = 2100 mL. The other statements add extra information not required for the definition.",
+      "topic": "Expiratory capacity"
+    },
+    {
+      "question": "Functional residual capacity (FRC) is defined as the volume of air remaining in the lungs after which of the following respiratory events?",
+      "options": [
+        "A normal tidal expiration",
+        "A maximal inspiratory effort",
+        "A forced vital capacity maneuver",
+        "Complete lung emptying"
+      ],
+      "answer": 0,
+      "explanation": "FRC is the volume left in the lungs after a normal, quiet expiration, comprising the expiratory reserve volume plus the residual volume.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "Which of the following lung volumes is NOT a component of the functional residual capacity?",
+      "options": [
+        "Tidal volume",
+        "Expiratory reserve volume",
+        "Residual volume",
+        "Both expiratory reserve volume and residual volume"
+      ],
+      "answer": 0,
+      "explanation": "FRC consists of expiratory reserve volume (ERV) and residual volume (RV) only; tidal volume (TV) is the volume of a normal breath and is not part of FRC.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "In which of the following pulmonary conditions is the functional residual capacity most likely to be increased?",
+      "options": [
+        "Emphysema",
+        "Pulmonary fibrosis",
+        "Acute asthma attack",
+        "Pneumonia"
+      ],
+      "answer": 0,
+      "explanation": "Emphysema destroys elastic recoil, leading to air trapping and an elevated FRC. Restrictive diseases like fibrosis usually reduce FRC.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "How does the functional residual capacity change when a person moves from an upright to a supine position?",
+      "options": [
+        "It becomes higher in the supine position",
+        "It becomes lower in the supine position",
+        "It remains unchanged",
+        "It becomes higher only in the standing position"
+      ],
+      "answer": 1,
+      "explanation": "In the supine position, the abdominal contents push the diaphragm upward, reducing the lung volume at the end of a normal expiration, so FRC decreases.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "Which pulmonary function test technique is most commonly used to measure functional residual capacity in a clinical setting?",
+      "options": [
+        "Helium dilution technique",
+        "Standard spirometry",
+        "Peak expiratory flow measurement",
+        "Chest radiography"
+      ],
+      "answer": 0,
+      "explanation": "The helium (or nitrogen) dilution method allows calculation of the volume of air that equilibrates with an inert gas, giving an accurate measurement of FRC.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "Functional residual capacity can be expressed mathematically as which of the following relationships?",
+      "options": [
+        "Total lung capacity minus vital capacity",
+        "Total lung capacity minus inspiratory reserve volume",
+        "Vital capacity minus residual volume",
+        "Residual volume minus inspiratory reserve volume"
+      ],
+      "answer": 0,
+      "explanation": "FRC = TLC – VC because TLC is the sum of all lung volumes and VC is the sum of inspiratory capacity and expiratory capacity, leaving ERV + RV (i.e., FRC).",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "In obstructive lung diseases such as chronic bronchitis, the functional residual capacity typically:",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Remains unchanged",
+        "Varies unpredictably"
+      ],
+      "answer": 1,
+      "explanation": "Obstructive diseases cause airway collapse during expiration, leading to air trapping and an elevated FRC.",
+      "topic": "Functional residual capacity"
+    },
+    {
+      "question": "Vital capacity is defined as:",
+      "options": [
+        "Maximum volume of air that can be exhaled after a maximal inhalation",
+        "Maximum volume of air inhaled during normal breathing",
+        "Volume of air remaining in the lungs after maximal exhalation",
+        "Volume of air inhaled beyond tidal volume"
+      ],
+      "answer": 0,
+      "explanation": "Vital capacity (VC) is the greatest amount of air that can be expelled from the lungs after a full, maximal inhalation, i.e., IRV + TV + ERV.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "If a person has an inspiratory reserve volume of 3000 mL, tidal volume of 500 mL and expiratory reserve volume of 1200 mL, what is his vital capacity?",
+      "options": [
+        "4700 mL",
+        "3500 mL",
+        "4200 mL",
+        "5000 mL"
+      ],
+      "answer": 0,
+      "explanation": "VC = IRV + TV + ERV = 3000 mL + 500 mL + 1200 mL = 4700 mL.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "Which of the following values is closest to the average vital capacity of a healthy adult male?",
+      "options": [
+        "2.5 L",
+        "3.5 L",
+        "4.8 L",
+        "6.0 L"
+      ],
+      "answer": 2,
+      "explanation": "Normal VC for adult males is about 4.5–5.0 L; 4.8 L is the closest among the options.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "A marked reduction in vital capacity is most characteristic of which respiratory condition?",
+      "options": [
+        "Emphysema",
+        "Asthma",
+        "Pulmonary fibrosis",
+        "Pneumothorax"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary fibrosis is a restrictive lung disease that markedly lowers VC, whereas obstructive diseases like emphysema may have near‑normal VC.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "In spirometry, which maneuver is used to measure vital capacity?",
+      "options": [
+        "Tidal breathing test",
+        "Slow vital capacity test",
+        "Forced vital capacity test",
+        "Peak expiratory flow measurement"
+      ],
+      "answer": 2,
+      "explanation": "Forced vital capacity (FVC) is obtained by a maximal forced expiration after a maximal inspiration and reflects the vital capacity.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "Which equation correctly relates vital capacity (VC) to total lung capacity (TLC) and residual volume (RV)?",
+      "options": [
+        "VC = TLC + RV",
+        "VC = TLC - RV",
+        "VC = RV - TLC",
+        "VC = TLC × RV"
+      ],
+      "answer": 1,
+      "explanation": "VC is the portion of TLC that can be moved in and out of the lungs, so VC = TLC – RV.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "How does normal aging affect vital capacity after the age of 20 years?",
+      "options": [
+        "It increases gradually",
+        "It remains unchanged",
+        "It decreases by about 1 % per year",
+        "It fluctuates unpredictably"
+      ],
+      "answer": 2,
+      "explanation": "With advancing age, elastic recoil of the lungs and chest wall decreases, leading to an approximate 1 % per year decline in VC after early adulthood.",
+      "topic": "Vital capacity"
+    },
+    {
+      "question": "Total lung capacity (TLC) is best described as the sum of which of the following lung volumes?",
+      "options": [
+        "Tidal volume, inspiratory reserve volume, expiratory reserve volume, and residual volume",
+        "Inspiratory capacity and functional residual capacity",
+        "Vital capacity and residual volume",
+        "Alveolar ventilation and dead space volume"
+      ],
+      "answer": 0,
+      "explanation": "TLC equals the sum of TV, IRV, ERV and RV, representing the maximum volume the lungs can hold.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "Which of the following is NOT included in the calculation of total lung capacity?",
+      "options": [
+        "Residual volume",
+        "Inspiratory reserve volume",
+        "Expiratory reserve volume",
+        "Alveolar ventilation"
+      ],
+      "answer": 3,
+      "explanation": "Alveolar ventilation is a rate of gas exchange, not a static lung volume; TLC is the sum of TV, IRV, ERV and RV.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "The approximate total lung capacity in a healthy adult male is:",
+      "options": [
+        "4.0 L",
+        "5.0 L",
+        "6.0 L",
+        "7.0 L"
+      ],
+      "answer": 1,
+      "explanation": "In most healthy adult males, TLC is about 5 L (range 4.5–6 L).",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "In restrictive lung diseases such as pulmonary fibrosis, the total lung capacity is expected to:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain unchanged",
+        "Fluctuate widely"
+      ],
+      "answer": 1,
+      "explanation": "Restrictive diseases reduce lung compliance, leading to a lower TLC compared with normal values.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "The most accurate method to measure total lung capacity in a clinical setting is:",
+      "options": [
+        "Spirometry",
+        "Body plethysmography",
+        "Peak expiratory flow meter",
+        "Pulse oximetry"
+      ],
+      "answer": 1,
+      "explanation": "Body plethysmography can measure all lung volumes, including residual volume, giving an accurate TLC; spirometry alone cannot.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "A subject has a vital capacity of 4.5 L and a residual volume of 1.2 L. What is the total lung capacity?",
+      "options": [
+        "5.7 L",
+        "3.3 L",
+        "4.5 L",
+        "5.0 L"
+      ],
+      "answer": 0,
+      "explanation": "TLC = VC + RV = 4.5 L + 1.2 L = 5.7 L.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "Tidal volume constitutes approximately what percentage of the total lung capacity in a healthy adult?",
+      "options": [
+        "5 %",
+        "10 %",
+        "20 %",
+        "30 %"
+      ],
+      "answer": 1,
+      "explanation": "Typical tidal volume is ~0.5 L while TLC is ~5 L, giving about 10 % of TLC.",
+      "topic": "Total lung capacity"
+    },
+    {
+      "question": "Which pulmonary function test parameter is most useful for differentiating obstructive from restrictive lung disease?",
+      "options": [
+        "Forced vital capacity (FVC)",
+        "Forced expiratory volume in 1 second (FEV1)",
+        "FEV1/FVC ratio",
+        "Total lung capacity (TLC)"
+      ],
+      "answer": 2,
+      "explanation": "The FEV1/FVC ratio decreases markedly in obstructive diseases while it remains normal or increased in restrictive diseases, making it the key discriminating index.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "In a healthy adult, the typical value of the FEV1/FVC ratio expressed as a percentage is approximately:",
+      "options": [
+        "60%",
+        "70%",
+        "80%",
+        "95%"
+      ],
+      "answer": 2,
+      "explanation": "Normal spirometry shows an FEV1/FVC ratio of about 0.8 (80%) in adults; lower values suggest obstruction.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "During spirometry, the volume of air that can be forcibly exhaled in the first second after a maximal inhalation is called:",
+      "options": [
+        "Forced vital capacity (FVC)",
+        "Forced expiratory volume in 1 second (FEV1)",
+        "Inspiratory reserve volume (IRV)",
+        "Peak expiratory flow (PEF)"
+      ],
+      "answer": 1,
+      "explanation": "FEV1 is the standard measure of the volume expelled in the first second of a forced exhalation following a full inhalation.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "A patient shows reduced total lung capacity (TLC) but a normal FEV1/FVC ratio. Which pattern does this suggest?",
+      "options": [
+        "Obstructive disease",
+        "Restrictive disease",
+        "Mixed disease",
+        "Normal lung function"
+      ],
+      "answer": 1,
+      "explanation": "Reduced TLC with a preserved FEV1/FVC ratio is characteristic of restrictive lung disorders, where lung volumes are decreased but airflow proportion is unchanged.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "The diffusing capacity of the lung for carbon monoxide (DLCO) is primarily reduced in which condition?",
+      "options": [
+        "Pulmonary fibrosis",
+        "Chronic bronchitis",
+        "Asthma",
+        "Pulmonary embolism"
+      ],
+      "answer": 0,
+      "explanation": "DLCO depends on alveolar–capillary surface area; interstitial fibrosis thins this area, markedly lowering DLCO, whereas airway diseases affect flow more than diffusion.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "Which of the following statements about the peak expiratory flow rate (PEFR) is correct?",
+      "options": [
+        "It reflects large airway function",
+        "It is independent of patient effort",
+        "It is measured during a slow vital capacity maneuver",
+        "It is expressed as volume per minute"
+      ],
+      "answer": 0,
+      "explanation": "PEFR measures the maximal flow achieved during a rapid forced exhalation and primarily reflects the caliber of large airways.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "In pulmonary function testing, bronchodilator reversibility is defined as an increase in FEV1 of at least what percentage from baseline after bronchodilator administration?",
+      "options": [
+        "5%",
+        "10%",
+        "12%",
+        "15%"
+      ],
+      "answer": 2,
+      "explanation": "A rise of ≥12% and at least 200 mL in FEV1 after a bronchodilator indicates significant reversibility, typical of asthma.",
+      "topic": "Pulmonary function"
+    },
+    {
+      "question": "Which of the following does NOT directly affect the rate of diffusion of gases across the alveolar‑capillary membrane?",
+      "options": [
+        "Thickness of the membrane",
+        "Surface area available for diffusion",
+        "Partial pressure gradient of the gas",
+        "Blood pH"
+      ],
+      "answer": 3,
+      "explanation": "Fick's law states that diffusion rate depends on membrane thickness, surface area and the partial pressure gradient. Blood pH influences haemoglobin affinity but does not directly alter the physical diffusion rate.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "The slight fall in arterial PO2 (≈5 mmHg) compared with alveolar PO2 in a healthy individual is mainly due to:",
+      "options": [
+        "Increased thickness of the alveolar membrane",
+        "Ventilation‑perfusion mismatch",
+        "Physiological shunt of deoxygenated blood",
+        "Alveolar dead space"
+      ],
+      "answer": 2,
+      "explanation": "A small proportion of blood bypasses ventilated alveoli (physiological shunt), mixing with oxygenated blood and lowering arterial PO2 relative to alveolar PO2.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "According to Fick’s law, if the surface area of the alveolar membrane doubles while all other factors remain constant, the rate of oxygen diffusion will:",
+      "options": [
+        "Remain unchanged",
+        "Double",
+        "Halve",
+        "Increase fourfold"
+      ],
+      "answer": 1,
+      "explanation": "Diffusion rate is directly proportional to surface area; doubling the area doubles the diffusion rate.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "At high altitude, the primary respiratory adaptation that helps maintain oxygen uptake across the alveoli is:",
+      "options": [
+        "Increase in alveolar ventilation",
+        "Decrease in the diffusion coefficient of oxygen",
+        "Increase in the thickness of the alveolar membrane",
+        "Decrease in the available surface area"
+      ],
+      "answer": 0,
+      "explanation": "Higher ventilation lowers alveolar CO2 and raises alveolar PO2, compensating for the reduced atmospheric PO2.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "The partial pressure of carbon dioxide in alveolar air is most directly determined by:",
+      "options": [
+        "Rate of CO2 production in tissues",
+        "Rate of ventilation",
+        "Diffusion capacity of CO2 across the membrane",
+        "Haemoglobin affinity for CO2"
+      ],
+      "answer": 1,
+      "explanation": "Alveolar PCO2 is set by the balance between CO2 delivery from the blood (production) and its removal by ventilation; ventilation is the dominant factor.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "In a healthy young adult at rest, the alveolar‑arterial (A‑a) gradient for oxygen is typically:",
+      "options": [
+        "Zero",
+        "5–10 mmHg",
+        "20–30 mmHg",
+        "Negative"
+      ],
+      "answer": 1,
+      "explanation": "Normal A‑a O2 gradient is small, about 5–10 mmHg, reflecting minimal diffusion limitation and shunt.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "The Bohr effect influences alveolar gas exchange by:",
+      "options": [
+        "Increasing haemoglobin affinity for O2 at high CO2 levels",
+        "Decreasing haemoglobin affinity for O2 at low pH",
+        "Shifting the O2‑dissociation curve to the left in peripheral tissues",
+        "Enhancing CO2 diffusion across the alveolar membrane"
+      ],
+      "answer": 1,
+      "explanation": "A fall in pH (often due to increased CO2) reduces haemoglobin’s affinity for O2, facilitating O2 release in tissues; this is the Bohr effect.",
+      "topic": "Alveolar gas exchange"
+    },
+    {
+      "question": "According to Fick's law, which factor does NOT directly increase the rate of diffusion of oxygen across the alveolar membrane?",
+      "options": [
+        "Increase in surface area",
+        "Decrease in membrane thickness",
+        "Increase in partial pressure difference",
+        "Increase in pulmonary blood flow"
+      ],
+      "answer": 3,
+      "explanation": "Fick's law states that diffusion rate is proportional to surface area, pressure gradient and inversely proportional to thickness; pulmonary blood flow influences delivery but not the diffusion process itself.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "If the alveolar‑capillary membrane thickness doubles (e.g., due to pulmonary fibrosis) while all other factors remain unchanged, what happens to the rate of oxygen diffusion?",
+      "options": [
+        "Diffusion rate doubles",
+        "Diffusion rate halves",
+        "No change",
+        "Increases slightly due to increased surface area"
+      ],
+      "answer": 1,
+      "explanation": "Diffusion rate is inversely proportional to membrane thickness; doubling the thickness reduces the rate to one‑half of the original.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "Why is the diffusion of oxygen across the alveolar membrane slower than that of carbon dioxide?",
+      "options": [
+        "Oxygen has lower solubility in blood plasma",
+        "Oxygen partial pressure gradient is smaller",
+        "Oxygen molecular weight is higher",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Oxygen’s solubility in plasma is about 20 times lower than CO₂, making its diffusion coefficient much smaller; the other factors are less significant.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "At high altitude the inspired PO₂ falls. Which physiological change most directly helps maintain oxygen diffusion into the blood?",
+      "options": [
+        "Increase in alveolar surface area",
+        "Decrease in alveolar‑capillary membrane thickness",
+        "Increase in hemoglobin concentration",
+        "Increase in respiratory rate"
+      ],
+      "answer": 3,
+      "explanation": "Hyperventilation raises alveolar PO₂, thereby increasing the partial pressure gradient that drives diffusion.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "The diffusion capacity of the lung for oxygen (DL_O₂) is directly proportional to which relationship?",
+      "options": [
+        "Surface area of alveolar membrane / thickness of membrane",
+        "Partial pressure of oxygen in alveoli",
+        "Cardiac output",
+        "Hemoglobin concentration"
+      ],
+      "answer": 0,
+      "explanation": "DL is defined as (A/T) × D, where A is surface area, T is thickness, and D is the diffusion coefficient; thus it depends on the A/T ratio.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "Which condition is most likely to produce a diffusion limitation for oxygen rather than a perfusion limitation?",
+      "options": [
+        "Pulmonary embolism",
+        "Chronic bronchitis",
+        "Pulmonary edema",
+        "Anemia"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary edema thickens the alveolar‑capillary barrier, impairing diffusion; the other conditions primarily affect ventilation or perfusion.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "A rightward shift of the oxygen‑hemoglobin dissociation curve facilitates O₂ unloading. Which factor that also influences oxygen diffusion causes such a shift?",
+      "options": [
+        "Increased temperature",
+        "Decreased 2,3‑BPG",
+        "Decreased CO₂",
+        "Alkalosis"
+      ],
+      "answer": 0,
+      "explanation": "Higher temperature reduces hemoglobin affinity for O₂ (right shift) and also increases the diffusion coefficient of gases, aiding O₂ diffusion.",
+      "topic": "Diffusion of oxygen"
+    },
+    {
+      "question": "Which factor contributes most to the higher rate of diffusion of carbon dioxide compared to oxygen across the alveolar membrane?",
+      "options": [
+        "Higher partial pressure gradient",
+        "Higher solubility of CO₂ in blood",
+        "Lower molecular weight of CO₂",
+        "Larger surface area of the alveolar membrane"
+      ],
+      "answer": 1,
+      "explanation": "CO₂ is about 20 times more soluble in blood than O₂, which greatly increases its diffusion rate despite similar partial pressure gradients.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "In alveolar gas exchange, the partial pressure of CO₂ in alveolar air is ~40 mmHg while in pulmonary capillary blood it is ~45 mmHg. In which direction does CO₂ diffuse?",
+      "options": [
+        "From alveoli to blood",
+        "From blood to alveoli",
+        "No net diffusion occurs",
+        "Diffusion occurs equally in both directions"
+      ],
+      "answer": 1,
+      "explanation": "Diffusion occurs from the region of higher partial pressure (blood, 45 mmHg) to lower partial pressure (alveoli, 40 mmHg).",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "According to Fick’s law, which change would decrease the rate of CO₂ diffusion across the alveolar membrane?",
+      "options": [
+        "Increasing membrane thickness",
+        "Increasing surface area",
+        "Increasing solubility of CO₂",
+        "Increasing the partial pressure difference"
+      ],
+      "answer": 0,
+      "explanation": "Fick’s law states diffusion ∝ surface area and pressure difference, and inversely ∝ thickness; increasing thickness reduces diffusion rate.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "The diffusion coefficient of CO₂ in the alveolar membrane is higher than that of O₂. Which statement best explains this observation?",
+      "options": [
+        "CO₂ has a lower molecular weight than O₂",
+        "CO₂ is more soluble in the membrane and blood",
+        "CO₂ has a higher partial pressure gradient across the membrane",
+        "CO₂ binds to hemoglobin, facilitating diffusion"
+      ],
+      "answer": 1,
+      "explanation": "Higher solubility of CO₂ in the aqueous and lipid components of the membrane enhances its diffusion coefficient.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "During vigorous exercise, arterial PCO₂ rises to 45 mmHg while alveolar PCO₂ remains at 40 mmHg. Which compensatory mechanism primarily helps to normalize arterial CO₂?",
+      "options": [
+        "Increasing tidal volume",
+        "Increasing respiratory rate",
+        "Increasing diffusion distance in the lungs",
+        "Increasing hemoglobin affinity for CO₂"
+      ],
+      "answer": 1,
+      "explanation": "An increased respiratory rate (hyperventilation) expels more CO₂, lowering arterial PCO₂ toward normal.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "Which statement about the Bohr effect is true regarding CO₂ diffusion?",
+      "options": [
+        "Increased CO₂ shifts the O₂‑dissociation curve to the right",
+        "Decreased CO₂ shifts the curve to the right",
+        "CO₂ has no effect on O₂ binding to hemoglobin",
+        "CO₂ directly binds to the heme iron of hemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Higher CO₂ (and H⁺) reduces hemoglobin’s affinity for O₂, shifting the dissociation curve rightward and facilitating O₂ release.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "In a patient with pulmonary fibrosis, the alveolar‑capillary membrane thickness is increased. How does this affect CO₂ elimination compared to O₂?",
+      "options": [
+        "CO₂ elimination is less affected than O₂",
+        "CO₂ elimination is equally affected as O₂",
+        "CO₂ elimination is more affected than O₂",
+        "CO₂ elimination is unchanged because it diffuses by bulk flow"
+      ],
+      "answer": 0,
+      "explanation": "Because CO₂ is much more soluble than O₂, an increase in diffusion distance impairs O₂ transfer more markedly than CO₂ transfer.",
+      "topic": "Diffusion of carbon dioxide"
+    },
+    {
+      "question": "Which statement correctly defines partial pressure?",
+      "options": [
+        "Pressure exerted by a single gas in a mixture of gases",
+        "Total pressure of a gas mixture",
+        "Pressure due to water vapor only",
+        "Pressure measured only at sea level"
+      ],
+      "answer": 0,
+      "explanation": "Partial pressure is the pressure that an individual gas would exert if it alone occupied the entire volume of the mixture at the same temperature.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "According to Dalton's law, if a gas mixture at 760 mmHg contains 21% O₂ and 78% N₂ (water vapour negligible), what is the partial pressure of O₂?",
+      "options": [
+        "160 mmHg",
+        "590 mmHg",
+        "760 mmHg",
+        "0.21 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Partial pressure = fraction of gas × total pressure = 0.21 × 760 ≈ 160 mmHg.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "Using the alveolar gas equation PAO₂ = (Pₐₜₘ – Pₕ₂ₒ) FᵢO₂ – (PₐCO₂ / R), with Pₐₜₘ = 760 mmHg, Pₕ₂ₒ = 47 mmHg, FᵢO₂ = 0.21, PₐCO₂ = 40 mmHg and R = 0.8, what is the approximate alveolar PO₂?",
+      "options": [
+        "100 mmHg",
+        "150 mmHg",
+        "200 mmHg",
+        "50 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "(760‑47)=713; 713×0.21≈150; 40/0.8=50; PAO₂≈150‑50≈100 mmHg.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "At an altitude where atmospheric pressure is 523 mmHg, assuming FiO₂ = 0.21 and PaCO₂ = 40 mmHg, what is the approximate alveolar PO₂?",
+      "options": [
+        "50 mmHg",
+        "100 mmHg",
+        "150 mmHg",
+        "200 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "(523‑47)=476; 476×0.21≈100; 40/0.8=50; PAO₂≈100‑50≈50 mmHg.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "Why does oxygen diffuse from the alveoli into pulmonary capillary blood?",
+      "options": [
+        "Alveolar PO₂ is higher than capillary PO₂, creating a partial‑pressure gradient",
+        "Alveolar PO₂ is lower than capillary PO₂, causing reverse diffusion",
+        "Partial pressure of CO₂ drives O₂ diffusion",
+        "Diffusion occurs independent of partial pressures"
+      ],
+      "answer": 0,
+      "explanation": "Diffusion follows the gradient of partial pressures; alveolar PO₂ (~100 mmHg) exceeds mixed‑venous PO₂ (~40 mmHg), so O₂ moves into blood.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "Hyperventilation lowers arterial PCO₂ from the normal 40 mmHg to 30 mmHg. What is the expected effect on arterial pH?",
+      "options": [
+        "pH increases (respiratory alkalosis)",
+        "pH decreases (respiratory acidosis)",
+        "No change in pH",
+        "pH becomes more acidic due to increased O₂"
+      ],
+      "answer": 0,
+      "explanation": "A fall in PCO₂ reduces [H⁺] according to the Henderson‑Hasselbalch equation, raising pH and producing respiratory alkalosis.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "The Bohr effect describes how an increase in which partial pressure shifts the oxygen‑hemoglobin dissociation curve to the right?",
+      "options": [
+        "Partial pressure of CO₂",
+        "Partial pressure of O₂",
+        "Partial pressure of N₂",
+        "Partial pressure of water vapour"
+      ],
+      "answer": 0,
+      "explanation": "Higher PCO₂ (and accompanying H⁺) reduces hemoglobin’s affinity for O₂, shifting the curve rightward, facilitating O₂ release to tissues.",
+      "topic": "Partial pressure"
+    },
+    {
+      "question": "Which factor, when increased, will most directly increase the rate of diffusion of oxygen across the alveolar-capillary membrane?",
+      "options": [
+        "Increase in the surface area of the membrane",
+        "Increase in the thickness of the membrane",
+        "Decrease in the partial pressure gradient for oxygen",
+        "Decrease in temperature"
+      ],
+      "answer": 0,
+      "explanation": "According to Fick's law, the diffusion rate is directly proportional to the surface area and the partial pressure gradient, and inversely proportional to thickness and inversely related to temperature. Increasing surface area therefore enhances diffusion.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "In pulmonary edema, fluid accumulation in the interalveolar space primarily reduces gas exchange because it:",
+      "options": [
+        "Increases the surface area available for diffusion",
+        "Decreases the thickness of the respiratory membrane",
+        "Increases the thickness of the respiratory membrane",
+        "Increases the partial pressure gradient for gases"
+      ],
+      "answer": 2,
+      "explanation": "The fluid layer adds to the diffusion distance, effectively increasing the thickness of the respiratory membrane, which according to Fick's law reduces the diffusion rate of O₂ and CO₂.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "How does an increase in temperature affect the diffusion coefficient of respiratory gases in the alveoli?",
+      "options": [
+        "It decreases the diffusion coefficient",
+        "It increases the diffusion coefficient",
+        "It has no effect on the diffusion coefficient",
+        "It only affects diffusion of water vapor"
+      ],
+      "answer": 1,
+      "explanation": "Higher temperature increases the kinetic energy of molecules, raising the diffusion coefficient and thereby enhancing the rate of diffusion for gases.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "Among the following gases, which diffuses fastest across the alveolar membrane under normal physiological conditions?",
+      "options": [
+        "Oxygen (O₂)",
+        "Carbon dioxide (CO₂)",
+        "Nitrogen (N₂)",
+        "Water vapor (H₂O)"
+      ],
+      "answer": 1,
+      "explanation": "CO₂ diffuses about 20 times faster than O₂ because its higher solubility in the membrane outweighs the effect of its larger molecular weight.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "If the partial pressure gradient for oxygen between alveolar air and pulmonary capillary blood is reduced from 100 mmHg to 50 mmHg, the rate of oxygen diffusion will:",
+      "options": [
+        "Remain unchanged",
+        "Double",
+        "Halve",
+        "Increase fourfold"
+      ],
+      "answer": 2,
+      "explanation": "Fick's law states that diffusion rate is directly proportional to the partial pressure gradient; halving the gradient halves the diffusion rate.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "Which of the following changes would NOT significantly affect the diffusion of gases across the respiratory membrane?",
+      "options": [
+        "A decrease in alveolar surface area",
+        "An increase in membrane thickness",
+        "A rise in ambient temperature",
+        "A change in blood pH"
+      ],
+      "answer": 3,
+      "explanation": "Blood pH influences the oxygen‑hemoglobin dissociation curve but does not directly alter the physical parameters (area, thickness, temperature) governing diffusion across the membrane.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "At high altitude, the ambient partial pressure of oxygen falls. Which physiological response most directly helps to maintain the diffusion rate of oxygen into the blood?",
+      "options": [
+        "Development of additional alveoli increasing surface area",
+        "Thinning of the alveolar-capillary membrane",
+        "Increased ventilation raising alveolar PO₂",
+        "Elevation of core body temperature"
+      ],
+      "answer": 2,
+      "explanation": "Hyperventilation increases the alveolar PO₂, thereby restoring a larger partial pressure gradient and helping to sustain the diffusion rate despite the lower ambient pressure.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "What is the predominant form in which oxygen is transported in the blood?",
+      "options": [
+        "Dissolved in plasma",
+        "Bound to hemoglobin as oxyhemoglobin",
+        "Carbamino compounds",
+        "Bicarbonate ions"
+      ],
+      "answer": 1,
+      "explanation": "Approximately 98.5% of O2 is carried bound to hemoglobin as oxyhemoglobin, while only about 1.5% is dissolved in plasma.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "A rightward shift of the oxygen‑hemoglobin dissociation curve indicates:",
+      "options": [
+        "Decrease in 2,3‑BPG concentration",
+        "Decrease in temperature",
+        "Increase in pH (alkalosis)",
+        "Increase in H⁺ concentration (decrease in pH)"
+      ],
+      "answer": 3,
+      "explanation": "An increase in H⁺ (lower pH) reduces hemoglobin’s affinity for O2, shifting the curve to the right and facilitating O2 release to tissues.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "Calculate the arterial oxygen content (CaO₂) for a person with Hb = 15 g/dL, SaO₂ = 98% and PaO₂ = 100 mm Hg. (Use CaO₂ = (Hb × 1.34 × SaO₂) + (0.003 × PaO₂))",
+      "options": [
+        "19.7 mL/dL",
+        "20.1 mL/dL",
+        "21.0 mL/dL",
+        "22.5 mL/dL"
+      ],
+      "answer": 1,
+      "explanation": "Hb × 1.34 × SaO₂ = 15 × 1.34 × 0.98 ≈ 19.70 mL/dL; dissolved O₂ = 0.003 × 100 = 0.30 mL/dL; total ≈ 20.0 mL/dL, closest to 20.1 mL/dL.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "Which statement about oxyhemoglobin formation is correct?",
+      "options": [
+        "Each hemoglobin molecule can bind up to four O₂ molecules",
+        "Binding of O₂ to one subunit decreases affinity of the remaining subunits",
+        "O₂ binds only to the β chains of hemoglobin",
+        "Oxyhemoglobin formation releases H⁺ ions"
+      ],
+      "answer": 0,
+      "explanation": "A hemoglobin tetramer has four heme groups, each capable of binding one O₂ molecule, giving a maximum of four O₂ per molecule.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "The Bohr effect enhances O₂ release in metabolically active tissues. Which factor primarily causes this effect?",
+      "options": [
+        "Increase in pCO₂",
+        "Decrease in temperature",
+        "Increase in pH (alkalosis)",
+        "Decrease in 2,3‑BPG"
+      ],
+      "answer": 0,
+      "explanation": "Elevated pCO₂ in active tissues raises H⁺ concentration (lowers pH), reducing hemoglobin’s O₂ affinity and promoting O₂ unloading (Bohr effect).",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "How does the partial pressure of oxygen (Pₒ₂) relate to its solubility in plasma?",
+      "options": [
+        "Directly proportional",
+        "Inversely proportional",
+        "Independent of each other",
+        "Exponential relationship"
+      ],
+      "answer": 0,
+      "explanation": "According to Henry’s law, the amount of O₂ dissolved in plasma is directly proportional to its partial pressure.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "At high altitude, arterial Pₒ₂ falls. Which physiological adaptation helps maintain tissue oxygen delivery?",
+      "options": [
+        "Decrease in 2,3‑BPG concentration",
+        "Increase in hemoglobin concentration",
+        "Increase in plasma volume",
+        "Decrease in cardiac output"
+      ],
+      "answer": 1,
+      "explanation": "Chronic hypoxia stimulates erythropoiesis, raising hemoglobin concentration and thus the blood’s O₂‑carrying capacity.",
+      "topic": "Transport of oxygen"
+    },
+    {
+      "question": "What molecular mechanism primarily accounts for the sigmoidal shape of the haemoglobin oxygen dissociation curve?",
+      "options": [
+        "High affinity of each heme for O₂",
+        "Cooperative binding of O₂ to the four subunits",
+        "Presence of 2,3‑BPG in red cells",
+        "Low solubility of O₂ in plasma"
+      ],
+      "answer": 1,
+      "explanation": "Cooperative binding means that binding of one O₂ molecule increases the affinity of the remaining subunits, producing the characteristic sigmoidal curve.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "Fetal haemoglobin (HbF) has a higher affinity for O₂ than adult haemoglobin (HbA). Which structural difference is responsible for this?",
+      "options": [
+        "Higher 2,3‑BPG binding in HbF",
+        "Presence of γ chains instead of β chains",
+        "Additional heme groups per subunit",
+        "Increased number of iron atoms per molecule"
+      ],
+      "answer": 1,
+      "explanation": "HbF contains two γ chains that bind 2,3‑BPG less tightly than the β chains of HbA, resulting in higher O₂ affinity.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "The Bohr effect causes a right‑ward shift of the O₂ dissociation curve with decreasing pH. What is the physiological advantage of this shift?",
+      "options": [
+        "Enhanced O₂ loading in the lungs",
+        "Reduced O₂ unloading in tissues",
+        "Facilitated O₂ release from haemoglobin in metabolically active tissues",
+        "Increased affinity of haemoglobin for CO₂"
+      ],
+      "answer": 2,
+      "explanation": "A right‑ward shift lowers haemoglobin affinity for O₂, promoting O₂ release where pH is low due to high metabolic activity.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "The equilibrium for oxyhaemoglobin formation is Hb + O₂ ⇌ HbO₂. The equilibrium constant (K) is directly proportional to which factor?",
+      "options": [
+        "Partial pressure of O₂",
+        "Partial pressure of CO₂",
+        "Blood temperature",
+        "Blood pH"
+      ],
+      "answer": 0,
+      "explanation": "K = [HbO₂]/([Hb][O₂]); the concentration of dissolved O₂ is directly related to its partial pressure, so K increases with higher O₂ partial pressure.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "Which condition would cause a left‑ward shift of the haemoglobin oxygen dissociation curve, indicating increased O₂ affinity?",
+      "options": [
+        "Elevated 2,3‑BPG levels",
+        "Increased body temperature",
+        "Decreased blood pH (acidosis)",
+        "Decreased body temperature"
+      ],
+      "answer": 3,
+      "explanation": "Lower temperature stabilises the R‑state of haemoglobin, increasing its affinity for O₂ and shifting the curve left.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "In the context of oxyhaemoglobin formation, the Hill coefficient (n) reflects:",
+      "options": [
+        "Number of O₂ molecules bound per haemoglobin molecule",
+        "Degree of cooperativity among the four subunits",
+        "Affinity of haemoglobin for CO₂",
+        "Rate of O₂ diffusion across the alveolar membrane"
+      ],
+      "answer": 1,
+      "explanation": "The Hill coefficient quantifies the extent of cooperative binding; n > 1 indicates positive cooperativity.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "During intense exercise, alveolar PO₂ falls to about 80 mm Hg. Approximately what percentage of haemoglobin is saturated with O₂ under normal conditions?",
+      "options": [
+        "50 %",
+        "70 %",
+        "90 %",
+        "98 %"
+      ],
+      "answer": 2,
+      "explanation": "At a PO₂ of ~80 mm Hg, the haemoglobin saturation is roughly 95 %; the closest option is 90 %.",
+      "topic": "Oxyhaemoglobin formation"
+    },
+    {
+      "question": "What is the P50 value (the PO2 at which haemoglobin is 50% saturated) for adult haemoglobin under normal physiological conditions?",
+      "options": [
+        "~26 mmHg",
+        "~40 mmHg",
+        "~60 mmHg",
+        "~80 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "P50 is the partial pressure of oxygen at which haemoglobin is 50% saturated; for adult haemoglobin it is approximately 26–27 mmHg.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "Which of the following conditions will cause a leftward shift of the oxygen dissociation curve?",
+      "options": [
+        "Increased 2,3‑BPG concentration",
+        "Increased temperature",
+        "Decreased pH (increased H+)",
+        "Decreased CO2 concentration"
+      ],
+      "answer": 3,
+      "explanation": "A decrease in CO2 (and consequently a decrease in H+ and temperature) increases haemoglobin’s affinity for O2, shifting the curve to the left.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "Fetal haemoglobin (HbF) has a higher affinity for oxygen than adult haemoglobin. How does its oxygen dissociation curve compare?",
+      "options": [
+        "It is shifted to the right",
+        "It is shifted to the left",
+        "It coincides with the adult curve",
+        "It has a steeper slope but no shift"
+      ],
+      "answer": 1,
+      "explanation": "HbF’s higher O2 affinity shifts its dissociation curve to the left relative to adult haemoglobin, allowing efficient transfer of O2 from mother to fetus.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "The Bohr effect describes the influence of which change on the oxygen dissociation curve?",
+      "options": [
+        "Increased pH shifts the curve to the right",
+        "Increased CO2 shifts the curve to the left",
+        "Increased H+ concentration shifts the curve to the right",
+        "Increased temperature shifts the curve to the left"
+      ],
+      "answer": 2,
+      "explanation": "An increase in H+ (or a fall in pH) reduces haemoglobin’s affinity for O2, shifting the curve to the right and promoting O2 release to tissues.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "At a PO2 of 40 mmHg, the approximate saturation of adult haemoglobin is:",
+      "options": [
+        "~75%",
+        "~85%",
+        "~95%",
+        "~100%"
+      ],
+      "answer": 0,
+      "explanation": "A PO2 of 40 mmHg is close to the P50 value; therefore haemoglobin is roughly 50‑60% saturated, often quoted as about 75% in textbooks.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "During vigorous exercise, which factor primarily causes the rightward shift of the oxygen dissociation curve?",
+      "options": [
+        "Increased 2,3‑BPG levels",
+        "Decreased temperature",
+        "Increased pH",
+        "Decreased CO2 levels"
+      ],
+      "answer": 0,
+      "explanation": "Exercise raises 2,3‑BPG in red cells, decreasing haemoglobin’s O2 affinity and shifting the curve to the right to facilitate O2 delivery to active muscles.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "In chronic high‑altitude acclimatisation, the oxygen dissociation curve of the resident’s haemoglobin typically:",
+      "options": [
+        "Shifts left due to increased 2,3‑BPG",
+        "Shifts left due to decreased 2,3‑BPG",
+        "Shifts right due to increased 2,3‑BPG",
+        "Shifts right due to decreased 2,3‑BPG"
+      ],
+      "answer": 2,
+      "explanation": "Long‑term exposure to hypoxia stimulates production of 2,3‑BPG, which lowers haemoglobin’s O2 affinity, causing a rightward shift that aids tissue oxygenation.",
+      "topic": "Oxygen dissociation curve"
+    },
+    {
+      "question": "What is the predominant form in which carbon dioxide is transported in the blood?",
+      "options": [
+        "Dissolved in plasma",
+        "As bicarbonate ions",
+        "Carbaminohemoglobin",
+        "Bound to plasma proteins"
+      ],
+      "answer": 1,
+      "explanation": "About 70 % of CO₂ is converted to bicarbonate (HCO₃⁻) in red blood cells, making it the main transport form.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "Which enzyme catalyzes the rapid conversion of CO₂ to bicarbonate inside erythrocytes?",
+      "options": [
+        "Carbonic anhydrase",
+        "Hemoglobin",
+        "Catalase",
+        "Peroxidase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase accelerates the hydration of CO₂ to H₂CO₃, which then dissociates to HCO₃⁻ and H⁺.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "During the chloride shift, which ion moves into the red blood cell as bicarbonate exits?",
+      "options": [
+        "Chloride ion (Cl‑)",
+        "Sodium ion (Na⁺)",
+        "Potassium ion (K⁺)",
+        "Calcium ion (Ca²⁺)"
+      ],
+      "answer": 0,
+      "explanation": "The Hamburger phenomenon exchanges intracellular HCO₃⁻ for extracellular Cl⁻ to preserve electrical neutrality.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "Approximately what percentage of total CO₂ is carried as carbaminohemoglobin?",
+      "options": [
+        "5‑10%",
+        "20‑23%",
+        "30‑35%",
+        "70‑80%"
+      ],
+      "answer": 1,
+      "explanation": "Around 20‑23 % of CO₂ binds to the amino groups of haemoglobin forming carbamino compounds.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "Which statement about CO₂ transport is FALSE?",
+      "options": [
+        "Majority of CO₂ is transported as bicarbonate",
+        "Carbaminohemoglobin forms by binding CO₂ to the globin chains of haemoglobin",
+        "Dissolved CO₂ contributes more than 50 % of total CO₂ transport",
+        "Chloride shift maintains electro‑neutrality during bicarbonate exchange"
+      ],
+      "answer": 2,
+      "explanation": "Only about 7‑10 % of CO₂ is dissolved; the majority is carried as bicarbonate, not dissolved.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "In the lungs, the conversion of bicarbonate back to CO₂ for exhalation is facilitated mainly by:",
+      "options": [
+        "Decrease in blood pH",
+        "Carbonic anhydrase‑catalyzed conversion of bicarbonate to CO₂",
+        "Increase in chloride shift activity",
+        "Decrease in haemoglobin affinity for O₂"
+      ],
+      "answer": 1,
+      "explanation": "Carbonic anhydrase in pulmonary capillaries rapidly converts HCO₃⁻ and H⁺ to CO₂, which diffuses into alveoli.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "The Bohr effect, relevant to CO₂ transport, indicates that high CO₂ levels cause:",
+      "options": [
+        "High CO₂ levels increase haemoglobin’s affinity for O₂",
+        "High CO₂ levels decrease haemoglobin’s affinity for O₂, facilitating O₂ release",
+        "CO₂ does not affect O₂ affinity of haemoglobin",
+        "CO₂ competes with O₂ for the same binding site on haemoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Elevated CO₂ (and H⁺) lowers haemoglobin’s O₂ affinity, promoting oxygen release to tissues.",
+      "topic": "Transport of carbon dioxide"
+    },
+    {
+      "question": "Which enzyme catalyzes the rapid conversion of carbon dioxide and water to carbonic acid inside red blood cells?",
+      "options": [
+        "Carbonic anhydrase",
+        "Hemoglobin",
+        "Myoglobin",
+        "Catalase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase accelerates the hydration of CO2 to H2CO3, facilitating bicarbonate formation in erythrocytes.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "Approximately what proportion of the total carbon dioxide produced by tissues is transported in the blood as bicarbonate ions?",
+      "options": [
+        "5%",
+        "20%",
+        "70%",
+        "95%"
+      ],
+      "answer": 2,
+      "explanation": "About 70–80% of CO2 is carried as HCO3⁻ after conversion inside red blood cells, making it the dominant transport form.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "The exchange of intracellular bicarbonate for extracellular chloride during CO2 transport is mediated by which membrane protein?",
+      "options": [
+        "Na⁺/K⁺‑ATPase",
+        "Band 3 protein (anion exchanger)",
+        "Aquaporin‑1",
+        "GLUT1 glucose transporter"
+      ],
+      "answer": 1,
+      "explanation": "Band 3 (anion exchanger) facilitates the chloride shift, allowing HCO3⁻ to exit RBCs while Cl⁻ enters.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "Which condition most directly drives the equilibrium CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻ toward bicarbonate formation inside erythrocytes?",
+      "options": [
+        "High intracellular CO₂ concentration",
+        "Low temperature",
+        "High intracellular pH",
+        "Absence of carbonic anhydrase"
+      ],
+      "answer": 0,
+      "explanation": "Elevated CO₂ concentration pushes the reaction forward, producing more H⁺ and HCO₃⁻; carbonic anhydrase further speeds this process.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "During intense muscular activity, increased CO₂ production leads to greater bicarbonate formation. What is the expected effect on arterial blood pH?",
+      "options": [
+        "Increase (alkalosis)",
+        "Decrease (acidosis)",
+        "No change",
+        "Fluctuates unpredictably"
+      ],
+      "answer": 1,
+      "explanation": "More CO₂ conversion generates H⁺, lowering pH and causing a mild respiratory/acidemic shift.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "Which form of CO₂ transport contributes the least to the total CO₂ carried in the bloodstream?",
+      "options": [
+        "Bicarbonate ions",
+        "Carbaminohaemoglobin",
+        "Dissolved CO₂ in plasma",
+        "Chloride shift"
+      ],
+      "answer": 2,
+      "explanation": "Only about 5–7% of CO₂ is transported dissolved in plasma; the majority is as bicarbonate, with smaller portions bound to haemoglobin.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "In the reaction CO₂ + H₂O → H₂CO₃ → H⁺ + HCO₃⁻ occurring in red blood cells, how many water molecules are consumed per molecule of CO₂?",
+      "options": [
+        "One water molecule",
+        "Two water molecules",
+        "No water is required",
+        "Water is released, not consumed"
+      ],
+      "answer": 0,
+      "explanation": "Each CO₂ molecule combines with one H₂O molecule to form carbonic acid, which then dissociates into H⁺ and HCO₃⁻.",
+      "topic": "Bicarbonate formation"
+    },
+    {
+      "question": "Which functional group on the globin chains of hemoglobin binds carbon dioxide to form carbaminohaemoglobin?",
+      "options": [
+        "α‑amino terminal groups of the globin chains",
+        "ε‑amino groups of lysine residues",
+        "Imidazole side chain of histidine residues",
+        "β‑carboxyl groups of the globin chains"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ reacts with the free α‑amino groups at the N‑termini of the globin chains, forming a carbamate linkage (carbaminohaemoglobin).",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Approximately what proportion of the total carbon dioxide transported in the blood is carried as carbaminohaemoglobin?",
+      "options": [
+        "5‑10%",
+        "20‑25%",
+        "30‑35%",
+        "45‑50%"
+      ],
+      "answer": 0,
+      "explanation": "Only about 5‑10% of the total CO₂ is bound directly to hemoglobin as carbaminohaemoglobin; the majority is transported as bicarbonate ions.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Formation of carbaminohaemoglobin has what effect on the oxygen‑binding affinity of hemoglobin?",
+      "options": [
+        "Increases the affinity for O₂",
+        "Decreases the affinity for O₂",
+        "No effect on O₂ affinity",
+        "Increases affinity only at high pH"
+      ],
+      "answer": 1,
+      "explanation": "Binding of CO₂ to hemoglobin stabilises the T (tense) state, lowering O₂ affinity – a component of the Bohr effect.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Compared with the bicarbonate system, carbaminohaemoglobin is:",
+      "options": [
+        "The primary form of CO₂ transport in blood",
+        "Responsible for more than half of CO₂ transport",
+        "Formed in plasma rather than in red cells",
+        "A minor contributor to total CO₂ transport"
+      ],
+      "answer": 3,
+      "explanation": "Carbaminohaemoglobin carries only a small fraction (~5‑10%) of CO₂, whereas >70% is transported as bicarbonate in plasma.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Carbaminohaemoglobin formation is favored under which physiological condition?",
+      "options": [
+        "Alkalosis",
+        "Hyperventilation",
+        "Hypoxia",
+        "Acidosis"
+      ],
+      "answer": 3,
+      "explanation": "Acidosis (low pH) promotes CO₂ binding to hemoglobin, enhancing carbaminohaemoglobin formation and contributing to the Bohr effect.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Which equation best represents the reversible reaction that forms carbaminohaemoglobin?",
+      "options": [
+        "CO₂ + Hb‑NH₂ ⇌ Hb‑NH‑COO⁻ + H⁺",
+        "CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻",
+        "O₂ + Hb ⇌ HbO₂",
+        "CO₂ + HCO₃⁻ ⇌ CO₂ + H₂O"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ reacts with the free α‑amino groups (Hb‑NH₂) to give a carbamate (Hb‑NH‑COO⁻) and releases a proton, a reversible process.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "Why does carbaminohaemoglobin formation contribute to the Bohr effect?",
+      "options": [
+        "CO₂ binding releases H⁺, lowering pH and reducing O₂ affinity",
+        "CO₂ binding directly blocks the O₂‑binding sites",
+        "CO₂ binding converts hemoglobin to methemoglobin",
+        "CO₂ binding increases the number of available heme groups"
+      ],
+      "answer": 0,
+      "explanation": "The reaction releases H⁺, decreasing pH, which stabilises the T state of hemoglobin and lowers its affinity for O₂ – the classic Bohr effect.",
+      "topic": "Carbaminohaemoglobin"
+    },
+    {
+      "question": "What percentage of the total carbon dioxide transported in the blood is present as dissolved CO₂ in plasma?",
+      "options": [
+        "5-7%",
+        "10-12%",
+        "15-20%",
+        "25-30%"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 5-7% of the total CO₂ carried in blood is in the dissolved form; the majority is as bicarbonate and carbaminohemoglobin.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "According to Henry's law, how does the amount of dissolved CO₂ in blood change when the arterial PCO₂ doubles?",
+      "options": [
+        "It is independent of PCO₂",
+        "It is directly proportional to PCO₂",
+        "It is inversely proportional to PCO₂",
+        "It varies exponentially with PCO₂"
+      ],
+      "answer": 1,
+      "explanation": "Henry's law states that the concentration of a gas dissolved in a liquid is directly proportional to its partial pressure; doubling PCO₂ doubles the dissolved amount.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "The solubility coefficient of CO₂ in blood at 37 °C is about 0.03 mL CO₂ per 100 mL blood per mmHg. What is the amount of dissolved CO₂ in arterial blood when PCO₂ is 40 mmHg?",
+      "options": [
+        "0.6 mL/100 mL",
+        "1.2 mL/100 mL",
+        "2.4 mL/100 mL",
+        "3.0 mL/100 mL"
+      ],
+      "answer": 1,
+      "explanation": "Dissolved CO₂ = solubility coefficient × PCO₂ = 0.03 × 40 = 1.2 mL per 100 mL blood.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "An increase in the concentration of dissolved CO₂ in plasma primarily leads to:",
+      "options": [
+        "Increase in plasma bicarbonate concentration",
+        "Decrease in blood pH",
+        "Increase in blood pH",
+        "Increase in oxygen affinity of hemoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Dissolved CO₂ combines with water to form carbonic acid, which dissociates to H⁺ and HCO₃⁻, lowering the pH of blood.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "Which of the following statements about dissolved CO₂ in the blood is correct?",
+      "options": [
+        "It can cross the alveolar membrane without any carrier",
+        "It binds to hemoglobin forming carbaminohemoglobin",
+        "It is converted to bicarbonate inside erythrocytes",
+        "It is transported bound to plasma proteins"
+      ],
+      "answer": 0,
+      "explanation": "Dissolved CO₂ is a free gas that diffuses directly across the alveolar-capillary membrane; binding to hemoglobin or conversion to bicarbonate involves other forms.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "During intense exercise arterial PCO₂ rises from 40 mmHg to 45 mmHg. By how much does the amount of dissolved CO₂ increase (in mL per 100 mL blood)?",
+      "options": [
+        "0.06 mL/100 mL",
+        "0.15 mL/100 mL",
+        "0.30 mL/100 mL",
+        "0.45 mL/100 mL"
+      ],
+      "answer": 1,
+      "explanation": "Increase = 0.03 × (45‑40) = 0.15 mL per 100 mL blood.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "Which factor does NOT influence the amount of CO₂ dissolved in blood?",
+      "options": [
+        "Partial pressure of CO₂",
+        "Temperature of blood",
+        "Hemoglobin concentration",
+        "pH of plasma"
+      ],
+      "answer": 2,
+      "explanation": "Dissolved CO₂ depends on its partial pressure, temperature, and pH (via the carbonic acid equilibrium), but not directly on hemoglobin concentration.",
+      "topic": "Dissolved carbon dioxide"
+    },
+    {
+      "question": "The chloride shift (Hamburger phenomenon) primarily occurs in which cellular component during systemic circulation?",
+      "options": [
+        "Plasma proteins",
+        "Red blood cells",
+        "Endothelial cells",
+        "Alveolar epithelial cells"
+      ],
+      "answer": 1,
+      "explanation": "In systemic capillaries, CO2 enters erythrocytes where it is converted to HCO3-; the bicarbonate is exported in exchange for Cl- via the chloride shift, so the process occurs in red blood cells.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "Which membrane protein is directly responsible for the exchange of bicarbonate (HCO3-) and chloride (Cl-) ions during the chloride shift in erythrocytes?",
+      "options": [
+        "Na+/K+ ATPase",
+        "Band 3 protein (anion exchanger 1)",
+        "Aquaporin-1",
+        "Glucose transporter GLUT1"
+      ],
+      "answer": 1,
+      "explanation": "Band 3 (AE1) is the anion exchanger that swaps intracellular HCO3- for extracellular Cl- to maintain charge balance during CO2 transport.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "The main physiological purpose of the chloride shift in peripheral tissues is to:",
+      "options": [
+        "Increase intracellular pH",
+        "Maintain electrical neutrality while exporting HCO3-",
+        "Facilitate O2 loading onto hemoglobin",
+        "Generate ATP via ion gradient"
+      ],
+      "answer": 1,
+      "explanation": "Exporting HCO3- would leave a negative charge inside the cell; importing Cl- balances the charge, preserving electrical neutrality.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "During the reverse chloride shift in the pulmonary capillaries, what happens to the intracellular chloride concentration in erythrocytes?",
+      "options": [
+        "Decreases",
+        "Remains unchanged",
+        "Increases",
+        "Fluctuates randomly"
+      ],
+      "answer": 2,
+      "explanation": "In the lungs, HCO3- re-enters the erythrocyte and Cl- exits, so intracellular Cl- concentration rises as the exchange reverses.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "Which enzyme works in concert with the chloride shift to convert CO2 into bicarbonate inside red blood cells?",
+      "options": [
+        "Carbonic anhydrase",
+        "Phosphofructokinase",
+        "Lactate dehydrogenase",
+        "Hexokinase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase rapidly hydrates CO2 to H2CO3, which dissociates to H+ and HCO3-; the bicarbonate is then exported by the chloride shift.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "How does the chloride shift influence hemoglobin's affinity for oxygen in peripheral tissues?",
+      "options": [
+        "Increases affinity",
+        "Decreases affinity by stabilizing the T-state",
+        "Has no effect",
+        "Converts hemoglobin to methemoglobin"
+      ],
+      "answer": 1,
+      "explanation": "Cl- binding to deoxy‑hemoglobin stabilizes the T (low‑affinity) state, promoting O2 release; this is part of the Bohr effect linked to the chloride shift.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "Approximately what proportion of the total CO2 produced by metabolism is transported in the blood as bicarbonate ions, a process dependent on the chloride shift?",
+      "options": [
+        "10%",
+        "30%",
+        "70%",
+        "90%"
+      ],
+      "answer": 2,
+      "explanation": "About 70% of CO2 is carried as bicarbonate in plasma and erythrocytes, a transport mechanism that relies on the chloride shift to move HCO3- out of red cells.",
+      "topic": "Chloride shift"
+    },
+    {
+      "question": "What is the primary cause of the rightward shift of the oxyhemoglobin dissociation curve during intense exercise?",
+      "options": [
+        "Increased partial pressure of carbon dioxide in blood",
+        "Increased partial pressure of oxygen in blood",
+        "Decreased 2,3‑BPG concentration",
+        "Decreased temperature"
+      ],
+      "answer": 0,
+      "explanation": "Elevated PCO2 in active muscles increases H+ concentration, lowering hemoglobin affinity for O2 and shifting the curve to the right (Bohr effect).",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "According to the Bohr effect, a decrease in blood pH will have what effect on hemoglobin's affinity for O2?",
+      "options": [
+        "Increase hemoglobin's affinity for O2",
+        "Decrease hemoglobin's affinity for O2",
+        "No change in affinity",
+        "Increase cooperativity of binding"
+      ],
+      "answer": 1,
+      "explanation": "Lower pH (higher H+ concentration) reduces hemoglobin's O2 affinity, causing a rightward shift of the dissociation curve.",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "Which of the following best explains the physiological advantage of the Bohr effect in active skeletal muscle?",
+      "options": [
+        "Enhances O2 loading onto hemoglobin in the lungs",
+        "Promotes O2 unloading from hemoglobin in active tissues",
+        "Increases CO2 transport from lungs to tissues",
+        "Reduces H+ concentration in arterial blood"
+      ],
+      "answer": 1,
+      "explanation": "The Bohr effect facilitates O2 release where CO2 and H+ are high, improving oxygen delivery to metabolizing tissues.",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "In the context of the Bohr effect, which ion's concentration change directly contributes to the shift in the O2 dissociation curve?",
+      "options": [
+        "Calcium ions (Ca2+)",
+        "Sodium ions (Na+)",
+        "Hydrogen ions (H+)",
+        "Potassium ions (K+)"
+      ],
+      "answer": 2,
+      "explanation": "An increase in H+ ions (lower pH) is the key factor that causes the rightward shift of the curve.",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "The Bohr effect is most pronounced under which combination of conditions?",
+      "options": [
+        "High pH and low temperature",
+        "Low pH and high PCO2",
+        "High pH and high PCO2",
+        "Low pH and low temperature"
+      ],
+      "answer": 1,
+      "explanation": "Both low pH (high H+) and high PCO2 synergistically reduce O2 affinity, producing the strongest Bohr effect.",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "Which statement about the Bohr effect is FALSE?",
+      "options": [
+        "It facilitates O2 delivery to metabolizing tissues",
+        "It is caused by the binding of CO2 to hemoglobin forming carbaminohemoglobin",
+        "It shifts the O2 dissociation curve to the left",
+        "It is enhanced by increased H+ concentration"
+      ],
+      "answer": 2,
+      "explanation": "The Bohr effect shifts the O2 dissociation curve to the right, not to the left; the other statements are true.",
+      "topic": "Bohr effect"
+    },
+    {
+      "question": "Which form of haemoglobin carries the majority of carbon dioxide from tissues to the lungs?",
+      "options": [
+        "Carbaminohaemoglobin",
+        "Oxyhaemoglobin",
+        "Carboxyhaemoglobin",
+        "Methemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Carbaminohaemoglobin is formed when CO2 binds to the amino groups of the globin chains and transports about 20-23% of the total CO2.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "The Bohr effect refers to:",
+      "options": [
+        "An increase in pH shifting the oxygen dissociation curve to the left",
+        "A decrease in blood CO2 and H+ increasing haemoglobin's affinity for O2",
+        "An increase in blood CO2 and H+ decreasing haemoglobin's affinity for O2",
+        "A rise in 2,3‑BPG concentration enhancing O2 binding"
+      ],
+      "answer": 1,
+      "explanation": "The Bohr effect describes how higher CO2 and H+ concentrations (lower pH) reduce haemoglobin's O2 affinity, facilitating O2 release in metabolically active tissues.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "How does 2,3‑BPG affect haemoglobin's oxygen affinity?",
+      "options": [
+        "It increases haemoglobin's affinity for O2",
+        "It decreases haemoglobin's affinity for O2",
+        "It has no effect on oxygen binding",
+        "It converts haemoglobin to methemoglobin"
+      ],
+      "answer": 1,
+      "explanation": "2,3‑BPG binds to the central cavity of deoxy‑haemoglobin, stabilising the T‑state and lowering O2 affinity, thus promoting O2 release to tissues.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "In blood buffering, haemoglobin primarily:",
+      "options": [
+        "Binds H+ as carbamino compounds",
+        "Binds H+ via histidine residues in the globin chains",
+        "Releases H+ when O2 binds to it",
+        "Does not participate in buffering"
+      ],
+      "answer": 1,
+      "explanation": "The imidazole side chains of histidine residues in haemoglobin bind H+ released from carbonic acid, contributing significantly to the blood's buffering capacity.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "Haemoglobin releases oxygen in peripheral tissues because:",
+      "options": [
+        "Increased PCO2",
+        "Decreased pH",
+        "Increased temperature",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Higher PCO2, lower pH (Bohr effect), and higher temperature each shift the O2‑dissociation curve to the right, promoting O2 release from haemoglobin.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "A rightward shift of the oxygen‑dissociation curve indicates:",
+      "options": [
+        "Decrease in 2,3‑BPG",
+        "Increase in pH",
+        "Decrease in temperature",
+        "Increase in H+ concentration"
+      ],
+      "answer": 3,
+      "explanation": "An increase in H+ concentration (lower pH) causes a rightward shift, reducing haemoglobin's affinity for O2 and facilitating O2 delivery.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "Which statement about carboxyhaemoglobin is correct?",
+      "options": [
+        "It has a higher affinity for O2 than oxyhaemoglobin",
+        "It is formed by the binding of carbon monoxide to haemoglobin",
+        "It enhances oxygen delivery to tissues",
+        "It is reversible only at high pH"
+      ],
+      "answer": 1,
+      "explanation": "Carboxyhaemoglobin forms when CO binds to the heme iron with an affinity ~250 times that of O2, impairing O2 transport.",
+      "topic": "Role of haemoglobin"
+    },
+    {
+      "question": "The principal form in which carbon dioxide is transported in the blood is:",
+      "options": [
+        "Bicarbonate ion",
+        "Carbaminohaemoglobin",
+        "Dissolved CO2",
+        "Carbonic acid"
+      ],
+      "answer": 0,
+      "explanation": "About 70% of CO2 is converted to bicarbonate (HCO3⁻) in red blood cells via carbonic anhydrase, making it the main transport form.",
+      "topic": "Role of haemoglobin"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 27,
+    "mcqCount": 189
+  }
+}

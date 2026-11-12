@@ -1,0 +1,2884 @@
+{
+  "day": 69,
+  "courseDate": "2026-11-06",
+  "publishAt": "2026-11-06T06:00:00+05:30",
+  "title": "Human Circulatory System – Heart, Blood Vessels and Cardiac Cycle",
+  "introduction": "This lesson covers the anatomy and physiology of the human circulatory system with emphasis on the heart, its chambers, valves, major vessels and the cardiac cycle, all essential for NEET‑UG preparation.",
+  "sections": [
+    {
+      "topic": "Human circulatory system",
+      "heading": "Human Circulatory System Overview",
+      "content": "The human circulatory system transports nutrients, gases, hormones and wastes via blood. It consists of the heart, blood vessels and blood, forming a closed loop that ensures continuous perfusion of tissues.",
+      "keyPoints": [
+        "Closed loop of blood flow",
+        "Integrates transport and regulation functions"
+      ],
+      "neetTips": [
+        "Remember the system is closed, unlike open systems in some invertebrates."
+      ]
+    },
+    {
+      "topic": "Closed circulatory system",
+      "heading": "Closed Circulatory System Characteristics",
+      "content": "In a closed system blood is confined within vessels, allowing high pressure and rapid transport. This contrasts with open systems where hemolymph bathes organs directly.",
+      "keyPoints": [
+        "Blood remains within vessels",
+        "Supports high metabolic rates"
+      ],
+      "neetTips": [
+        "Link closed system to efficient oxygen delivery in mammals."
+      ]
+    },
+    {
+      "topic": "Heart location",
+      "heading": "Anatomical Position of the Heart",
+      "content": "The heart lies in the mediastinum, between the lungs, slightly left of the midline, resting on the diaphragm at the level of T5–T8 vertebrae, protected by the rib cage.",
+      "keyPoints": [
+        "Mediastinal location",
+        "Base faces upward, apex points left"
+      ],
+      "neetTips": [
+        "Base‑to‑apex orientation is crucial for understanding valve positions."
+      ]
+    },
+    {
+      "topic": "Pericardium",
+      "heading": "Pericardial Membrane and Its Functions",
+      "content": "The pericardium has two layers: fibrous pericardium (protective outer layer) and serous pericardium (parietal and visceral layers) forming the pericardial cavity with lubricating fluid.",
+      "keyPoints": [
+        "Fibrous layer prevents over‑distension",
+        "Serous layer reduces friction"
+      ],
+      "neetTips": [
+        "Pericardial fluid allows frictionless heart movements during each beat."
+      ]
+    },
+    {
+      "topic": "Four chambers of heart",
+      "heading": "Four Cardiac Chambers",
+      "content": "The heart comprises two atria (right, left) and two ventricles (right, left). Atria receive blood; ventricles pump blood out of the heart.",
+      "keyPoints": [
+        "Right side handles systemic venous return",
+        "Left side pumps oxygenated blood to body"
+      ],
+      "neetTips": [
+        "Remember atria are low‑pressure chambers; ventricles are high‑pressure."
+      ]
+    },
+    {
+      "topic": "Right atrium",
+      "heading": "Structure and Function of the Right Atrium",
+      "content": "The right atrium receives deoxygenated blood from the superior and inferior vena cava and the coronary sinus, directing it through the tricuspid valve into the right ventricle.",
+      "keyPoints": [
+        "Receives systemic venous blood",
+        "Contains SA node (pacemaker)"
+      ],
+      "neetTips": [
+        "SA node location in right atrial wall near the opening of the superior vena cava."
+      ]
+    },
+    {
+      "topic": "Right ventricle",
+      "heading": "Right Ventricle Anatomy and Role",
+      "content": "The right ventricle pumps deoxygenated blood into the pulmonary artery via the pulmonary valve, initiating pulmonary circulation.",
+      "keyPoints": [
+        "Thinner wall than left ventricle",
+        "Pumps to low‑pressure pulmonary circuit"
+      ],
+      "neetTips": [
+        "Right ventricular pressure ≈25 mm Hg, much lower than left."
+      ]
+    },
+    {
+      "topic": "Left atrium",
+      "heading": "Left Atrium Features",
+      "content": "The left atrium receives oxygen‑rich blood from the pulmonary veins and passes it through the mitral valve into the left ventricle.",
+      "keyPoints": [
+        "Receives blood from four pulmonary veins",
+        "Located posteriorly"
+      ],
+      "neetTips": [
+        "Pulmonary veins have no valves; flow is passive."
+      ]
+    },
+    {
+      "topic": "Left ventricle",
+      "heading": "Left Ventricle – Powerhouse of the Heart",
+      "content": "The left ventricle ejects oxygenated blood into the aorta through the aortic valve, generating systemic arterial pressure.",
+      "keyPoints": [
+        "Thickest myocardial wall",
+        "Generates ≈120 mm Hg systolic pressure"
+      ],
+      "neetTips": [
+        "Left ventricular stroke volume largely determines cardiac output."
+      ]
+    },
+    {
+      "topic": "Interatrial septum",
+      "heading": "Interatrial Septum Structure",
+      "content": "The interatrial septum separates the right and left atria; the fossa ovalis is a remnant of the fetal foramen ovale.",
+      "keyPoints": [
+        "Prevents mixing of oxygenated and deoxygenated blood",
+        "Fossa ovalis is clinically important"
+      ],
+      "neetTips": [
+        "Atrial septal defect occurs in this region."
+      ]
+    },
+    {
+      "topic": "Interventricular septum",
+      "heading": "Interventricular Septum Details",
+      "content": "The interventricular septum divides the ventricles and contains the bundle of His, part of the cardiac conduction system.",
+      "keyPoints": [
+        "Muscular + membranous portions",
+        "Conducts impulses from AV node to ventricles"
+      ],
+      "neetTips": [
+        "Ventricular septal defects affect this septum."
+      ]
+    },
+    {
+      "topic": "Heart valves",
+      "heading": "Overview of Cardiac Valves",
+      "content": "Four valves ensure unidirectional blood flow: atrioventricular (tricuspid, mitral) and semilunar (pulmonary, aortic) valves.",
+      "keyPoints": [
+        "Prevent backflow during cardiac cycle",
+        "Open‑close based on pressure gradients"
+      ],
+      "neetTips": [
+        "Valve leaflets are named cusps (atrioventricular) or semilunar flaps."
+      ]
+    },
+    {
+      "topic": "Tricuspid valve",
+      "heading": "Tricuspid Valve Characteristics",
+      "content": "Located between right atrium and right ventricle, the tricuspid valve has three leaflets (anterior, posterior, septal) anchored by chordae tendineae to papillary muscles.",
+      "keyPoints": [
+        "Ensures right‑side unidirectional flow",
+        "Chordae prevent prolapse"
+      ],
+      "neetTips": [
+        "Right‑sided murmurs often involve tricuspid pathology."
+      ]
+    },
+    {
+      "topic": "Bicuspid or mitral valve",
+      "heading": "Mitral (Bicuspid) Valve Features",
+      "content": "The mitral valve lies between left atrium and left ventricle, possessing two leaflets (anterior, posterior) with chordae attached to papillary muscles.",
+      "keyPoints": [
+        "High‑pressure valve on left side",
+        "Common site of stenosis in rheumatic disease"
+      ],
+      "neetTips": [
+        "Remember ‘bicuspid’ = two leaflets, unlike tricuspid."
+      ]
+    },
+    {
+      "topic": "Semilunar valves",
+      "heading": "Semilunar Valves – Pulmonary and Aortic",
+      "content": "These valves sit at the bases of the pulmonary artery and aorta. Their crescent‑shaped cusps open during systole and close during diastole, producing the ‘dub’ sound.",
+      "keyPoints": [
+        "No chordae tendineae",
+        "Close to prevent backflow from great arteries"
+      ],
+      "neetTips": [
+        "Aortic and pulmonary valve sounds are heard in the second heart sound."
+      ]
+    },
+    {
+      "topic": "Major blood vessels",
+      "heading": "Principal Vessels of Systemic and Pulmonary Circulation",
+      "content": "The major vessels include venae cavae, pulmonary artery & veins, aorta and its branches, and coronary arteries, forming double circulation.",
+      "keyPoints": [
+        "Systemic and pulmonary circuits operate in series",
+        "Arteries carry blood away from heart, veins toward heart"
+      ],
+      "neetTips": [
+        "Double circulation ensures oxygenated and deoxygenated streams remain separate."
+      ]
+    },
+    {
+      "topic": "Superior vena cava",
+      "heading": "Superior Vena Cava (SVC)",
+      "content": "The SVC drains deoxygenated blood from the head, neck, upper limbs and thorax into the right atrium.",
+      "keyPoints": [
+        "Formed by brachiocephalic veins",
+        "Enters right atrium superiorly"
+      ],
+      "neetTips": [
+        "Obstruction of SVC leads to facial swelling – a clinical clue."
+      ]
+    },
+    {
+      "topic": "Inferior vena cava",
+      "heading": "Inferior Vena Cava (IVC)",
+      "content": "The IVC returns blood from the lower limbs, abdomen and pelvis to the right atrium.",
+      "keyPoints": [
+        "Passes through diaphragm at T8",
+        "Receives hepatic veins"
+      ],
+      "neetTips": [
+        "IVC is larger than SVC and lies to the right of the aorta."
+      ]
+    },
+    {
+      "topic": "Pulmonary artery",
+      "heading": "Pulmonary Artery (PA)",
+      "content": "The PA carries deoxygenated blood from the right ventricle to the lungs; it is the only artery that transports deoxygenated blood.",
+      "keyPoints": [
+        "Divides into left and right branches",
+        "Has thin walls due to low pressure"
+      ],
+      "neetTips": [
+        "PA pressure ≈15 mm Hg, much lower than systemic arterial pressure."
+      ]
+    },
+    {
+      "topic": "Pulmonary veins",
+      "heading": "Pulmonary Veins (PVs)",
+      "content": "Four pulmonary veins (two from each lung) deliver oxygen‑rich blood from the lungs to the left atrium.",
+      "keyPoints": [
+        "No valves in pulmonary veins",
+        "Enter left atrium posteriorly"
+      ],
+      "neetTips": [
+        "Pulmonary venous return is passive, driven by atrial suction."
+      ]
+    },
+    {
+      "topic": "Aorta",
+      "heading": "Aorta – Main Systemic Artery",
+      "content": "The aorta originates from the left ventricle, arches, and descends to supply oxygenated blood to the entire body via its branches.",
+      "keyPoints": [
+        "Highest pressure vessel in the body",
+        "Divided into ascending, arch, thoracic and abdominal parts"
+      ],
+      "neetTips": [
+        "Aortic pressure waveforms are used to assess arterial stiffness."
+      ]
+    },
+    {
+      "topic": "Coronary circulation",
+      "heading": "Coronary Circulation Overview",
+      "content": "Coronary arteries (right and left) arise from the aortic sinuses and supply the myocardium; venous blood drains into the coronary sinus and then the right atrium.",
+      "keyPoints": [
+        "Supply occurs mainly during diastole",
+        "Obstruction leads to myocardial infarction"
+      ],
+      "neetTips": [
+        "Remember the left coronary artery bifurcates into anterior interventricular and circumflex branches."
+      ]
+    },
+    {
+      "topic": "Cardiac cycle",
+      "heading": "Phases of the Cardiac Cycle",
+      "content": "The cardiac cycle comprises atrial systole, ventricular systole (isovolumetric contraction + ejection) and diastole (isovolumetric relaxation + ventricular filling).",
+      "keyPoints": [
+        "One complete cycle ≈0.8 s at 75 bpm"
+      ],
+      "neetTips": [
+        "Sequence: atrial systole → ventricular systole → ventricular diastole."
+      ]
+    },
+    {
+      "topic": "Atrial systole",
+      "heading": "Atrial Systole Details",
+      "content": "During atrial systole (≈0.1 s) the atria contract, pushing ~20 % of ventricular filling through the AV valves into the ventricles.",
+      "keyPoints": [
+        "Completes ventricular preload"
+      ],
+      "neetTips": [
+        "Atrial kick is crucial during exercise or in tachycardia."
+      ]
+    },
+    {
+      "topic": "Ventricular systole",
+      "heading": "Ventricular Systole Mechanics",
+      "content": "Ventricular systole begins with isovolumetric contraction (all valves closed) followed by rapid ejection as semilunar valves open, delivering stroke volume to arteries.",
+      "keyPoints": [
+        "Pressure rises sharply"
+      ],
+      "neetTips": [
+        "The first heart sound (lub) occurs at AV valve closure at the start of systole."
+      ]
+    },
+    {
+      "topic": "Joint diastole",
+      "heading": "Joint Diastole (Ventricular Diastole)",
+      "content": "Joint diastole includes isovolumetric relaxation (semilunar valves close) and rapid ventricular filling when AV valves open, completing the cycle.",
+      "keyPoints": [
+        "Second heart sound (dub) marks semilunar valve closure"
+      ],
+      "neetTips": [
+        "Rapid filling accounts for ~70 % of ventricular volume."
+      ]
+    },
+    {
+      "topic": "Heart sounds",
+      "heading": "Heart Sounds Overview",
+      "content": "The normal heart produces two sounds: S1 (lub) from closure of AV valves and S2 (dub) from closure of semilunar valves. Additional sounds may indicate pathology.",
+      "keyPoints": [
+        "S1 louder at apex, S2 louder at base"
+      ],
+      "neetTips": [
+        "Murmurs are extra sounds occurring between S1 and S2."
+      ]
+    },
+    {
+      "topic": "Lub and dub",
+      "heading": "Lub (S1) and Dub (S2) Explained",
+      "content": "‘Lub’ corresponds to tricuspid and mitral valve closure; ‘Dub’ corresponds to aortic and pulmonary valve closure. Timing reflects systole and diastole respectively.",
+      "keyPoints": [
+        "S1 marks onset of systole",
+        "S2 marks onset of diastole"
+      ],
+      "neetTips": [
+        "Splitting of S2 during inspiration is a key clinical sign."
+      ]
+    },
+    {
+      "topic": "Stroke volume",
+      "heading": "Stroke Volume (SV) Definition",
+      "content": "Stroke volume is the volume of blood ejected by a ventricle in one contraction, typically 70 mL for the left ventricle at rest.",
+      "keyPoints": [
+        "SV = End‑diastolic volume – End‑systolic volume"
+      ],
+      "neetTips": [
+        "SV increases with increased venous return (Frank‑Starling law)."
+      ]
+    },
+    {
+      "topic": "Cardiac output",
+      "heading": "Cardiac Output (CO) Fundamentals",
+      "content": "Cardiac output equals stroke volume multiplied by heart rate (CO = SV × HR). Normal resting CO ≈5 L/min in adults.",
+      "keyPoints": [
+        "Primary determinant of tissue perfusion"
+      ],
+      "neetTips": [
+        "During exercise, CO can rise to >20 L/min via increased HR and SV."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the anatomical position and structural components of the human heart",
+    "Explain the flow of blood through each chamber, valve and major vessel",
+    "Describe the phases of the cardiac cycle and correlate them with heart sounds",
+    "Calculate stroke volume and cardiac output and relate them to physiological demands"
+  ],
+  "mcqs": [
+    {
+      "question": "Which chamber of the heart receives deoxygenated blood from the systemic circulation?",
+      "options": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The right atrium receives venous blood from the body via the superior and inferior vena cava, which is deoxygenated.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "Select the correct sequence of blood flow through the heart starting from the right atrium.",
+      "options": [
+        "Right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta",
+        "Right atrium → right ventricle → aorta → body → superior vena cava → right atrium",
+        "Right atrium → left ventricle → aorta → body → superior vena cava → right atrium",
+        "Right atrium → pulmonary veins → left atrium → left ventricle → pulmonary artery → lungs → right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "Blood moves from the right atrium to the right ventricle, is pumped into the pulmonary artery to the lungs, returns via pulmonary veins to the left atrium, then to the left ventricle and out through the aorta.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "Which valve prevents backflow of blood from the left ventricle into the left atrium?",
+      "options": [
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Mitral (bicuspid) valve",
+        "Aortic valve"
+      ],
+      "answer": 2,
+      "explanation": "The mitral (bicuspid) valve is situated between the left atrium and left ventricle and closes during ventricular systole to stop backflow.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "During ventricular systole, which semilunar valve opens to allow blood to flow into the pulmonary circulation?",
+      "options": [
+        "Aortic valve",
+        "Mitral valve",
+        "Pulmonary valve",
+        "Tricuspid valve"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary semilunar valve opens when the right ventricle contracts, directing blood into the pulmonary artery toward the lungs.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "In the double circulation system of humans, the pulmonary circuit carries blood:",
+      "options": [
+        "From the right ventricle to the lungs and back to the left atrium",
+        "From the left ventricle to the body and back to the right atrium",
+        "Both the pulmonary and systemic circuits carry blood in the same direction",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonary circuit moves deoxygenated blood from the right ventricle to the lungs for oxygenation and returns oxygen‑rich blood to the left atrium.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "The first heart sound (S1, \"lub\") is produced mainly by the closure of which pair of valves?",
+      "options": [
+        "Aortic and pulmonary valves",
+        "Tricuspid and mitral valves",
+        "Aortic and mitral valves",
+        "Pulmonary and tricuspid valves"
+      ],
+      "answer": 1,
+      "explanation": "S1 results from the simultaneous closure of the atrioventricular valves – the tricuspid and mitral – at the onset of ventricular systole.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "Cardiac output = stroke volume × heart rate. If stroke volume is 70 mL and heart rate is 75 beats/min, what is the cardiac output?",
+      "options": [
+        "5.25 L/min",
+        "4.20 L/min",
+        "5.00 L/min",
+        "5.50 L/min"
+      ],
+      "answer": 0,
+      "explanation": "Stroke volume 70 mL = 0.07 L. 0.07 L × 75 beats/min = 5.25 L/min.",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "Which vessels supply blood directly to the myocardium itself?",
+      "options": [
+        "Coronary arteries",
+        "Pulmonary veins",
+        "Aorta",
+        "Superior vena cava"
+      ],
+      "answer": 0,
+      "explanation": "Coronary arteries branch off the aorta and deliver oxygen‑rich blood to the heart muscle (myocardium).",
+      "topic": "Human circulatory system"
+    },
+    {
+      "question": "Which statement best describes a closed circulatory system?",
+      "options": [
+        "Blood is confined to vessels throughout its circuit",
+        "Blood directly bathes the organs",
+        "Hemolymph circulates in open sinuses",
+        "Lymphatic fluid carries nutrients"
+      ],
+      "answer": 0,
+      "explanation": "In a closed circulatory system the blood remains within a continuous network of vessels (arteries, veins and capillaries) from the heart to the tissues and back.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "What is the principal advantage of a closed circulatory system over an open one?",
+      "options": [
+        "Higher hydrostatic pressure allowing rapid transport",
+        "Lower metabolic cost for circulation",
+        "Simpler heart structure",
+        "Ability to exchange gases through the skin"
+      ],
+      "answer": 0,
+      "explanation": "Because the blood is confined to vessels, a closed system can generate higher pressures, delivering nutrients and gases more quickly to distant tissues.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "Blood leaving the right ventricle of the heart enters which vessel in the human closed circulatory system?",
+      "options": [
+        "Pulmonary artery",
+        "Aorta",
+        "Superior vena cava",
+        "Coronary artery"
+      ],
+      "answer": 0,
+      "explanation": "The right ventricle pumps deoxygenated blood into the pulmonary artery, which carries it to the lungs for oxygenation.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a closed circulatory system?",
+      "options": [
+        "Presence of capillaries",
+        "Blood confined to vessels",
+        "Exchange via sinuses",
+        "Presence of a heart"
+      ],
+      "answer": 2,
+      "explanation": "Exchange via sinuses is typical of open circulatory systems; closed systems use capillaries for exchange.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "In a closed circulatory system, the unidirectional flow of blood is primarily ensured by which structures?",
+      "options": [
+        "Valves in veins and heart",
+        "Capillary walls",
+        "Sinusoids",
+        "Lymph nodes"
+      ],
+      "answer": 0,
+      "explanation": "Valves present in the heart and in large veins prevent backflow, maintaining a one‑way circulation.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "Which of the following animals possesses a closed circulatory system?",
+      "options": [
+        "Earthworm",
+        "Octopus",
+        "Insect",
+        "Mollusk"
+      ],
+      "answer": 1,
+      "explanation": "Cephalopods such as the octopus have a closed circulatory system with a well‑developed heart and blood vessels.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "In a closed circulatory system, the primary force that creates the pressure gradient driving blood flow is:",
+      "options": [
+        "Contraction of the heart",
+        "Skeletal muscle pump",
+        "Diffusion across membranes",
+        "Osmotic pressure gradients"
+      ],
+      "answer": 0,
+      "explanation": "The rhythmic contraction of the heart generates the pressure needed to propel blood through the arterial system.",
+      "topic": "Closed circulatory system"
+    },
+    {
+      "question": "The apex of the heart is situated in which intercostal space and along which anatomical line?",
+      "options": [
+        "5th intercostal space in the mid‑clavicular line",
+        "4th intercostal space in the mid‑axillary line",
+        "6th intercostal space in the mid‑clavicular line",
+        "5th intercostal space in the mid‑axillary line"
+      ],
+      "answer": 0,
+      "explanation": "The cardiac apex points inferiorly and leftward, reaching the 5th intercostal space at the mid‑clavicular line.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "The base of the heart is directed primarily towards which direction?",
+      "options": [
+        "Posteriorly",
+        "Anteriorly",
+        "Superiorly",
+        "Inferiorly"
+      ],
+      "answer": 0,
+      "explanation": "The base, formed by the atria, faces posteriorly (and slightly to the right) toward the vertebral column.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "In which compartment of the thoracic cavity is the heart located?",
+      "options": [
+        "Pleural cavity",
+        "Pericardial cavity",
+        "Mediastinum",
+        "Subcutaneous tissue"
+      ],
+      "answer": 2,
+      "explanation": "The heart resides in the middle mediastinum, enclosed by the pericardial sac.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "Which structure lies immediately posterior to the heart?",
+      "options": [
+        "Thoracic aorta",
+        "Esophagus",
+        "Trachea",
+        "Vertebral column"
+      ],
+      "answer": 1,
+      "explanation": "The esophagus runs posterior to the left atrium, directly behind the heart.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "The fibrous pericardium is attached to the diaphragm at which region?",
+      "options": [
+        "Central tendon",
+        "Left crus",
+        "Right crus",
+        "Both crura"
+      ],
+      "answer": 0,
+      "explanation": "The fibrous pericardium fuses with the central tendon of the diaphragm, anchoring the heart inferiorly.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "The heart is protected by which two layers of serous membrane?",
+      "options": [
+        "Parietal pericardium and visceral pericardium",
+        "Parietal pleura and visceral pleura",
+        "Parietal pericardium and parietal pleura",
+        "Visceral pericardium and visceral pleura"
+      ],
+      "answer": 0,
+      "explanation": "The serous pericardium consists of a parietal layer lining the pericardial cavity and a visceral layer (epicardium) covering the heart surface.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "The left border of the heart is formed mainly by which chamber?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The left ventricular wall constitutes the majority of the heart's left border, giving it a characteristic shape.",
+      "topic": "Heart location"
+    },
+    {
+      "question": "Which layer of the pericardium is continuous with the outer connective tissue covering of the great vessels?",
+      "options": [
+        "Fibrous pericardium",
+        "Parietal layer of serous pericardium",
+        "Visceral layer of serous pericardium",
+        "Pericardial cavity"
+      ],
+      "answer": 0,
+      "explanation": "The fibrous pericardium is a tough outer layer that blends with the connective tissue sheaths of the aorta, pulmonary trunk and other great vessels.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "The serous pericardium consists of two layers. The layer that directly covers the heart surface is called?",
+      "options": [
+        "Parietal layer",
+        "Visceral layer",
+        "Fibrous pericardium",
+        "Pericardial sac"
+      ],
+      "answer": 1,
+      "explanation": "The visceral layer of the serous pericardium, also known as the epicardium, lies directly on the myocardium.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "The pericardial cavity contains a small amount of fluid. What is the primary function of this fluid?",
+      "options": [
+        "Lubrication to reduce friction",
+        "Transmission of electrical impulses",
+        "Nutrient supply to myocardium",
+        "Structural support to prevent overdistension"
+      ],
+      "answer": 0,
+      "explanation": "The serous fluid in the pericardial cavity acts as a lubricant, allowing the heart to move smoothly within the pericardial sac during each beat.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "Which nerve provides sensory innervation to the fibrous pericardium, making it sensitive to pain?",
+      "options": [
+        "Vagus nerve",
+        "Phrenic nerve",
+        "Glossopharyngeal nerve",
+        "Greater splanchnic nerve"
+      ],
+      "answer": 1,
+      "explanation": "The phrenic nerve (C3‑C5) supplies somatic sensory fibers to the fibrous pericardium, so inflammation of this layer produces sharp chest pain.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "In pericardial effusion leading to cardiac tamponade, which hemodynamic parameter is most directly reduced?",
+      "options": [
+        "Stroke volume",
+        "Heart rate",
+        "Systemic vascular resistance",
+        "Pulmonary capillary wedge pressure"
+      ],
+      "answer": 0,
+      "explanation": "Accumulated fluid restricts ventricular filling, decreasing the volume ejected with each contraction, i.e., stroke volume.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "The transverse pericardial sinus is located between which structures?",
+      "options": [
+        "Right atrium and right ventricle",
+        "Aorta and pulmonary artery",
+        "Superior vena cava and inferior vena cava",
+        "Left atrium and left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "The transverse sinus lies posterior to the arterial trunks (aorta and pulmonary artery) and anterior to the venous inflow (superior and inferior vena cava).",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "Which artery primarily supplies the fibrous pericardium?",
+      "options": [
+        "Pericardiacophrenic artery",
+        "Coronary artery",
+        "Internal thoracic artery",
+        "Superior epigastric artery"
+      ],
+      "answer": 0,
+      "explanation": "The pericardiacophrenic artery, a branch of the internal thoracic artery, runs with the phrenic nerve and supplies the fibrous pericardium.",
+      "topic": "Pericardium"
+    },
+    {
+      "question": "Which chamber receives deoxygenated blood from the systemic circulation?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "The right atrium collects deoxygenated blood from the superior and inferior vena cava, which return blood from the systemic circulation.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "Which chamber has the thickest myocardial wall?",
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The left ventricle generates the highest pressure to eject blood into the systemic circuit, requiring the thickest muscular wall among the four chambers.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "Which chamber pumps oxygenated blood into the systemic circulation?",
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "Oxygen‑rich blood from the pulmonary veins enters the left atrium, passes to the left ventricle, which then ejects it into the aorta for systemic distribution.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "The interatrial septum separates which pair of chambers?",
+      "options": [
+        "Right atrium & left atrium",
+        "Right ventricle & left ventricle",
+        "Right atrium & right ventricle",
+        "Left atrium & left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The interatrial septum is the muscular wall that divides the right atrium from the left atrium, preventing mixing of deoxygenated and oxygenated blood.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "During ventricular systole, which chamber experiences the lowest pressure?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 1,
+      "explanation": "While the ventricles contract, the atria are in diastole and have low pressures; the right atrium typically has the lowest pressure (~2‑6 mm Hg) compared to the left atrium.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "Atrioventricular (AV) valves are located between which chambers?",
+      "options": [
+        "Ventricles and arteries",
+        "Atria and ventricles",
+        "Atria and pulmonary veins",
+        "Ventricles and aorta"
+      ],
+      "answer": 1,
+      "explanation": "The AV valves (tricuspid on the right, mitral on the left) lie between each atrium and its corresponding ventricle, ensuring unidirectional flow from atria to ventricles.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "Which chamber contributes most to stroke volume because of its larger end‑diastolic volume?",
+      "options": [
+        "Right ventricle",
+        "Left ventricle",
+        "Right atrium",
+        "Left atrium"
+      ],
+      "answer": 1,
+      "explanation": "The left ventricle has the greatest end‑diastolic volume, allowing it to eject the largest stroke volume to meet systemic circulatory demands.",
+      "topic": "Four chambers of heart"
+    },
+    {
+      "question": "Which vessels open directly into the right atrium?",
+      "options": [
+        "Superior vena cava",
+        "Inferior vena cava",
+        "Coronary sinus",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "The right atrium receives deoxygenated blood from the superior vena cava, inferior vena cava and the coronary sinus, so all three open into it.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "The sinoatrial (SA) node is located in which part of the right atrium?",
+      "options": [
+        "At the apex of the atrial appendage",
+        "In the interatrial septum near the fossa ovalis",
+        "At the junction of the superior vena cava and the right atrial wall",
+        "Within the coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "The SA node lies subepicardially at the superior posterior wall of the right atrium, near the orifice of the superior vena cava.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "The fossa ovalis in the right atrium is a remnant of which fetal structure?",
+      "options": [
+        "Ductus arteriosus",
+        "Foramen ovale",
+        "Umbilical vein",
+        "Vitelline duct"
+      ],
+      "answer": 1,
+      "explanation": "The fossa ovalis is the adult remnant of the foramen ovale, which allowed right‑to‑left shunt in the fetal heart.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "Which of the following statements about the right atrial pressure is correct?",
+      "options": [
+        "It is higher than left atrial pressure during ventricular systole",
+        "It remains constant at ~15 mmHg throughout the cardiac cycle",
+        "It is the lowest pressure chamber of the heart",
+        "It rises above 30 mmHg during atrial systole"
+      ],
+      "answer": 2,
+      "explanation": "Right atrial pressure is the lowest among the cardiac chambers, typically 2–8 mmHg, reflecting its role as a reservoir for systemic venous return.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "The pectinate muscles are most prominent in which part of the right atrium?",
+      "options": [
+        "Interatrial septum",
+        "Right atrial appendage (auricle)",
+        "Superior vena cava orifice",
+        "Tricuspid valve annulus"
+      ],
+      "answer": 1,
+      "explanation": "Pectinate muscles are well developed in the right atrial appendage (auricle) and help increase atrial contractile force without adding bulk.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "Blood entering the right atrium from the coronary sinus is primarily...",
+      "options": [
+        "Oxygen‑rich",
+        "Oxygen‑poor",
+        "Mixed oxygen content",
+        "Same as pulmonary venous blood"
+      ],
+      "answer": 1,
+      "explanation": "The coronary sinus drains deoxygenated blood from the myocardium, so the blood entering the right atrium via this vessel is oxygen‑poor.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "During atrial systole, the right atrium contributes to ventricular filling by...",
+      "options": [
+        "Opening the mitral valve",
+        "Contracting to push blood through the tricuspid valve",
+        "Generating the second heart sound",
+        "Increasing pulmonary artery pressure"
+      ],
+      "answer": 1,
+      "explanation": "Atrial systole contracts the right atrium, propelling blood through the tricuspid valve into the right ventricle, augmenting ventricular preload.",
+      "topic": "Right atrium"
+    },
+    {
+      "question": "Which major vessel receives blood directly from the right ventricle during systole?",
+      "options": [
+        "Pulmonary artery",
+        "Aorta",
+        "Pulmonary veins",
+        "Superior vena cava"
+      ],
+      "answer": 0,
+      "explanation": "The right ventricle pumps deoxygenated blood into the pulmonary artery, which carries it to the lungs for oxygenation.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "Why is the wall of the right ventricle thinner than that of the left ventricle?",
+      "options": [
+        "It pumps blood into the systemic circulation",
+        "It pumps blood into the pulmonary circulation",
+        "It supplies the coronary arteries",
+        "It receives blood from the hepatic portal system"
+      ],
+      "answer": 1,
+      "explanation": "The right ventricle generates only low pressure needed to propel blood into the low‑resistance pulmonary circuit, so its wall is thinner than the high‑pressure left ventricle.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "Which valve prevents backflow of blood from the pulmonary artery into the right ventricle during diastole?",
+      "options": [
+        "Tricuspid valve",
+        "Pulmonary semilunar valve",
+        "Aortic valve",
+        "Mitral valve"
+      ],
+      "answer": 1,
+      "explanation": "The pulmonary semilunar (pulmonary) valve closes after ventricular systole, stopping blood from re‑entering the right ventricle when the ventricle relaxes.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "The right ventricle receives its arterial blood supply primarily from which coronary artery?",
+      "options": [
+        "Left anterior descending artery",
+        "Right coronary artery",
+        "Circumflex artery",
+        "Posterior descending artery"
+      ],
+      "answer": 1,
+      "explanation": "The right coronary artery runs in the right atrioventricular groove and gives branches that perfuse the right ventricle.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the right ventricle eject blood into the pulmonary artery?",
+      "options": [
+        "Isovolumetric contraction",
+        "Ventricular ejection",
+        "Atrial systole",
+        "Isovolumetric relaxation"
+      ],
+      "answer": 1,
+      "explanation": "Ventricular ejection follows isovolumetric contraction; during this phase the right ventricle contracts and opens the pulmonary semilunar valve to push blood into the pulmonary artery.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "Which statement correctly describes the right ventricular outflow tract (infundibulum)?",
+      "options": [
+        "It is a heavily muscular region",
+        "It contains the aortic valve",
+        "It is a smooth‑walled conical portion leading to the pulmonary trunk",
+        "It is separated from the left ventricle by the interventricular septum"
+      ],
+      "answer": 2,
+      "explanation": "The infundibulum is the smooth, conical part of the right ventricle that directs blood into the pulmonary trunk; it lacks trabeculations and is distinct from the muscular inlet.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "The average stroke volume generated by the right ventricle in a resting adult is closest to:",
+      "options": [
+        "20 mL",
+        "70 mL",
+        "120 mL",
+        "200 mL"
+      ],
+      "answer": 1,
+      "explanation": "Typical resting stroke volume for each ventricle is about 70 mL; the right ventricle contributes a similar volume to the pulmonary circulation.",
+      "topic": "Right ventricle"
+    },
+    {
+      "question": "Which vessels deliver oxygen‑rich blood directly into the left atrium?",
+      "options": [
+        "Pulmonary veins",
+        "Pulmonary artery",
+        "Superior vena cava",
+        "Aorta"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonary veins return oxygenated blood from the lungs to the left atrium, whereas the pulmonary artery carries deoxygenated blood away from the right ventricle.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the left atrium contract to complete ventricular filling?",
+      "options": [
+        "Atrial systole",
+        "Ventricular systole",
+        "Isovolumetric contraction",
+        "Rapid ventricular filling"
+      ],
+      "answer": 0,
+      "explanation": "Atrial systole is the contraction of the atria that occurs just before ventricular systole, pushing the remaining blood into the ventricles.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "The left atrium is separated from the left ventricle by which valve?",
+      "options": [
+        "Mitral (bicuspid) valve",
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Aortic valve"
+      ],
+      "answer": 0,
+      "explanation": "The mitral or bicuspid valve lies between the left atrium and left ventricle, allowing flow in one direction during ventricular diastole.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "What is the typical mean pressure range in the left atrium in a healthy adult?",
+      "options": [
+        "8–12 mmHg",
+        "15–20 mmHg",
+        "2–5 mmHg",
+        "20–25 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Left atrial pressure normally averages about 8–12 mmHg, lower than left‑ventricular systolic pressure but higher than right‑atrial pressure.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "In mitral stenosis, which cardiac chamber experiences a marked rise in pressure?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "Narrowing of the mitral valve impedes flow from the left atrium to the left ventricle, causing pressure to build up in the left atrium.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "The left atrial appendage is clinically important because it is a common site for:",
+      "options": [
+        "Thrombus formation",
+        "Valve prolapse",
+        "Aneurysm development",
+        "Congenital defect"
+      ],
+      "answer": 0,
+      "explanation": "Stasis of blood in the left atrial appendage, especially in atrial fibrillation, predisposes to thrombus formation, which can embolize.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "In the context of double circulation, the primary function of the left atrium is to:",
+      "options": [
+        "Receive oxygenated blood from the lungs and pass it to the left ventricle",
+        "Receive deoxygenated blood from systemic veins",
+        "Pump blood into the pulmonary artery",
+        "Serve as a conduit for coronary circulation"
+      ],
+      "answer": 0,
+      "explanation": "Double circulation separates pulmonary and systemic circuits; the left atrium receives oxygen‑rich blood from the pulmonary veins and delivers it to the left ventricle for systemic distribution.",
+      "topic": "Left atrium"
+    },
+    {
+      "question": "Which statement correctly describes the role of the left ventricle in systemic circulation?",
+      "options": [
+        "It pumps deoxygenated blood to the lungs",
+        "It receives oxygenated blood from the lungs",
+        "It pumps oxygenated blood into the aorta",
+        "It receives deoxygenated blood from the right atrium"
+      ],
+      "answer": 2,
+      "explanation": "The left ventricle receives oxygen‑rich blood from the left atrium and ejects it into the aorta, delivering it to the systemic circulation.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "Why is the myocardium of the left ventricle thicker than that of the other chambers?",
+      "options": [
+        "It pumps blood into the low‑resistance pulmonary circuit",
+        "It pumps blood into the high‑resistance systemic circuit",
+        "It receives blood directly from the right ventricle",
+        "It contains fewer muscle fibers than other chambers"
+      ],
+      "answer": 1,
+      "explanation": "The left ventricle must generate high pressure to overcome the systemic vascular resistance, necessitating a thicker muscular wall.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the left ventricle generate the first heart sound (S1)?",
+      "options": [
+        "Isovolumetric contraction",
+        "Ejection phase",
+        "Isovolumetric relaxation",
+        "Rapid filling"
+      ],
+      "answer": 0,
+      "explanation": "S1 is produced when the atrioventricular valves (mitral and tricuspid) close at the onset of ventricular systole, i.e., during isovolumetric contraction.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "The left ventricular end‑diastolic volume (LVEDV) is primarily determined by:",
+      "options": [
+        "Atrial contraction",
+        "Venous return to the right atrium",
+        "Aortic pressure",
+        "Pulmonary vascular resistance"
+      ],
+      "answer": 0,
+      "explanation": "LVEDV reflects the volume of blood that fills the left ventricle during diastole, largely dependent on the amount of blood delivered from the left atrium during atrial systole.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "Which coronary artery mainly supplies the left ventricular free wall?",
+      "options": [
+        "Right coronary artery",
+        "Left anterior descending artery",
+        "Circumflex artery",
+        "Posterior descending artery"
+      ],
+      "answer": 1,
+      "explanation": "The left anterior descending (LAD) artery runs along the anterior interventricular sulcus and supplies the anterior and much of the free wall of the left ventricle.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "In a healthy adult, the typical systolic pressure generated by the left ventricle is approximately:",
+      "options": [
+        "20 mmHg",
+        "40 mmHg",
+        "120 mmHg",
+        "160 mmHg"
+      ],
+      "answer": 2,
+      "explanation": "Left ventricular systolic pressure is about 120 mmHg, matching the normal systemic arterial pressure.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "The mitral (bicuspid) valve is situated between which two cardiac structures?",
+      "options": [
+        "Left atrium and left ventricle",
+        "Left ventricle and aorta",
+        "Right atrium and right ventricle",
+        "Right ventricle and pulmonary artery"
+      ],
+      "answer": 0,
+      "explanation": "The mitral valve separates the left atrium from the left ventricle, allowing flow during diastole and preventing backflow during systole.",
+      "topic": "Left ventricle"
+    },
+    {
+      "question": "Which embryonic structure primarily forms the floor of the interatrial septum?",
+      "options": [
+        "Septum primum",
+        "Septum secundum",
+        "Endocardial cushions",
+        "Bulbus cordis"
+      ],
+      "answer": 0,
+      "explanation": "The septum primum grows downwards from the roof of the primitive atrium and forms the floor (inferior part) of the interatrial septum.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "In fetal circulation, the foramen ovale permits blood to flow directly from which chamber to which chamber?",
+      "options": [
+        "Right atrium to left atrium",
+        "Left atrium to right atrium",
+        "Right ventricle to left ventricle",
+        "Pulmonary artery to aorta"
+      ],
+      "answer": 0,
+      "explanation": "The foramen ovale is an opening in the interatrial septum that allows oxygen‑rich blood from the placenta to bypass the non‑functional fetal lungs by moving from the right atrium to the left atrium.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "An ostium secundum atrial septal defect is most commonly located in which region of the interatrial septum?",
+      "options": [
+        "Lower part near the atrioventricular valves",
+        "Upper part near the fossa ovalis",
+        "Central muscular portion",
+        "Near the atrioventricular node"
+      ],
+      "answer": 1,
+      "explanation": "Ostium secundum ASDs occur in the region of the fossa ovalis, i.e., the upper part of the interatrial septum where the foramen ovale normally resides.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "Which auscultatory finding is characteristically associated with a large atrial septal defect?",
+      "options": [
+        "Loud first heart sound (S1)",
+        "Loud second heart sound (S2)",
+        "Fixed splitting of the second heart sound (S2)",
+        "Presence of a third heart sound (S3)"
+      ],
+      "answer": 2,
+      "explanation": "A large ASD causes a persistent left‑to‑right shunt, leading to increased right‑sided flow and delayed closure of the pulmonic valve, producing a fixed split of S2.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "Closure of the foramen ovale after birth is mainly due to the apposition of which two septal components?",
+      "options": [
+        "Septum primum and septum secundum",
+        "Endocardial cushions and septum primum",
+        "Septum secundum and aorticopulmonary septum",
+        "Bulbus cordis and septum primum"
+      ],
+      "answer": 0,
+      "explanation": "After birth, increased left‑atrial pressure pushes the septum primum against the septum secundum, functionally closing the foramen ovale.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "In the adult heart, the fossa ovalis is best described as:",
+      "options": [
+        "A muscular ridge",
+        "A depression in the interatrial septum",
+        "A valve‑like flap",
+        "A thickened area of the right atrium"
+      ],
+      "answer": 1,
+      "explanation": "The fossa ovalis is a shallow, oval‑shaped depression in the interatrial septum, representing the remnant of the fetal foramen ovale.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "Which of the following is NOT a typical hemodynamic consequence of an isolated ostium secundum atrial septal defect?",
+      "options": [
+        "Left‑to‑right shunt",
+        "Volume overload of the right ventricle",
+        "Pulmonary hypertension",
+        "Decreased left ventricular preload"
+      ],
+      "answer": 3,
+      "explanation": "An ASD causes a left‑to‑right shunt that increases right‑ventricular volume and may lead to pulmonary hypertension; it does not decrease left‑ventricular preload—in fact, left‑ventricular filling may be slightly increased.",
+      "topic": "Interatrial septum"
+    },
+    {
+      "question": "Which part of the interventricular septum is derived from the endocardial cushions?",
+      "options": [
+        "Membranous part",
+        "Muscular part",
+        "Conal septum",
+        "Atrioventricular septum"
+      ],
+      "answer": 0,
+      "explanation": "The membranous portion of the interventricular septum is formed from the endocardial cushions together with the conotruncal ridges during cardiac development.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "The interventricular septum receives its blood supply primarily from which coronary artery?",
+      "options": [
+        "Left anterior descending artery",
+        "Right coronary artery",
+        "Posterior descending artery",
+        "Circumflex artery"
+      ],
+      "answer": 0,
+      "explanation": "The left anterior descending (LAD) artery supplies the anterior two‑thirds of the interventricular septum, which constitutes the main vascular source for the septum.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "A ventricular septal defect (VSD) located in the membranous portion is most likely to cause which type of murmur?",
+      "options": [
+        "Holosystolic murmur best heard at left lower sternal border",
+        "Mid‑systolic ejection murmur at right upper sternal border",
+        "Continuous machinery murmur",
+        "Diastolic rumble at apex"
+      ],
+      "answer": 0,
+      "explanation": "A membranous VSD produces a harsh holosystolic murmur that is best auscultated at the left lower sternal border due to continuous left‑to‑right shunt throughout systole.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "Which structure runs within the interventricular septum and is part of the cardiac conduction system?",
+      "options": [
+        "Bundle of His",
+        "Atrioventricular node",
+        "Purkinje fibers",
+        "Sinoatrial node"
+      ],
+      "answer": 0,
+      "explanation": "The bundle of His traverses the upper part of the interventricular septum, transmitting impulses from the AV node to the bundle branches.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "During embryonic development, the interventricular septum is formed by the growth of which two components?",
+      "options": [
+        "Muscular ridge and membranous septum",
+        "Endocardial cushions and truncus arteriosus",
+        "Bulbus cordis and atrioventricular canal",
+        "Right and left ventricles"
+      ],
+      "answer": 0,
+      "explanation": "The muscular ridge (muscular part) grows upward from the ventricular floor, while the membranous septum (derived from endocardial cushions) completes the septation.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "The interventricular septum contributes to which phase of the cardiac cycle by preventing backflow of blood from left ventricle to right ventricle?",
+      "options": [
+        "Isovolumetric contraction",
+        "Isovolumetric relaxation",
+        "Rapid ejection",
+        "Atrial systole"
+      ],
+      "answer": 0,
+      "explanation": "During isovolumetric contraction both ventricles contract; the septum’s contraction raises left ventricular pressure and prevents blood from moving into the right ventricle.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "Which of the following statements about the interventricular septum is FALSE?",
+      "options": [
+        "It contains the atrioventricular node",
+        "It is composed of both muscular and membranous parts",
+        "It separates the left and right ventricles",
+        "It receives blood supply from the left anterior descending artery"
+      ],
+      "answer": 0,
+      "explanation": "The atrioventricular (AV) node is located in the interatrial septum near the coronary sinus, not within the interventricular septum.",
+      "topic": "Interventricular septum"
+    },
+    {
+      "question": "Which valve prevents backflow of blood from the right ventricle into the right atrium during ventricular systole?",
+      "options": [
+        "Tricuspid valve",
+        "Pulmonary valve",
+        "Aortic valve",
+        "Mitral valve"
+      ],
+      "answer": 0,
+      "explanation": "The tricuspid valve is the atrioventricular valve on the right side and closes during ventricular systole to stop blood returning to the right atrium.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "The \"dub\" heart sound is produced by closure of which valves?",
+      "options": [
+        "Aortic and pulmonary valves",
+        "Tricuspid and mitral valves",
+        "Aortic and mitral valves",
+        "Pulmonary and mitral valves"
+      ],
+      "answer": 0,
+      "explanation": "The second heart sound (dub) results from the simultaneous closure of the semilunar valves – the aortic and pulmonary valves – at the start of diastole.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "How many cusps does the aortic valve have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "The aortic valve is a semilunar valve composed of three cusps (tricuspid), named the left, right, and posterior cusps.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "During which phase of the cardiac cycle are the atrioventricular valves open?",
+      "options": [
+        "Isovolumetric contraction",
+        "Ventricular ejection",
+        "Isovolumetric relaxation",
+        "Ventricular filling"
+      ],
+      "answer": 3,
+      "explanation": "Atrioventricular (tricuspid and mitral) valves open during ventricular filling, allowing blood to flow from the atria into the ventricles.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "Which valve is also known as the bicuspid valve?",
+      "options": [
+        "Tricuspid valve",
+        "Mitral valve",
+        "Pulmonary valve",
+        "Aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "The mitral valve, located between the left atrium and left ventricle, has two leaflets and is therefore called the bicuspid valve.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "In aortic stenosis, the most likely auscultatory finding is a systolic ejection murmur best heard at which location?",
+      "options": [
+        "Left 2nd intercostal space near the sternum",
+        "Right 5th intercostal space midclavicular line",
+        "Left 5th intercostal space midclavicular line",
+        "Upper left sternal border"
+      ],
+      "answer": 0,
+      "explanation": "Aortic stenosis produces a harsh systolic ejection murmur that radiates to the left upper sternal border, i.e., the left 2nd intercostal space adjacent to the sternum.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "Which of the following statements about semilunar valves is correct?",
+      "options": [
+        "They have leaflets attached to papillary muscles",
+        "They open during ventricular diastole",
+        "They are anchored by chordae tendineae",
+        "They prevent backflow from arteries into ventricles"
+      ],
+      "answer": 3,
+      "explanation": "Semilunar valves (aortic and pulmonary) are located at the bases of the great arteries and close to prevent arterial blood from flowing back into the ventricles during diastole.",
+      "topic": "Heart valves"
+    },
+    {
+      "question": "The tricuspid valve separates which two chambers of the heart?",
+      "options": [
+        "Right atrium and right ventricle",
+        "Left atrium and left ventricle",
+        "Right atrium and left ventricle",
+        "Left atrium and right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The tricuspid valve is the atrioventricular valve on the right side, opening between the right atrium and right ventricle.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "How many cusps (leaflets) does the tricuspid valve possess?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "By definition, the tricuspid valve has three leaflets – anterior, posterior, and septal.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "The chordae tendineae of the tricuspid valve attach to which structures?",
+      "options": [
+        "Papillary muscles of the left ventricle",
+        "Papillary muscles of the right ventricle",
+        "Aortic wall",
+        "Pulmonary artery"
+      ],
+      "answer": 1,
+      "explanation": "Chordae from the tricuspid valve are anchored to the papillary muscles located in the right ventricle, preventing prolapse during systole.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the tricuspid valve close, producing the first heart sound (S1)?",
+      "options": [
+        "Atrial systole",
+        "Ventricular systole",
+        "Isovolumetric contraction",
+        "Isovolumetric relaxation"
+      ],
+      "answer": 2,
+      "explanation": "S1 is produced when both atrioventricular valves (tricuspid and mitral) close at the onset of isovolumetric contraction, the early part of ventricular systole.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "Which clinical condition most commonly leads to a functional murmur due to tricuspid regurgitation?",
+      "options": [
+        "Mitral stenosis",
+        "Pulmonary hypertension",
+        "Aortic dissection",
+        "Coarctation of the aorta"
+      ],
+      "answer": 1,
+      "explanation": "Elevated pulmonary artery pressure raises right ventricular pressure, causing the tricuspid leaflets to incompletely close and produce a regurgitant murmur.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "In the anatomical position, the tricuspid valve lies ______ relative to the mitral valve.",
+      "options": [
+        "Anterior",
+        "Posterior",
+        "Lateral",
+        "Medial"
+      ],
+      "answer": 0,
+      "explanation": "The tricuspid valve is situated anterior to the mitral valve on the right side of the heart.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "Embryologically, the tricuspid valve is derived from which structure?",
+      "options": [
+        "Endocardial cushions of the atrioventricular canal",
+        "Neural crest cells",
+        "Septum primum",
+        "Bulbus cordis"
+      ],
+      "answer": 0,
+      "explanation": "The atrioventricular (AV) valves, including the tricuspid, develop from the endocardial cushions of the AV canal during heart formation.",
+      "topic": "Tricuspid valve"
+    },
+    {
+      "question": "The mitral (bicuspid) valve separates which two chambers of the heart?",
+      "options": [
+        "Left atrium and left ventricle",
+        "Right atrium and right ventricle",
+        "Left ventricle and aorta",
+        "Right atrium and left atrium"
+      ],
+      "answer": 0,
+      "explanation": "The mitral valve is the atrioventricular valve on the left side and lies between the left atrium and left ventricle, preventing backflow during ventricular systole.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "How many leaflets (cusps) does the mitral valve possess?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "answer": 0,
+      "explanation": "The term \"bicuspid\" indicates that the valve has two leaflets, unlike the tricuspid valve which has three.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the mitral valve open?",
+      "options": [
+        "Ventricular diastole",
+        "Ventricular systole",
+        "Atrial systole",
+        "Isovolumetric contraction"
+      ],
+      "answer": 0,
+      "explanation": "The mitral valve opens when the left ventricle relaxes (ventricular diastole) allowing blood to flow from the left atrium into the ventricle.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "Closure of the mitral valve contributes to which heart sound?",
+      "options": [
+        "First heart sound (S1)",
+        "Second heart sound (S2)",
+        "Third heart sound (S3)",
+        "Fourth heart sound (S4)"
+      ],
+      "answer": 0,
+      "explanation": "The first heart sound (lub) is produced by the simultaneous closure of the atrioventricular valves – the mitral and tricuspid valves – at the onset of ventricular systole.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "Which structure directly prevents prolapse of the mitral valve leaflets into the left atrium during ventricular systole?",
+      "options": [
+        "Chordae tendineae",
+        "Papillary muscles",
+        "Aortic valve",
+        "Interventricular septum"
+      ],
+      "answer": 0,
+      "explanation": "Chordae tendineae attach the valve leaflets to papillary muscles; tension in the chordae during systole holds the leaflets closed, preventing prolapse.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "A holosystolic murmur due to mitral regurgitation is best heard at which location?",
+      "options": [
+        "Apex of the heart",
+        "Upper left sternal border",
+        "Lower right sternal border",
+        "Base of the heart"
+      ],
+      "answer": 0,
+      "explanation": "Mitral regurgitation produces a high‑pitch, blowing holosystolic murmur that radiates to the axilla and is best auscultated at the cardiac apex.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "Which statement about the mitral valve is FALSE?",
+      "options": [
+        "It has three leaflets",
+        "It is an atrioventricular valve",
+        "It is attached to papillary muscles via chordae tendineae",
+        "It opens during left ventricular diastole"
+      ],
+      "answer": 0,
+      "explanation": "The mitral valve is bicuspid, having two leaflets; the statement that it has three leaflets is incorrect.",
+      "topic": "Bicuspid or mitral valve"
+    },
+    {
+      "question": "Which of the following correctly describes the number of cusps in the aortic and pulmonary semilunar valves?",
+      "options": [
+        "Both have three cusps",
+        "Aortic has three, pulmonary has two",
+        "Both have two cusps",
+        "Aortic has two, pulmonary has three"
+      ],
+      "answer": 0,
+      "explanation": "Both the aortic and pulmonary semilunar valves are tricuspid, each possessing three cusps that open to allow ejection of blood from the ventricles.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "During which phase of the cardiac cycle are the semilunar valves open?",
+      "options": [
+        "Isovolumetric contraction",
+        "Isovolumetric relaxation",
+        "Ventricular systole",
+        "Atrial systole"
+      ],
+      "answer": 2,
+      "explanation": "The semilunar valves open during ventricular systole, specifically the ejection phase, when ventricular pressure exceeds arterial pressure.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "The semilunar valves prevent backflow of blood from which vessels into the ventricles?",
+      "options": [
+        "Aorta and pulmonary artery",
+        "Superior and inferior vena cava",
+        "Pulmonary veins and aorta",
+        "Coronary sinus and pulmonary veins"
+      ],
+      "answer": 0,
+      "explanation": "The aortic valve blocks backflow from the aorta into the left ventricle, and the pulmonary valve blocks backflow from the pulmonary artery into the right ventricle.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "The \"dub\" heart sound (S2) is primarily produced by closure of which valves?",
+      "options": [
+        "Aortic and pulmonary semilunar valves",
+        "Mitral and tricuspid valves",
+        "Aortic and mitral valves",
+        "Pulmonary and tricuspid valves"
+      ],
+      "answer": 0,
+      "explanation": "S2 corresponds to the simultaneous closure of the aortic and pulmonary semilunar valves at the end of ventricular systole.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "In a healthy adult, the pressure in the aorta during ventricular ejection is approximately:",
+      "options": [
+        "80 mmHg",
+        "120 mmHg",
+        "30 mmHg",
+        "5 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Systolic arterial pressure, which reflects aortic pressure during ejection, is typically around 120 mmHg in a healthy adult.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "A patient with aortic stenosis will most likely have which of the following auscultatory findings?",
+      "options": [
+        "Soft S2",
+        "Loud S1",
+        "Ejection systolic murmur best heard in the right second intercostal space",
+        "Continuous murmur throughout systole and diastole"
+      ],
+      "answer": 2,
+      "explanation": "Aortic stenosis produces a harsh ejection systolic murmur best heard at the right second intercostal space (aortic area) due to turbulent flow across the narrowed semilunar valve.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "Embryologically, the semilunar valves are derived from which of the following structures?",
+      "options": [
+        "Endocardial cushions",
+        "Neural crest cells forming the conotruncal ridges",
+        "Atrioventricular canal",
+        "Epicardial mesenchyme"
+      ],
+      "answer": 1,
+      "explanation": "The semilunar valves develop from the conotruncal (outflow) cushions, which are populated by neural crest cells during heart development.",
+      "topic": "Semilunar valves"
+    },
+    {
+      "question": "Which vessel carries deoxygenated blood from the upper body to the right atrium?",
+      "options": [
+        "Inferior vena cava",
+        "Pulmonary artery",
+        "Superior vena cava",
+        "Aorta"
+      ],
+      "answer": 2,
+      "explanation": "The superior vena cava drains deoxygenated blood from the head, neck, and upper limbs into the right atrium.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "Which vessel transports oxygen‑rich blood from the lungs to the left atrium?",
+      "options": [
+        "Pulmonary artery",
+        "Pulmonary veins",
+        "Superior vena cava",
+        "Aorta"
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary veins are the only veins that carry oxygenated blood, returning it from the lungs to the left atrium.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "The first branches of the aorta that supply the heart itself are called:",
+      "options": [
+        "Pulmonary trunk",
+        "Brachiocephalic trunk",
+        "Subclavian artery",
+        "Coronary arteries"
+      ],
+      "answer": 3,
+      "explanation": "Coronary arteries arise from the initial part of the ascending aorta and provide the myocardium with oxygenated blood.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "What is the largest systemic artery in the human body?",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Inferior vena cava",
+        "Brachiocephalic vein"
+      ],
+      "answer": 0,
+      "explanation": "The aorta originates from the left ventricle and distributes oxygenated blood to the entire systemic circulation; it is the largest artery.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "Which vessel returns blood from the lower limbs and abdomen to the heart?",
+      "options": [
+        "Superior vena cava",
+        "Inferior vena cava",
+        "Pulmonary artery",
+        "Pulmonary veins"
+      ],
+      "answer": 1,
+      "explanation": "The inferior vena cava collects deoxygenated blood from the lower half of the body and empties into the right atrium.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "Why is the pulmonary artery unique among arteries?",
+      "options": [
+        "Carries oxygenated blood away from the heart",
+        "Carries oxygenated blood to the heart",
+        "Carries deoxygenated blood away from the heart",
+        "Carries deoxygenated blood to the heart"
+      ],
+      "answer": 2,
+      "explanation": "Unlike other arteries, the pulmonary artery carries deoxygenated blood from the right ventricle to the lungs.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "Arrange the correct sequence of blood flow starting from the left ventricle in systemic circulation:",
+      "options": [
+        "Aorta → systemic arteries → capillaries → systemic veins → right atrium",
+        "Pulmonary artery → lungs → pulmonary veins → left atrium",
+        "Aorta → systemic veins → right atrium → pulmonary artery",
+        "Pulmonary veins → left atrium → left ventricle → aorta"
+      ],
+      "answer": 0,
+      "explanation": "Blood leaves the left ventricle via the aorta, passes through systemic arteries, exchanges gases in capillaries, returns via systemic veins to the right atrium.",
+      "topic": "Major blood vessels"
+    },
+    {
+      "question": "The superior vena cava is formed by the union of which veins?",
+      "options": [
+        "Left and right brachiocephalic veins",
+        "Left and right subclavian veins",
+        "Internal jugular veins",
+        "Azygos and hemiazygos veins"
+      ],
+      "answer": 0,
+      "explanation": "The superior vena cava originates from the confluence of the left and right brachiocephalic (innominate) veins in the superior mediastinum.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "Which of the following vessels does NOT directly drain into the superior vena cava?",
+      "options": [
+        "Azygos vein",
+        "Internal thoracic vein",
+        "Pulmonary veins",
+        "Upper intercostal veins"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary veins carry oxygen‑rich blood from the lungs to the left atrium and do not empty into the superior vena cava, which returns deoxygenated blood to the right atrium.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "Into which cardiac chamber does the superior vena cava empty?",
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The superior vena cava delivers systemic venous blood into the right atrium of the heart.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "Which statement correctly describes the anatomical relationship of the superior vena cava in the thorax?",
+      "options": [
+        "It lies to the right of the ascending aorta",
+        "It lies to the left of the ascending aorta",
+        "It lies posterior to the trachea",
+        "It lies anterior to the aortic arch"
+      ],
+      "answer": 0,
+      "explanation": "In the superior mediastinum, the superior vena cava is positioned on the right side of the ascending aorta.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "Superior vena cava syndrome is most commonly caused by which condition?",
+      "options": [
+        "Small cell carcinoma of the lung",
+        "Hepatocellular carcinoma",
+        "Renal cell carcinoma",
+        "Thyroid adenoma"
+      ],
+      "answer": 0,
+      "explanation": "Bronchogenic malignancies, especially small cell carcinoma of the lung, frequently compress or invade the superior vena cava, leading to SVC syndrome.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "Embryologically, the superior vena cava is derived from which structure?",
+      "options": [
+        "Right anterior cardinal vein",
+        "Left posterior cardinal vein",
+        "Right vitelline vein",
+        "Left sinus venosus"
+      ],
+      "answer": 0,
+      "explanation": "The right anterior cardinal vein persists as the superior vena cava during development of the venous system.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "What are the approximate length and diameter of the superior vena cava in an adult?",
+      "options": [
+        "7 cm length, 2 cm diameter",
+        "12 cm length, 1 cm diameter",
+        "5 cm length, 3 cm diameter",
+        "10 cm length, 4 cm diameter"
+      ],
+      "answer": 0,
+      "explanation": "In adults, the superior vena cava is about 7 cm long and has a diameter of roughly 2 cm, allowing efficient return of blood from the upper body.",
+      "topic": "Superior vena cava"
+    },
+    {
+      "question": "The inferior vena cava is formed by the union of which veins and at which vertebral level?",
+      "options": [
+        "Right and left common iliac veins at the level of L5",
+        "Right and left internal iliac veins at the level of L4",
+        "Right and left femoral veins at the level of L3",
+        "Right and left sacral veins at the level of L2"
+      ],
+      "answer": 0,
+      "explanation": "The IVC begins in the abdomen at the level of the fifth lumbar vertebra (L5) where the right and left common iliac veins join.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "Through which opening of the diaphragm does the inferior vena cava pass?",
+      "options": [
+        "Aortic hiatus",
+        "Caval opening (T8)",
+        "Esophageal hiatus",
+        "Foramen of Morgagni"
+      ],
+      "answer": 1,
+      "explanation": "The IVC traverses the central tendon of the diaphragm at the caval opening, which is located at the level of the eighth thoracic vertebra (T8).",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "Which of the following vessels does NOT drain directly into the inferior vena cava?",
+      "options": [
+        "Hepatic veins",
+        "Renal veins",
+        "Pulmonary veins",
+        "Gonadal veins"
+      ],
+      "answer": 2,
+      "explanation": "Pulmonary veins drain oxygenated blood into the left atrium, not into the IVC. All other listed vessels are direct tributaries of the IVC.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "A common clinical manifestation of inferior vena cava obstruction is:",
+      "options": [
+        "Lower limb edema",
+        "Upper limb edema",
+        "Systemic hypertension",
+        "Peripheral cyanosis"
+      ],
+      "answer": 0,
+      "explanation": "Obstruction of the IVC impedes venous return from the lower body, leading to swelling (edema) of the lower limbs, often accompanied by abdominal distension and hepatic congestion.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "In the abdominal cavity, the inferior vena cava lies:",
+      "options": [
+        "To the left of the aorta",
+        "To the right of the aorta",
+        "Anterior to the aorta",
+        "Posterior to the aorta"
+      ],
+      "answer": 1,
+      "explanation": "The IVC runs parallel to the abdominal aorta but is positioned on its right side throughout its course.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "Which organ empties its venous blood directly into the inferior vena cava via the hepatic veins?",
+      "options": [
+        "Spleen",
+        "Liver",
+        "Kidney",
+        "Pancreas"
+      ],
+      "answer": 1,
+      "explanation": "The hepatic veins collect blood from the liver and drain directly into the inferior vena cava just below the diaphragm.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "Which gonadal vein drains directly into the inferior vena cava?",
+      "options": [
+        "Right testicular/ovarian vein",
+        "Left testicular/ovarian vein",
+        "Both right and left gonadal veins",
+        "Neither side drains directly into the IVC"
+      ],
+      "answer": 0,
+      "explanation": "The right gonadal (testicular or ovarian) vein joins the IVC directly, whereas the left gonadal vein usually drains into the left renal vein before reaching the IVC.",
+      "topic": "Inferior vena cava"
+    },
+    {
+      "question": "Which chamber of the heart pumps blood directly into the pulmonary artery?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "answer": 2,
+      "explanation": "The right ventricle contracts during ventricular systole and ejects deoxygenated blood into the pulmonary trunk, which then continues as the pulmonary arteries.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "The pulmonary artery primarily carries blood that is:",
+      "options": [
+        "Oxygen-rich",
+        "Oxygen-poor",
+        "Mixed oxygen content",
+        "Identical to aortic blood"
+      ],
+      "answer": 1,
+      "explanation": "Unlike most arteries, the pulmonary artery carries deoxygenated (oxygen-poor) blood from the right side of the heart to the lungs for oxygenation.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "Compared with the aorta, the pulmonary artery has:",
+      "options": [
+        "Higher pressure",
+        "Same pressure",
+        "Lower pressure",
+        "No blood flow"
+      ],
+      "answer": 2,
+      "explanation": "The pulmonary circulation is a low‑pressure system; mean pulmonary arterial pressure is about 15 mmHg, whereas aortic pressure is around 100 mmHg.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "The pulmonary artery originates from which structure?",
+      "options": [
+        "Left ventricle",
+        "Right atrium",
+        "Pulmonary trunk arising from the right ventricle",
+        "Aorta"
+      ],
+      "answer": 2,
+      "explanation": "Blood is expelled from the right ventricle into the pulmonary trunk, which then bifurcates into the right and left pulmonary arteries.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "In fetal circulation, the vessel that connects the pulmonary artery to the aorta is called:",
+      "options": [
+        "Foramen ovale",
+        "Ductus arteriosus",
+        "Ductus venosus",
+        "Umbilical vein"
+      ],
+      "answer": 1,
+      "explanation": "The ductus arteriosus shunts blood from the pulmonary artery to the descending aorta, bypassing the non‑functional fetal lungs.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "The right pulmonary artery lies ____ to the right main bronchus.",
+      "options": [
+        "Posterior",
+        "Anterior",
+        "Lateral",
+        "Medial"
+      ],
+      "answer": 1,
+      "explanation": "Anatomically, the right pulmonary artery passes anterior (in front of) the right main bronchus as it heads toward the right lung.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "Normal mean pulmonary arterial pressure in a resting adult is approximately:",
+      "options": [
+        "5 mmHg",
+        "15 mmHg",
+        "30 mmHg",
+        "45 mmHg"
+      ],
+      "answer": 1,
+      "explanation": "Physiological mean pulmonary arterial pressure is about 12–20 mmHg; 15 mmHg is the commonly quoted average value.",
+      "topic": "Pulmonary artery"
+    },
+    {
+      "question": "How many pulmonary veins normally open into the left atrium in a healthy adult human?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "Typically, four pulmonary veins (two from each lung) drain oxygen‑rich blood into the left atrium.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Which of the following correctly describes the blood carried by the pulmonary veins?",
+      "options": [
+        "Deoxygenated blood from the right ventricle",
+        "Oxygenated blood from the lungs",
+        "Mixed blood from the systemic circulation",
+        "Nutrient‑rich blood from the hepatic portal system"
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary veins transport oxygen‑rich blood that has been oxygenated in the pulmonary capillaries back to the left atrium.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Pulmonary veins are a component of which circulatory circuit?",
+      "options": [
+        "Systemic circulation",
+        "Pulmonary circulation",
+        "Coronary circulation",
+        "Lymphatic circulation"
+      ],
+      "answer": 1,
+      "explanation": "They belong to the pulmonary circuit, returning oxygenated blood from the lungs to the heart.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Before entering the left atrium, the pulmonary veins run in close association with which structure?",
+      "options": [
+        "Aortic arch",
+        "Pulmonary artery trunks",
+        "Bronchial tree",
+        "Superior vena cava"
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary veins travel alongside the pulmonary arteries within the pulmonary sheath before reaching the left atrium.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Ectopic electrical activity that often initiates atrial fibrillation most commonly originates from which anatomical site?",
+      "options": [
+        "Right atrial appendage",
+        "Coronary sinus",
+        "Pulmonary veins",
+        "Atrioventricular node"
+      ],
+      "answer": 2,
+      "explanation": "The myocardial sleeves extending into the pulmonary veins are frequent sources of ectopic beats that trigger atrial fibrillation.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Compared with the left atrium, the mean pressure in the pulmonary veins is:",
+      "options": [
+        "Higher",
+        "Lower",
+        "Equal",
+        "Highly variable and unpredictable"
+      ],
+      "answer": 0,
+      "explanation": "Pulmonary venous pressure (~8‑12 mmHg) is slightly higher than left atrial pressure (~5‑10 mmHg), ensuring forward flow into the atrium.",
+      "topic": "Pulmonary veins"
+    },
+    {
+      "question": "Which part of the aorta gives rise to the coronary arteries?",
+      "options": [
+        "Ascending aorta",
+        "Arch of aorta",
+        "Descending thoracic aorta",
+        "Abdominal aorta"
+      ],
+      "answer": 0,
+      "explanation": "The coronary arteries originate from the sinuses of Valsalva located just above the aortic valve in the ascending aorta.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "The aortic arch gives rise to which three major branches?",
+      "options": [
+        "Brachiocephalic trunk, left common carotid artery, left subclavian artery",
+        "Right subclavian artery, left common carotid artery, inferior phrenic artery",
+        "Brachiocephalic trunk, right common carotid artery, left subclavian artery",
+        "Left common carotid artery, left subclavian artery, superior mesenteric artery"
+      ],
+      "answer": 0,
+      "explanation": "The aortic arch classically gives off the brachiocephalic (innominate) trunk, the left common carotid artery, and the left subclavian artery.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "Why is the aorta classified as an elastic artery?",
+      "options": [
+        "It contains a high proportion of elastin fibers in its tunica media",
+        "It has the thickest tunica intima among arteries",
+        "It possesses numerous valves to prevent backflow",
+        "It has a very narrow lumen causing high resistance"
+      ],
+      "answer": 0,
+      "explanation": "Elastic arteries, like the aorta, have abundant elastin in the tunica media, allowing them to stretch during systole and recoil during diastole, maintaining blood pressure.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "Which vessel carries oxygen‑rich blood from the left ventricle to the systemic circulation?",
+      "options": [
+        "Pulmonary artery",
+        "Aorta",
+        "Superior vena cava",
+        "Inferior vena cava"
+      ],
+      "answer": 1,
+      "explanation": "The aorta receives blood from the left ventricle and distributes oxygenated blood to the systemic organs, whereas the pulmonary artery carries deoxygenated blood to the lungs.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "The transition from the thoracic aorta to the abdominal aorta occurs at which anatomical level?",
+      "options": [
+        "Diaphragmatic hiatus",
+        "T12 vertebral level",
+        "L1 vertebral level",
+        "Aortic bifurcation"
+      ],
+      "answer": 1,
+      "explanation": "The aorta passes through the aortic hiatus of the diaphragm at the T12 vertebral level, marking the change from thoracic to abdominal aorta.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "In systemic circulation, the primary mechanism that reduces pressure after the left ventricle is the:",
+      "options": [
+        "High resistance of arterioles",
+        "Elastic recoil of the aorta",
+        "Turbulent flow in the aorta",
+        "Low total blood volume"
+      ],
+      "answer": 1,
+      "explanation": "The aorta’s elastic recoil during diastole stores energy during systole and releases it, smoothing the pressure wave and preventing a sharp fall in pressure.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "Aortic coarctation is most commonly located just distal to which branch?",
+      "options": [
+        "Left subclavian artery",
+        "Brachiocephalic trunk",
+        "Left common carotid artery",
+        "Right subclavian artery"
+      ],
+      "answer": 0,
+      "explanation": "The typical site of congenital coarctation is just after the origin of the left subclavian artery, near the ligamentum arteriosum.",
+      "topic": "Aorta"
+    },
+    {
+      "question": "Which coronary artery primarily supplies the right atrium and most of the right ventricle?",
+      "options": [
+        "Right coronary artery",
+        "Left coronary artery",
+        "Left anterior descending artery",
+        "Circumflex artery"
+      ],
+      "answer": 0,
+      "explanation": "The right coronary artery (RCA) gives branches to the right atrium and the majority of the right ventricle, including the right marginal artery.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "The region of the myocardium that receives blood from both the right and left coronary arteries due to anastomoses is the:",
+      "options": [
+        "Interventricular septum",
+        "Apex of the heart",
+        "Posterior wall of left ventricle",
+        "Anterior wall of right ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The interventricular septum is supplied by septal branches from both the left anterior descending artery (LAD) and the posterior descending artery, providing a dual blood supply.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "Coronary blood flow is maximal during which phase of the cardiac cycle?",
+      "options": [
+        "Atrial systole",
+        "Ventricular systole",
+        "Isovolumetric contraction",
+        "Diastole"
+      ],
+      "answer": 3,
+      "explanation": "During diastole the myocardium relaxes, intramyocardial pressure falls and coronary vessels are perfused most effectively; during systole compression reduces flow.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "The coronary sinus drains deoxygenated blood into which cardiac chamber?",
+      "options": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "answer": 0,
+      "explanation": "The coronary sinus empties directly into the right atrium, delivering the venous return from the myocardium.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "In a right‑dominant heart, which artery gives rise to the posterior interventricular (posterior descending) artery?",
+      "options": [
+        "Right coronary artery",
+        "Left coronary artery",
+        "Left anterior descending artery",
+        "Circumflex artery"
+      ],
+      "answer": 0,
+      "explanation": "In right‑dominant circulation (≈85% of individuals) the posterior descending artery branches from the right coronary artery.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "The ostia of the coronary arteries are located in which part of the aorta?",
+      "options": [
+        "Left and right aortic sinuses of Valsalva",
+        "Ascending aorta just above the aortic valve",
+        "Aortic arch",
+        "Descending thoracic aorta"
+      ],
+      "answer": 0,
+      "explanation": "Coronary artery openings are situated in the left and right aortic sinuses (sinuses of Valsalva) just above the aortic valve cusps.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "Which statement about myocardial perfusion is correct?",
+      "options": [
+        "It is independent of aortic pressure",
+        "It occurs mainly during ventricular systole",
+        "It is compromised in tachycardia due to reduced diastolic time",
+        "It is supplied equally by both coronary arteries in all individuals"
+      ],
+      "answer": 2,
+      "explanation": "Higher heart rates shorten diastole, the period when coronary flow is greatest, thus tachycardia can reduce myocardial perfusion.",
+      "topic": "Coronary circulation"
+    },
+    {
+      "question": "During which phase of the cardiac cycle do the atrioventricular (AV) valves close and the semilunar valves open?",
+      "options": [
+        "Atrial systole",
+        "Isovolumetric contraction",
+        "Ventricular ejection",
+        "Isovolumetric relaxation"
+      ],
+      "answer": 1,
+      "explanation": "Closure of the AV valves and opening of the semilunar valves occur at the start of ventricular systole, specifically the isovolumetric contraction phase.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "Stroke volume is influenced by which combination of factors?",
+      "options": [
+        "Preload",
+        "Afterload",
+        "Contractility",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Preload (end‑diastolic volume), afterload (arterial resistance), and myocardial contractility all determine the amount of blood ejected in each beat.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "The first heart sound (\"lub\") is produced by the closure of which valves?",
+      "options": [
+        "Aortic valve",
+        "Pulmonary valve",
+        "Atrioventricular (AV) valves",
+        "Semilunar valves"
+      ],
+      "answer": 2,
+      "explanation": "\"Lub\" results from the simultaneous closure of the mitral and tricuspid (AV) valves at the onset of ventricular systole.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "Coronary blood flow to the myocardium is greatest during which part of the cardiac cycle?",
+      "options": [
+        "Atrial systole",
+        "Ventricular systole",
+        "Isovolumetric relaxation",
+        "Isovolumetric contraction"
+      ],
+      "answer": 2,
+      "explanation": "During isovolumetric relaxation the aortic pressure exceeds ventricular pressure, allowing blood to flow back into the coronary arteries.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "If stroke volume is 70 mL and heart rate is 80 beats/min, what is the cardiac output?",
+      "options": [
+        "5.6 L/min",
+        "4.9 L/min",
+        "5.0 L/min",
+        "5.2 L/min"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac output = SV × HR = 0.07 L × 80 = 5.6 L/min.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "Which sequence correctly describes the events of one cardiac cycle?",
+      "options": [
+        "Atrial systole → Ventricular ejection → Isovolumetric contraction → Isovolumetric relaxation → Ventricular filling",
+        "Isovolumetric contraction → Atrial systole → Ventricular ejection → Isovolumetric relaxation → Ventricular filling",
+        "Atrial systole → Isovolumetric contraction → Ventricular ejection → Isovolumetric relaxation → Ventricular filling",
+        "Ventricular ejection → Atrial systole → Isovolumetric contraction → Isovolumetric relaxation → Ventricular filling"
+      ],
+      "answer": 2,
+      "explanation": "The normal order is atrial systole, isovolumetric contraction, ventricular ejection, isovolumetric relaxation, and ventricular filling.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "During ventricular systole, the pressure in the left atrium is:",
+      "options": [
+        "Higher than left ventricle",
+        "Lower than left ventricle",
+        "Equal to left ventricle",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "When the left ventricle contracts, the AV (mitral) valve is closed, so left‑atrial pressure remains lower than the rapidly rising left‑ventricular pressure.",
+      "topic": "Cardiac cycle"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does atrial systole occur?",
+      "options": [
+        "Isovolumetric contraction",
+        "Ventricular ejection",
+        "Late ventricular diastole",
+        "Rapid ventricular filling"
+      ],
+      "answer": 2,
+      "explanation": "Atrial systole takes place in late ventricular diastole, after rapid filling and before the onset of ventricular systole.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "Which ECG wave directly represents the atrial depolarization that initiates atrial systole?",
+      "options": [
+        "P wave",
+        "QRS complex",
+        "T wave",
+        "U wave"
+      ],
+      "answer": 0,
+      "explanation": "The P wave on the ECG corresponds to atrial depolarization, which triggers atrial contraction (atrial systole).",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "Approximately what percentage of the ventricular end‑diastolic volume is contributed by the atrial kick in a normal adult?",
+      "options": [
+        "5‑10 %",
+        "15‑20 %",
+        "30‑35 %",
+        "45‑50 %"
+      ],
+      "answer": 1,
+      "explanation": "The atrial contraction adds about 15‑20 % to ventricular filling, known as the atrial kick.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "During atrial systole, which heart valves are open to allow blood flow into the ventricles?",
+      "options": [
+        "Aortic and pulmonary valves",
+        "Tricuspid and mitral valves",
+        "Pulmonary and mitral valves",
+        "Aortic and tricuspid valves"
+      ],
+      "answer": 1,
+      "explanation": "When the atria contract, the atrioventricular (AV) valves—tricuspid on the right and mitral on the left—are open, permitting blood to flow into the ventricles.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "Loss of atrial systole, as seen in atrial fibrillation, most directly reduces which cardiac parameter?",
+      "options": [
+        "Heart rate",
+        "Stroke volume",
+        "Systemic vascular resistance",
+        "Pulmonary capillary pressure"
+      ],
+      "answer": 1,
+      "explanation": "Absence of the atrial kick diminishes ventricular filling, leading to a lower stroke volume and consequently reduced cardiac output.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "In the left‑ventricular pressure‑volume loop, the segment representing atrial systole is best described as:",
+      "options": [
+        "A vertical line at constant volume",
+        "A horizontal line at constant pressure",
+        "A slight upward slope during late diastole",
+        "A steep upward slope during isovolumetric contraction"
+      ],
+      "answer": 2,
+      "explanation": "Atrial systole causes a modest increase in ventricular pressure while volume remains nearly constant, appearing as a slight upward slope in the late‑diastolic portion of the loop.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "Which statement about atrial systole is FALSE?",
+      "options": [
+        "It follows the P wave on the ECG",
+        "It contributes to ventricular filling after the AV valves open",
+        "It occurs simultaneously with ventricular systole",
+        "It increases left ventricular end‑diastolic volume"
+      ],
+      "answer": 2,
+      "explanation": "Atrial systole occurs before ventricular systole; the two events are not simultaneous.",
+      "topic": "Atrial systole"
+    },
+    {
+      "question": "Which valves are open during ventricular systole?",
+      "options": [
+        "Mitral and tricuspid valves",
+        "Aortic and pulmonary semilunar valves",
+        "Pulmonary and tricuspid valves",
+        "Aortic and mitral valves"
+      ],
+      "answer": 1,
+      "explanation": "During ventricular systole the atrioventricular (mitral and tricuspid) valves close and the semilunar valves (aortic and pulmonary) open to allow ejection of blood.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "The first heart sound (S1) is primarily produced by the closure of which valves?",
+      "options": [
+        "Aortic and pulmonary semilunar valves",
+        "Mitral and tricuspid valves",
+        "Pulmonary and aortic valves",
+        "Tricuspid and pulmonary valves"
+      ],
+      "answer": 1,
+      "explanation": "S1 occurs at the onset of ventricular systole when the atrioventricular valves (mitral and tricuspid) snap shut, preventing backflow into the atria.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "In the isovolumetric contraction phase of ventricular systole, which statement is true?",
+      "options": [
+        "Ventricular pressure rises rapidly while volume remains constant",
+        "Ventricular volume increases while pressure remains constant",
+        "Both pressure and volume increase",
+        "Both pressure and volume remain constant"
+      ],
+      "answer": 0,
+      "explanation": "Isovolumetric contraction is the brief period after AV‑valve closure when the ventricles contract, raising pressure sharply but with no change in volume because all valves are closed.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "An increase in afterload during ventricular systole will most likely cause:",
+      "options": [
+        "Increased stroke volume",
+        "Decreased stroke volume",
+        "Increased ejection fraction",
+        "No change in stroke volume"
+      ],
+      "answer": 1,
+      "explanation": "Afterload is the resistance the ventricle must overcome; a higher afterload opposes ejection, reducing the volume of blood expelled (stroke volume).",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "At rest, ventricular systole occupies approximately what fraction of the cardiac cycle?",
+      "options": [
+        "~1/4",
+        "~1/3",
+        "~1/2",
+        "~2/3"
+      ],
+      "answer": 1,
+      "explanation": "In a normal resting heart, systole (including isovolumetric contraction and ejection) lasts about one‑third of the total cardiac cycle, while diastole occupies the remaining two‑thirds.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "During ventricular systole, the pressure in the left ventricle:",
+      "options": [
+        "Rises from ~5 mmHg to >120 mmHg",
+        "Falls from ~120 mmHg to ~5 mmHg",
+        "Remains constant at ~80 mmHg",
+        "Fluctuates between 80 and 100 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Left‑ventricular pressure rapidly increases from a low diastolic value (~5 mmHg) to a peak systolic value exceeding 120 mmHg to open the aortic valve and eject blood.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "During ventricular systole, the interventricular septum moves:",
+      "options": [
+        "Towards the left ventricle",
+        "Towards the right ventricle",
+        "Remains stationary",
+        "Upward towards the atria"
+      ],
+      "answer": 1,
+      "explanation": "Because left‑ventricular pressure is higher than right‑ventricular pressure, the septum bows toward the right ventricle during systole, aiding right‑ventricular ejection.",
+      "topic": "Ventricular systole"
+    },
+    {
+      "question": "Which valves are open during joint diastole?",
+      "options": [
+        "Atrioventricular (tricuspid & mitral) valves",
+        "Semilunar (aortic & pulmonary) valves",
+        "Both atrioventricular and semilunar valves",
+        "No valves are open"
+      ],
+      "answer": 0,
+      "explanation": "During joint diastole the ventricles and atria are relaxed, so the atrioventricular (AV) valves open to allow passive filling while the semilunar valves remain closed.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "During joint diastole, ventricular pressure is ____ atrial pressure.",
+      "options": [
+        "higher than",
+        "equal to",
+        "lower than",
+        "fluctuating around"
+      ],
+      "answer": 2,
+      "explanation": "When both chambers relax, ventricular pressure falls below atrial pressure, creating a pressure gradient that opens the AV valves for ventricular filling.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "What is the primary mechanism of ventricular filling during joint diastole?",
+      "options": [
+        "Active contraction of the atria",
+        "Passive flow due to pressure gradient",
+        "Neural stimulation of the AV valves",
+        "Blood pumped by coronary arteries"
+      ],
+      "answer": 1,
+      "explanation": "In joint diastole ventricular filling occurs mainly passively as blood moves from the atria to the ventricles because ventricular pressure is lower than atrial pressure.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "Approximately what proportion of the cardiac cycle is occupied by joint diastole at rest?",
+      "options": [
+        "10%",
+        "25%",
+        "50%",
+        "66%"
+      ],
+      "answer": 3,
+      "explanation": "At normal resting heart rates, diastole (including joint diastole) occupies about two‑thirds (~66%) of the total cardiac cycle, allowing adequate ventricular filling.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "The \"dub\" heart sound corresponds to closure of which valves at the onset of joint diastole?",
+      "options": [
+        "Tricuspid and mitral valves",
+        "Aortic and pulmonary semilunar valves",
+        "Both atrioventricular and semilunar valves",
+        "No valves close at that moment"
+      ],
+      "answer": 1,
+      "explanation": "The second heart sound (dub) is produced by the simultaneous closure of the aortic and pulmonary semilunar valves, marking the beginning of diastole.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "During joint diastole, blood enters the right atrium from which vessels?",
+      "options": [
+        "Pulmonary veins",
+        "Aorta",
+        "Superior and inferior vena cava",
+        "Coronary sinus"
+      ],
+      "answer": 2,
+      "explanation": "While the heart is in joint diastole, systemic venous return from the superior and inferior vena cava flows into the right atrium.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "Stroke volume is most directly influenced by which volume achieved during joint diastole?",
+      "options": [
+        "End‑systolic volume",
+        "End‑diastolic volume",
+        "Stroke volume itself",
+        "Ejection fraction"
+      ],
+      "answer": 1,
+      "explanation": "End‑diastolic volume, attained during joint diastole, determines the preload and thus has a major impact on the amount of blood ejected as stroke volume.",
+      "topic": "Joint diastole"
+    },
+    {
+      "question": "Which heart sound is produced by the closure of the atrioventricular (AV) valves?",
+      "options": [
+        "Closure of the semilunar valves",
+        "Closure of the atrioventricular valves",
+        "Turbulent flow across the mitral valve during systole",
+        "Opening of the aortic valve"
+      ],
+      "answer": 1,
+      "explanation": "The first heart sound (S1) is generated by the sudden closure of the AV valves (tricuspid and mitral) at the onset of ventricular systole.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "At which point in the cardiac cycle does the second heart sound (S2) occur?",
+      "options": [
+        "At the end of ventricular systole, when the semilunar valves close",
+        "During mid‑ventricular systole",
+        "At the beginning of atrial systole",
+        "During mid diastole"
+      ],
+      "answer": 0,
+      "explanation": "S2 marks the closure of the aortic and pulmonary semilunar valves, which happens at the end of ventricular systole and the start of diastole.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "The physiological splitting of the second heart sound (S2) is best heard in which auscultatory area?",
+      "options": [
+        "Apex of the heart (5th left intercostal space, mid‑clavicular line)",
+        "Left 2nd intercostal space just lateral to the sternum",
+        "Right 5th intercostal space at the mid‑clavicular line",
+        "Suprasternal notch"
+      ],
+      "answer": 1,
+      "explanation": "Splitting of S2 is most evident at the left upper sternal border (left 2nd intercostal space) because the aortic and pulmonary components are spatially separated there.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "Which extra heart sound is considered normal in children and young adults?",
+      "options": [
+        "Third heart sound (S3)",
+        "Fourth heart sound (S4)",
+        "Opening snap of the mitral valve",
+        "Pericardial knock"
+      ],
+      "answer": 0,
+      "explanation": "A physiological S3, produced by rapid ventricular filling, is commonly heard in children and healthy young adults and is not pathological.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "During inspiration, the intensity of which component of the second heart sound (S2) increases?",
+      "options": [
+        "Aortic component (A2)",
+        "Pulmonary component (P2)",
+        "Both components increase equally",
+        "Neither component changes"
+      ],
+      "answer": 1,
+      "explanation": "Inspiration increases venous return to the right heart, delaying pulmonary valve closure; consequently, the pulmonary component (P2) becomes louder relative to A2.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "A prominent fourth heart sound (S4) is most commonly associated with which cardiac condition?",
+      "options": [
+        "Mitral regurgitation",
+        "Left ventricular hypertrophy",
+        "Atrial septal defect",
+        "Pulmonary hypertension"
+      ],
+      "answer": 1,
+      "explanation": "S4 results from atrial contraction forcing blood into a stiff, non‑compliant left ventricle, a finding typical of left ventricular hypertrophy.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "The optimal site to auscultate the first heart sound (S1) is:",
+      "options": [
+        "Erb's point (3rd left intercostal space)",
+        "Apex of the heart (5th left intercostal space, mid‑clavicular line)",
+        "Base of the heart (2nd left intercostal space)",
+        "Suprasternal notch"
+      ],
+      "answer": 1,
+      "explanation": "S1 is loudest at the cardiac apex where the mitral valve closure generates maximal vibration, making the 5th left intercostal space the best site.",
+      "topic": "Heart sounds"
+    },
+    {
+      "question": "The first heart sound, commonly described as 'lub', is produced by which of the following events?",
+      "options": [
+        "Closure of the atrioventricular (tricuspid and mitral) valves",
+        "Closure of the semilunar (aortic and pulmonary) valves",
+        "Opening of the atrioventricular valves",
+        "Opening of the semilunar valves"
+      ],
+      "answer": 0,
+      "explanation": "S1 ('lub') occurs when the mitral and tricuspid valves close at the onset of ventricular systole, preventing backflow into the atria.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "The second heart sound, known as 'dub', primarily results from the closure of which valves?",
+      "options": [
+        "Aortic and pulmonary semilunar valves",
+        "Mitral and tricuspid atrioventricular valves",
+        "Opening of the aortic valve",
+        "Opening of the mitral valve"
+      ],
+      "answer": 0,
+      "explanation": "S2 ('dub') is produced by the closure of the aortic and pulmonary valves at the end of ventricular systole, marking the beginning of diastole.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "During which phase of the cardiac cycle does the 'lub' sound occur?",
+      "options": [
+        "At the onset of ventricular systole (end of ventricular diastole)",
+        "Mid‑ventricular systole",
+        "At the end of ventricular systole",
+        "Mid‑ventricular diastole"
+      ],
+      "answer": 0,
+      "explanation": "The 'lub' (S1) is heard when ventricular pressure exceeds atrial pressure, causing the AV valves to close, which marks the start of ventricular systole.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "Which statement correctly describes the physiological splitting of the second heart sound (S2) during inspiration?",
+      "options": [
+        "Inspiration delays closure of the pulmonic valve, widening the split between aortic and pulmonic components",
+        "Inspiration advances closure of the aortic valve, narrowing the split",
+        "Physiological splitting disappears during inspiration",
+        "Splitting of S2 is always pathological and unrelated to respiration"
+      ],
+      "answer": 0,
+      "explanation": "Inspiration increases right‑ventricular filling, prolonging right‑ventricular ejection and delaying pulmonic valve closure, thus widening the normal split of S2.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "The time interval between the 'lub' and the 'dub' corresponds to which part of the cardiac cycle?",
+      "options": [
+        "Ventricular systole",
+        "Ventricular diastole",
+        "Atrial systole",
+        "Isovolumetric relaxation"
+      ],
+      "answer": 0,
+      "explanation": "The interval from S1 to S2 encompasses the period of ventricular contraction and ejection, i.e., ventricular systole.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "In a healthy adult with a heart rate of 70 beats per minute, the approximate duration between the 'lub' and the 'dub' is:",
+      "options": [
+        "0.3 seconds",
+        "0.5 seconds",
+        "0.7 seconds",
+        "1.0 seconds"
+      ],
+      "answer": 0,
+      "explanation": "At 70 bpm the cardiac cycle is about 0.86 s; ventricular systole (S1–S2) occupies roughly one‑third of the cycle, ≈0.3 s.",
+      "topic": "Lub and dub"
+    },
+    {
+      "question": "Stroke volume refers to which of the following?",
+      "options": [
+        "Volume of blood ejected by the left ventricle in one contraction",
+        "Volume of blood in the left atrium at the end of diastole",
+        "Total blood volume in the systemic circulation",
+        "Amount of blood returning to the heart per minute"
+      ],
+      "answer": 0,
+      "explanation": "Stroke volume is the amount of blood pumped out of the left ventricle into the aorta during each systolic contraction.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "If the end‑diastolic volume (EDV) is 120 mL and the end‑systolic volume (ESV) is 50 mL, what is the stroke volume?",
+      "options": [
+        "70 mL",
+        "170 mL",
+        "60 mL",
+        "120 mL"
+      ],
+      "answer": 0,
+      "explanation": "Stroke volume = EDV – ESV = 120 mL – 50 mL = 70 mL.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "A resting adult has a heart rate of 70 beats min⁻¹ and a cardiac output of 5 L min⁻¹. What is the stroke volume?",
+      "options": [
+        "70 mL",
+        "5 mL",
+        "350 mL",
+        "0.07 mL"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac output = Stroke volume × Heart rate; therefore Stroke volume = 5 L min⁻¹ / 70 min⁻¹ ≈ 0.071 L ≈ 70 mL.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "Which physiological change is most likely to increase stroke volume?",
+      "options": [
+        "Increased afterload",
+        "Decreased preload",
+        "Increased contractility",
+        "Decreased heart rate"
+      ],
+      "answer": 2,
+      "explanation": "Enhanced myocardial contractility raises the amount of blood ejected per beat, thereby increasing stroke volume.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "The average normal stroke volume in a healthy adult is approximately:",
+      "options": [
+        "10 mL",
+        "30 mL",
+        "70 mL",
+        "150 mL"
+      ],
+      "answer": 2,
+      "explanation": "In a typical adult, stroke volume is about 60–80 mL per beat; 70 mL is the commonly quoted average.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "An acute rise in systemic vascular resistance primarily affects stroke volume by:",
+      "options": [
+        "Increasing it",
+        "Decreasing it",
+        "No change",
+        "Causing arrhythmia"
+      ],
+      "answer": 1,
+      "explanation": "Higher afterload (systemic vascular resistance) makes ejection harder, reducing the volume of blood expelled per beat.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "Ejection fraction (EF) is the ratio of stroke volume to end‑diastolic volume. If EDV = 120 mL and SV = 70 mL, the EF is:",
+      "options": [
+        "58 %",
+        "70 %",
+        "85 %",
+        "120 %"
+      ],
+      "answer": 0,
+      "explanation": "EF = (SV/EDV) × 100 = (70/120) × 100 ≈ 58 %.",
+      "topic": "Stroke volume"
+    },
+    {
+      "question": "Cardiac output (CO) is defined as the product of which two parameters?",
+      "options": [
+        "Stroke volume and heart rate",
+        "Stroke volume divided by heart rate",
+        "Heart rate divided by stroke volume",
+        "Average of stroke volume and heart rate"
+      ],
+      "answer": 0,
+      "explanation": "CO = Stroke Volume (SV) × Heart Rate (HR); it represents the volume of blood pumped by the heart per minute.",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "What is the approximate normal resting cardiac output in a healthy adult?",
+      "options": [
+        "2 L/min",
+        "5 L/min",
+        "8 L/min",
+        "12 L/min"
+      ],
+      "answer": 1,
+      "explanation": "At rest, an adult typically pumps about 5 L of blood per minute (CO ≈ 5 L/min).",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "Which of the following does NOT directly influence stroke volume, a determinant of cardiac output?",
+      "options": [
+        "Preload",
+        "Afterload",
+        "Myocardial contractility",
+        "Blood viscosity"
+      ],
+      "answer": 3,
+      "explanation": "Preload, afterload, and contractility directly affect SV; blood viscosity influences peripheral resistance but not SV directly.",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "During vigorous exercise, cardiac output can rise to approximately:",
+      "options": [
+        "20 L/min",
+        "30 L/min",
+        "40 L/min",
+        "50 L/min"
+      ],
+      "answer": 0,
+      "explanation": "Intense exercise can increase CO to about 20–25 L/min in trained individuals, far above the resting value.",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "If heart rate doubles from 70 bpm to 140 bpm while stroke volume stays at 70 mL, what is the new cardiac output?",
+      "options": [
+        "4.9 L/min",
+        "9.8 L/min",
+        "14.7 L/min",
+        "19.6 L/min"
+      ],
+      "answer": 1,
+      "explanation": "CO = SV × HR = 0.07 L × 140 bpm = 9.8 L/min.",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "Which statement correctly describes afterload?",
+      "options": [
+        "It is the resistance the ventricle must overcome to eject blood",
+        "It is the volume of blood returning to the heart during diastole",
+        "It is the intrinsic ability of cardiac muscle to contract",
+        "It is the number of heartbeats per minute"
+      ],
+      "answer": 0,
+      "explanation": "Afterload refers to the arterial pressure or systemic vascular resistance that the ventricle must overcome during systole.",
+      "topic": "Cardiac output"
+    },
+    {
+      "question": "A patient has a stroke volume of 50 mL and a heart rate of 80 bpm. Which intervention would most likely increase cardiac output without altering heart rate?",
+      "options": [
+        "Increase venous return (preload)",
+        "Decrease myocardial contractility",
+        "Increase afterload",
+        "Administer a beta‑blocker"
+      ],
+      "answer": 0,
+      "explanation": "Increasing venous return raises preload, which enhances stroke volume (Frank‑Starling mechanism) and thus raises CO while HR remains unchanged.",
+      "topic": "Cardiac output"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 30,
+    "mcqCount": 209
+  }
+}

@@ -1,0 +1,1868 @@
+{
+  "day": 50,
+  "courseDate": "2026-10-18",
+  "publishAt": "2026-10-18T06:00:00+05:30",
+  "title": "Day 50: Integrated Revision of Transport in Plants",
+  "introduction": "This lesson provides a concise, NEET‑focused revision of all concepts related to transport in plants, linking fundamentals to high‑yield exam applications.",
+  "sections": [
+    {
+      "topic": "Complete transport-in-plants revision",
+      "heading": "Overall Overview of Plant Transport",
+      "content": "Plant transport comprises water movement through the xylem and solute movement through the phloem, driven by gradients in water potential, pressure, and concentration. The two major pathways—apoplastic and symplastic—operate in roots, stems and leaves, integrating root pressure, transpiration pull, and the pressure‑flow mechanism to sustain growth and metabolism.",
+      "keyPoints": [
+        "Xylem transports water and minerals; phloem transports organic solutes",
+        "Water movement follows water potential gradient (Ψw)",
+        "Apoplast = cell wall continuum; symplast = cytoplasmic continuum via plasmodesmata"
+      ],
+      "neetTips": [
+        "Memorise the direction of flow in xylem (upward) vs phloem (bidirectional)",
+        "Link each transport driver (root pressure, transpiration pull, pressure flow) to its physiological context"
+      ]
+    },
+    {
+      "topic": "Diffusion and osmosis comparison",
+      "heading": "Diffusion vs Osmosis",
+      "content": "Diffusion is the net movement of solute molecules from higher to lower concentration without a semipermeable membrane, whereas osmosis is the diffusion of water across a semipermeable membrane driven by water potential difference. Both are passive processes, but osmosis always involves water and a membrane.",
+      "keyPoints": [
+        "Diffusion: solute movement, no membrane required",
+        "Osmosis: water movement, requires semipermeable membrane",
+        "Both are driven by concentration/water potential gradients"
+      ],
+      "neetTips": [
+        "Remember: Osmosis = diffusion of water only"
+      ]
+    },
+    {
+      "topic": "Water potential application",
+      "heading": "Applying Water Potential (Ψw)",
+      "content": "Water potential (Ψw) = Ψs + Ψp, where Ψs is solute potential (negative) and Ψp is pressure potential (positive). Water moves from regions of higher (less negative) Ψw to lower (more negative) Ψw. In roots, Ψs is low due to mineral uptake, creating a gradient that draws water upward.",
+      "keyPoints": [
+        "Ψw = Ψs + Ψp",
+        "Water moves from higher to lower Ψw",
+        "Root cells have low Ψs, high Ψp (turgor)"
+      ],
+      "neetTips": [
+        "When solving numerical problems, calculate Ψs = -iCRT and add any turgor pressure"
+      ]
+    },
+    {
+      "topic": "Plasmolysis and turgidity",
+      "heading": "Plasmolysis vs Turgidity",
+      "content": "Plasmolysis occurs when plant cells lose water in a hypertonic environment, causing the plasma membrane to detach from the cell wall. Turgidity is the opposite—water influx in a hypotonic medium generates turgor pressure that pushes the membrane against the wall, maintaining rigidity.",
+      "keyPoints": [
+        "Plasmolysis: membrane pulls away, cell becomes flaccid",
+        "Turgidity: membrane pressed against wall, cell firm"
+      ],
+      "neetTips": [
+        "Link plasmolysis to loss of turgor in wilting plants"
+      ]
+    },
+    {
+      "topic": "Apoplast and symplast pathways",
+      "heading": "Apoplastic vs Symplastic Transport",
+      "content": "The apoplastic pathway follows the cell wall continuum and intercellular spaces, bypassing membranes, while the symplastic pathway moves through the cytoplasm interconnected by plasmodesmata. In roots, water initially follows the apoplast until the Casparian strip forces entry into the symplast.",
+      "keyPoints": [
+        "Apoplast: cell walls, no membrane crossing",
+        "Symplast: cytoplasm, plasmodesmata",
+        "Casparian strip blocks apoplastic flow, forces symplastic entry"
+      ],
+      "neetTips": [
+        "NEET often asks which pathway is blocked by the Casparian strip"
+      ]
+    },
+    {
+      "topic": "Root pressure and guttation",
+      "heading": "Root Pressure & Guttation",
+      "content": "Root pressure develops when active uptake of ions into the xylem lowers Ψs, causing water to enter osmotically and generate a positive pressure (up to 0.5 MPa). This pressure can exude water droplets (guttation) from leaf margins during low transpiration conditions.",
+      "keyPoints": [
+        "Root pressure = osmotic entry of water into xylem",
+        "Positive pressure pushes water upward",
+        "Guttation occurs when transpiration is minimal"
+      ],
+      "neetTips": [
+        "Remember guttation occurs at night or high humidity, not to be confused with transpiration"
+      ]
+    },
+    {
+      "topic": "Transpiration and transpiration pull",
+      "heading": "Transpiration & Transpiration Pull",
+      "content": "Transpiration is the loss of water vapor from stomata, creating a negative pressure (tension) in the leaf xylem. This tension pulls water upward through the continuous water column—a process termed transpiration pull.",
+      "keyPoints": [
+        "Transpiration creates negative pressure in leaf xylem",
+        "Transpiration pull = tension-driven upward movement",
+        "Rate depends on stomatal aperture, humidity, temperature"
+      ],
+      "neetTips": [
+        "Link high transpiration rates to increased leaf temperature and low humidity"
+      ]
+    },
+    {
+      "topic": "Cohesion-tension theory",
+      "heading": "Cohesion‑Tension Theory",
+      "content": "The cohesion‑tension theory explains how water ascends in the xylem: cohesion between water molecules and adhesion to vessel walls transmit the tension generated by transpiration throughout the column, preventing cavitation under normal conditions.",
+      "keyPoints": [
+        "Cohesion: water‑water hydrogen bonds",
+        "Adhesion: water‑wall attraction",
+        "Tension transmitted without breakage"
+      ],
+      "neetTips": [
+        "NEET often asks why water can rise >100 m—cite cohesion‑tension"
+      ]
+    },
+    {
+      "topic": "Stomatal regulation",
+      "heading": "Regulation of Stomatal Aperture",
+      "content": "Stomata open in response to blue light, low internal CO₂, and high turgor in guard cells (K⁺ influx, water entry). They close under high CO₂, abscisic acid (ABA) signaling, drought, or darkness (K⁺ efflux, loss of turgor).",
+      "keyPoints": [
+        "Blue light activates H⁺‑ATPase → K⁺ uptake → opening",
+        "ABA triggers K⁺ efflux → closure",
+        "Guard cell turgor dictates aperture"
+      ],
+      "neetTips": [
+        "Link ABA to drought‑induced stomatal closure"
+      ]
+    },
+    {
+      "topic": "Xylem structure and transport",
+      "heading": "Xylem Anatomy and Function",
+      "content": "Xylem consists of tracheids (long, tapered cells with pits) and vessel elements (short, wide tubes with perforation plates). Both are dead at maturity, forming a continuous, lignified conduit for unidirectional water transport from roots to shoots.",
+      "keyPoints": [
+        "Tracheids: narrow, pits, support",
+        "Vessels: wide, perforations, high conductivity",
+        "Both lack protoplasm, rely on cohesion‑tension"
+      ],
+      "neetTips": [
+        "NEET may ask which element provides greater hydraulic conductivity—vessels"
+      ]
+    },
+    {
+      "topic": "Phloem structure and transport",
+      "heading": "Phloem Anatomy and Function",
+      "content": "Phloem comprises sieve‑tube elements (living, lack nucleus, contain sieve plates) and companion cells (metabolically active). Together they transport photosynthates from source (leaves) to sink (roots, fruits) via pressure‑flow.",
+      "keyPoints": [
+        "Sieve tubes: porous end walls (sieve plates)",
+        "Companion cells: load/unload sugars",
+        "Transport is bidirectional"
+      ],
+      "neetTips": [
+        "Remember that phloem transport is driven by osmotic pressure differences"
+      ]
+    },
+    {
+      "topic": "Pressure-flow hypothesis",
+      "heading": "Pressure‑Flow (Mass‑Flow) Hypothesis",
+      "content": "At source tissues, sucrose loading lowers Ψs, causing water influx and raising turgor pressure (high Ψp). At sinks, sucrose unloading raises Ψs, water exits, lowering pressure. The resulting pressure gradient drives bulk flow of phloem sap.",
+      "keyPoints": [
+        "Source: high pressure, sucrose loading",
+        "Sink: low pressure, sucrose unloading",
+        "Flow direction follows pressure gradient"
+      ],
+      "neetTips": [
+        "NEET often asks why phloem flow can be both upward and downward"
+      ]
+    },
+    {
+      "topic": "Source-sink relationship",
+      "heading": "Source‑Sink Dynamics",
+      "content": "Sources are mature photosynthetic tissues exporting assimilates; sinks are growing or storage organs importing them. The strength of a sink depends on its metabolic demand and ability to maintain low Ψs, influencing overall translocation rates.",
+      "keyPoints": [
+        "Source: leaves, high photosynthesis",
+        "Sink: roots, fruits, tubers, growing buds",
+        "Sink strength = demand × low Ψs"
+      ],
+      "neetTips": [
+        "Link sink strength to fruit size and yield in exam scenarios"
+      ]
+    },
+    {
+      "topic": "Mineral absorption",
+      "heading": "Mineral Uptake by Roots",
+      "content": "Minerals enter root cells via active transport (e.g., H⁺‑ATPase creates electrochemical gradient) or passive channels. Once inside, they move symplastically to the xylem, often coupled with water flow driven by transpiration pull.",
+      "keyPoints": [
+        "H⁺‑ATPase establishes gradient for cation uptake",
+        "Passive channels allow anion influx",
+        "Minerals hitchhike with water in xylem"
+      ],
+      "neetTips": [
+        "Remember that nitrate uptake is often via H⁺ symport"
+      ]
+    },
+    {
+      "topic": "Active and passive transport",
+      "heading": "Active vs Passive Transport Mechanisms",
+      "content": "Passive transport includes diffusion, facilitated diffusion, and osmosis—no energy required. Active transport uses ATP or ion gradients (primary or secondary) to move substances against their concentration gradient, essential for nutrient uptake and ion homeostasis.",
+      "keyPoints": [
+        "Passive: down gradient, no ATP",
+        "Active primary: ATP‑driven pumps (e.g., H⁺‑ATPase)",
+        "Active secondary: uses existing gradient (symport/antiport)"
+      ],
+      "neetTips": [
+        "NEET may ask which transport is used for K⁺ uptake in roots—primary active"
+      ]
+    },
+    {
+      "topic": "NCERT diagrams",
+      "heading": "Key NCERT Diagrams to Remember",
+      "content": "Important diagrams include: (1) Xylem and phloem cross‑section of a stem, (2) Water potential diagram showing Ψs and Ψp components, (3) Stomatal opening mechanism with guard cell ion fluxes, (4) Pressure‑flow model illustrating source‑sink pressure gradient.",
+      "keyPoints": [
+        "Stem cross‑section: label tracheids, vessels, sieve tubes, companion cells",
+        "Water potential diagram: Ψw = Ψs + Ψp",
+        "Stomatal diagram: H⁺‑ATPase, K⁺ influx"
+      ],
+      "neetTips": [
+        "Practice redrawing these diagrams; NEET often asks line‑based questions"
+      ]
+    },
+    {
+      "topic": "Concept-based numerical reasoning",
+      "heading": "Numerical Problems on Transport",
+      "content": "Typical calculations involve water potential (Ψs = –iCRT), root pressure magnitude, or pressure differences required for phloem flow. Apply the formula ΔP = RTΔC for osmotic pressure and use Ψw gradients to predict water movement direction.",
+      "keyPoints": [
+        "Ψs = –iCRT (i = van’t Hoff factor)",
+        "Root pressure ≈ osmotic pressure of xylem sap",
+        "Phloem flow pressure ≈ ΔΨp between source and sink"
+      ],
+      "neetTips": [
+        "Convert all units to SI before plugging into formulas"
+      ]
+    },
+    {
+      "topic": "Common NEET traps",
+      "heading": "Frequent Pitfalls in Transport Questions",
+      "content": "Mistakes include confusing apoplastic vs symplastic routes, mixing up root pressure with transpiration pull, assuming phloem flow is unidirectional, and overlooking the role of the Casparian strip. Also, misreading water potential signs leads to wrong direction predictions.",
+      "keyPoints": [
+        "Apoplast blocked by Casparian strip",
+        "Root pressure ≠ transpiration pull",
+        "Phloem flow can be bidirectional",
+        "Sign of Ψs is negative"
+      ],
+      "neetTips": [
+        "Read the question stem carefully for direction cues"
+      ]
+    },
+    {
+      "topic": "Integrated practice",
+      "heading": "Integrated Revision Practice",
+      "content": "Combine concepts: Analyze a scenario where a plant experiences drought, high temperature, and high soil salinity. Predict changes in Ψw, stomatal behavior, root pressure, and phloem loading. Use the cohesion‑tension theory to explain reduced transpiration pull and increased risk of cavitation.",
+      "keyPoints": [
+        "Drought → lower Ψw, stomatal closure, reduced transpiration pull",
+        "Salinity → more negative Ψs, higher osmotic uptake cost",
+        "High temperature → increased transpiration rate if stomata open"
+      ],
+      "neetTips": [
+        "Link each environmental factor to at least two transport mechanisms for full marks"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Recall the structure and function of xylem and phloem",
+    "Differentiate between apoplastic and symplastic pathways",
+    "Apply water potential concepts to predict water movement",
+    "Explain the cohesion‑tension theory and pressure‑flow hypothesis",
+    "Identify common NEET traps and avoid them in answer writing"
+  ],
+  "mcqs": [
+    {
+      "question": "A plant cell has a solute potential of –0.35 MPa and a pressure potential of +0.15 MPa. What is the water potential of the cell?",
+      "options": [
+        "-0.20 MPa",
+        "-0.50 MPa",
+        "0.20 MPa",
+        "0.50 MPa"
+      ],
+      "answer": 0,
+      "explanation": "Water potential (ψ) = solute potential (ψs) + pressure potential (ψp). Thus ψ = –0.35 MPa + 0.15 MPa = –0.20 MPa.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "Which of the following correctly describes the apoplast pathway for mineral ion movement in roots?",
+      "options": [
+        "Movement through the cytoplasm connected by plasmodesmata",
+        "Movement across the plasma membrane into the symplast",
+        "Movement through cell walls and intercellular spaces without crossing membranes",
+        "Active transport via carrier proteins in the plasma membrane"
+      ],
+      "answer": 2,
+      "explanation": "In the apoplast pathway, solutes travel extracellularly through cell walls and intercellular spaces, never crossing a membrane.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, which factor does NOT directly influence the magnitude of the transpiration pull?",
+      "options": [
+        "Cohesive forces between water molecules",
+        "Diameter of xylem vessels",
+        "Stomatal aperture",
+        "Root pressure"
+      ],
+      "answer": 3,
+      "explanation": "Root pressure is a separate mechanism that can push water upward but does not affect the tension generated by transpiration pull.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "In the pressure‑flow hypothesis, sugars move from source to sink because:",
+      "options": [
+        "Higher hydrostatic pressure at the sink draws sugars",
+        "Higher solute concentration at the source creates an osmotic gradient",
+        "Active loading at the sink pushes sugars upward",
+        "Transpirational pull in the phloem"
+      ],
+      "answer": 1,
+      "explanation": "Loading of sugars at the source raises its osmotic potential, causing water influx, raising turgor pressure, and driving bulk flow toward the sink where pressure is lower.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "Guttation is most likely to be observed when:",
+      "options": [
+        "Transpiration rate is high and soil moisture is low",
+        "Transpiration rate is low, humidity is high, and soil moisture is abundant",
+        "Stomata are fully open during midday",
+        "Root pressure is absent"
+      ],
+      "answer": 1,
+      "explanation": "Guttation occurs when transpiration is minimal (high humidity, low light) but root pressure is high, forcing water out through hydathodes.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "During plasmolysis, the plant cell's protoplast:",
+      "options": [
+        "Swells and becomes turgid",
+        "Detaches from the cell wall and shrinks",
+        "Remains unchanged while the cell wall expands",
+        "Lyses due to excess water intake"
+      ],
+      "answer": 1,
+      "explanation": "In a hypertonic external solution, water leaves the cell, the protoplast contracts and pulls away from the rigid cell wall.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "Which plant hormone is primarily responsible for stomatal closure during drought stress?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "answer": 2,
+      "explanation": "Abscisic acid (ABA) accumulates under water deficit and triggers guard‑cell signaling that closes stomata to conserve water.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "Which statement correctly distinguishes xylem vessels from tracheids?",
+      "options": [
+        "Vessels have pits, tracheids lack pits",
+        "Vessels are shorter and have end walls with perforations, tracheids are longer and have tapered ends",
+        "Vessels conduct only water, tracheids conduct both water and sugars",
+        "Vessels are present only in gymnosperms, tracheids only in angiosperms"
+      ],
+      "answer": 1,
+      "explanation": "Vessels are typically short, wide cells with perforated end walls, whereas tracheids are elongated, tapered, and lack perforations, relying on pits for water movement.",
+      "topic": "Complete transport-in-plants revision"
+    },
+    {
+      "question": "Which statement correctly distinguishes diffusion from osmosis?",
+      "options": [
+        "Diffusion is the movement of solute particles from higher to lower concentration, whereas osmosis is the movement of water across a semipermeable membrane from lower to higher water potential.",
+        "Diffusion requires a semipermeable membrane, while osmosis does not require any membrane.",
+        "Diffusion is an active transport process, whereas osmosis is a passive transport process.",
+        "Diffusion occurs only in gases and osmosis only in liquids."
+      ],
+      "answer": 0,
+      "explanation": "Diffusion involves net movement of any solute down its concentration gradient without the need for a membrane, while osmosis specifically refers to the passive movement of water through a semipermeable membrane from a region of higher water potential to lower water potential.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "When a plant cell is placed in a hypertonic solution, which process primarily causes plasmolysis?",
+      "options": [
+        "Diffusion of solutes into the cell",
+        "Osmosis of water out of the cell",
+        "Active transport of ions out of the cell",
+        "Facilitated diffusion of sugars into the cell"
+      ],
+      "answer": 1,
+      "explanation": "In a hypertonic external solution, water moves out of the cell by osmosis, leading to loss of turgor and separation of the plasma membrane from the cell wall (plasmolysis).",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "The rate of diffusion of a gas across a membrane is directly proportional to which factor?",
+      "options": [
+        "Square root of the gas's molecular weight",
+        "Thickness of the membrane",
+        "Concentration gradient across the membrane",
+        "Difference in water potential"
+      ],
+      "answer": 2,
+      "explanation": "According to Fick's law, the diffusion rate increases with a larger concentration gradient, assuming other factors such as temperature and membrane characteristics remain constant.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "Which statement about water potential (Ψ) is true in the context of osmosis?",
+      "options": [
+        "Water moves from lower Ψ to higher Ψ",
+        "Water moves from higher Ψ to lower Ψ",
+        "Ψ is irrelevant for diffusion of gases",
+        "Ψ is always positive in plant cells"
+      ],
+      "answer": 1,
+      "explanation": "Water always moves spontaneously from a region of higher water potential to a region of lower water potential until equilibrium is reached.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "Two solutions are separated by a semipermeable membrane: Solution A contains 0.2 M sucrose and Solution B contains 0.2 M glucose. What is the net movement of water?",
+      "options": [
+        "No net water movement because solute concentrations are equal",
+        "Water moves from A to B because sucrose molecules are larger",
+        "Water moves from B to A because glucose molecules are smaller",
+        "Water moves equally in both directions due to equal osmotic pressure"
+      ],
+      "answer": 0,
+      "explanation": "Osmotic pressure depends on the total concentration of solute particles, not on their size; equal molar concentrations give equal osmotic pressures, so there is no net water flow.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "Which factor does NOT affect the rate of osmosis across a plant cell membrane?",
+      "options": [
+        "Temperature",
+        "Surface area of the membrane",
+        "Presence of aquaporin channels",
+        "Molecular weight of the solute particles"
+      ],
+      "answer": 3,
+      "explanation": "Osmosis is driven by water potential differences; the molecular weight of the solute influences colligative properties but does not directly alter the rate of water movement across the membrane.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "In comparing diffusion and osmosis, which statement about the role of a semipermeable membrane is accurate?",
+      "options": [
+        "Both diffusion and osmosis require a semipermeable membrane",
+        "Only diffusion requires a semipermeable membrane",
+        "Only osmosis requires a semipermeable membrane",
+        "Neither process requires a membrane"
+      ],
+      "answer": 2,
+      "explanation": "Diffusion can occur in any medium without a membrane, whereas osmosis specifically involves water moving through a semipermeable membrane that blocks solute passage.",
+      "topic": "Diffusion and osmosis comparison"
+    },
+    {
+      "question": "Soil water potential is –0.2 MPa and the water potential of a root cell is –0.4 MPa. In which direction will water move?",
+      "options": [
+        "From soil into the root cell",
+        "From the root cell into the soil",
+        "No net movement of water",
+        "Movement depends on temperature"
+      ],
+      "answer": 0,
+      "explanation": "Water moves from a region of higher (less negative) water potential to lower (more negative) water potential; –0.2 MPa > –0.4 MPa, so water enters the root.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "A plant cell has a solute (osmotic) potential of –0.3 MPa and a pressure potential of +0.5 MPa. What is the overall water potential of the cell?",
+      "options": [
+        "+0.2 MPa",
+        "+0.8 MPa",
+        "–0.2 MPa",
+        "0 MPa"
+      ],
+      "answer": 0,
+      "explanation": "Water potential ψ = ψs + ψp = –0.3 MPa + 0.5 MPa = +0.2 MPa.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "Which condition most directly leads to guttation in a plant?",
+      "options": [
+        "High transpiration rate during the day",
+        "Low atmospheric humidity",
+        "High root pressure combined with high night humidity",
+        "High leaf temperature"
+      ],
+      "answer": 2,
+      "explanation": "Guttation occurs mainly at night when transpiration is low and root pressure builds up, forcing water out through hydathodes.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "In a leaf, the water potential of mesophyll cells is –0.9 MPa while that of guard cells is –0.6 MPa. What is the expected effect on stomatal aperture?",
+      "options": [
+        "Stomata will close because water moves from guard cells to mesophyll",
+        "Stomata will open because water moves into guard cells",
+        "No change in stomatal aperture",
+        "Stomata will open only if light is present"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from higher (less negative) to lower (more negative) potential; it enters guard cells (–0.6 MPa → –0.9 MPa), increasing turgor and opening the stomata.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "A plant cell is placed in 0.2 M sucrose solution (solute potential ≈ –0.5 MPa). If the cell’s pressure potential is +0.3 MPa, what is the net water potential of the cell?",
+      "options": [
+        "–0.2 MPa",
+        "–0.8 MPa",
+        "+0.8 MPa",
+        "0 MPa"
+      ],
+      "answer": 0,
+      "explanation": "ψ = ψs + ψp = –0.5 MPa + 0.3 MPa = –0.2 MPa.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "Which mechanism best explains the ascent of sap in tall trees despite gravity?",
+      "options": [
+        "Root pressure alone",
+        "Cohesion‑tension mechanism",
+        "Capillary action in xylem vessels",
+        "Osmosis across leaf cells"
+      ],
+      "answer": 1,
+      "explanation": "The cohesion‑tension theory describes how transpiration creates a continuous water column pulled upward by cohesion and tension.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "A plant cell in a hypotonic solution has a water potential of –0.1 MPa, while the external solution has –0.4 MPa. What will happen to the cell?",
+      "options": [
+        "It will plasmolyze",
+        "It will gain turgor and become turgid",
+        "No net water movement",
+        "It will lose water and shrink"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from higher (–0.1 MPa) to lower (–0.4 MPa) potential, entering the cell, increasing turgor and making it turgid.",
+      "topic": "Water potential application"
+    },
+    {
+      "question": "What is the primary cause of plasmolysis in a plant cell placed in a hypertonic solution?",
+      "options": [
+        "Influx of water into the cell",
+        "Efflux of water from the cell",
+        "Increase in turgor pressure",
+        "Synthesis of new cell wall material"
+      ],
+      "answer": 1,
+      "explanation": "In a hypertonic solution, the external solute concentration is higher than inside the cell, causing water to move out (efflux) by osmosis, leading to shrinkage of the protoplast (plasmolysis).",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "In a turgid plant cell, the pressure potential (Ψp) is:",
+      "options": [
+        "Zero",
+        "Negative",
+        "Positive",
+        "Equal to the water potential"
+      ],
+      "answer": 2,
+      "explanation": "Turgor pressure develops when water enters the cell, exerting a positive pressure against the cell wall; thus the pressure potential is positive in a turgid cell.",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "Which statement is true regarding reversible plasmolysis?",
+      "options": [
+        "The plasma membrane remains attached to the cell wall after plasmolysis",
+        "The cell wall collapses during plasmolysis",
+        "The protoplast cannot regain its original volume even after transfer to a hypotonic solution",
+        "Reversible plasmolysis occurs only in animal cells"
+      ],
+      "answer": 0,
+      "explanation": "In reversible plasmolysis, the plasma membrane detaches from the wall but stays close enough to reattach when water re-enters; the cell wall itself does not collapse.",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "Guard cells become turgid and open the stomata when placed in a solution with water potential –0.02 MPa, while surrounding epidermal cells have water potential –0.08 MPa. What is the direction of water movement?",
+      "options": [
+        "From guard cells to epidermal cells",
+        "From epidermal cells to guard cells",
+        "No net movement of water",
+        "From both cell types to the apoplast"
+      ],
+      "answer": 0,
+      "explanation": "Water moves from higher (less negative) water potential to lower (more negative) potential; therefore it flows from guard cells (–0.02 MPa) to epidermal cells (–0.08 MPa).",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "Which condition is most likely to cause irreversible plasmolysis in a leaf cell?",
+      "options": [
+        "Exposure to 0.2 M sucrose for 5 min",
+        "Exposure to 0.5 M NaCl for 30 min",
+        "Exposure to distilled water for 10 min",
+        "Exposure to isotonic 0.3 M mannitol for 2 min"
+      ],
+      "answer": 1,
+      "explanation": "A high concentration of NaCl for a prolonged period creates a strong hypertonic environment, leading to extensive loss of water and damage to the plasma membrane, making plasmolysis irreversible.",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "In a turgid plant cell, water potential (Ψw) = –0.03 MPa and solute potential (Ψs) = –0.08 MPa. What is the pressure potential (Ψp)?",
+      "options": [
+        "–0.05 MPa",
+        "+0.05 MPa",
+        "–0.11 MPa",
+        "+0.11 MPa"
+      ],
+      "answer": 1,
+      "explanation": "Using Ψw = Ψs + Ψp, we get Ψp = Ψw – Ψs = –0.03 – (–0.08) = +0.05 MPa, a positive pressure potential indicating turgidity.",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "Why does a plant cell not burst when placed in a hypotonic solution?",
+      "options": [
+        "The rigid cell wall limits expansion",
+        "The plasma membrane is impermeable to water",
+        "The vacuole contracts to reduce volume",
+        "Active transport pumps out excess water"
+      ],
+      "answer": 0,
+      "explanation": "The cellulose cell wall provides mechanical support and resists excessive expansion, preventing the cell from bursting despite the influx of water that creates turgor pressure.",
+      "topic": "Plasmolysis and turgidity"
+    },
+    {
+      "question": "In root tissues, which description correctly defines the apoplastic pathway for water movement?",
+      "options": [
+        "Movement through the cytoplasm via plasmodesmata",
+        "Movement through cell walls and intercellular spaces",
+        "Active transport across the plasma membrane",
+        "Movement through xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "The apoplastic pathway involves the passive flow of water and dissolved solutes through the cell walls and the extracellular spaces without crossing any plasma membranes.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "What is the primary function of the Casparian strip in the root endodermis?",
+      "options": [
+        "It is present in the endodermis and blocks apoplastic flow",
+        "It enhances apoplastic flow",
+        "It is located in the pericycle",
+        "It allows free diffusion of solutes"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip is a band of suberin in the endodermal cell walls that forces water and solutes to cross the plasma membrane, thereby converting apoplastic flow to symplastic flow before entering the stele.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "The bulk movement of photosynthates from mesophyll cells to the phloem loading sites occurs mainly through which pathway?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Transcellular pathway",
+        "Guttation"
+      ],
+      "answer": 1,
+      "explanation": "Sugars move from mesophyll to companion cells primarily via plasmodesmata, i.e., the symplastic route, allowing efficient loading into the phloem.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "Which statement about the symplastic pathway is FALSE?",
+      "options": [
+        "It requires plasmodesmata for continuity",
+        "It is restricted by the Casparian strip",
+        "It allows selective transport of ions via membrane carriers",
+        "It involves movement through the cytoplasm of cells"
+      ],
+      "answer": 1,
+      "explanation": "The symplastic pathway bypasses the Casparian strip because transport occurs through the cytoplasm connected by plasmodesmata, not through the cell wall where the strip is located.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "During the initial uptake of mineral ions from the soil, the ions first travel through which pathway to reach the root cortex?",
+      "options": [
+        "Symplastic pathway",
+        "Apoplastic pathway",
+        "Transmembrane active transport",
+        "Phloem loading"
+      ],
+      "answer": 1,
+      "explanation": "Ions dissolve in the soil solution and first move radially inward through the cell walls and intercellular spaces, i.e., the apoplastic pathway, before crossing membranes into the cortex.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "Under conditions of high transpiration demand, which factor most directly increases the contribution of the symplastic pathway to water transport in roots?",
+      "options": [
+        "Thickness of the Casparian strip",
+        "Number of plasmodesmata",
+        "Soil water potential",
+        "Stomatal aperture"
+      ],
+      "answer": 1,
+      "explanation": "A greater number of plasmodesmata provides more cytoplasmic continuity, enhancing symplastic flow, especially when rapid water movement is required.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "In a dye‑tracing experiment, a water‑soluble dye applied to the root surface appears in the stele after a short period. Through which pathway did the dye most likely travel to reach the stele?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Both equally",
+        "Transcellular via vesicles"
+      ],
+      "answer": 1,
+      "explanation": "The dye moves apoplastically until it reaches the Casparian strip, where it must cross the plasma membrane; thereafter it proceeds symplastically through plasmodesmata into the stele.",
+      "topic": "Apoplast and symplast pathways"
+    },
+    {
+      "question": "Which of the following best describes the primary mechanism that generates root pressure in most herbaceous plants?",
+      "options": [
+        "Active uptake of mineral ions into the xylem followed by water influx",
+        "Cohesive pull of the water column due to transpiration",
+        "Capillary rise of water in narrow xylem vessels",
+        "Osmotic movement of water from leaves to roots"
+      ],
+      "answer": 0,
+      "explanation": "Root pressure arises when roots actively transport ions (e.g., K+, Na+) into the xylem, lowering its water potential and causing water to enter osmotically, generating a positive pressure.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "Root pressure is most commonly observed under which environmental condition?",
+      "options": [
+        "High daytime transpiration rates",
+        "Low night-time humidity",
+        "High soil moisture with low atmospheric demand",
+        "Severe drought stress"
+      ],
+      "answer": 2,
+      "explanation": "When soil is water‑logged and atmospheric demand is low (e.g., at night), water can enter the xylem by osmosis, producing measurable root pressure.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "Guttation droplets are primarily composed of:",
+      "options": [
+        "Pure water",
+        "Water containing dissolved mineral ions",
+        "Water with high concentrations of sugars",
+        "Pure water vapor"
+      ],
+      "answer": 1,
+      "explanation": "Guttation exudes xylem sap that contains mineral ions absorbed by the roots; the droplets are therefore a dilute solution of these ions.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "Which statement correctly differentiates root pressure from transpiration pull?",
+      "options": [
+        "Root pressure moves water upward only in the presence of leaves",
+        "Transpiration pull can operate in the absence of root pressure",
+        "Both mechanisms rely on active transport of solutes",
+        "Root pressure is generated by capillary action"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration pull (cohesion‑tension) depends on water loss from leaves and can function without any root‑generated pressure, whereas root pressure is independent of leaf transpiration.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "In a tall tree, root pressure is insufficient to raise water to the top because:",
+      "options": [
+        "The osmotic potential of xylem sap is too low",
+        "The magnitude of root pressure rarely exceeds about 0.2 MPa",
+        "Cohesion of water is lost at great height",
+        "Stomatal closure prevents water movement"
+      ],
+      "answer": 1,
+      "explanation": "Measured root pressures are usually ≤0.2 MPa, far below the pressure needed to lift water several tens of meters; tall trees rely on transpiration pull instead.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "Which experimental observation would directly indicate the presence of root pressure in a potted plant?",
+      "options": [
+        "Wilting of leaves during the day",
+        "Exudation of sap from a cut stem at night",
+        "Increase in leaf temperature",
+        "Rapid closure of stomata under high CO₂"
+      ],
+      "answer": 1,
+      "explanation": "If a cut stem or decapitated shoot exudes clear sap during the night, it reflects a positive pressure generated by the roots.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "The magnitude of root pressure is directly proportional to:",
+      "options": [
+        "The rate of photosynthesis",
+        "The concentration gradient of mineral ions between soil and xylem",
+        "The ambient temperature",
+        "The transpiration rate"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure depends on active ion uptake; a larger concentration difference between soil solution and xylem sap drives greater osmotic influx of water, increasing pressure.",
+      "topic": "Root pressure and guttation"
+    },
+    {
+      "question": "Which of the following best describes transpiration pull?",
+      "options": [
+        "Upward movement of water due to negative pressure generated by evaporation at leaf surfaces",
+        "Root pressure pushing water upward",
+        "Active uptake of water by root hairs",
+        "Capillary action in xylem"
+      ],
+      "answer": 0,
+      "explanation": "Transpiration pull is created by the loss of water vapour from mesophyll cells, generating a negative pressure (tension) that pulls the continuous water column upward through the xylem.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, the primary force that maintains continuity of the water column in xylem is:",
+      "options": [
+        "Adhesion of water molecules to vessel walls",
+        "Cohesion between water molecules",
+        "Root pressure",
+        "Capillary action"
+      ],
+      "answer": 1,
+      "explanation": "Cohesion between water molecules allows the column to transmit the tension generated at the leaf surface throughout the xylem without breaking.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "Which factor does NOT increase the rate of transpiration?",
+      "options": [
+        "High ambient temperature",
+        "Low relative humidity",
+        "High wind speed",
+        "High atmospheric CO₂ concentration"
+      ],
+      "answer": 3,
+      "explanation": "Elevated CO₂ causes partial stomatal closure, reducing stomatal aperture and thus decreasing transpiration rate.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "In a well‑watered plant, the water potential at the leaf surface is –0.1 MPa and in the root xylem is –0.02 MPa. Water moves primarily from:",
+      "options": [
+        "Leaf to root",
+        "Root to leaf",
+        "No net movement",
+        "From soil directly to atmosphere"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from regions of higher (less negative) water potential to lower (more negative) potential; thus it flows from the root xylem (–0.02 MPa) toward the leaf (–0.1 MPa).",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "Which statement about stomatal regulation during transpiration is FALSE?",
+      "options": [
+        "Guard cells swell when K⁺ ions enter, opening the pore",
+        "Abscisic acid induces stomatal closure during drought",
+        "Light of wavelength 700 nm is most effective in opening stomata",
+        "High internal CO₂ concentration promotes stomatal closure"
+      ],
+      "answer": 2,
+      "explanation": "Blue light (≈450 nm) is most effective in activating the photoreceptors that open stomata; red light (≈700 nm) is far less effective.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "The term \"transpiration stream\" refers to:",
+      "options": [
+        "The flow of sugars in phloem",
+        "The upward movement of water and dissolved minerals in xylem",
+        "The downward movement of water in phloem",
+        "The movement of gases through stomata"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration stream denotes the continuous upward flow of water, carrying mineral nutrients, driven by transpiration pull in the xylem.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "Which experimental observation supports the existence of transpiration pull?",
+      "options": [
+        "Cutting a stem near the tip stops water movement above the cut",
+        "Water rises higher in a narrow capillary tube than in a wide one",
+        "Xylem vessels can transport water when the plant is placed in a vacuum",
+        "Roots exude guttation droplets at night"
+      ],
+      "answer": 0,
+      "explanation": "When a stem is cut above the point of water ascent, the tension in the water column is released, and water movement above the cut ceases, demonstrating that a continuous column under tension (transpiration pull) is required.",
+      "topic": "Transpiration and transpiration pull"
+    },
+    {
+      "question": "Which of the following best describes the primary driving force behind upward movement of water in the cohesion‑tension theory?",
+      "options": [
+        "Root pressure",
+        "Osmotic gradient in root cells",
+        "Transpirational pull creating negative pressure",
+        "Capillary action in xylem vessels"
+      ],
+      "answer": 2,
+      "explanation": "Transpiration from stomata creates a water potential gradient that generates negative pressure (tension) in the leaf xylem, pulling water upward through the continuous column.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "In cohesion‑tension theory, the cohesion property of water is due to which type of intermolecular force?",
+      "options": [
+        "Hydrogen bonding",
+        "Van der Waals forces",
+        "Ionic bonds",
+        "Covalent bonds"
+      ],
+      "answer": 0,
+      "explanation": "Water molecules are attracted to each other by hydrogen bonds, providing the cohesion needed to transmit tension throughout the xylem column.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which condition most directly leads to cavitation (air embolism) in the xylem according to cohesion‑tension theory?",
+      "options": [
+        "High relative humidity",
+        "Low transpiration rate",
+        "Excessive tension (negative pressure) due to rapid water loss",
+        "High root pressure"
+      ],
+      "answer": 2,
+      "explanation": "When transpiration is very rapid, the resulting high tension can exceed the tensile strength of water, causing the column to break and form air bubbles (cavitation).",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "According to cohesion‑tension theory, why does water move from the leaf mesophyll to the atmosphere?",
+      "options": [
+        "Higher water potential in the atmosphere",
+        "Lower water potential in the leaf intercellular spaces",
+        "Higher solute concentration in the atmosphere",
+        "Active transport by guard cells"
+      ],
+      "answer": 1,
+      "explanation": "Water evaporates from the moist mesophyll into the drier intercellular air spaces, creating a lower (more negative) water potential that drives diffusion to the atmosphere.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which of the following statements is FALSE regarding the cohesion‑tension mechanism?",
+      "options": [
+        "Water columns in xylem are continuous from roots to leaves",
+        "Tension in the xylem is a positive pressure",
+        "Cohesion allows transmission of tension throughout the column",
+        "Transpiration creates a water potential gradient"
+      ],
+      "answer": 1,
+      "explanation": "Tension in the xylem is a negative pressure (suction), not a positive pressure; the other statements are true.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "In a tall tree, the water potential at the top of the xylem is approximately –0.2 MPa while at the roots it is –0.02 MPa. What is the approximate tension (negative pressure) experienced in the xylem column?",
+      "options": [
+        "0.18 MPa",
+        "–0.18 MPa",
+        "0.22 MPa",
+        "–0.22 MPa"
+      ],
+      "answer": 1,
+      "explanation": "Tension equals the difference in water potential (ψ_top – ψ_root) = –0.2 MPa – (–0.02 MPa) = –0.18 MPa, indicating a negative pressure of 0.18 MPa.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which anatomical feature of xylem vessels most enhances the efficiency of the cohesion‑tension mechanism?",
+      "options": [
+        "Presence of pits with torus‑margo",
+        "Lignified, wide‑diameter vessels",
+        "Thin‑walled sieve plates",
+        "Companion cells"
+      ],
+      "answer": 1,
+      "explanation": "Lignified vessels with relatively wide diameters provide low resistance and structural strength, allowing the transmission of tension without collapse, which is essential for the cohesion‑tension process.",
+      "topic": "Cohesion-tension theory"
+    },
+    {
+      "question": "Which ion is primarily taken up by guard cells during stomatal opening?",
+      "options": [
+        "K⁺",
+        "Ca²⁺",
+        "Mg²⁺",
+        "Na⁺"
+      ],
+      "answer": 0,
+      "explanation": "Guard cells accumulate K⁺ ions, which lowers their membrane potential, draws in Cl⁻ and malate, and creates an osmotic gradient that leads to water influx and turgor increase, opening the stomatal pore.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "Blue light induces stomatal opening mainly by activating which of the following in guard cells?",
+      "options": [
+        "Plasma membrane H⁺‑ATPase",
+        "Guard cell Ca²⁺ channels",
+        "Chloroplast photosystem II",
+        "Epidermal cell turgor"
+      ],
+      "answer": 0,
+      "explanation": "Blue light activates phototropins, which trigger phosphorylation of the plasma‑membrane H⁺‑ATPase. The resulting hyperpolarization drives K⁺ influx, increasing guard‑cell turgor and opening the stomata.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "Abscisic acid (ABA) causes stomatal closure primarily through an increase in which secondary messenger inside guard cells?",
+      "options": [
+        "cGMP",
+        "Ca²⁺",
+        "cAMP",
+        "IP₃"
+      ],
+      "answer": 1,
+      "explanation": "ABA perception leads to the production of reactive oxygen species and elevation of cytosolic Ca²⁺, which activates ion channels that release K⁺ and Cl⁻, reducing guard‑cell turgor and closing the stomata.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "An increase in intercellular CO₂ concentration from 200 to 600 µmol mol⁻¹ will most likely cause which change in stomatal aperture?",
+      "options": [
+        "Increase stomatal aperture",
+        "Decrease stomatal aperture",
+        "No change in aperture",
+        "Increase guard cell turgor"
+      ],
+      "answer": 1,
+      "explanation": "Elevated internal CO₂ is sensed by guard cells, leading to activation of Ca²⁺‑dependent K⁺ efflux channels, loss of turgor and closure of the stomatal pore.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "Which environmental condition most directly leads to reduced stomatal conductance?",
+      "options": [
+        "High soil moisture",
+        "Low atmospheric humidity",
+        "High leaf temperature",
+        "Low root pressure"
+      ],
+      "answer": 1,
+      "explanation": "Low atmospheric humidity raises transpiration demand, causing leaf water potential to become more negative; guard cells lose turgor to limit water loss, thereby reducing stomatal conductance.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "During stomatal opening, the primary role of potassium channels in guard cells is to:",
+      "options": [
+        "Allow K⁺ efflux causing loss of turgor",
+        "Allow K⁺ influx leading to osmotic water uptake",
+        "Pump K⁺ into the apoplast",
+        "Block Cl⁻ entry"
+      ],
+      "answer": 1,
+      "explanation": "Opening‑type K⁺ channels permit K⁺ influx, increasing the solute concentration inside guard cells, which draws water osmotically, raises turgor, and opens the stomatal pore.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "In the cohesion‑tension theory, stomatal closure affects the tension in the xylem column primarily by:",
+      "options": [
+        "Increasing tension in the xylem column",
+        "Decreasing tension in the xylem column",
+        "No effect on tension",
+        "Reversing the direction of water flow"
+      ],
+      "answer": 1,
+      "explanation": "When stomata close, transpiration rate drops, reducing the pulling force (tension) generated in the xylem; thus the tension in the water column decreases.",
+      "topic": "Stomatal regulation"
+    },
+    {
+      "question": "Which xylem cell type is primarily responsible for long-distance water transport in most angiosperms?",
+      "options": [
+        "Tracheids",
+        "Vessel elements",
+        "Sieve tube elements",
+        "Companion cells"
+      ],
+      "answer": 1,
+      "explanation": "Vessel elements are wide, short cells with perforated end walls that form continuous tubes, allowing efficient bulk flow of water in angiosperms.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "Lateral movement of water between adjacent xylem vessels is facilitated by which structure?",
+      "options": [
+        "Pits",
+        "Perforation plates",
+        "Lignin lamellae",
+        "Sieve plates"
+      ],
+      "answer": 0,
+      "explanation": "Pits are thin areas in the secondary wall that lack lignified material, permitting water to pass laterally between neighboring vessels.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, the negative pressure (tension) that pulls water upward in the xylem is generated mainly by:",
+      "options": [
+        "Root pressure",
+        "Transpiration‑induced water loss from leaves",
+        "Active uptake of ions in roots",
+        "Cell elongation in the stem"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration creates a water potential gradient; loss of water from leaf stomata generates tension that is transmitted down the continuous water column.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "Which statement about root pressure is correct?",
+      "options": [
+        "It can push water up to the tops of tall trees",
+        "It is generated by active uptake of K⁺ ions in the root cortex",
+        "It occurs mainly at night when transpiration is low",
+        "It is responsible for the cohesion of water molecules"
+      ],
+      "answer": 2,
+      "explanation": "Root pressure builds up when ions are actively accumulated in the xylem at night, creating a positive pressure that can exude water through guttation but cannot lift water to great heights.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "In xylem physiology, \"embolism\" refers to:",
+      "options": [
+        "Blockage of vessels by air bubbles",
+        "Formation of lignin in cell walls",
+        "Accumulation of sugars in phloem",
+        "Production of root hairs"
+      ],
+      "answer": 0,
+      "explanation": "Embolism is the formation of air bubbles that interrupt the continuous water column, reducing hydraulic conductivity.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "Which statement correctly distinguishes primary from secondary xylem?",
+      "options": [
+        "Primary xylem contains vessels, secondary xylem contains only tracheids",
+        "Primary xylem is formed during primary growth, secondary xylem is added by the vascular cambium",
+        "Primary xylem transports sugars, secondary xylem transports water",
+        "Primary xylem is located in the pith, secondary xylem in the cortex"
+      ],
+      "answer": 1,
+      "explanation": "Primary xylem is produced by the apical meristem during elongation; secondary xylem is produced laterally by the vascular cambium, increasing stem girth.",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "In a typical dicot stem, the arrangement of vascular tissues in a bundle is:",
+      "options": [
+        "Xylem outside, phloem inside",
+        "Phloem outside, xylem inside",
+        "Xylem and phloem alternating",
+        "Xylem central, phloem peripheral"
+      ],
+      "answer": 0,
+      "explanation": "In dicot stems, each vascular bundle has xylem positioned toward the interior (adaxial side) and phloem toward the exterior (abaxial side).",
+      "topic": "Xylem structure and transport"
+    },
+    {
+      "question": "Which cell type in the phloem is living and contains numerous mitochondria to provide energy for active transport of sugars?",
+      "options": [
+        "Sieve tube element",
+        "Companion cell",
+        "Phloem fiber",
+        "Xylem vessel"
+      ],
+      "answer": 1,
+      "explanation": "Companion cells are living, rich in mitochondria and supply ATP for active loading of sucrose into sieve tube elements.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, what is the primary driving force for bulk flow of assimilates in the phloem?",
+      "options": [
+        "Transpirational pull",
+        "Osmotic pressure gradient between source and sink",
+        "Root pressure",
+        "Capillary action"
+      ],
+      "answer": 1,
+      "explanation": "A higher osmotic pressure at the source draws water in, raising turgor, while lower pressure at the sink creates a pressure gradient that drives bulk flow.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "In phloem loading of a source leaf that uses active apoplastic loading, which of the following occurs?",
+      "options": [
+        "Sucrose diffuses passively into sieve elements",
+        "Sucrose is pumped into companion cells via H⁺‑sucrose symport",
+        "Water moves out of phloem causing turgor loss",
+        "Sucrose is polymerized into starch within sieve tubes"
+      ],
+      "answer": 1,
+      "explanation": "Active apoplastic loading involves H⁺‑sucrose symporters in companion cell membranes that use ATP‑generated proton gradients to import sucrose against its concentration gradient.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "Which statement correctly distinguishes phloem from xylem?",
+      "options": [
+        "Phloem transports water upward only",
+        "Phloem cells are dead at maturity",
+        "Phloem transports organic solutes bidirectionally",
+        "Xylem conducts sugars from source to sink"
+      ],
+      "answer": 2,
+      "explanation": "Phloem conducts photosynthates (mainly sugars) in both directions depending on source‑sink relationships, whereas xylem mainly moves water and minerals upward.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "The presence of which structure in sieve tube elements facilitates the rapid movement of solutes between adjacent cells?",
+      "options": [
+        "Plasmodesmata",
+        "Lignified walls",
+        "Pits",
+        "Casparian strips"
+      ],
+      "answer": 0,
+      "explanation": "Sieve plates contain numerous plasmodesmata that allow continuous cytoplasmic connections for fast solute flow between sieve elements.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "During phloem unloading at a sink tissue that relies on symplastic unloading, which process predominates?",
+      "options": [
+        "Active transport into apoplast",
+        "Diffusion through plasmodesmata",
+        "Exocytosis of sucrose vesicles",
+        "Polymerization of sucrose into starch within sieve element"
+      ],
+      "answer": 1,
+      "explanation": "Symplastic unloading uses plasmodesmatal connections for sucrose to diffuse directly into sink cells without crossing a membrane.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "Which component is NOT typically found in phloem sap?",
+      "options": [
+        "Sucrose",
+        "Potassium ions",
+        "Lignin",
+        "Amino acids"
+      ],
+      "answer": 2,
+      "explanation": "Phloem sap contains soluble substances like sugars, ions, and amino acids; lignin is a structural polymer present in cell walls, not in the sap.",
+      "topic": "Phloem structure and transport"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, what creates the bulk flow of solutes in the phloem?",
+      "options": [
+        "Transpiration pull",
+        "Root pressure",
+        "Osmotic pressure gradient between source and sink",
+        "Capillary action"
+      ],
+      "answer": 2,
+      "explanation": "Active loading of sugars at the source raises the osmotic potential, drawing water in and generating high turgor pressure; unloading at the sink lowers pressure, establishing a pressure gradient that drives bulk flow.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "In many plants, sucrose is actively loaded into sieve elements at the source. Which cell type is primarily responsible for this active loading?",
+      "options": [
+        "Guard cells",
+        "Companion cells",
+        "Xylem parenchyma cells",
+        "Phloem fibers"
+      ],
+      "answer": 1,
+      "explanation": "Companion cells are closely associated with sieve elements and use ATP‑dependent transporters to load sucrose, creating the high osmotic potential needed for pressure generation.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "If a phloem strand is cut above a source leaf, what will happen to the movement of sugars?",
+      "options": [
+        "Flow continues toward the sink",
+        "Flow stops",
+        "Flow reverses toward the cut end",
+        "Flow increases in the remaining segment"
+      ],
+      "answer": 1,
+      "explanation": "Cutting above the source eliminates the high‑pressure region that drives the flow; without the pressure gradient, translocation ceases in that segment.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "Which statement about the energy requirement of the pressure‑flow mechanism is correct?",
+      "options": [
+        "Both loading and unloading are passive",
+        "Loading is active, unloading is passive",
+        "Both loading and unloading are active",
+        "No energy is required at any stage"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose loading at the source generally requires active transport (ATP), whereas unloading at many sinks can occur passively as the concentration gradient falls.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "During the day, a mature leaf acts as a source. Which change in phloem turgor pressure is expected compared to night when the leaf becomes a sink?",
+      "options": [
+        "Higher turgor pressure during day",
+        "Lower turgor pressure during day",
+        "No change in turgor pressure",
+        "Turgor pressure is zero at night"
+      ],
+      "answer": 0,
+      "explanation": "Daytime photosynthesis produces sucrose, which is loaded into the phloem, raising osmotic potential and turgor pressure; at night the leaf imports sugars, lowering its turgor.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "The rate of phloem translocation is most directly affected by which physical factor?",
+      "options": [
+        "Viscosity of phloem sap",
+        "Atmospheric pressure",
+        "Light intensity on guard cells",
+        "Soil moisture content"
+      ],
+      "answer": 0,
+      "explanation": "According to Hagen‑Poiseuille’s law, flow rate is inversely proportional to the viscosity of the sap; higher viscosity (e.g., due to concentrated sugars) reduces the speed of bulk flow.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, which outcome would NOT be expected from a mutation that eliminates active sucrose loading in source leaves?",
+      "options": [
+        "Reduced turgor pressure in sieve tubes at source",
+        "Accumulation of sugars in the source leaf",
+        "Increased rate of phloem transport",
+        "Decreased growth of sink organs"
+      ],
+      "answer": 2,
+      "explanation": "Without active loading, the pressure gradient cannot be established, so transport rate would fall, not increase; the other options are direct consequences of impaired loading.",
+      "topic": "Pressure-flow hypothesis"
+    },
+    {
+      "question": "Which statement correctly describes the source in the source‑sink relationship of phloem transport?",
+      "options": [
+        "Mature photosynthetic leaves during the day",
+        "Non‑photosynthetic roots",
+        "Young developing fruits",
+        "Stomata"
+      ],
+      "answer": 0,
+      "explanation": "Source tissues are those that produce and export assimilates, primarily mature leaves that photosynthesize during daylight.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, the primary driving force for bulk flow in the phloem is:",
+      "options": [
+        "Active uptake of K+ in sieve tubes",
+        "Osmotic water influx due to sucrose loading at the source",
+        "Transpirational pull generated in the xylem",
+        "Root pressure generated in the root hairs"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose loading at the source raises osmotic potential, causing water to enter, increasing turgor pressure that drives flow toward the sink.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "Girdling a stem above a developing tuber will most likely cause which immediate effect on the tuber?",
+      "options": [
+        "Increased accumulation of carbohydrates",
+        "Decreased water uptake",
+        "No change in carbohydrate status",
+        "Reduced photosynthetic rate in leaves"
+      ],
+      "answer": 0,
+      "explanation": "Girdling blocks phloem transport away from the tuber, causing sugars to accumulate in the tuber, enhancing its sink strength.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "During the night, the predominant direction of phloem transport in most plants is:",
+      "options": [
+        "From roots (sink) to leaves (source)",
+        "From leaves (source) to roots (sink)",
+        "From stems to leaves",
+        "Phloem transport ceases at night"
+      ],
+      "answer": 0,
+      "explanation": "At night, leaves are not photosynthesizing and act as sinks, while roots export stored carbohydrates, reversing the daytime flow.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "Fruits become strong sinks during ripening mainly because:",
+      "options": [
+        "High activity of sucrose‑phosphate synthase",
+        "Increased expression of sucrose‑H+ symporters in phloem parenchyma",
+        "Decreased respiration rate",
+        "Closure of stomata reduces water loss"
+      ],
+      "answer": 1,
+      "explanation": "Ripening fruits up‑regulate sucrose‑H+ symporters, enhancing active loading of sucrose from the phloem, thereby increasing sink strength.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "In a plant that loads sucrose into the phloem exclusively via the apoplastic pathway, which component is essential to maintain the source‑sink gradient?",
+      "options": [
+        "Energy‑dependent sucrose‑H+ symporters at the source",
+        "Passive diffusion of sucrose through plasmodesmata",
+        "High turgor pressure in the sink tissues",
+        "Root pressure generated in the root tip"
+      ],
+      "answer": 0,
+      "explanation": "Apoplastic loading requires active sucrose‑H+ symporters to accumulate sucrose against its concentration gradient, creating the osmotic pressure difference.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "A shaded leaf that is not photosynthetically active will function as:",
+      "options": [
+        "A source",
+        "A sink",
+        "Neither source nor sink",
+        "Both source and sink simultaneously"
+      ],
+      "answer": 1,
+      "explanation": "Without photosynthesis, the leaf consumes stored carbohydrates, acting as a sink that imports assimilates from other source tissues.",
+      "topic": "Source-sink relationship"
+    },
+    {
+      "question": "Which of the following statements correctly describes the role of H⁺‑ATPase in mineral ion uptake by plant roots?",
+      "options": [
+        "It creates an electrochemical gradient that drives the uptake of cations via symport",
+        "It directly transports nitrate into the root cells",
+        "It pumps K⁺ out of the cell to increase cytosolic K⁺",
+        "It is only active in the presence of mycorrhizal fungi"
+      ],
+      "answer": 0,
+      "explanation": "The plasma‑membrane H⁺‑ATPase pumps protons out of the cell, generating a proton motive force that powers secondary active transporters (symporters/antiporters) for mineral cations such as K⁺, Ca²⁺, and NH₄⁺.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "In the apoplastic pathway of mineral absorption, which structure forces ions to cross a plasma membrane before reaching the stele?",
+      "options": [
+        "Casparian strip",
+        "Endodermal plasmodesmata",
+        "Xylem vessel wall",
+        "Pericycle"
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip in the endodermis is impregnated with suberin, blocking the apoplastic route and obligating ions to enter the symplast by crossing a plasma membrane.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "Which mineral is primarily taken up by a high‑affinity H⁺/phosphate symporter that operates optimally at low external phosphate concentrations?",
+      "options": [
+        "Nitrate",
+        "Phosphate",
+        "Sulfate",
+        "Magnesium"
+      ],
+      "answer": 1,
+      "explanation": "Plants possess a high‑affinity H⁺/Pi symporter (PHT1 family) that couples phosphate uptake with the proton gradient, especially when external Pi is scarce.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "Mycorrhizal association most effectively enhances the uptake of which mineral?",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Phosphorus",
+        "Chloride"
+      ],
+      "answer": 2,
+      "explanation": "Arbuscular mycorrhizal fungi extend hyphal networks into the soil, greatly increasing the surface area for phosphorus acquisition, the nutrient most limited by soil immobility.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "Which of the following statements about the transport of potassium (K⁺) into root cells is FALSE?",
+      "options": [
+        "K⁺ can enter passively through inward‑rectifying channels when external K⁺ concentration is high",
+        "High external K⁺ suppresses the activity of H⁺‑ATPase",
+        "K⁺ uptake can be coupled with H⁺ influx via a symporter",
+        "K⁺ is essential for maintaining cell turgor and stomatal function"
+      ],
+      "answer": 1,
+      "explanation": "High external K⁺ does not suppress H⁺‑ATPase; the pump activity is mainly regulated by metabolic status and auxin, not by external K⁺ levels.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "During active uptake of nitrate (NO₃⁻) by root cells, the process is energetically coupled to which of the following?",
+      "options": [
+        "ATP hydrolysis directly by nitrate transporter",
+        "Proton gradient generated by H⁺‑ATPase",
+        "Sodium gradient established by Na⁺/K⁺ pump",
+        "Calcium influx through voltage‑gated channels"
+      ],
+      "answer": 1,
+      "explanation": "NO₃⁻ is taken up mainly via H⁺/NO₃⁻ symporters that use the proton motive force created by the plasma‑membrane H⁺‑ATPase.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "Which factor most directly influences the rate of mineral absorption from the soil solution?",
+      "options": [
+        "Soil temperature only",
+        "Soil pH affecting ion solubility",
+        "Atmospheric CO₂ concentration",
+        "Leaf transpiration rate"
+      ],
+      "answer": 1,
+      "explanation": "Soil pH alters the chemical form and solubility of many minerals (e.g., Fe, Mn, P), thereby controlling their availability for root uptake.",
+      "topic": "Mineral absorption"
+    },
+    {
+      "question": "Which statement correctly distinguishes active transport from passive transport?",
+      "options": [
+        "Active transport requires direct energy input such as ATP, whereas passive transport does not require energy",
+        "Active transport moves substances down their concentration gradient, while passive transport moves them up",
+        "Both processes always involve carrier proteins",
+        "Both are inhibited by low temperature"
+      ],
+      "answer": 0,
+      "explanation": "Active transport is energy‑dependent (e.g., ATP hydrolysis) to move solutes against a gradient, while passive transport relies on the gradient and does not need cellular energy.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "In plant root cells, the uptake of potassium ions (K⁺) against a concentration gradient is primarily mediated by:",
+      "options": [
+        "Simple diffusion through the lipid bilayer",
+        "Facilitated diffusion via a K⁺ channel",
+        "Primary active transport using a plasma‑membrane H⁺‑ATPase",
+        "Secondary active transport via a K⁺/H⁺ symporter"
+      ],
+      "answer": 2,
+      "explanation": "The H⁺‑ATPase creates an electrochemical proton gradient; the energy stored in this gradient drives the uptake of K⁺ against its own gradient, classifying it as primary active transport.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "Which of the following is an example of secondary active transport in plant cells?",
+      "options": [
+        "Uptake of glucose by a GLUT transporter",
+        "Na⁺/K⁺‑ATPase activity",
+        "H⁺/sucrose symport during phloem loading",
+        "Water movement through aquaporins"
+      ],
+      "answer": 2,
+      "explanation": "The H⁺/sucrose symporter uses the proton gradient established by primary active transport to co‑transport sucrose into the cell, a classic case of secondary active transport.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "The movement of water across a selectively permeable membrane driven solely by a difference in water potential is called:",
+      "options": [
+        "Osmosis",
+        "Active transport",
+        "Facilitated diffusion",
+        "Bulk flow"
+      ],
+      "answer": 0,
+      "explanation": "Osmosis is the passive movement of water from a region of higher water potential to lower water potential through a semipermeable membrane, requiring no metabolic energy.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "Which statement about carrier proteins involved in passive transport is FALSE?",
+      "options": [
+        "They undergo conformational changes to move the solute across the membrane",
+        "They can become saturated at high substrate concentrations",
+        "Their activity is directly coupled to ATP hydrolysis",
+        "They facilitate movement down the concentration gradient"
+      ],
+      "answer": 2,
+      "explanation": "Carrier proteins for passive transport do not use ATP; they rely on the concentration gradient. Coupling to ATP hydrolysis characterises active transport carriers.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "In the pressure‑flow hypothesis, the loading of sucrose into sieve‑tube elements is an example of:",
+      "options": [
+        "Primary active transport",
+        "Secondary active transport",
+        "Simple diffusion",
+        "Facilitated diffusion"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose loading is driven by a proton gradient generated by H⁺‑ATPases, making it a secondary active transport process.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "Which condition would most likely increase the rate of passive diffusion of a non‑polar solute across a plant cell plasma membrane?",
+      "options": [
+        "Decrease in temperature",
+        "Increase in membrane cholesterol content",
+        "Increase in the concentration gradient across the membrane",
+        "Addition of a specific carrier protein"
+      ],
+      "answer": 2,
+      "explanation": "Passive diffusion rate is directly proportional to the concentration gradient; a larger gradient enhances the net flux of the non‑polar solute.",
+      "topic": "Active and passive transport"
+    },
+    {
+      "question": "In the NCERT diagram of water potential (Ψw) in a plant, water moves from a region of higher Ψw to lower Ψw. Which part of the diagram represents the region of most negative water potential?",
+      "options": [
+        "Soil water",
+        "Root cortex",
+        "Leaf mesophyll",
+        "Xylem sap"
+      ],
+      "answer": 2,
+      "explanation": "The leaf mesophyll has the lowest (most negative) water potential because transpiration creates a strong water potential gradient, driving water upward from the roots.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "The NCERT diagram of plasmolysis shows a plant cell placed in a hypertonic solution. Which observation is correctly depicted?",
+      "options": [
+        "Cell membrane shrinks away from the cell wall",
+        "Vacuole expands",
+        "Cytoplasm becomes more turgid",
+        "Chloroplasts move towards the cell wall"
+      ],
+      "answer": 0,
+      "explanation": "In plasmolysis the plasma membrane pulls away from the rigid cell wall as water leaves the cell, causing the membrane to shrink inward.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "In the NCERT diagram of the pressure‑flow hypothesis for phloem transport, loading of sucrose at the source causes which of the following changes?",
+      "options": [
+        "Decrease in osmotic pressure in the sieve tube",
+        "Increase in turgor pressure at the source",
+        "Decrease in water potential at the sink",
+        "Increase in xylem sap flow"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose loading raises the osmotic pressure inside the sieve tube at the source, drawing water in and raising turgor pressure, which drives bulk flow toward the sink.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "The NCERT diagram illustrating the cohesion‑tension theory shows a water column in xylem under tension. Why does the column not break?",
+      "options": [
+        "High adhesive forces between water molecules and xylem walls",
+        "Low viscosity of water",
+        "Presence of lignin in xylem",
+        "Active pumping by root cells"
+      ],
+      "answer": 0,
+      "explanation": "Adhesion of water to the hydrophilic walls of xylem vessels, together with cohesion between water molecules, maintains a continuous column despite negative pressure.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "According to the NCERT diagram of root pressure, which statement correctly describes the direction of water movement?",
+      "options": [
+        "From xylem to cortex",
+        "From cortex to xylem",
+        "From phloem to xylem",
+        "From leaf to root"
+      ],
+      "answer": 1,
+      "explanation": "Root pressure is generated when solutes are actively transported into the xylem, causing water to move osmotically from the surrounding cortical cells into the xylem.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "The NCERT diagram of stomatal regulation shows guard cells swelling in light. Which ion movement is primarily responsible for this swelling?",
+      "options": [
+        "K⁺ influx",
+        "Cl⁻ efflux",
+        "Ca²⁺ influx",
+        "Na⁺ efflux"
+      ],
+      "answer": 0,
+      "explanation": "Light triggers activation of H⁺‑ATPase, leading to K⁺ uptake into guard cells; the accompanying water influx causes the cells to swell and open the stomata.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "In the NCERT diagram comparing apoplastic and symplastic pathways, which pathway bypasses the plasma membrane?",
+      "options": [
+        "Symplastic",
+        "Apoplastic",
+        "Both",
+        "Neither"
+      ],
+      "answer": 1,
+      "explanation": "The apoplastic pathway consists of movement through cell walls and intercellular spaces, which does not involve crossing the plasma membrane, unlike the symplastic route.",
+      "topic": "NCERT diagrams"
+    },
+    {
+      "question": "A plant cell has a pressure potential of +0.3 MPa and a solute potential of –0.5 MPa. What is its overall water potential?",
+      "options": [
+        "-0.2 MPa",
+        "-0.8 MPa",
+        "+0.2 MPa",
+        "-0.5 MPa"
+      ],
+      "answer": 0,
+      "explanation": "Water potential (Ψ) is the sum of pressure potential (Ψp) and solute potential (Ψs): Ψ = Ψp + Ψs = (+0.3) + (–0.5) = –0.2 MPa.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "A leaf loses water at a rate of 5 mg cm⁻² h⁻¹. If the leaf area is 10 cm², how much water is lost in one hour?",
+      "options": [
+        "25 mg",
+        "50 mg",
+        "75 mg",
+        "100 mg"
+      ],
+      "answer": 1,
+      "explanation": "Total loss = rate × area = 5 mg cm⁻² h⁻¹ × 10 cm² = 50 mg per hour.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "According to the pressure‑flow hypothesis, the phloem flow rate J = ΔP / R. If the pressure difference between source and sink is 0.4 MPa and the hydraulic resistance is 2 × 10⁹ Pa·s·m⁻³, what is the flow rate?",
+      "options": [
+        "2 × 10⁻⁴ m³ s⁻¹",
+        "2 × 10⁻⁵ m³ s⁻¹",
+        "4 × 10⁻⁴ m³ s⁻¹",
+        "1 × 10⁻⁴ m³ s⁻¹"
+      ],
+      "answer": 0,
+      "explanation": "Convert 0.4 MPa to pascals: 0.4 MPa = 4 × 10⁵ Pa. J = ΔP / R = 4 × 10⁵ Pa / 2 × 10⁹ Pa·s·m⁻³ = 2 × 10⁻⁴ m³ s⁻¹.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "What is the osmotic potential (Ψs) of a 0.01 M sucrose solution at 25 °C? (Use Ψs = –i C R T, R = 0.0831 L·bar·K⁻¹·mol⁻¹, T = 298 K, i = 1)",
+      "options": [
+        "–0.25 bar",
+        "–0.083 bar",
+        "–0.30 bar",
+        "–0.20 bar"
+      ],
+      "answer": 0,
+      "explanation": "Ψs = –(1)(0.01 mol L⁻¹)(0.0831 L·bar·K⁻¹·mol⁻¹)(298 K) ≈ –0.247 bar ≈ –0.25 bar.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "In the cohesion‑tension theory, if the tension in the xylem column is –0.5 MPa, what maximum height of water column can be supported? (Take ρ = 1000 kg m⁻³, g = 9.8 m s⁻²)",
+      "options": [
+        "30 m",
+        "51 m",
+        "70 m",
+        "100 m"
+      ],
+      "answer": 1,
+      "explanation": "Height h = |Ψ| / (ρg) = 5 × 10⁵ Pa / (1000 kg m⁻³ × 9.8 m s⁻²) ≈ 51 m.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "A root pressure of 0.2 MPa generates a water flow of 1 × 10⁻⁶ m³ s⁻¹. How many milliliters of water are exuded as guttation in 2 hours?",
+      "options": [
+        "3.6 mL",
+        "720 mL",
+        "7200 mL",
+        "0.72 mL"
+      ],
+      "answer": 2,
+      "explanation": "Volume = flow × time = 1 × 10⁻⁶ m³ s⁻¹ × 7200 s = 7.2 × 10⁻³ m³. Since 1 m³ = 10⁶ mL, volume = 7.2 × 10⁻³ × 10⁶ mL = 7200 mL.",
+      "topic": "Concept-based numerical reasoning"
+    },
+    {
+      "question": "Many students mistakenly think water moves from higher to lower solute concentration in plant cells. What actually drives water movement in plants?",
+      "options": [
+        "Osmotic gradient alone",
+        "Water potential gradient",
+        "Concentration gradient of solutes",
+        "Pressure gradient"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from regions of higher (less negative) water potential to lower (more negative) water potential, which incorporates solute potential, pressure potential, and gravity.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A common trap is confusing the apoplastic and symplastic pathways for mineral uptake. Which statement is true?",
+      "options": [
+        "Minerals enter the root cortex only via the apoplast",
+        "The symplastic route involves movement through plasmodesmata",
+        "The apoplastic route requires crossing the plasma membrane",
+        "Both pathways are identical in mechanism"
+      ],
+      "answer": 1,
+      "explanation": "In the symplastic pathway, substances move cell‑to‑cell through plasmodesmata, whereas the apoplastic route follows the cell wall continuum without crossing membranes.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Students often attribute root pressure to high transpiration. Which condition does NOT generate root pressure?",
+      "options": [
+        "Nighttime when transpiration is low",
+        "High atmospheric humidity",
+        "High transpiration rate",
+        "Active uptake of ions in the root"
+      ],
+      "answer": 2,
+      "explanation": "Root pressure is produced by active ion uptake and water entry at night or low transpiration; high transpiration actually reduces root pressure.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A frequent misconception about the pressure‑flow hypothesis is the direction of phloem transport. Which is correct?",
+      "options": [
+        "From source (leaves) to sink (roots)",
+        "From sink to source",
+        "Bidirectional simultaneously",
+        "Only upward from roots to shoots"
+      ],
+      "answer": 0,
+      "explanation": "The pressure‑flow hypothesis states that sugars loaded at source cells raise turgor pressure, driving flow toward sink cells where sugars are unloaded.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "In hypertonic solutions, students often confuse plasmolysis with turgidity. What happens to a plant cell placed in a hypertonic solution?",
+      "options": [
+        "It becomes turgid",
+        "It becomes flaccid",
+        "It plasmolyzes",
+        "It becomes rigid"
+      ],
+      "answer": 2,
+      "explanation": "Water leaves the cell, the plasma membrane pulls away from the cell wall, and the cell undergoes plasmolysis.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A trap in stomatal regulation questions is the hormone responsible for closure during drought. Which hormone causes stomatal closure?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Abscisic acid",
+        "Gibberellin"
+      ],
+      "answer": 2,
+      "explanation": "Abscisic acid (ABA) accumulates under water‑stress conditions and triggers stomatal closure to reduce transpiration.",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "Students often misinterpret water potential signs. If soil water potential is –0.2 MPa and leaf water potential is –0.5 MPa, in which direction does water move?",
+      "options": [
+        "From soil to leaf",
+        "From leaf to soil",
+        "No net movement",
+        "Depends on temperature"
+      ],
+      "answer": 0,
+      "explanation": "Water moves from higher (less negative) water potential (soil, –0.2 MPa) to lower (more negative) water potential (leaf, –0.5 MPa).",
+      "topic": "Common NEET traps"
+    },
+    {
+      "question": "A root cell is in soil where the water potential is –0.3 MPa. The pressure potential inside the cell is +0.2 MPa. What is the water potential of the cell?",
+      "options": [
+        "-0.5 MPa",
+        "-0.1 MPa",
+        "0.1 MPa",
+        "0.5 MPa"
+      ],
+      "answer": 1,
+      "explanation": "Water potential (Ψ) = solute (Ψs) + pressure (Ψp). Here Ψs = –0.3 MPa and Ψp = +0.2 MPa, so Ψ = –0.3 + 0.2 = –0.1 MPa.",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "Which statement correctly compares diffusion of CO₂ and osmosis of water vapor through a leaf stomata under high ambient humidity?",
+      "options": [
+        "Diffusion of CO₂ occurs down its concentration gradient, while osmosis of water vapor occurs down its water‑potential gradient.",
+        "Both diffusion of CO₂ and osmosis of water vapor are driven by the same type of gradient.",
+        "Diffusion of CO₂ is driven by a pressure gradient, whereas osmosis of water vapor follows a concentration gradient.",
+        "Both processes are independent of external humidity."
+      ],
+      "answer": 0,
+      "explanation": "CO₂ moves by simple diffusion down its concentration gradient. Water vapor moves by osmosis (evaporation) driven by a water‑potential gradient between the leaf interior (more negative) and the humid air (less negative).",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "Mineral ions often enter the root cortex via the symplastic pathway. Which situation most strongly favors this route?",
+      "options": [
+        "When the Casparian strip blocks apoplastic movement, minerals must enter the symplast via carrier proteins.",
+        "When soil water potential exceeds root cell water potential, minerals move apoplastically.",
+        "High external salt concentration always forces minerals to use the symplastic pathway.",
+        "Abundant aquaporins make apoplastic diffusion faster than symplastic transport."
+      ],
+      "answer": 0,
+      "explanation": "The Casparian strip in the endodermis prevents passive apoplastic flow, forcing ions to cross plasma membranes into the symplast using specific transport proteins.",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, what is the effect of a sudden drop in atmospheric humidity on the tension within the xylem column?",
+      "options": [
+        "The tension becomes more negative (increases).",
+        "The tension becomes less negative (decreases).",
+        "Tension remains unchanged.",
+        "The tension reverses to a positive pressure."
+      ],
+      "answer": 0,
+      "explanation": "Lower humidity raises the water‑vapour gradient, increasing transpiration rate. Greater water loss creates a larger negative pressure (tension) in the xylem.",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "In the pressure‑flow hypothesis, how does an increase in sugar concentration at the source affect the rate of phloem transport?",
+      "options": [
+        "It increases the bulk flow rate of the phloem sap.",
+        "It decreases the bulk flow rate of the phloem sap.",
+        "It has no effect on the flow rate.",
+        "It reverses the direction of flow."
+      ],
+      "answer": 0,
+      "explanation": "Higher sugar concentration raises the osmotic (solute) potential, drawing more water into the source, raising turgor pressure and enhancing the pressure gradient that drives bulk flow.",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "Which structural feature best distinguishes xylem from phloem in terms of transport directionality?",
+      "options": [
+        "Xylem vessels possess lignified secondary walls, whereas phloem sieve tubes have perforated end walls called sieve plates.",
+        "Phloem cells contain lignified walls, while xylem cells have companion cells.",
+        "Both xylem and phloem have identical wall composition, differing only in sap composition.",
+        "Xylem transports sugars, while phloem transports water."
+      ],
+      "answer": 0,
+      "explanation": "Xylem cells are dead, lignified and form continuous vessels for unidirectional water movement. Phloem sieve tubes are living, lack lignin, and have sieve plates that allow bidirectional transport of photosynthates.",
+      "topic": "Integrated practice"
+    },
+    {
+      "question": "A leaf transpires at a rate of 5 mg cm⁻² h⁻¹. If the leaf area is 200 cm² and the day length is 12 h, what is the total water loss from the leaf during the day?",
+      "options": [
+        "6 g",
+        "12 g",
+        "24 g",
+        "48 g"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration per hour = 5 mg cm⁻² h⁻¹ × 200 cm² = 1000 mg h⁻¹ = 1 g h⁻¹. Over 12 h, total loss = 1 g h⁻¹ × 12 h = 12 g.",
+      "topic": "Integrated practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 19,
+    "mcqCount": 133
+  }
+}

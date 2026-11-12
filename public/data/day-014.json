@@ -1,0 +1,908 @@
+{
+  "day": 14,
+  "courseDate": "2026-09-12",
+  "publishAt": "2026-09-12T06:00:00+05:30",
+  "title": "Day 14: Biomolecules and Cell Division",
+  "introduction": "This lesson integrates the chemistry of biomolecules with the dynamics of cell division, emphasizing structures, functions, and the sequential events that generate new cells, as required for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Biomolecules",
+      "heading": "Major Classes of Biomolecules",
+      "content": "Biomolecules are organic compounds essential for life and are classified into six major groups: carbohydrates, proteins, lipids, nucleic acids, vitamins and minerals, and hormones. Each class differs in elemental composition, structural complexity, and biological role, forming the molecular basis of cellular structure and metabolism.",
+      "keyPoints": [
+        "Six major biomolecule classes provide structural, energetic, informational, and regulatory functions",
+        "All biomolecules are built from carbon, hydrogen, oxygen, nitrogen, and sometimes phosphorus and sulfur"
+      ],
+      "neetTips": [
+        "Memorise the six classes and associate each with a primary cellular role"
+      ]
+    },
+    {
+      "topic": "Carbohydrates",
+      "heading": "Structure and Types of Carbohydrates",
+      "content": "Carbohydrates consist of carbon, hydrogen and oxygen (CH₂O)n. Monosaccharides (e.g., glucose, fructose) are the simplest units; they can cyclise to form furanose or pyranose rings. Disaccharides (e.g., sucrose, maltose) arise from a glycosidic bond between two monosaccharides, releasing water. Polysaccharides (e.g., starch, glycogen, cellulose) are long chains of monosaccharide residues linked by α‑ or β‑glycosidic bonds, determining digestibility and structural function.",
+      "keyPoints": [
+        "Monosaccharides are the building blocks; they exist as open‑chain or cyclic forms",
+        "Glycosidic bond orientation (α or β) dictates polymer properties",
+        "Starch and glycogen are storage; cellulose provides plant rigidity"
+      ],
+      "neetTips": [
+        "Link each carbohydrate type to its physiological role for quick recall"
+      ]
+    },
+    {
+      "topic": "Proteins",
+      "heading": "Amino Acids, Structure and Peptide Bonds",
+      "content": "Proteins are polymers of 20 standard amino acids, each containing an α‑carbon, an amino group, a carboxyl group, and a distinctive R‑group. Peptide bonds form via condensation between the amino group of one amino acid and the carboxyl group of the next, releasing water. Protein structure is hierarchical: primary (sequence), secondary (α‑helix, β‑sheet via hydrogen bonding), tertiary (3‑D folding driven by hydrophobic interactions, disulfide bridges, ionic bonds), and quaternary (assembly of multiple polypeptide chains).",
+      "keyPoints": [
+        "Peptide bond formation is a dehydration synthesis reaction",
+        "Secondary structures are stabilized by hydrogen bonds",
+        "Tertiary structure depends on R‑group interactions"
+      ],
+      "neetTips": [
+        "Remember the four levels of protein structure with a mnemonic: \"Primary, Secondary, Tertiary, Quaternary – PSTQ\""
+      ]
+    },
+    {
+      "topic": "Lipids",
+      "heading": "Types and Biological Roles of Lipids",
+      "content": "Lipids are hydrophobic or amphipathic molecules, including fatty acids, triglycerides, phospholipids, and steroids. Fatty acids are long hydrocarbon chains with a terminal carboxyl group; saturation (presence of double bonds) influences membrane fluidity. Triglycerides store energy, phospholipids form the bilayer of cellular membranes, and steroids act as hormones and membrane components. Lipids also provide insulation and protection.",
+      "keyPoints": [
+        "Saturated fatty acids pack tightly; unsaturated increase membrane fluidity",
+        "Phospholipid bilayer is the fundamental structure of cell membranes",
+        "Steroids serve as signaling molecules"
+      ],
+      "neetTips": [
+        "Associate each lipid class with its key function: energy, membrane, signaling"
+      ]
+    },
+    {
+      "topic": "Nucleic acids",
+      "heading": "DNA, RNA and Nucleotide Structure",
+      "content": "Nucleic acids are polymers of nucleotides, each comprising a five‑carbon sugar (deoxyribose in DNA, ribose in RNA), a phosphate group, and a nitrogenous base (purines: A, G; pyrimidines: C, T/U). DNA stores genetic information in a double‑helix with antiparallel strands held by complementary base pairing (A‑T, G‑C). RNA is single‑stranded, participates in transcription, translation, and regulation, and contains uracil instead of thymine.",
+      "keyPoints": [
+        "Nucleotide = sugar + phosphate + base",
+        "DNA is double‑stranded; RNA is single‑stranded",
+        "Base‑pairing rules dictate genetic coding"
+      ],
+      "neetTips": [
+        "Visualise DNA as a ladder; each rung = complementary base pair"
+      ]
+    },
+    {
+      "topic": "Enzymes",
+      "heading": "Properties and Factors Influencing Enzyme Activity",
+      "content": "Enzymes are protein catalysts that lower activation energy, increasing reaction rates without being consumed. They exhibit specificity via the lock‑and‑key or induced‑fit models. Key properties include optimum temperature, pH, substrate concentration (Michaelis‑Menten kinetics), and the presence of cofactors or inhibitors. Factors such as temperature, pH, ionic strength, and competitive/non‑competitive inhibitors modulate activity.",
+      "keyPoints": [
+        "Enzyme‑substrate complex formation follows induced‑fit model",
+        "Vmax and Km describe enzyme kinetics",
+        "Denaturation occurs beyond optimal temperature/pH"
+      ],
+      "neetTips": [
+        "Remember \"CIP” – Cofactor, Inhibitor, pH – as major activity modifiers"
+      ]
+    },
+    {
+      "topic": "Cell cycle",
+      "heading": "Phases of the Cell Cycle and Interphase Details",
+      "content": "The cell cycle comprises interphase (G1, S, G2) and the mitotic (M) phase. G1 involves cell growth and protein synthesis; S phase replicates DNA; G2 prepares for division by synthesising microtubules and checking DNA integrity. Checkpoints (G1/S, G2/M) ensure fidelity. Cyclins and CDKs regulate progression through phosphorylation events.",
+      "keyPoints": [
+        "Interphase occupies ~90% of the cycle; includes DNA synthesis in S phase",
+        "Checkpoints prevent propagation of DNA errors",
+        "Cyclin‑CDK complexes act as molecular timers"
+      ],
+      "neetTips": [
+        "Link each phase to its primary activity: G1‑growth, S‑synthesis, G2‑pre‑division"
+      ]
+    },
+    {
+      "topic": "Mitosis",
+      "heading": "Stages of Mitosis",
+      "content": "Mitosis ensures equal segregation of sister chromatids into two daughter nuclei. It proceeds through prophase (chromatin condenses, spindle forms, nuclear envelope breaks down), metaphase (chromosomes align at the metaphase plate), anaphase (sister chromatids separate toward opposite poles), and telophase (nuclear envelopes re‑form, chromosomes decondense). Cytokinesis follows, dividing the cytoplasm.",
+      "keyPoints": [
+        "Prophase: spindle assembly, nuclear envelope disintegration",
+        "Metaphase: chromosomes at equatorial plate",
+        "Anaphase: sister chromatids separate",
+        "Telophase: re‑formation of nuclei"
+      ],
+      "neetTips": [
+        "Use the mnemonic \"PMAT” – Prophase, Metaphase, Anaphase, Telophase"
+      ]
+    },
+    {
+      "topic": "Meiosis",
+      "heading": "Meiosis Stages, Crossing Over and Comparison with Mitosis",
+      "content": "Meiosis reduces chromosome number by half through two successive divisions. Meiosis I (reductional) includes prophase I (homologous chromosomes pair and undergo crossing over at chiasmata), metaphase I (bivalents align), anaphase I (homologs separate), and telophase I (two haploid cells). Meiosis II mirrors mitosis, separating sister chromatids. Crossing over creates genetic recombination, increasing variability. Compared to mitosis, meiosis involves homolog pairing, recombination, and yields four genetically distinct haploid cells.",
+      "keyPoints": [
+        "Crossing over occurs in prophase I and is the source of genetic variation",
+        "Meiosis I separates homologous chromosomes; Meiosis II separates sister chromatids",
+        "Result: four non‑identical haploid cells"
+      ],
+      "neetTips": [
+        "Contrast mitosis vs meiosis: 1 division vs 2, diploid vs haploid, identical vs diverse"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the major classes of biomolecules and their cellular functions",
+    "Explain the structural hierarchy of proteins and nucleic acids",
+    "Describe enzyme kinetics and factors influencing activity",
+    "Outline the sequential phases of the cell cycle, mitosis and meiosis, highlighting key differences"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following monosaccharides is a pentose?",
+      "options": [
+        "Glucose",
+        "Ribose",
+        "Fructose",
+        "Galactose"
+      ],
+      "answer": 1,
+      "explanation": "Ribose contains five carbon atoms, classifying it as a pentose, whereas glucose and fructose are hexoses and galactose is also a hexose.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "The disaccharide composed of glucose and fructose is:",
+      "options": [
+        "Lactose",
+        "Sucrose",
+        "Maltose",
+        "Cellobiose"
+      ],
+      "answer": 1,
+      "explanation": "Sucrose is formed by a glycosidic bond between the anomeric carbon of glucose and the anomeric carbon of fructose.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "A peptide bond is formed by:",
+      "options": [
+        "Oxidation of two amino acids",
+        "Condensation between the carboxyl group of one amino acid and the amino group of another",
+        "Hydrogen bonding between side chains",
+        "Dehydration of side‑chain hydroxyl groups"
+      ],
+      "answer": 1,
+      "explanation": "Peptide bonds arise from a condensation (dehydration) reaction linking the carboxyl group of one amino acid to the amino group of the next, releasing water.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which fatty acid is an essential omega‑3 fatty acid?",
+      "options": [
+        "Linoleic acid",
+        "α‑Linolenic acid",
+        "Palmitic acid",
+        "Arachidonic acid"
+      ],
+      "answer": 1,
+      "explanation": "α‑Linolenic acid (ALA) is the plant‑derived essential omega‑3 fatty acid; the body cannot synthesize it.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which nitrogenous base is present in DNA but absent in RNA?",
+      "options": [
+        "Uracil",
+        "Thymine",
+        "Ribose",
+        "Adenine"
+      ],
+      "answer": 1,
+      "explanation": "Thymine is found only in DNA; RNA contains uracil instead of thymine.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "One of the primary functions of proteins in cells is:",
+      "options": [
+        "Genetic information storage",
+        "Catalysis of biochemical reactions",
+        "Long‑term energy storage",
+        "Forming the phospholipid bilayer"
+      ],
+      "answer": 1,
+      "explanation": "Proteins act as enzymes, accelerating biochemical reactions; they are not used for long‑term energy storage (that role belongs to lipids and carbohydrates).",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Enzyme activity is most directly affected by pH because:",
+      "options": [
+        "It increases substrate concentration",
+        "It alters the ionization state of active‑site residues",
+        "It changes the enzyme’s primary structure",
+        "It modifies the DNA coding for the enzyme"
+      ],
+      "answer": 1,
+      "explanation": "pH changes can protonate or deprotonate amino‑acid side chains at the active site, influencing substrate binding and catalytic efficiency.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which polysaccharide serves as the principal storage form of carbohydrate in plants?",
+      "options": [
+        "Cellulose",
+        "Glycogen",
+        "Starch",
+        "Chitin"
+      ],
+      "answer": 2,
+      "explanation": "Starch, composed of amylose and amylopectin, is the main storage polysaccharide in plant cells, whereas cellulose provides structural support.",
+      "topic": "Biomolecules"
+    },
+    {
+      "question": "Which of the following sugars possesses a free aldehyde group and therefore acts as a reducing sugar?",
+      "options": [
+        "Sucrose",
+        "Glucose",
+        "Starch",
+        "Cellulose"
+      ],
+      "answer": 1,
+      "explanation": "Glucose has a free aldehyde group at C‑1, making it a reducing sugar. Sucrose is non‑reducing, and starch and cellulose are polymers without free reducing ends.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "The glycosidic linkage present in maltose is:",
+      "options": [
+        "β(1→4)",
+        "α(1→4)",
+        "α(1→6)",
+        "β(1→2)"
+      ],
+      "answer": 1,
+      "explanation": "Maltose consists of two glucose units joined by an α(1→4) glycosidic bond formed during starch hydrolysis.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "The principal storage polysaccharide of glucose in plants is:",
+      "options": [
+        "Glycogen",
+        "Cellulose",
+        "Starch",
+        "Chitin"
+      ],
+      "answer": 2,
+      "explanation": "Starch (amylose + amylopectin) is the main glucose reserve in plants, whereas glycogen serves this role in animals.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Cellulose provides tensile strength to plant cell walls because its glucose units are linked by:",
+      "options": [
+        "α(1→4) linked glucose forming helical structure",
+        "β(1→4) linked glucose forming linear chains that hydrogen bond",
+        "α(1→6) branched chains",
+        "β(1→2) linkages"
+      ],
+      "answer": 1,
+      "explanation": "Cellulose is composed of β(1→4) linked glucose residues that form straight, parallel chains capable of extensive intermolecular hydrogen bonding, giving high tensile strength.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which statement about the isomeric forms of glucose is correct?",
+      "options": [
+        "D‑glucose and L‑glucose are enantiomers",
+        "D‑glucose and D‑fructose have same molecular formula but differ in functional group",
+        "α‑D‑glucose and β‑D‑glucose differ in configuration at C‑2",
+        "All monosaccharides are optically inactive"
+      ],
+      "answer": 0,
+      "explanation": "D‑glucose and L‑glucose are non‑superimposable mirror images, i.e., enantiomers. The other statements are false.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Among the following disaccharides, which one is non‑reducing?",
+      "options": [
+        "Maltose",
+        "Lactose",
+        "Cellobiose",
+        "Sucrose"
+      ],
+      "answer": 3,
+      "explanation": "Sucrose has its two anomeric carbons involved in the glycosidic bond, leaving no free reducing end, thus it is non‑reducing.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "In hepatic gluconeogenesis and glycogenolysis, which enzyme converts glucose‑6‑phosphate to free glucose?",
+      "options": [
+        "Hexokinase",
+        "Phosphoglucose isomerase",
+        "Glucose‑6‑phosphatase",
+        "Glycogen synthase"
+      ],
+      "answer": 2,
+      "explanation": "Glucose‑6‑phosphatase hydrolyses glucose‑6‑phosphate to glucose, the final step in gluconeogenesis and glycogen breakdown in the liver.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which statement correctly describes the formation of a peptide bond between two amino acids?",
+      "options": [
+        "It is formed by a condensation reaction between the carboxyl group of one amino acid and the amino group of the other, releasing water",
+        "It results from an oxidation‑reduction reaction between side chains",
+        "It is a hydrogen bond between the backbone nitrogen and oxygen atoms",
+        "It links the side chains of two amino acids through a covalent bond"
+      ],
+      "answer": 0,
+      "explanation": "A peptide bond is a covalent amide linkage created by a dehydration (condensation) reaction between the α‑carboxyl group of one amino acid and the α‑amino group of the next, releasing a molecule of water.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which level of protein structure is primarily stabilized by hydrogen bonds between the backbone carbonyl oxygen and amide hydrogen atoms?",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ],
+      "answer": 1,
+      "explanation": "The secondary structure (α‑helices and β‑sheets) is stabilized mainly by hydrogen bonds formed between the carbonyl oxygen and the amide hydrogen of the peptide backbone.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which of the following amino acids is NOT essential for humans?",
+      "options": [
+        "Lysine",
+        "Phenylalanine",
+        "Glycine",
+        "Tryptophan"
+      ],
+      "answer": 2,
+      "explanation": "Glycine can be synthesized by the human body, whereas lysine, phenylalanine and tryptophan must be obtained from the diet, making them essential.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "A protein loses its activity on heating but regains full activity after cooling. This behavior exemplifies:",
+      "options": [
+        "Irreversible denaturation",
+        "Reversible denaturation",
+        "Proteolytic cleavage",
+        "Allosteric inhibition"
+      ],
+      "answer": 1,
+      "explanation": "Reversible denaturation involves temporary disruption of non‑covalent interactions; the protein can refold to its native conformation when the denaturing condition is removed, restoring activity.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "The quaternary structure of hemoglobin is best described as:",
+      "options": [
+        "A single polypeptide chain",
+        "Two identical polypeptide chains",
+        "Four polypeptide chains, two α and two β",
+        "A complex of protein and lipid"
+      ],
+      "answer": 2,
+      "explanation": "Hemoglobin consists of four polypeptide subunits—two α and two β chains—held together by non‑covalent interactions, representing its quaternary structure.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which technique is most commonly used to separate proteins according to their molecular weight?",
+      "options": [
+        "SDS‑PAGE",
+        "Isoelectric focusing",
+        "Southern blotting",
+        "Polymerase chain reaction"
+      ],
+      "answer": 0,
+      "explanation": "SDS‑PAGE (sodium dodecyl sulfate‑polyacrylamide gel electrophoresis) denatures proteins and imparts a uniform negative charge, allowing separation based solely on molecular weight.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "The side chain of which amino acid can form a covalent disulfide bond with another identical side chain?",
+      "options": [
+        "Cysteine",
+        "Methionine",
+        "Lysine",
+        "Serine"
+      ],
+      "answer": 0,
+      "explanation": "Cysteine contains a thiol (‑SH) group that can oxidize to form a disulfide bond (‑S‑S‑) with another cysteine residue, stabilizing protein tertiary and quaternary structures.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which of the following statements correctly describes the structural difference between saturated and unsaturated fatty acids?",
+      "options": [
+        "Saturated fatty acids contain at least one double bond in the hydrocarbon chain.",
+        "Unsaturated fatty acids have no double bonds.",
+        "Saturated fatty acids have no carbon‑carbon double bonds, whereas unsaturated fatty acids contain one or more double bonds.",
+        "Both have the same number of double bonds but differ in chain length."
+      ],
+      "answer": 2,
+      "explanation": "Saturated fatty acids lack C=C double bonds, giving a straight chain, while unsaturated fatty acids possess one (monounsaturated) or more (polyunsaturated) double bonds that introduce kinks.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "The primary reason why phospholipids form bilayers in aqueous environments is:",
+      "options": [
+        "Their hydrophobic tails are ionic.",
+        "The amphipathic nature with hydrophilic heads and hydrophobic tails.",
+        "They are completely hydrophilic.",
+        "They possess a rigid aromatic ring structure."
+      ],
+      "answer": 1,
+      "explanation": "Phospholipids have a polar (hydrophilic) head and two non‑polar (hydrophobic) fatty‑acid tails, causing them to arrange with heads outward and tails inward, forming a bilayer.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which lipid is a precursor for the synthesis of eicosanoids such as prostaglandins and leukotrienes?",
+      "options": [
+        "Palmitic acid",
+        "Linoleic acid",
+        "Arachidonic acid",
+        "Oleic acid"
+      ],
+      "answer": 2,
+      "explanation": "Arachidonic acid (20:4 n‑6) is released from membrane phospholipids and enzymatically converted into prostaglandins, thromboxanes, and leukotrienes.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "In human diet, which of the following fatty acids is considered essential because it cannot be synthesized de novo?",
+      "options": [
+        "Stearic acid",
+        "α‑Linolenic acid",
+        "Myristic acid",
+        "Palmitic acid"
+      ],
+      "answer": 1,
+      "explanation": "α‑Linolenic acid (18:3 n‑3) is an essential omega‑3 fatty acid; humans lack the desaturase enzymes to introduce the first double bond at the n‑3 position.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which of the following statements about cholesterol is FALSE?",
+      "options": [
+        "Cholesterol is synthesized only in the liver.",
+        "Cholesterol is a component of cell membranes that influences fluidity.",
+        "Cholesterol is the precursor for vitamin D synthesis.",
+        "Excess dietary cholesterol can raise plasma LDL levels."
+      ],
+      "answer": 0,
+      "explanation": "While the liver produces most cholesterol, many other tissues (e.g., adrenal glands, intestines, brain) also synthesize it; therefore the statement that it is synthesized only in the liver is false.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "During β‑oxidation of a fatty acid, each cycle removes a two‑carbon unit in the form of:",
+      "options": [
+        "Acetyl‑CoA",
+        "Propionyl‑CoA",
+        "Succinyl‑CoA",
+        "Malonyl‑CoA"
+      ],
+      "answer": 0,
+      "explanation": "Each round of β‑oxidation cleaves a fatty‑acid chain to generate one molecule of acetyl‑CoA, which enters the citric acid cycle.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which of the following lipids is most abundant in the myelin sheath of nerve cells?",
+      "options": [
+        "Triglycerides",
+        "Phosphatidylcholine",
+        "Sphingomyelin",
+        "Cholesterol"
+      ],
+      "answer": 2,
+      "explanation": "Sphingomyelin, a sphingolipid, is a major constituent of the myelin membrane, providing structural stability and insulating properties.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which of the following is NOT a component of a nucleotide?",
+      "options": [
+        "Phosphate group",
+        "Deoxyribose sugar",
+        "Nitrogenous base",
+        "Amino acid"
+      ],
+      "answer": 3,
+      "explanation": "A nucleotide consists of a phosphate group, a five‑carbon sugar (ribose or deoxyribose) and a nitrogenous base; amino acids are the building blocks of proteins, not nucleotides.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "In DNA, adenine pairs with thymine through which type of interaction?",
+      "options": [
+        "Two hydrogen bonds",
+        "Three hydrogen bonds",
+        "Ionic bonds",
+        "Covalent bonds"
+      ],
+      "answer": 0,
+      "explanation": "Adenine and thymine are complementary bases that are held together by two hydrogen bonds, providing stability while allowing strand separation during replication.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which statement correctly distinguishes DNA from RNA?",
+      "options": [
+        "DNA contains uracil",
+        "DNA is single‑stranded",
+        "RNA contains deoxyribose",
+        "DNA has thymine instead of uracil"
+      ],
+      "answer": 3,
+      "explanation": "DNA uses the pyrimidine thymine, whereas RNA replaces thymine with uracil; the other options are incorrect because DNA contains deoxyribose, is double‑stranded, and does not contain uracil.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "The directionality of a DNA strand is defined by which functional groups at its ends?",
+      "options": [
+        "5' phosphate and 3' hydroxyl",
+        "3' phosphate and 5' hydroxyl",
+        "5' amino and 3' carboxyl",
+        "5' carbonyl and 3' amine"
+      ],
+      "answer": 0,
+      "explanation": "Each DNA strand has a 5' end bearing a phosphate group and a 3' end bearing a free hydroxyl group on the sugar, giving the strand its 5'→3' polarity.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which enzyme synthesizes a complementary RNA strand using DNA as a template during transcription?",
+      "options": [
+        "DNA polymerase I",
+        "RNA polymerase",
+        "DNA ligase",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "RNA polymerase catalyzes the formation of RNA by adding ribonucleotides complementary to the DNA template during transcription.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which statement about the antiparallel nature of DNA is true?",
+      "options": [
+        "Both strands run 5'→3' in the same direction",
+        "One strand runs 5'→3' and the other runs 3'→5'",
+        "Both strands run 3'→5' in opposite directions",
+        "DNA strands have no defined orientation"
+      ],
+      "answer": 1,
+      "explanation": "DNA is antiparallel: one strand is oriented 5'→3' while the complementary strand runs opposite, 3'→5', allowing base pairing between opposite ends.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "In eukaryotic cells, the primary site where DNA replication occurs is:",
+      "options": [
+        "Nucleolus",
+        "Mitochondria",
+        "Cytoplasm",
+        "Nucleus"
+      ],
+      "answer": 3,
+      "explanation": "DNA replication of the nuclear genome takes place in the nucleus; mitochondrial DNA replicates within mitochondria, but the bulk of genomic DNA is replicated in the nucleus.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which statement best describes the induced‑fit model of enzyme action?",
+      "options": [
+        "The enzyme active site is rigid and matches the substrate exactly.",
+        "Substrate binding induces a conformational change in the enzyme.",
+        "The enzyme changes shape only after product formation.",
+        "Enzyme activity is independent of substrate concentration."
+      ],
+      "answer": 1,
+      "explanation": "In the induced‑fit model, binding of the substrate causes the enzyme to undergo a conformational change that enhances complementarity at the active site, facilitating catalysis.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "A competitive inhibitor affects enzyme kinetics by:",
+      "options": [
+        "Binding irreversibly to the enzyme‑substrate complex",
+        "Decreasing Vmax without changing Km",
+        "Increasing the apparent Km while Vmax remains unchanged",
+        "Binding to an allosteric site and lowering Vmax"
+      ],
+      "answer": 2,
+      "explanation": "A competitive inhibitor competes with the substrate for the active site, raising the apparent Km (lower affinity) but not affecting the maximum velocity because the inhibition can be overcome at high substrate concentrations.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "Which coenzyme is essential for the activity of the pyruvate dehydrogenase complex?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "Coenzyme A",
+        "Thiamine pyrophosphate"
+      ],
+      "answer": 3,
+      "explanation": "Thiamine pyrophosphate (TPP) is the coenzyme that assists in the decarboxylation of pyruvate within the pyruvate dehydrogenase complex.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "Pepsin exhibits optimal activity at pH ~2 because:",
+      "options": [
+        "It is a basic enzyme that requires high pH",
+        "Acidic pH stabilises its tertiary structure",
+        "Low pH protonates active‑site residues essential for catalysis",
+        "Pepsin functions only in the cytosol where pH is low"
+      ],
+      "answer": 2,
+      "explanation": "At low pH, key residues in pepsin’s active site become protonated, which is necessary for its catalytic mechanism, giving it maximal activity in the acidic gastric environment.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "In Michaelis‑Menten kinetics, the substrate concentration at which the reaction rate is half of Vmax is called:",
+      "options": [
+        "Vmax",
+        "Km",
+        "kcat",
+        "Ki"
+      ],
+      "answer": 1,
+      "explanation": "Km is defined as the substrate concentration at which the reaction velocity reaches half of its maximum (Vmax) and reflects the enzyme’s affinity for the substrate.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "Which of the following does NOT normally influence enzyme activity?",
+      "options": [
+        "Temperature",
+        "Substrate concentration",
+        "Light intensity",
+        "Presence of inhibitors"
+      ],
+      "answer": 2,
+      "explanation": "Enzyme activity is generally unaffected by light intensity, whereas temperature, substrate concentration, and inhibitors are common modulators of enzymatic rates.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "When an enzyme shows zero‑order kinetics with respect to substrate at high substrate concentrations, the enzyme is:",
+      "options": [
+        "The reaction rate is directly proportional to [S]",
+        "Saturated with substrate",
+        "Exhibiting cooperative binding",
+        "Allosterically inhibited"
+      ],
+      "answer": 1,
+      "explanation": "At high substrate levels the active sites are fully occupied, so the rate becomes independent of further increases in [S]; this is characteristic of enzyme saturation.",
+      "topic": "Enzymes"
+    },
+    {
+      "question": "What is the correct chronological order of the main phases of the eukaryotic cell cycle?",
+      "options": [
+        "G1 → S → G2 → M",
+        "G1 → G2 → S → M",
+        "S → G1 → G2 → M",
+        "M → G1 → S → G2"
+      ],
+      "answer": 0,
+      "explanation": "The cell cycle proceeds from Gap 1 (G1) to DNA synthesis (S), then Gap 2 (G2), and finally Mitosis (M).",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which checkpoint ensures that DNA replication has been completed before the cell enters mitosis?",
+      "options": [
+        "G1 checkpoint",
+        "G2 checkpoint",
+        "Metaphase checkpoint",
+        "Spindle assembly checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2 checkpoint verifies that DNA replication is complete and undamaged before the cell proceeds to mitosis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Cyclin‑dependent kinase (CDK) activity reaches its highest level during which phase of the cell cycle?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 3,
+      "explanation": "CDK activity progressively rises and peaks during M phase, driving the events of mitosis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which of the following is NOT a function of the G1 phase?",
+      "options": [
+        "Cell growth and increase in organelle number",
+        "DNA replication",
+        "Synthesis of RNA and proteins",
+        "Preparation for DNA synthesis"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication occurs in the S phase; G1 is dedicated to cell growth and preparation for DNA synthesis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "The restriction point (R) that commits a cell to division is located in which phase?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 0,
+      "explanation": "The restriction point is in late G1; once passed, the cell is committed to completing the cell cycle.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "Which protein acts as a tumor suppressor that can halt cell‑cycle progression in response to DNA damage?",
+      "options": [
+        "p53",
+        "Cyclin B",
+        "CDK2",
+        "Retinoblastoma protein (Rb)"
+      ],
+      "answer": 0,
+      "explanation": "p53 detects DNA damage and can induce cell‑cycle arrest, allowing repair or triggering apoptosis.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "During which phase does the cell double its DNA content?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "In S phase, each chromosome is replicated, resulting in a doubling of the DNA content.",
+      "topic": "Cell cycle"
+    },
+    {
+      "question": "During which stage of mitosis does the nuclear envelope disintegrate and spindle microtubules attach to kinetochores?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 0,
+      "explanation": "In prophase (often described as prometaphase), the nuclear envelope breaks down and kinetochores become exposed for attachment to spindle fibers.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "In which phase are sister chromatids separated and pulled toward opposite poles of the cell?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "Anaphase is defined by the cleavage of cohesin complexes, allowing sister chromatids to move to opposite spindle poles.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "The checkpoint that ensures all chromosomes are correctly attached to the spindle before proceeding to anaphase is called:",
+      "options": [
+        "G1 checkpoint",
+        "Metaphase (spindle assembly) checkpoint",
+        "G2 checkpoint",
+        "Cytokinesis checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The spindle assembly checkpoint operates during metaphase, delaying anaphase onset until every kinetochore is under tension from properly attached microtubules.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Which statement about centromeres in mitosis is correct?",
+      "options": [
+        "Centromeres duplicate during S phase and remain fused until anaphase",
+        "Each chromatid acquires an independent centromere after replication",
+        "Centromeres are the sites where spindle fibers attach to kinetochores",
+        "Centromeres dissolve during metaphase"
+      ],
+      "answer": 2,
+      "explanation": "Centromeres serve as the attachment point for kinetochores, which link chromosomes to spindle microtubules.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "The key enzyme complex that drives the G2‑M transition by phosphorylating mitotic proteins is:",
+      "options": [
+        "DNA polymerase",
+        "Cyclin‑dependent kinase (CDK1)",
+        "RNA polymerase II",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "Activation of CDK1 bound to cyclin B triggers entry into mitosis by phosphorylating numerous substrates required for chromosome condensation and spindle formation.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "Cytokinesis in animal cells is achieved by:",
+      "options": [
+        "Formation of a cell plate",
+        "Cleavage furrow formation by a contractile actomyosin ring",
+        "Plasmolysis",
+        "Development of a new tonoplast"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells form a contractile ring of actin and myosin that constricts the plasma membrane, producing a cleavage furrow that divides the cytoplasm.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "An error in mitosis that can produce a somatic cell with an abnormal chromosome number is most directly caused by:",
+      "options": [
+        "Failure of spindle fibers to attach to kinetochores",
+        "Premature separation of sister chromatids during anaphase",
+        "Failure of cytokinesis",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "If sister chromatids separate prematurely, one daughter cell may receive an extra chromatid while the other loses one, leading to aneuploidy.",
+      "topic": "Mitosis"
+    },
+    {
+      "question": "During which stage of meiosis I does crossing over between homologous chromosomes occur?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over takes place in prophase I when homologous chromosomes pair and exchange genetic material.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "The chromosome number in gametes produced by meiosis, compared to the somatic cell, is:",
+      "options": [
+        "the same as the somatic cell",
+        "half the somatic number",
+        "double the somatic number",
+        "variable depending on species"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis reduces the diploid (2n) chromosome complement to a haploid (n) set, halving the number.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "How are homologous chromosomes oriented on the metaphase plate during metaphase I?",
+      "options": [
+        "Paired homologues line up side by side",
+        "Individual chromosomes line up randomly",
+        "Sister chromatids line up together",
+        "Chromosomes are not aligned at this stage"
+      ],
+      "answer": 0,
+      "explanation": "In metaphase I, each pair of homologous chromosomes aligns together at the equatorial plane, allowing their subsequent separation.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "If nondisjunction occurs in meiosis II, which pattern of chromosome numbers will be observed in the four resulting gametes?",
+      "options": [
+        "Two gametes with n+1 chromosomes and two with n-1 chromosomes",
+        "All gametes with the normal n chromosomes",
+        "Two gametes with n chromosomes and two with n+2 chromosomes",
+        "All gametes with n+1 chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis II separates sister chromatids; failure to separate one pair yields one gamete with an extra chromosome (n+1) and another missing that chromosome (n-1), while the other two gametes remain normal.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "Which protein primarily mediates the formation of chiasmata during prophase I of meiosis?",
+      "options": [
+        "DNA ligase",
+        "DMC1 recombinase",
+        "DNA polymerase III",
+        "Topoisomerase II"
+      ],
+      "answer": 1,
+      "explanation": "DMC1, a RecA homolog, facilitates homologous recombination and the establishment of chiasmata during prophase I.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "The principal distinction between meiosis I and meiosis II is that meiosis I separates:",
+      "options": [
+        "Sister chromatids",
+        "Homologous chromosomes",
+        "Both sister chromatids and homologues simultaneously",
+        "No chromosomes; it is a resting phase"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis I is a reductional division that separates homologous chromosome pairs, whereas meiosis II is equational, separating sister chromatids.",
+      "topic": "Meiosis"
+    },
+    {
+      "question": "In human oogenesis, which meiotic division is arrested until the time of ovulation?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Both meiosis I and II",
+        "Neither; oocytes complete meiosis continuously"
+      ],
+      "answer": 1,
+      "explanation": "Primary oocytes are arrested in prophase I; after ovulation, the secondary oocyte completes meiosis I and arrests again in metaphase II until fertilization.",
+      "topic": "Meiosis"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 9,
+    "mcqCount": 64
+  }
+}

@@ -1,0 +1,1757 @@
+{
+  "day": 52,
+  "courseDate": "2026-10-20",
+  "publishAt": "2026-10-20T06:00:00+05:30",
+  "title": "Day 52 – Nitrogen Metabolism",
+  "introduction": "This lesson explores the role of nitrogen in plant growth, its sources, fixation mechanisms, assimilation pathways, and its integration into the nitrogen cycle, aligning with NEET‑UG expectations.",
+  "sections": [
+    {
+      "topic": "Importance of nitrogen",
+      "heading": "Why Nitrogen is Vital for Plants",
+      "content": "Nitrogen is a constituent of amino acids, nucleic acids, chlorophyll and ATP, making it indispensable for protein synthesis, genetic material, photosynthesis and energy transfer. Deficiency manifests as chlorosis, stunted growth and reduced yield.",
+      "keyPoints": [
+        "Component of amino acids, nucleic acids, chlorophyll, ATP",
+        "Controls protein synthesis and cell division",
+        "Deficiency symptoms: yellowing of older leaves, poor growth"
+      ],
+      "neetTips": [
+        "Remember nitrogen’s link to chlorophyll and protein – a common NEET fact."
+      ]
+    },
+    {
+      "topic": "Nitrogen as a major nutrient",
+      "heading": "Nitrogen – A Primary Macronutrient",
+      "content": "Among the macronutrients (N, P, K), nitrogen is required in the largest quantity (≈ 2–5% of dry weight). It regulates vegetative growth more than any other nutrient, influencing leaf area and canopy development.",
+      "keyPoints": [
+        "Classified as a primary macronutrient",
+        "Required in highest proportion of all nutrients",
+        "Promotes vegetative over reproductive growth"
+      ],
+      "neetTips": [
+        "NEET often asks which macronutrient is most needed for leaf development – answer: nitrogen."
+      ]
+    },
+    {
+      "topic": "Nitrogen sources for plants",
+      "heading": "Natural and Anthropogenic Nitrogen Sources",
+      "content": "Plants acquire nitrogen from atmospheric N₂ (via fixation), inorganic forms (nitrate NO₃⁻, ammonium NH₄⁺) in soil, and organic matter (proteins, amino acids) through mineralisation. Fertilizers supplement these sources.",
+      "keyPoints": [
+        "Atmospheric N₂ (fixed biologically)",
+        "Soil nitrate and ammonium",
+        "Organic nitrogen from mineralisation",
+        "Synthetic fertilizers (urea, ammonium nitrate)"
+      ],
+      "neetTips": [
+        "Distinguish between N sources: fixation vs. soil inorganic vs. organic."
+      ]
+    },
+    {
+      "topic": "Atmospheric nitrogen",
+      "heading": "Abundance and Inertness of Atmospheric N₂",
+      "content": "Atmospheric nitrogen constitutes ~78% of air but is chemically inert due to the strong triple bond (N≡N, 941 kJ/mol). Direct uptake by plants is impossible without enzymatic conversion to reactive forms.",
+      "keyPoints": [
+        "78% of atmosphere",
+        "Triple bond makes N₂ highly stable",
+        "Requires conversion to NH₃, NO₃⁻, or NH₄⁺"
+      ],
+      "neetTips": [
+        "Bond energy of N≡N is a high‑yield NEET fact."
+      ]
+    },
+    {
+      "topic": "Nitrogen fixation",
+      "heading": "Conversion of N₂ to Bioavailable Forms",
+      "content": "Nitrogen fixation is the enzymatic reduction of N₂ to ammonia (NH₃) using the nitrogenase complex, consuming ATP and electrons. It bridges the gap between atmospheric N₂ and plant‑usable nitrogen.",
+      "keyPoints": [
+        "Reduces N₂ → NH₃",
+        "Catalyzed by nitrogenase",
+        "Consumes ATP and reductants"
+      ],
+      "neetTips": [
+        "Fixation = N₂ → NH₃; remember the direction of conversion."
+      ]
+    },
+    {
+      "topic": "Biological nitrogen fixation",
+      "heading": "Microbial Mediation of Nitrogen Fixation",
+      "content": "Biological fixation is performed by diazotrophic bacteria and archaea, either free‑living or in symbiosis. It accounts for > 60% of natural nitrogen input to ecosystems.",
+      "keyPoints": [
+        "Carried out by diazotrophs",
+        "Free‑living and symbiotic types",
+        "Major natural source of fixed nitrogen"
+      ],
+      "neetTips": [
+        "Diazotroph = nitrogen‑fixing microbe – a term to recall."
+      ]
+    },
+    {
+      "topic": "Free-living nitrogen-fixing organisms",
+      "heading": "Autonomous Nitrogen Fixers",
+      "content": "Genera such as Azotobacter, Clostridium and Cyanobacteria fix N₂ in soil or water without a host plant. They require high ATP, are oxygen‑sensitive, and thrive in neutral to alkaline soils.",
+      "keyPoints": [
+        "Examples: Azotobacter, Clostridium, Cyanobacteria",
+        "Operate independently of plant hosts",
+        "Require low O₂ and high ATP"
+      ],
+      "neetTips": [
+        "Link Azotobacter with free‑living fixation for NEET."
+      ]
+    },
+    {
+      "topic": "Symbiotic nitrogen fixation",
+      "heading": "Mutualistic Plant‑Microbe Partnerships",
+      "content": "In legumes, rhizobia infect root hairs, leading to nodule formation where nitrogenase operates under microaerobic conditions. The plant supplies carbon, while bacteria supply ammonia.",
+      "keyPoints": [
+        "Occurs in legume root nodules",
+        "Rhizobia–plant mutualism",
+        "Microaerobic nodule environment"
+      ],
+      "neetTips": [
+        "Remember the exchange: plant gives carbs, bacteria give NH₃."
+      ]
+    },
+    {
+      "topic": "Rhizobium and leguminous plants",
+      "heading": "Specificity of Rhizobium‑Legume Interaction",
+      "content": "Rhizobium species recognize flavonoids secreted by legume roots, inducing nod gene expression and leading to infection thread formation. Host specificity is governed by Nod factors.",
+      "keyPoints": [
+        "Flavonoid signaling triggers nod genes",
+        "Nod factors determine host specificity",
+        "Infection thread guides bacteria into cortex"
+      ],
+      "neetTips": [
+        "Flavonoid → Nod factor → nodule – a classic NEET pathway."
+      ]
+    },
+    {
+      "topic": "Root nodules",
+      "heading": "Structure and Function of Nitrogen‑Fixing Nodules",
+      "content": "Nodules are specialized organs with a central infected zone (bacteroids) surrounded by a peripheral cortex. Leghemoglobin maintains low O₂, protecting nitrogenase while allowing respiration.",
+      "keyPoints": [
+        "Infected zone contains bacteroids",
+        "Leghemoglobin buffers O₂",
+        "Cortex supplies nutrients"
+      ],
+      "neetTips": [
+        "Leghemoglobin gives nodules a pink colour – a visual cue for exams."
+      ]
+    },
+    {
+      "topic": "Nitrogenase enzyme",
+      "heading": "Catalyst of Atmospheric Nitrogen Reduction",
+      "content": "Nitrogenase is a metalloenzyme composed of Fe‑protein (dinitrogenase reductase) and MoFe‑protein (dinitrogenase). It transfers electrons from ferredoxin to N₂, forming NH₃ in a stepwise reduction.",
+      "keyPoints": [
+        "Two components: Fe‑protein and MoFe‑protein",
+        "Requires Fe‑Mo cofactor (FeMo‑co)",
+        "Electron flow: ferredoxin → Fe‑protein → MoFe‑protein"
+      ],
+      "neetTips": [
+        "MoFe‑protein houses the FeMo‑cofactor – a high‑yield detail."
+      ]
+    },
+    {
+      "topic": "Role of ATP in nitrogen fixation",
+      "heading": "Energy Demand of the Nitrogenase Reaction",
+      "content": "Each N₂ reduced to 2 NH₃ consumes at least 16 ATP molecules (8 per NH₃). ATP hydrolysis drives conformational changes in the Fe‑protein, enabling electron transfer to the MoFe‑protein.",
+      "keyPoints": [
+        "Minimum 16 ATP per N₂ reduced",
+        "ATP hydrolysis powers Fe‑protein cycling",
+        "Coupled to electron transfer"
+      ],
+      "neetTips": [
+        "Remember the 16‑ATP figure – frequently asked."
+      ]
+    },
+    {
+      "topic": "Nitrogenase sensitivity to oxygen",
+      "heading": "Oxygen Inhibition of Nitrogenase Activity",
+      "content": "Molecular O₂ binds to the FeMo‑cofactor, irreversibly inactivating nitrogenase. Leghemoglobin and thickened nodule walls create a low‑O₂ environment (~10⁻³ atm) to protect the enzyme.",
+      "keyPoints": [
+        "O₂ binds FeMo‑cofactor → inactivation",
+        "Leghemoglobin maintains microaerobic conditions",
+        "Nodule cortex limits O₂ diffusion"
+      ],
+      "neetTips": [
+        "Link leghemoglobin’s role directly to O₂ buffering."
+      ]
+    },
+    {
+      "topic": "Conversion of atmospheric nitrogen",
+      "heading": "From N₂ to Plant‑Usable Forms",
+      "content": "Fixed NH₃ released by bacteria is quickly protonated to NH₄⁺, which can be assimilated directly or oxidized to NO₃⁻ by nitrifying bacteria. Both NH₄⁺ and NO₃⁻ are taken up by plant roots.",
+      "keyPoints": [
+        "NH₃ → NH₄⁺ (primary assimilation)",
+        "NH₄⁺ → NO₂⁻ → NO₃⁻ (nitrification)",
+        "Plants absorb NH₄⁺ and NO₃⁻"
+      ],
+      "neetTips": [
+        "Sequence: fixation → NH₃ → NH₄⁺ → (optional) NO₃⁻."
+      ]
+    },
+    {
+      "topic": "Nitrate assimilation",
+      "heading": "Reduction of NO₃⁻ to NH₄⁺ in Plants",
+      "content": "Nitrate is reduced to nitrite by nitrate reductase (NADH‑dependent) in the cytosol, then nitrite is reduced to ammonium by nitrite reductase (ferredoxin‑dependent) in chloroplasts or plastids.",
+      "keyPoints": [
+        "Nitrate reductase: NO₃⁻ → NO₂⁻ (cytosol)",
+        "Nitrite reductase: NO₂⁻ → NH₄⁺ (plastid)",
+        "Requires NADH and ferredoxin"
+      ],
+      "neetTips": [
+        "Two‑step reduction – keep enzyme locations clear."
+      ]
+    },
+    {
+      "topic": "Ammonium assimilation",
+      "heading": "Incorporation of NH₄⁺ into Organic Molecules",
+      "content": "Ammonium is assimilated via the GS‑GOGAT cycle. Glutamine synthetase (GS) combines NH₄⁺ with glutamate to form glutamine; glutamate synthase (GOGAT) transfers the amide group to 2‑oxoglutarate, regenerating glutamate.",
+      "keyPoints": [
+        "GS: NH₄⁺ + Glu → Gln",
+        "GOGAT: Gln + 2‑oxoglutarate → 2 Glu",
+        "Primary route for NH₄⁺ incorporation"
+      ],
+      "neetTips": [
+        "GS‑GOGAT is the core NH₄⁺ assimilation pathway – a must‑remember acronym."
+      ]
+    },
+    {
+      "topic": "Formation of amino acids",
+      "heading": "Synthesis of Amino Acids from Glutamate",
+      "content": "Glutamate serves as the amino donor for transamination reactions catalyzed by aminotransferases, producing other amino acids (e.g., aspartate, alanine). This links nitrogen metabolism to carbon skeletons from the TCA cycle.",
+      "keyPoints": [
+        "Transamination transfers –NH₂ from Glu to α‑keto acids",
+        "Key enzymes: aminotransferases",
+        "Connects N metabolism with TCA intermediates"
+      ],
+      "neetTips": [
+        "Remember glutamate ↔ α‑keto acid ↔ other amino acids via transamination."
+      ]
+    },
+    {
+      "topic": "Nitrogen cycle overview",
+      "heading": "Integrated Flow of Nitrogen in Ecosystems",
+      "content": "The nitrogen cycle comprises fixation, mineralisation, nitrification, assimilation, ammonification and denitrification. It balances atmospheric, soil, and organic nitrogen pools, ensuring continuous nutrient supply.",
+      "keyPoints": [
+        "Key processes: fixation, mineralisation, nitrification, assimilation, ammonification, denitrification",
+        "Maintains equilibrium between N pools",
+        "Human activities (fertilizers) perturb the cycle"
+      ],
+      "neetTips": [
+        "Sketching the cycle helps recall sequence; focus on where NH₄⁺ and NO₃⁻ appear."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the sources, fixation mechanisms and assimilation pathways of nitrogen in plants.",
+    "Describe the structure, function and regulation of nitrogenase and its sensitivity to oxygen.",
+    "Integrate the steps of the nitrogen cycle and relate them to NEET‑level questions."
+  ],
+  "mcqs": [
+    {
+      "question": "Which plant pigment directly incorporates nitrogen in its molecular structure?",
+      "options": [
+        "Cellulose",
+        "Starch",
+        "Chlorophyll a",
+        "Lipids"
+      ],
+      "answer": 2,
+      "explanation": "Chlorophyll a contains a porphyrin ring with four nitrogen atoms that coordinate the central magnesium ion.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "The earliest visible symptom of nitrogen deficiency in most crops is:",
+      "options": [
+        "Yellowing of older leaves (chlorosis)",
+        "Stunted root growth",
+        "Excessive leaf expansion",
+        "Increased fruit set"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen deficiency reduces chlorophyll synthesis, causing chlorosis that appears first in the older leaves where nitrogen is mobilized to younger growth.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "In amino acid biosynthesis, nitrogen primarily contributes which functional group?",
+      "options": [
+        "Carboxyl group",
+        "Amino group",
+        "Hydroxyl group",
+        "Methyl group"
+      ],
+      "answer": 1,
+      "explanation": "The amino group (-NH₂) of amino acids is derived from inorganic nitrogen sources such as ammonium or nitrate.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "Which process in the nitrogen cycle releases nitrogen in a form that plants can readily assimilate?",
+      "options": [
+        "Nitrification",
+        "Denitrification",
+        "Nitrogen fixation",
+        "Ammonification"
+      ],
+      "answer": 3,
+      "explanation": "Ammonification converts organic nitrogen from dead material into ammonium (NH₄⁺), which is directly taken up by plant roots.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "Why is nitrogen often the limiting nutrient in many terrestrial ecosystems?",
+      "options": [
+        "It is the most abundant element in the atmosphere",
+        "Molecular nitrogen (N₂) is chemically inert and unavailable to most plants",
+        "It is highly soluble in water",
+        "It is easily stored in plant vacuoles"
+      ],
+      "answer": 1,
+      "explanation": "Although N₂ makes up ~78% of the atmosphere, most plants cannot use it directly; they depend on fixed forms like nitrate or ammonium, making nitrogen limiting.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "Nitrogen is essential in nucleic acids because:",
+      "options": [
+        "It forms the phosphate backbone",
+        "It provides the sugar moiety",
+        "It is part of the nitrogenous bases that store genetic information",
+        "It acts as a catalyst in replication"
+      ],
+      "answer": 2,
+      "explanation": "The nitrogen atoms are integral components of the purine and pyrimidine bases (adenine, guanine, cytosine, thymine/uracil) that encode genetic information.",
+      "topic": "Importance of nitrogen"
+    },
+    {
+      "question": "Why is nitrogen regarded as the most important macronutrient for plant growth?",
+      "options": [
+        "It is a component of chlorophyll",
+        "It forms the backbone of nucleic acids and proteins",
+        "It is involved in photosynthetic electron transport",
+        "It regulates stomatal opening"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen is a major constituent of amino acids, nucleic acids and proteins, which are essential for cell structure and metabolism, making it the primary macronutrient.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Nitrogen deficiency in most crops first appears as which symptom?",
+      "options": [
+        "Yellowing of older leaves (chlorosis)",
+        "Stunted root growth",
+        "Necrosis of leaf tips",
+        "Excessive branching"
+      ],
+      "answer": 0,
+      "explanation": "Because nitrogen is mobile in plants, it is translocated from older to younger tissues, causing chlorosis of older leaves initially.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Which form of nitrogen is most readily absorbed by plant roots from the soil?",
+      "options": [
+        "Nitrate (NO3-)",
+        "Ammonium (NH4+)",
+        "Atmospheric N2",
+        "Nitrite (NO2-)"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate is the predominant inorganic nitrogen form in aerobic soils and is taken up efficiently by most plant species.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Which statement correctly describes nitrogen’s role in photosynthesis?",
+      "options": [
+        "Nitrogen is a constituent of the pigment chlorophyll a only",
+        "Nitrogen is part of the Rubisco enzyme, the key CO2‑fixing enzyme",
+        "Nitrogen directly captures light energy",
+        "Nitrogen is not involved in photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Rubisco, the enzyme that catalyzes CO2 fixation in the Calvin cycle, is a nitrogen‑rich protein, making nitrogen vital for photosynthetic capacity.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Approximately what percentage of dry biomass does nitrogen constitute in a high‑yielding cereal crop?",
+      "options": [
+        "0.5%",
+        "1‑2%",
+        "5‑6%",
+        "10%"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogen typically makes up about 5–6 % of the dry weight of fast‑growing, high‑yielding crops, reflecting its major role in protein synthesis.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Which soil condition most severely limits nitrogen availability to plants?",
+      "options": [
+        "High pH (alkaline)",
+        "Low organic matter content",
+        "High moisture content",
+        "Presence of mycorrhizal fungi"
+      ],
+      "answer": 1,
+      "explanation": "Low organic matter reduces the pool of mineralizable nitrogen, limiting the supply of both nitrate and ammonium to plants.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Excessive application of nitrogen fertilizer can lead to which physiological problem in plants?",
+      "options": [
+        "Increased susceptibility to fungal diseases",
+        "Enhanced root growth at the expense of shoots",
+        "Reduced chlorophyll synthesis",
+        "Decreased stomatal conductance"
+      ],
+      "answer": 0,
+      "explanation": "Over‑fertilization with nitrogen often creates a lush, nitrogen‑rich canopy that is more prone to fungal infections due to altered leaf microclimate and reduced plant defenses.",
+      "topic": "Nitrogen as a major nutrient"
+    },
+    {
+      "question": "Which inorganic form of nitrogen is most commonly absorbed directly by the roots of major crop plants from well‑aerated soils?",
+      "options": [
+        "Molecular nitrogen (N₂)",
+        "Nitrate (NO₃⁻)",
+        "Ammonium (NH₄⁺)",
+        "Amino acids"
+      ],
+      "answer": 1,
+      "explanation": "In well‑aerated soils, nitrate is the predominant inorganic nitrogen species and is taken up efficiently by most crop roots.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "After nitrification of ammonium in aerobic soils, which nitrogen species becomes the dominant source for plant uptake?",
+      "options": [
+        "Ammonium (NH₄⁺)",
+        "Nitrite (NO₂⁻)",
+        "Nitrate (NO₃⁻)",
+        "Molecular nitrogen (N₂)"
+      ],
+      "answer": 2,
+      "explanation": "Nitrification converts NH₄⁺ first to NO₂⁻ and then rapidly to NO₃⁻, making nitrate the main form available to plants in aerobic conditions.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "Which nitrogen source requires the least amount of reductive energy for incorporation into amino acids?",
+      "options": [
+        "Nitrate (NO₃⁻)",
+        "Ammonium (NH₄⁺)",
+        "Atmospheric N₂",
+        "Urea"
+      ],
+      "answer": 1,
+      "explanation": "Ammonium is already in the reduced form (+1 oxidation state) and can be directly assimilated via the GS‑GOGAT pathway, whereas nitrate must be reduced to ammonium first.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "Leguminous plants primarily meet their nitrogen requirement through which source?",
+      "options": [
+        "Symbiotic fixation of atmospheric N₂",
+        "Uptake of nitrate from soil",
+        "Uptake of ammonium from soil",
+        "Absorption of organic nitrogen compounds"
+      ],
+      "answer": 0,
+      "explanation": "Legumes form symbiotic relationships with Rhizobium bacteria that fix atmospheric N₂ into ammonia, supplying the plant with a direct nitrogen source.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "Which commercial fertilizer supplies nitrogen to plants as both ammonium and nitrate ions?",
+      "options": [
+        "Urea",
+        "Ammonium sulfate",
+        "Calcium nitrate",
+        "Ammonium nitrate"
+      ],
+      "answer": 3,
+      "explanation": "Ammonium nitrate (NH₄NO₃) dissociates in soil to give both NH₄⁺ and NO₃⁻, providing plants with two readily usable nitrogen forms.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "In water‑logged (anaerobic) soils, which form of nitrogen is most readily taken up by plant roots?",
+      "options": [
+        "Nitrate (NO₃⁻)",
+        "Ammonium (NH₄⁺)",
+        "Nitrite (NO₂⁻)",
+        "Amino acids"
+      ],
+      "answer": 1,
+      "explanation": "Anaerobic conditions suppress nitrification, so nitrate levels fall and ammonium, produced by mineralization, becomes the dominant available nitrogen form.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "The conversion of organic nitrogen present in dead plant residues into ammonium that can be utilized by plants is called:",
+      "options": [
+        "Nitrification",
+        "Nitrogen fixation",
+        "Mineralization",
+        "Denitrification"
+      ],
+      "answer": 2,
+      "explanation": "Mineralization (or ammonification) is the microbial breakdown of organic nitrogen compounds to inorganic ammonium, making nitrogen available for plant uptake.",
+      "topic": "Nitrogen sources for plants"
+    },
+    {
+      "question": "What percentage of the Earth's atmosphere is composed of nitrogen gas (N₂)?",
+      "options": [
+        "78%",
+        "21%",
+        "13%",
+        "50%"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen makes up about 78% of the volume of dry air, making it the most abundant constituent.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "Why is atmospheric N₂ not directly usable by most plants?",
+      "options": [
+        "Because it has a very strong triple bond",
+        "Because it is present as a liquid",
+        "Because it is toxic to plant cells",
+        "Because it is highly reactive"
+      ],
+      "answer": 0,
+      "explanation": "The N≡N triple bond has a bond dissociation energy of ~941 kJ/mol, so most organisms lack the energy to break it without specialized enzymes.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "The natural conversion of atmospheric N₂ into a biologically usable form in soils is called:",
+      "options": [
+        "Nitrification",
+        "Nitrogen fixation",
+        "Denitrification",
+        "Ammonification"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen fixation reduces N₂ to ammonia (NH₃) or related compounds, making nitrogen accessible to plants.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "Which free‑living microorganism is capable of fixing atmospheric nitrogen without a plant host?",
+      "options": [
+        "Rhizobium",
+        "Azotobacter",
+        "Mycorrhizal fungi",
+        "Cyanobacteria"
+      ],
+      "answer": 1,
+      "explanation": "Azotobacter species are aerobic, free‑living bacteria that possess nitrogenase and can fix N₂ independently of plant symbiosis.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "The activity of the nitrogenase enzyme is inhibited by which atmospheric component?",
+      "options": [
+        "O₂",
+        "CO₂",
+        "H₂",
+        "N₂O"
+      ],
+      "answer": 0,
+      "explanation": "Oxygen binds to the iron‑sulfur clusters of nitrogenase, causing rapid inactivation; therefore nitrogenase is highly oxygen‑sensitive.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "In the Haber‑Bosch process, atmospheric N₂ reacts with hydrogen to form:",
+      "options": [
+        "Ammonia (NH₃)",
+        "Nitrate (NO₃⁻)",
+        "Nitrite (NO₂⁻)",
+        "Urea (CO(NH₂)₂)"
+      ],
+      "answer": 0,
+      "explanation": "The Haber‑Bosch process combines N₂ and H₂ under high pressure and temperature to synthesize ammonia, a key fertilizer precursor.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "Which of the following statements about atmospheric nitrogen is correct?",
+      "options": [
+        "It is the most abundant gas and is highly soluble in water",
+        "It constitutes about 78% of the atmosphere and is inert due to a strong triple bond",
+        "It is a potent greenhouse gas with high global warming potential",
+        "It is primarily present as nitrogen oxides"
+      ],
+      "answer": 1,
+      "explanation": "Atmospheric nitrogen is inert because of its strong triple bond and makes up roughly 78% of dry air; it is not a greenhouse gas in its N₂ form.",
+      "topic": "Atmospheric nitrogen"
+    },
+    {
+      "question": "Which statement correctly describes the role of ATP in the nitrogenase‑catalyzed reduction of atmospheric N₂?",
+      "options": [
+        "ATP provides the electrons directly for N₂ reduction.",
+        "ATP hydrolysis drives the conformational changes required for electron transfer to the FeMo‑cofactor.",
+        "ATP is incorporated into the product ammonia.",
+        "ATP is not required; nitrogenase works without it."
+      ],
+      "answer": 1,
+      "explanation": "ATP hydrolysis supplies the energy that induces conformational changes in the Fe‑protein, allowing electron transfer to the FeMo‑cofactor where N₂ is reduced.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "Why is the nitrogenase enzyme complex highly sensitive to oxygen?",
+      "options": [
+        "Oxygen competes with N₂ for the active site of nitrogenase.",
+        "Oxygen oxidizes the Fe‑protein, inactivating the enzyme.",
+        "Oxygen acts as a competitive inhibitor of ATP binding.",
+        "Oxygen enhances the rate of ammonia production, leading to feedback inhibition."
+      ],
+      "answer": 1,
+      "explanation": "Molecular O₂ oxidizes the iron‑sulfur clusters of the Fe‑protein, destroying its ability to transfer electrons to the MoFe‑protein, thus inactivating nitrogenase.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "In the Rhizobium‑legume symbiosis, the primary function of leghemoglobin is to:",
+      "options": [
+        "Transport fixed nitrogen from bacteroids to the plant cytoplasm.",
+        "Provide a low‑oxygen environment for nitrogenase while facilitating oxygen diffusion.",
+        "Act as a nitrogenase co‑factor.",
+        "Synthesize ATP for the bacteroids."
+      ],
+      "answer": 1,
+      "explanation": "Leghemoglobin binds O₂ with high affinity, maintaining a microaerobic nodule interior that protects nitrogenase yet supplies enough O₂ for bacteroid respiration.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "Which organism is a classic example of a free‑living nitrogen‑fixing bacterium?",
+      "options": [
+        "Rhizobium leguminosarum",
+        "Azotobacter vinelandii",
+        "Bradyrhizobium japonicum",
+        "Frankia alni"
+      ],
+      "answer": 1,
+      "explanation": "Azotobacter vinelandii is a well‑studied free‑living diazotroph that fixes N₂ in aerobic soils using protective mechanisms against O₂.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "The overall stoichiometry of the nitrogenase reaction converting N₂ to NH₃ is:",
+      "options": [
+        "N₂ + 8 H⁺ + 8 e⁻ + 16 ATP → 2 NH₃ + H₂ + 16 ADP + 16 Pi",
+        "N₂ + 6 H⁺ + 6 e⁻ + 12 ATP → 2 NH₃ + 6 ADP + 6 Pi",
+        "N₂ + 8 H⁺ + 8 e⁻ + 8 ATP → 2 NH₃ + H₂ + 8 ADP + 8 Pi",
+        "N₂ + 4 H⁺ + 4 e⁻ + 4 ATP → NH₃ + 4 ADP + 4 Pi"
+      ],
+      "answer": 0,
+      "explanation": "Each N₂ molecule requires 8 electrons, 8 protons and the hydrolysis of 16 ATP molecules, producing 2 NH₃ and one H₂ as a by‑product.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "Why do legume root nodules possess a thickened cell wall and a low‑oxygen diffusion barrier?",
+      "options": [
+        "To prevent entry of pathogenic microbes.",
+        "To maintain high internal oxygen concentration for respiration.",
+        "To limit oxygen diffusion, protecting nitrogenase from O₂ while allowing sufficient respiration.",
+        "To store excess nitrogen as nitrate."
+      ],
+      "answer": 2,
+      "explanation": "The barrier reduces O₂ influx, keeping the nodule microaerobic to safeguard nitrogenase, yet still permits enough O₂ for the bacteroids' respiratory energy needs.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "In the nitrogen cycle, the conversion of atmospheric N₂ to biologically usable forms is primarily carried out by:",
+      "options": [
+        "Nitrifying bacteria",
+        "Denitrifying bacteria",
+        "Nitrogen‑fixing organisms",
+        "Ammonifying fungi"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogen‑fixing organisms (diazotrophs) possess nitrogenase, which reduces inert N₂ to ammonia, the first step that makes nitrogen available to living systems.",
+      "topic": "Nitrogen fixation"
+    },
+    {
+      "question": "What is the primary role of ATP in the nitrogenase-catalyzed reduction of atmospheric N₂?",
+      "options": [
+        "ATP provides electrons directly to N2",
+        "ATP hydrolysis drives conformational changes for electron transfer",
+        "ATP is incorporated into the product NH3",
+        "ATP acts as a substrate for nitrogenase"
+      ],
+      "answer": 1,
+      "explanation": "ATP hydrolysis supplies the energy needed for conformational changes that allow electron transfer from the Fe‑protein to the MoFe‑protein, enabling N₂ reduction.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "Why is the nitrogenase enzyme highly sensitive to oxygen?",
+      "options": [
+        "O2 competes with N2 for the active site",
+        "O2 oxidizes the Fe‑protein, inactivating it",
+        "O2 is reduced to water instead of NH3",
+        "O2 binds irreversibly to the Mo‑cofactor"
+      ],
+      "answer": 1,
+      "explanation": "Molecular oxygen oxidizes the Fe‑protein component, destroying its reduced state and thereby inactivating the nitrogenase complex.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "In the Rhizobium‑legume symbiosis, the plant primarily supplies the bacteria with:",
+      "options": [
+        "Nitrate ions",
+        "ATP and carbon sources",
+        "Ammonium ions",
+        "Iron‑sulfur clusters"
+      ],
+      "answer": 1,
+      "explanation": "The host plant provides photosynthate (carbohydrates) and ATP to the bacteroids, supporting the energy‑intensive nitrogen fixation process.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "Which statement is NOT true for free‑living nitrogen‑fixing bacteria?",
+      "options": [
+        "They possess nitrogenase enzyme",
+        "They form root nodules on legumes",
+        "They can fix N2 in aerobic soils using protective mechanisms",
+        "They contribute to nitrogen input in non‑leguminous ecosystems"
+      ],
+      "answer": 1,
+      "explanation": "Free‑living nitrogen fixers do not form root nodules; nodule formation is a characteristic of symbiotic bacteria like Rhizobium.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "What is the immediate product formed by nitrogenase during biological nitrogen fixation?",
+      "options": [
+        "Nitrate (NO3‑)",
+        "Nitrite (NO2‑)",
+        "Ammonia (NH3)",
+        "Urea"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogenase reduces N₂ directly to ammonia (NH₃), which is then assimilated into amino acids.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "The MoFe protein component of nitrogenase contains a unique cofactor called:",
+      "options": [
+        "P‑cluster",
+        "Fe‑S cluster",
+        "FeMo‑cofactor",
+        "Heme group"
+      ],
+      "answer": 2,
+      "explanation": "The FeMo‑cofactor (Fe‑Molybdenum cofactor) is the active site where N₂ is bound and reduced.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "Which plant hormone predominantly regulates nodule organogenesis and infection‑thread formation in legume roots?",
+      "options": [
+        "Auxin",
+        "Cytokinin",
+        "Ethylene",
+        "Gibberellin"
+      ],
+      "answer": 1,
+      "explanation": "Cytokinin signaling promotes cortical cell division and nodule formation, while ethylene generally acts as an inhibitor.",
+      "topic": "Biological nitrogen fixation"
+    },
+    {
+      "question": "Which free-living bacterium is renowned for its high nitrogenase activity and employs protective mechanisms against oxygen?",
+      "options": [
+        "Azotobacter vinelandii",
+        "Rhizobium leguminosarum",
+        "Frankia alni",
+        "Mycorrhiza species"
+      ],
+      "answer": 0,
+      "explanation": "Azotobacter vinelandii is a classic free‑living nitrogen fixer that lives in aerobic soils and protects its oxygen‑sensitive nitrogenase by maintaining a very high respiratory rate.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "In free‑living nitrogen fixation, the nitrogenase enzyme is protected from O₂ primarily by which mechanism?",
+      "options": [
+        "High respiratory rate that consumes O₂ rapidly",
+        "Production of leghemoglobin to bind O₂",
+        "Formation of heterocysts with thick walls",
+        "Secretion of nodulation factors"
+      ],
+      "answer": 0,
+      "explanation": "Free‑living diazotrophs such as Azotobacter increase their respiration to lower intracellular O₂ levels, thereby protecting the oxygen‑sensitive nitrogenase.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "How many molecules of ATP are hydrolysed by nitrogenase to reduce one molecule of N₂ to 2 NH₃ in free‑living organisms?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "The nitrogenase complex consumes 16 ATP molecules per N₂ reduced to two molecules of ammonia, a stoichiometry common to most Mo‑dependent nitrogenases.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "Which statement correctly distinguishes free‑living nitrogen‑fixing organisms from symbiotic ones?",
+      "options": [
+        "They fix nitrogen only in the presence of legume roots",
+        "Their nitrogenase is not inhibited by oxygen",
+        "They fix nitrogen in soil without plant partners",
+        "They require nodulation (nod) genes for fixation"
+      ],
+      "answer": 2,
+      "explanation": "Free‑living diazotrophs operate independently in the soil, whereas symbiotic fixers need a plant host and nodulation genes.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "Which free‑living cyanobacterium is a major contributor of nitrogen to freshwater ecosystems?",
+      "options": [
+        "Anabaena",
+        "Nostoc",
+        "Spirulina",
+        "Microcystis"
+      ],
+      "answer": 0,
+      "explanation": "Anabaena forms heterocysts that fix atmospheric N₂ and often occurs as free‑living filaments in lakes and ponds, supplying bioavailable nitrogen.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "The FeMo‑cofactor of the nitrogenase enzyme contains which essential metal?",
+      "options": [
+        "Molybdenum",
+        "Vanadium",
+        "Iron",
+        "Copper"
+      ],
+      "answer": 0,
+      "explanation": "The most common nitrogenase contains a FeMo‑cofactor in which molybdenum is the key metal required for catalytic activity.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "Which environmental factor most strongly limits the activity of free‑living nitrogen‑fixing bacteria in aerobic soils?",
+      "options": [
+        "High temperature",
+        "Low pH",
+        "High oxygen concentration",
+        "Low phosphorus availability"
+      ],
+      "answer": 2,
+      "explanation": "Oxygen directly inactivates nitrogenase; therefore, high soil O₂ levels are the principal limiting factor for aerobic free‑living diazotrophs.",
+      "topic": "Free-living nitrogen-fixing organisms"
+    },
+    {
+      "question": "What pigment in legume root nodules binds oxygen to protect nitrogenase activity?",
+      "options": [
+        "Leghemoglobin",
+        "Mycorrhiza",
+        "Peroxidase",
+        "Phytochelatin"
+      ],
+      "answer": 0,
+      "explanation": "Leghemoglobin has a high affinity for O2, maintaining low free O2 concentration in the nodule cytoplasm, thereby protecting the oxygen‑sensitive nitrogenase.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "Nitrogenase catalyzes the reduction of atmospheric N₂ to which compound?",
+      "options": [
+        "Nitrate",
+        "Ammonia",
+        "Nitrite",
+        "Urea"
+      ],
+      "answer": 1,
+      "explanation": "The nitrogenase complex reduces N₂ directly to NH₃ (ammonia), which is then assimilated by the plant.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "Approximately how many ATP molecules are hydrolysed for the reduction of one N₂ molecule to two NH₃ by nitrogenase?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "The overall reaction consumes about 16 ATP molecules per N₂ reduced to two molecules of NH₃.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "Which gene cluster in Rhizobium encodes the core components of the nitrogenase enzyme?",
+      "options": [
+        "nifHDK",
+        "nodABC",
+        "fixLJ",
+        "rpoN"
+      ],
+      "answer": 0,
+      "explanation": "The nifHDK operon codes for the dinitrogenase reductase (NifH) and the dinitrogenase (NifD and NifK) subunits of nitrogenase.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "In the legume‑Rhizobium symbiosis, the fixed ammonia is most commonly transferred to the plant as which amino acid?",
+      "options": [
+        "Glutamine",
+        "Asparagine",
+        "Urea",
+        "Alanine"
+      ],
+      "answer": 0,
+      "explanation": "Ammonia is rapidly assimilated by glutamine synthetase to form glutamine, the primary transport form of reduced nitrogen in many legumes.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "The initiation of nodule formation on legume roots is triggered by which bacterial signal molecule?",
+      "options": [
+        "Nod factors",
+        "Lipochitooligosaccharides",
+        "Quorum‑sensing autoinducer",
+        "Phytohormone auxin"
+      ],
+      "answer": 0,
+      "explanation": "Rhizobial Nod factors (lipochitooligosaccharides) are recognized by plant receptors and start the signaling cascade leading to nodule organogenesis.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "Which condition directly inhibits the activity of nitrogenase within root nodules?",
+      "options": [
+        "High external nitrate",
+        "High oxygen concentration",
+        "Low ATP availability",
+        "Low carbon supply"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogenase is extremely oxygen‑sensitive; elevated O₂ levels in the nodule directly inactivate the enzyme, which is why leghemoglobin and low O₂ diffusion are essential.",
+      "topic": "Symbiotic nitrogen fixation"
+    },
+    {
+      "question": "Which plant hormone is primarily involved in the initiation of nodule formation in leguminous plants?",
+      "options": [
+        "Cytokinin",
+        "Auxin",
+        "Ethylene",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinin signaling is activated by Nod factor perception and triggers cortical cell division leading to nodule primordia.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "Leghemoglobin in root nodules primarily functions to:",
+      "options": [
+        "Transport nitrate to the bacteroids",
+        "Bind oxygen and maintain a low O₂ concentration for nitrogenase activity",
+        "Fix atmospheric nitrogen directly",
+        "Provide carbon skeletons for amino‑acid synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Leghemoglobin has a high affinity for O₂, buffering its concentration so that nitrogenase is protected from O₂ inhibition while still allowing respiration.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "The nitrogenase enzyme complex is most sensitive to inhibition by:",
+      "options": [
+        "High intracellular ATP levels",
+        "Low cytosolic pH",
+        "Molecular oxygen",
+        "Excess nitrate ions"
+      ],
+      "answer": 2,
+      "explanation": "Molecular oxygen binds to the Fe‑protein of nitrogenase, causing rapid loss of activity; the nodule environment therefore must be micro‑aerobic.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "In Rhizobium‑legume symbiosis, the bacterial nodABC genes are responsible for:",
+      "options": [
+        "Synthesis of Nod factors that trigger nodule organogenesis",
+        "Catalyzing the reduction of N₂ to NH₃",
+        "Producing leghemoglobin within the nodule",
+        "Transporting ammonium from bacteroids to the plant"
+      ],
+      "answer": 0,
+      "explanation": "nodA, nodB and nodC encode enzymes that modify fatty‑acid derivatives to generate Nod factors, the key signalling molecules for nodule initiation.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "Which legume typically forms determinate (spherical) nodules?",
+      "options": [
+        "Soybean",
+        "Pea",
+        "Lentil",
+        "Chickpea"
+      ],
+      "answer": 0,
+      "explanation": "Soybean (Glycine max) develops determinate, non‑persistent nodules, whereas peas, lentils and chickpeas form indeterminate, elongated nodules.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "The main carbon source supplied by the plant to bacteroids for nitrogenase activity is:",
+      "options": [
+        "Sucrose imported from the phloem",
+        "Glucose generated by bacterial glycolysis",
+        "Malate transported from the plant cytosol",
+        "Acetate absorbed from the soil"
+      ],
+      "answer": 2,
+      "explanation": "Legume cells export C₄‑dicarboxylates, mainly malate, into the symbiosome; bacteroids oxidise malate to generate ATP and reductant for nitrogenase.",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "Approximately how many ATP molecules are hydrolysed to reduce one molecule of N₂ to 2 NH₃ by the nitrogenase system?",
+      "options": [
+        "2 ATP",
+        "4 ATP",
+        "8 ATP",
+        "16 ATP"
+      ],
+      "answer": 3,
+      "explanation": "The nitrogenase reaction requires 8 electrons, which are supplied by the hydrolysis of 16 ATP molecules (2 ATP per electron transferred).",
+      "topic": "Rhizobium and leguminous plants"
+    },
+    {
+      "question": "What pigment-like protein in root nodules binds oxygen to protect nitrogenase activity?",
+      "options": [
+        "Leghemoglobin",
+        "Mycorrhizal lectin",
+        "Peroxidase",
+        "Chlorophyll"
+      ],
+      "answer": 0,
+      "explanation": "Leghemoglobin has a high affinity for O2, maintaining a low‑oxygen environment essential for the oxygen‑sensitive nitrogenase.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "Which compound released by legume roots initiates nod gene expression in Rhizobium?",
+      "options": [
+        "Flavonoids",
+        "Lignin monomers",
+        "Auxin",
+        "Gibberellin"
+      ],
+      "answer": 0,
+      "explanation": "Root‑secreted flavonoids act as signaling molecules that induce the bacterial nod genes, leading to Nod factor production.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "A distinguishing feature of indeterminate root nodules is:",
+      "options": [
+        "Presence of a persistent meristem at the apex",
+        "Absence of a meristem",
+        "Uniform tissue without zonation",
+        "Lack of leghemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Indeterminate nodules retain an active apical meristem, resulting in a gradient of developmental zones from tip to base.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "Which of the following zones is NOT normally described in a mature indeterminate nodule?",
+      "options": [
+        "Zone I – meristematic",
+        "Zone II – infection",
+        "Zone III – nitrogen fixation",
+        "Zone V – senescence"
+      ],
+      "answer": 3,
+      "explanation": "Typical indeterminate nodules are divided into zones I–IV; a distinct Zone V for senescence is not part of the standard classification.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "The energy required for the reduction of N2 to NH3 by nitrogenase in root nodules is supplied by:",
+      "options": [
+        "ATP",
+        "NADPH",
+        "GTP",
+        "FADH2"
+      ],
+      "answer": 0,
+      "explanation": "Each N2 reduction cycle consumes at least 16 molecules of ATP, generated by the plant’s respiration within the nodule.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "Low oxygen concentration inside the nodule primarily regulates expression of which bacterial gene cluster?",
+      "options": [
+        "nif genes",
+        "nod genes",
+        "fix genes",
+        "rpo genes"
+      ],
+      "answer": 0,
+      "explanation": "The nif operon, encoding nitrogenase components, is induced under micro‑aerobic conditions to protect the enzyme from O2 inactivation.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "Soybean (Glycine max) forms which type of root nodule with its symbiont Bradyrhizobium?",
+      "options": [
+        "Determinate",
+        "Indeterminate",
+        "Both determinate and indeterminate",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "Soybean develops spherical, determinate nodules that lack a persistent meristem, unlike the elongated indeterminate nodules of many other legumes.",
+      "topic": "Root nodules"
+    },
+    {
+      "question": "Which component of the nitrogenase complex directly binds atmospheric nitrogen (N₂) for its reduction?",
+      "options": [
+        "Fe protein (dinitrogenase reductase)",
+        "MoFe protein (dinitrogenase)",
+        "Ferredoxin",
+        "P‑cluster"
+      ],
+      "answer": 1,
+      "explanation": "The MoFe protein contains the FeMo‑cofactor where N₂ binds and is reduced to NH₃.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "How many molecules of ATP are hydrolyzed for the reduction of one molecule of N₂ to two molecules of NH₃ by nitrogenase?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogenase uses 16 ATP molecules per N₂ reduced (8 ATP per electron transfer cycle, two cycles are required).",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "The active site of nitrogenase, the FeMo‑cofactor, is composed of which metals?",
+      "options": [
+        "Iron only",
+        "Molybdenum only",
+        "Both iron and molybdenum",
+        "Zinc and iron"
+      ],
+      "answer": 2,
+      "explanation": "The FeMo‑cofactor contains a cluster of iron atoms together with a central molybdenum atom, essential for N₂ binding.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "Which statement correctly describes the effect of oxygen on nitrogenase activity?",
+      "options": [
+        "O₂ serves as an alternative substrate for the enzyme",
+        "O₂ irreversibly inactivates the Fe protein by oxidizing its metal clusters",
+        "O₂ competes with N₂ for the MoFe protein binding site",
+        "O₂ stimulates ATP hydrolysis by the enzyme"
+      ],
+      "answer": 1,
+      "explanation": "Molecular oxygen oxidizes the metal clusters of nitrogenase, especially the Fe protein, leading to rapid and irreversible loss of activity.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "In the rhizobial symbiosis, the immediate electron donor to the nitrogenase complex is:",
+      "options": [
+        "NADH",
+        "Ferredoxin",
+        "Cytochrome c oxidase",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Reduced ferredoxin transfers electrons from the Fe protein to the MoFe protein during nitrogen fixation.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "Which equation correctly represents the overall reaction catalyzed by nitrogenase?",
+      "options": [
+        "N₂ + 8 H⁺ + 8 e⁻ + 16 ATP → 2 NH₃ + H₂ + 16 ADP + 16 Pᵢ",
+        "N₂ + 6 H⁺ + 6 e⁻ + 12 ATP → 2 NH₃ + 12 ADP + 12 Pᵢ",
+        "N₂ + 4 H⁺ + 4 e⁻ + 8 ATP → 2 NH₃ + 8 ADP + 8 Pᵢ",
+        "N₂ + 10 H⁺ + 10 e⁻ + 20 ATP → 2 NH₃ + H₂ + 20 ADP + 20 Pᵢ"
+      ],
+      "answer": 0,
+      "explanation": "The stoichiometry of nitrogenase requires 8 electrons, 8 protons and 16 ATP to produce 2 NH₃ and one molecule of H₂.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "The P‑cluster of nitrogenase primarily functions to:",
+      "options": [
+        "Bind atmospheric N₂",
+        "Transfer electrons from the Fe protein to the FeMo‑cofactor",
+        "Bind ATP molecules",
+        "Provide structural rigidity to the enzyme"
+      ],
+      "answer": 1,
+      "explanation": "The P‑cluster acts as an intermediate electron carrier, shuttling electrons from the Fe protein to the FeMo‑cofactor where N₂ reduction occurs.",
+      "topic": "Nitrogenase enzyme"
+    },
+    {
+      "question": "How many molecules of ATP are hydrolyzed by nitrogenase for the reduction of one molecule of atmospheric N₂ to two molecules of NH₃?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogenase uses 16 ATP molecules per N₂ reduced to 2 NH₃, providing the energy required for the multi‑step reduction.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "Which component of the nitrogenase complex directly binds and hydrolyzes ATP?",
+      "options": [
+        "MoFe protein (dinitrogenase)",
+        "Fe protein (dinitrogenase reductase)",
+        "P‑cluster",
+        "FeMo‑cofactor"
+      ],
+      "answer": 1,
+      "explanation": "The Fe protein (also called dinitrogenase reductase) contains the ATP‑binding sites and hydrolyses ATP to drive electron transfer.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "The energy released from ATP hydrolysis in nitrogenase is primarily used to:",
+      "options": [
+        "Break the N≡N triple bond directly",
+        "Transport electrons across the membrane",
+        "Induce conformational changes that allow electron transfer between protein components",
+        "Synthesize additional ATP molecules"
+      ],
+      "answer": 2,
+      "explanation": "ATP hydrolysis causes conformational changes that bring the Fe protein into tight contact with the MoFe protein, enabling electron transfer.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "After ATP hydrolysis, the Fe protein transfers electrons to which prosthetic group of the MoFe protein?",
+      "options": [
+        "FeMo‑cofactor",
+        "P‑cluster",
+        "H‑cluster",
+        "FAD"
+      ],
+      "answer": 1,
+      "explanation": "Electrons are first transferred from the reduced Fe protein to the P‑cluster of the MoFe protein, which then passes them to the FeMo‑cofactor for N₂ reduction.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "Binding of ATP to the Fe protein causes which of the following events in the nitrogenase catalytic cycle?",
+      "options": [
+        "Dimerization of the Fe protein",
+        "Release of bound O₂ from the active site",
+        "Tight association of the Fe protein with the MoFe protein",
+        "Inhibition of electron transfer"
+      ],
+      "answer": 2,
+      "explanation": "ATP binding induces a conformational change that promotes a tight Fe protein–MoFe protein complex, essential for electron transfer.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "Which equation correctly represents the overall reaction catalyzed by nitrogenase, including ATP consumption?",
+      "options": [
+        "N₂ + 8 H⁺ + 8 e⁻ + 16 ATP → 2 NH₃ + H₂ + 16 ADP + 16 Pᵢ",
+        "N₂ + 6 H⁺ + 6 e⁻ + 12 ATP → 2 NH₃ + 12 ADP + 12 Pᵢ",
+        "N₂ + 8 H⁺ + 8 e⁻ + 8 ATP → 2 NH₃ + 8 ADP + 8 Pᵢ",
+        "N₂ + 10 H⁺ + 10 e⁻ + 20 ATP → 2 NH₃ + H₂ + 20 ADP + 20 Pᵢ"
+      ],
+      "answer": 0,
+      "explanation": "The stoichiometry of nitrogenase requires 16 ATP molecules per N₂ reduced, yielding 2 NH₃, one H₂, 16 ADP and 16 inorganic phosphate.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "Which of the following is NOT a direct consequence of ATP hydrolysis during nitrogen fixation?",
+      "options": [
+        "Electron transfer from Fe protein to MoFe protein",
+        "Generation of a proton gradient across the membrane",
+        "Conformational change enabling Fe protein‑MoFe protein association",
+        "Resetting the Fe protein for another catalytic cycle"
+      ],
+      "answer": 1,
+      "explanation": "ATP hydrolysis drives protein conformational changes and electron transfer, but it does not generate a proton gradient; nitrogen fixation occurs in the cytoplasm without membrane‑linked proton motive force.",
+      "topic": "Role of ATP in nitrogen fixation"
+    },
+    {
+      "question": "Which component of the nitrogenase complex is directly inactivated by molecular oxygen?",
+      "options": [
+        "Fe protein (dinitrogenase reductase)",
+        "MoFe protein (dinitrogenase)",
+        "Leghemoglobin",
+        "ATP synthase"
+      ],
+      "answer": 0,
+      "explanation": "The Fe protein contains an oxygen‑labile Fe‑S cluster; exposure to O₂ leads to its rapid oxidation and loss of activity, thereby inactivating nitrogenase.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "What is the primary mechanism by which legume root nodules protect nitrogenase from O₂?",
+      "options": [
+        "High respiration rate of nodule cells",
+        "Leghemoglobin binding O₂",
+        "Thick cell wall around nodule",
+        "Production of antioxidants"
+      ],
+      "answer": 1,
+      "explanation": "Leghemoglobin binds O₂ with high affinity, keeping the free O₂ concentration low while allowing sufficient O₂ for respiration, thus safeguarding nitrogenase.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "Free‑living nitrogen‑fixing bacteria mainly reduce O₂ exposure to nitrogenase by:",
+      "options": [
+        "Formation of heterocysts",
+        "High respiratory consumption of O₂",
+        "Production of a protective polysaccharide layer",
+        "Secretion of a nitrogenase inhibitor"
+      ],
+      "answer": 1,
+      "explanation": "These bacteria increase their respiration rate (respiratory protection), rapidly consuming O₂ and maintaining a microaerobic environment around nitrogenase.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "How does increasing O₂ concentration affect the rate of nitrogen fixation in nodulated legumes?",
+      "options": [
+        "Rate increases linearly with O₂",
+        "Rate decreases linearly with O₂",
+        "Maximum rate at low O₂, then declines at higher O₂",
+        "No effect of O₂ on rate"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogenase works optimally at low O₂; as O₂ rises, the enzyme is progressively inactivated, so fixation peaks at low O₂ and falls when O₂ becomes higher.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "Which statement correctly links ATP requirement with O₂ sensitivity of nitrogenase?",
+      "options": [
+        "ATP hydrolysis protects nitrogenase from O₂",
+        "O₂ inhibits ATP binding to Fe protein",
+        "ATP is required for reactivation of O₂‑damaged nitrogenase",
+        "ATP consumption is independent of O₂ levels"
+      ],
+      "answer": 2,
+      "explanation": "Reactivation of oxygen‑inhibited nitrogenase involves an ATP‑dependent reductive activation step that restores the Fe‑S clusters.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "A mutant strain that would most likely show increased tolerance to O₂ during nitrogen fixation is:",
+      "options": [
+        "Lack of leghemoglobin",
+        "Overexpression of superoxide dismutase",
+        "Deficiency in nitrogenase Fe protein",
+        "Overexpression of nitrate reductase"
+      ],
+      "answer": 1,
+      "explanation": "Superoxide dismutase detoxifies reactive oxygen species generated under O₂ exposure, helping protect the oxygen‑sensitive nitrogenase.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "The partial pressure of O₂ inside an active legume nodule is maintained at approximately:",
+      "options": [
+        "21% (atmospheric)",
+        "5%",
+        "0.5%",
+        "0.01%"
+      ],
+      "answer": 2,
+      "explanation": "Legume nodules keep free O₂ at about 0.5% (≈ 5 µM) to allow respiration while preventing nitrogenase inactivation.",
+      "topic": "Nitrogenase sensitivity to oxygen"
+    },
+    {
+      "question": "What is the primary function of the FeMo cofactor in the nitrogenase enzyme complex?",
+      "options": [
+        "It binds atmospheric N₂ and facilitates its reduction",
+        "It hydrolyzes ATP to provide energy for the reaction",
+        "It transports electrons from ferredoxin to N₂",
+        "It protects nitrogenase from oxygen damage"
+      ],
+      "answer": 0,
+      "explanation": "The FeMo cofactor is the active site where N₂ binds and is reduced to NH₃ during biological nitrogen fixation.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "In legume root nodules, the main source of electrons that drive nitrogenase activity is:",
+      "options": [
+        "NADH generated by bacteroid glycolysis",
+        "NADPH supplied directly from the host plant",
+        "Ferredoxin reduced by plant mitochondria",
+        "Electrons transferred from leghemoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Bacteroids metabolize carbon sources, producing NADH which donates electrons to the nitrogenase Fe protein for N₂ reduction.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "Which component directly supplies the reducing equivalents (electrons) in the overall reaction N₂ + 8 H⁺ + 8 e⁻ + 16 ATP → 2 NH₃ + H₂ + 16 ADP + 16 Pᵢ?",
+      "options": [
+        "ATP",
+        "H⁺",
+        "e⁻",
+        "Pᵢ"
+      ],
+      "answer": 2,
+      "explanation": "The eight electrons (e⁻) are the reducing equivalents that convert N₂ to NH₃; ATP provides the energy, not the electrons.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "How do legume nodules protect nitrogenase from the inhibitory effects of O₂?",
+      "options": [
+        "By producing a thick polysaccharide capsule around bacteroids",
+        "By expressing a high‑affinity cytochrome oxidase",
+        "By synthesizing leghemoglobin that binds O₂ tightly",
+        "By sequestering nitrogenase in periplasmic vesicles"
+      ],
+      "answer": 2,
+      "explanation": "Leghemoglobin binds O₂ with high affinity, maintaining a low free O₂ concentration that allows respiration to consume O₂ while keeping nitrogenase functional.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "Which strategy is employed by free‑living nitrogen fixers such as Azotobacter to shield nitrogenase from oxygen?",
+      "options": [
+        "Maintaining a very high respiratory rate to consume O₂ rapidly",
+        "Producing large amounts of catalase to decompose O₂",
+        "Forming endospores during aerobic phases",
+        "Secreting extracellular polysaccharides that block O₂ diffusion"
+      ],
+      "answer": 0,
+      "explanation": "Azotobacter increases its respiration dramatically, lowering intracellular O₂ levels and thereby protecting the oxygen‑sensitive nitrogenase.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "Approximately how many ATP molecules are hydrolyzed for the reduction of one molecule of atmospheric N₂ to two molecules of NH₃ by nitrogenase?",
+      "options": [
+        "8 ATP",
+        "12 ATP",
+        "16 ATP",
+        "20 ATP"
+      ],
+      "answer": 2,
+      "explanation": "The canonical stoichiometry of biological nitrogen fixation requires 16 ATP molecules per N₂ reduced to 2 NH₃.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "Which statement about the oxygen sensitivity of nitrogenase is FALSE?",
+      "options": [
+        "O₂ irreversibly inactivates the Fe protein component of nitrogenase",
+        "Leghemoglobin buffers O₂ concentration in nodules",
+        "Nitrogenase contains a copper‑containing active site that reacts with O₂",
+        "High respiration rates in bacteroids help maintain low O₂ levels"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogenase’s active site is the FeMo cofactor, not a copper‑containing site; the other statements correctly describe oxygen sensitivity mechanisms.",
+      "topic": "Conversion of atmospheric nitrogen"
+    },
+    {
+      "question": "Which enzyme catalyzes the first step of nitrate assimilation in plants?",
+      "options": [
+        "Nitrate reductase",
+        "Nitrite reductase",
+        "Glutamine synthetase",
+        "Glutamate synthase"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate reductase reduces nitrate (NO3⁻) to nitrite (NO2⁻), the initial reaction of nitrate assimilation.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "In which cellular compartment does the reduction of nitrate to nitrite primarily occur in higher plants?",
+      "options": [
+        "Cytosol",
+        "Mitochondria",
+        "Chloroplast",
+        "Vacuole"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate reductase is a cytosolic enzyme; therefore nitrate is reduced to nitrite in the cytosol before nitrite is transported to chloroplasts for further reduction.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "The reduction of nitrite to ammonium during nitrate assimilation requires which reducing power?",
+      "options": [
+        "NADPH",
+        "FAD",
+        "Coenzyme A",
+        "ATP"
+      ],
+      "answer": 0,
+      "explanation": "Nitrite reductase uses electrons from ferredoxin or NADPH to convert nitrite (NO2⁻) to ammonium (NH4⁺).",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "Which statement about the regulation of nitrate reductase activity is TRUE?",
+      "options": [
+        "It is activated by high light intensity",
+        "It is inhibited by high ammonium concentration",
+        "It requires reversible phosphorylation for activation",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Nitrate reductase is activated by light, inhibited by excess ammonium (feedback), and its activity is modulated by reversible phosphorylation.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "The first amino acid formed directly from the ammonium derived from nitrate assimilation is:",
+      "options": [
+        "Glutamate",
+        "Glutamine",
+        "Aspartate",
+        "Alanine"
+      ],
+      "answer": 1,
+      "explanation": "Ammonium is first incorporated into glutamate to form glutamine via the enzyme glutamine synthetase.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "In the GS‑GOGAT cycle, which enzyme uses 2‑oxoglutarate and ammonium to produce glutamate?",
+      "options": [
+        "Glutamine synthetase",
+        "Glutamate synthase",
+        "Nitrate reductase",
+        "Nitrite reductase"
+      ],
+      "answer": 1,
+      "explanation": "Glutamate synthase (GOGAT) catalyzes the conversion of glutamine and 2‑oxoglutarate to two molecules of glutamate, completing the assimilation of ammonium into amino acids.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "Which environmental condition most strongly suppresses nitrate reductase activity in plants?",
+      "options": [
+        "High oxygen",
+        "High nitrate concentration",
+        "Low light intensity",
+        "High temperature"
+      ],
+      "answer": 2,
+      "explanation": "Nitrate reductase is a light‑dependent enzyme; low light reduces the supply of reductants (NADPH) and thus suppresses its activity.",
+      "topic": "Nitrate assimilation"
+    },
+    {
+      "question": "Which enzyme catalyzes the ATP‑dependent incorporation of NH4⁺ into glutamine during ammonium assimilation in plants?",
+      "options": [
+        "Glutamine synthetase",
+        "Glutamate synthase",
+        "Glutamate dehydrogenase",
+        "Nitrate reductase"
+      ],
+      "answer": 0,
+      "explanation": "Glutamine synthetase (GS) uses ATP to combine NH4⁺ with glutamate, forming glutamine, the first step of the GS‑GOGAT pathway.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "In the GS‑GOGAT cycle, which enzyme converts glutamine and 2‑oxoglutarate into two molecules of glutamate?",
+      "options": [
+        "Glutamate synthase (NADH‑dependent)",
+        "Glutamate dehydrogenase",
+        "Glutamine synthetase",
+        "Aspartate aminotransferase"
+      ],
+      "answer": 0,
+      "explanation": "Glutamate synthase (also called GOGAT) transfers the amide group from glutamine to 2‑oxoglutarate, producing two glutamate molecules.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "Which statement about ammonium assimilation in plants is FALSE?",
+      "options": [
+        "Ammonium is directly incorporated into amino acids via the GS‑GOGAT pathway",
+        "Glutamate dehydrogenase has high affinity for NH4⁺ and operates mainly under high ammonium concentrations",
+        "Ammonium assimilation consumes ATP",
+        "Nitrate must first be reduced before entering the GS‑GOGAT cycle"
+      ],
+      "answer": 3,
+      "explanation": "Ammonium can be assimilated directly; nitrate reduction is required only when the nitrogen source is nitrate, not when NH4⁺ is supplied.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "The predominant route of NH4⁺ assimilation in most higher plants under normal physiological conditions is:",
+      "options": [
+        "Glutamine synthetase–glutamate synthase (GS‑GOGAT) pathway",
+        "Glutamate dehydrogenase pathway",
+        "Direct transamination by aminotransferases",
+        "Incorporation into ureides"
+      ],
+      "answer": 0,
+      "explanation": "The GS‑GOGAT pathway has higher affinity for NH4⁺ and is the main route for its incorporation into amino acids in most plants.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "The NADH‑dependent form of glutamate synthase (GOGAT) requires which co‑factor?",
+      "options": [
+        "NADH",
+        "NADPH",
+        "FAD",
+        "FMN"
+      ],
+      "answer": 0,
+      "explanation": "The NADH‑dependent GOGAT uses NADH as the electron donor to reduce 2‑oxoglutarate while transferring the amide group from glutamine.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "Which cellular compartment primarily detoxifies excess NH4⁺ in plant cells by the action of glutamine synthetase?",
+      "options": [
+        "Chloroplast",
+        "Mitochondrion",
+        "Cytosol",
+        "Vacuole"
+      ],
+      "answer": 2,
+      "explanation": "Cytosolic glutamine synthetase rapidly incorporates free NH4⁺ into glutamine, preventing toxic accumulation.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "The immediate product formed by the action of glutamine synthetase on NH4⁺ and glutamate is:",
+      "options": [
+        "Glutamate",
+        "Glutamine",
+        "Aspartate",
+        "Alanine"
+      ],
+      "answer": 1,
+      "explanation": "Glutamine synthetase catalyzes the formation of glutamine from NH4⁺ and glutamate, which then serves as an amide donor in subsequent reactions.",
+      "topic": "Ammonium assimilation"
+    },
+    {
+      "question": "Which enzyme catalyzes the formation of glutamine from glutamate and ammonium in plant cells?",
+      "options": [
+        "Glutamine synthetase",
+        "Glutamate dehydrogenase",
+        "Aspartate aminotransferase",
+        "Nitrate reductase"
+      ],
+      "answer": 0,
+      "explanation": "Glutamine synthetase (GS) incorporates ammonium into glutamate to form glutamine, the first step in nitrogen assimilation.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "In the primary pathway of nitrogen assimilation in plants, ammonium is first incorporated into which amino acid?",
+      "options": [
+        "Glutamate",
+        "Aspartate",
+        "Alanine",
+        "Glycine"
+      ],
+      "answer": 0,
+      "explanation": "Ammonium is first assimilated into glutamate via the GS‑GOGAT cycle; glutamate then serves as an amino donor for other amino acids.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "The reductive amination of α‑ketoglutarate to produce glutamate in plants is carried out by which enzyme system?",
+      "options": [
+        "Glutamine synthetase‑glutamate synthase (GS‑GOGAT)",
+        "Glutamate dehydrogenase",
+        "Aspartate transaminase",
+        "Nitrate reductase"
+      ],
+      "answer": 0,
+      "explanation": "The GS‑GOGAT cycle catalyzes the conversion of ammonium and α‑ketoglutarate to glutamate, a key step in nitrogen assimilation.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "Which statement about transamination reactions in amino‑acid biosynthesis is correct?",
+      "options": [
+        "They require pyridoxal‑5′‑phosphate as a co‑factor",
+        "They involve direct reduction of nitrate",
+        "They occur only in the mitochondria",
+        "They produce ATP"
+      ],
+      "answer": 0,
+      "explanation": "Transamination enzymes use pyridoxal‑5′‑phosphate (PLP) to transfer amino groups between amino acids and keto acids.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "In the synthesis of aromatic amino acids in plants, the immediate precursor derived from the shikimate pathway is:",
+      "options": [
+        "Phosphoenolpyruvate",
+        "Erythrose‑4‑phosphate",
+        "Chorismate",
+        "3‑Phosphoglycerate"
+      ],
+      "answer": 2,
+      "explanation": "Chorismate is the branch point metabolite from the shikimate pathway that leads to phenylalanine, tyrosine, and tryptophan.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "Which amino acid is formed directly from oxaloacetate by a transamination reaction in plants?",
+      "options": [
+        "Aspartate",
+        "Glutamate",
+        "Lysine",
+        "Serine"
+      ],
+      "answer": 0,
+      "explanation": "Oxaloacetate undergoes transamination with glutamate to produce aspartate, catalyzed by aspartate aminotransferase.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "The reduction of nitrate to nitrite during nitrogen assimilation in plants is catalyzed by:",
+      "options": [
+        "Nitrate reductase",
+        "Nitrite reductase",
+        "Nitrogenase",
+        "Glutamate synthase"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate reductase (NR) reduces nitrate (NO3⁻) to nitrite (NO2⁻) using NAD(P)H as an electron donor, the first step of nitrate assimilation.",
+      "topic": "Formation of amino acids"
+    },
+    {
+      "question": "Which process converts atmospheric nitrogen (N₂) into ammonia (NH₃) during the nitrogen cycle?",
+      "options": [
+        "Nitrification",
+        "Denitrification",
+        "Nitrogen fixation",
+        "Ammonification"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogen fixation is the biological conversion of N₂ gas to ammonia, catalyzed by nitrogenase in certain bacteria and cyanobacteria.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "The oxidation of ammonium (NH₄⁺) to nitrite (NO₂⁻) in soils is carried out mainly by which bacteria?",
+      "options": [
+        "Nitrosomonas",
+        "Nitrobacter",
+        "Pseudomonas",
+        "Bacillus"
+      ],
+      "answer": 0,
+      "explanation": "Nitrosomonas species are chemolithoautotrophic bacteria that oxidize NH₄⁺ to NO₂⁻, the first step of nitrification.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "Denitrification, the reduction of nitrate to gaseous nitrogen forms, predominantly occurs under which condition?",
+      "options": [
+        "Aerobic soils",
+        "Anaerobic conditions",
+        "High pH environments",
+        "High temperature soils"
+      ],
+      "answer": 1,
+      "explanation": "Denitrifying bacteria operate best in low‑oxygen (anaerobic) environments, using nitrate as an alternative electron acceptor.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "The nitrogenase enzyme complex is highly sensitive to which molecule, limiting its activity in the presence of this gas?",
+      "options": [
+        "ATP",
+        "O₂",
+        "NADH",
+        "CO₂"
+      ],
+      "answer": 1,
+      "explanation": "Molecular oxygen inactivates nitrogenase by oxidizing its iron‑protein components, so nitrogen fixation occurs in low‑oxygen niches.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "Which statement about the terrestrial nitrogen cycle is FALSE?",
+      "options": [
+        "Nitrification is an aerobic process",
+        "Denitrification releases N₂ gas to the atmosphere",
+        "Ammonification converts organic nitrogen directly to nitrate",
+        "Symbiotic nitrogen fixation occurs in legume root nodules"
+      ],
+      "answer": 2,
+      "explanation": "Ammonification mineralizes organic nitrogen to ammonium (NH₄⁺), not directly to nitrate; nitrate is produced later by nitrification.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "The principal source of nitrate (NO₃⁻) that plants absorb from soil is:",
+      "options": [
+        "Atmospheric N₂",
+        "Ammonium released from mineralization",
+        "Nitrate generated by nitrification",
+        "Nitrogen fixed by leguminous crops"
+      ],
+      "answer": 2,
+      "explanation": "Nitrifying bacteria oxidize ammonium to nitrate, which accumulates in the soil and is taken up by plant roots.",
+      "topic": "Nitrogen cycle overview"
+    },
+    {
+      "question": "What is the primary role of ATP in biological nitrogen fixation?",
+      "options": [
+        "Provides energy for the reduction of N₂ to NH₃",
+        "Acts as an electron donor to nitrogenase",
+        "Directly binds N₂ within the enzyme complex",
+        "Serves as a cofactor for nitrogenase activity"
+      ],
+      "answer": 0,
+      "explanation": "ATP hydrolysis supplies the energy required for the nitrogenase-mediated reduction of inert N₂ to bioavailable ammonia.",
+      "topic": "Nitrogen cycle overview"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 18,
+    "mcqCount": 125
+  }
+}

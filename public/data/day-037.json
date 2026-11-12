@@ -1,0 +1,2122 @@
+{
+  "day": 37,
+  "courseDate": "2026-10-05",
+  "publishAt": "2026-10-05T06:00:00+05:30",
+  "title": "Prokaryotic Cell and Plasma Membrane",
+  "introduction": "This lesson covers the architecture of prokaryotic cells, their envelope components, and the plasma membrane in detail, aligning with NEET‑UG requirements. Emphasis is placed on structural features, functional relevance, and high‑yield facts for quick revision.",
+  "sections": [
+    {
+      "topic": "Structure of a typical prokaryotic cell",
+      "heading": "Overall Architecture of a Prokaryote",
+      "content": "A typical prokaryotic cell is a compact unit lacking a true nucleus. It consists of a nucleoid region containing circular DNA, a plasma membrane, cell wall, and often an external glycocalyx. Internal components include ribosomes, cytoplasm, inclusion bodies, and, in some species, mesosomes. The cell envelope may be surrounded by a capsule or slime layer, and motility structures such as flagella or pili may be present.",
+      "keyPoints": [
+        "No membrane‑bound nucleus; DNA forms a nucleoid",
+        "Plasma membrane encloses cytoplasm",
+        "Cell wall provides shape and protection",
+        "External glycocalyx may be capsule or slime layer"
+      ],
+      "neetTips": [
+        "Memorise the hierarchical order: nucleoid → plasma membrane → cell wall → glycocalyx"
+      ]
+    },
+    {
+      "topic": "Bacterial cell organisation",
+      "heading": "Spatial Arrangement of Cellular Components",
+      "content": "Bacterial cells exhibit a defined organization: the nucleoid occupies the central region, ribosomes are dispersed throughout the cytoplasm, and inclusion bodies are localized near the periphery. The plasma membrane lies just outside the nucleoid, followed by the rigid peptidoglycan cell wall. Surface appendages (flagella, pili) extend outward from the cell envelope.",
+      "keyPoints": [
+        "Nucleoid centrally located",
+        "Ribosomes free in cytoplasm",
+        "Inclusion bodies often peripheral",
+        "Surface appendages project beyond cell wall"
+      ],
+      "neetTips": [
+        "Visualise a cross‑section diagram to recall relative positions"
+      ]
+    },
+    {
+      "topic": "Cell envelope of bacteria",
+      "heading": "Components of the Bacterial Cell Envelope",
+      "content": "The bacterial cell envelope comprises the plasma membrane, a thick or thin peptidoglycan cell wall, and, in Gram‑negative bacteria, an outer membrane containing lipopolysaccharide (LPS). The envelope protects against osmotic stress and mediates interactions with the environment.",
+      "keyPoints": [
+        "Plasma membrane is universal",
+        "Peptidoglycan thickness distinguishes Gram‑positive and Gram‑negative",
+        "Gram‑negative outer membrane contains LPS"
+      ],
+      "neetTips": [
+        "Link Gram stain result to cell wall structure for quick recall"
+      ]
+    },
+    {
+      "topic": "Glycocalyx",
+      "heading": "Glycocalyx Overview",
+      "content": "The glycocalyx is a polysaccharide‑rich layer external to the cell wall. It can be organized as a tightly bound capsule or a loosely attached slime layer. Functions include protection against desiccation, adherence to surfaces, and evasion of host immune responses.",
+      "keyPoints": [
+        "Composed mainly of polysaccharides",
+        "Exists as capsule (tight) or slime layer (loose)",
+        "Roles in protection, adhesion, and pathogenicity"
+      ],
+      "neetTips": [
+        "Capsule = virulence factor; slime layer = biofilm formation"
+      ]
+    },
+    {
+      "topic": "Capsule and slime layer",
+      "heading": "Capsule vs. Slime Layer",
+      "content": "A capsule is a well‑defined, rigid polysaccharide coat that resists phagocytosis, whereas a slime layer is a diffuse, loosely attached matrix facilitating surface attachment and biofilm development. Both are parts of the glycocalyx but differ in thickness and attachment strength.",
+      "keyPoints": [
+        "Capsule: firm, thick, anti‑phagocytic",
+        "Slime layer: thin, loose, aids biofilm"
+      ],
+      "neetTips": [
+        "Remember: capsule = defense; slime = adhesion"
+      ]
+    },
+    {
+      "topic": "Cell wall",
+      "heading": "Structure and Function of the Bacterial Cell Wall",
+      "content": "The cell wall is primarily composed of peptidoglycan (murein). In Gram‑positive bacteria, it is thick (20–80 nm) and contains teichoic acids. In Gram‑negative bacteria, it is thin (≈7 nm) and lies between the plasma membrane and outer membrane, with lipopolysaccharide on the outer surface. The wall maintains shape and prevents lysis.",
+      "keyPoints": [
+        "Peptidoglycan is the main polymer",
+        "Gram‑positive: thick, teichoic acids",
+        "Gram‑negative: thin, periplasmic space, LPS"
+      ],
+      "neetTips": [
+        "Link teichoic acids to Gram‑positive cell wall"
+      ]
+    },
+    {
+      "topic": "Plasma membrane",
+      "heading": "Fundamentals of the Prokaryotic Plasma Membrane",
+      "content": "The plasma membrane is a phospholipid bilayer embedded with proteins and carbohydrates. It functions as a selective barrier, site of energy generation (e.g., electron transport), and platform for transport proteins. Its fluid nature follows the fluid mosaic model.",
+      "keyPoints": [
+        "Phospholipid bilayer with embedded proteins",
+        "Site of respiration and transport",
+        "Exhibits fluid mosaic behavior"
+      ],
+      "neetTips": [
+        "Associate membrane with ATP synthesis in bacteria"
+      ]
+    },
+    {
+      "topic": "Mesosome",
+      "heading": "Mesosome – Historical Perspective",
+      "content": "Mesosomes are invaginations of the plasma membrane observed in electron micrographs of chemically fixed bacteria. Earlier thought to be involved in respiration and DNA replication, they are now considered artefacts of fixation, though the term persists in some textbooks.",
+      "keyPoints": [
+        "Membrane invaginations seen in fixed cells",
+        "Now regarded as fixation artefacts",
+        "No functional significance confirmed"
+      ],
+      "neetTips": [
+        "If asked, state mesosome is an artefact, not a functional organelle"
+      ]
+    },
+    {
+      "topic": "Cytoplasm",
+      "heading": "Cytoplasmic Matrix",
+      "content": "The cytoplasm is a gel‑like aqueous medium containing dissolved enzymes, metabolites, ribosomes, and inclusion bodies. It provides the site for glycolysis, protein synthesis, and other metabolic pathways.",
+      "keyPoints": [
+        "Aqueous gel containing enzymes and ribosomes",
+        "Site of glycolysis and biosynthesis"
+      ],
+      "neetTips": [
+        "Cytoplasm = metabolic hub"
+      ]
+    },
+    {
+      "topic": "Inclusion bodies",
+      "heading": "Storage Granules in Bacteria",
+      "content": "Inclusion bodies are discrete, membrane‑free granules storing reserve materials such as glycogen, poly‑hydroxybutyrate, sulfur, or phosphate. They appear as electron‑dense spots in electron micrographs and are mobilized under nutrient scarcity.",
+      "keyPoints": [
+        "Store reserve nutrients (e.g., glycogen)",
+        "Membrane‑free, electron‑dense"
+      ],
+      "neetTips": [
+        "Link inclusion bodies to bacterial survival under starvation"
+      ]
+    },
+    {
+      "topic": "Ribosomes in prokaryotes",
+      "heading": "70S Ribosomes",
+      "content": "Prokaryotic ribosomes are 70S particles composed of a 50S large subunit (23 S rRNA + proteins) and a 30S small subunit (16 S rRNA + proteins). They are dispersed in the cytoplasm and are the targets of several antibiotics (e.g., tetracycline).",
+      "keyPoints": [
+        "70S = 50S + 30S subunits",
+        "23S rRNA in large, 16S rRNA in small subunit",
+        "Antibiotic target"
+      ],
+      "neetTips": [
+        "Remember 70S = prokaryote, 80S = eukaryote"
+      ]
+    },
+    {
+      "topic": "Nucleoid",
+      "heading": "Nucleoid Region",
+      "content": "The nucleoid is an irregularly shaped region containing a single, circular chromosome that is supercoiled and associated with DNA‑binding proteins (e.g., HU). It lacks a surrounding membrane, distinguishing it from the eukaryotic nucleus.",
+      "keyPoints": [
+        "Circular, supercoiled DNA",
+        "No nuclear envelope",
+        "Associated with DNA‑binding proteins"
+      ],
+      "neetTips": [
+        "Contrast nucleoid (no membrane) with nucleus (membrane‑bound)"
+      ]
+    },
+    {
+      "topic": "Plasmids",
+      "heading": "Extrachromosomal DNA Elements",
+      "content": "Plasmids are small, circular DNA molecules independent of the chromosome. They replicate autonomously and often carry genes for antibiotic resistance, virulence, or metabolic capabilities. Transfer occurs via conjugation (F‑plasmid).",
+      "keyPoints": [
+        "Circular, autonomous replication",
+        "Carry accessory genes (e.g., resistance)",
+        "Conjugative transfer via pili"
+      ],
+      "neetTips": [
+        "Plasmid significance = rapid acquisition of new traits"
+      ]
+    },
+    {
+      "topic": "Bacterial flagellum",
+      "heading": "Flagellar Motility Apparatus",
+      "content": "The bacterial flagellum is a helical filament (made of flagellin) anchored in the cell envelope by a basal body and driven by a rotary motor powered by proton motive force. It enables chemotaxis and swimming motility.",
+      "keyPoints": [
+        "Filament of flagellin",
+        "Basal body acts as motor",
+        "Powered by proton gradient"
+      ],
+      "neetTips": [
+        "Flagellum = proton‑driven rotary engine"
+      ]
+    },
+    {
+      "topic": "Pili and fimbriae",
+      "heading": "Surface Appendages for Attachment and DNA Transfer",
+      "content": "Pili are longer, proteinaceous filaments involved in conjugation (sex pili) and DNA transfer. Fimbriae are shorter, more numerous structures that mediate adhesion to host cells and surfaces, facilitating colonization and biofilm formation.",
+      "keyPoints": [
+        "Sex pili: DNA transfer via conjugation",
+        "Fimbriae: adhesion and biofilm"
+      ],
+      "neetTips": [
+        "Pili = sex; fimbriae = stick"
+      ]
+    },
+    {
+      "topic": "Functions of prokaryotic structures",
+      "heading": "Integrated Roles of Cellular Components",
+      "content": "Each prokaryotic structure serves specific functions: nucleoid stores genetic information; plasmids provide adaptive traits; ribosomes synthesize proteins; cell wall maintains shape; plasma membrane regulates transport; flagellum enables motility; pili/fimbriae aid attachment and gene exchange; glycocalyx protects and facilitates biofilm formation.",
+      "keyPoints": [
+        "Genetic storage: nucleoid & plasmids",
+        "Protein synthesis: ribosomes",
+        "Shape & protection: cell wall & glycocalyx",
+        "Motility & attachment: flagellum, pili, fimbriae"
+      ],
+      "neetTips": [
+        "Link each structure to its primary function for quick recall"
+      ]
+    },
+    {
+      "topic": "Fluid mosaic model",
+      "heading": "Dynamic Nature of the Membrane",
+      "content": "The fluid mosaic model describes the plasma membrane as a fluid phospholipid bilayer with proteins and carbohydrates moving laterally. Lipid rafts, protein channels, and carrier proteins create a mosaic of functional domains.",
+      "keyPoints": [
+        "Lipid bilayer is fluid",
+        "Proteins/carbohydrates move laterally",
+        "Mosaic of functional domains"
+      ],
+      "neetTips": [
+        "Visualise membrane as a sea of lipids with floating islands (proteins)"
+      ]
+    },
+    {
+      "topic": "Structure of plasma membrane",
+      "heading": "Molecular Architecture",
+      "content": "The plasma membrane consists of a bilayer of amphipathic phospholipids (hydrophilic heads outward, hydrophobic tails inward). Embedded are integral (transmembrane) proteins, peripheral proteins, and covalently attached carbohydrates (glycoproteins, glycolipids).",
+      "keyPoints": [
+        "Amphipathic phospholipid bilayer",
+        "Integral & peripheral proteins",
+        "Carbohydrate moieties on extracellular side"
+      ],
+      "neetTips": [
+        "Remember head‑tail orientation for selective permeability"
+      ]
+    },
+    {
+      "topic": "Membrane proteins",
+      "heading": "Types and Functions",
+      "content": "Membrane proteins are classified as integral (spanning the bilayer) and peripheral (attached to surface). Functions include transport (channels, carriers), enzymatic activity, signal transduction, and cell‑cell recognition.",
+      "keyPoints": [
+        "Integral: transmembrane channels/carriers",
+        "Peripheral: enzymes, receptors",
+        "Roles in transport and signaling"
+      ],
+      "neetTips": [
+        "Channel = passive; carrier = facilitated"
+      ]
+    },
+    {
+      "topic": "Membrane carbohydrates",
+      "heading": "Glycoconjugates on the Surface",
+      "content": "Carbohydrates are covalently linked to lipids (glycolipids) or proteins (glycoproteins) on the outer leaflet. They serve as recognition sites, antigens, and mediate cell‑cell interactions. In bacteria, LPS O‑antigen is a key carbohydrate component.",
+      "keyPoints": [
+        "Glycolipids and glycoproteins present externally",
+        "Involved in recognition and antigenicity",
+        "LPS O‑antigen = bacterial carbohydrate"
+      ],
+      "neetTips": [
+        "Link membrane carbs to immune recognition"
+      ]
+    },
+    {
+      "topic": "Selective permeability",
+      "heading": "Regulation of Molecular Passage",
+      "content": "Selective permeability allows the membrane to permit certain molecules (e.g., O₂, CO₂, water) while restricting others (ions, large polar solutes). It is governed by lipid solubility, size, and the presence of specific transport proteins.",
+      "keyPoints": [
+        "Lipids allow small non‑polar molecules",
+        "Ions/polar molecules need transport proteins",
+        "Size and charge dictate permeability"
+      ],
+      "neetTips": [
+        "Remember: 'Like dissolves like' for passive diffusion"
+      ]
+    },
+    {
+      "topic": "Transport across plasma membrane",
+      "heading": "Mechanisms of Molecular Movement",
+      "content": "Transport mechanisms include passive diffusion, facilitated diffusion via carrier proteins, active transport (primary using ATP, secondary using ion gradients), and group translocation (e.g., PTS). Bacterial membranes also employ efflux pumps for antibiotic resistance.",
+      "keyPoints": [
+        "Passive diffusion: concentration gradient, no energy",
+        "Facilitated diffusion: carrier, no energy",
+        "Active transport: ATP‑driven or gradient‑driven",
+        "Group translocation modifies substrate"
+      ],
+      "neetTips": [
+        "Active = energy; facilitated = carrier, no energy"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and describe all major structural components of a typical prokaryotic cell",
+    "Distinguish nucleoid from eukaryotic nucleus and explain plasmid significance",
+    "Recall the composition and functional relevance of the bacterial cell envelope",
+    "Apply the fluid mosaic model to explain membrane structure and selective permeability",
+    "Differentiate passive, facilitated, and active transport mechanisms across the plasma membrane"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following structures is absent in a typical prokaryotic cell?",
+      "options": [
+        "Nucleoid region",
+        "Plasma membrane",
+        "Mitochondrion",
+        "Ribosomes"
+      ],
+      "answer": 2,
+      "explanation": "Prokaryotes lack membrane‑bound organelles such as mitochondria, which are present only in eukaryotic cells.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "The primary location of the bacterial chromosome is the:",
+      "options": [
+        "Nucleoid region",
+        "Plasmid",
+        "Cytoplasmic inclusion bodies",
+        "Capsule"
+      ],
+      "answer": 0,
+      "explanation": "The bacterial chromosome is a large circular DNA molecule that resides in the nucleoid, an irregularly shaped region without a surrounding membrane.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "Plasmids in prokaryotes are generally:",
+      "options": [
+        "Linear double‑stranded DNA molecules",
+        "Circular double‑stranded DNA molecules",
+        "RNA molecules",
+        "Proteinaceous particles"
+      ],
+      "answer": 1,
+      "explanation": "Typical bacterial plasmids are small, circular double‑stranded DNA molecules that replicate independently of the chromosome.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "The 70S ribosome of prokaryotes is composed of which subunits?",
+      "options": [
+        "40S and 60S",
+        "30S and 50S",
+        "20S and 30S",
+        "50S and 60S"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotic ribosomes consist of a 30S small subunit and a 50S large subunit, together forming a 70S ribosome.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "Which cell envelope component confers shape and protects against osmotic lysis in most bacteria?",
+      "options": [
+        "Plasma membrane",
+        "Peptidoglycan cell wall",
+        "Capsule",
+        "Mesosome"
+      ],
+      "answer": 1,
+      "explanation": "The peptidoglycan cell wall provides rigidity, determines shape, and prevents the cell from bursting in hypotonic environments.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "The glycocalyx layer that appears as a slime layer in many bacteria primarily functions in:",
+      "options": [
+        "DNA replication",
+        "Energy production",
+        "Protection against desiccation and adherence to surfaces",
+        "Protein synthesis"
+      ],
+      "answer": 2,
+      "explanation": "A slime‑like glycocalyx helps retain water, protects against drying, and facilitates attachment to surfaces and host tissues.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "Mesosomes, observed in some electron micrographs of bacteria, are best described as:",
+      "options": [
+        "True membrane‑bound organelles involved in respiration",
+        "Invaginations of the plasma membrane that may increase surface area",
+        "Cytoplasmic inclusions of stored nutrients",
+        "Extracellular appendages for motility"
+      ],
+      "answer": 1,
+      "explanation": "Mesosomes are considered artifacts or plasma‑membrane invaginations that may increase surface area, not true organelles.",
+      "topic": "Structure of a typical prokaryotic cell"
+    },
+    {
+      "question": "Which structure contains the bacterial genetic material and is not bounded by a membrane?",
+      "options": [
+        "Nucleoid",
+        "Plasmid",
+        "Capsule",
+        "Mesosome"
+      ],
+      "answer": 0,
+      "explanation": "The nucleoid is the region in the cytoplasm where the circular chromosome is located and it lacks a surrounding membrane.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "Plasmids are best described as:",
+      "options": [
+        "Linear DNA molecules that code for essential proteins",
+        "Small circular DNA molecules that replicate independently",
+        "Proteinaceous structures involved in motility",
+        "Lipid layers providing rigidity"
+      ],
+      "answer": 1,
+      "explanation": "Plasmids are extrachromosomal, usually circular DNA molecules that can replicate autonomously and often carry accessory genes.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "The bacterial cell envelope component that provides shape and protects against osmotic lysis is:",
+      "options": [
+        "Cytoplasmic membrane",
+        "Peptidoglycan layer",
+        "Capsule",
+        "Flagellum"
+      ],
+      "answer": 1,
+      "explanation": "The peptidoglycan (murein) layer gives the cell its shape and prevents bursting in hypotonic environments.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "In Gram‑negative bacteria, the outermost layer that contains lipopolysaccharide is:",
+      "options": [
+        "Plasma membrane",
+        "Peptidoglycan",
+        "Outer membrane",
+        "S‑layer"
+      ],
+      "answer": 2,
+      "explanation": "Gram‑negative bacteria possess an outer membrane external to the peptidoglycan, and its outer leaflet is rich in lipopolysaccharide (LPS).",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "Which of the following statements about the bacterial glycocalyx is FALSE?",
+      "options": [
+        "It can exist as a thick capsule",
+        "It is composed mainly of polysaccharides",
+        "It is involved in attachment to surfaces",
+        "It is a rigid structure that provides shape"
+      ],
+      "answer": 3,
+      "explanation": "The glycocalyx is a loosely organized, gelatinous layer; it does not confer rigidity or shape to the cell.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "Pili (fimbriae) are primarily involved in:",
+      "options": [
+        "Cell motility",
+        "Attachment to surfaces",
+        "Protein synthesis",
+        "Energy production"
+      ],
+      "answer": 1,
+      "explanation": "Fimbriae are short, hair‑like appendages that enable bacteria to adhere to host cells and abiotic surfaces.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "Which statement correctly describes the bacterial flagellum structure?",
+      "options": [
+        "It is anchored in the cell wall and rotates like a propeller",
+        "It is a rigid filament that extends from the nucleoid",
+        "It is composed of microtubules similar to eukaryotic flagella",
+        "It is a non‑motile appendage used for DNA uptake"
+      ],
+      "answer": 0,
+      "explanation": "The bacterial flagellum consists of a basal body embedded in the cell envelope, a hook, and a filament that rotates to propel the cell.",
+      "topic": "Bacterial cell organisation"
+    },
+    {
+      "question": "Which component is absent in the cell envelope of Gram‑positive bacteria?",
+      "options": [
+        "Outer membrane",
+        "Teichoic acids",
+        "Peptidoglycan",
+        "Cytoplasmic membrane"
+      ],
+      "answer": 0,
+      "explanation": "Gram‑positive bacteria lack an outer membrane; they have a thick peptidoglycan layer with teichoic acids attached to the cytoplasmic membrane.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "The lipid A portion of lipopolysaccharide (LPS) is responsible for:",
+      "options": [
+        "Antigenic specificity",
+        "Endotoxin activity",
+        "Porin formation",
+        "Peptidoglycan cross‑linking"
+      ],
+      "answer": 1,
+      "explanation": "Lipid A is the toxic component of LPS that triggers strong immune responses, acting as an endotoxin.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "In a typical Gram‑negative bacterium, the periplasmic space lies between:",
+      "options": [
+        "Inner membrane and peptidoglycan",
+        "Outer membrane and cytoplasmic membrane",
+        "Inner membrane and outer membrane",
+        "Peptidoglycan and outer membrane"
+      ],
+      "answer": 2,
+      "explanation": "The periplasmic space is the compartment between the inner (plasma) membrane and the outer membrane, containing the thin peptidoglycan layer.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "Which antibiotic primarily targets the synthesis of peptidoglycan in the bacterial cell wall?",
+      "options": [
+        "Tetracycline",
+        "Chloramphenicol",
+        "Penicillin",
+        "Rifampicin"
+      ],
+      "answer": 2,
+      "explanation": "Penicillins inhibit transpeptidase enzymes (penicillin‑binding proteins) involved in cross‑linking peptidoglycan, weakening the cell wall.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "The presence of which molecule in the cell envelope confers resistance to lysozyme in Gram‑negative bacteria?",
+      "options": [
+        "Lipopolysaccharide",
+        "Teichoic acid",
+        "Mycolic acid",
+        "Peptidoglycan"
+      ],
+      "answer": 0,
+      "explanation": "LPS in the outer membrane shields the underlying peptidoglycan from lysozyme, reducing its access and activity.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "During Gram staining, the crystal violet‑iodine complex is retained in cells that have:",
+      "options": [
+        "Thick peptidoglycan layer",
+        "Outer membrane containing LPS",
+        "High protein content in cell wall",
+        "Periplasmic space rich in enzymes"
+      ],
+      "answer": 0,
+      "explanation": "A thick peptidoglycan layer in Gram‑positive bacteria traps the crystal violet‑iodine complex, preventing its removal during decolorization.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "Which statement correctly describes the role of porins in the outer membrane of Gram‑negative bacteria?",
+      "options": [
+        "They actively pump nutrients using ATP",
+        "They form channels allowing passive diffusion of small molecules",
+        "They synthesize peptidoglycan",
+        "They bind to antibiotics and inactivate them"
+      ],
+      "answer": 1,
+      "explanation": "Porins are protein channels that permit passive diffusion of nutrients and small molecules across the outer membrane without energy input.",
+      "topic": "Cell envelope of bacteria"
+    },
+    {
+      "question": "Which of the following best describes the glycocalyx in bacteria?",
+      "options": [
+        "A rigid peptidoglycan layer that provides shape",
+        "A phospholipid bilayer that controls transport",
+        "A loosely attached polysaccharide layer external to the cell wall",
+        "A proteinaceous flagellar filament"
+      ],
+      "answer": 2,
+      "explanation": "The glycocalyx is an external, loosely attached layer composed mainly of polysaccharides (and sometimes polypeptides) that surrounds the bacterial cell wall.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "The capsule differs from a slime layer primarily because the capsule is:",
+      "options": [
+        "Tightly bound to the cell wall",
+        "Loosely attached to the cell surface",
+        "Composed mainly of lipids",
+        "Absent in pathogenic bacteria"
+      ],
+      "answer": 0,
+      "explanation": "A capsule is a well-organized, tightly bound glycocalyx, whereas a slime layer is loosely attached and more diffuse.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "Which staining technique is most commonly used to visualize the bacterial capsule (glycocalyx) under a microscope?",
+      "options": [
+        "Gram stain",
+        "Acid‑fast stain",
+        "India ink negative stain",
+        "Endospore stain"
+      ],
+      "answer": 2,
+      "explanation": "India ink or nigrosin negative staining creates a dark background, making the clear capsule appear as a halo around the cell.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "A major role of the glycocalyx in pathogenic bacteria is to:",
+      "options": [
+        "Synthesize ATP for the cell",
+        "Facilitate conjugation between cells",
+        "Prevent phagocytosis by host immune cells",
+        "Transport nutrients across the plasma membrane"
+      ],
+      "answer": 2,
+      "explanation": "The capsule component of the glycocalyx hinders recognition and engulfment by phagocytes, aiding bacterial virulence.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "During biofilm formation, the glycocalyx primarily contributes by:",
+      "options": [
+        "Providing a structural matrix that adheres cells to surfaces",
+        "Generating electrical currents for communication",
+        "Producing toxins that kill competing microbes",
+        "Acting as a selective barrier for antibiotics"
+      ],
+      "answer": 0,
+      "explanation": "The extracellular polymeric substances of the glycocalyx form the scaffold of a biofilm, allowing cells to stick to each other and to surfaces.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "Which statement about the composition of the bacterial glycocalyx is true?",
+      "options": [
+        "It is exclusively composed of lipopolysaccharide",
+        "It may consist of polysaccharides, polypeptides, or both",
+        "It contains fragments of DNA",
+        "It is made only of phospholipids"
+      ],
+      "answer": 1,
+      "explanation": "The glycocalyx can be made of polysaccharides, polypeptides, or a mixture, varying among species.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "The presence of a thick glycocalyx (capsule) can affect antibiotic treatment because it:",
+      "options": [
+        "Increases the rate of drug diffusion into the cell",
+        "Acts as a barrier reducing penetration of certain antibiotics",
+        "Degrades antibiotics enzymatically",
+        "Pumps antibiotics out via active transport"
+      ],
+      "answer": 1,
+      "explanation": "A dense capsule can impede the diffusion of large‑molecule antibiotics, decreasing their effective concentration at the target site.",
+      "topic": "Glycocalyx"
+    },
+    {
+      "question": "Which of the following best distinguishes a bacterial capsule from a slime layer?",
+      "options": [
+        "Capsule is loosely attached to the cell surface, whereas slime layer is tightly bound",
+        "Capsule is composed mainly of proteins, while slime layer is polysaccharide",
+        "Capsule is a well-defined, tightly bound layer, whereas slime layer is loosely attached and diffuse",
+        "Both capsule and slime layer are identical in attachment and composition"
+      ],
+      "answer": 2,
+      "explanation": "A capsule forms a distinct, tightly bound layer around the cell, while a slime layer is loosely attached and appears diffuse.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "The primary function of a bacterial capsule in pathogenic species is to:",
+      "options": [
+        "Facilitate rapid cell division",
+        "Increase surface area for nutrient absorption",
+        "Protect against phagocytosis by host immune cells",
+        "Enable flagellar motility"
+      ],
+      "answer": 2,
+      "explanation": "Capsules hinder recognition and engulfment by phagocytes, enhancing bacterial virulence.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "Which staining technique is most suitable for visualizing a bacterial capsule under the microscope?",
+      "options": [
+        "Gram staining",
+        "Negative staining with India ink",
+        "Acid-fast staining",
+        "Endospore staining"
+      ],
+      "answer": 1,
+      "explanation": "Negative staining (e.g., India ink) creates a dark background, leaving the capsule as a clear halo around the cell.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "In Streptococcus pneumoniae, the variation in capsule polysaccharide composition is clinically important because it:",
+      "options": [
+        "Determines the bacterium's motility",
+        "Alters the organism's Gram reaction",
+        "Defines serotypes used in vaccine formulation",
+        "Increases the rate of binary fission"
+      ],
+      "answer": 2,
+      "explanation": "Different capsular polysaccharide structures define serotypes; vaccines target the most prevalent serotypes.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "A slime layer contributes to bacterial survival in the environment primarily by:",
+      "options": [
+        "Providing resistance to antibiotics",
+        "Facilitating DNA replication",
+        "Preventing desiccation and aiding adherence to surfaces",
+        "Generating ATP through photosynthesis"
+      ],
+      "answer": 2,
+      "explanation": "The slime layer retains moisture, protecting cells from drying, and helps them adhere to surfaces, forming biofilms.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "Which of the following statements about the composition of bacterial capsules is most accurate?",
+      "options": [
+        "All capsules are composed exclusively of peptidoglycan",
+        "Capsules are always made of lipids",
+        "Capsules are primarily polysaccharides, though some may contain polypeptides",
+        "Capsules consist solely of nucleic acids"
+      ],
+      "answer": 2,
+      "explanation": "Most bacterial capsules are polysaccharide matrices; a few, like those of Bacillus anthracis, contain polypeptide components.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "The Quellung reaction is used to:",
+      "options": [
+        "Detect the presence of a bacterial capsule by swelling of the capsule in the presence of specific antisera",
+        "Identify endospore-forming bacteria",
+        "Determine the Gram reaction of a bacterium",
+        "Measure the rate of bacterial respiration"
+      ],
+      "answer": 0,
+      "explanation": "In the Quellung reaction, specific antibodies bind to capsular antigens, causing the capsule to appear enlarged (swollen) under the microscope.",
+      "topic": "Capsule and slime layer"
+    },
+    {
+      "question": "Which component is unique to Gram‑positive bacterial cell walls?",
+      "options": [
+        "Teichoic acids",
+        "Lipopolysaccharide (LPS)",
+        "Outer membrane",
+        "Periplasmic space"
+      ],
+      "answer": 0,
+      "explanation": "Teichoic acids are polymers of glycerol or ribitol linked by phosphate groups and are found only in the thick peptidoglycan layer of Gram‑positive bacteria.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "The primary target of β‑lactam antibiotics such as penicillin in bacterial cells is",
+      "options": [
+        "DNA gyrase",
+        "Peptidoglycan cross‑linking enzymes",
+        "Ribosomal 30S subunit",
+        "F‑type ATPase"
+      ],
+      "answer": 1,
+      "explanation": "β‑lactams bind to and inhibit penicillin‑binding proteins (transpeptidases) that catalyse the cross‑linking of peptidoglycan strands, weakening the cell wall.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "In a typical Gram‑negative bacterium, the thin peptidoglycan layer is located",
+      "options": [
+        "Inside the cytoplasm",
+        "Between the outer membrane and the inner membrane",
+        "Outside the outer membrane",
+        "Within the plasma membrane"
+      ],
+      "answer": 1,
+      "explanation": "Gram‑negative bacteria have a periplasmic space between the outer membrane and the cytoplasmic (inner) membrane where a thin peptidoglycan layer resides.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which statement correctly describes the difference between Gram‑positive and Gram‑negative cell walls regarding the presence of an outer membrane?",
+      "options": [
+        "Both have an outer membrane",
+        "Gram‑positive lack an outer membrane",
+        "Gram‑negative lack an outer membrane",
+        "Neither have an outer membrane"
+      ],
+      "answer": 1,
+      "explanation": "Only Gram‑negative bacteria possess an outer membrane external to the thin peptidoglycan layer; Gram‑positive bacteria lack this structure.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "The presence of which molecule in the outer leaflet of the outer membrane contributes to endotoxin activity?",
+      "options": [
+        "Peptidoglycan",
+        "Lipopolysaccharide (LPS)",
+        "Teichoic acid",
+        "Mycolic acid"
+      ],
+      "answer": 1,
+      "explanation": "The lipid A portion of LPS, located in the outer leaflet of the outer membrane, is responsible for the endotoxin effects of Gram‑negative bacteria.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "During Gram staining, the crystal violet‑iodine complex is retained in cells that have",
+      "options": [
+        "Thin peptidoglycan layer",
+        "Thick peptidoglycan layer",
+        "High LPS content",
+        "High protein content"
+      ],
+      "answer": 1,
+      "explanation": "A thick, multilayered peptidoglycan mesh in Gram‑positive cells traps the crystal violet‑iodine complex, preventing its removal by alcohol.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which of the following antibiotics interferes with bacterial cell‑wall synthesis by inhibiting the formation of N‑acetylmuramic acid?",
+      "options": [
+        "Tetracycline",
+        "Vancomycin",
+        "Chloramphenicol",
+        "Ciprofloxacin"
+      ],
+      "answer": 1,
+      "explanation": "Vancomycin binds to the D‑Ala‑D‑Ala terminus of the peptidoglycan precursor, blocking the addition of N‑acetylmuramic acid residues and thus inhibiting cell‑wall synthesis.",
+      "topic": "Cell wall"
+    },
+    {
+      "question": "Which statement about the lipid composition of a typical prokaryotic plasma membrane is correct?",
+      "options": [
+        "It contains high amounts of cholesterol similar to eukaryotic membranes",
+        "It is predominantly composed of phosphatidylethanolamine and phosphatidylglycerol",
+        "It is rich in sphingomyelin as the major phospholipid",
+        "Glycolipids constitute the bulk of the membrane lipids"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial membranes lack cholesterol and sphingomyelin; the major phospholipids are phosphatidylethanolamine and phosphatidylglycerol, giving the membrane its characteristic fluidity.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "According to the fluid mosaic model, which component primarily determines the selective permeability of the plasma membrane?",
+      "options": [
+        "Integral membrane proteins",
+        "Peripheral membrane proteins",
+        "The phospholipid bilayer",
+        "Carbohydrate chains attached to lipids"
+      ],
+      "answer": 2,
+      "explanation": "The amphipathic phospholipid bilayer forms the core barrier; its hydrophobic interior restricts passage of polar molecules, thus governing basic selective permeability.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Glucose enters a bacterial cell by facilitated diffusion. Which type of membrane protein mediates this process?",
+      "options": [
+        "Channel protein",
+        "Carrier (solute‑carrier) protein",
+        "ATP‑driven pump",
+        "Receptor tyrosine kinase"
+      ],
+      "answer": 1,
+      "explanation": "Facilitated diffusion of glucose uses a specific carrier protein that undergoes conformational changes to transport glucose down its concentration gradient without energy input.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which of the following is NOT a function of the bacterial plasma membrane?",
+      "options": [
+        "Regulation of osmotic balance",
+        "DNA replication",
+        "Generation of proton motive force for ATP synthesis",
+        "Cell‑cell signaling"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication occurs in the nucleoid region of the cytoplasm, not at the plasma membrane; the membrane is involved in osmoregulation, energy transduction, and signaling.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "In most integral membrane proteins of bacteria, the N‑terminus is located:",
+      "options": [
+        "On the cytoplasmic side of the membrane",
+        "On the extracellular (outside) side of the membrane",
+        "On the periplasmic side of the membrane",
+        "There is no consistent orientation for the N‑terminus"
+      ],
+      "answer": 1,
+      "explanation": "Structural studies show that the N‑terminal segment of many bacterial integral proteins faces the external environment, while the C‑terminus remains cytoplasmic.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Proton translocation across the bacterial plasma membrane during oxidative phosphorylation exemplifies which type of transport?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Primary active transport",
+        "Secondary active transport"
+      ],
+      "answer": 2,
+      "explanation": "The electron transport chain uses redox energy to pump protons directly across the membrane, a classic example of primary active transport.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "Which property of the phospholipid molecules chiefly contributes to the plasma membrane's selective permeability to water and small uncharged solutes?",
+      "options": [
+        "Hydrophilic phosphate head groups",
+        "Negative charge on fatty‑acid tails",
+        "Presence of saturated fatty‑acid tails",
+        "Incorporation of cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "The polar, hydrophilic phosphate heads interact with water, allowing limited passage of water and small uncharged molecules, whereas the hydrophobic tails restrict larger or charged species.",
+      "topic": "Plasma membrane"
+    },
+    {
+      "question": "What best describes a mesosome in prokaryotic cells?",
+      "options": [
+        "A folded invagination of the plasma membrane",
+        "A region containing the nucleoid DNA",
+        "A cluster of ribosomes attached to the membrane",
+        "A thickened segment of the cell wall"
+      ],
+      "answer": 0,
+      "explanation": "Mesosomes are observed as membrane folds or invaginations of the plasma membrane in bacteria, not DNA regions, ribosome clusters, or wall thickenings.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "Which function was historically ascribed to mesosomes?",
+      "options": [
+        "Protein synthesis",
+        "DNA replication",
+        "Cell wall synthesis",
+        "Lipid storage"
+      ],
+      "answer": 2,
+      "explanation": "Early studies suggested mesosomes participated in peptidoglycan (cell wall) synthesis and cell division, though this view is now outdated.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "The appearance of mesosome-like structures is most commonly attributed to which laboratory technique?",
+      "options": [
+        "Cryofixation",
+        "Chemical fixation with glutaraldehyde",
+        "Freeze‑fracture microscopy",
+        "Live‑cell fluorescence imaging"
+      ],
+      "answer": 1,
+      "explanation": "Chemical fixation, especially with aldehydes, can cause artificial membrane invaginations that resemble mesosomes.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "Mesosome-like structures have been reported predominantly in which group of bacteria?",
+      "options": [
+        "Gram‑positive bacteria",
+        "Gram‑negative bacteria",
+        "Mycoplasma species",
+        "Archaea"
+      ],
+      "answer": 0,
+      "explanation": "Early electron‑microscopic observations of mesosomes were mainly in Gram‑positive bacteria, likely because their thick peptidoglycan layer accentuated the artifacts.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "What is the current consensus regarding the existence of mesosomes in living bacteria?",
+      "options": [
+        "They are essential for ATP synthesis",
+        "They serve as sites of DNA replication",
+        "They are artifacts produced during sample preparation",
+        "They anchor bacterial flagella"
+      ],
+      "answer": 2,
+      "explanation": "Modern studies using improved preparation methods have shown that mesosomes are not genuine cellular structures but fixation artifacts.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "If mesosomes were genuine structures involved in cell‑wall synthesis, which enzyme would you expect to be enriched there?",
+      "options": [
+        "ATP synthase",
+        "DNA polymerase III",
+        "Ribosomal protein S1",
+        "Peptidoglycan synthase"
+      ],
+      "answer": 3,
+      "explanation": "Cell‑wall synthesis requires peptidoglycan synthase enzymes; historically mesosomes were thought to host such activities.",
+      "topic": "Mesosome"
+    },
+    {
+      "question": "Which description best characterizes the physical nature of the prokaryotic cytoplasm?",
+      "options": [
+        "A highly viscous gel-like matrix containing water, enzymes, and macromolecules",
+        "A rigid crystalline structure",
+        "An empty vacuole devoid of macromolecules",
+        "Lipid‑filled droplets dispersed throughout the cell"
+      ],
+      "answer": 0,
+      "explanation": "The bacterial cytoplasm is a semi‑solid, gel‑like matrix where water, dissolved ions, enzymes, ribosomes and other macromolecules are uniformly distributed, allowing metabolic reactions to occur.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "In bacterial cells, inclusion bodies present in the cytoplasm primarily serve as storage forms of which substance?",
+      "options": [
+        "Polysaccharides such as glycogen",
+        "DNA fragments",
+        "Lipids",
+        "RNA molecules"
+      ],
+      "answer": 0,
+      "explanation": "Inclusion bodies commonly store reserve materials like glycogen (a polysaccharide), polyphosphate or sulfur; they are not involved in nucleic acid or lipid storage.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which cellular processes occur predominantly within the prokaryotic cytoplasm?",
+      "options": [
+        "DNA replication only",
+        "Protein synthesis and most metabolic reactions",
+        "Photosynthesis",
+        "Synthesis of the cell wall peptidoglycan"
+      ],
+      "answer": 1,
+      "explanation": "The cytoplasm houses ribosomes for protein synthesis and contains enzymes for glycolysis, fermentation, and other metabolic pathways; DNA replication also occurs there but is not the sole activity.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "What is the correct relationship between the plasma membrane and the cytoplasm in a prokaryote?",
+      "options": [
+        "The membrane is impermeable to all solutes",
+        "The membrane encloses the cytoplasm and regulates selective permeability",
+        "The membrane is part of the cytoplasmic matrix",
+        "Prokaryotes lack a plasma membrane"
+      ],
+      "answer": 1,
+      "explanation": "The plasma membrane forms a boundary around the cytoplasm and contains transport proteins that control the entry and exit of specific molecules, maintaining internal homeostasis.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Current consensus regarding the historically described \"mesosome\" in bacterial cells is that it is:",
+      "options": [
+        "An artifact produced during electron‑microscopic fixation",
+        "Essential for DNA replication",
+        "A major site of ATP synthesis",
+        "Involved in cell‑division machinery"
+      ],
+      "answer": 0,
+      "explanation": "Modern studies have shown that mesosome‑like invaginations are fixation artifacts and not genuine, functional structures of the bacterial cytoplasm.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which component is NOT normally found freely suspended in the bacterial cytoplasm?",
+      "options": [
+        "Ribosomes",
+        "Plasmids",
+        "Nucleoid DNA",
+        "Mitochondria"
+      ],
+      "answer": 3,
+      "explanation": "Bacteria lack membrane‑bound organelles such as mitochondria; ribosomes, plasmids and the nucleoid are all present within the cytoplasm.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "The high concentration of enzymes in the bacterial cytoplasm primarily facilitates:",
+      "options": [
+        "Rapid diffusion of gases across the cell",
+        "Immediate utilization of nutrients through metabolic pathways",
+        "Structural support of the cell wall",
+        "Generation of electrical impulses"
+      ],
+      "answer": 1,
+      "explanation": "Enzymes in the cytoplasm catalyze metabolic reactions, allowing bacteria to quickly process nutrients for energy and biosynthesis.",
+      "topic": "Cytoplasm"
+    },
+    {
+      "question": "Which inclusion body commonly serves as a reserve of carbon and energy in many bacteria?",
+      "options": [
+        "Glycogen granules",
+        "Polyphosphate granules",
+        "Sulfur granules",
+        "Gas vacuoles"
+      ],
+      "answer": 0,
+      "explanation": "Glycogen granules are polysaccharide inclusions that store carbon and energy, especially in heterotrophic bacteria.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "Gas vacuoles are primarily found in which type of microorganisms and what is their function?",
+      "options": [
+        "Halophilic archaea – salt balance",
+        "Cyanobacteria – buoyancy regulation",
+        "Mycobacteria – drug resistance",
+        "Bacillus – spore formation"
+      ],
+      "answer": 1,
+      "explanation": "Cyanobacteria produce gas vacuoles filled with gas vesicles that adjust cellular buoyancy, allowing them to position optimally for light.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "Polyphosphate inclusion bodies in bacteria are important for:",
+      "options": [
+        "Synthesis of DNA",
+        "Storage of inorganic phosphate",
+        "Production of ATP",
+        "Cell wall synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Polyphosphate granules act as reservoirs of inorganic phosphate, which can be mobilized for metabolic needs and stress responses.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "Which staining technique is most suitable for visualizing lipid inclusion bodies in bacterial cells?",
+      "options": [
+        "Gram staining",
+        "Sudan III staining",
+        "Acid‑fast staining",
+        "Endospore stain"
+      ],
+      "answer": 1,
+      "explanation": "Sudan III (or Sudan Black) is a lipid‑soluble dye that specifically stains intracellular lipid droplets, making them visible under light microscopy.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "In Mycobacterium tuberculosis, the presence of which inclusion body is associated with pathogenicity and drug tolerance?",
+      "options": [
+        "Glycogen granules",
+        "Lipid (mycolic acid) inclusion bodies",
+        "Sulfur granules",
+        "Polyphosphate granules"
+      ],
+      "answer": 1,
+      "explanation": "Mycobacteria accumulate lipid‑rich inclusion bodies (often called lipid droplets) that contribute to dormancy, persistence, and resistance to antibiotics.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "Which statement correctly distinguishes inclusion bodies from membrane‑bound organelles in prokaryotes?",
+      "options": [
+        "Inclusion bodies have their own DNA, organelles do not",
+        "Inclusion bodies are non‑membranous aggregates of reserve materials, whereas organelles are bounded by lipid membranes",
+        "Inclusion bodies are involved in protein synthesis, organelles are not",
+        "Inclusion bodies are always visible under light microscope, organelles require electron microscopy"
+      ],
+      "answer": 1,
+      "explanation": "Inclusion bodies are simple, non‑membranous deposits of substances such as glycogen or polyphosphate, while true organelles (e.g., thylakoids in cyanobacteria) are enclosed by lipid membranes.",
+      "topic": "Inclusion bodies"
+    },
+    {
+      "question": "Which of the following correctly describes the sedimentation coefficient and subunit composition of prokaryotic ribosomes?",
+      "options": [
+        "70S; 50S large and 30S small",
+        "80S; 60S large and 40S small",
+        "70S; 60S large and 10S small",
+        "80S; 50S large and 30S small"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotic ribosomes sediment at 70S and consist of a 50S large subunit and a 30S small subunit, unlike eukaryotic 80S ribosomes.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "The primary site of protein synthesis in a typical prokaryotic cell is:",
+      "options": [
+        "Free ribosomes in the cytoplasm",
+        "Rough endoplasmic reticulum",
+        "Mitochondrial matrix",
+        "Nucleoid region"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotes lack membrane‑bound organelles; their ribosomes float freely in the cytoplasm where translation occurs.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "Which rRNA component is present in the large subunit of prokaryotic ribosomes but absent in the small subunit?",
+      "options": [
+        "5S rRNA",
+        "16S rRNA",
+        "23S rRNA",
+        "18S rRNA"
+      ],
+      "answer": 0,
+      "explanation": "The 5S rRNA is part of the 50S large subunit; the small 30S subunit contains only 16S rRNA.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "An antibiotic that binds to the 30S subunit and prevents the attachment of aminoacyl‑tRNA is:",
+      "options": [
+        "Streptomycin",
+        "Chloramphenicol",
+        "Erythromycin",
+        "Penicillin"
+      ],
+      "answer": 0,
+      "explanation": "Streptomycin targets the 30S ribosomal subunit, blocking the entry of aminoacyl‑tRNA and inhibiting protein synthesis.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "In prokaryotes, the Shine‑Dalgarno sequence functions to:",
+      "options": [
+        "Align the ribosome with the start codon",
+        "Signal termination of translation",
+        "Facilitate mRNA splicing",
+        "Target the protein for secretion"
+      ],
+      "answer": 0,
+      "explanation": "The Shine‑Dalgarno sequence pairs with the 16S rRNA of the 30S subunit, positioning the ribosome at the correct start codon.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "Compared with eukaryotic ribosomes, prokaryotic ribosomes have:",
+      "options": [
+        "A lower sedimentation coefficient",
+        "A higher number of ribosomal proteins",
+        "Presence of a 5' cap on mRNA",
+        "Membrane‑bound ribosomes"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotic ribosomes are 70S, which is lower than the 80S of eukaryotes; they also differ in protein count and are not membrane‑bound.",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "Which statement about the composition of a prokaryotic 70S ribosome is correct?",
+      "options": [
+        "It contains about 54 proteins and 3 rRNA molecules",
+        "It contains 80 proteins and 4 rRNA molecules",
+        "It contains 30 proteins and 2 rRNA molecules",
+        "It contains 100 proteins and 5 rRNA molecules"
+      ],
+      "answer": 0,
+      "explanation": "A typical bacterial 70S ribosome is composed of roughly 54 distinct proteins and three rRNA species (16S, 23S, and 5S).",
+      "topic": "Ribosomes in prokaryotes"
+    },
+    {
+      "question": "In a typical prokaryotic cell, the nucleoid is best described as:",
+      "options": [
+        "A membrane-bound organelle containing genetic material",
+        "A region of the cytoplasm where the circular chromosome is located, not bounded by a membrane",
+        "A structure embedded within the cell wall",
+        "A space between the inner and outer membranes of Gram‑negative bacteria"
+      ],
+      "answer": 1,
+      "explanation": "The nucleoid is the irregularly-shaped region in the cytoplasm where the bacterial chromosome (circular DNA) resides and it is not enclosed by any membrane.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "The genetic material present in the nucleoid of most bacteria is:",
+      "options": [
+        "Linear double‑stranded DNA molecules",
+        "Circular double‑stranded DNA molecules",
+        "Single‑stranded RNA molecules",
+        "Linear double‑stranded RNA molecules"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial chromosomes are typically a single, circular double‑stranded DNA molecule that forms the nucleoid.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "Which group of proteins primarily assists in compacting the bacterial chromosome within the nucleoid?",
+      "options": [
+        "Histones",
+        "Nucleoid‑associated proteins such as HU, IHF and H‑NS",
+        "Tubulins",
+        "Actins"
+      ],
+      "answer": 1,
+      "explanation": "Bacteria lack histones; instead, nucleoid‑associated proteins (NAPs) like HU, IHF, and H‑NS bind DNA and help organize and compact it.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "A key difference between a bacterial nucleoid and a eukaryotic nucleus is that the nucleoid:",
+      "options": [
+        "Is surrounded by a double membrane",
+        "Contains RNA as its main genetic material",
+        "Lacks a surrounding nuclear envelope",
+        "Has multiple linear chromosomes"
+      ],
+      "answer": 2,
+      "explanation": "The nucleoid is not enclosed by a nuclear envelope, whereas the eukaryotic nucleus is bounded by a double membrane.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "During binary fission, segregation of the nucleoid is primarily achieved by:",
+      "options": [
+        "Spindle fibers composed of microtubules",
+        "The constricting FtsZ ring directly moving DNA",
+        "Par (partition) proteins and nucleoid occlusion mechanisms",
+        "Random diffusion of DNA fragments"
+      ],
+      "answer": 2,
+      "explanation": "Bacterial chromosome segregation relies on Par proteins and nucleoid occlusion, ensuring each daughter cell receives a copy of the chromosome.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "Which staining method specifically highlights the nucleoid region in bacterial cells?",
+      "options": [
+        "Gram staining",
+        "Endospore (Schaeffer‑Fulton) stain",
+        "Feulgen reaction",
+        "Acid‑fast (Ziehl‑Neelsen) stain"
+      ],
+      "answer": 2,
+      "explanation": "The Feulgen reaction stains DNA, allowing visualization of the nucleoid as a distinct, DNA‑rich region within the cell.",
+      "topic": "Nucleoid"
+    },
+    {
+      "question": "What best describes a plasmid in bacterial cells?",
+      "options": [
+        "A linear chromosome that carries essential genes",
+        "An extrachromosomal circular DNA molecule that replicates independently",
+        "A single‑stranded RNA virus that infects bacteria",
+        "A membrane‑bound protein complex involved in transport"
+      ],
+      "answer": 1,
+      "explanation": "Plasmids are typically circular double‑stranded DNA molecules separate from the bacterial chromosome and capable of autonomous replication.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "Which plasmid type is most commonly associated with the spread of antibiotic resistance among bacteria?",
+      "options": [
+        "F (fertility) plasmid",
+        "R (resistance) plasmid",
+        "Col plasmid",
+        "Ti (tumor‑inducing) plasmid"
+      ],
+      "answer": 1,
+      "explanation": "R plasmids carry genes that confer resistance to one or more antibiotics and are a major vehicle for the dissemination of resistance traits.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "The gene that enables formation of the sex pilus required for bacterial conjugation is located on which plasmid?",
+      "options": [
+        "R plasmid",
+        "F plasmid",
+        "Col plasmid",
+        "pBR322"
+      ],
+      "answer": 1,
+      "explanation": "The F (fertility) plasmid carries the tra genes that code for the sex pilus and other proteins essential for conjugative DNA transfer.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "Plasmids that replicate by the theta mechanism are usually characterized by which copy‑number property?",
+      "options": [
+        "Low copy number",
+        "High copy number",
+        "Linear configuration",
+        "RNA‑based genome"
+      ],
+      "answer": 0,
+      "explanation": "Theta‑type replication is typical of low‑copy‑number plasmids, which maintain only a few copies per cell to ensure stable inheritance.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "Which statement about plasmid incompatibility groups is correct?",
+      "options": [
+        "Plasmids from the same incompatibility group can coexist stably in one cell",
+        "Plasmids of different incompatibility groups cannot be transferred together",
+        "Plasmids belonging to the same incompatibility group cannot be maintained together in a single host",
+        "Incompatibility groups refer to the spectrum of antibiotic resistance they confer"
+      ],
+      "answer": 2,
+      "explanation": "Plasmids of the same incompatibility group share similar replication/partitioning systems, leading to competition and loss of one plasmid when both are present.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "The cloning vector that carries ampicillin resistance and a multiple cloning site is:",
+      "options": [
+        "pBR322",
+        "F factor",
+        "Ti plasmid",
+        "R plasmid"
+      ],
+      "answer": 0,
+      "explanation": "pBR322 is a widely used E. coli cloning vector containing the amp^R gene and multiple unique restriction sites for insertion of foreign DNA.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "What distinguishes a conjugative plasmid from a non‑conjugative plasmid?",
+      "options": [
+        "Presence of an origin of replication",
+        "Presence of tra (transfer) genes",
+        "Size larger than 100 kb",
+        "Ability to replicate by rolling‑circle mechanism"
+      ],
+      "answer": 1,
+      "explanation": "Conjugative plasmids possess tra genes that encode the machinery for pilus formation and DNA transfer, whereas non‑conjugative plasmids lack these genes.",
+      "topic": "Plasmids"
+    },
+    {
+      "question": "Which component of the bacterial flagellum is primarily composed of flagellin?",
+      "options": [
+        "Filament",
+        "Hook",
+        "Basal body",
+        "Motor"
+      ],
+      "answer": 0,
+      "explanation": "The filament, the long external filament of the flagellum, is made up of repeating flagellin protein subunits.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "The rotation of most bacterial flagella is powered by which of the following?",
+      "options": [
+        "ATP hydrolysis",
+        "Light energy",
+        "Proton motive force",
+        "Sodium gradient"
+      ],
+      "answer": 2,
+      "explanation": "In many bacteria the motor uses the proton motive force across the cytoplasmic membrane to generate torque for rotation.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "In Gram‑negative bacteria, the basal body of the flagellum spans which cellular layers?",
+      "options": [
+        "Cytoplasmic membrane only",
+        "Cytoplasmic membrane and outer membrane",
+        "Cytoplasmic membrane, periplasmic space and outer membrane",
+        "Cytoplasmic membrane and peptidoglycan layer only"
+      ],
+      "answer": 2,
+      "explanation": "The basal body consists of rings that cross the cytoplasmic membrane, the peptidoglycan layer in the periplasmic space, and the outer membrane.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "Which gene is directly involved in the assembly of the flagellar hook?",
+      "options": [
+        "fliC",
+        "flgE",
+        "flhA",
+        "motB"
+      ],
+      "answer": 1,
+      "explanation": "The flgE gene encodes the hook protein, essential for connecting the filament to the basal body.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "During chemotaxis, which pattern of flagellar rotation results in a smooth swimming (run) in many bacteria?",
+      "options": [
+        "Counterclockwise rotation leads to tumbling",
+        "Clockwise rotation leads to smooth swimming",
+        "Counterclockwise rotation leads to smooth swimming",
+        "Both directions produce identical movement"
+      ],
+      "answer": 2,
+      "explanation": "A counter‑clockwise rotation of the flagellum causes the bundle to stay together, producing a straight run; clockwise rotation causes tumbling.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "The motor that drives flagellar rotation is anchored in which cellular structure?",
+      "options": [
+        "Nucleoid",
+        "Cytoplasmic membrane",
+        "Cell wall",
+        "Capsule"
+      ],
+      "answer": 1,
+      "explanation": "The rotary motor is embedded in the cytoplasmic (inner) membrane, with associated stator proteins.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "Which statement about bacterial flagella is FALSE?",
+      "options": [
+        "They are composed of protein subunits",
+        "They can function as a sensory organelle",
+        "They are present in all bacterial species",
+        "Their rotation is powered by ion gradients"
+      ],
+      "answer": 2,
+      "explanation": "Not all bacteria possess flagella; many species are non‑motile and lack this structure.",
+      "topic": "Bacterial flagellum"
+    },
+    {
+      "question": "Which bacterial surface structure is primarily responsible for firm attachment to host epithelial cells?",
+      "options": [
+        "Pili",
+        "Flagella",
+        "Fimbriae",
+        "Capsule"
+      ],
+      "answer": 2,
+      "explanation": "Fimbriae are short, hair‑like appendages that enable bacteria to adhere tightly to host tissues, a key step in colonization and infection.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "The protein subunit that makes up the shaft of sex pili is called:",
+      "options": [
+        "Pilin",
+        "Lipopolysaccharide",
+        "Peptidoglycan",
+        "Murein"
+      ],
+      "answer": 0,
+      "explanation": "Sex pili are composed of repeating pilin subunits; these proteins polymerize to form the filamentous pilus used in conjugation.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "Which statement correctly distinguishes pili from fimbriae?",
+      "options": [
+        "Pili are longer and often mediate DNA transfer, whereas fimbriae are shorter and mainly function in adhesion.",
+        "Pili occur only in Gram‑positive bacteria and fimbriae only in Gram‑negative bacteria.",
+        "Both structures have identical size and function.",
+        "Fimbriae are the structures that mediate bacterial conjugation."
+      ],
+      "answer": 0,
+      "explanation": "Pili (especially sex pili) are generally longer and facilitate conjugative DNA transfer, while fimbriae are shorter, numerous, and specialize in surface attachment.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "Type IV pili are best known for enabling which type of bacterial movement?",
+      "options": [
+        "Swarming",
+        "Twitching",
+        "Gliding",
+        "Brownian"
+      ],
+      "answer": 1,
+      "explanation": "Type IV pili can extend, attach to a surface, and retract, pulling the cell forward in a characteristic twitching motility.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "The presence of pili is essential for which genetic process in bacteria?",
+      "options": [
+        "Binary fission",
+        "Conjugation",
+        "Transduction",
+        "Transformation"
+      ],
+      "answer": 1,
+      "explanation": "Pili, particularly sex pili, form a physical bridge between donor and recipient cells, allowing the transfer of plasmid DNA during conjugation.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "Genes encoding sex pili are most commonly located on:",
+      "options": [
+        "The bacterial chromosome only",
+        "Plasmids",
+        "RNA polymerase III transcripts",
+        "No genetic material; pili are assembled spontaneously"
+      ],
+      "answer": 1,
+      "explanation": "Sex‑pilus genes are frequently carried on conjugative plasmids, enabling their horizontal spread along with the pilus‑mediated transfer function.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "In Gram‑negative bacteria, a pilus traverses which cellular compartments to reach the exterior?",
+      "options": [
+        "Cytoplasm",
+        "Nucleoid",
+        "Periplasmic space and outer membrane",
+        "Cell wall only"
+      ],
+      "answer": 2,
+      "explanation": "The pilus is assembled in the inner membrane, passes through the periplasmic space, and exits via the outer membrane to become an external filament.",
+      "topic": "Pili and fimbriae"
+    },
+    {
+      "question": "Which of the following best describes the primary function of the bacterial capsule?",
+      "options": [
+        "Facilitates attachment to surfaces",
+        "Provides resistance to phagocytosis and desiccation",
+        "Synthesizes ATP for the cell",
+        "Acts as a site for DNA replication"
+      ],
+      "answer": 1,
+      "explanation": "The capsule, a thick layer of polysaccharide outside the cell wall, protects bacteria from being engulfed by phagocytes and prevents water loss, enhancing survival in hostile environments.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "Plasmids in prokaryotes are most important because they:",
+      "options": [
+        "Encode the enzymes for glycolysis",
+        "Carry genes that can confer antibiotic resistance or metabolic capabilities",
+        "Form the structural core of the cell wall",
+        "Serve as the primary site of protein synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Plasmids are extrachromosomal DNA molecules that often carry accessory genes, such as those for antibiotic resistance, heavy‑metal tolerance, or utilization of unusual carbon sources, providing selective advantages.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "The bacterial flagellum primarily functions to:",
+      "options": [
+        "Secrete extracellular enzymes",
+        "Generate ATP through oxidative phosphorylation",
+        "Provide motility for chemotaxis",
+        "Anchor the cell to host tissues"
+      ],
+      "answer": 2,
+      "explanation": "Flagella are long, helical appendages that rotate, propelling the bacterium through its environment, allowing it to move toward favorable conditions (chemotaxis).",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "What is the main role of the peptidoglycan layer in the bacterial cell wall?",
+      "options": [
+        "Regulate selective transport of ions",
+        "Maintain cell shape and prevent osmotic lysis",
+        "Synthesize ribosomal RNA",
+        "Store excess nutrients"
+      ],
+      "answer": 1,
+      "explanation": "Peptidoglycan forms a rigid mesh that gives the cell its shape and protects it from bursting when water enters the cell due to osmotic pressure differences.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "Sex pili (conjugative pili) are essential for:",
+      "options": [
+        "Attachment to host cells during infection",
+        "DNA transfer between bacterial cells during conjugation",
+        "Secretion of toxins into the environment",
+        "Sensing changes in temperature"
+      ],
+      "answer": 1,
+      "explanation": "Conjugative pili connect donor and recipient cells, forming a bridge through which plasmid DNA is transferred during bacterial conjugation.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "Inclusion bodies in prokaryotes primarily serve to:",
+      "options": [
+        "Catalyze metabolic reactions",
+        "Store reserve nutrients such as carbon or sulfur",
+        "Form the structural framework of the cell",
+        "Transmit genetic information to offspring"
+      ],
+      "answer": 1,
+      "explanation": "Inclusion bodies are intracellular granules that store substances like polyhydroxybutyrate, sulfur, or glycogen, providing a reserve that can be mobilized when external nutrients are scarce.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "The nucleoid region of a prokaryotic cell is responsible for:",
+      "options": [
+        "Protein synthesis on membrane‑bound ribosomes",
+        "Housing the circular chromosome where transcription occurs",
+        "Generating ATP through oxidative phosphorylation",
+        "Providing structural support to the cell envelope"
+      ],
+      "answer": 1,
+      "explanation": "The nucleoid contains the bacterial chromosome, a circular DNA molecule, and is the site where transcription of genetic information into RNA takes place.",
+      "topic": "Functions of prokaryotic structures"
+    },
+    {
+      "question": "Which statement best describes the fluid mosaic model of the plasma membrane?",
+      "options": [
+        "The membrane is a rigid sheet of proteins embedded in a static lipid matrix",
+        "The membrane consists of a phospholipid bilayer with proteins that can move laterally",
+        "The membrane is composed solely of carbohydrate layers surrounding the cell",
+        "The membrane is a fixed protein lattice with no lipid movement"
+      ],
+      "answer": 1,
+      "explanation": "The fluid mosaic model proposes that the membrane is a fluid phospholipid bilayer in which proteins float and move laterally, giving the membrane its dynamic nature.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "In the fluid mosaic model, which component primarily contributes to membrane fluidity?",
+      "options": [
+        "Cholesterol molecules",
+        "The fatty‑acid tails of phospholipids",
+        "Integral membrane proteins",
+        "Glycolipids"
+      ],
+      "answer": 1,
+      "explanation": "The unsaturated fatty‑acid tails of phospholipids prevent tight packing, allowing the bilayer to remain fluid.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "According to the fluid mosaic model, which type of protein spans the entire lipid bilayer?",
+      "options": [
+        "Peripheral proteins attached to the surface",
+        "Integral (intrinsic) membrane proteins",
+        "Lipid‑anchored proteins",
+        "Secreted extracellular proteins"
+      ],
+      "answer": 1,
+      "explanation": "Integral (or intrinsic) proteins have hydrophobic regions that traverse the bilayer, anchoring them across the membrane.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "Which of the following cellular processes is NOT directly explained by the fluid mosaic model?",
+      "options": [
+        "Lateral diffusion of lipids within the bilayer",
+        "Vesicular transport of large molecules",
+        "Active transport via membrane pumps",
+        "Facilitated diffusion through carrier proteins"
+      ],
+      "answer": 1,
+      "explanation": "The fluid mosaic model describes the structural organization of the membrane; vesicular transport involves membrane remodeling beyond the basic model.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "In prokaryotic cells, the fluid mosaic model is applicable to which structure?",
+      "options": [
+        "The rigid peptidoglycan cell wall",
+        "The plasma (cell) membrane",
+        "The extracellular capsule",
+        "The nucleoid region"
+      ],
+      "answer": 1,
+      "explanation": "Prokaryotes possess a plasma membrane that follows the fluid mosaic arrangement; the cell wall and capsule are separate structures.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "Which statement about cholesterol in bacterial plasma membranes is correct?",
+      "options": [
+        "Cholesterol is abundant in all bacterial membranes",
+        "Cholesterol is completely absent in typical bacterial membranes",
+        "Cholesterol is present only in Gram‑positive bacteria",
+        "Cholesterol is present only in Gram‑negative bacteria"
+      ],
+      "answer": 1,
+      "explanation": "Typical bacterial plasma membranes lack cholesterol; some specialized bacteria may acquire sterols, but generally they are absent.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "How does the fluid mosaic model explain the selective permeability of the plasma membrane?",
+      "options": [
+        "Through fixed, immobile protein channels that cannot move",
+        "Via dynamic protein carriers that can diffuse laterally and change conformation",
+        "By a rigid lipid bilayer that blocks all solutes",
+        "By a thick carbohydrate coat that filters molecules"
+      ],
+      "answer": 1,
+      "explanation": "Selective permeability arises because mobile protein carriers and channels can bind specific solutes and undergo conformational changes, allowing regulated passage.",
+      "topic": "Fluid mosaic model"
+    },
+    {
+      "question": "What is the correct orientation of phospholipid molecules in the plasma membrane of prokaryotic cells?",
+      "options": [
+        "Hydrophilic heads face outward on both sides while hydrophobic tails are oriented inward",
+        "Hydrophilic heads face inward and hydrophobic tails face outward",
+        "Phospholipids are arranged randomly without a defined orientation",
+        "Hydrophilic heads and hydrophobic tails alternate in a checkerboard pattern"
+      ],
+      "answer": 0,
+      "explanation": "In the bilayer, the polar (hydrophilic) phosphate heads interact with the aqueous environment on both the exterior and interior surfaces, while the non‑polar (hydrophobic) fatty‑acid tails face each other forming the interior core.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "Which membrane protein primarily facilitates passive diffusion of small polar molecules across the prokaryotic plasma membrane?",
+      "options": [
+        "Carrier protein",
+        "Channel protein",
+        "Peripheral protein",
+        "Glycoprotein"
+      ],
+      "answer": 1,
+      "explanation": "Channel proteins form water‑filled pores that allow specific small polar solutes to move down their concentration gradient without the need for energy.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "Which statement about membrane carbohydrates in prokaryotic plasma membranes is correct?",
+      "options": [
+        "They are covalently linked only to phospholipids",
+        "They are attached to proteins forming lipopolysaccharides in Gram‑negative bacteria",
+        "They float freely within the lipid bilayer",
+        "Prokaryotes completely lack membrane carbohydrates"
+      ],
+      "answer": 1,
+      "explanation": "In Gram‑negative bacteria, the outer leaflet of the outer membrane contains lipopolysaccharide (LPS), where the polysaccharide portion is covalently attached to lipid A and core proteins.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "According to the fluid mosaic model, the lateral mobility of integral membrane proteins in prokaryotes can be restricted by:",
+      "options": [
+        "Covalent bonds with phospholipids",
+        "Interactions with the underlying cytoskeleton or cell wall",
+        "Hydrogen bonding with surrounding water molecules",
+        "Presence of cholesterol in the membrane"
+      ],
+      "answer": 1,
+      "explanation": "Anchoring of proteins to the cytoskeleton or to peptidoglycan of the cell wall limits their free diffusion within the lipid bilayer.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "Which of the following is NOT a function of the prokaryotic plasma membrane?",
+      "options": [
+        "ATP synthesis via the electron transport chain",
+        "Synthesis of peptidoglycan",
+        "Selective permeability to solutes",
+        "Active transport of nutrients"
+      ],
+      "answer": 1,
+      "explanation": "Peptidoglycan synthesis occurs in the periplasmic space and involves enzymes associated with the cell wall, not the plasma membrane.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "The term \"amphipathic\" applied to phospholipids indicates that the molecule:",
+      "options": [
+        "Contains both acidic and basic functional groups",
+        "Has both hydrophilic (polar) and hydrophobic (non‑polar) regions",
+        "Can act simultaneously as an enzyme and a structural component",
+        "Is soluble in both water and organic solvents"
+      ],
+      "answer": 1,
+      "explanation": "Amphipathic molecules possess a polar head that interacts with water and non‑polar fatty‑acid tails that avoid water, enabling bilayer formation.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "Which type of membrane protein is most directly involved in active transport of ions in bacterial cells?",
+      "options": [
+        "Peripheral protein",
+        "Integral membrane protein",
+        "Lipid‑anchored protein",
+        "Glycoprotein"
+      ],
+      "answer": 1,
+      "explanation": "Integral membrane proteins, such as ion pumps, span the bilayer and use energy (e.g., ATP) to move ions against their concentration gradients.",
+      "topic": "Structure of plasma membrane"
+    },
+    {
+      "question": "Which of the following statements correctly describes integral membrane proteins?",
+      "options": [
+        "They are loosely attached to the membrane surface and can be removed by high salt.",
+        "They span the lipid bilayer and often contain one or more α‑helical segments.",
+        "They are composed solely of carbohydrate chains.",
+        "They are only found in eukaryotic cells."
+      ],
+      "answer": 1,
+      "explanation": "Integral membrane proteins are embedded within the lipid bilayer, typically possessing one or more trans‑membrane α‑helices that anchor them firmly in the membrane.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "In the fluid mosaic model, which type of membrane protein primarily facilitates the rapid movement of ions across the bacterial plasma membrane?",
+      "options": [
+        "Carrier proteins",
+        "Channel proteins",
+        "Receptor proteins",
+        "Enzymatic proteins"
+      ],
+      "answer": 1,
+      "explanation": "Channel proteins form aqueous pores that allow specific ions to pass quickly down their electrochemical gradients without the need for conformational changes.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "The lactose permease (LacY) of E. coli is an example of a:",
+      "options": [
+        "Channel protein that allows passive diffusion",
+        "Primary active transporter using ATP",
+        "Secondary active carrier that uses proton motive force",
+        "Peripheral protein that binds substrate extracellularly"
+      ],
+      "answer": 2,
+      "explanation": "LacY operates as a secondary active transporter; it couples lactose uptake to the inward flow of protons, utilizing the proton motive force rather than ATP directly.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "Which structural feature most commonly anchors an integral membrane protein in the bacterial plasma membrane?",
+      "options": [
+        "Disulfide bridges with the cell wall",
+        "Multiple transmembrane α‑helices",
+        "Glycosylphosphatidylinositol (GPI) anchor",
+        "Covalent attachment to peptidoglycan"
+      ],
+      "answer": 1,
+      "explanation": "Most integral membrane proteins are anchored by one or more hydrophobic α‑helical segments that span the lipid bilayer, providing stable insertion.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "A mutation that eliminates the extracellular loop of a bacterial glucose transporter would most likely result in:",
+      "options": [
+        "Increased passive diffusion of glucose",
+        "Complete loss of glucose uptake",
+        "Unchanged glucose uptake due to redundancy",
+        "Enhanced ATP synthesis"
+      ],
+      "answer": 1,
+      "explanation": "The extracellular loop often contains the substrate‑binding site; its loss prevents glucose from binding, abolishing transport activity.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "Which of the following best distinguishes a receptor protein from a transport protein in the bacterial plasma membrane?",
+      "options": [
+        "Receptor proteins bind specific ligands and trigger intracellular signals; transport proteins move substances across the membrane.",
+        "Receptor proteins are always peripheral; transport proteins are always integral.",
+        "Receptor proteins require ATP; transport proteins do not.",
+        "Receptor proteins are only found in eukaryotes."
+      ],
+      "answer": 0,
+      "explanation": "Receptor proteins sense external signals and initiate a cellular response, whereas transport proteins facilitate the movement of molecules or ions across the membrane.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "The basal body of the bacterial flagellum is anchored in the plasma membrane. Which type of membrane protein is primarily involved in this anchoring?",
+      "options": [
+        "Peripheral proteins attached by ionic interactions",
+        "Integral proteins forming the MS ring",
+        "Soluble cytoplasmic proteins",
+        "Lipid‑linked glycolipids"
+      ],
+      "answer": 1,
+      "explanation": "The MS (membrane‑surface) ring of the flagellar basal body is composed of integral membrane proteins that embed in the plasma membrane, providing a stable anchor for the flagellum.",
+      "topic": "Membrane proteins"
+    },
+    {
+      "question": "Which component of the bacterial cell envelope is primarily composed of membrane carbohydrates?",
+      "options": [
+        "Lipopolysaccharide (LPS)",
+        "Peptidoglycan",
+        "Phospholipid bilayer",
+        "Teichoic acid"
+      ],
+      "answer": 0,
+      "explanation": "LPS, located in the outer leaflet of the outer membrane of Gram‑negative bacteria, consists of lipid A, core polysaccharide and O‑antigen, making it the main membrane carbohydrate.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "The O‑antigen portion of lipopolysaccharide (LPS) is chiefly responsible for:",
+      "options": [
+        "Antigenic specificity",
+        "Structural rigidity",
+        "Energy production",
+        "DNA replication"
+      ],
+      "answer": 0,
+      "explanation": "The O‑antigen is a variable polysaccharide chain that determines serotype and elicits immune responses, providing antigenic specificity.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "In Gram‑negative bacteria, the outer leaflet of the outer membrane predominantly contains:",
+      "options": [
+        "Phospholipids",
+        "Lipopolysaccharide (LPS)",
+        "Cholesterol",
+        "Peptidoglycan"
+      ],
+      "answer": 1,
+      "explanation": "The outer leaflet is enriched with LPS molecules, while phospholipids are mainly in the inner leaflet.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "Which statement correctly distinguishes capsule from slime layer in the glycocalyx?",
+      "options": [
+        "Capsule is tightly bound and protects against phagocytosis; slime layer is loosely attached and aids in surface adherence",
+        "Capsule is loosely attached and aids in surface adherence; slime layer is tightly bound and protects against phagocytosis",
+        "Both capsule and slime layer are tightly bound structures",
+        "Both capsule and slime layer are loosely attached structures"
+      ],
+      "answer": 0,
+      "explanation": "A capsule forms a firm, organized layer that resists phagocytosis, whereas a slime layer is diffuse, loosely attached, and helps cells stick to surfaces.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "Which of the following is NOT a function of bacterial glycocalyx?",
+      "options": [
+        "Protection against desiccation",
+        "Facilitate conjugation",
+        "Antigenic variation",
+        "Energy production"
+      ],
+      "answer": 3,
+      "explanation": "The glycocalyx is involved in protection, adhesion, and antigenic variation, but it does not participate in cellular energy production.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "The lipid A component of lipopolysaccharide is classified as a:",
+      "options": [
+        "Phospholipid",
+        "Glycolipid",
+        "Polysaccharide",
+        "Protein"
+      ],
+      "answer": 1,
+      "explanation": "Lipid A is a phosphorylated glucosamine disaccharide linked to fatty acids, making it a glycolipid that anchors LPS in the membrane.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "Which staining technique is most suitable for visualizing bacterial capsules?",
+      "options": [
+        "Gram staining",
+        "Negative staining",
+        "Acid‑fast staining",
+        "Endospore staining"
+      ],
+      "answer": 1,
+      "explanation": "Negative staining uses acidic dyes that do not penetrate the capsule, leaving it as a clear halo around the stained cell, allowing capsule observation.",
+      "topic": "Membrane carbohydrates"
+    },
+    {
+      "question": "Which structural feature of the phospholipid bilayer primarily determines its selective permeability to small non‑polar molecules?",
+      "options": [
+        "Hydrophobic core of the bilayer",
+        "Cholesterol content",
+        "Integral membrane proteins",
+        "Carbohydrate side chains"
+      ],
+      "answer": 0,
+      "explanation": "The non‑polar interior of the bilayer allows diffusion of small non‑polar molecules, while other components mainly affect transport of polar or larger substances.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Which of the following molecules can freely diffuse across a typical prokaryotic plasma membrane without any transport protein?",
+      "options": [
+        "Glucose",
+        "Oxygen (O₂)",
+        "Sodium ion (Na⁺)",
+        "Urea"
+      ],
+      "answer": 1,
+      "explanation": "O₂ is a small, non‑polar gas that readily crosses the hydrophobic core of the membrane by simple diffusion.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Porins in the outer membrane of Gram‑negative bacteria influence selective permeability. Which statement is correct about porins?",
+      "options": [
+        "They allow passage of large proteins",
+        "Water‑filled channels for small hydrophilic molecules",
+        "They actively pump ions using ATP",
+        "They are covalently bound to peptidoglycan"
+      ],
+      "answer": 1,
+      "explanation": "Porins form aqueous channels that permit passive diffusion of small, polar solutes such as nutrients and waste products.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Which factor does NOT affect the rate of diffusion of a solute across a selectively permeable membrane?",
+      "options": [
+        "Temperature",
+        "Solute size",
+        "Membrane thickness",
+        "Solute’s magnetic field"
+      ],
+      "answer": 3,
+      "explanation": "Diffusion depends on temperature, size, and membrane thickness; a solute’s magnetic field has no influence on passive diffusion.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Facilitated diffusion differs from simple diffusion because it:",
+      "options": [
+        "Requires ATP hydrolysis",
+        "Uses carrier proteins that undergo conformational change",
+        "Moves solutes against their concentration gradient",
+        "Is limited to ions only"
+      ],
+      "answer": 1,
+      "explanation": "Facilitated diffusion employs specific carrier or channel proteins that change shape to transport solutes down their gradient without energy input.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Why does cholesterol decrease membrane permeability to water‑soluble substances?",
+      "options": [
+        "Cholesterol increases membrane fluidity",
+        "Cholesterol fills gaps between phospholipids making the bilayer less permeable",
+        "Cholesterol creates pores in the membrane",
+        "Cholesterol adds negative charge to the membrane surface"
+      ],
+      "answer": 1,
+      "explanation": "Cholesterol occupies spaces between phospholipid tails, reducing free volume and making the membrane less permeable to polar molecules.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "In bacterial plasma membranes, selective permeability is primarily attributed to:",
+      "options": [
+        "Lipopolysaccharide layer",
+        "Integral membrane proteins",
+        "Peptidoglycan layer",
+        "Periplasmic space"
+      ],
+      "answer": 1,
+      "explanation": "Integral membrane proteins, such as channels and carriers, determine which substances can cross the membrane, conferring selective permeability.",
+      "topic": "Selective permeability"
+    },
+    {
+      "question": "Which statement about passive diffusion across the bacterial plasma membrane is correct?",
+      "options": [
+        "It requires a specific carrier protein",
+        "It moves solutes down their concentration gradient without the need for energy",
+        "It moves solutes against the concentration gradient using ATP",
+        "It is limited to the transport of charged molecules only"
+      ],
+      "answer": 1,
+      "explanation": "Passive diffusion relies solely on the concentration gradient; no protein carrier or energy input is required, allowing small non‑polar molecules to cross the lipid bilayer freely.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "Facilitated diffusion differs from simple diffusion because it:",
+      "options": [
+        "Requires direct hydrolysis of ATP",
+        "Moves solutes against their concentration gradient",
+        "Uses specific transport proteins to assist movement",
+        "Occurs only in eukaryotic cells"
+      ],
+      "answer": 2,
+      "explanation": "In facilitated diffusion, a carrier or channel protein provides a pathway for polar or larger molecules, but the movement is still down the concentration gradient and does not use ATP.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "The primary active transport mechanism most commonly found in many bacteria is mediated by which membrane protein?",
+      "options": [
+        "Na⁺/K⁺‑ATPase",
+        "H⁺‑ATPase (proton pump)",
+        "Ca²⁺‑ATPase",
+        "ABC transporter"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial plasma membranes often contain H⁺‑ATPases that hydrolyse ATP to pump protons out, generating the proton‑motive force used for secondary transport.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "Uptake of glucose via the bacterial phosphotransferase system (PTS) exemplifies:",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Secondary active transport",
+        "Primary active transport"
+      ],
+      "answer": 3,
+      "explanation": "The PTS uses phosphoenolpyruvate as the energy donor to phosphorylate glucose during transport, a form of primary active transport (group translocation) that does not directly use ATP.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "Which type of membrane protein most directly facilitates the movement of K⁺ ions across the bacterial plasma membrane?",
+      "options": [
+        "Channel protein",
+        "Carrier protein",
+        "ATPase pump",
+        "Receptor protein"
+      ],
+      "answer": 0,
+      "explanation": "Ion channels provide a hydrophilic pore that allows rapid, selective passage of specific ions like K⁺ down their electrochemical gradient.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "The selective permeability of the plasma membrane is primarily due to:",
+      "options": [
+        "The phospholipid bilayer allowing all molecules to pass",
+        "The presence of cholesterol alone",
+        "The combined effect of specific transport proteins and the lipid composition",
+        "The thickness of the bacterial cell wall"
+      ],
+      "answer": 2,
+      "explanation": "Selectivity arises from the amphipathic lipid bilayer that restricts polar molecules and from embedded proteins that mediate controlled transport of particular substances.",
+      "topic": "Transport across plasma membrane"
+    },
+    {
+      "question": "An antibiotic that blocks ATP‑dependent efflux pumps in bacteria would most directly impair which transport process?",
+      "options": [
+        "Simple diffusion of O₂",
+        "Facilitated diffusion of glucose",
+        "Primary active transport of ions",
+        "Secondary active transport of sugars"
+      ],
+      "answer": 2,
+      "explanation": "ATP‑dependent efflux pumps are primary active transporters that use ATP hydrolysis to export ions or toxic compounds; inhibiting them stops this energy‑requiring export.",
+      "topic": "Transport across plasma membrane"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 22,
+    "mcqCount": 151
+  }
+}

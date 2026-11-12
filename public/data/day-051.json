@@ -1,0 +1,2436 @@
+{
+  "day": 51,
+  "courseDate": "2026-10-19",
+  "publishAt": "2026-10-19T06:00:00+05:30",
+  "title": "Day 51: Mineral Nutrition — Essential Elements and Criteria",
+  "introduction": "This lesson covers the complete spectrum of mineral nutrition in plants as outlined in the NEET‑UG syllabus. It explains essential and beneficial elements, criteria for essentiality, macronutrient‑micronutrient distinction, individual element functions, deficiency, mobility and toxicity, all aligned with NCERT concepts.",
+  "sections": [
+    {
+      "topic": "Mineral nutrition in plants",
+      "heading": "Overview of Mineral Nutrition in Plants",
+      "content": "Plants require inorganic mineral elements from the soil for structural, metabolic and regulatory functions. Minerals are absorbed as ions through root hairs and transported via the xylem to all parts of the plant where they participate in enzyme activation, osmotic balance, photosynthesis and hormone synthesis.",
+      "keyPoints": [
+        "Minerals are taken up as ions",
+        "Serve structural, metabolic, and regulatory roles",
+        "Uptake occurs mainly through root hairs"
+      ],
+      "neetTips": [
+        "Remember the three broad roles of minerals for quick recall"
+      ]
+    },
+    {
+      "topic": "Essential mineral elements",
+      "heading": "Definition of Essential Mineral Elements",
+      "content": "An element is classified as essential when its absence from the growth medium leads to a measurable adverse effect on plant growth that can be reversed by adding the element back in appropriate form and concentration.",
+      "keyPoints": [
+        "Absence causes growth defect",
+        "Defect is reversible",
+        "Specific concentration required"
+      ],
+      "neetTips": [
+        "Link essentiality to reversible deficiency in NCERT examples"
+      ]
+    },
+    {
+      "topic": "Criteria for essentiality",
+      "heading": "Criteria for Determining Essentiality",
+      "content": "NCERT lists three criteria: (1) the element must be a part of the plant’s normal metabolism, (2) its deficiency must produce a specific disorder, and (3) the disorder must be corrected by supplying the element in a suitable chemical form.",
+      "keyPoints": [
+        "Part of normal metabolism",
+        "Specific deficiency disorder",
+        "Correction by supplementation"
+      ],
+      "neetTips": [
+        "Memorise the three‑point checklist for quick MCQ solving"
+      ]
+    },
+    {
+      "topic": "Macronutrients",
+      "heading": "Macronutrients – Major Elements Required in Large Quantities",
+      "content": "Macronutrients are needed in relatively large amounts (hundreds to thousands of mg kg⁻¹). They include N, P, K, Ca, Mg, and S. They are directly involved in primary metabolism such as protein synthesis, nucleic acids, and cell wall formation.",
+      "keyPoints": [
+        "Required in large quantities",
+        "Include N, P, K, Ca, Mg, S",
+        "Key roles in primary metabolism"
+      ],
+      "neetTips": [
+        "Group N, P, K as primary macronutrients for NEET focus"
+      ]
+    },
+    {
+      "topic": "Micronutrients",
+      "heading": "Micronutrients – Trace Elements Required in Small Quantities",
+      "content": "Micronutrients are needed in minute amounts (µg kg⁻¹). They act mainly as cofactors for enzymes and in electron transport. The essential micronutrients are Fe, Mn, Zn, Cu, B, Mo, Cl and Ni.",
+      "keyPoints": [
+        "Required in trace amounts",
+        "Function mainly as enzyme cofactors",
+        "Eight essential micronutrients"
+      ],
+      "neetTips": [
+        "Recall the mnemonic \"FeMnZnCuBMoClNi\" for the eight trace elements"
+      ]
+    },
+    {
+      "topic": "Beneficial elements",
+      "heading": "Beneficial (Non‑essential) Elements",
+      "content": "Elements such as Na, Si, Co and Al are not essential for most plants but can enhance growth, stress tolerance or disease resistance when present in the right concentration.",
+      "keyPoints": [
+        "Not essential for all species",
+        "Improve stress tolerance or yield",
+        "Examples: Na, Si, Co, Al"
+      ],
+      "neetTips": [
+        "Distinguish beneficial from essential by the phrase ‘enhances but not required’"
+      ]
+    },
+    {
+      "topic": "Carbon, hydrogen and oxygen",
+      "heading": "C, H and O – The Primary Building Blocks",
+      "content": "Carbon, hydrogen and oxygen are obtained from CO₂, water and air; they are not taken up from soil. They constitute ~95 % of plant dry mass and form the backbone of carbohydrates, lipids and proteins.",
+      "keyPoints": [
+        "Absorbed as CO₂ and H₂O",
+        "Make up ~95 % of dry mass",
+        "Form carbohydrates, lipids, proteins"
+      ],
+      "neetTips": [
+        "NEET often asks why C, H, O are not listed as mineral nutrients"
+      ]
+    },
+    {
+      "topic": "Nitrogen",
+      "heading": "Nitrogen – Role and Forms",
+      "content": "Nitrogen is a component of amino acids, nucleic acids and chlorophyll. Plants absorb it mainly as nitrate (NO₃⁻) and ammonium (NH₄⁺). Deficiency causes chlorosis, stunted growth and reduced yield.",
+      "keyPoints": [
+        "Part of amino acids, nucleic acids, chlorophyll",
+        "Absorbed as NO₃⁻ and NH₄⁺",
+        "Deficiency → chlorosis, stunting"
+      ],
+      "neetTips": [
+        "Remember N is the only macronutrient directly in chlorophyll"
+      ]
+    },
+    {
+      "topic": "Phosphorus",
+      "heading": "Phosphorus – Functions and Mobility",
+      "content": "Phosphorus is present in ATP, nucleic acids and phospholipids. It is taken up as H₂PO₄⁻. It is relatively immobile in soil; deficiency symptoms appear on older leaves first (purpling).",
+      "keyPoints": [
+        "Component of ATP, DNA, phospholipids",
+        "Uptake as H₂PO₄⁻",
+        "Deficiency shows on older leaves"
+      ],
+      "neetTips": [
+        "NEET fact: P deficiency = older leaf purpling"
+      ]
+    },
+    {
+      "topic": "Potassium",
+      "heading": "Potassium – Physiological Roles",
+      "content": "Potassium regulates stomatal opening, enzyme activation, osmotic balance and translocation of photosynthates. Absorbed as K⁺. Deficiency leads to marginal leaf necrosis and reduced vigor.",
+      "keyPoints": [
+        "Regulates stomata and osmotic balance",
+        "Uptake as K⁺",
+        "Deficiency → marginal necrosis"
+      ],
+      "neetTips": [
+        "K is the only macronutrient that does not form part of organic molecules"
+      ]
+    },
+    {
+      "topic": "Calcium",
+      "heading": "Calcium – Structural and Signalling Element",
+      "content": "Calcium is a component of cell walls (as Ca²⁺ pectate) and acts as a secondary messenger in signal transduction. Deficiency causes tip‑burn, blossom end rot and poor root development.",
+      "keyPoints": [
+        "Forms Ca²⁺ pectate in cell walls",
+        "Secondary messenger",
+        "Deficiency → tip‑burn, blossom end rot"
+      ],
+      "neetTips": [
+        "Link Ca deficiency with blossom end rot in tomatoes for NEET"
+      ]
+    },
+    {
+      "topic": "Magnesium",
+      "heading": "Magnesium – Central Atom of Chlorophyll",
+      "content": "Magnesium is the central ion in the chlorophyll molecule and activates many enzymes. Absorbed as Mg²⁺. Deficiency results in interveinal chlorosis of older leaves.",
+      "keyPoints": [
+        "Central atom of chlorophyll",
+        "Enzyme activator",
+        "Deficiency → interveinal chlorosis"
+      ],
+      "neetTips": [
+        "Mg deficiency = interveinal yellowing of older leaves"
+      ]
+    },
+    {
+      "topic": "Sulphur",
+      "heading": "Sulphur – Role in Amino Acids and Vitamins",
+      "content": "Sulphur is part of the amino acids cysteine and methionine and of some vitamins (e.g., thiamine). Taken up as SO₄²⁻. Deficiency causes uniform chlorosis and reduced protein synthesis.",
+      "keyPoints": [
+        "In cysteine, methionine, vitamins",
+        "Uptake as SO₄²⁻",
+        "Deficiency → uniform chlorosis"
+      ],
+      "neetTips": [
+        "S deficiency often mimics N deficiency; look for uniform chlorosis"
+      ]
+    },
+    {
+      "topic": "Iron",
+      "heading": "Iron – Essential Micronutrient for Electron Transport",
+      "content": "Iron is a component of cytochromes, ferredoxin and Fe‑S proteins. Absorbed as Fe²⁺/Fe³⁺. Deficiency causes interveinal chlorosis of young leaves (iron chlorosis).",
+      "keyPoints": [
+        "Part of cytochromes, ferredoxin",
+        "Uptake as Fe²⁺/Fe³⁺",
+        "Deficiency → interveinal chlorosis of young leaves"
+      ],
+      "neetTips": [
+        "Iron deficiency appears first on young leaves – opposite of N"
+      ]
+    },
+    {
+      "topic": "Manganese",
+      "heading": "Manganese – Enzyme Cofactor and Photosystem II",
+      "content": "Manganese is vital for the oxygen‑evolving complex of photosystem II and for several enzymes (e.g., decarboxylases). Absorbed as Mn²⁺. Deficiency leads to interveinal chlorosis of young leaves.",
+      "keyPoints": [
+        "Component of photosystem II OEC",
+        "Enzyme cofactor",
+        "Deficiency → young leaf chlorosis"
+      ],
+      "neetTips": [
+        "Mn deficiency = similar to Fe but also affects photosynthesis"
+      ]
+    },
+    {
+      "topic": "Zinc",
+      "heading": "Zinc – Role in Auxin Synthesis and Enzyme Activation",
+      "content": "Zinc is required for the synthesis of indole‑3‑acetic acid (IAA) and for many dehydrogenases. Absorbed as Zn²⁺. Deficiency shows as reduced leaf size, shortened internodes and chlorosis of young leaves.",
+      "keyPoints": [
+        "Involved in IAA synthesis",
+        "Cofactor for many enzymes",
+        "Deficiency → stunted growth, chlorosis of young leaves"
+      ],
+      "neetTips": [
+        "Zinc deficiency = dwarfism + chlorosis"
+      ]
+    },
+    {
+      "topic": "Copper",
+      "heading": "Copper – Electron Transfer and Lignin Formation",
+      "content": "Copper functions in plastocyanin (photosynthetic electron transport) and in enzymes involved in lignin biosynthesis. Absorbed as Cu²⁺. Deficiency causes wilting of young shoots and leaf curling.",
+      "keyPoints": [
+        "Part of plastocyanin",
+        "Lignin‑related enzymes",
+        "Deficiency → wilting, leaf curling"
+      ],
+      "neetTips": [
+        "Cu deficiency often shows as young shoot wilting"
+      ]
+    },
+    {
+      "topic": "Boron",
+      "heading": "Boron – Cell Wall Integrity and Reproductive Development",
+      "content": "Boron cross‑links pectic polysaccharides, maintaining cell wall strength, and is essential for pollen tube growth. Absorbed as B(OH)₄⁻. Deficiency leads to brittle growth, distorted leaves and poor fruit set.",
+      "keyPoints": [
+        "Cross‑links pectins",
+        "Essential for pollen tube",
+        "Deficiency → brittle tissues, poor fruit set"
+      ],
+      "neetTips": [
+        "B deficiency = poor fruit/seed set – high‑yield relevance"
+      ]
+    },
+    {
+      "topic": "Molybdenum",
+      "heading": "Molybdenum – Enzyme Cofactor in Nitrogen Metabolism",
+      "content": "Molybdenum is a cofactor for nitrate reductase and nitrogenase. Absorbed as MoO₄²⁻. Deficiency is rare but causes chlorosis and reduced nitrate reduction.",
+      "keyPoints": [
+        "Cofactor for nitrate reductase, nitrogenase",
+        "Uptake as MoO₄²⁻",
+        "Deficiency → chlorosis, poor nitrate reduction"
+      ],
+      "neetTips": [
+        "Mo deficiency often appears in alkaline soils"
+      ]
+    },
+    {
+      "topic": "Chlorine",
+      "heading": "Chlorine – Osmoregulation and Photosynthetic Oxygen Evolution",
+      "content": "Chlorine is involved in osmoregulation, stomatal opening and the water‑splitting reaction of photosystem II. Absorbed as Cl⁻. Deficiency is uncommon but leads to wilting and reduced growth.",
+      "keyPoints": [
+        "Participates in osmoregulation",
+        "Part of photosystem II water splitting",
+        "Deficiency → wilting"
+      ],
+      "neetTips": [
+        "Cl is the only essential halogen"
+      ]
+    },
+    {
+      "topic": "Nickel",
+      "heading": "Nickel – Urease Activation and Nitrogen Utilization",
+      "content": "Nickel is a cofactor of urease, enabling the hydrolysis of urea to ammonia. Absorbed as Ni²⁺. Deficiency results in accumulation of urea and stunted growth.",
+      "keyPoints": [
+        "Cofactor of urease",
+        "Facilitates urea utilization",
+        "Deficiency → urea buildup, stunting"
+      ],
+      "neetTips": [
+        "Ni deficiency is linked to urea‑based fertilizers"
+      ]
+    },
+    {
+      "topic": "Role of mineral elements",
+      "heading": "Overall Role of Mineral Elements in Plant Growth",
+      "content": "Mineral elements collectively support structural integrity, enzyme activation, photosynthesis, respiration, hormone synthesis, osmotic balance and stress resistance. Their balanced supply determines crop yield and quality.",
+      "keyPoints": [
+        "Structural, metabolic, regulatory functions",
+        "Enable photosynthesis, respiration, hormone synthesis",
+        "Balance crucial for yield"
+      ],
+      "neetTips": [
+        "Think of minerals as the ‘hardware’ that runs the ‘software’ of metabolism"
+      ]
+    },
+    {
+      "topic": "Deficiency symptoms",
+      "heading": "Typical Deficiency Symptoms Across Elements",
+      "content": "Deficiency symptoms are visual cues: chlorosis (yellowing), necrosis (death of tissue), stunted growth, tip‑burn, blossom end rot, poor fruit set, and wilting. The pattern (young vs old leaves) helps identify the element.",
+      "keyPoints": [
+        "Chlorosis, necrosis, stunting, tip‑burn, blossom end rot",
+        "Pattern of leaf age indicates specific element",
+        "Visual diagnosis essential for field assessment"
+      ],
+      "neetTips": [
+        "Link symptom pattern to element: young‑leaf chlorosis = Fe, Mn, Zn; old‑leaf chlorosis = N, P"
+      ]
+    },
+    {
+      "topic": "Mobility of mineral elements",
+      "heading": "Mobility of Minerals Within the Plant",
+      "content": "Elements are classified as mobile (N, P, K, Mg, S) and immobile (Ca, Fe, B, Mn, Zn, Cu). Mobile nutrients move from older to younger tissues; immobile nutrients cannot, so deficiency appears first in young parts.",
+      "keyPoints": [
+        "Mobile: N, P, K, Mg, S",
+        "Immobile: Ca, Fe, B, Mn, Zn, Cu",
+        "Mobility dictates symptom location"
+      ],
+      "neetTips": [
+        "Remember ‘M’ for Mobile (NPKMG‑S) and ‘I’ for Immobile (CaFeB MnZnCu)"
+      ]
+    },
+    {
+      "topic": "Toxicity symptoms",
+      "heading": "Toxicity Symptoms of Excess Minerals",
+      "content": "Excess of certain elements causes leaf bronzing, chlorosis, reduced root growth, and nutrient antagonism. For example, excess Na⁺ leads to leaf scorch, while excess Fe causes bronzing and interference with Mn uptake.",
+      "keyPoints": [
+        "Excess leads to bronzing, chlorosis, root inhibition",
+        "Specific toxicities: Na⁺ scorch, Fe bronzing, Cu toxicity – leaf curling"
+      ],
+      "neetTips": [
+        "NEET often asks about antagonistic effects – e.g., excess Fe reduces Mn uptake"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and describe each essential and beneficial mineral element and its physiological role",
+    "Explain the criteria that define essentiality of mineral nutrients",
+    "Distinguish between macronutrients and micronutrients and their mobility in plants",
+    "Recognize deficiency, toxicity and mobility symptoms for each listed element",
+    "Apply mineral nutrition concepts to solve NEET‑style questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT considered a macronutrient for plants?",
+      "options": [
+        "Nitrogen",
+        "Iron",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": 1,
+      "explanation": "Iron is required only in trace amounts and is classified as a micronutrient, whereas N, P and K are needed in large quantities.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "According to the criteria for essentiality, a mineral element is considered essential if",
+      "options": [
+        "Its absence stops plant growth even when other nutrients are supplied",
+        "It is present in soil in high concentration",
+        "It can be replaced by another element",
+        "It is toxic at low concentrations"
+      ],
+      "answer": 0,
+      "explanation": "An element is essential when its omission from a complete nutrient solution leads to cessation of growth, which can be restored by adding the element back.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "Which element is primarily involved in the activation of enzymes and also contributes to chlorophyll synthesis, and its deficiency shows interveinal chlorosis in young leaves?",
+      "options": [
+        "Magnesium",
+        "Calcium",
+        "Sulphur",
+        "Zinc"
+      ],
+      "answer": 0,
+      "explanation": "Magnesium is the central atom of the chlorophyll molecule and activates many enzymes; its deficiency causes interveinal chlorosis, especially in young leaves.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "Among the following, which element is mobile in phloem and thus deficiency symptoms appear first in older leaves?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Nitrogen",
+        "Manganese"
+      ],
+      "answer": 2,
+      "explanation": "Nitrogen is readily translocated through the phloem, so when deficient, older leaves show symptoms before younger ones.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "The primary function of potassium in plants is",
+      "options": [
+        "Component of chlorophyll",
+        "Osmoregulation and enzyme activation",
+        "Structural component of cell wall",
+        "Electron transport in photosystem II"
+      ],
+      "answer": 1,
+      "explanation": "Potassium regulates osmotic balance, stomatal movement and activates many enzymes, but it is not a structural or photosynthetic pigment component.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "Which of the following deficiency symptoms is characteristic of iron deficiency in dicotyledonous plants?",
+      "options": [
+        "Necrotic leaf tips",
+        "Interveinal chlorosis of young leaves",
+        "Yellowing of older leaves",
+        "Stunted root growth"
+      ],
+      "answer": 1,
+      "explanation": "Iron is immobile; its shortage first shows as interveinal chlorosis on the newly expanding (young) leaves of dicots.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "Boron is essential for plants mainly because",
+      "options": [
+        "It is a central atom in chlorophyll",
+        "It is required for cell wall formation and pollen tube growth",
+        "It acts as a major component of ATP",
+        "It is involved in nitrogen fixation"
+      ],
+      "answer": 1,
+      "explanation": "Boron stabilizes pectic substances in cell walls and is crucial for pollen tube elongation, making it vital for reproductive development.",
+      "topic": "Mineral nutrition in plants"
+    },
+    {
+      "question": "Which of the following is NOT considered an essential macronutrient for plants?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Iron",
+        "Potassium"
+      ],
+      "answer": 2,
+      "explanation": "Iron is required only in trace amounts and is classified as a micronutrient, whereas N, P and K are macronutrients.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Which element does NOT satisfy the essentiality criteria for most plants?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Sodium",
+        "Potassium"
+      ],
+      "answer": 2,
+      "explanation": "Sodium can be supplied in excess to compensate for certain metabolic functions, but it is not essential for the growth of most non‑halophytic plants.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Which essential micronutrient is primarily involved in the activation of enzymes of the photosynthetic electron transport chain?",
+      "options": [
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Boron"
+      ],
+      "answer": 2,
+      "explanation": "Manganese is a key component of the oxygen‑evolving complex of photosystem II, facilitating water splitting during photosynthesis.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Deficiency of which essential element typically causes interveinal chlorosis in the young leaves of many crops?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Magnesium",
+        "Sulphur"
+      ],
+      "answer": 0,
+      "explanation": "Iron deficiency impairs chlorophyll synthesis, leading to yellowing between the veins (interveinal chlorosis) of young, rapidly expanding leaves.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Which essential macronutrient is most mobile in the phloem, so its deficiency symptoms appear first in older leaves?",
+      "options": [
+        "Potassium",
+        "Nitrogen",
+        "Phosphorus",
+        "Calcium"
+      ],
+      "answer": 0,
+      "explanation": "Potassium is highly phloem‑mobile; when deficient, it is translocated from older tissues, causing symptoms such as marginal necrosis in older leaves first.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "The primary function of which essential element is to stabilize ribosome structure and is required for protein synthesis?",
+      "options": [
+        "Magnesium",
+        "Calcium",
+        "Zinc",
+        "Copper"
+      ],
+      "answer": 0,
+      "explanation": "Magnesium binds to ribosomal RNA, stabilizing ribosome conformation and is also the central atom of chlorophyll, linking photosynthesis to protein synthesis.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Which essential element is required for the synthesis of the amino acid methionine and for S‑adenosylmethionine dependent methylation reactions?",
+      "options": [
+        "Sulphur",
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": 0,
+      "explanation": "Sulphur is incorporated into methionine; methionine is the precursor of S‑adenosylmethionine, a universal methyl group donor in many metabolic pathways.",
+      "topic": "Essential mineral elements"
+    },
+    {
+      "question": "Which of the following is NOT a criterion for a mineral element to be classified as essential for plants?",
+      "options": [
+        "Its deficiency can be corrected by adding the element",
+        "It must be present in the plant in a measurable amount",
+        "It must be the most abundant element in the plant",
+        "It must be taken up from the external environment"
+      ],
+      "answer": 2,
+      "explanation": "Abundance alone does not define essentiality; an element can be essential even if present in trace amounts, whereas being the most abundant is not a required criterion.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "According to the criteria of essentiality, a plant showing a specific deficiency symptom that disappears upon supplying the missing element demonstrates that the element is",
+      "options": [
+        "Beneficial",
+        "Essential",
+        "Toxic",
+        "Non‑essential"
+      ],
+      "answer": 1,
+      "explanation": "Reversal of a characteristic deficiency symptom by supplying the element satisfies the key essentiality criterion of symptom reversibility.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "Which statement correctly reflects the role of the \"specific metabolic function\" criterion in defining essentiality?",
+      "options": [
+        "The element must act as a structural component of cell walls",
+        "The element must be involved in at least one distinct biochemical pathway",
+        "The element must be present in the soil at concentrations >1 mM",
+        "The element must be able to replace another element in all functions"
+      ],
+      "answer": 1,
+      "explanation": "An essential element must participate in a defined metabolic process, such as enzyme activation or cofactor role, distinguishing it from merely structural or replaceable elements.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "A researcher finds that a plant can grow normally without detectable amounts of element X, but addition of X improves yield. According to essentiality criteria, element X is considered",
+      "options": [
+        "Essential",
+        "Beneficial",
+        "Toxic",
+        "Required"
+      ],
+      "answer": 1,
+      "explanation": "Since the plant can complete its life cycle without X, it is not essential; the yield increase indicates a beneficial (non‑essential) effect.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "Which of the following experimental observations would most strongly support that element Y is essential for a particular plant species?",
+      "options": [
+        "The plant accumulates Y in its tissues even when supplied in excess",
+        "Deficiency of Y leads to a reversible symptom that is corrected by Y supplementation",
+        "Y is present in the atmosphere",
+        "Y can be substituted by another element without loss of function"
+      ],
+      "answer": 1,
+      "explanation": "A reversible deficiency symptom that is corrected by adding the element directly fulfills the essentiality criterion of symptom reversibility.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "In the context of essentiality criteria, the phrase \"measurable amount in the plant\" primarily refers to",
+      "options": [
+        "Detectable concentration using analytical techniques",
+        "Visual observation of the element",
+        "Presence in the soil solution",
+        "Ability to be translocated within the plant"
+      ],
+      "answer": 0,
+      "explanation": "Essentiality requires that the element be quantifiable in plant tissues by methods such as atomic absorption or ICP‑MS, confirming its internal presence.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "Which of the following pairs correctly matches a criterion with its corresponding experimental test?",
+      "options": [
+        "i and iii only",
+        "i, ii and iv only",
+        "ii and iv only",
+        "i, iii and iv only"
+      ],
+      "answer": 0,
+      "explanation": "Criterion i (reversible deficiency) is tested by growing plants without the element and then adding it; criterion iii (specific metabolic role) is tested by measuring activity of an enzyme that requires the element. The other pairings do not directly test the stated criteria.",
+      "topic": "Criteria for essentiality"
+    },
+    {
+      "question": "Which of the following is NOT considered a macronutrient for plants?",
+      "options": [
+        "Nitrogen",
+        "Iron",
+        "Phosphorus",
+        "Potassium"
+      ],
+      "answer": 1,
+      "explanation": "Iron is required only in trace amounts and is classified as a micronutrient, whereas N, P and K are macronutrients.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "According to the criteria for essentiality, a mineral element is considered essential for plants if:",
+      "options": [
+        "its deficiency can be corrected by adding the element",
+        "it is present in large quantities in the plant tissue",
+        "it participates only in photosynthesis",
+        "it becomes toxic at very low concentrations"
+      ],
+      "answer": 0,
+      "explanation": "An element is essential when its absence causes a specific disorder that can be remedied by supplying the element in a physiologically appropriate form.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "The primary function of potassium (K) in plants is:",
+      "options": [
+        "Component of chlorophyll molecule",
+        "Activation of enzymes and regulation of stomatal opening",
+        "Structural component of the cell wall",
+        "Electron donor in photosystem II"
+      ],
+      "answer": 1,
+      "explanation": "K activates many enzymes and controls osmotic potential, influencing stomatal movements and thus transpiration and photosynthesis.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "Which macronutrient is most mobile in the phloem, causing deficiency symptoms to appear first in older leaves?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Sulphur"
+      ],
+      "answer": 2,
+      "explanation": "Potassium is highly phloem‑mobile; when deficient, older leaves show chlorosis and necrosis before younger leaves.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "Interveinal chlorosis on older leaves while younger leaves remain green is characteristic of deficiency of which macronutrient?",
+      "options": [
+        "Calcium",
+        "Magnesium",
+        "Nitrogen",
+        "Sulphur"
+      ],
+      "answer": 1,
+      "explanation": "Magnesium is a central atom of chlorophyll and is mobile; its deficiency first manifests as interveinal chlorosis on older foliage.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "Which macronutrient is directly involved in the formation of ATP and nucleic acids?",
+      "options": [
+        "Phosphorus",
+        "Potassium",
+        "Calcium",
+        "Sulphur"
+      ],
+      "answer": 0,
+      "explanation": "Phosphorus forms the phosphate backbone of nucleic acids and the high‑energy phosphate bonds of ATP.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "Excess of which macronutrient commonly leads to antagonistic deficiency of calcium in plants?",
+      "options": [
+        "Magnesium",
+        "Potassium",
+        "Sodium",
+        "Phosphorus"
+      ],
+      "answer": 1,
+      "explanation": "High levels of potassium compete with calcium for uptake sites, often resulting in calcium deficiency symptoms.",
+      "topic": "Macronutrients"
+    },
+    {
+      "question": "Which micronutrient acts as a co‑factor for the enzyme nitrate reductase in plants?",
+      "options": [
+        "Iron",
+        "Molybdenum",
+        "Zinc",
+        "Copper"
+      ],
+      "answer": 1,
+      "explanation": "Nitrate reductase is a molybdo‑enzyme; molybdenum is essential for its catalytic activity.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "Deficiency of which micronutrient typically produces interveinal chlorosis in the young leaves of maize?",
+      "options": [
+        "Zinc",
+        "Iron",
+        "Manganese",
+        "Boron"
+      ],
+      "answer": 1,
+      "explanation": "Iron deficiency limits chlorophyll synthesis, giving a characteristic interveinal (between‑vein) chlorosis in young foliage.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "Which micronutrient is relatively immobile in most plant species, causing deficiency symptoms to appear first in older leaves?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Manganese",
+        "Boron"
+      ],
+      "answer": 3,
+      "explanation": "Boron is largely immobile; when deficient, older leaves show symptoms before younger growth.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "The synthesis of the plant hormone auxin (indole‑3‑acetic acid) requires which micronutrient as a cofactor?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Molybdenum"
+      ],
+      "answer": 1,
+      "explanation": "Zinc is a component of enzymes involved in the tryptophan pathway that leads to auxin production.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "According to the criteria for essentiality, a micronutrient is considered essential if:",
+      "options": [
+        "Its absence can be compensated by other elements",
+        "Its deficiency leads to a specific physiological disorder",
+        "It is required in amounts exceeding 1 % of dry weight",
+        "It does not participate in enzyme activation"
+      ],
+      "answer": 1,
+      "explanation": "An element is essential when its lack causes a distinct physiological disorder that is corrected by supplying the element.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "\"Little leaf\" syndrome in citrus is most commonly associated with deficiency of which micronutrient?",
+      "options": [
+        "Boron",
+        "Manganese",
+        "Copper",
+        "Nickel"
+      ],
+      "answer": 2,
+      "explanation": "Copper deficiency in citrus manifests as reduced leaf size (little leaf) and dieback of shoots.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "In acidic soils, excess availability of which micronutrient often leads to toxicity symptoms such as brown spots on leaves?",
+      "options": [
+        "Manganese",
+        "Zinc",
+        "Copper",
+        "Boron"
+      ],
+      "answer": 0,
+      "explanation": "Manganese becomes more soluble in low pH soils; high Mn concentrations cause brown or necrotic leaf spots.",
+      "topic": "Micronutrients"
+    },
+    {
+      "question": "Which term describes a mineral element that is not essential for the normal growth and development of plants but can enhance growth when supplied in adequate amounts?",
+      "options": [
+        "Essential element",
+        "Beneficial element",
+        "Toxic element",
+        "Micronutrient"
+      ],
+      "answer": 1,
+      "explanation": "Beneficial elements are non‑essential minerals that, although not required for the life cycle, can improve plant growth, yield or stress tolerance when present.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Sodium (Na) is considered a beneficial element for many C4 plants because it:",
+      "options": [
+        "Replaces potassium in all metabolic processes",
+        "Is a component of chlorophyll",
+        "Assists in osmotic regulation and aids formation of C4 acids",
+        "Is required for nitrogen fixation"
+      ],
+      "answer": 2,
+      "explanation": "In C4 species, Na helps maintain osmotic balance and participates in the synthesis of C4 organic acids, thereby supporting efficient photosynthesis.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Silicon (Si) primarily contributes to plant health by:",
+      "options": [
+        "Acting as a co‑factor for Rubisco",
+        "Strengthening cell walls and providing resistance against biotic stress",
+        "Serving as a primary electron donor in photosystem II",
+        "Enhancing phosphorus uptake by forming complexes"
+      ],
+      "answer": 1,
+      "explanation": "Si deposits in cell walls, making them tougher and less penetrable to pathogens, which improves disease resistance and mechanical strength.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Which statement correctly distinguishes beneficial elements from essential elements?",
+      "options": [
+        "Beneficial elements are required in larger quantities than essential elements",
+        "Essential elements can be omitted without any effect on plant growth",
+        "Beneficial elements may become essential under certain environmental conditions",
+        "Essential elements are never toxic"
+      ],
+      "answer": 2,
+      "explanation": "Under specific conditions (e.g., soil deficiency of an essential element), a normally beneficial element can become indispensable for the plant.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Cobalt (Co) is regarded as a beneficial element for most plants because it:",
+      "options": [
+        "Is a component of chlorophyll",
+        "Is required for the synthesis of vitamin B12 in nitrogen‑fixing bacteria",
+        "Directly participates in the Calvin cycle",
+        "Replaces magnesium in the photosynthetic apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Co is a co‑factor for the enzyme nitrogenase in rhizobial bacteria, facilitating biological nitrogen fixation, which indirectly benefits the host plant.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Which of the following is NOT a typical benefit associated with the application of beneficial elements in agriculture?",
+      "options": [
+        "Improved disease resistance",
+        "Increased seed germination rate",
+        "Complete elimination of all nutrient deficiencies",
+        "Enhanced tolerance to abiotic stress"
+      ],
+      "answer": 2,
+      "explanation": "Beneficial elements can improve growth and stress tolerance but cannot fully replace essential nutrients; they do not eliminate all nutrient deficiencies.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Which element is commonly added to rice fields as a beneficial element to increase yield and disease resistance?",
+      "options": [
+        "Sodium",
+        "Silicon",
+        "Calcium",
+        "Iron"
+      ],
+      "answer": 1,
+      "explanation": "Silicon is widely used in rice cultivation; it accumulates in the plant and enhances structural integrity and resistance to pests and diseases, leading to higher yields.",
+      "topic": "Beneficial elements"
+    },
+    {
+      "question": "Which of the following statements correctly describes why carbon is considered an essential element for plants?",
+      "options": [
+        "It is absorbed from soil as carbonate ions.",
+        "It is a constituent of all organic molecules and is supplied to plants as CO₂ from atmosphere.",
+        "It is taken up as elemental carbon from the soil.",
+        "It is not essential because plants can synthesize it from nitrogen."
+      ],
+      "answer": 1,
+      "explanation": "Carbon forms the backbone of all organic compounds; plants obtain it from atmospheric CO₂, making it indispensable for growth and metabolism.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "In the context of mineral nutrition, which of the following best explains the mobility of carbon within a plant?",
+      "options": [
+        "Carbon is immobile; it cannot be translocated from older to younger leaves.",
+        "Carbon is highly mobile as soluble sugars and can be transported to growing parts.",
+        "Carbon moves only as carbon dioxide through stomata.",
+        "Carbon is stored exclusively in roots and cannot move."
+      ],
+      "answer": 1,
+      "explanation": "Photosynthates (sugars) containing carbon are translocated via phloem from source (mature leaves) to sink tissues, showing high mobility.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "Which deficiency symptom is most characteristic of inadequate carbon supply in plants?",
+      "options": [
+        "Interveinal chlorosis of older leaves",
+        "Necrosis of leaf margins",
+        "Stunted growth with reduced leaf size",
+        "Excessive leaf expansion"
+      ],
+      "answer": 2,
+      "explanation": "Insufficient carbon limits carbohydrate synthesis, leading to overall stunted growth and smaller leaves rather than specific chlorosis or necrosis.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "Hydrogen supplied to plants primarily originates from which source, and what is its main physiological role?",
+      "options": [
+        "Atmospheric hydrogen gas; acts as electron donor in photosystem I.",
+        "Soil water; participates in reduction reactions and formation of organic molecules.",
+        "Soil nitrate; incorporated into amino acids.",
+        "Atmospheric CO₂; used in carbohydrate synthesis."
+      ],
+      "answer": 1,
+      "explanation": "Hydrogen is taken up as part of water (H₂O) and is essential for reduction steps in photosynthesis and for building organic compounds.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "Oxygen is essential for plant metabolism mainly because:",
+      "options": [
+        "It is a component of chlorophyll molecule.",
+        "It acts as the final electron acceptor in mitochondrial respiration.",
+        "It is required for nitrogen fixation in root nodules.",
+        "It is stored in vacuoles for later use."
+      ],
+      "answer": 1,
+      "explanation": "During cellular respiration, O₂ serves as the terminal electron acceptor, allowing efficient ATP production.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "Which of the following statements correctly differentiates macronutrients from micronutrients in the context of plant mineral nutrition?",
+      "options": [
+        "Macronutrients are required in larger quantities; carbon, hydrogen and oxygen are considered macronutrients despite being supplied as gases or water.",
+        "Micronutrients are required in larger quantities; carbon, hydrogen and oxygen are micronutrients.",
+        "Both macronutrients and micronutrients are supplied only as mineral salts.",
+        "Only macronutrients are involved in photosynthesis."
+      ],
+      "answer": 0,
+      "explanation": "Macronutrients are needed in relatively large amounts; C, H, and O, though not taken up as mineral salts, are required in large quantities for structural and metabolic functions.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "According to the criteria for essentiality, an element is considered essential if the plant cannot complete its life cycle in its absence. Which of the following elements meets this criterion solely through atmospheric uptake rather than soil uptake?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Carbon",
+        "Potassium"
+      ],
+      "answer": 2,
+      "explanation": "Carbon is obtained exclusively from atmospheric CO₂; without it, plants cannot synthesize carbohydrates and thus cannot complete their life cycle.",
+      "topic": "Carbon, hydrogen and oxygen"
+    },
+    {
+      "question": "Which form of nitrogen is most commonly taken up by plants from the soil?",
+      "options": [
+        "Nitrate (NO3‑)",
+        "Ammonium (NH4+)",
+        "Urea",
+        "Nitrogen gas (N2)"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate is the predominant inorganic nitrogen source absorbed by most plants because it is highly mobile in the soil solution and readily taken up by root transporters.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "The earliest visible symptom of nitrogen deficiency in most crops is:",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Necrosis of young leaves",
+        "Excessive root growth",
+        "Yellowing of new leaves"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen is a mobile nutrient; when deficient, it is remobilized from older leaves to younger tissues, causing interveinal chlorosis first on the older foliage.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "Which enzyme catalyzes the reduction of nitrate to nitrite in plant cells?",
+      "options": [
+        "Nitrate reductase",
+        "Nitrite reductase",
+        "Glutamine synthetase",
+        "Aspartate aminotransferase"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate reductase, located in the cytosol, reduces nitrate (NO3‑) to nitrite (NO2‑) as the first step of nitrate assimilation.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "Regarding the mobility of nitrogen within a plant, which statement is correct?",
+      "options": [
+        "Nitrogen is mobile and can be translocated from older to younger tissues",
+        "Nitrogen is immobile and deficiency appears first in young leaves",
+        "Nitrogen is partially mobile only in legumes",
+        "Nitrogen mobility depends on soil pH"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen is a highly mobile element; when its supply is limited, it is redistributed from mature leaves to growing parts, leading to deficiency symptoms in older leaves.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "Biological nitrogen fixation in agriculture is primarily carried out by:",
+      "options": [
+        "Free‑living cyanobacteria",
+        "Rhizobium bacteria in legume root nodules",
+        "Mycorrhizal fungi",
+        "Nitrifying bacteria"
+      ],
+      "answer": 1,
+      "explanation": "Rhizobium species form symbiotic nodules on legume roots where atmospheric N2 is enzymatically reduced to ammonia, supplying nitrogen to the plant.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "The main pathway that incorporates ammonium into amino acids in plants is:",
+      "options": [
+        "Glutamine synthetase–glutamate synthase (GS–GOGAT) cycle",
+        "Ornithine cycle",
+        "Urea cycle",
+        "Glyoxylate cycle"
+      ],
+      "answer": 0,
+      "explanation": "Ammonium is first assimilated into glutamine by glutamine synthetase; glutamate synthase then transfers the amide group to 2‑oxoglutarate, forming glutamate, completing the GS–GOGAT cycle.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "Which of the following is NOT a typical symptom of nitrogen toxicity in plants?",
+      "options": [
+        "Dark green, glossy leaves",
+        "Stunted growth",
+        "Excessive leaf size",
+        "Increased vegetative vigor"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen toxicity usually causes overly vigorous, dark green, and glossy foliage with excessive leaf expansion, not stunted growth, which is a sign of deficiency.",
+      "topic": "Nitrogen"
+    },
+    {
+      "question": "Which plant molecule containing phosphorus is directly involved in the transfer of high‑energy phosphate bonds during metabolic processes?",
+      "options": [
+        "ATP",
+        "NADPH",
+        "Chlorophyll a",
+        "Cellulose"
+      ],
+      "answer": 0,
+      "explanation": "ATP (adenosine triphosphate) contains three phosphate groups and serves as the primary energy carrier in plant cells, transferring high‑energy phosphate bonds during metabolism.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "A characteristic symptom of phosphorus deficiency in most crop plants is:",
+      "options": [
+        "Interveinal chlorosis on young leaves",
+        "Yellowing of the entire plant",
+        "Purple or reddish discoloration of older leaves",
+        "Excessive leaf expansion"
+      ],
+      "answer": 2,
+      "explanation": "Phosphorus deficiency often causes accumulation of anthocyanins, leading to a purple or reddish coloration, especially on older leaves where phosphorus is immobile.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "Phosphorus is considered immobile in plant tissues. Consequently, deficiency symptoms first appear on:",
+      "options": [
+        "Newly emerging leaves",
+        "Older, mature leaves",
+        "Root tips",
+        "Stem internodes"
+      ],
+      "answer": 1,
+      "explanation": "Because phosphorus does not readily move from older to younger tissues, its shortage is first evident on older leaves.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "At a soil pH of about 6.5, which inorganic phosphate species is predominant and most readily taken up by plant roots?",
+      "options": [
+        "H2PO4⁻",
+        "HPO4²⁻",
+        "PO4³⁻",
+        "H3PO4"
+      ],
+      "answer": 0,
+      "explanation": "Around pH 6.5, the dihydrogen phosphate ion (H2PO4⁻) is the dominant form in soil solution and is the form most efficiently absorbed by plant roots.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "Plants primarily absorb phosphorus from the soil in the form of which ion?",
+      "options": [
+        "PO4³⁻",
+        "HPO4²⁻",
+        "H2PO4⁻",
+        "PO4⁻"
+      ],
+      "answer": 2,
+      "explanation": "Under typical soil pH conditions, phosphorus is taken up mainly as the dihydrogen phosphate ion (H2PO4⁻).",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "Excessive application of phosphorus fertilizer can induce deficiency of which micronutrient due to antagonistic interaction?",
+      "options": [
+        "Iron",
+        "Zinc",
+        "Manganese",
+        "Copper"
+      ],
+      "answer": 1,
+      "explanation": "High levels of phosphorus can interfere with zinc uptake, leading to zinc deficiency symptoms such as stunted growth and chlorosis.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "Which of the following is a commonly used phosphate fertilizer that supplies readily available phosphorus to crops?",
+      "options": [
+        "Single Super Phosphate (SSP)",
+        "Ammonium nitrate",
+        "Urea",
+        "Calcium nitrate"
+      ],
+      "answer": 0,
+      "explanation": "Single Super Phosphate is a widely used phosphate fertilizer that provides soluble phosphorus (as H2PO4⁻) readily available for plant uptake.",
+      "topic": "Phosphorus"
+    },
+    {
+      "question": "Which of the following is NOT a primary function of potassium in plants?",
+      "options": [
+        "Activation of enzymes involved in photosynthesis",
+        "Osmoregulation and stomatal movement",
+        "Structural component of cell wall",
+        "Regulation of carbohydrate translocation"
+      ],
+      "answer": 2,
+      "explanation": "Potassium acts as an enzyme activator, regulates osmotic balance and stomata, and assists in carbohydrate transport, but it is not a structural constituent of the cell wall.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "Potassium deficiency in a mature leaf of a crop plant typically first appears as:",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Necrotic spots on leaf tips and margins",
+        "Uniform yellowing of the whole leaf",
+        "Formation of galls on stems"
+      ],
+      "answer": 1,
+      "explanation": "Early potassium deficiency manifests as marginal necrosis or tip burn, often described as necrotic spots at leaf edges.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "In terms of mobility within the plant, potassium is classified as:",
+      "options": [
+        "Immobile",
+        "Mobile",
+        "Partially mobile only in dicots",
+        "Mobile only during reproductive stage"
+      ],
+      "answer": 1,
+      "explanation": "Potassium is a highly mobile nutrient; when deficient it is translocated from older to younger tissues.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "According to the criteria for essentiality of mineral elements, which experimental observation would best confirm potassium as essential for a plant species?",
+      "options": [
+        "Plants grown in K‑free medium show normal growth when supplied with excess calcium",
+        "Substituting potassium with sodium leads to identical growth",
+        "Plants grown without potassium exhibit specific deficiency symptoms that are rescued by adding potassium",
+        "Potassium can be replaced by any other monovalent cation without effect"
+      ],
+      "answer": 2,
+      "explanation": "An element is deemed essential when its absence causes a specific disorder that is alleviated by supplying the element, fulfilling the deficiency‑rescue test.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "Which statement correctly describes the interaction between potassium and water‑use efficiency in plants?",
+      "options": [
+        "High potassium levels close stomata, reducing transpiration and improving water‑use efficiency",
+        "Potassium deficiency leads to increased stomatal opening, thereby decreasing water‑use efficiency",
+        "Potassium has no effect on stomatal regulation",
+        "Excess potassium causes permanent stomatal closure, leading to wilting"
+      ],
+      "answer": 1,
+      "explanation": "Adequate potassium enables proper stomatal regulation; deficiency impairs closure, causing excess transpiration and lower water‑use efficiency.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "The optimal concentration range of potassium in the cytosol of plant cells is approximately:",
+      "options": [
+        "100‑200 mM",
+        "10‑20 mM",
+        "1‑5 mM",
+        "0.1‑0.5 mM"
+      ],
+      "answer": 0,
+      "explanation": "Cytosolic K⁺ levels in most plant cells are maintained around 100–200 mM, essential for enzyme activation and turgor maintenance.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "Which of the following is a typical toxicity symptom of excessive potassium in plants?",
+      "options": [
+        "Interveinal chlorosis on young leaves",
+        "Necrotic lesions on leaf margins",
+        "Reduced root growth and leaf burn",
+        "No visible symptoms as potassium toxicity is rare"
+      ],
+      "answer": 2,
+      "explanation": "Although potassium toxicity is uncommon, very high levels can suppress root development and cause leaf burn, especially on older foliage.",
+      "topic": "Potassium"
+    },
+    {
+      "question": "Which of the following is NOT a primary function of calcium in plants?",
+      "options": [
+        "Stabilizing cell‑wall pectic substances",
+        "Acting as a secondary messenger in signal transduction",
+        "Serving as a central component of the chlorophyll molecule",
+        "Maintaining membrane integrity"
+      ],
+      "answer": 2,
+      "explanation": "Calcium does not form part of the chlorophyll molecule; it is involved in cell‑wall stability, membrane integrity and acts as a secondary messenger.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "Calcium deficiency in tomato plants typically manifests as:",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Blossom end rot in fruits",
+        "Yellowing of new leaves",
+        "Stunted root growth"
+      ],
+      "answer": 1,
+      "explanation": "The characteristic symptom of Ca deficiency in tomatoes is blossom‑end rot, a necrotic lesion at the fruit’s distal end.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "Regarding the mobility of calcium in the phloem of most plant species, which statement is correct?",
+      "options": [
+        "Highly mobile, translocated to growing tissues",
+        "Moderately mobile, moves only under drought",
+        "Essentially immobile, deficiency symptoms appear on young tissues",
+        "Mobile only in monocots"
+      ],
+      "answer": 2,
+      "explanation": "Calcium is largely immobile in the phloem; when deficient, symptoms first appear on young, actively growing parts that cannot receive Ca from older tissues.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "According to the criteria for essentiality of mineral elements, calcium satisfies which of the following conditions?",
+      "options": [
+        "Its absence can be compensated by other nutrients",
+        "Its deficiency leads to a specific physiological disorder",
+        "It is present in trace amounts only",
+        "It is not required for any known metabolic pathway"
+      ],
+      "answer": 1,
+      "explanation": "One essentiality criterion is that the element’s deficiency produces a distinct disorder; calcium deficiency causes cell‑wall defects, tip‑burn, blossom‑end rot, etc.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "Which statement correctly distinguishes calcium from micronutrients in plant nutrition?",
+      "options": [
+        "Calcium is required in larger quantities than iron",
+        "Calcium is more mobile than zinc",
+        "Calcium deficiency is rarely observed",
+        "Calcium is a trace element required in <0.01% dry weight"
+      ],
+      "answer": 0,
+      "explanation": "Calcium is a macronutrient (secondary) needed in relatively high amounts (≈0.1–1% dry weight), whereas iron, zinc, etc., are micronutrients required in much smaller quantities.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "In calcium signalling, an increase in cytosolic Ca²⁺ concentration is typically sensed by which type of protein?",
+      "options": [
+        "Calmodulin",
+        "Rubisco",
+        "ATP synthase",
+        "Phytochelatin synthase"
+      ],
+      "answer": 0,
+      "explanation": "Calmodulin is a ubiquitous Ca²⁺‑binding protein that transduces calcium signals by activating downstream targets.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "Which soil condition most directly limits the availability of calcium to plants?",
+      "options": [
+        "High soil pH (>7.5)",
+        "Low organic matter",
+        "High concentration of magnesium ions",
+        "Low soil electrical conductivity"
+      ],
+      "answer": 0,
+      "explanation": "At high pH, calcium tends to precipitate as calcium carbonate, reducing its soluble form and thus its availability to plants.",
+      "topic": "Calcium"
+    },
+    {
+      "question": "Which of the following statements correctly describes the role of magnesium in plant physiology?",
+      "options": [
+        "It is the central atom of the chlorophyll molecule",
+        "It is the primary component of the plant cell wall",
+        "It supplies the majority of nitrogen required for growth",
+        "It forms the backbone of DNA"
+      ],
+      "answer": 0,
+      "explanation": "Magnesium occupies the central position of the chlorophyll porphyrin ring and is essential for light absorption during photosynthesis.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "According to the criteria for essentiality, a mineral element is considered essential for plants if:",
+      "options": [
+        "Its deficiency can be removed by supplying the element to the plant",
+        "It is abundant in most soils",
+        "It becomes toxic only at extremely high concentrations",
+        "It is incorporated into structural proteins"
+      ],
+      "answer": 0,
+      "explanation": "An element is deemed essential when the plant shows a specific deficiency symptom that disappears upon external supply of that element, fulfilling the first criterion of essentiality.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "Magnesium deficiency in a crop typically first manifests as:",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Uniform yellowing of all leaves",
+        "Necrotic spots on young leaves",
+        "Stunted root growth without leaf symptoms"
+      ],
+      "answer": 0,
+      "explanation": "Because magnesium is phloem‑mobile, its shortage appears first in the older, fully expanded leaves as interveinal chlorosis.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "Regarding the mobility of magnesium within plants, which statement is correct?",
+      "options": [
+        "Magnesium is phloem‑mobile, so deficiency symptoms appear on older leaves",
+        "Magnesium is immobile, so symptoms appear on young leaves",
+        "Magnesium moves only through the xylem and cannot be redistributed",
+        "Magnesium is not translocated after initial uptake"
+      ],
+      "answer": 0,
+      "explanation": "Magnesium can be redistributed via the phloem; therefore, when supply is limited, the plant reallocates it from older to younger tissues, causing older‑leaf symptoms.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "In the classification of plant nutrients, magnesium is regarded as:",
+      "options": [
+        "A secondary macronutrient required in relatively large amounts",
+        "A micronutrient required in trace amounts",
+        "A primary macronutrient alongside N, P, and K",
+        "A non‑essential element"
+      ],
+      "answer": 0,
+      "explanation": "Magnesium is needed in larger quantities than micronutrients but less than the primary macronutrients N, P, and K, placing it in the secondary macronutrient group.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "Excess of which mineral element is most likely to induce magnesium deficiency symptoms due to antagonistic interaction?",
+      "options": [
+        "Calcium",
+        "Sulphur",
+        "Iron",
+        "Zinc"
+      ],
+      "answer": 0,
+      "explanation": "High levels of calcium compete with magnesium for uptake sites and transporters, often leading to secondary magnesium deficiency.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "In the light‑dependent reactions of photosynthesis, magnesium functions primarily as:",
+      "options": [
+        "A cofactor for Rubisco enzyme",
+        "The central atom of chlorophyll enabling light absorption",
+        "An electron donor in water splitting",
+        "A component of ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Magnesium sits at the core of the chlorophyll molecule, allowing the pigment to capture photons and initiate the photosynthetic electron transport chain.",
+      "topic": "Magnesium"
+    },
+    {
+      "question": "According to the criteria for essentiality, which statement correctly describes sulphur in plants?",
+      "options": [
+        "Its deficiency can be remedied by supplying any other macronutrient",
+        "Its absence leads to a specific metabolic disorder that cannot be corrected by other elements",
+        "It is required only in trace amounts and does not affect growth",
+        "It is not essential for photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "An element is deemed essential if its absence causes a specific disorder that cannot be corrected by other nutrients; sulphur meets this criterion.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "Sulphur is a constituent of which essential amino acids in plants?",
+      "options": [
+        "Lysine and tryptophan",
+        "Methionine and cysteine",
+        "Phenylalanine and tyrosine",
+        "Histidine and arginine"
+      ],
+      "answer": 1,
+      "explanation": "Methionine and cysteine contain sulphur atoms and are the primary sulphur‑containing amino acids in plants.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "The most characteristic visual symptom of sulphur deficiency in most crop plants is:",
+      "options": [
+        "Interveinal chlorosis of older leaves",
+        "Necrotic spots on young leaves",
+        "Yellowing of younger leaves with overall stunted growth",
+        "Excessive leaf curling"
+      ],
+      "answer": 2,
+      "explanation": "Sulphur deficiency typically manifests as uniform yellowing of the younger leaves while growth is reduced, because sulphur is mobile and moves to new growth.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "Regarding internal mobility, sulphur in plants is considered:",
+      "options": [
+        "Highly mobile, translocating to younger tissues",
+        "Essentially immobile, remaining in the tissue where absorbed",
+        "Moderately mobile, moving only under stress conditions",
+        "Mobile only in leguminous species"
+      ],
+      "answer": 0,
+      "explanation": "Sulphur, taken up as sulfate, is readily remobilized from older to younger parts, making it a mobile nutrient.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "Plants primarily absorb sulphur from the soil in which chemical form?",
+      "options": [
+        "Elemental sulphur (S⁰)",
+        "Hydrogen sulfide (H₂S)",
+        "Sulfate ion (SO₄²⁻)",
+        "Sulfite ion (SO₃²⁻)"
+      ],
+      "answer": 2,
+      "explanation": "Root uptake of sulphur occurs almost exclusively as the sulfate ion (SO₄²⁻) present in the soil solution.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "Which statement best describes the interaction between sulphur and nitrogen metabolism in plants?",
+      "options": [
+        "Sulphur deficiency enhances nitrate reductase activity",
+        "Adequate sulphur is required for proper assimilation of nitrate",
+        "Sulphur competes with nitrate for the same transporters",
+        "Sulphur does not influence nitrogen metabolism"
+      ],
+      "answer": 1,
+      "explanation": "Sulphur is needed for synthesis of amino acids and proteins that contain nitrogen; insufficient sulphur limits nitrate assimilation and overall nitrogen use efficiency.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "One way sulphur contributes to plant resistance against biotic stress is:",
+      "options": [
+        "Increasing chlorophyll content directly",
+        "Serving as a primary electron donor in photosystem II",
+        "Participating in the synthesis of glucosinolates that deter herbivores",
+        "Forming the core of the photosynthetic reaction centre"
+      ],
+      "answer": 2,
+      "explanation": "Sulphur is a key component of glucosinolates, secondary metabolites that provide defense against insects and pathogens.",
+      "topic": "Sulphur"
+    },
+    {
+      "question": "What is the primary visible symptom of iron deficiency in dicotyledonous plants?",
+      "options": [
+        "Interveinal chlorosis of young leaves",
+        "Necrotic spots on old leaves",
+        "Leaf curling",
+        "Root swelling"
+      ],
+      "answer": 0,
+      "explanation": "Iron deficiency impairs chlorophyll synthesis, producing interveinal chlorosis on the newly expanding leaves of dicots.",
+      "topic": "Iron"
+    },
+    {
+      "question": "Iron is classified among plant mineral nutrients as a:",
+      "options": [
+        "Macronutrient",
+        "Micronutrient",
+        "Beneficial element",
+        "Non-essential element"
+      ],
+      "answer": 1,
+      "explanation": "Iron is required in trace amounts, thus it is a micronutrient.",
+      "topic": "Iron"
+    },
+    {
+      "question": "Strategy I plants enhance iron uptake from the rhizosphere primarily by:",
+      "options": [
+        "Releasing phytosiderophores",
+        "Increasing root surface area",
+        "Acidifying the rhizosphere",
+        "Forming root nodules"
+      ],
+      "answer": 2,
+      "explanation": "Strategy I species lower rhizosphere pH through H⁺ extrusion, increasing Fe³⁺ solubility and facilitating reduction to Fe²⁺.",
+      "topic": "Iron"
+    },
+    {
+      "question": "Which protein in the photosynthetic electron transport chain contains iron as a prosthetic group?",
+      "options": [
+        "Rubisco",
+        "Ferredoxin",
+        "ATP synthase",
+        "NADP+ reductase"
+      ],
+      "answer": 1,
+      "explanation": "Ferredoxin is an iron‑sulfur protein that transfers electrons from photosystem I to NADP⁺.",
+      "topic": "Iron"
+    },
+    {
+      "question": "Because iron is relatively immobile in the phloem, deficiency symptoms first appear on:",
+      "options": [
+        "Older leaves",
+        "Younger leaves",
+        "Root tips",
+        "Stem internodes"
+      ],
+      "answer": 0,
+      "explanation": "Immobility prevents redistribution to new growth, so older leaves show chlorosis first.",
+      "topic": "Iron"
+    },
+    {
+      "question": "In well‑aerated soils, the predominant chemical form of iron is:",
+      "options": [
+        "Ferrous ion (Fe2+)",
+        "Ferric ion (Fe3+)",
+        "Iron carbonate (FeCO3)",
+        "Iron sulfide (FeS)"
+      ],
+      "answer": 1,
+      "explanation": "Aerobic conditions oxidize iron to Fe³⁺, which precipitates as ferric hydroxides, the main form in such soils.",
+      "topic": "Iron"
+    },
+    {
+      "question": "A characteristic symptom of iron toxicity in plants is:",
+      "options": [
+        "Interveinal chlorosis",
+        "Bronzing of leaves",
+        "Increased root growth",
+        "Occurrence mainly in alkaline soils"
+      ],
+      "answer": 1,
+      "explanation": "Excess iron leads to oxidative stress, manifesting as bronzing or reddish discoloration of leaves.",
+      "topic": "Iron"
+    },
+    {
+      "question": "Manganese is a crucial component of which photosynthetic process?",
+      "options": [
+        "Carbon fixation in the Calvin cycle",
+        "Oxygen evolution in photosystem II",
+        "Photorespiration pathway",
+        "Nitrogen fixation in root nodules"
+      ],
+      "answer": 1,
+      "explanation": "Manganese forms the oxygen‑evolving complex of photosystem II, catalyzing the splitting of water to release O₂.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "A characteristic symptom of manganese deficiency in most dicotyledonous plants is:",
+      "options": [
+        "Necrotic spots on mature leaves",
+        "Interveinal chlorosis of young leaves",
+        "Excessive lignification of stems",
+        "Stunted root growth without leaf symptoms"
+      ],
+      "answer": 1,
+      "explanation": "Manganese deficiency typically produces interveinal chlorosis on the younger leaves because Mn is immobile and cannot be redistributed from older tissue.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "In terms of internal translocation, manganese is considered:",
+      "options": [
+        "Highly mobile in the phloem",
+        "Moderately mobile, moving with the transpiration stream",
+        "Immobile, remaining in the tissue where it is absorbed",
+        "Translocated only during the reproductive phase"
+      ],
+      "answer": 2,
+      "explanation": "Manganese is classified as an immobile nutrient; once deposited in a leaf it is not readily moved to newer growth, leading to deficiency symptoms on younger leaves.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "Manganese acts as a co‑factor for which of the following enzymes in plants?",
+      "options": [
+        "Ribulose‑1,5‑bisphosphate carboxylase/oxygenase (Rubisco)",
+        "Manganese‑dependent superoxide dismutase (Mn‑SOD)",
+        "Nitrate reductase",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Mn‑SOD, located in mitochondria and peroxisomes, requires manganese to detoxify superoxide radicals generated during respiration.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "Excess manganese in acidic soils most commonly manifests as:",
+      "options": [
+        "Yellowing of older leaves (chlorosis)",
+        "Brown necrotic spots on leaf margins",
+        "White powdery mildew on leaf surfaces",
+        "Root rot with no foliar symptoms"
+      ],
+      "answer": 1,
+      "explanation": "Manganese toxicity produces brown to black necrotic lesions, often beginning at leaf margins, especially in low‑pH soils where Mn availability is high.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "Which of the following criteria confirms manganese as an essential element for plants?",
+      "options": [
+        "It is required only in large quantities for growth",
+        "Its absence cannot be compensated by any other element and deficiency is reversible by Mn supply",
+        "It is merely beneficial and not required for survival",
+        "It is toxic at any concentration"
+      ],
+      "answer": 1,
+      "explanation": "An element is deemed essential when its deficiency leads to a specific disorder that can be remedied by supplying the element, and no other element can replace its function; manganese meets this criterion.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "High concentrations of which mineral ion most strongly antagonize manganese uptake in plants?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Zinc",
+        "Magnesium"
+      ],
+      "answer": 1,
+      "explanation": "Iron and manganese share transport pathways; excess iron reduces manganese absorption, leading to deficiency symptoms even when soil Mn is adequate.",
+      "topic": "Manganese"
+    },
+    {
+      "question": "Which of the following is a primary function of zinc in plants?",
+      "options": [
+        "Component of carbonic anhydrase",
+        "Central atom of chlorophyll",
+        "Major constituent of cell wall",
+        "Primary electron donor in photosystem II"
+      ],
+      "answer": 0,
+      "explanation": "Zinc is a crucial co‑factor of carbonic anhydrase, an enzyme that catalyses the interconversion of CO₂ and HCO₃⁻, facilitating efficient carbon fixation.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "Zinc deficiency in cereals most commonly manifests as:",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Interveinal chlorosis on younger leaves",
+        "Necrotic spots on leaf margins",
+        "Uniform yellowing of the whole leaf"
+      ],
+      "answer": 1,
+      "explanation": "Zinc deficiency appears first on the newly expanding leaves as interveinal chlorosis, often accompanied by stunted growth.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "Which statement satisfies the criteria for essentiality of zinc in plants?",
+      "options": [
+        "Its absence halts seed germination",
+        "Its deficiency can be corrected by adding zinc to the growth medium",
+        "It is present in all plant tissues at concentrations >1%",
+        "It is involved only in photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "An element is deemed essential when the deficiency symptoms are reversible by supplying the element; adding zinc restores normal growth, confirming its essentiality.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "The mobility of zinc in the phloem of most crop plants is:",
+      "options": [
+        "Highly mobile",
+        "Moderately mobile",
+        "Immobile",
+        "Variable depending on species"
+      ],
+      "answer": 2,
+      "explanation": "Zinc is relatively immobile in the phloem, so deficiency symptoms appear on younger leaves that cannot be supplied from older tissues.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "Zinc acts as a co‑factor for which enzyme that is vital for CO₂ assimilation in plants?",
+      "options": [
+        "Carbonic anhydrase",
+        "Superoxide dismutase",
+        "Aldehyde oxidase",
+        "Nitrate reductase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase requires zinc at its active site to catalyse the rapid conversion of CO₂ to bicarbonate, a key step in photosynthetic carbon fixation.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "In a typical hydroponic solution, the optimal zinc concentration for most crops is:",
+      "options": [
+        "0.5–2 µM",
+        "5–10 µM",
+        "20–30 µM",
+        "50–100 µM"
+      ],
+      "answer": 0,
+      "explanation": "Micronutrient zinc is needed in very low amounts; 0.5–2 µM supplies sufficient zinc without causing toxicity.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "Which symptom distinguishes zinc deficiency from iron deficiency in plants?",
+      "options": [
+        "Interveinal chlorosis on young leaves",
+        "Necrotic spots on leaf tips",
+        "Reduced leaf size with shortened internodes",
+        "Yellowing of older leaves"
+      ],
+      "answer": 2,
+      "explanation": "Zinc deficiency is characterized by stunted growth and shortened internodes, whereas iron deficiency shows chlorosis without marked reduction in leaf size.",
+      "topic": "Zinc"
+    },
+    {
+      "question": "Which plant metabolic process directly requires copper as a co‑factor?",
+      "options": [
+        "Rubisco activity",
+        "Cytochrome c oxidase in respiration",
+        "Nitrate reductase",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Copper is a component of cytochrome c oxidase, the terminal enzyme of the mitochondrial electron transport chain, essential for cellular respiration.",
+      "topic": "Copper"
+    },
+    {
+      "question": "A characteristic symptom of copper deficiency in most crops is:",
+      "options": [
+        "Interveinal chlorosis of older leaves",
+        "Necrotic spots on leaf margins of young leaves",
+        "Excessive leaf expansion",
+        "Root gall formation"
+      ],
+      "answer": 1,
+      "explanation": "Copper deficiency first appears on young expanding leaves as small necrotic spots or marginal chlorosis because copper is relatively immobile in the plant.",
+      "topic": "Copper"
+    },
+    {
+      "question": "In plant tissues copper is considered to be:",
+      "options": [
+        "Highly mobile",
+        "Moderately mobile",
+        "Relatively immobile",
+        "Completely immobile"
+      ],
+      "answer": 2,
+      "explanation": "Copper moves only limitedly in the phloem; therefore deficiency symptoms manifest on younger tissues, indicating relative immobility.",
+      "topic": "Copper"
+    },
+    {
+      "question": "Which description best matches the toxicity symptoms of excess copper in plants?",
+      "options": [
+        "Yellowing of older leaves",
+        "Stunted growth with dark brown to black discoloration of leaf tips",
+        "Formation of galls on roots",
+        "Increased seed set"
+      ],
+      "answer": 1,
+      "explanation": "High copper concentrations cause oxidative damage, leading to stunted growth and brown‑black necrosis, especially at leaf tips and margins.",
+      "topic": "Copper"
+    },
+    {
+      "question": "According to the criteria for essentiality of mineral elements, copper satisfies which condition?",
+      "options": [
+        "It is present in soil at >1% w/w",
+        "Its deficiency can be corrected by adding a soluble copper salt",
+        "It is not involved in any known enzymatic reaction",
+        "It is required only by a few plant species"
+      ],
+      "answer": 1,
+      "explanation": "An element is deemed essential if its deficiency can be remedied by supplying the element in a bioavailable form; this is true for copper.",
+      "topic": "Copper"
+    },
+    {
+      "question": "Excess copper in the rhizosphere most commonly interferes with the uptake of which micronutrient?",
+      "options": [
+        "Zinc",
+        "Manganese",
+        "Iron",
+        "Boron"
+      ],
+      "answer": 2,
+      "explanation": "High levels of copper competitively inhibit iron absorption, leading to secondary iron deficiency symptoms.",
+      "topic": "Copper"
+    },
+    {
+      "question": "In the classification of plant mineral nutrition, copper is regarded as:",
+      "options": [
+        "Macronutrient",
+        "Micronutrient",
+        "Beneficial element",
+        "Non‑essential element"
+      ],
+      "answer": 1,
+      "explanation": "Copper is required in trace amounts (≤0.1 % of dry weight), fitting the definition of a micronutrient.",
+      "topic": "Copper"
+    },
+    {
+      "question": "Which of the following best describes the primary physiological role of boron in higher plants?",
+      "options": [
+        "Component of chlorophyll molecule",
+        "Cofactor for Rubisco",
+        "Cross‑linking of rhamnogalacturonan II in cell wall pectins",
+        "Electron carrier in photosystem II"
+      ],
+      "answer": 2,
+      "explanation": "Boron forms diester bonds between two rhamnogalacturonan II molecules, stabilising the pectic network of the cell wall, which is its main function in plants.",
+      "topic": "Boron"
+    },
+    {
+      "question": "Boron deficiency in most dicotyledonous crops typically manifests as:",
+      "options": [
+        "Interveinal chlorosis of older leaves",
+        "Necrosis of growing points and death of apical meristems",
+        "Excessive lateral root formation",
+        "Yellowing of entire plant with no specific pattern"
+      ],
+      "answer": 1,
+      "explanation": "A characteristic symptom of boron deficiency is the death of actively growing tissues such as shoot tips and young leaves, leading to necrosis of growing points.",
+      "topic": "Boron"
+    },
+    {
+      "question": "In most plant species, boron is considered to be:",
+      "options": [
+        "Highly phloem‑mobile",
+        "Relatively phloem‑immobile",
+        "Transported exclusively via xylem and stored in vacuoles",
+        "Transported as a cation through carrier proteins"
+      ],
+      "answer": 1,
+      "explanation": "Boron moves mainly with the transpiration stream and is largely immobile in the phloem, so deficiency symptoms appear first in new growth.",
+      "topic": "Boron"
+    },
+    {
+      "question": "The predominant chemical form of boron taken up by plant roots from neutral to slightly alkaline soils is:",
+      "options": [
+        "Borate ion (BO3^3-)",
+        "Boric acid (B(OH)3)",
+        "Boron‑hydroxide complex (B(OH)4^-)",
+        "Metallic boron (B^0)"
+      ],
+      "answer": 1,
+      "explanation": "At pH 6‑8, boron exists mainly as the uncharged molecule boric acid, which diffuses across root membranes.",
+      "topic": "Boron"
+    },
+    {
+      "question": "Which of the following soil conditions most likely leads to boron toxicity in crops?",
+      "options": [
+        "Highly acidic soils with low organic matter",
+        "Alkaline soils with high irrigation water containing boron",
+        "Sandy soils with low cation exchange capacity",
+        "Waterlogged soils with high manganese"
+      ],
+      "answer": 1,
+      "explanation": "Boron becomes more available in alkaline soils and when irrigation water is rich in boron, leading to excess uptake and toxicity.",
+      "topic": "Boron"
+    },
+    {
+      "question": "According to NCERT, boron is classified as:",
+      "options": [
+        "Macronutrient",
+        "Micronutrient",
+        "Beneficial element",
+        "Non‑essential element"
+      ],
+      "answer": 1,
+      "explanation": "NCERT lists boron among the essential micronutrients required in minute quantities for plant growth.",
+      "topic": "Boron"
+    },
+    {
+      "question": "Which statement correctly explains the interaction between boron and calcium in the plant cell wall?",
+      "options": [
+        "Boron replaces calcium in the middle lamella",
+        "Boron forms a diester bridge linking two rhamnogalacturonan II molecules, which are also cross‑linked by calcium",
+        "Ca is required for the reduction of boric acid to elemental boron",
+        "Boron and calcium compete for the same transporters, reducing calcium uptake"
+      ],
+      "answer": 1,
+      "explanation": "Boron cross‑links rhamnogalacturonan II, while calcium cross‑links homogalacturonan; both contribute to cell‑wall stability but act on different pectic domains.",
+      "topic": "Boron"
+    },
+    {
+      "question": "Which enzyme in plants requires molybdenum as a co‑factor for its activity?",
+      "options": [
+        "Nitrate reductase",
+        "Ribulose‑1,5‑bisphosphate carboxylase (Rubisco)",
+        "ATP synthase",
+        "Phosphoenolpyruvate carboxylase"
+      ],
+      "answer": 0,
+      "explanation": "Molybdenum is an essential component of the molybdenum cofactor (Moco) present in nitrate reductase, which catalyses the reduction of nitrate to nitrite in plants.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "Molybdenum deficiency in legumes most commonly manifests as:",
+      "options": [
+        "Yellowing of the whole plant",
+        "Stunted root growth",
+        "Interveinal chlorosis and necrosis on older leaves",
+        "Excessive leaf curling"
+      ],
+      "answer": 2,
+      "explanation": "In legumes, Mo deficiency impairs nitrogen fixation, leading to interveinal chlorosis and necrotic patches on mature leaves, a characteristic symptom noted in NCERT.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "Regarding the phloem mobility of molybdenum in higher plants, which statement is correct?",
+      "options": [
+        "Molybdenum is highly mobile and can be readily remobilized to younger tissues",
+        "Molybdenum is moderately mobile, moving only under severe deficiency",
+        "Molybdenum is essentially immobile once deposited in older leaves",
+        "Mobility of molybdenum varies widely among species and cannot be generalized"
+      ],
+      "answer": 0,
+      "explanation": "Molybdate (MoO4²⁻) is a small anion that is readily translocated in the phloem, making Mo a highly mobile micronutrient in most crops.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "In which soil pH range is molybdenum most available to plants?",
+      "options": [
+        "Strongly acidic soils (pH <5.5)",
+        "Neutral soils (pH 6–7)",
+        "Alkaline soils (pH >7.5)",
+        "Molybdenum availability is independent of soil pH"
+      ],
+      "answer": 2,
+      "explanation": "Molybdate solubility increases with pH; alkaline soils (>7.5) provide the highest Mo availability, whereas acidic soils often cause Mo deficiency.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "Which of the following statements about molybdenum is FALSE?",
+      "options": [
+        "It is required for nitrogen fixation in leguminous plants",
+        "Deficiency reduces nitrate reductase activity",
+        "It is classified as a macronutrient",
+        "Plants absorb it mainly as the molybdate ion (MoO4²⁻)"
+      ],
+      "answer": 2,
+      "explanation": "Molybdenum is a micronutrient, not a macronutrient; it is needed in trace amounts but is essential for enzymes like nitrate reductase and nitrogenase.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "High concentrations of which nutrient most commonly antagonize molybdenum uptake in plants?",
+      "options": [
+        "Sulphate (S)",
+        "Copper (Cu)",
+        "Iron (Fe)",
+        "Zinc (Zn)"
+      ],
+      "answer": 0,
+      "explanation": "Both sulphate (SO4²⁻) and molybdate (MoO4²⁻) are anions; excess sulphate competes with molybdate for uptake sites, reducing Mo absorption.",
+      "topic": "Molybdenum"
+    },
+    {
+      "question": "Which of the following statements correctly describes the role of chlorine in plants?",
+      "options": [
+        "It is a component of the chlorophyll molecule.",
+        "It participates in the oxygen‑evolving complex of photosystem II.",
+        "It is the central atom in the Rubisco enzyme.",
+        "It acts as the primary electron donor in photosystem I."
+      ],
+      "answer": 1,
+      "explanation": "Chloride ions are integral to the water‑splitting (oxygen‑evolving) complex of photosystem II, facilitating the release of O₂ during photosynthesis.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "Chlorine deficiency in higher plants typically manifests as:",
+      "options": [
+        "Interveinal chlorosis on older leaves.",
+        "Necrotic spots on leaf margins.",
+        "Stunted growth with reduced root length.",
+        "Yellowing of young leaves."
+      ],
+      "answer": 1,
+      "explanation": "A shortage of chloride leads to marginal necrosis or brown tips on leaves, a characteristic symptom of chlorine deficiency.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "Regarding the mobility of chlorine in plants, which is true?",
+      "options": [
+        "It is immobile and accumulates in older leaves.",
+        "It is phloem‑mobile and can be translocated to growing parts.",
+        "It is only transported via xylem and cannot move downwards.",
+        "It is stored in vacuoles and not translocated."
+      ],
+      "answer": 1,
+      "explanation": "Chloride ions are readily translocated through the phloem, making chlorine a mobile nutrient that can reach young tissues.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "The recommended requirement of chlorine for a typical crop plant is approximately:",
+      "options": [
+        "0.01% of dry weight",
+        "0.1% of dry weight",
+        "0.5% of dry weight",
+        "1% of dry weight"
+      ],
+      "answer": 0,
+      "explanation": "Chlorine is needed in trace amounts, roughly 0.01 % of the plant’s dry mass, classifying it as a micronutrient.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "Which of the following is a toxic effect of excess chlorine in plants?",
+      "options": [
+        "Increased stomatal opening leading to water loss.",
+        "Inhibition of the photosynthetic electron transport chain.",
+        "Accumulation of chloride ions causing leaf burn at margins.",
+        "Enhanced root growth."
+      ],
+      "answer": 2,
+      "explanation": "High chloride concentrations cause leaf margin burn and necrosis due to ion toxicity, especially in salt‑sensitive species.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "Chlorine is classified in plant nutrition as:",
+      "options": [
+        "Macronutrient",
+        "Micronutrient",
+        "Beneficial element",
+        "Non‑essential element"
+      ],
+      "answer": 1,
+      "explanation": "Chlorine is required in minute quantities, fitting the definition of a micronutrient.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "In the criteria for essentiality, which experimental evidence supports chlorine being essential for plants?",
+      "options": [
+        "Plants complete their life cycle without chlorine when supplied with excess potassium.",
+        "Chlorine‑deficient plants show reduced photosynthetic rate that is restored by chloride supplementation.",
+        "Chlorine is present in the chloroplast DNA of all plants.",
+        "Chlorine deficiency does not affect any physiological process."
+      ],
+      "answer": 1,
+      "explanation": "Restoration of photosynthetic efficiency upon adding chloride to deficient plants demonstrates that chlorine is essential for normal plant function.",
+      "topic": "Chlorine"
+    },
+    {
+      "question": "Which of the following is the primary biochemical role of nickel in higher plants?",
+      "options": [
+        "Component of chlorophyll molecule",
+        "Cofactor for nitrate reductase",
+        "Cofactor for urease enzyme",
+        "Structural element of cell wall"
+      ],
+      "answer": 2,
+      "explanation": "Nickel is required as a cofactor for the enzyme urease, which hydrolyses urea to ammonia, a key step in nitrogen metabolism.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "According to the criteria for essentiality, which observation confirms that nickel is an essential element for plants?",
+      "options": [
+        "Its presence increases leaf size",
+        "Plants can complete their life cycle without it",
+        "Deficiency symptoms are alleviated by adding nickel",
+        "It accumulates in vacuoles at high concentrations"
+      ],
+      "answer": 2,
+      "explanation": "An element is deemed essential when the specific deficiency symptoms disappear upon supplying the element, satisfying the reversal criterion.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "Nickel deficiency in plants most commonly manifests as which symptom?",
+      "options": [
+        "Interveinal chlorosis on older leaves",
+        "Stunted growth and reduced urease activity",
+        "Necrotic spots on leaf margins",
+        "Excessive root branching"
+      ],
+      "answer": 1,
+      "explanation": "Lack of nickel impairs urease activity, leading to accumulation of urea and reduced nitrogen utilization, which appears as stunted growth.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "In the context of mobility of mineral nutrients in plants, nickel is classified as:",
+      "options": [
+        "Highly mobile in both xylem and phloem",
+        "Immobile in phloem but mobile in xylem",
+        "Immobile in both xylem and phloem",
+        "Mobile in phloem but immobile in xylem"
+      ],
+      "answer": 1,
+      "explanation": "Nickel moves relatively easily with the transpiration stream (xylem) but is not readily remobilized via the phloem, making it phloem‑immobile.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "Which of the following statements about nickel toxicity in plants is correct?",
+      "options": [
+        "It causes wilting due to loss of turgor",
+        "It leads to accumulation of excess chlorophyll",
+        "It interferes with iron uptake causing chlorosis",
+        "It enhances photosynthetic rate"
+      ],
+      "answer": 2,
+      "explanation": "Excess nickel can antagonize iron absorption, producing iron‑deficiency‑like chlorosis in the foliage.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "The recommended concentration of nickel for optimal plant growth is approximately:",
+      "options": [
+        "0.1–0.5 mg kg⁻¹ dry weight",
+        "5–10 mg kg⁻¹",
+        "20–30 mg kg⁻¹",
+        "50–100 mg kg⁻¹"
+      ],
+      "answer": 0,
+      "explanation": "Nickel is a trace element; plants require it in very small amounts, typically around 0.1–0.5 mg per kg of dry matter.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "Which experimental evidence would best demonstrate that nickel fulfills the \"specific function\" criterion for essentiality in plants?",
+      "options": [
+        "Adding nickel to soil increases overall biomass",
+        "Nickel‑deficient plants show reduced urease activity that is restored by nickel supplementation",
+        "Nickel accumulates in leaf epidermis",
+        "Nickel presence changes soil pH"
+      ],
+      "answer": 1,
+      "explanation": "Restoration of a known biochemical activity (urease) by supplying nickel directly shows that the element has a specific indispensable function.",
+      "topic": "Nickel"
+    },
+    {
+      "question": "Which mineral element serves as the central atom of the chlorophyll molecule, enabling light absorption in photosynthesis?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Zinc",
+        "Manganese"
+      ],
+      "answer": 1,
+      "explanation": "Magnesium is the central atom of the chlorophyll porphyrin ring and is essential for capturing light energy during photosynthesis.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "What is the primary physiological role of potassium (K) in plant cells?",
+      "options": [
+        "Regulation of stomatal opening and osmotic balance",
+        "Synthesis of ATP in mitochondria",
+        "Formation of the primary cell wall",
+        "Electron transport in photosystem II"
+      ],
+      "answer": 0,
+      "explanation": "Potassium maintains osmotic potential and regulates stomatal movements, thereby controlling transpiration and photosynthetic gas exchange.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Which essential mineral element is a major constituent of amino acids, nucleic acids, and many secondary metabolites in plants?",
+      "options": [
+        "Phosphorus",
+        "Nitrogen",
+        "Sulfur",
+        "Calcium"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen is incorporated into the backbone of amino acids and nucleic acids, making it vital for protein synthesis and genetic material.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Calcium (Ca) primarily contributes to which structural function in plants?",
+      "options": [
+        "Stabilization of cell walls and plasma membranes",
+        "Synthesis of chlorophyll molecules",
+        "Reduction of nitrate to nitrite",
+        "Regulation of osmotic pressure"
+      ],
+      "answer": 0,
+      "explanation": "Calcium cross‑links pectic polysaccharides in the middle lamella, providing rigidity and stability to cell walls and membranes.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Iron (Fe) is indispensable in plants because it forms part of which of the following?",
+      "options": [
+        "Cytochromes and ferredoxin involved in electron transport",
+        "Structural components of the cell wall",
+        "Osmoregulation mechanisms in guard cells",
+        "Enzymes that synthesize ATP directly"
+      ],
+      "answer": 0,
+      "explanation": "Iron is a key component of cytochromes and ferredoxin, which mediate electron transfer during photosynthesis and respiration.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Boron (B) is essential for which specific cellular process in plants?",
+      "options": [
+        "Cross‑linking of pectic polysaccharides in the cell wall",
+        "Generation of ATP in mitochondria",
+        "Formation of the chlorophyll porphyrin ring",
+        "Reduction of nitrate to nitrite"
+      ],
+      "answer": 0,
+      "explanation": "Boron forms diester bonds between rhamnogalacturonan II molecules, stabilizing the cell wall matrix and influencing cell expansion.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Molybdenum (Mo) functions as a cofactor for which enzyme critical to nitrogen metabolism?",
+      "options": [
+        "Nitrate reductase",
+        "Stomatal opening ATPase",
+        "Magnesium chelatase in chlorophyll synthesis",
+        "Lignin peroxidase"
+      ],
+      "answer": 0,
+      "explanation": "Molybdenum is a component of the molybdenum cofactor (Moco) required for nitrate reductase, which reduces nitrate to nitrite during nitrogen assimilation.",
+      "topic": "Role of mineral elements"
+    },
+    {
+      "question": "Interveinal chlorosis of young leaves while older leaves remain green is a typical symptom of deficiency of which mineral element?",
+      "options": [
+        "Iron",
+        "Nitrogen",
+        "Calcium",
+        "Sulphur"
+      ],
+      "answer": 0,
+      "explanation": "Iron deficiency causes interveinal chlorosis in young, expanding leaves because iron is immobile in plants, so new growth shows symptoms first.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Marginal leaf chlorosis progressing to necrosis and tip scorching is most indicative of deficiency of which element?",
+      "options": [
+        "Phosphorus",
+        "Potassium",
+        "Magnesium",
+        "Zinc"
+      ],
+      "answer": 1,
+      "explanation": "Potassium is mobile but its deficiency first appears as marginal chlorosis, necrosis and tip burn due to its role in regulating stomatal function and enzyme activation.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Pale green coloration first appearing on older leaves, with overall stunted growth, points to deficiency of which nutrient?",
+      "options": [
+        "Iron",
+        "Nitrogen",
+        "Calcium",
+        "Copper"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen is highly mobile; when deficient, older leaves turn pale green and the plant shows overall reduced vigor and stunted growth.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Blossom end rot in tomato fruits is primarily caused by deficiency of which mineral?",
+      "options": [
+        "Potassium",
+        "Calcium",
+        "Magnesium",
+        "Manganese"
+      ],
+      "answer": 1,
+      "explanation": "Calcium deficiency leads to cell wall instability in developing fruits, manifesting as blossom‑end rot in tomatoes.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Interveinal chlorosis accompanied by leaf curling in older leaves is characteristic of deficiency of which element?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Sulphur",
+        "Zinc"
+      ],
+      "answer": 1,
+      "explanation": "Magnesium is a central atom of chlorophyll; its deficiency causes interveinal chlorosis and leaf curling, especially in older leaves where Mg is mobilized away.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Stunted growth with dark green leaves and a purplish discoloration on older leaves is typical of deficiency of which element?",
+      "options": [
+        "Potassium",
+        "Phosphorus",
+        "Nitrogen",
+        "Copper"
+      ],
+      "answer": 1,
+      "explanation": "Phosphorus deficiency results in dark green foliage with a reddish‑purple hue on older leaves and markedly reduced growth.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Seedlings showing rosette formation, short internodes, and interveinal chlorosis are indicative of deficiency of which micronutrient?",
+      "options": [
+        "Manganese",
+        "Zinc",
+        "Copper",
+        "Boron"
+      ],
+      "answer": 1,
+      "explanation": "Zinc deficiency impairs auxin synthesis, leading to rosette growth, short internodes, and interveinal chlorosis in young seedlings.",
+      "topic": "Deficiency symptoms"
+    },
+    {
+      "question": "Which of the following mineral nutrients is considered highly mobile in plants, such that deficiency symptoms first appear in older leaves?",
+      "options": [
+        "Nitrogen (N)",
+        "Potassium (K)",
+        "Iron (Fe)",
+        "Magnesium (Mg)"
+      ],
+      "answer": 1,
+      "explanation": "Potassium is phloem‑mobile and can be redistributed; its deficiency therefore manifests first in older leaves.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "Which nutrient is essentially immobile in most plant species, causing deficiency symptoms to appear first in the growing points and young leaves?",
+      "options": [
+        "Nitrogen (N)",
+        "Calcium (Ca)",
+        "Magnesium (Mg)",
+        "Sulphur (S)"
+      ],
+      "answer": 1,
+      "explanation": "Calcium is largely immobile after uptake, so deficiency symptoms appear in young tissues where demand is high.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "Among the micronutrients, which one is relatively immobile, leading to interveinal chlorosis that begins in the younger leaves?",
+      "options": [
+        "Zinc (Zn)",
+        "Iron (Fe)",
+        "Manganese (Mn)",
+        "Copper (Cu)"
+      ],
+      "answer": 1,
+      "explanation": "Iron is phloem‑immobile; its shortage shows as interveinal chlorosis in young leaves.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "Which statement about the mobility of sulphur (S) in plants is correct?",
+      "options": [
+        "Sulphur is highly mobile; deficiency symptoms appear first in older leaves.",
+        "Sulphur is immobile; deficiency symptoms appear first in young leaves.",
+        "Sulphur mobility is restricted to leguminous plants.",
+        "Sulphur is not translocated once absorbed."
+      ],
+      "answer": 0,
+      "explanation": "Sulphur is readily translocated via the phloem, so its deficiency is first seen in older leaves.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "A plant shows interveinal chlorosis predominantly in the older leaves while the younger leaves remain green. Which nutrient deficiency is most consistent with this pattern?",
+      "options": [
+        "Nitrogen (N)",
+        "Iron (Fe)",
+        "Calcium (Ca)",
+        "Zinc (Zn)"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen is a mobile nutrient; its deficiency appears first as chlorosis in older leaves.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "Which pair correctly matches the nutrient with its mobility classification in most dicotyledonous plants?",
+      "options": [
+        "Potassium – immobile, Calcium – mobile",
+        "Nitrogen – mobile, Iron – immobile",
+        "Magnesium – immobile, Zinc – mobile",
+        "Phosphorus – immobile, Sulphur – mobile"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen is phloem‑mobile, whereas iron is largely immobile, making this the correct pairing.",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "The reallocation of a mobile mineral nutrient from senescing leaves to developing tissues is primarily carried out through which plant transport system?",
+      "options": [
+        "Phloem translocation",
+        "Xylem uptake",
+        "Apoplastic diffusion",
+        "Symplastic loading"
+      ],
+      "answer": 0,
+      "explanation": "Phloem translocation moves photosynthates and mobile nutrients from source (senescing leaves) to sink (growing parts).",
+      "topic": "Mobility of mineral elements"
+    },
+    {
+      "question": "Which symptom is characteristic of excess manganese in plants?",
+      "options": [
+        "Interveinal chlorosis of young leaves",
+        "Necrotic spots on leaf tips",
+        "Bronzing of older leaves",
+        "Leaf curling"
+      ],
+      "answer": 2,
+      "explanation": "Manganese toxicity typically causes a bronzing or darkening of older leaves due to accumulation in the leaf tissue.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "Excess boron in plants most commonly produces which toxicity symptom?",
+      "options": [
+        "Leaf tip necrosis",
+        "Chlorosis of young leaves",
+        "Root swelling",
+        "Yellowing of older leaves"
+      ],
+      "answer": 0,
+      "explanation": "Boron toxicity manifests as necrotic lesions or burning at the leaf tips and margins.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "A typical manifestation of copper toxicity in plants is:",
+      "options": [
+        "Chlorosis of young leaves",
+        "Necrotic spots on leaf margins",
+        "Reduced root growth with dark brown discoloration",
+        "Wilting of the whole plant"
+      ],
+      "answer": 2,
+      "explanation": "High copper concentrations damage root tips, leading to reduced root growth and dark brown necrotic discoloration.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "Iron toxicity in plants is indicated by which symptom?",
+      "options": [
+        "Bronzing of older leaves",
+        "Interveinal chlorosis of young leaves",
+        "Necrotic spots on leaf tips",
+        "Leaf curling"
+      ],
+      "answer": 1,
+      "explanation": "Excess iron causes interveinal chlorosis primarily in young, expanding leaves.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "Toxicity due to high chloride (sodium chloride) in plants is most evident as:",
+      "options": [
+        "Leaf tip burn",
+        "Necrosis of root tips",
+        "Stunted growth with leaf curling",
+        "Chlorosis of older leaves"
+      ],
+      "answer": 0,
+      "explanation": "Chloride toxicity leads to marginal leaf tip burn and necrosis because excess chloride accumulates at leaf edges.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "Which symptom best describes zinc toxicity in plants?",
+      "options": [
+        "Chlorosis of older leaves",
+        "Stunted growth with small leaves",
+        "Mottled yellowing with brown spots",
+        "Necrotic lesions on leaf margins"
+      ],
+      "answer": 2,
+      "explanation": "Zinc excess causes a mottled or speckled yellowing of leaves with brown necrotic spots, especially on younger foliage.",
+      "topic": "Toxicity symptoms"
+    },
+    {
+      "question": "Excess phosphorus in the soil can cause toxicity symptoms that resemble deficiency of another element. Which symptom is observed?",
+      "options": [
+        "Reduced uptake of iron causing interveinal chlorosis",
+        "Leaf curling",
+        "Root swelling",
+        "Necrotic leaf margins"
+      ],
+      "answer": 0,
+      "explanation": "High phosphorus interferes with iron absorption, leading to interveinal chlorosis that mimics iron deficiency.",
+      "topic": "Toxicity symptoms"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 25,
+    "mcqCount": 174
+  }
+}

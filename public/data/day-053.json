@@ -1,0 +1,1636 @@
+{
+  "day": 53,
+  "courseDate": "2026-10-21",
+  "publishAt": "2026-10-21T06:00:00+05:30",
+  "title": "Day 53: Photosynthesis — Basic Concepts and Pigments",
+  "introduction": "This lesson explores the fundamental aspects of photosynthesis, focusing on its role as autotrophic nutrition, the chloroplast organelle, pigment chemistry, and the experimental evidence that shaped current understanding. Mastery of these concepts is essential for NEET‑UG biology.",
+  "sections": [
+    {
+      "topic": "Photosynthesis as autotrophic nutrition",
+      "heading": "Autotrophic Nutrition through Photosynthesis",
+      "content": "Photosynthesis enables green plants, algae and cyanobacteria to synthesize organic compounds from inorganic CO₂ and H₂O using light energy, thereby acting as primary producers in ecosystems. The process converts solar energy into chemical energy stored as carbohydrate, supporting heterotrophic organisms indirectly.",
+      "keyPoints": [
+        "Plants synthesize their own food – true autotrophs.",
+        "Solar energy → chemical energy (glucose).",
+        "Basis of food chains and oxygen production."
+      ],
+      "neetTips": [
+        "Remember the term ‘autotrophic nutrition’ links directly to photosynthesis in NEET questions."
+      ]
+    },
+    {
+      "topic": "Importance of photosynthesis",
+      "heading": "Ecological and Physiological Significance",
+      "content": "Photosynthesis supplies the bulk of atmospheric O₂, fixes carbon for the biosphere, and drives the energy flow in ecosystems. It also regulates atmospheric CO₂, influencing climate. In plants, it provides substrates for growth, respiration, and storage.",
+      "keyPoints": [
+        "Primary source of atmospheric O₂.",
+        "Major carbon sink mitigating greenhouse effect.",
+        "Provides energy for all living organisms."
+      ],
+      "neetTips": [
+        "Link the importance of photosynthesis to global carbon cycle in diagram‑based questions."
+      ]
+    },
+    {
+      "topic": "Site of photosynthesis",
+      "heading": "Location within the Plant Cell",
+      "content": "The light‑dependent reactions occur in the thylakoid membranes of chloroplasts, while the Calvin‑Benson cycle (light‑independent) takes place in the stroma. In C₃ plants, both processes are confined to mesophyll chloroplasts; in C₄ plants, they are spatially separated between mesophyll and bundle‑sheath cells.",
+      "keyPoints": [
+        "Thylakoid membranes – light reactions.",
+        "Stroma – Calvin cycle.",
+        "C₃ vs C₄ spatial arrangement."
+      ],
+      "neetTips": [
+        "NEET often asks which part of chloroplast hosts a specific reaction; memorize thylakoid vs stroma."
+      ]
+    },
+    {
+      "topic": "Chloroplast structure",
+      "heading": "Ultrastructure of the Chloroplast",
+      "content": "Chloroplasts are double‑membrane organelles containing an outer membrane, inner membrane, and intermembrane space. Inside, a fluid stroma houses DNA, ribosomes, and enzymes. Stroma contains a system of thylakoid stacks (grana) linked by lamellae. Grana increase surface area for pigment‑protein complexes.",
+      "keyPoints": [
+        "Outer & inner membranes enclose stroma.",
+        "Grana = stacks of thylakoids.",
+        "Lamellae connect grana, forming thylakoid network."
+      ],
+      "neetTips": [
+        "Sketch a labelled chloroplast; NEET frequently tests identification of each part."
+      ]
+    },
+    {
+      "topic": "Photosynthetic pigments",
+      "heading": "Pigment Types and Functions",
+      "content": "Pigments absorb light at specific wavelengths and transfer excitation energy to reaction centres. The major groups are chlorophylls (a, b, c, d), carotenoids (carotenes, xanthophylls), and phycobilins (in cyanobacteria). Accessory pigments broaden the usable spectrum.",
+      "keyPoints": [
+        "Chlorophylls absorb mainly blue‑red light.",
+        "Carotenoids absorb blue‑green and protect against photo‑oxidation.",
+        "Accessory pigments extend light absorption range."
+      ],
+      "neetTips": [
+        "Focus on chlorophyll a as the primary pigment; other pigments are ‘accessory’."
+      ]
+    },
+    {
+      "topic": "Chlorophyll a",
+      "heading": "Primary Photosynthetic Pigment",
+      "content": "Chlorophyll a (C₅₅H₇₂O₅N₄Mg) has a porphyrin ring with a central Mg²⁺ ion. It absorbs maximally at ~430 nm (blue) and ~662 nm (red). It resides in both photosystem I and II reaction centres, directly driving electron transport.",
+      "keyPoints": [
+        "Absorption peaks: 430 nm & 662 nm.",
+        "Present in both PS I and PS II reaction centres.",
+        "Essential for primary charge separation."
+      ],
+      "neetTips": [
+        "NEET often asks the wavelength at which chlorophyll a absorbs maximally – memorize 430 nm & 662 nm."
+      ]
+    },
+    {
+      "topic": "Chlorophyll b",
+      "heading": "Accessory Chlorophyll",
+      "content": "Chlorophyll b differs by a formyl group at C‑7, shifting its absorption peaks to ~453 nm and ~642 nm. It transfers the captured energy efficiently to chlorophyll a, expanding the range of usable light, especially in shaded conditions.",
+      "keyPoints": [
+        "Formyl group shifts absorption to 453 nm & 642 nm.",
+        "Acts as an energy donor to chlorophyll a.",
+        "Increases light‑harvesting efficiency."
+      ],
+      "neetTips": [
+        "Remember that chlorophyll b is an accessory pigment that funnels energy to chlorophyll a."
+      ]
+    },
+    {
+      "topic": "Carotenoids",
+      "heading": "Carotenoid Pigments and Photoprotection",
+      "content": "Carotenoids (α‑carotene, β‑carotene, lutein) contain conjugated double bonds, absorbing in the 400‑500 nm region (blue‑green). They protect chlorophylls from excess light by dissipating excess energy as heat (non‑photochemical quenching) and act as precursors for vitamin A.",
+      "keyPoints": [
+        "Absorb 400‑500 nm (blue‑green).",
+        "Provide photoprotection and act as antioxidants.",
+        "Precursors of vitamin A in humans."
+      ],
+      "neetTips": [
+        "NEET may link carotenoids to photoprotection; recall their role in non‑photochemical quenching."
+      ]
+    },
+    {
+      "topic": "Absorption spectrum",
+      "heading": "Wavelengths Absorbed by Pigments",
+      "content": "An absorption spectrum plots the fraction of light absorbed versus wavelength for a pigment or leaf. Peaks correspond to chlorophyll a (430, 662 nm), chlorophyll b (453, 642 nm), and carotenoids (450‑500 nm). The overall leaf spectrum shows a broad ‘green gap’ where reflectance is high.",
+      "keyPoints": [
+        "Shows specific peaks for each pigment.",
+        "Green region (500‑600 nm) is reflected, giving leaf colour.",
+        "Used to assess pigment composition."
+      ],
+      "neetTips": [
+        "Distinguish absorption spectrum (what is absorbed) from action spectrum (what drives photosynthesis)."
+      ]
+    },
+    {
+      "topic": "Action spectrum",
+      "heading": "Wavelengths Effective for Photosynthesis",
+      "content": "An action spectrum records the rate of photosynthetic O₂ evolution or CO₂ fixation against wavelength. It mirrors the absorption spectrum but weighted by pigment efficiency; peaks align with chlorophyll a absorption, confirming it as the primary pigment.",
+      "keyPoints": [
+        "Plots photosynthetic rate vs wavelength.",
+        "Peaks coincide with chlorophyll a absorption.",
+        "Validates chlorophyll a’s central role."
+      ],
+      "neetTips": [
+        "NEET often asks which spectrum proves chlorophyll a is the primary pigment – answer: action spectrum."
+      ]
+    },
+    {
+      "topic": "Role of chlorophyll",
+      "heading": "Energy Capture and Transfer",
+      "content": "Chlorophyll molecules, arranged in antenna complexes, capture photons and funnel excitation energy via resonance energy transfer to the reaction‑centre chlorophyll a. This initiates charge separation, generating a high‑energy electron for the electron transport chain.",
+      "keyPoints": [
+        "Antenna complexes collect light.",
+        "Energy transferred to reaction‑centre chlorophyll a.",
+        "Triggers charge separation and electron flow."
+      ],
+      "neetTips": [
+        "Emphasize the sequential flow: photon → antenna → reaction centre → electron transport."
+      ]
+    },
+    {
+      "topic": "Role of accessory pigments",
+      "heading": "Broadening Light Utilisation",
+      "content": "Accessory pigments (chlorophyll b, carotenoids) absorb wavelengths not efficiently captured by chlorophyll a and transfer the excitation energy to chlorophyll a. They also protect the photosynthetic apparatus from photodamage by dissipating excess energy.",
+      "keyPoints": [
+        "Extend usable spectrum beyond chlorophyll a.",
+        "Transfer energy to chlorophyll a with high efficiency.",
+        "Provide photoprotection against excess light."
+      ],
+      "neetTips": [
+        "In NEET, link accessory pigments to both light‑harvesting and photoprotection."
+      ]
+    },
+    {
+      "topic": "Light as an energy source",
+      "heading": "Photons Drive the Light Reactions",
+      "content": "Visible light photons (400‑700 nm) possess sufficient energy to raise electrons in chlorophyll to an excited state. This energy is converted into chemical forms: ATP via photophosphorylation and NADPH via the reduction of NADP⁺. No external heat is required.",
+      "keyPoints": [
+        "Photon energy excites electrons in chlorophyll.",
+        "Produces ATP and NADPH for the Calvin cycle.",
+        "Only photons in the visible range are effective."
+      ],
+      "neetTips": [
+        "Remember the term ‘photons → excited electrons → chemical energy’ for quick recall."
+      ]
+    },
+    {
+      "topic": "Carbon dioxide and water as raw materials",
+      "heading": "Inorganic Substrates for Carbon Fixation",
+      "content": "CO₂ diffuses through stomata into the mesophyll and is fixed by Rubisco in the Calvin cycle. H₂O is split (photolysis) in the thylakoid lumen, providing electrons, protons, and O₂. Both are essential raw materials; deficiency halts the cycle.",
+      "keyPoints": [
+        "CO₂ enters via stomata and is fixed by Rubisco.",
+        "H₂O provides electrons and releases O₂ in photolysis.",
+        "Both are indispensable for the overall reaction."
+      ],
+      "neetTips": [
+        "NEET may ask the source of O₂ – answer: photolysis of water."
+      ]
+    },
+    {
+      "topic": "Overall photosynthesis equation",
+      "heading": "Net Chemical Transformation",
+      "content": "6 CO₂ + 6 H₂O + light energy → C₆H₁₂O₆ + 6 O₂. The equation summarizes the conversion of inorganic carbon and water into glucose and oxygen, highlighting the stoichiometry required for NEET quantitative problems.",
+      "keyPoints": [
+        "Six molecules each of CO₂ and H₂O produce one glucose and six O₂.",
+        "Balances carbon, hydrogen, and oxygen atoms.",
+        "Represents the net result of light‑ and dark‑reactions combined."
+      ],
+      "neetTips": [
+        "Memorise the coefficients; NEET often asks for the number of O₂ molecules released per CO₂ fixed."
+      ]
+    },
+    {
+      "topic": "Factors affecting photosynthesis overview",
+      "heading": "Environmental and Internal Modulators",
+      "content": "Key factors include light intensity, light quality (wavelength), photoperiod, temperature, CO₂ concentration, water availability, and leaf age. Each factor influences the rate of the light reactions or the Calvin cycle, often showing a saturation curve.",
+      "keyPoints": [
+        "Light intensity shows a hyperbolic rise to saturation.",
+        "Temperature affects enzyme activity (Rubisco).",
+        "CO₂ concentration and water status are limiting in field conditions."
+      ],
+      "neetTips": [
+        "NEET frequently presents graphs of photosynthetic rate vs. light intensity; recall the concept of light saturation point."
+      ]
+    },
+    {
+      "topic": "Historical experiments in photosynthesis",
+      "heading": "Foundational Laboratory Evidence",
+      "content": "- Jan Ingenhousz (1779) showed that light is essential and that plants release O₂ only in light.\n- Joseph Priestley (1772) discovered that plants restore “dephlogisticated air”.\n- Julius von Sachs (1862) demonstrated that CO₂ is the carbon source.\n- Robert Hill (1937) performed the Hill reaction, proving that isolated chloroplasts can evolve O₂ with artificial electron donors.\n- Melvin Calvin (1940s) elucidated the Calvin‑Benson cycle using radioactive C¹⁴O₂.\nThese experiments underpin modern concepts of light‑dependent and light‑independent reactions.\n",
+      "keyPoints": [
+        "Ingenhousz: Light required for O₂ evolution.",
+        "Hill reaction: Isolated chloroplasts can split water with artificial donors.",
+        "Calvin cycle: CO₂ fixation pathway traced with C¹⁴ labeling."
+      ],
+      "neetTips": [
+        "Link each historic experiment to the specific photosynthetic component it clarified; NEET often asks ‘who discovered…?’"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the complete mechanism of photosynthesis from light capture to carbohydrate synthesis.",
+    "Identify the structure and function of chloroplast components and pigments.",
+    "Interpret absorption and action spectra to deduce the role of primary and accessory pigments.",
+    "Recall key historical experiments that established the fundamentals of photosynthesis."
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly defines autotrophic nutrition in plants?",
+      "options": [
+        "Plants obtain organic compounds by ingesting other organisms.",
+        "Plants synthesize organic compounds from CO2 and H2O using light energy.",
+        "Plants rely solely on mineral uptake for carbon.",
+        "Plants convert glucose into CO2 during photosynthesis."
+      ],
+      "answer": 1,
+      "explanation": "Autotrophic nutrition means the plant produces its own organic substances from inorganic carbon (CO2) and water, using light energy captured in photosynthesis.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "The primary purpose of photosynthesis as autotrophic nutrition is to:",
+      "options": [
+        "Generate ATP for cellular respiration only.",
+        "Produce oxygen for the atmosphere.",
+        "Fix inorganic carbon into organic molecules.",
+        "Store sunlight as heat."
+      ],
+      "answer": 2,
+      "explanation": "In autotrophic nutrition, photosynthesis fixes inorganic carbon (CO2) into organic compounds (like glucose), providing the plant’s carbon skeletons and energy.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "In the overall photosynthetic equation, which of the following represents the net product that serves as the primary organic nutrient for the plant?",
+      "options": [
+        "O2",
+        "H2O",
+        "C6H12O6",
+        "CO2"
+      ],
+      "answer": 2,
+      "explanation": "The net organic product is glucose (C6H12O6), which serves as the main source of carbon and energy for the plant’s growth and metabolism.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "Which of the following best explains why photosynthetic organisms are termed \"autotrophs\"?",
+      "options": [
+        "They obtain carbon from organic sources.",
+        "They synthesize their own food using light energy.",
+        "They depend on other organisms for nitrogen.",
+        "They store excess glucose as starch."
+      ],
+      "answer": 1,
+      "explanation": "Autotrophs produce their own organic food from inorganic carbon (CO2) using light energy; hence they are self-feeders.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "During autotrophic nutrition, the energy captured in the light reactions is ultimately stored in which molecule that is later utilized in the Calvin cycle?",
+      "options": [
+        "NADPH",
+        "ATP",
+        "Both NADPH and ATP",
+        "O2"
+      ],
+      "answer": 2,
+      "explanation": "Both NADPH (provides reducing power) and ATP (provides energy) generated in the light reactions are consumed in the Calvin cycle to synthesize glucose.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "Which factor, if removed, would directly halt the autotrophic nutritional capability of a plant?",
+      "options": [
+        "Soil nitrogen",
+        "Light",
+        "Ambient temperature",
+        "Atmospheric oxygen"
+      ],
+      "answer": 1,
+      "explanation": "Light is essential for the light‑dependent reactions; without it, the plant cannot convert CO2 and H2O into organic compounds, stopping autotrophic nutrition.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "In the context of autotrophic nutrition, the term \"photoautotroph\" specifically refers to organisms that:",
+      "options": [
+        "Use chemical energy from inorganic compounds.",
+        "Use light energy to fix carbon dioxide.",
+        "Obtain organic carbon from other organisms.",
+        "Perform photosynthesis only in the dark."
+      ],
+      "answer": 1,
+      "explanation": "Photoautotrophs obtain energy from light and use it to fix CO2 into organic molecules, characteristic of plants and many algae.",
+      "topic": "Photosynthesis as autotrophic nutrition"
+    },
+    {
+      "question": "Which of the following best describes the primary ecological significance of photosynthesis in terrestrial ecosystems?",
+      "options": [
+        "Production of glucose for plant growth",
+        "Release of oxygen into atmosphere",
+        "Conversion of solar energy into chemical energy that fuels food webs",
+        "Removal of carbon dioxide from soil"
+      ],
+      "answer": 2,
+      "explanation": "Photosynthesis captures solar energy and stores it as chemical energy (glucose), which then enters the food web, supporting all heterotrophic life.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "The importance of photosynthesis in maintaining atmospheric composition is mainly due to:",
+      "options": [
+        "Generation of nitrogen gas",
+        "Consumption of oxygen",
+        "Release of oxygen and uptake of carbon dioxide",
+        "Production of ozone"
+      ],
+      "answer": 2,
+      "explanation": "During photosynthesis, plants release O₂ as a by‑product and fix CO₂, thereby sustaining the balance of these gases in the atmosphere.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "In the context of the global carbon cycle, photosynthesis is crucial because it:",
+      "options": [
+        "Emits methane from wetlands",
+        "Fixes atmospheric carbon dioxide into organic compounds",
+        "Decomposes organic matter releasing carbon dioxide",
+        "Converts carbonates to carbon dioxide"
+      ],
+      "answer": 1,
+      "explanation": "Photosynthetic organisms convert CO₂ from the atmosphere into carbohydrates, effectively removing carbon from the gaseous pool.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "Which statement explains why photosynthesis is considered the primary source of energy for heterotrophic organisms?",
+      "options": [
+        "Heterotrophs directly absorb sunlight",
+        "Heterotrophs synthesize chlorophyll",
+        "Organic compounds produced by photosynthesis are consumed by heterotrophs",
+        "Heterotrophs perform chemosynthesis"
+      ],
+      "answer": 2,
+      "explanation": "Heterotrophs obtain energy by ingesting or decomposing organic molecules that originated from photosynthetic fixation of solar energy.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "The importance of photosynthesis in agriculture is primarily because:",
+      "options": [
+        "It increases soil pH",
+        "It provides the carbohydrate reserves that are harvested as crops",
+        "It reduces water requirement of crops",
+        "It eliminates need for fertilizers"
+      ],
+      "answer": 1,
+      "explanation": "Crops accumulate carbohydrates (starches, sugars) through photosynthesis; these stored compounds constitute the edible yield.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "Which of the following is a direct consequence of reduced photosynthetic activity in a forest ecosystem?",
+      "options": [
+        "Increase in atmospheric oxygen levels",
+        "Decrease in soil nitrogen content",
+        "Lower atmospheric carbon dioxide concentration",
+        "Decline in primary productivity affecting food availability"
+      ],
+      "answer": 3,
+      "explanation": "Lower photosynthesis reduces the amount of biomass produced, leading to less food for herbivores and cascading effects up the food chain.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "The role of photosynthesis in climate regulation is mainly through:",
+      "options": [
+        "Emission of greenhouse gases",
+        "Absorption of solar radiation by chlorophyll",
+        "Sequestration of carbon dioxide reducing greenhouse effect",
+        "Production of aerosols"
+      ],
+      "answer": 2,
+      "explanation": "By fixing CO₂, photosynthesis reduces the concentration of this major greenhouse gas, helping to mitigate global warming.",
+      "topic": "Importance of photosynthesis"
+    },
+    {
+      "question": "Which organelle is the site of photosynthesis in higher plants?",
+      "options": [
+        "Mitochondrion",
+        "Chloroplast",
+        "Nucleus",
+        "Vacuole"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts contain the thylakoid membranes and stroma where the light‑dependent and light‑independent reactions of photosynthesis occur.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "In the chloroplast, the light‑dependent reactions take place in which membrane system?",
+      "options": [
+        "Outer membrane",
+        "Inner membrane",
+        "Thylakoid membrane",
+        "Stroma"
+      ],
+      "answer": 2,
+      "explanation": "The thylakoid membrane houses photosystems, electron transport chain components and ATP synthase, all essential for the light‑dependent reactions.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "The Calvin‑Benson cycle (light‑independent reactions) occurs in which part of the chloroplast?",
+      "options": [
+        "Thylakoid lumen",
+        "Stroma",
+        "Granum",
+        "Intermembrane space"
+      ],
+      "answer": 1,
+      "explanation": "The stroma contains the enzymes of the Calvin cycle where CO₂ is fixed into carbohydrates.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "Which leaf tissue has the highest concentration of chloroplasts and is therefore the primary site of photosynthesis?",
+      "options": [
+        "Palisade mesophyll",
+        "Spongy mesophyll",
+        "Epidermis",
+        "Vascular bundle"
+      ],
+      "answer": 0,
+      "explanation": "Palisade mesophyll cells are tightly packed beneath the upper epidermis and contain many chloroplasts, making them the main photosynthetic layer.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "In C3 plants, the initial fixation of CO₂ occurs in the mesophyll cells. In which subcellular compartment does this fixation take place?",
+      "options": [
+        "Cytosol",
+        "Mitochondria",
+        "Chloroplast stroma",
+        "Vacuole"
+      ],
+      "answer": 2,
+      "explanation": "CO₂ is fixed by Rubisco in the stroma of chloroplasts within mesophyll cells, forming 3‑phosphoglycerate.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "Where is the oxygen‑evolving complex (water‑splitting complex) located?",
+      "options": [
+        "Lumenal side of the thylakoid membrane",
+        "Embedded in photosystem I reaction centre",
+        "Part of cytochrome b6f complex",
+        "Situated in the chloroplast envelope"
+      ],
+      "answer": 0,
+      "explanation": "The oxygen‑evolving complex is attached to the lumenal side of photosystem II in the thylakoid membrane, where it catalyzes water oxidation.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "In algae, photosynthesis occurs in chloroplasts that originated from which endosymbiotic event?",
+      "options": [
+        "Primary endosymbiosis of a cyanobacterium",
+        "Secondary endosymbiosis of a green alga",
+        "Tertiary endosymbiosis of a red alga",
+        "Lateral gene transfer from bacteria"
+      ],
+      "answer": 0,
+      "explanation": "Algal chloroplasts, like those of higher plants, are derived from a primary endosymbiotic event in which a cyanobacterium was engulfed, forming the photosynthetic organelle.",
+      "topic": "Site of photosynthesis"
+    },
+    {
+      "question": "Which statement correctly describes the arrangement of thylakoid membranes in a chloroplast?",
+      "options": [
+        "Stacked thylakoids called granum are interconnected by stroma thylakoids (lamellae).",
+        "Thylakoids are randomly dispersed in the stroma.",
+        "Granum are isolated vesicles not connected to each other.",
+        "Thylakoids form a single continuous sheet throughout the chloroplast."
+      ],
+      "answer": 0,
+      "explanation": "Granum are stacks of thylakoids and are linked by unstacked stroma thylakoids (lamellae), providing continuity of the membrane system.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "The space between the inner and outer membranes of the chloroplast envelope is called:",
+      "options": [
+        "Intermembrane space",
+        "Stroma",
+        "Thylakoid lumen",
+        "Granum"
+      ],
+      "answer": 0,
+      "explanation": "The region between the two envelope membranes is termed the intermembrane space, analogous to that in mitochondria.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "Which structure in the chloroplast is primarily responsible for ATP synthesis during the light reactions?",
+      "options": [
+        "ATP synthase embedded in the thylakoid membrane",
+        "Calvin‑cycle enzymes in the stroma",
+        "Chlorophyll a molecules in photosystem I",
+        "Plastid ribosomes"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase spans the thylakoid membrane; the proton gradient drives its catalytic activity to produce ATP.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "Where is chloroplast DNA mainly located?",
+      "options": [
+        "Stroma",
+        "Thylakoid lumen",
+        "Granum",
+        "Intermembrane space"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplast DNA is present in the stroma, often associated with nucleoids, and is separate from nuclear DNA.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "Which of the following statements about the chloroplast outer membrane is FALSE?",
+      "options": [
+        "It is permeable to small molecules and ions.",
+        "It contains porin proteins.",
+        "It is the site of photosystem II.",
+        "It is a phospholipid bilayer."
+      ],
+      "answer": 2,
+      "explanation": "Photosystem II resides in the thylakoid membrane, not in the outer envelope membrane.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "In a typical dicot leaf chloroplast, the approximate number of grana per chloroplast is:",
+      "options": [
+        "10–20",
+        "30–50",
+        "70–100",
+        "150–200"
+      ],
+      "answer": 0,
+      "explanation": "Most dicot chloroplasts contain about 10 to 20 grana, each granum comprising several stacked thylakoids.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "The stroma of a chloroplast contains all EXCEPT:",
+      "options": [
+        "Ribosomes",
+        "DNA",
+        "Thylakoid membranes",
+        "Enzymes of the Calvin cycle"
+      ],
+      "answer": 2,
+      "explanation": "Thylakoid membranes are confined within the thylakoid system; the stroma holds ribosomes, DNA, and Calvin‑cycle enzymes.",
+      "topic": "Chloroplast structure"
+    },
+    {
+      "question": "Which pigment is the primary pigment directly involved in the photochemical reactions of photosynthesis?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotene",
+        "Xanthophyll"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a is the only pigment that donates electrons to the reaction centre (P680/P700) and drives the light‑dependent reactions.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "Which accessory pigment extends the range of light absorption to the 500–550 nm region in higher plants?",
+      "options": [
+        "Carotene",
+        "Chlorophyll b",
+        "Phycobilin",
+        "Anthocyanin"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll b absorbs maximally around 453 nm and 642 nm, complementing chlorophyll a and extending absorption into the blue‑green region (≈500–550 nm).",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "Which pigment, predominantly located in the stroma thylakoids, protects chlorophyll molecules from photo‑oxidative damage?",
+      "options": [
+        "Beta‑carotene (a carotenoid)",
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Phylloquinone"
+      ],
+      "answer": 0,
+      "explanation": "Carotenoids such as beta‑carotene quench triplet chlorophyll and reactive oxygen species, safeguarding the photosynthetic apparatus.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "The absorption spectrum of chlorophyll a shows two major peaks at approximately which wavelengths?",
+      "options": [
+        "430 nm and 662 nm",
+        "450 nm and 680 nm",
+        "470 nm and 640 nm",
+        "500 nm and 700 nm"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a exhibits absorption maxima in the blue (~430 nm) and red (~662 nm) regions of the spectrum.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "Which statement correctly distinguishes the absorption spectrum from the action spectrum of photosynthesis?",
+      "options": [
+        "Absorption spectrum measures rate of photosynthesis; action spectrum measures pigment absorption",
+        "Absorption spectrum shows wavelengths absorbed by pigments; action spectrum shows wavelengths that effectively drive photosynthesis",
+        "Both spectra are identical for chlorophyll a",
+        "Action spectrum is only relevant for artificial light sources"
+      ],
+      "answer": 1,
+      "explanation": "The absorption spectrum records light wavelengths a pigment absorbs, whereas the action spectrum records wavelengths that result in maximal photosynthetic activity, reflecting the combined action of all pigments.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "Which pigment, responsible for the orange colour of carrots, also functions as an accessory pigment in plant leaves?",
+      "options": [
+        "Beta‑carotene",
+        "Lutein",
+        "Phycoerythrin",
+        "Chlorophyll b"
+      ],
+      "answer": 0,
+      "explanation": "Beta‑carotene is an orange carotenoid that absorbs blue‑green light and transfers the energy to chlorophyll a, acting as an accessory pigment.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "In most higher plants, the typical ratio of chlorophyll a to chlorophyll b is closest to:",
+      "options": [
+        "3:1",
+        "1:1",
+        "2:1",
+        "4:1"
+      ],
+      "answer": 0,
+      "explanation": "The chlorophyll a : b ratio in mature leaves of higher plants is generally about 3 : 1, reflecting the predominance of the primary pigment.",
+      "topic": "Photosynthetic pigments"
+    },
+    {
+      "question": "Which of the following statements about chlorophyll a is correct?",
+      "options": [
+        "It is the only pigment that can directly donate electrons to the reaction centre.",
+        "It has a methyl group at C-7 position.",
+        "It absorbs maximally at 665 nm (red) and 465 nm (blue).",
+        "It is located only in the stroma lamellae."
+      ],
+      "answer": 2,
+      "explanation": "Chlorophyll a shows absorption peaks around 665 nm in the red region and 465 nm in the blue region, which correspond to its primary light‑absorbing wavelengths.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "The primary electron donor in photosystem II is a pair of chlorophyll a molecules designated as",
+      "options": [
+        "P700",
+        "P680",
+        "P680* (excited state)",
+        "P680+ (oxidized form)"
+      ],
+      "answer": 1,
+      "explanation": "In PSII the reaction‑centre chlorophyll a pair is called P680; it donates an electron after excitation.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "Which structural feature distinguishes chlorophyll a from chlorophyll b?",
+      "options": [
+        "Presence of a formyl group at C-7 in chlorophyll b.",
+        "Presence of a methyl group at C-7 in chlorophyll a.",
+        "Presence of a phytol tail in chlorophyll a only.",
+        "Chlorophyll a lacks a central Mg ion."
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a has a methyl group at the C‑7 position, whereas chlorophyll b has a formyl (–CHO) group at that position.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "The role of chlorophyll a in the light reactions is primarily to",
+      "options": [
+        "Capture light energy and transfer it to accessory pigments.",
+        "Transfer excitation energy to the reaction centre chlorophyll a.",
+        "Directly synthesize ATP.",
+        "Convert CO2 to carbohydrate."
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a absorbs photons and transfers the excitation energy to the reaction‑centre chlorophyll a (P680 in PSII and P700 in PSI) where charge separation occurs.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "Which of the following statements about the absorption spectrum of chlorophyll a is FALSE?",
+      "options": [
+        "It shows peaks in the blue (~430 nm) and red (~662 nm) regions.",
+        "It absorbs strongly in the green region of the spectrum.",
+        "Its absorption spectrum overlaps with that of carotenoids.",
+        "It does not absorb in the far‑red region."
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a reflects green light and therefore absorbs very little in the green region; the statement that it absorbs strongly there is false.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "In the thylakoid membrane, chlorophyll a is predominantly associated with which protein complexes?",
+      "options": [
+        "Light-harvesting complex II (LHCII) only.",
+        "Photosystem I and II reaction centre cores.",
+        "ATP synthase.",
+        "Cytochrome b6f complex."
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a is the main pigment in the reaction‑centre cores of both photosystem I (P700) and photosystem II (P680).",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "During the Z‑scheme of photosynthesis, the excited chlorophyll a in PSII (P680*) transfers an electron to which primary electron acceptor?",
+      "options": [
+        "Plastocyanin",
+        "Ferredoxin",
+        "Plastoquinone (QA)",
+        "NADP+"
+      ],
+      "answer": 2,
+      "explanation": "The first stable electron acceptor after P680* is the primary quinone acceptor QA, a plastoquinone molecule embedded in the thylakoid membrane.",
+      "topic": "Chlorophyll a"
+    },
+    {
+      "question": "What structural difference distinguishes chlorophyll b from chlorophyll a?",
+      "options": [
+        "Chlorophyll b has a formyl group at C‑7 instead of a methyl group",
+        "Chlorophyll b has a methyl group at C‑7 instead of a formyl group",
+        "Chlorophyll b has an ethyl group at C‑3 instead of a methyl group",
+        "Chlorophyll b has a vinyl group at C‑3 instead of an ethyl group"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll b differs from chlorophyll a by having a formyl (‑CHO) group at the C‑7 position of the porphyrin ring, whereas chlorophyll a has a methyl (‑CH3) group there.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "The absorption maximum of chlorophyll b in the blue region of the spectrum is closest to:",
+      "options": [
+        "430 nm",
+        "453 nm",
+        "470 nm",
+        "495 nm"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll b shows a strong absorption peak around 453 nm in the blue region, complementing chlorophyll a’s peaks.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "In the thylakoid membrane, chlorophyll b is predominantly associated with which photosystem?",
+      "options": [
+        "Photosystem I",
+        "Photosystem II",
+        "Both photosystems equally",
+        "Neither; it is only in the light‑harvesting complexes of chlorophyll a"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll b is mainly found in the light‑harvesting antenna complexes of Photosystem II, where it expands the range of light absorbed.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "The primary functional role of chlorophyll b in photosynthesis is to:",
+      "options": [
+        "Act as the primary electron donor in the reaction centre",
+        "Transfer excitation energy to chlorophyll a",
+        "Catalyze the splitting of water",
+        "Absorb far‑red light for photoprotection"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll b functions as an accessory pigment; it captures light energy and transfers the excitation to chlorophyll a, which then drives charge separation.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "In a typical higher‑plant leaf, the approximate ratio of chlorophyll a to chlorophyll b is:",
+      "options": [
+        "1 : 1",
+        "3 : 1",
+        "1 : 3",
+        "Chlorophyll b exceeds chlorophyll a"
+      ],
+      "answer": 1,
+      "explanation": "Higher plants usually contain about three times more chlorophyll a than chlorophyll b, giving an a:b ratio near 3:1.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "A plant mutant that completely lacks chlorophyll b would most likely exhibit which phenotype?",
+      "options": [
+        "No observable effect on photosynthetic efficiency",
+        "Reduced photosynthetic efficiency under low‑light conditions",
+        "Increased photosynthetic rate under high‑light intensity",
+        "Loss of chlorophyll a synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Without chlorophyll b, the plant’s light‑harvesting antenna is less effective, especially under low‑light conditions where accessory pigments are crucial for capturing additional photons.",
+      "topic": "Chlorophyll b"
+    },
+    {
+      "question": "Carotenoids primarily absorb light in which wavelength region?",
+      "options": [
+        "400-500 nm (blue‑green)",
+        "500-600 nm (green‑yellow)",
+        "600-700 nm (red)",
+        "700-800 nm (far‑red)"
+      ],
+      "answer": 0,
+      "explanation": "Carotenoids have absorption maxima in the blue‑green region (≈400‑500 nm), complementing chlorophyll a which absorbs mainly in the red and blue regions.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "What is the main role of carotenoids in the photosynthetic apparatus?",
+      "options": [
+        "Primary electron donor in the reaction centre",
+        "Accessory pigment that transfers excitation energy to chlorophyll a",
+        "Catalyst for water‑splitting in photosystem II",
+        "Structural component of the thylakoid membrane"
+      ],
+      "answer": 1,
+      "explanation": "Carotenoids act as accessory pigments; they capture photons and transfer the excitation energy efficiently to chlorophyll a for use in the reaction centres.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "Which carotenoid is a provitamin A and gives carrots their orange colour?",
+      "options": [
+        "β‑carotene",
+        "Lutein",
+        "Lycopene",
+        "Zeaxanthin"
+      ],
+      "answer": 0,
+      "explanation": "β‑Carotene is a tetraterpenoid that is a precursor of vitamin A and is responsible for the characteristic orange colour of carrots.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "In the thylakoid membrane, carotenoids are most abundantly associated with which complex?",
+      "options": [
+        "Photosystem I core complex",
+        "Photosystem II core complex",
+        "Light‑harvesting complex II (LHCII)",
+        "ATP synthase"
+      ],
+      "answer": 2,
+      "explanation": "Carotenoids are tightly bound to the light‑harvesting antennae, especially LHCII, where they expand the range of light absorption and protect the complex.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "Carotenoids protect the photosynthetic machinery by quenching which reactive species?",
+      "options": [
+        "Singlet oxygen (^1O_2)",
+        "Superoxide radical (O_2^•‑)",
+        "Hydroxyl radical (•OH)",
+        "Hydrogen peroxide (H_2O_2)"
+      ],
+      "answer": 0,
+      "explanation": "The excited triplet state of chlorophyll can generate singlet oxygen; carotenoids efficiently quench ^1O_2, preventing oxidative damage.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "Which of the following statements about carotenoids is FALSE?",
+      "options": [
+        "They are tetraterpenoids derived from isoprene units",
+        "They contain a porphyrin ring similar to chlorophyll",
+        "They extend the range of light absorption beyond chlorophyll a",
+        "They participate in non‑photochemical quenching"
+      ],
+      "answer": 1,
+      "explanation": "Carotenoids are linear polyenes (tetraterpenoids) and do not possess a porphyrin ring; that structural feature is unique to chlorophylls.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "Energy transfer from carotenoids to chlorophyll a occurs via which mechanism?",
+      "options": [
+        "Förster resonance energy transfer",
+        "Direct electron transfer",
+        "Photolysis of water",
+        "Chemiosmotic coupling"
+      ],
+      "answer": 0,
+      "explanation": "The excitation energy captured by carotenoids is transferred to chlorophyll a through Förster resonance energy transfer, a dipole‑dipole interaction.",
+      "topic": "Carotenoids"
+    },
+    {
+      "question": "What does an absorption spectrum represent?",
+      "options": [
+        "Graph of wavelength vs % light transmitted",
+        "Graph of wavelength vs % light absorbed",
+        "Graph of intensity vs time",
+        "Graph of emission vs wavelength"
+      ],
+      "answer": 1,
+      "explanation": "An absorption spectrum plots the percentage of light absorbed by a substance at each wavelength.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "One of the absorption maxima of chlorophyll a is found at which wavelength?",
+      "options": [
+        "430 nm",
+        "453 nm",
+        "470 nm",
+        "500 nm"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a strongly absorbs blue light around 430 nm (and also red light near 662 nm).",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "How does an absorption spectrum differ from an action spectrum?",
+      "options": [
+        "Absorption spectrum measures rate of photosynthesis",
+        "Action spectrum shows wavelengths that are absorbed by pigment",
+        "Absorption spectrum is obtained using isolated pigment, action spectrum using whole plant",
+        "Action spectrum is identical to absorption spectrum for all pigments"
+      ],
+      "answer": 2,
+      "explanation": "The absorption spectrum is recorded from isolated pigment extracts, whereas the action spectrum is obtained by measuring photosynthetic rates of the intact plant under different wavelengths.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "Why are accessory pigments important for photosynthesis?",
+      "options": [
+        "They absorb green light which chlorophyll a cannot",
+        "They reflect red light",
+        "They increase the leaf's temperature",
+        "They emit light for photosynthesis"
+      ],
+      "answer": 0,
+      "explanation": "Accessory pigments such as carotenoids extend the usable light range by absorbing green wavelengths that chlorophyll a absorbs poorly.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "A pigment extract shows maximum absorbance at 470 nm. Which pigment is most likely present?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotenoids",
+        "Phycobilins"
+      ],
+      "answer": 2,
+      "explanation": "Carotenoids have absorption peaks in the blue‑green region, typically around 450–500 nm, giving a maximum near 470 nm.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "Plants illuminated with light of wavelength 660 nm primarily use which pigment for photosynthesis?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotenoids",
+        "Anthocyanins"
+      ],
+      "answer": 0,
+      "explanation": "660 nm lies in the red region where chlorophyll a has a strong absorption peak (~662 nm), making it the main pigment driving photosynthesis at this wavelength.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "Which statement correctly describes the absorption spectrum of chlorophyll b?",
+      "options": [
+        "Peaks at 453 nm and 642 nm",
+        "Peaks at 430 nm and 662 nm",
+        "Peaks at 470 nm only",
+        "No absorption in red region"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll b exhibits absorption maxima around 453 nm (blue) and 642 nm (red), distinct from chlorophyll a.",
+      "topic": "Absorption spectrum"
+    },
+    {
+      "question": "What does the action spectrum of photosynthesis represent?",
+      "options": [
+        "The rate of photosynthesis plotted against wavelength of light",
+        "The absorption of light by isolated pigments plotted against wavelength",
+        "The reflectance of leaf surface plotted against wavelength",
+        "The fluorescence emitted by chlorophyll plotted against wavelength"
+      ],
+      "answer": 0,
+      "explanation": "The action spectrum is a graph showing how efficiently photosynthesis proceeds at different wavelengths, i.e., the rate of photosynthesis versus wavelength.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "Which pigment’s absorption spectrum most closely matches the action spectrum of whole‑plant photosynthesis?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotenoids",
+        "Phycobilins"
+      ],
+      "answer": 0,
+      "explanation": "The overall action spectrum of a plant peaks where chlorophyll a absorbs (around 665 nm and 465 nm), because chlorophyll a is the primary pigment driving the light reactions.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "In an experiment measuring O₂ evolution under monochromatic light, maximum photosynthetic rates are observed at 660 nm and 460 nm. This indicates that:",
+      "options": [
+        "Accessory pigments absorb light at these wavelengths and transfer the energy to chlorophyll a",
+        "Chlorophyll a alone absorbs only at these two wavelengths",
+        "Carotenoids are the sole photosynthetic pigments",
+        "The action spectrum is unrelated to pigment absorption"
+      ],
+      "answer": 0,
+      "explanation": "The peaks at red (≈660 nm) and blue (≈460 nm) arise because accessory pigments (e.g., carotenoids) capture blue light and funnel the energy to chlorophyll a, enhancing photosynthesis at those wavelengths.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "How does the action spectrum of a whole leaf differ from the absorption spectrum of isolated chlorophyll a?",
+      "options": [
+        "The action spectrum shows additional peaks at blue wavelengths due to accessory pigments",
+        "The absorption spectrum shows peaks at both red and blue wavelengths",
+        "Both spectra are identical",
+        "The action spectrum is shifted entirely toward longer wavelengths"
+      ],
+      "answer": 0,
+      "explanation": "Isolated chlorophyll a absorbs strongly in the red and weakly in the blue, whereas the leaf’s action spectrum shows strong photosynthetic efficiency at both red and blue because accessory pigments extend the usable range.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "Which experimental method is most appropriate for constructing the action spectrum of photosynthesis?",
+      "options": [
+        "Measuring the rate of CO₂ uptake (or O₂ evolution) under monochromatic light of different wavelengths",
+        "Recording the absorbance of pigment extracts with a spectrophotometer",
+        "Measuring leaf temperature changes under different lights",
+        "Observing fluorescence emission spectra of chlorophyll"
+      ],
+      "answer": 0,
+      "explanation": "The action spectrum is obtained by quantifying photosynthetic activity (e.g., CO₂ fixation or O₂ evolution) while exposing the plant to light of single wavelengths using filters or monochromators.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "When a plant is illuminated with green light (~550 nm), the action spectrum predicts that the photosynthetic rate will be:",
+      "options": [
+        "Low compared with red or blue light",
+        "Moderate, similar to red light",
+        "High, comparable to blue light",
+        "Exactly the same as under red light"
+      ],
+      "answer": 0,
+      "explanation": "Green light is poorly absorbed by the main photosynthetic pigments, so the action spectrum shows a trough around 550 nm, indicating low photosynthetic efficiency.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "The action spectrum of photosynthesis shows peaks at 665 nm and 465 nm. The presence of the 465 nm peak is best explained by:",
+      "options": [
+        "Carotenoids absorbing blue light and transferring the energy to chlorophyll a",
+        "Direct photosynthetic activity of chlorophyll b at this wavelength",
+        "Efficient use of green light by the plant",
+        "Chlorophyll a itself having a strong absorption maximum at 465 nm"
+      ],
+      "answer": 0,
+      "explanation": "Carotenoids absorb strongly in the blue region (~460 nm) and pass the captured energy to chlorophyll a, producing a secondary peak in the action spectrum at that wavelength.",
+      "topic": "Action spectrum"
+    },
+    {
+      "question": "Which pigment is directly involved in the primary charge separation in photosystem II?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotene",
+        "Xanthophyll"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a is the reaction‑centre pigment of PSII where the primary charge separation occurs, initiating electron flow.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "The main role of chlorophyll in the light‑dependent reactions of photosynthesis is to:",
+      "options": [
+        "Absorb light energy and transfer it to the reaction centre",
+        "Act as the primary electron donor for CO₂ fixation",
+        "Catalyze the synthesis of ATP directly",
+        "Produce O₂ by splitting water"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll molecules capture photons and funnel the excitation energy to the reaction‑centre chlorophyll a, enabling charge separation.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "Energy captured by chlorophyll in the thylakoid membrane is used to generate which of the following?",
+      "options": [
+        "ATP only",
+        "NADPH only",
+        "Both ATP and NADPH",
+        "ADP only"
+      ],
+      "answer": 2,
+      "explanation": "Excited chlorophyll drives electron transport that creates a proton gradient for ATP synthesis and reduces NADP⁺ to NADPH.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "The absorption maximum of chlorophyll a in the blue region of the spectrum is closest to:",
+      "options": [
+        "430 nm",
+        "450 nm",
+        "470 nm",
+        "500 nm"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a shows a strong absorption peak around 430 nm in the blue region, complementing its red peak near 660 nm.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "Chlorophyll b primarily functions to:",
+      "options": [
+        "Expand the range of absorbed wavelengths and transfer energy to chlorophyll a",
+        "Directly split water molecules",
+        "Serve as the reaction‑centre pigment of photosystem I",
+        "Be absent in higher plants"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll b acts as an accessory pigment, harvesting additional light wavelengths and funneling the energy to chlorophyll a.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "In photosystem I, the excited electrons from chlorophyll a are ultimately transferred to which carrier?",
+      "options": [
+        "NADP⁺",
+        "Ferredoxin",
+        "Plastoquinone",
+        "Cytochrome b6f"
+      ],
+      "answer": 1,
+      "explanation": "After excitation, electrons from PSI chlorophyll a are passed to ferredoxin, which then reduces NADP⁺ to NADPH.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "When chlorophyll is degraded in autumnal leaves, the visible colour change to yellow is mainly because:",
+      "options": [
+        "Carotenoids become visible as chlorophyll disappears",
+        "Anthocyanins are synthesized in large amounts",
+        "Lignin deposition masks chlorophyll",
+        "Chlorophyll b replaces chlorophyll a and appears yellow"
+      ],
+      "answer": 0,
+      "explanation": "Loss of green chlorophyll reveals underlying carotenoids, which reflect yellow‑orange light, giving the characteristic autumn colour.",
+      "topic": "Role of chlorophyll"
+    },
+    {
+      "question": "Which accessory pigment in higher plants primarily expands the range of wavelengths absorbed beyond that of chlorophyll a?",
+      "options": [
+        "Carotenoids",
+        "Chlorophyll b",
+        "Phycocyanin",
+        "Anthocyanin"
+      ],
+      "answer": 0,
+      "explanation": "Carotenoids absorb light in the blue‑green region (400‑500 nm) where chlorophyll a absorbs poorly, thereby extending the usable spectrum.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "In higher plants, the main function of carotenoids as accessory pigments is to:",
+      "options": [
+        "Transfer electrons directly to NADP+",
+        "Protect chlorophyll from photo‑oxidative damage",
+        "Fix carbon dioxide",
+        "Synthesize ATP"
+      ],
+      "answer": 1,
+      "explanation": "Carotenoids quench triplet chlorophyll and singlet oxygen, preventing oxidative damage to the photosynthetic apparatus.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "Energy transfer from accessory pigments to chlorophyll a occurs via:",
+      "options": [
+        "Resonance energy transfer",
+        "Direct electron transfer",
+        "Photolysis of water",
+        "Chemiosmosis"
+      ],
+      "answer": 0,
+      "explanation": "Excitation energy captured by accessory pigments is transferred to chlorophyll a by Förster resonance energy transfer without electron movement.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "Which statement about the role of phycobilins in cyanobacteria is correct?",
+      "options": [
+        "They are the primary pigment for oxygen evolution",
+        "They absorb green light and transfer energy to chlorophyll a",
+        "They function as electron donors in the Z‑scheme",
+        "They are involved in carbon fixation"
+      ],
+      "answer": 1,
+      "explanation": "Phycobilins (e.g., phycocyanin) absorb green/yellow light and funnel the excitation energy to chlorophyll a in the reaction centre.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "Accessory pigments contribute to the action spectrum of photosynthesis by:",
+      "options": [
+        "Shifting the peak of chlorophyll a absorption",
+        "Extending photosynthetic activity to wavelengths not absorbed by chlorophyll a",
+        "Decreasing the quantum yield",
+        "Inhibiting photosystem II"
+      ],
+      "answer": 1,
+      "explanation": "By absorbing additional wavelengths, accessory pigments allow photosynthesis to occur under light conditions where chlorophyll a alone would be inefficient.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "During high light intensity, carotenoids dissipate excess energy as:",
+      "options": [
+        "Heat through the xanthophyll cycle",
+        "Fluorescence",
+        "Chemical reduction of NADPH",
+        "Generation of O₂"
+      ],
+      "answer": 0,
+      "explanation": "The xanthophyll cycle converts violaxanthin to zeaxanthin, which safely releases excess excitation energy as heat, protecting the photosystems.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "In the light‑harvesting complex II (LHCII), the presence of chlorophyll b (an accessory pigment) primarily serves to:",
+      "options": [
+        "Increase the rate of electron transport",
+        "Expand the range of light wavelengths absorbed",
+        "Catalyze the splitting of water",
+        "Bind the reaction‑center proteins"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll b absorbs light at ~453 nm and ~642 nm, complementing chlorophyll a and broadening the spectrum of usable light.",
+      "topic": "Role of accessory pigments"
+    },
+    {
+      "question": "Which range of wavelengths corresponds to the photons that provide the maximum energy per photon for driving the light‑dependent reactions of photosynthesis?",
+      "options": [
+        "400‑450 nm (violet)",
+        "500‑550 nm (green)",
+        "600‑650 nm (red)",
+        "700‑750 nm (far‑red)"
+      ],
+      "answer": 0,
+      "explanation": "Energy of a photon is inversely proportional to its wavelength (E = hc/λ). Shorter wavelengths (violet ~400‑450 nm) carry the highest energy, sufficient to drive the primary photochemical events in photosystem II.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "The action spectrum of photosynthesis in higher plants shows a peak in the red region. Which pigment is primarily responsible for this peak?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotenoids",
+        "Xanthophylls"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a absorbs strongly in the red (around 660 nm) and is the primary pigment that initiates charge separation, giving the action spectrum its red peak.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "Why is green light less effective in driving photosynthesis despite being present in sunlight?",
+      "options": [
+        "It is reflected by the leaf surface",
+        "Chlorophyll pigments absorb minimally in the green region",
+        "Green photons have insufficient energy to split water",
+        "Green light is absorbed by accessory pigments that dissipate energy as heat"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a and b have low absorbance in the 500‑570 nm range, so most green light is reflected or transmitted, making it less useful for photochemical reactions.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "In the light‑dependent reactions, the minimum photon energy required to split water (photolysis) corresponds to a wavelength of about:",
+      "options": [
+        "680 nm",
+        "700 nm",
+        "400 nm",
+        "500 nm"
+      ],
+      "answer": 2,
+      "explanation": "The redox potential needed for water oxidation requires photons of at least ~1.8 eV, which corresponds to wavelengths ≤ 400 nm (near‑UV). Longer wavelengths lack sufficient energy.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "When light intensity is increased beyond a certain point, the rate of photosynthesis no longer rises. Which of the following best explains this phenomenon?",
+      "options": [
+        "Saturation of the photosynthetic electron transport chain",
+        "Excess light damages chlorophyll molecules",
+        "CO₂ becomes the limiting substrate",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "At high light intensities, the photosynthetic apparatus becomes saturated; additionally, excess light can cause photoinhibition and CO₂ often becomes the limiting factor, so the overall rate plateaus.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "Accessory pigments such as carotenoids extend the usable light spectrum. What is their main contribution to the light‑energy conversion process?",
+      "options": [
+        "They transfer absorbed energy to chlorophyll a for photochemistry",
+        "They directly participate in the primary charge‑separation event",
+        "They increase the leaf’s reflectance to prevent overheating",
+        "They act as electron donors in the photosystem I reaction centre"
+      ],
+      "answer": 0,
+      "explanation": "Carotenoids absorb in the blue‑green region and efficiently transfer the excitation energy to chlorophyll a via resonance energy transfer, thereby expanding the range of usable light.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between the absorption spectrum and the action spectrum of a plant pigment system?",
+      "options": [
+        "The absorption spectrum shows wavelengths absorbed, while the action spectrum shows wavelengths that drive photosynthesis; they often overlap but are not identical",
+        "The absorption spectrum is always broader than the action spectrum because all absorbed light is used for photosynthesis",
+        "The action spectrum is a subset of the absorption spectrum that corresponds only to chlorophyll a",
+        "Both spectra are identical because every absorbed photon contributes equally to photosynthetic rate"
+      ],
+      "answer": 0,
+      "explanation": "The absorption spectrum indicates which wavelengths are taken up by pigments, whereas the action spectrum reflects the wavelengths that effectively drive photosynthesis. Overlap exists, but some absorbed light (e.g., by accessory pigments) may be dissipated as heat, so the spectra are not identical.",
+      "topic": "Light as an energy source"
+    },
+    {
+      "question": "How does carbon dioxide enter the leaf for photosynthesis?",
+      "options": [
+        "Through stomata by diffusion",
+        "Through the cuticle by active transport",
+        "Via root uptake and transport",
+        "Through plasmodesmata"
+      ],
+      "answer": 0,
+      "explanation": "CO2 diffuses from the atmosphere into the leaf interior through open stomata because it moves down its concentration gradient without requiring energy.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "In the light‑dependent reactions, water is split (photolysis). Which molecule is directly produced as a result of this process?",
+      "options": [
+        "NADPH",
+        "O₂",
+        "ATP",
+        "Glucose"
+      ],
+      "answer": 1,
+      "explanation": "Photolysis of H₂O yields electrons, protons, and molecular oxygen (O₂); the electrons are used to reduce NADP⁺ to NADPH, while O₂ is released to the atmosphere.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "In the overall photosynthetic equation 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂, what is the primary role of water?",
+      "options": [
+        "Electron donor in the light reactions",
+        "Carbon source for the carbohydrate",
+        "Source of the oxygen released",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Water donates electrons to photosystem II during the light reactions; the electrons ultimately reduce NADP⁺, and the oxygen atoms liberated become O₂. Water does not provide carbon for glucose.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "Which classic experiment demonstrated that carbon dioxide is an essential raw material for photosynthesis?",
+      "options": [
+        "Engvick's experiment with CO₂‑free air",
+        "Jan Ingenhousz’s light‑and‑water experiment",
+        "Hill reaction with isolated chloroplasts",
+        "Blackman’s law of limiting factors"
+      ],
+      "answer": 0,
+      "explanation": "Engvick showed that when CO₂ was removed from the air surrounding a leaf, photosynthetic oxygen evolution ceased, proving CO₂ is a necessary substrate.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "In C₃ plants, the first stable product formed after CO₂ fixation in the Calvin cycle is:",
+      "options": [
+        "3‑Phosphoglycerate",
+        "Phosphoenolpyruvate",
+        "Oxaloacetate",
+        "Ribulose‑1,5‑bisphosphate"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ combines with ribulose‑1,5‑bisphosphate (RuBP) to give an unstable six‑carbon intermediate that immediately splits into two molecules of 3‑phosphoglycerate (3‑PGA).",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "Which condition would most directly limit the rate of photosynthesis by restricting a raw material?",
+      "options": [
+        "Low atmospheric CO₂ concentration",
+        "Low light intensity",
+        "Low temperature",
+        "High humidity"
+      ],
+      "answer": 0,
+      "explanation": "A shortage of CO₂ reduces the substrate availability for the Calvin cycle, directly lowering the photosynthetic rate, whereas the other factors affect energy or enzyme kinetics.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "During the light reactions, the electrons derived from water ultimately reduce which molecule?",
+      "options": [
+        "NADP⁺ to NADPH",
+        "ADP to ATP",
+        "CO₂ to carbohydrate",
+        "O₂ to H₂O"
+      ],
+      "answer": 0,
+      "explanation": "Electrons from water are transferred through the photosynthetic electron transport chain to NADP⁺, forming NADPH, which is then used in the Calvin cycle for carbon fixation.",
+      "topic": "Carbon dioxide and water as raw materials"
+    },
+    {
+      "question": "Which of the following correctly represents the overall balanced chemical equation for oxygenic photosynthesis in plants?",
+      "options": [
+        "6CO2 + 6H2O → C6H12O6 + 6O2",
+        "6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O",
+        "6CO2 + 6O2 → C6H12O6 + 6H2O",
+        "12CO2 + 12H2O → 2C6H12O6 + 12O2"
+      ],
+      "answer": 0,
+      "explanation": "The overall equation for oxygenic photosynthesis is 6CO2 + 6H2O → C6H12O6 + 6O2, showing the conversion of carbon dioxide and water into glucose and oxygen.",
+      "topic": "Overall photosynthesis equation"
+    },
+    {
+      "question": "In the overall photosynthetic equation, the number of molecules of oxygen released is equal to the number of molecules of which reactant?",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Glucose",
+        "Light photons"
+      ],
+      "answer": 1,
+      "explanation": "Molecular oxygen is produced from the splitting of water; therefore, six O2 molecules are generated from six H2O molecules.",
+      "topic": "Overall photosynthesis equation"
+    },
+    {
+      "question": "According to the overall equation, how many molecules of water are consumed per molecule of glucose synthesized?",
+      "options": [
+        "6",
+        "12",
+        "3",
+        "1"
+      ],
+      "answer": 0,
+      "explanation": "The balanced equation shows 6 H2O molecules on the reactant side for the formation of one C6H12O6 molecule.",
+      "topic": "Overall photosynthesis equation"
+    },
+    {
+      "question": "Which statement about the overall photosynthetic equation is FALSE?",
+      "options": [
+        "It represents a light‑dependent process.",
+        "Oxygen is produced from carbon dioxide.",
+        "Water is a source of electrons.",
+        "It is a net equation after subtracting the light‑dependent reactions."
+      ],
+      "answer": 1,
+      "explanation": "Oxygen released during photosynthesis originates from water, not from carbon dioxide; the false statement is that oxygen is produced from CO2.",
+      "topic": "Overall photosynthesis equation"
+    },
+    {
+      "question": "If a leaf produces 10 moles of O2 per hour under optimal light, how many moles of CO2 are fixed in the same period according to the overall equation?",
+      "options": [
+        "10 moles",
+        "5 moles",
+        "20 moles",
+        "0.5 moles"
+      ],
+      "answer": 0,
+      "explanation": "The overall equation shows a 1:1 molar ratio between O2 produced and CO2 consumed; thus 10 moles of O2 correspond to 10 moles of CO2 fixed.",
+      "topic": "Overall photosynthesis equation"
+    },
+    {
+      "question": "Which factor, when increased from low to optimal levels, enhances the rate of photosynthesis but causes a decline beyond the optimum due to enzyme denaturation?",
+      "options": [
+        "Light intensity",
+        "Temperature",
+        "CO₂ concentration",
+        "Water availability"
+      ],
+      "answer": 1,
+      "explanation": "Photosynthetic enzymes, especially Rubisco, have an optimum temperature; beyond this, their activity decreases due to denaturation, reducing the photosynthetic rate.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "At the light‑saturation point, the rate of photosynthesis becomes independent of further increase in light intensity because it is limited by which factor?",
+      "options": [
+        "Light intensity",
+        "CO₂ concentration",
+        "Temperature",
+        "Water availability"
+      ],
+      "answer": 1,
+      "explanation": "When light is no longer limiting, the Calvin cycle is constrained by the availability of CO₂, making the rate independent of additional light.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "An increase in which factor directly accelerates the carboxylation step of the Calvin cycle?",
+      "options": [
+        "Light absorption",
+        "ATP synthesis",
+        "CO₂ concentration",
+        "Water splitting"
+      ],
+      "answer": 2,
+      "explanation": "The carboxylation step is catalyzed by Rubisco and depends directly on the concentration of CO₂ in the stroma.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "Which raw material supplies the electrons and protons required for the light‑dependent reactions of photosynthesis?",
+      "options": [
+        "Water",
+        "Carbon dioxide",
+        "Light photons",
+        "Chlorophyll"
+      ],
+      "answer": 0,
+      "explanation": "Water is split (photolysis) in photosystem II, providing electrons, protons, and O₂ as a by‑product.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "Which region of the visible spectrum is most effective in driving photosynthesis because it is strongly absorbed by chlorophyll a?",
+      "options": [
+        "Green (500‑570 nm)",
+        "Red (≈660 nm)",
+        "Blue (≈450 nm)",
+        "Infrared (>700 nm)"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll a absorbs maximally in the red region (~660 nm), making red light highly effective for photosynthesis.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "Compared to mature leaves, younger leaves generally exhibit a higher photosynthetic rate because they contain:",
+      "options": [
+        "More stomata per unit area",
+        "Higher chlorophyll content",
+        "Thicker cuticle",
+        "More lignin"
+      ],
+      "answer": 1,
+      "explanation": "Young leaves have higher chlorophyll concentration and more active photosynthetic apparatus, leading to greater rates.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "When temperature rises above the optimum for photosynthesis, which process increases, thereby reducing net carbon fixation?",
+      "options": [
+        "ATP synthesis",
+        "Photorespiration",
+        "Stomatal opening",
+        "Chlorophyll synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Elevated temperature favors the oxygenation activity of Rubisco, increasing photorespiration and decreasing net photosynthetic efficiency.",
+      "topic": "Factors affecting photosynthesis overview"
+    },
+    {
+      "question": "Which historical experiment first demonstrated that light is essential for oxygen evolution from water in plants?",
+      "options": [
+        "Priestley's mouse experiment",
+        "Ingenhousz's aquatic plant experiment",
+        "Hill's isolated chloroplast experiment",
+        "Blackman's limiting factor experiment"
+      ],
+      "answer": 1,
+      "explanation": "Ingenhousz (1779) showed that submerged aquatic plants released bubbles of gas (later identified as O2) only when exposed to light, establishing the role of light in photosynthesis.",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "Engelmann's classic experiment to map the action spectrum of photosynthesis used a prism to split light and which organism to indicate regions of highest photosynthetic activity?",
+      "options": [
+        "Euglena",
+        "Chlorella",
+        "Purple sulfur bacteria (Chromatium)",
+        "Algae Spirogyra"
+      ],
+      "answer": 2,
+      "explanation": "Engelmann (1883) placed a prism over a filamentous alga and spread purple sulfur bacteria on the slide; the bacteria accumulated where light of specific wavelengths was most effective, revealing the action spectrum.",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "Robert Hill's 1937 experiment with isolated chloroplasts demonstrated light‑driven oxygen evolution in the presence of which artificial electron acceptor?",
+      "options": [
+        "NADP+",
+        "Ferricyanide",
+        "Oxygen",
+        "Water"
+      ],
+      "answer": 1,
+      "explanation": "Hill showed that isolated chloroplasts could evolve O2 when illuminated in the presence of ferricyanide, which accepts electrons from the photosynthetic electron transport chain (the Hill reaction).",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "Van Niel's experiments with photosynthetic bacteria concluded that photosynthesis is a light‑driven redox process using which electron donor?",
+      "options": [
+        "Water",
+        "Hydrogen sulfide",
+        "Carbon dioxide",
+        "NADPH"
+      ],
+      "answer": 1,
+      "explanation": "Van Niel (1931) demonstrated that purple sulfur bacteria use H2S as the electron donor, producing elemental sulfur and later O2 in oxygenic photosynthesis, establishing the general redox nature of photosynthesis.",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "Blackman's law of limiting factors, derived from his experiments, states that the rate of photosynthesis is limited by the scarcest of which two factors?",
+      "options": [
+        "Light intensity and temperature",
+        "CO₂ concentration and light intensity",
+        "Water availability and light intensity",
+        "Chlorophyll content and CO₂ concentration"
+      ],
+      "answer": 1,
+      "explanation": "Blackman (1905) varied light intensity and CO₂ levels and found that the slower factor (either light or CO₂) limits the overall photosynthetic rate.",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "In Ingenhousz's experiment with a submerged plant, what observation was made when the aerial parts were exposed to light?",
+      "options": [
+        "Bubbles of O₂ formed only on submerged parts",
+        "Bubbles of O₂ formed only on aerial parts",
+        "No gas evolution in light",
+        "Bubbles of CO₂ formed"
+      ],
+      "answer": 1,
+      "explanation": "Ingenhousz observed that only the parts of the plant exposed to light (aerial parts) released bubbles of gas, later identified as O₂, confirming light‑dependent oxygen evolution.",
+      "topic": "Historical experiments in photosynthesis"
+    },
+    {
+      "question": "Priestley's 1772 experiment with a candle and a mouse in a sealed container demonstrated that plants:",
+      "options": [
+        "Produce O₂",
+        "Consume O₂",
+        "Light alone can sustain a candle",
+        "CO₂ is toxic to mice"
+      ],
+      "answer": 0,
+      "explanation": "Priestley showed that a candle could be relit and a mouse survived after a plant was placed in the container, indicating that plants restore the 'good' air (oxygen) that supports combustion and respiration.",
+      "topic": "Historical experiments in photosynthesis"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 17,
+    "mcqCount": 116
+  }
+}

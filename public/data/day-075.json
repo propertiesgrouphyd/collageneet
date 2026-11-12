@@ -1,0 +1,3537 @@
+{
+  "day": 75,
+  "courseDate": "2026-11-12",
+  "publishAt": "2026-11-12T06:00:00+05:30",
+  "title": "Day 75: Muscles, Muscle Contraction and Movement Disorders",
+  "introduction": "This lesson covers the structure, types and functional mechanisms of muscles, the biochemical basis of contraction, and common muscular and skeletal disorders relevant for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Types of muscles",
+      "heading": "Classification of Muscles",
+      "content": "Muscles are classified into three types based on control and striation: skeletal (voluntary, striated), smooth (involuntary, non‑striated) and cardiac (involuntary, striated with intercalated discs).",
+      "keyPoints": [
+        "Skeletal – attached to bones, voluntary",
+        "Smooth – walls of hollow organs, involuntary",
+        "Cardiac – heart muscle, involuntary with unique intercalated discs"
+      ],
+      "neetTips": [
+        "Remember the three‑type table for quick comparison in diagrams"
+      ]
+    },
+    {
+      "topic": "Skeletal muscle",
+      "heading": "Skeletal Muscle Characteristics",
+      "content": "Skeletal muscle fibers are multinucleated, cylindrical, and exhibit transverse striations. They are attached to bones via tendons and generate force for body movement.",
+      "keyPoints": [
+        "Multinucleated, striated, voluntary",
+        "Attached to skeleton via tendons",
+        "High glycogen, fast fatigue resistance in white fibers"
+      ],
+      "neetTips": [
+        "Link skeletal muscle to voluntary movement and NEET diagram of a muscle fiber"
+      ]
+    },
+    {
+      "topic": "Smooth muscle",
+      "heading": "Smooth Muscle Features",
+      "content": "Smooth muscle cells are spindle‑shaped, uninucleated, lack striations, and are controlled by autonomic nervous system, hormones and local factors, facilitating peristalsis and vascular tone.",
+      "keyPoints": [
+        "Unstriated, single nucleus",
+        "Found in walls of hollow organs",
+        "Slow contraction, fatigue‑resistant"
+      ],
+      "neetTips": [
+        "Focus on lack of sarcomeres when answering NCERT diagram questions"
+      ]
+    },
+    {
+      "topic": "Cardiac muscle",
+      "heading": "Cardiac Muscle Attributes",
+      "content": "Cardiac muscle cells are branched, striated, possess a single central nucleus, and are interconnected by intercalated discs containing gap junctions and desmosomes, enabling synchronized contraction.",
+      "keyPoints": [
+        "Striated, involuntary",
+        "Intercalated discs with gap junctions",
+        "Autorhythmicity via SA node"
+      ],
+      "neetTips": [
+        "Highlight intercalated discs as a distinguishing feature"
+      ]
+    },
+    {
+      "topic": "Muscle fibre structure",
+      "heading": "Organization of a Muscle Fibre",
+      "content": "A muscle fibre consists of the sarcolemma, sarcoplasm, myofibrils, and numerous nuclei. Myofibrils are composed of repeating sarcomeres, the basic contractile units.",
+      "keyPoints": [
+        "Sarcolemma – plasma membrane",
+        "Sarcoplasm – cytoplasm with glycogen",
+        "Myofibrils contain sarcomeres"
+      ],
+      "neetTips": [
+        "Visualize the hierarchy: fibre → myofibril → sarcomere"
+      ]
+    },
+    {
+      "topic": "Sarcolemma",
+      "heading": "Sarcolemma Overview",
+      "content": "The sarcolemma is the specialized plasma membrane of a muscle fibre, rich in glycoproteins and invaginations (T‑tubules) that transmit action potentials deep into the fibre.",
+      "keyPoints": [
+        "Conducts impulses",
+        "Forms T‑tubules",
+        "Contains receptors for acetylcholine"
+      ],
+      "neetTips": [
+        "Link sarcolemma to neuromuscular junction transmission"
+      ]
+    },
+    {
+      "topic": "Sarcoplasm",
+      "heading": "Sarcoplasm Details",
+      "content": "Sarcoplasm is the cytoplasm of a muscle fibre, containing abundant mitochondria, glycogen granules, myoglobin, and the sarcoplasmic reticulum (SR) for calcium storage.",
+      "keyPoints": [
+        "High mitochondria for ATP"
+      ],
+      "neetTips": [
+        "Myoglobin gives red colour – important for red vs white fibres"
+      ]
+    },
+    {
+      "topic": "Myofibrils",
+      "heading": "Myofibril Composition",
+      "content": "Myofibrils are long, cylindrical organelles composed of alternating thick (myosin) and thin (actin) filaments arranged into sarcomeres, giving the striated appearance.",
+      "keyPoints": [
+        "Parallel arrangement of sarcomeres",
+        "Responsible for contraction"
+      ],
+      "neetTips": [
+        "Remember myofibrils run the length of the fibre"
+      ]
+    },
+    {
+      "topic": "Myofilaments",
+      "heading": "Thick and Thin Myofilaments",
+      "content": "Myofilaments are the protein filaments within sarcomeres: thick filaments are primarily myosin; thin filaments consist of actin, tropomyosin and troponin complexes.",
+      "keyPoints": [
+        "Thick = myosin, thin = actin‑troponin‑tropomyosin"
+      ],
+      "neetTips": [
+        "Associate thick with motor activity, thin with regulatory proteins"
+      ]
+    },
+    {
+      "topic": "Actin",
+      "heading": "Actin Structure and Role",
+      "content": "Actin is a globular (G‑actin) protein that polymerizes to form filamentous (F‑actin) thin filaments, providing binding sites for myosin heads during contraction.",
+      "keyPoints": [
+        "Forms the backbone of thin filament"
+      ],
+      "neetTips": [
+        "Actin polarity (plus/minus ends) is essential for directionality"
+      ]
+    },
+    {
+      "topic": "Myosin",
+      "heading": "Myosin Molecule",
+      "content": "Myosin is a motor protein with a head (ATPase activity), neck and tail region. The heads bind actin and hydrolyse ATP to generate force.",
+      "keyPoints": [
+        "Head contains ATPase"
+      ],
+      "neetTips": [
+        "Myosin heads perform power stroke"
+      ]
+    },
+    {
+      "topic": "Sarcomere",
+      "heading": "Sarcomere – Functional Unit",
+      "content": "A sarcomere is the segment between two successive Z‑lines, containing overlapping thick and thin filaments. It defines the contractile length of muscle.",
+      "keyPoints": [
+        "Z‑line to Z‑line"
+      ],
+      "neetTips": [
+        "All striated muscle bands are defined by sarcomere layout"
+      ]
+    },
+    {
+      "topic": "Z line",
+      "heading": "Z‑Line Description",
+      "content": "The Z‑line (or Z‑disc) anchors the plus ends of thin filaments and connects adjacent sarcomeres, providing structural stability.",
+      "keyPoints": [
+        "Anchors actin"
+      ],
+      "neetTips": [
+        "Z‑line appears as a dark line in light microscopy"
+      ]
+    },
+    {
+      "topic": "A band",
+      "heading": "A Band Characteristics",
+      "content": "The A band corresponds to the length of the thick filaments; it includes regions of overlap with thin filaments and a central H zone where only thick filaments exist.",
+      "keyPoints": [
+        "Constant length during contraction"
+      ],
+      "neetTips": [
+        "A band does not change length"
+      ]
+    },
+    {
+      "topic": "I band",
+      "heading": "I Band Features",
+      "content": "The I band contains only thin filaments and shortens during contraction as the overlap with thick filaments increases.",
+      "keyPoints": [
+        "Contains only actin"
+      ],
+      "neetTips": [
+        "I band length decreases on contraction"
+      ]
+    },
+    {
+      "topic": "H zone",
+      "heading": "H Zone Explanation",
+      "content": "The H zone is the central part of the A band where only thick filaments are present; it diminishes as contraction proceeds.",
+      "keyPoints": [
+        "Absent of thin filaments"
+      ],
+      "neetTips": [
+        "H zone disappears at maximal overlap"
+      ]
+    },
+    {
+      "topic": "M line",
+      "heading": "M Line Details",
+      "content": "The M line lies at the centre of the sarcomere, where the central portions of thick filaments are linked by proteins such as myomesin, stabilising the arrangement.",
+      "keyPoints": [
+        "Mid‑A band anchoring"
+      ],
+      "neetTips": [
+        "M line is less prominent in diagrams"
+      ]
+    },
+    {
+      "topic": "Sliding filament theory",
+      "heading": "Sliding Filament Theory Overview",
+      "content": "During contraction, thin filaments slide over thick filaments, increasing their overlap. The sarcomere shortens while A band length remains constant.",
+      "keyPoints": [
+        "Filament sliding, not shortening"
+      ],
+      "neetTips": [
+        "Focus on A band unchanged, I band shortens"
+      ]
+    },
+    {
+      "topic": "Neuromuscular junction",
+      "heading": "Neuromuscular Junction (NMJ)",
+      "content": "The NMJ is the synapse between a motor neuron terminal and the muscle fibre sarcolemma, where acetylcholine is released to trigger an action potential.",
+      "keyPoints": [
+        "Motor end‑plate"
+      ],
+      "neetTips": [
+        "Remember the motor end‑plate folds increase surface area"
+      ]
+    },
+    {
+      "topic": "Motor neuron",
+      "heading": "Motor Neuron Role",
+      "content": "A motor neuron transmits an impulse from the spinal cord to the muscle fibre, releasing acetylcholine at its terminal upon depolarisation.",
+      "keyPoints": [
+        "Excitatory signal"
+      ],
+      "neetTips": [
+        "One motor neuron innervates multiple fibres – a motor unit"
+      ]
+    },
+    {
+      "topic": "Acetylcholine",
+      "heading": "Acetylcholine (ACh) Function",
+      "content": "ACh binds to nicotinic receptors on the sarcolemma, opening Na⁺ channels, generating an end‑plate potential that propagates as an action potential.",
+      "keyPoints": [
+        "Ligand‑gated ion channel"
+      ],
+      "neetTips": [
+        "AChE rapidly hydrolyses ACh to terminate signal"
+      ]
+    },
+    {
+      "topic": "Calcium ions",
+      "heading": "Calcium in Contraction",
+      "content": "Calcium released from the sarcoplasmic reticulum binds to troponin C, causing a conformational shift that moves tropomyosin away from actin’s myosin‑binding sites.",
+      "keyPoints": [
+        "Triggers cross‑bridge formation"
+      ],
+      "neetTips": [
+        "Ca²⁺ concentration rise is the key switch"
+      ]
+    },
+    {
+      "topic": "Troponin",
+      "heading": "Troponin Complex",
+      "content": "Troponin is a three‑subunit complex (TnC, TnI, TnT). TnC binds Ca²⁺, TnI inhibits actin‑myosin interaction, and TnT attaches the complex to tropomyosin.",
+      "keyPoints": [
+        "Ca²⁺ binding site on TnC"
+      ],
+      "neetTips": [
+        "Remember the three subunits for diagram labeling"
+      ]
+    },
+    {
+      "topic": "Tropomyosin",
+      "heading": "Tropomyosin Role",
+      "content": "Tropomyosin is a long, thin protein that lies in the grooves of actin filaments, blocking myosin‑binding sites in the resting state and uncovering them upon Ca²⁺‑induced shift.",
+      "keyPoints": [
+        "Regulatory filament"
+      ],
+      "neetTips": [
+        "Shift of tropomyosin is central to contraction"
+      ]
+    },
+    {
+      "topic": "Cross-bridge formation",
+      "heading": "Cross‑Bridge Cycle Initiation",
+      "content": "When myosin heads bind to exposed actin sites, a cross‑bridge forms, setting the stage for the power stroke powered by ATP hydrolysis.",
+      "keyPoints": [
+        "Myosin‑actin attachment"
+      ],
+      "neetTips": [
+        "Cross‑bridge = myosin head + actin"
+      ]
+    },
+    {
+      "topic": "ATP in muscle contraction",
+      "heading": "ATP Requirement",
+      "content": "ATP binds to myosin heads, causing their detachment from actin; hydrolysis of ATP to ADP + Pi re‑energises the head for the next power stroke.",
+      "keyPoints": [
+        "ATP binds, hydrolyses, resets"
+      ],
+      "neetTips": [
+        "No ATP → rigor mortis"
+      ]
+    },
+    {
+      "topic": "Power stroke",
+      "heading": "Power Stroke Mechanics",
+      "content": "Release of Pi from the myosin‑ADP‑Pi complex induces the myosin head to pivot, pulling the actin filament toward the M line, shortening the sarcomere.",
+      "keyPoints": [
+        "ADP + Pi release drives movement"
+      ],
+      "neetTips": [
+        "Power stroke = 5–10 nm displacement"
+      ]
+    },
+    {
+      "topic": "Relaxation of muscle",
+      "heading": "Muscle Relaxation Process",
+      "content": "Ca²⁺ is actively pumped back into the sarcoplasmic reticulum by Ca²⁺‑ATPase; tropomyosin re‑covers binding sites, and the muscle returns to its resting length.",
+      "keyPoints": [
+        "Ca²⁺ re‑uptake"
+      ],
+      "neetTips": [
+        "Energy‑dependent step – important for fatigue"
+      ]
+    },
+    {
+      "topic": "Red and white muscle fibres",
+      "heading": "Fiber Types",
+      "content": "Red (type I) fibres are oxidative, rich in myoglobin and mitochondria, fatigue‑resistant. White (type II) fibres are glycolytic, less myoglobin, generate rapid, powerful contractions but fatigue quickly.",
+      "keyPoints": [
+        "Type I – aerobic, endurance",
+        "Type II – anaerobic, strength"
+      ],
+      "neetTips": [
+        "Link fibre colour to myoglobin content"
+      ]
+    },
+    {
+      "topic": "Muscle fatigue",
+      "heading": "Causes of Muscle Fatigue",
+      "content": "Fatigue arises from depletion of ATP, accumulation of inorganic phosphate and lactic acid, and impaired Ca²⁺ release/re‑uptake, reducing force output.",
+      "keyPoints": [
+        "ATP depletion, metabolite buildup"
+      ],
+      "neetTips": [
+        "Remember lactic acid buildup in anaerobic conditions"
+      ]
+    },
+    {
+      "topic": "Disorders of muscular and skeletal systems",
+      "heading": "Overview of Muscular & Skeletal Disorders",
+      "content": "Common disorders include neuromuscular junction diseases (myasthenia gravis), genetic muscle degeneration (muscular dystrophy), electrolyte imbalance (tetany), and skeletal joint diseases (arthritis, osteoporosis, gout).",
+      "keyPoints": [
+        "Broad categories"
+      ],
+      "neetTips": [
+        "Group disorders by primary tissue affected"
+      ]
+    },
+    {
+      "topic": "Myasthenia gravis",
+      "heading": "Myasthenia Gravis Pathophysiology",
+      "content": "Auto‑antibodies target nicotinic ACh receptors at the NMJ, reducing receptor availability, leading to muscle weakness that worsens with activity.",
+      "keyPoints": [
+        "Anti‑AChR antibodies"
+      ],
+      "neetTips": [
+        "Key NEET fact: improves with anticholinesterase drugs"
+      ]
+    },
+    {
+      "topic": "Muscular dystrophy",
+      "heading": "Muscular Dystrophy Overview",
+      "content": "A group of X‑linked genetic disorders (e.g., Duchenne) caused by mutations in dystrophin gene, leading to progressive muscle degeneration and weakness.",
+      "keyPoints": [
+        "Dystrophin deficiency"
+      ],
+      "neetTips": [
+        "Duchenne presents before age 5"
+      ]
+    },
+    {
+      "topic": "Tetany",
+      "heading": "Tetany Mechanism",
+      "content": "Tetany results from hypocalcemia, increasing neuronal excitability and causing involuntary muscle spasms; often linked to parathyroid deficiency.",
+      "keyPoints": [
+        "Low serum Ca²⁺"
+      ],
+      "neetTips": [
+        "Remember Chvostek’s and Trousseau’s signs"
+      ]
+    },
+    {
+      "topic": "Arthritis",
+      "heading": "Arthritis Types",
+      "content": "Arthritis is inflammation of joints; osteoarthritis involves cartilage wear, while rheumatoid arthritis is autoimmune synovial inflammation.",
+      "keyPoints": [
+        "Degenerative vs autoimmune"
+      ],
+      "neetTips": [
+        "Distinguish by presence of systemic symptoms"
+      ]
+    },
+    {
+      "topic": "Osteoporosis",
+      "heading": "Osteoporosis Features",
+      "content": "A systemic skeletal disease characterized by reduced bone mass and microarchitectural deterioration, increasing fracture risk; estrogen deficiency is a major cause.",
+      "keyPoints": [
+        "Low bone density"
+      ],
+      "neetTips": [
+        "Peak bone mass achieved by early adulthood"
+      ]
+    },
+    {
+      "topic": "Gout",
+      "heading": "Gout Pathogenesis",
+      "content": "Gout is caused by deposition of monosodium urate crystals in joints due to hyperuricemia, leading to acute inflammatory arthritis.",
+      "keyPoints": [
+        "Uric acid crystals"
+      ],
+      "neetTips": [
+        "Needle‑shaped crystals, negatively birefringent"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Understand the important NEET concepts, facts, and applications covered in Muscles, Muscle Contraction and Movement Disorders."
+  ],
+  "mcqs": [
+    {
+      "question": "Which type of muscle is involuntary, spindle‑shaped, and has a single centrally located nucleus?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Mixed muscle"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle cells are non‑striated, involuntary, spindle‑shaped and contain a single nucleus positioned centrally.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Which muscle type contains intercalated discs with gap junctions and desmosomes that synchronize contraction?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All three types"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs are characteristic of cardiac muscle and house gap junctions and desmosomes for coordinated contraction.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Which statement correctly distinguishes skeletal muscle from cardiac muscle?",
+      "options": [
+        "Skeletal muscle fibers are multinucleated, whereas cardiac muscle cells are mononucleated.",
+        "Both are striated, but skeletal muscle is involuntary and cardiac muscle is voluntary.",
+        "Skeletal muscle contracts slower than cardiac muscle.",
+        "Skeletal muscle lacks a sarcoplasmic reticulum."
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers are multinucleated and arise from the fusion of myoblasts, while cardiac muscle cells typically have a single nucleus.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Contraction in which muscle type primarily involves calmodulin rather than the troponin‑tropomyosin complex?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All three muscle types"
+      ],
+      "answer": 2,
+      "explanation": "In smooth muscle, calcium binds to calmodulin, which then activates myosin light‑chain kinase; troponin‑tropomyosin is absent.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Which muscle type has the highest mitochondrial density and richest capillary supply, giving it great fatigue resistance?",
+      "options": [
+        "Skeletal red (slow‑twitch) fibers",
+        "Skeletal white (fast‑twitch) fibers",
+        "Cardiac muscle",
+        "Smooth muscle"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle cells contain abundant mitochondria and a dense capillary network to meet continuous high‑energy demand.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Arrange the nuclei distribution in skeletal, cardiac and smooth muscle respectively:",
+      "options": [
+        "Multinucleated, single peripheral nucleus, single central nucleus",
+        "Multinucleated, single central nucleus, single peripheral nucleus",
+        "Single peripheral nucleus, multinucleated, single central nucleus",
+        "Single central nucleus, multinucleated, single peripheral nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers are multinucleated with peripheral nuclei; cardiac muscle cells have a single peripheral nucleus; smooth muscle cells have a single central nucleus.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Which muscle type can generate spontaneous action potentials without neural input?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All three muscle types"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac pacemaker cells (e.g., SA node) possess automaticity and can depolarize spontaneously, unlike skeletal or most smooth muscle.",
+      "topic": "Types of muscles"
+    },
+    {
+      "question": "Which structure of the sarcomere serves as the anchoring point for the thin (actin) filaments?",
+      "options": [
+        "Z line",
+        "M line",
+        "A band",
+        "H zone"
+      ],
+      "answer": 0,
+      "explanation": "The Z line (or Z disc) is the boundary of each sarcomere where the plus ends of actin filaments are attached, anchoring the thin filaments.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "During muscle contraction, which of the following sarcomeric regions decreases in length?",
+      "options": [
+        "I band",
+        "A band",
+        "H zone",
+        "Z line"
+      ],
+      "answer": 2,
+      "explanation": "When cross‑bridges form, the overlapping region of thick and thin filaments increases, causing the H zone (central region of only thick filaments) to become shorter.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "An increase in the concentration of which ion in the sarcoplasm is the primary trigger for skeletal muscle contraction?",
+      "options": [
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)",
+        "Calcium (Ca²⁺)",
+        "Magnesium (Mg²⁺)"
+      ],
+      "answer": 2,
+      "explanation": "Depolarisation of the muscle membrane opens voltage‑gated Ca²⁺ channels in the sarcoplasmic reticulum, releasing Ca²⁺ into the sarcoplasm and initiating contraction.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Troponin C, a subunit of the troponin complex, binds which ion to cause the movement of tropomyosin away from actin’s myosin‑binding sites?",
+      "options": [
+        "Calcium (Ca²⁺)",
+        "Magnesium (Mg²⁺)",
+        "Sodium (Na⁺)",
+        "Potassium (K⁺)"
+      ],
+      "answer": 0,
+      "explanation": "Ca²⁺ binds to the regulatory subunit troponin C, inducing a conformational change that shifts tropomyosin and exposes the myosin‑binding sites on actin.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Which statement correctly describes the role of ATP in the cross‑bridge cycle of skeletal muscle?",
+      "options": [
+        "ATP binds to the myosin head causing its detachment from actin",
+        "ATP binds to actin to initiate the power stroke",
+        "ATP hydrolysis provides the energy required for the power stroke",
+        "ATP is not required for muscle relaxation"
+      ],
+      "answer": 2,
+      "explanation": "Hydrolysis of ATP on the myosin head converts chemical energy into mechanical energy, priming the head for the power stroke after it re‑attaches to actin.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Red (type I) skeletal muscle fibers are distinguished primarily by which characteristic?",
+      "options": [
+        "High myoglobin content",
+        "High glycogen stores",
+        "Fast contraction speed",
+        "Low mitochondrial density"
+      ],
+      "answer": 0,
+      "explanation": "Type I fibers are oxidative, contain abundant myoglobin giving them a red colour, have many mitochondria, and are fatigue‑resistant but contract slowly.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Myasthenia gravis, a disorder affecting skeletal muscle function, is caused by auto‑antibodies against which component at the neuromuscular junction?",
+      "options": [
+        "Acetylcholine itself",
+        "Acetylcholinesterase enzyme",
+        "Nicotinic acetylcholine receptor",
+        "Voltage‑gated calcium channels"
+      ],
+      "answer": 2,
+      "explanation": "In myasthenia gravis, antibodies target the nicotinic acetylcholine receptors on the post‑synaptic muscle membrane, reducing the number of functional receptors and leading to weakness.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Which protein acts as the primary calcium sensor that initiates contraction in smooth muscle cells?",
+      "options": [
+        "Myosin light chain kinase",
+        "Troponin C",
+        "Calmodulin",
+        "Tropomyosin"
+      ],
+      "answer": 2,
+      "explanation": "In smooth muscle, Ca²⁺ binds to calmodulin; the Ca²⁺‑calmodulin complex then activates myosin light chain kinase, leading to phosphorylation of myosin and contraction.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "The regulatory proteins troponin and tropomyosin are:",
+      "options": [
+        "Present on actin filaments of smooth muscle",
+        "Absent in smooth muscle fibers",
+        "Present only in cardiac muscle",
+        "Present only in skeletal muscle"
+      ],
+      "answer": 1,
+      "explanation": "Smooth muscle lacks the troponin‑tropomyosin regulatory system; contraction is regulated by the Ca²⁺‑calmodulin‑MLCK pathway instead.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "The \"latch state\" of smooth muscle is characterized by:",
+      "options": [
+        "High ATP consumption with rapid shortening",
+        "Low ATP consumption while maintaining tension",
+        "Rapid relaxation after a brief contraction",
+        "Calcium‑independent contraction mediated by myosin phosphatase"
+      ],
+      "answer": 1,
+      "explanation": "During the latch state, myosin heads remain attached to actin for a prolonged period with minimal ATP use, allowing sustained tension with low energy cost.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Visceral smooth muscle is primarily controlled by which type of innervation?",
+      "options": [
+        "Somatic motor neurons",
+        "Autonomic sympathetic nerves",
+        "Autonomic parasympathetic nerves",
+        "Both sympathetic and parasympathetic nerves"
+      ],
+      "answer": 3,
+      "explanation": "Visceral smooth muscle receives autonomic input from both sympathetic and parasympathetic divisions, which modulate its tone and activity.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Slow wave potentials that generate rhythmic contractions in gastrointestinal smooth muscle originate from:",
+      "options": [
+        "Voltage‑gated Na⁺ channels in smooth muscle cells",
+        "L‑type Ca²⁺ channels in smooth muscle membranes",
+        "Ca²⁺ channels of interstitial cells of Cajal (pacemaker cells)",
+        "ATP‑sensitive K⁺ channels"
+      ],
+      "answer": 2,
+      "explanation": "The interstitial cells of Cajal act as pacemakers; their Ca²⁺ channels produce slow wave depolarizations that spread to adjacent smooth muscle cells.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which statement correctly differentiates smooth muscle from skeletal muscle?",
+      "options": [
+        "Smooth muscle cells are multinucleated",
+        "Skeletal muscle cells contain dense bodies",
+        "Smooth muscle contraction is regulated by troponin",
+        "Skeletal muscle fibers are striated"
+      ],
+      "answer": 3,
+      "explanation": "Skeletal muscle fibers display transverse striations due to organized sarcomeres, whereas smooth muscle lacks such striations.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which agent would most likely cause relaxation of smooth muscle by raising intracellular cAMP levels?",
+      "options": [
+        "Norepinephrine acting on α₁ receptors",
+        "Vasopressin",
+        "Isoproterenol (β‑adrenergic agonist)",
+        "Angiotensin II"
+      ],
+      "answer": 2,
+      "explanation": "β‑adrenergic stimulation by isoproterenol increases cAMP, activating protein kinase A, which phosphorylates and inhibits myosin light chain kinase, leading to smooth muscle relaxation.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which structure in cardiac intercalated discs primarily provides mechanical coupling between adjacent cardiomyocytes?",
+      "options": [
+        "Desmosomes",
+        "Gap junctions",
+        "Hemidesmosomes",
+        "Tight junctions"
+      ],
+      "answer": 0,
+      "explanation": "Desmosomes anchor the intermediate filaments of adjacent cells, ensuring strong mechanical linkage during contraction.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "The pacemaker action potential of the sinoatrial (SA) node lacks which phase that is present in ventricular cardiac muscle action potentials?",
+      "options": [
+        "Phase 0 rapid depolarization",
+        "Phase 1 initial repolarization",
+        "Phase 2 plateau",
+        "Phase 4 resting potential"
+      ],
+      "answer": 2,
+      "explanation": "SA node action potentials do not exhibit the prolonged plateau (Phase 2) seen in ventricular myocytes; instead they have a gradual depolarization (Phase 4).",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "In cardiac muscle, the rise in intracellular Ca²⁺ that triggers contraction is mainly due to which mechanism?",
+      "options": [
+        "Release from sarcoplasmic reticulum via ryanodine receptors",
+        "Influx through L-type Ca²⁺ channels (calcium‑induced calcium release)",
+        "Direct binding to troponin C from extracellular Ca²⁺",
+        "Sodium‑calcium exchanger reversal"
+      ],
+      "answer": 1,
+      "explanation": "Entry of Ca²⁺ through L‑type channels triggers further Ca²⁺ release from the sarcoplasmic reticulum, a process called calcium‑induced calcium release.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which statement correctly distinguishes cardiac muscle from skeletal muscle?",
+      "options": [
+        "Cardiac muscle fibers are multinucleated",
+        "Cardiac muscle has a well‑developed T‑tubule system",
+        "Cardiac muscle contraction is under voluntary control",
+        "Cardiac muscle exhibits automaticity"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac muscle cells are capable of spontaneous depolarization (automaticity), unlike skeletal muscle which requires neural stimulation.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "The prolonged refractory period of cardiac muscle, preventing tetanic contraction, is mainly due to the prolonged opening of which ion channel?",
+      "options": [
+        "Fast Na⁺ channels",
+        "L‑type Ca²⁺ channels",
+        "Delayed rectifier K⁺ channels",
+        "Funny (If) channels"
+      ],
+      "answer": 1,
+      "explanation": "L‑type Ca²⁺ channels remain open for a relatively long time, extending the plateau phase and refractory period.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which structural feature of cardiac muscle allows rapid spread of action potentials between cells?",
+      "options": [
+        "Sarcomere",
+        "Intercalated discs",
+        "Myofibrils",
+        "Sarcolemma invaginations"
+      ],
+      "answer": 1,
+      "explanation": "Intercalated discs contain gap junctions that permit direct ionic current flow, enabling synchronized contraction.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "In cardiac muscle, which protein binds Ca²⁺ to initiate the conformational change that allows actin‑myosin interaction?",
+      "options": [
+        "Troponin C",
+        "Calmodulin",
+        "Myosin light chain kinase",
+        "Tropomyosin"
+      ],
+      "answer": 0,
+      "explanation": "Troponin C is the calcium‑binding subunit of the troponin complex; its binding to Ca²⁺ moves tropomyosin away from actin sites.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which component of a skeletal muscle fibre is a specialized plasma membrane that contains transverse (T) tubules and propagates the action potential?",
+      "options": [
+        "Sarcolemma",
+        "Sarcoplasm",
+        "Myofibril",
+        "Endomysium"
+      ],
+      "answer": 0,
+      "explanation": "The sarcolemma is the muscle cell plasma membrane; its invaginations form T-tubules that transmit the depolarisation into the fibre interior.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "The region of a sarcomere that appears dark under the light microscope because thick and thin filaments overlap is called:",
+      "options": [
+        "I band",
+        "H zone",
+        "A band",
+        "Z line"
+      ],
+      "answer": 2,
+      "explanation": "The A band corresponds to the length of the thick (myosin) filaments and includes the zone where thin (actin) filaments overlap, giving a dark appearance.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "During contraction, which protein binds Ca²⁺ ions and undergoes a conformational change that moves tropomyosin away from actin’s myosin‑binding sites?",
+      "options": [
+        "Troponin",
+        "Tropomyosin",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Troponin has a Ca²⁺‑binding subunit; Ca²⁺ binding causes troponin to shift tropomyosin, exposing the active sites on actin.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "The organelle in a skeletal muscle fibre that stores Ca²⁺ and releases it upon depolarisation is:",
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Sarcolemma",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "The sarcoplasmic reticulum is a specialised smooth ER that sequesters Ca²⁺ and releases it during excitation‑contraction coupling.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "The thin (actin) filament of a sarcomere is primarily composed of which two proteins?",
+      "options": [
+        "Myosin and actin",
+        "Actin and tropomyosin",
+        "Myosin and troponin",
+        "Actin and myosin"
+      ],
+      "answer": 1,
+      "explanation": "Thin filaments consist of actin polymers along with regulatory proteins tropomyosin and troponin; the major structural proteins are actin and tropomyosin.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "Which line marks the boundary between two adjacent sarcomeres?",
+      "options": [
+        "M line",
+        "Z line",
+        "A line",
+        "H line"
+      ],
+      "answer": 1,
+      "explanation": "The Z line (or Z disc) anchors the plus ends of actin filaments and defines the limits of each sarcomere.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "Red (slow‑twitch) muscle fibres differ from white (fast‑twitch) fibres mainly because they contain:",
+      "options": [
+        "Higher myoglobin content",
+        "Larger diameter",
+        "More glycogen stores",
+        "Fewer mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Red fibres are rich in myoglobin, giving them a darker colour and supporting aerobic metabolism; white fibres have less myoglobin.",
+      "topic": "Muscle fibre structure"
+    },
+    {
+      "question": "Which specialization of the sarcolemma allows rapid transmission of the action potential into the interior of a skeletal muscle fiber?",
+      "options": [
+        "Transverse (T)-tubules",
+        "Sarcoplasmic reticulum",
+        "Myofibril",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "T-tubules are invaginations of the sarcolemma that conduct the depolarizing current deep into the fiber, ensuring uniform activation of the sarcoplasmic reticulum.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "The primary ion responsible for the rapid depolarization phase of a muscle action potential on the sarcolemma is:",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Ca²⁺",
+        "Cl⁻"
+      ],
+      "answer": 0,
+      "explanation": "Voltage‑gated Na⁺ channels open first, allowing an influx of Na⁺ that produces the upstroke of the muscle action potential.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Deficiency of which sarcolemma‑associated protein complex leads to Duchenne muscular dystrophy?",
+      "options": [
+        "Dystrophin‑glycoprotein complex",
+        "Troponin complex",
+        "Myosin heavy chain",
+        "Integrin α7β1"
+      ],
+      "answer": 0,
+      "explanation": "The dystrophin‑glycoprotein complex anchors the cytoskeleton to the extracellular matrix; its loss destabilises the sarcolemma, causing the pathology of Duchenne muscular dystrophy.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Which pump is chiefly responsible for maintaining the resting membrane potential of a skeletal muscle fiber?",
+      "options": [
+        "Na⁺/K⁺‑ATPase",
+        "Ca²⁺‑ATPase",
+        "H⁺‑ATPase",
+        "Cl⁻ channel"
+      ],
+      "answer": 0,
+      "explanation": "The Na⁺/K⁺‑ATPase extrudes 3 Na⁺ and imports 2 K⁺ per cycle, creating the ion gradients that generate the negative resting potential.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Depolarization of the sarcolemma triggers Ca²⁺ release from which intracellular store during excitation‑contraction coupling?",
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "The voltage change is sensed by dihydropyridine receptors in T‑tubules, which mechanically activate ryanodine receptors on the sarcoplasmic reticulum, causing Ca²⁺ release.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Which statement about the sarcolemma is FALSE?",
+      "options": [
+        "It contains voltage‑gated Na⁺ channels",
+        "It is continuous with the neuronal plasma membrane at the neuromuscular junction",
+        "It has invaginations called T‑tubules that run perpendicular to the fibre axis",
+        "It lacks structural proteins that link it to the extracellular matrix"
+      ],
+      "answer": 3,
+      "explanation": "The sarcolemma does possess structural proteins (e.g., dystrophin complex) that connect the membrane to the extracellular matrix; the other statements are true.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Compared with a typical neuron, the conduction velocity of an action potential along the sarcolemma is relatively high mainly because:",
+      "options": [
+        "Presence of T‑tubules",
+        "Larger diameter of the muscle fibre",
+        "Higher density of voltage‑gated Na⁺ channels",
+        "Myelin sheath around the fibre"
+      ],
+      "answer": 1,
+      "explanation": "The large cross‑sectional area of muscle fibres reduces internal resistance, allowing faster longitudinal spread of the depolarizing current.",
+      "topic": "Sarcolemma"
+    },
+    {
+      "question": "Which pigment present in the sarcoplasm gives skeletal muscle its characteristic reddish color?",
+      "options": [
+        "Myoglobin",
+        "Glycogen granules",
+        "Mitochondria",
+        "Myofibrils"
+      ],
+      "answer": 0,
+      "explanation": "Myoglobin, a heme‑containing protein abundant in the sarcoplasm, binds oxygen and imparts a reddish hue to skeletal muscle.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "The glycogen granules stored in the sarcoplasm primarily serve which purpose during intense muscle activity?",
+      "options": [
+        "Immediate ATP generation via oxidative phosphorylation",
+        "Rapid source of glucose for anaerobic glycolysis",
+        "Calcium ion buffering",
+        "Structural support"
+      ],
+      "answer": 1,
+      "explanation": "Glycogen is broken down to glucose‑6‑phosphate, providing a quick substrate for anaerobic glycolysis when oxygen supply is limited.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "Which of the following organelles is least commonly found within the sarcoplasm of a mature skeletal muscle fiber?",
+      "options": [
+        "Sarcolemma",
+        "Nucleus",
+        "Mitochondria",
+        "Golgi apparatus"
+      ],
+      "answer": 3,
+      "explanation": "Mature muscle fibers have abundant mitochondria, a nucleus, and the sarcolemma; a well‑developed Golgi apparatus is generally absent.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "Which statement correctly describes the sarcoplasmic reticulum in relation to the sarcoplasm?",
+      "options": [
+        "It stores calcium ions in the sarcoplasm",
+        "It is a specialized form of smooth ER that surrounds each myofibril",
+        "It synthesizes myosin proteins",
+        "It transports oxygen bound to myoglobin"
+      ],
+      "answer": 1,
+      "explanation": "The sarcoplasmic reticulum is a modified smooth endoplasmic reticulum that forms a network around myofibrils and stores calcium ions for release during contraction.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "During prolonged aerobic activity, which protein present in the sarcoplasm helps maintain a steady supply of oxygen to mitochondria?",
+      "options": [
+        "Myoglobin",
+        "Troponin",
+        "Actin",
+        "Myosin"
+      ],
+      "answer": 0,
+      "explanation": "Myoglobin binds oxygen with high affinity and releases it to mitochondria, supporting sustained aerobic metabolism.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "How does sarcoplasm differ from the cytoplasm of typical non‑muscle cells?",
+      "options": [
+        "Sarcoplasm contains abundant glycogen and myoglobin",
+        "Sarcoplasm lacks mitochondria",
+        "Sarcoplasm has a rigid cell wall",
+        "Sarcoplasm contains chloroplasts"
+      ],
+      "answer": 0,
+      "explanation": "A distinctive feature of sarcoplasm is the high concentration of glycogen granules and myoglobin, which are not prominent in most other cell types.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "The drop in pH of the sarcoplasm during intense exercise is mainly due to accumulation of which substance?",
+      "options": [
+        "Lactic acid",
+        "Calcium ions",
+        "ATP",
+        "Myoglobin"
+      ],
+      "answer": 0,
+      "explanation": "Anaerobic glycolysis produces lactic acid, which dissociates to lactate and H⁺ ions, lowering the sarcoplasmic pH.",
+      "topic": "Sarcoplasm"
+    },
+    {
+      "question": "How are myofibrils arranged within a skeletal muscle fiber?",
+      "options": [
+        "In parallel, extending the length of the fiber",
+        "In a random, tangled network",
+        "Perpendicular to the fiber axis",
+        "In concentric circles around the nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Myofibrils run parallel to the long axis of the muscle fiber, extending its length to generate force.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "The basic contractile unit that repeats along the length of a myofibril is called:",
+      "options": [
+        "Myofilament",
+        "Sarcomere",
+        "Myotube",
+        "Myoblast"
+      ],
+      "answer": 1,
+      "explanation": "The sarcomere is the repeating contractile unit within each myofibril.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "The thick filaments that constitute part of a myofibril are primarily composed of which protein?",
+      "options": [
+        "Actin",
+        "Myosin",
+        "Tropomyosin",
+        "Troponin"
+      ],
+      "answer": 1,
+      "explanation": "Thick filaments are mainly composed of the motor protein myosin.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "In a relaxed myofibril, which region of the sarcomere contains only thick filaments?",
+      "options": [
+        "A band",
+        "I band",
+        "H zone",
+        "M line"
+      ],
+      "answer": 2,
+      "explanation": "The H zone is the central part of the A band where only thick filaments are present in a relaxed state.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "Approximately how many myofibrils are present in a typical adult human skeletal muscle fiber?",
+      "options": [
+        "10–100",
+        "100–1,000",
+        "1,000–5,000",
+        "More than 10,000"
+      ],
+      "answer": 2,
+      "explanation": "A typical skeletal muscle fiber contains several thousand (≈1,000–5,000) myofibrils.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "Which statement about myofibrils is FALSE?",
+      "options": [
+        "They are bounded by the sarcolemma",
+        "They consist of repeating sarcomeres",
+        "They contain interspersed mitochondria",
+        "They are the contractile elements of the muscle fiber"
+      ],
+      "answer": 0,
+      "explanation": "Myofibrils are located inside the muscle fiber and are not bounded by the sarcolemma; the sarcolemma encloses the entire fiber.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "The decrease in length of a myofibril during contraction is primarily due to:",
+      "options": [
+        "Addition of new sarcomeres",
+        "Sliding of thin (actin) filaments over thick (myosin) filaments",
+        "Elongation of thick filaments",
+        "Swelling of the sarcoplasm"
+      ],
+      "answer": 1,
+      "explanation": "Contraction occurs by the sliding filament mechanism where actin filaments slide over myosin, shortening the myofibril.",
+      "topic": "Myofibrils"
+    },
+    {
+      "question": "Which protein of the thin filament directly binds calcium ions during muscle contraction?",
+      "options": [
+        "Troponin C",
+        "Tropomyosin",
+        "Actin",
+        "Myosin"
+      ],
+      "answer": 0,
+      "explanation": "Calcium binds to the C subunit of troponin, causing a conformational change that moves tropomyosin away from the myosin‑binding sites on actin.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "The region of the sarcomere that contains only thick filaments and appears darker under the microscope is called:",
+      "options": [
+        "A band",
+        "I band",
+        "H zone",
+        "M line"
+      ],
+      "answer": 2,
+      "explanation": "The H zone is the central part of the A band where only myosin (thick) filaments are present; it appears lighter, but under electron microscopy it is identified as the region lacking overlapping thin filaments.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "In the sliding filament model, which event directly produces the power stroke of the myosin head?",
+      "options": [
+        "Release of ADP and Pi from myosin head",
+        "Binding of ATP to myosin",
+        "Hydrolysis of ATP to ADP + Pi",
+        "Detachment of myosin from actin"
+      ],
+      "answer": 0,
+      "explanation": "When ADP and inorganic phosphate are released from the myosin head, the head pivots, pulling the actin filament toward the centre of the sarcomere – this is the power stroke.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "Which statement correctly describes the arrangement of actin and myosin filaments in a sarcomere?",
+      "options": [
+        "Thin filaments are anchored at the Z line and overlap with thick filaments in the A band",
+        "Thick filaments are anchored at the M line and extend to the Z line",
+        "Thin filaments extend across the entire length of the sarcomere",
+        "Thick filaments are only present in the I band"
+      ],
+      "answer": 0,
+      "explanation": "Thin (actin) filaments are fixed at the Z discs; they interdigitate with thick (myosin) filaments in the central A band, producing the overlapping pattern required for contraction.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "The regulatory protein that blocks the myosin‑binding sites on actin in a relaxed muscle is:",
+      "options": [
+        "Troponin I",
+        "Troponin T",
+        "Tropomyosin",
+        "Myosin light chain"
+      ],
+      "answer": 2,
+      "explanation": "Tropomyosin lies in the grooves of the actin filament and sterically hinders myosin binding; calcium‑troponin interaction shifts tropomyosin away during activation.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "Why does the length of the A band remain unchanged during muscle contraction?",
+      "options": [
+        "It consists solely of thick filaments whose length remains constant",
+        "It contains overlapping region of thin and thick filaments that shortens",
+        "The Z lines move towards each other, shortening only the I band",
+        "The H zone expands while the I band shortens"
+      ],
+      "answer": 0,
+      "explanation": "The A band includes the entire length of the thick filaments, which do not change length; only the degree of overlap with thin filaments varies, leaving the A band length constant.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "Which protein isoform uniquely contributes to the regulation of contraction in cardiac muscle compared to skeletal muscle?",
+      "options": [
+        "Cardiac troponin I",
+        "Myosin heavy chain β",
+        "Titin",
+        "Desmin"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac troponin I differs in amino‑acid sequence from skeletal isoforms and modulates calcium sensitivity of the cardiac myofilaments, providing a distinct regulatory mechanism.",
+      "topic": "Myofilaments"
+    },
+    {
+      "question": "Which statement correctly describes the polarity of actin filaments in a skeletal muscle sarcomere?",
+      "options": [
+        "Both ends of the filament are identical",
+        "The barbed (+) end is anchored at the Z‑line and the pointed (‑) end faces the M‑line",
+        "The barbed (+) end faces the M‑line and the pointed (‑) end is at the Z‑line",
+        "Actin filaments have no intrinsic polarity"
+      ],
+      "answer": 1,
+      "explanation": "In skeletal muscle, actin filaments are oriented with their barbed (+) ends attached to the Z‑line and their pointed (‑) ends extending toward the M‑line, giving the filament a defined polarity.",
+      "topic": "Actin"
+    },
+    {
+      "question": "Actin monomers bind which nucleotide, and what happens to this nucleotide during muscle contraction?",
+      "options": [
+        "GTP, which is hydrolysed to GDP",
+        "ATP, which is hydrolysed to ADP and inorganic phosphate",
+        "ADP, which is phosphorylated to ATP",
+        "Actin does not bind any nucleotide"
+      ],
+      "answer": 1,
+      "explanation": "Each G‑actin binds ATP; after polymerisation into F‑actin, ATP is hydrolysed to ADP + Pi, a step essential for filament turnover and force generation.",
+      "topic": "Actin"
+    },
+    {
+      "question": "In the presence of calcium ions, which troponin subunit undergoes a conformational change that moves tropomyosin away from actin’s myosin‑binding sites?",
+      "options": [
+        "Troponin C",
+        "Troponin I",
+        "Troponin T",
+        "Myosin regulatory light chain"
+      ],
+      "answer": 0,
+      "explanation": "Ca²⁺ binds to troponin C, inducing a conformational shift that pulls tropomyosin off the myosin‑binding sites on actin, permitting cross‑bridge formation.",
+      "topic": "Actin"
+    },
+    {
+      "question": "Which region of the sarcomere contains only thin (actin) filaments and no thick (myosin) filaments?",
+      "options": [
+        "A band",
+        "I band",
+        "H zone",
+        "M line"
+      ],
+      "answer": 1,
+      "explanation": "The I band lies adjacent to the Z‑line and consists solely of thin filaments; it shortens during contraction as the overlap with thick filaments increases.",
+      "topic": "Actin"
+    },
+    {
+      "question": "Why are actin filaments absent from the M line of a sarcomere?",
+      "options": [
+        "The M line is composed solely of titin",
+        "The M line is the central region where only thick filaments are anchored",
+        "Actin is enzymatically degraded in that region",
+        "Tropomyosin blocks actin polymerisation at the M line"
+      ],
+      "answer": 1,
+      "explanation": "The M line is the central zone of the sarcomere where the middle portions of thick filaments are cross‑linked; thin filaments do not extend into this region.",
+      "topic": "Actin"
+    },
+    {
+      "question": "Which actin isoform is predominantly expressed in smooth muscle cells and differs from skeletal muscle actin by a few amino acids?",
+      "options": [
+        "α‑skeletal actin",
+        "γ‑smooth actin",
+        "β‑cardiac actin",
+        "α‑cardiac actin"
+      ],
+      "answer": 1,
+      "explanation": "γ‑smooth actin is the major actin isoform in smooth muscle, having subtle sequence differences that affect its interaction with smooth‑muscle‑specific regulatory proteins.",
+      "topic": "Actin"
+    },
+    {
+      "question": "During the power stroke, the myosin head binds to actin at which specific site on the actin filament?",
+      "options": [
+        "The barbed (+) end of the filament",
+        "The pointed (‑) end of the filament",
+        "The hydrophobic cleft between actin subdomains 1 and 3",
+        "The ATP‑binding pocket of actin"
+      ],
+      "answer": 2,
+      "explanation": "Myosin heads attach to a hydrophobic cleft formed between subdomains 1 and 3 of actin; this interaction, followed by the power stroke, generates contractile force.",
+      "topic": "Actin"
+    },
+    {
+      "question": "Which structural feature of the myosin molecule directly interacts with actin during cross‑bridge formation?",
+      "options": [
+        "Myosin tail",
+        "Myosin head (motor domain)",
+        "Myosin light chain",
+        "Myosin rod"
+      ],
+      "answer": 1,
+      "explanation": "The globular head (motor domain) of myosin contains the actin‑binding site and hydrolyzes ATP to generate force.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "In skeletal muscle, a myosin molecule is composed of how many polypeptide chains?",
+      "options": [
+        "Two heavy chains and two light chains",
+        "Two heavy chains and four light chains",
+        "Four heavy chains and two light chains",
+        "Four heavy chains and four light chains"
+      ],
+      "answer": 1,
+      "explanation": "Each skeletal‑muscle myosin consists of two identical heavy chains and four light chains (two essential and two regulatory).",
+      "topic": "Myosin"
+    },
+    {
+      "question": "The ATPase activity of myosin is markedly increased when which event occurs?",
+      "options": [
+        "Binding of Ca²⁺ to troponin",
+        "Hydrolysis of ATP to ADP + Pᵢ",
+        "Release of Pᵢ from the myosin head",
+        "Binding of the myosin head to actin"
+      ],
+      "answer": 3,
+      "explanation": "Actin binding induces a conformational change that accelerates the intrinsic ATPase activity of the myosin head.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "Which statement correctly describes a difference between cardiac and skeletal muscle myosin?",
+      "options": [
+        "Cardiac myosin has a slower ATPase activity than skeletal myosin",
+        "Cardiac myosin lacks light chains",
+        "Skeletal myosin is monomeric, whereas cardiac myosin is dimeric",
+        "Cardiac myosin binds directly to tropomyosin"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac myosin hydrolyzes ATP more slowly than skeletal myosin, giving cardiac muscle a longer contraction duration.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "During the power stroke, the myosin head moves the actin filament by approximately:",
+      "options": [
+        "1 nm",
+        "5 nm",
+        "10 nm",
+        "20 nm"
+      ],
+      "answer": 1,
+      "explanation": "The lever‑arm swing of the myosin head translates into a displacement of about 5 nm along the actin filament.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "Which myosin isoform is predominantly expressed in fast‑twitch (white) skeletal muscle fibers?",
+      "options": [
+        "Myosin I (slow)",
+        "Myosin IIa",
+        "Myosin IIb",
+        "Myosin V"
+      ],
+      "answer": 2,
+      "explanation": "Myosin IIb is a fast isoform with high ATPase activity, conferring rapid contraction to white muscle fibers.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "In smooth muscle, the primary regulatory mechanism that activates myosin is:",
+      "options": [
+        "Troponin‑tropomyosin complex",
+        "Phosphorylation of the myosin regulatory light chain",
+        "Direct binding of Ca²⁺ to the myosin head",
+        "Changes in sarcoplasmic reticulum volume"
+      ],
+      "answer": 1,
+      "explanation": "Smooth‑muscle contraction is controlled by Ca²⁺‑calmodulin‑dependent phosphorylation of the regulatory light chain of myosin, enabling cross‑bridge formation.",
+      "topic": "Myosin"
+    },
+    {
+      "question": "Which region of a sarcomere does NOT change its length during muscle contraction?",
+      "options": [
+        "H zone",
+        "A band",
+        "I band",
+        "Z line"
+      ],
+      "answer": 1,
+      "explanation": "The A band contains the entire length of the thick filaments and remains constant, while the H zone and I band shorten.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "The Z line (Z disc) primarily functions to:",
+      "options": [
+        "Provide elasticity",
+        "Anchor thin (actin) filaments",
+        "Anchor thick (myosin) filaments",
+        "Site of calcium binding"
+      ],
+      "answer": 1,
+      "explanation": "Thin (actin) filaments are attached to the Z line, defining the boundaries of each sarcomere.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "Which protein is predominantly found in the M line of the sarcomere?",
+      "options": [
+        "Actin",
+        "Myosin",
+        "Troponin",
+        "Titin"
+      ],
+      "answer": 1,
+      "explanation": "The M line holds the central region of the thick (myosin) filaments together, with myosin being the main component.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "During muscle contraction, which sarcomeric region shortens?",
+      "options": [
+        "A band",
+        "M line",
+        "H zone",
+        "Z line"
+      ],
+      "answer": 2,
+      "explanation": "The H zone, the central part of the A band where only thick filaments are present, becomes narrower as thin filaments slide inward.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "Which giant protein connects the Z lines and provides passive elasticity to the sarcomere?",
+      "options": [
+        "Desmin",
+        "Nebulin",
+        "Titin",
+        "Dystrophin"
+      ],
+      "answer": 2,
+      "explanation": "Titin spans from the Z line to the M line, acting like a molecular spring that restores the sarcomere to its resting length.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "The I band of a sarcomere consists of:",
+      "options": [
+        "Both thin and thick filaments",
+        "Only thin (actin) filaments",
+        "Only thick (myosin) filaments",
+        "Only titin molecules"
+      ],
+      "answer": 1,
+      "explanation": "The I band contains only the thin (actin) filaments and appears lighter in striated muscle microscopy.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "Sarcomere organization that produces visible striations is characteristic of which muscle type?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle fibers have well‑ordered sarcomeres with distinct A and I bands, giving rise to the classic striated appearance.",
+      "topic": "Sarcomere"
+    },
+    {
+      "question": "What structure defines the boundary of a sarcomere?",
+      "options": [
+        "Z line",
+        "M line",
+        "A band",
+        "H zone"
+      ],
+      "answer": 0,
+      "explanation": "The Z line (or Z disc) marks the terminal ends of a sarcomere, separating one sarcomere from the next.",
+      "topic": "Z line"
+    },
+    {
+      "question": "Which protein is the major structural component of the Z line?",
+      "options": [
+        "Desmin",
+        "Actin",
+        "α‑actinin",
+        "Myosin"
+      ],
+      "answer": 2,
+      "explanation": "α‑Actinin cross‑links actin filaments at the Z line, providing the primary structural scaffold of the disc.",
+      "topic": "Z line"
+    },
+    {
+      "question": "The Z line appears as a dense line in electron micrographs because it:",
+      "options": [
+        "contains dense protein aggregates",
+        "is rich in mitochondria",
+        "is a gap between myofibrils",
+        "is composed of lipid droplets"
+      ],
+      "answer": 0,
+      "explanation": "Electron‑dense material at the Z line is due to tightly packed structural proteins such as α‑actinin and other anchoring proteins.",
+      "topic": "Z line"
+    },
+    {
+      "question": "During muscle contraction, the Z lines:",
+      "options": [
+        "move closer together",
+        "move farther apart",
+        "remain stationary",
+        "disappear"
+      ],
+      "answer": 0,
+      "explanation": "Contraction shortens the sarcomere, bringing the Z lines nearer as the actin filaments slide past the myosin filaments.",
+      "topic": "Z line"
+    },
+    {
+      "question": "Which statement about the Z line is FALSE?",
+      "options": [
+        "It anchors the plus ends of actin filaments",
+        "It is the site of attachment for titin",
+        "It contains myosin thick filaments",
+        "It connects adjacent sarcomeres"
+      ],
+      "answer": 2,
+      "explanation": "Myosin thick filaments are located in the A band; the Z line does not contain myosin, it mainly anchors thin filaments and titin.",
+      "topic": "Z line"
+    },
+    {
+      "question": "In certain myopathies, \"Z line streaming\" refers to:",
+      "options": [
+        "fragmentation of Z line proteins",
+        "increased thickness of the Z line",
+        "loss of Z line visibility",
+        "migration of the Z line towards the M line"
+      ],
+      "answer": 0,
+      "explanation": "Z line streaming describes the disorganization and fragmentation of Z‑line proteins, a characteristic finding in some muscular dystrophies.",
+      "topic": "Z line"
+    },
+    {
+      "question": "What does the A band represent in a sarcomere of skeletal muscle?",
+      "options": [
+        "Region containing only thick (myosin) filaments",
+        "Region containing only thin (actin) filaments",
+        "Region where thick and thin filaments overlap",
+        "Region marked by Z discs"
+      ],
+      "answer": 0,
+      "explanation": "The A band corresponds to the dark region that contains the entire length of the thick (myosin) filaments; thin filaments may overlap it, but the band is defined by the presence of thick filaments.",
+      "topic": "A band"
+    },
+    {
+      "question": "During active contraction of a skeletal muscle fibre, how does the length of the A band change?",
+      "options": [
+        "It remains unchanged",
+        "It shortens",
+        "It lengthens",
+        "It disappears"
+      ],
+      "answer": 0,
+      "explanation": "According to the sliding filament theory, only the I band and H zone shorten; the A band, which reflects the length of the thick filaments, stays the same.",
+      "topic": "A band"
+    },
+    {
+      "question": "Which statement correctly describes the composition of the A band?",
+      "options": [
+        "It consists solely of thick filaments",
+        "It consists solely of thin filaments",
+        "It includes the entire length of thick filaments plus the overlapping region with thin filaments",
+        "It is the region between two Z lines containing only thin filaments"
+      ],
+      "answer": 2,
+      "explanation": "The A band contains the full length of the myosin (thick) filaments and the portion where they overlap with actin (thin) filaments.",
+      "topic": "A band"
+    },
+    {
+      "question": "In a sarcomere diagram, the A band is bisected by which structural line?",
+      "options": [
+        "Z line",
+        "M line",
+        "H zone",
+        "I band"
+      ],
+      "answer": 1,
+      "explanation": "The M line runs down the centre of the A band, anchoring the middle of the thick filaments.",
+      "topic": "A band"
+    },
+    {
+      "question": "Why does the A band appear darker than the I band in electron micrographs of muscle tissue?",
+      "options": [
+        "Higher electron density due to the presence of thick filaments",
+        "Higher concentration of mitochondria",
+        "Higher calcium ion concentration",
+        "Presence of sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "Thick (myosin) filaments scatter electrons more strongly than thin (actin) filaments, giving the A band a darker appearance.",
+      "topic": "A band"
+    },
+    {
+      "question": "The I band of a sarcomere is best described as the region that contains:",
+      "options": [
+        "Only thin (actin) filaments",
+        "Only thick (myosin) filaments",
+        "Both thin and thick filaments overlapping",
+        "The M line and associated proteins"
+      ],
+      "answer": 0,
+      "explanation": "The I band is the light region of the sarcomere that consists solely of thin (actin) filaments and lacks any thick (myosin) filaments.",
+      "topic": "I band"
+    },
+    {
+      "question": "In relation to the Z line, the I band extends:",
+      "options": [
+        "From one Z line to the next Z line",
+        "From the Z line to the beginning of the A band",
+        "From the centre of the A band to the H zone",
+        "From the M line to the nearest Z line"
+      ],
+      "answer": 1,
+      "explanation": "The I band lies on either side of the Z line and stretches from the Z line up to the start of the A band, where thick filaments begin.",
+      "topic": "I band"
+    },
+    {
+      "question": "What happens to the length of the I band during active muscle contraction?",
+      "options": [
+        "It shortens",
+        "It lengthens",
+        "It remains unchanged",
+        "It disappears completely"
+      ],
+      "answer": 0,
+      "explanation": "When the sarcomere shortens, the thin filaments slide into the A band, causing the I band, which contains only thin filaments, to become shorter.",
+      "topic": "I band"
+    },
+    {
+      "question": "Which of the following proteins is absent from the I band under normal conditions?",
+      "options": [
+        "Actin",
+        "Myosin",
+        "Tropomyosin",
+        "Troponin"
+      ],
+      "answer": 1,
+      "explanation": "Myosin, the thick filament protein, is confined to the A band; the I band contains only actin and its associated regulatory proteins (tropomyosin and troponin).",
+      "topic": "I band"
+    },
+    {
+      "question": "In a light‑microscopic image of a sarcomere stained for actin, the I band appears as:",
+      "options": [
+        "A light band",
+        "A dark band",
+        "Both light and dark alternating bands",
+        "No distinct band"
+      ],
+      "answer": 0,
+      "explanation": "Because the I band contains only thin (actin) filaments, it takes up less stain and appears lighter than the A band, which contains dense myosin filaments.",
+      "topic": "I band"
+    },
+    {
+      "question": "During maximal contraction of a skeletal muscle, what occurs to the I band and the H zone?",
+      "options": [
+        "Both disappear",
+        "Both become longer",
+        "I band disappears while H zone shortens",
+        "I band shortens while H zone lengthens"
+      ],
+      "answer": 0,
+      "explanation": "At maximal overlap of actin and myosin, the thin filaments occupy the entire A band, eliminating the I band, and the thick filaments occupy the whole A band, eliminating the H zone.",
+      "topic": "I band"
+    },
+    {
+      "question": "A genetic defect affecting proteins primarily located in the I band would most likely impair which muscle property?",
+      "options": [
+        "Force generation due to thick‑filament defects",
+        "Elastic recoil of the sarcomere",
+        "Regulation of contraction via calcium binding",
+        "Transmission of force to tendons"
+      ],
+      "answer": 1,
+      "explanation": "The I band houses elastic filaments such as titin that contribute to the elastic recoil and passive tension of muscle; defects here mainly affect elasticity rather than active force generation.",
+      "topic": "I band"
+    },
+    {
+      "question": "Which region of the sarcomere contains only thick filaments and no thin filaments?",
+      "options": [
+        "I band",
+        "H zone",
+        "Z line",
+        "M line"
+      ],
+      "answer": 1,
+      "explanation": "The H zone is the central part of the A band where only myosin (thick) filaments are present, while thin (actin) filaments are absent.",
+      "topic": "H zone"
+    },
+    {
+      "question": "During muscle contraction, what happens to the width of the H zone?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It remains unchanged",
+        "It disappears completely"
+      ],
+      "answer": 1,
+      "explanation": "When actin filaments slide toward the M line, they occupy part of the H zone, causing its width to decrease.",
+      "topic": "H zone"
+    },
+    {
+      "question": "The M line is located within which sarcomeric region?",
+      "options": [
+        "Center of H zone",
+        "Midpoint of I band",
+        "Edge of A band",
+        "At the Z disc"
+      ],
+      "answer": 0,
+      "explanation": "The M line lies at the central axis of the H zone, anchoring the middle of the thick filaments.",
+      "topic": "H zone"
+    },
+    {
+      "question": "In a diagram of a relaxed skeletal muscle sarcomere, the H zone appears as:",
+      "options": [
+        "Dark band",
+        "Light band",
+        "Dark central region within A band",
+        "Light region at Z line"
+      ],
+      "answer": 2,
+      "explanation": "In a relaxed sarcomere, the H zone is the central, darker region of the A band where only thick filaments are present.",
+      "topic": "H zone"
+    },
+    {
+      "question": "Which of the following statements about the H zone is FALSE?",
+      "options": [
+        "It contains only myosin filaments",
+        "Its length is constant during contraction",
+        "It lies within the A band",
+        "It shortens when thin filaments slide inward"
+      ],
+      "answer": 1,
+      "explanation": "The H zone shortens during contraction; its length is not constant.",
+      "topic": "H zone"
+    },
+    {
+      "question": "In cardiac muscle, the H zone is:",
+      "options": [
+        "Absent because cardiac muscle lacks sarcomeres",
+        "Present but less distinct than in skeletal muscle",
+        "Wider than in skeletal muscle",
+        "Identical in appearance to smooth muscle"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle has sarcomeres, but the H zone is often less pronounced than in skeletal muscle due to the arrangement of filaments.",
+      "topic": "H zone"
+    },
+    {
+      "question": "The reduction in H zone length during contraction is primarily due to:",
+      "options": [
+        "Depolymerization of myosin",
+        "Sliding of actin filaments toward the M line",
+        "Shortening of myosin filaments",
+        "Calcium binding to troponin causing thick filament breakdown"
+      ],
+      "answer": 1,
+      "explanation": "Actin filaments slide toward the M line, occupying part of the H zone and thereby reducing its length, as described by the sliding filament theory.",
+      "topic": "H zone"
+    },
+    {
+      "question": "The M line is situated at which specific region of the sarcomere?",
+      "options": [
+        "Center of the A band",
+        "At the Z disc",
+        "Within the I band",
+        "At the sarcolemma"
+      ],
+      "answer": 0,
+      "explanation": "The M line lies at the mid‑point of the A band, anchoring the central region of the thick (myosin) filaments.",
+      "topic": "M line"
+    },
+    {
+      "question": "Which protein is a major structural component of the M line?",
+      "options": [
+        "Myosin",
+        "Actin",
+        "Myomesin",
+        "Troponin"
+      ],
+      "answer": 2,
+      "explanation": "Myomesin (also called M‑protein) is the principal protein that cross‑links adjacent myosin filaments at the M line.",
+      "topic": "M line"
+    },
+    {
+      "question": "During active muscle contraction, the length of the M line:",
+      "options": [
+        "Shortens",
+        "Lengthens",
+        "Remains unchanged",
+        "Disappears"
+      ],
+      "answer": 2,
+      "explanation": "The M line serves as a fixed central anchor for thick filaments; its length does not change during contraction, unlike the I and H zones.",
+      "topic": "M line"
+    },
+    {
+      "question": "The primary functional role of the M line is to:",
+      "options": [
+        "Bind calcium ions",
+        "Anchor thin filaments",
+        "Cross‑link thick filaments",
+        "Generate ATP"
+      ],
+      "answer": 2,
+      "explanation": "The M line stabilizes the sarcomere by cross‑linking adjacent myosin (thick) filaments, maintaining their alignment.",
+      "topic": "M line"
+    },
+    {
+      "question": "Which statement about the M line is FALSE?",
+      "options": [
+        "It contains proteins that connect adjacent myosin filaments",
+        "It is present only in skeletal muscle",
+        "It lies in the middle of the A band",
+        "It contributes to the structural integrity of the sarcomere"
+      ],
+      "answer": 1,
+      "explanation": "The M line is found in skeletal, cardiac and smooth muscle; it is not exclusive to skeletal muscle.",
+      "topic": "M line"
+    },
+    {
+      "question": "Compared with skeletal muscle, cardiac muscle M lines lack which protein?",
+      "options": [
+        "Myomesin",
+        "M‑protein (myosin binding protein C)",
+        "Titin",
+        "Desmin"
+      ],
+      "answer": 1,
+      "explanation": "M‑protein (myosin binding protein C) is abundant in fast skeletal muscle M lines but is absent or minimal in cardiac muscle, where myomesin and titin predominate.",
+      "topic": "M line"
+    },
+    {
+      "question": "Mutations in which M‑line protein have been implicated in certain hereditary myopathies?",
+      "options": [
+        "Myomesin",
+        "Troponin T",
+        "Dystrophin",
+        "Nebulin"
+      ],
+      "answer": 0,
+      "explanation": "Genetic defects in myomesin, an M‑line protein, are associated with some forms of myopathy, highlighting its importance for sarcomere stability.",
+      "topic": "M line"
+    },
+    {
+      "question": "Which sequence correctly describes the events during muscle contraction after a nerve impulse reaches the neuromuscular junction?",
+      "options": [
+        "Calcium ions are released from the sarcoplasmic reticulum, bind to troponin, shift tropomyosin, allow myosin heads to bind actin, and then perform the power stroke",
+        "ATP binds to myosin causing detachment from actin, followed by calcium release from the sarcoplasmic reticulum",
+        "Acetylcholine is released, depolarizes the sarcolemma, calcium binds directly to actin, and myosin heads hydrolyze ATP",
+        "Myosin heads hydrolyze ATP first, then calcium is released and binds to troponin"
+      ],
+      "answer": 0,
+      "explanation": "The correct cascade is: depolarization → Ca²⁺ release → Ca²⁺ binds troponin → tropomyosin moves → myosin‑actin binding → power stroke.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "During contraction, which sarcomeric band remains unchanged in length?",
+      "options": [
+        "A band",
+        "I band",
+        "H zone",
+        "Z line"
+      ],
+      "answer": 0,
+      "explanation": "The A band corresponds to the length of the thick (myosin) filaments, which do not change length; only the overlap with thin filaments varies.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "What is the role of ATP in the cross‑bridge cycle?",
+      "options": [
+        "It provides energy for the power stroke only",
+        "It causes detachment of myosin from actin only",
+        "It both detaches myosin from actin and powers the subsequent power stroke",
+        "It has no direct role; calcium alone drives the cycle"
+      ],
+      "answer": 2,
+      "explanation": "ATP binding to myosin causes detachment from actin; hydrolysis of ATP re‑cocks the myosin head, providing energy for the power stroke.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "Which statement about calcium’s role in the sliding filament mechanism is FALSE?",
+      "options": [
+        "Calcium binds to the C‑terminal subunit of troponin (troponin C)",
+        "Calcium binding causes tropomyosin to uncover myosin‑binding sites on actin",
+        "Calcium directly phosphorylates myosin to initiate contraction",
+        "Calcium is released from the sarcoplasmic reticulum into the cytosol"
+      ],
+      "answer": 2,
+      "explanation": "Calcium does not phosphorylate myosin; phosphorylation is a regulatory step in smooth muscle, not in skeletal muscle contraction.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "During muscle relaxation, which event occurs first after the nerve stimulus stops?",
+      "options": [
+        "Reuptake of Ca²⁺ into the sarcoplasmic reticulum",
+        "Hydrolysis of ATP by myosin ATPase",
+        "Tropomyosin covering the myosin‑binding sites on actin",
+        "Detachment of myosin heads from actin"
+      ],
+      "answer": 0,
+      "explanation": "The Ca²⁺‑ATPase pumps in the sarcoplasmic reticulum actively transport Ca²⁺ back, lowering cytosolic Ca²⁺ and allowing tropomyosin to re‑cover the binding sites.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "According to the sliding filament theory, maximal active tension is generated when the sarcomere length is approximately:",
+      "options": [
+        "1.0 µm",
+        "1.6 µm",
+        "2.2 µm",
+        "3.0 µm"
+      ],
+      "answer": 2,
+      "explanation": "Optimal overlap of thick and thin filaments, giving maximal cross‑bridge formation, occurs at a sarcomere length of about 2.2 µm in skeletal muscle.",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "In rigor mortis, which step of the cross‑bridge cycle is blocked?",
+      "options": [
+        "Binding of ATP to the myosin head",
+        "Hydrolysis of ATP to ADP and Pi",
+        "Release of ADP and Pi from the myosin head",
+        "Release of Ca²⁺ from the sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "After death, ATP is no longer synthesized; without ATP binding, myosin heads cannot detach from actin, leading to a rigid state (rigor).",
+      "topic": "Sliding filament theory"
+    },
+    {
+      "question": "What is the correct sequence of events at the neuromuscular junction that leads to muscle fiber depolarization after a motor neuron action potential arrives?",
+      "options": [
+        "Opening of voltage‑gated Na⁺ channels in the motor end‑plate → release of ACh → opening of nicotinic ACh receptors → Na⁺ influx",
+        "Opening of voltage‑gated Ca²⁺ channels in the presynaptic terminal → ACh release → opening of nicotinic ACh receptors → Na⁺ influx",
+        "Direct diffusion of ACh from the nerve terminal to the muscle membrane without Ca²⁺ involvement",
+        "Release of norepinephrine → activation of β‑adrenergic receptors"
+      ],
+      "answer": 1,
+      "explanation": "An arriving action potential opens voltage‑gated Ca²⁺ channels in the presynaptic terminal, causing Ca²⁺‑dependent exocytosis of ACh. ACh then binds to nicotinic receptors on the motor end‑plate, opening their Na⁺ channels and generating an end‑plate potential.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "Which enzyme terminates the action of acetylcholine at the neuromuscular junction?",
+      "options": [
+        "Acetylcholinesterase (AChE)",
+        "Monoamine oxidase",
+        "Cholinergic transaminase",
+        "Tyrosine hydroxylase"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholinesterase, located in the synaptic cleft, rapidly hydrolyses acetylcholine into acetate and choline, ending its stimulatory effect on the muscle membrane.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "The primary pathological mechanism in Myasthenia gravis is:",
+      "options": [
+        "Autoantibodies against presynaptic voltage‑gated Ca²⁺ channels",
+        "Autoantibodies against postsynaptic nicotinic acetylcholine receptors",
+        "Excessive release of acetylcholine from the nerve terminal",
+        "Deficiency of acetylcholine synthesis in the motor neuron"
+      ],
+      "answer": 1,
+      "explanation": "Myasthenia gravis is an autoimmune disease where antibodies target the postsynaptic nicotinic ACh receptors, reducing their number and impairing neuromuscular transmission.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "Which structural feature of the motor end‑plate enhances the efficiency of acetylcholine diffusion?",
+      "options": [
+        "Deep invaginations called motor end‑plate folds",
+        "High density of mitochondria in the muscle fiber",
+        "Presence of transverse (T‑) tubules directly beneath the end‑plate",
+        "A thick basal lamina surrounding the synaptic cleft"
+      ],
+      "answer": 0,
+      "explanation": "Motor end‑plate folds increase the surface area of the postsynaptic membrane, allowing more nicotinic receptors to be positioned close to released ACh, thereby improving transmission efficiency.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "In the context of the neuromuscular junction, the term \"safety factor\" refers to:",
+      "options": [
+        "The margin between the end‑plate potential and the threshold needed to trigger a muscle action potential",
+        "The total amount of acetylcholine stored in presynaptic vesicles",
+        "The rate of acetylcholine synthesis in the motor neuron",
+        "The number of motor neurons that innervate a single muscle fiber"
+      ],
+      "answer": 0,
+      "explanation": "The safety factor is the excess depolarization (end‑plate potential) over the threshold for opening voltage‑gated Na⁺ channels in the muscle membrane, ensuring reliable muscle fiber activation.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "Curare produces muscle paralysis by:",
+      "options": [
+        "Blocking voltage‑gated Na⁺ channels on the muscle membrane",
+        "Inhibiting acetylcholinesterase activity",
+        "Binding competitively to nicotinic acetylcholine receptors and preventing ACh binding",
+        "Blocking presynaptic Ca²⁺ channels"
+      ],
+      "answer": 2,
+      "explanation": "Curare is a competitive antagonist that occupies the nicotinic ACh receptor sites at the motor end‑plate, preventing acetylcholine from opening the ion channel and thus blocking muscle contraction.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "Which ion influx through the nicotinic acetylcholine receptor channel is primarily responsible for generating the end‑plate potential?",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Ca²⁺",
+        "Cl⁻"
+      ],
+      "answer": 0,
+      "explanation": "Activation of nicotinic receptors opens a non‑selective cation channel that is highly permeable to Na⁺; the rapid Na⁺ influx depolarizes the muscle membrane, producing the end‑plate potential.",
+      "topic": "Neuromuscular junction"
+    },
+    {
+      "question": "Which part of a motor neuron is primarily responsible for the synthesis of acetylcholine?",
+      "options": [
+        "Cell body (soma)",
+        "Axon terminal",
+        "Dendrite",
+        "Myelin sheath"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholine is synthesized in the neuronal soma where the enzyme choline acetyltransferase is located, then transported to the terminal.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "At the neuromuscular junction, acetylcholine released from the motor neuron binds to receptors on which muscle membrane?",
+      "options": [
+        "Sarcolemma",
+        "Sarcoplasmic reticulum",
+        "Myofibril",
+        "Mitochondrial membrane"
+      ],
+      "answer": 0,
+      "explanation": "Nicotinic acetylcholine receptors are situated on the sarcolemma (muscle fiber plasma membrane) at the motor end‑plate.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "The conduction velocity of a motor neuron is maximized by which combination of structural features?",
+      "options": [
+        "Larger diameter",
+        "Presence of myelin sheath",
+        "Both larger diameter and myelin",
+        "Presence of nodes of Ranvier only"
+      ],
+      "answer": 2,
+      "explanation": "Both a larger axonal diameter (reduces internal resistance) and a myelinated sheath (increases membrane resistance) together give the highest conduction speed.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "Which ion influx into the motor neuron terminal triggers the release of acetylcholine into the synaptic cleft?",
+      "options": [
+        "Na+",
+        "Ca2+",
+        "K+",
+        "Cl-"
+      ],
+      "answer": 1,
+      "explanation": "An influx of Ca2+ through voltage‑gated calcium channels upon depolarization causes synaptic vesicle fusion and acetylcholine release.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "Degeneration of upper and lower motor neurons leading to progressive muscle weakness is characteristic of which disorder?",
+      "options": [
+        "Myasthenia gravis",
+        "Amyotrophic lateral sclerosis",
+        "Muscular dystrophy",
+        "Tetany"
+      ],
+      "answer": 1,
+      "explanation": "Amyotrophic lateral sclerosis (ALS) involves loss of both upper and lower motor neurons, producing severe weakness and atrophy.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "Acetylcholine is packaged into synaptic vesicles of motor neuron terminals by which transporter?",
+      "options": [
+        "Vesicular acetylcholine transporter (VAChT)",
+        "Choline acetyltransferase",
+        "Acetyl‑CoA synthetase",
+        "Vesicular monoamine transporter"
+      ],
+      "answer": 0,
+      "explanation": "VAChT actively transports acetylcholine from the cytosol into synaptic vesicles for storage and release.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "Which statement about the motor end‑plate potential (MEPP) is correct?",
+      "options": [
+        "It is a graded potential that can summate to trigger an action potential",
+        "It is an all‑or‑none response",
+        "It is mediated by GABA receptors",
+        "It occurs only in smooth muscle"
+      ],
+      "answer": 0,
+      "explanation": "MEPPs are small, spontaneous, graded depolarizations; multiple MEPPs can summate to reach threshold and generate an action potential in the muscle fiber.",
+      "topic": "Motor neuron"
+    },
+    {
+      "question": "Which enzyme catalyzes the synthesis of acetylcholine in the presynaptic terminal?",
+      "options": [
+        "Choline acetyltransferase",
+        "Acetylcholinesterase",
+        "Monoamine oxidase",
+        "Tyrosine hydroxylase"
+      ],
+      "answer": 0,
+      "explanation": "Choline acetyltransferase transfers an acetyl group from acetyl‑CoA to choline, forming acetylcholine.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "The primary site where acetylcholinesterase hydrolyses acetylcholine is the:",
+      "options": [
+        "Synaptic cleft",
+        "Presynaptic terminal",
+        "Postsynaptic muscle membrane",
+        "Sarcoplasmic reticulum"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholinesterase is anchored in the basal lamina of the synaptic cleft, rapidly breaking down acetylcholine into choline and acetate.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "The receptor that mediates acetylcholine action at the neuromuscular junction is:",
+      "options": [
+        "Nicotinic ionotropic receptor",
+        "Muscarinic G‑protein coupled receptor",
+        "Beta‑adrenergic receptor",
+        "Glutamate NMDA receptor"
+      ],
+      "answer": 0,
+      "explanation": "The neuromuscular junction contains nicotinic acetylcholine receptors, ligand‑gated ion channels that allow Na⁺ influx and depolarization.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "Curare produces muscle paralysis by:",
+      "options": [
+        "Competitive antagonism at nicotinic receptors",
+        "Inhibition of acetylcholinesterase",
+        "Blocking voltage‑gated calcium channels",
+        "Enhancing reuptake of choline"
+      ],
+      "answer": 0,
+      "explanation": "Curare binds to the nicotinic receptor without activating it, preventing acetylcholine from opening the channel and thus blocking contraction.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "The principal pathological mechanism in myasthenia gravis is:",
+      "options": [
+        "Autoantibodies against nicotinic ACh receptors",
+        "Deficiency of acetylcholinesterase",
+        "Overproduction of acetylcholine",
+        "Mutation in voltage‑gated sodium channels"
+      ],
+      "answer": 0,
+      "explanation": "Myasthenia gravis is an autoimmune disease where antibodies reduce the number of functional nicotinic receptors, weakening neuromuscular transmission.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "Organophosphate poisoning leads to toxicity mainly because they:",
+      "options": [
+        "Irreversibly inhibit acetylcholinesterase",
+        "Competitively block nicotinic receptors",
+        "Stimulate acetylcholine release",
+        "Activate muscarinic receptors directly"
+      ],
+      "answer": 0,
+      "explanation": "Organophosphates phosphorylate the active site of acetylcholinesterase, preventing acetylcholine breakdown and causing overstimulation of cholinergic synapses.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "Which ion influx into the presynaptic terminal is essential for acetylcholine release?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Potassium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "An action potential opens voltage‑gated calcium channels; the resulting Ca²⁺ influx triggers vesicle fusion and acetylcholine exocytosis.",
+      "topic": "Acetylcholine"
+    },
+    {
+      "question": "Where is calcium primarily stored in skeletal muscle fibers before contraction?",
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Mitochondria",
+        "T-tubules",
+        "Nucleus"
+      ],
+      "answer": 0,
+      "explanation": "The sarcoplasmic reticulum (SR) is the specialized endoplasmic reticulum that sequesters Ca²⁺ ions and releases them upon stimulation to initiate contraction.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "What event directly triggers the release of calcium from the sarcoplasmic reticulum during skeletal muscle contraction?",
+      "options": [
+        "Depolarization of sarcolemma",
+        "Binding of acetylcholine to its receptor",
+        "Influx of Na⁺ ions",
+        "Action potential propagation along T‑tubules"
+      ],
+      "answer": 3,
+      "explanation": "The action potential travels down the T‑tubules, activating dihydropyridine receptors which mechanically couple to ryanodine receptors on the SR, causing Ca²⁺ release.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "Calcium ions bind to which protein to start the cascade leading to muscle contraction?",
+      "options": [
+        "Troponin C",
+        "Myosin head",
+        "Tropomyosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Ca²⁺ binds to the C‑subunit of troponin (troponin C), inducing a conformational change that moves tropomyosin away from actin’s myosin‑binding sites.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "In cardiac muscle, which channel allows extracellular calcium to enter the cell and contribute to contraction?",
+      "options": [
+        "L‑type voltage‑gated Ca²⁺ channels",
+        "Ryanodine receptors",
+        "Na⁺/Ca²⁺ exchanger",
+        "SERCA pump"
+      ],
+      "answer": 0,
+      "explanation": "L‑type (dihydropyridine) voltage‑gated Ca²⁺ channels on the sarcolemma open during depolarization, permitting Ca²⁺ influx that triggers further release from the SR (calcium‑induced calcium release).",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "Which mechanism is primarily responsible for removing cytosolic calcium to bring a muscle fiber back to the relaxed state?",
+      "options": [
+        "SERCA pump activity",
+        "Na⁺/K⁺‑ATPase",
+        "Myosin ATPase",
+        "Troponin ATPase"
+      ],
+      "answer": 0,
+      "explanation": "The sarco/endoplasmic reticulum Ca²⁺‑ATPase (SERCA) pumps Ca²⁺ back into the SR using ATP, lowering cytosolic Ca²⁺ and allowing relaxation.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "During maximal contraction, the free calcium concentration in the sarcoplasm rises to approximately:",
+      "options": [
+        "10⁻⁷ M",
+        "10⁻⁶ M",
+        "10⁻⁴ M",
+        "10⁻² M"
+      ],
+      "answer": 1,
+      "explanation": "Resting sarcoplasmic Ca²⁺ is ~10⁻⁷ M; upon stimulation it increases to ~10⁻⁶ M, sufficient to saturate troponin C and initiate contraction.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "Which drug blocks calcium release from the sarcoplasmic reticulum and can cause muscle paralysis?",
+      "options": [
+        "Dantrolene",
+        "Curare",
+        "Atropine",
+        "Nifedipine"
+      ],
+      "answer": 0,
+      "explanation": "Dantrolene interferes with ryanodine receptors on the SR, preventing Ca²⁺ release and thereby inhibiting muscle contraction, used clinically for malignant hyperthermia.",
+      "topic": "Calcium ions"
+    },
+    {
+      "question": "Which subunit of the troponin complex directly binds calcium ions to initiate muscle contraction?",
+      "options": [
+        "Troponin C (TnC)",
+        "Troponin I (TnI)",
+        "Troponin T (TnT)",
+        "Tropomyosin"
+      ],
+      "answer": 0,
+      "explanation": "Troponin C contains the EF‑hand motifs that bind Ca2+ released from the sarcoplasmic reticulum, triggering the conformational change that moves tropomyosin away from actin's myosin‑binding sites.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "In which type of muscle is the troponin complex absent?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Both skeletal and cardiac muscle"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle regulates contraction through calmodulin rather than the troponin‑tropomyosin regulatory system, so troponin is not present in smooth muscle fibers.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "Cardiac‑specific troponin I differs from skeletal troponin I primarily by:",
+      "options": [
+        "Having an additional N‑terminal extension",
+        "Lacking calcium‑binding ability",
+        "Having a higher molecular weight",
+        "Being unable to inhibit actin‑myosin interaction"
+      ],
+      "answer": 0,
+      "explanation": "The cardiac isoform of troponin I possesses a unique N‑terminal extension that modulates its inhibitory function and is a key feature distinguishing it from skeletal isoforms.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "During muscle relaxation, which process removes calcium from the troponin complex?",
+      "options": [
+        "Reuptake of Ca2+ into the sarcoplasmic reticulum by the SERCA pump",
+        "Binding of ATP to the myosin head",
+        "Phosphorylation of troponin I",
+        "Opening of voltage‑gated Na+ channels"
+      ],
+      "answer": 0,
+      "explanation": "The SERCA (sarcoplasmic/endoplasmic reticulum Ca2+‑ATPase) pump actively transports Ca2+ back into the SR, lowering cytosolic Ca2+ concentration and causing calcium to dissociate from troponin C.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "Which statement correctly describes the role of troponin T?",
+      "options": [
+        "It anchors the troponin complex to tropomyosin",
+        "It binds calcium ions",
+        "It hydrolyzes ATP",
+        "It forms the cross‑bridge with myosin"
+      ],
+      "answer": 0,
+      "explanation": "Troponin T contains a tropomyosin‑binding domain that links the troponin complex to the tropomyosin filament, stabilizing the regulatory unit on the thin filament.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "Elevated serum levels of cardiac troponin T are most useful in diagnosing which condition?",
+      "options": [
+        "Myasthenia gravis",
+        "Myocardial infarction",
+        "Muscular dystrophy",
+        "Osteoporosis"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac troponin T is released into the bloodstream when myocardial cells are damaged, making it a highly specific biomarker for acute myocardial infarction.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "The sequence of events leading to cross‑bridge formation after a neural impulse includes all EXCEPT:",
+      "options": [
+        "Calcium binds to troponin C",
+        "Troponin I undergoes a conformational change exposing myosin‑binding sites on actin",
+        "Tropomyosin slides away from actin’s myosin‑binding sites",
+        "Troponin T hydrolyzes ATP"
+      ],
+      "answer": 3,
+      "explanation": "Troponin T does not hydrolyze ATP; ATP hydrolysis occurs at the myosin head. Troponin T’s role is structural, anchoring the complex to tropomyosin.",
+      "topic": "Troponin"
+    },
+    {
+      "question": "Which statement correctly describes the position of tropomyosin on the thin filament in a relaxed skeletal muscle?",
+      "options": [
+        "It binds directly to myosin heads",
+        "Lies in the groove of actin filament covering myosin-binding sites",
+        "It interacts with troponin C only",
+        "It forms the central M line of the sarcomere"
+      ],
+      "answer": 1,
+      "explanation": "In a relaxed muscle, tropomyosin lies in the helical groove of the actin filament, blocking the myosin‑binding sites and preventing cross‑bridge formation.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "Tropomyosin is a:",
+      "options": [
+        "Globular enzyme",
+        "Calcium‑binding protein",
+        "Dimeric α‑helical coiled‑coil protein",
+        "Single‑pass transmembrane protein"
+      ],
+      "answer": 2,
+      "explanation": "Tropomyosin consists of two α‑helical polypeptide chains that wrap around each other forming a coiled‑coil, allowing it to run along the length of the actin filament.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "During muscle contraction, the movement of tropomyosin is primarily triggered by:",
+      "options": [
+        "Binding of calcium to troponin C",
+        "Hydrolysis of ATP by myosin",
+        "Phosphorylation of tropomyosin",
+        "Release of ADP from myosin"
+      ],
+      "answer": 0,
+      "explanation": "Calcium released from the sarcoplasmic reticulum binds to troponin C; this causes troponin to shift tropomyosin away from the myosin‑binding sites on actin.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "Why is tropomyosin essential for regulation of actin‑myosin interaction?",
+      "options": [
+        "It provides the ATPase activity required for cross‑bridge cycling",
+        "It transports calcium ions into the sarcoplasmic reticulum",
+        "It anchors the Z line to the sarcolemma",
+        "It blocks myosin‑binding sites on actin in the absence of calcium"
+      ],
+      "answer": 3,
+      "explanation": "In the relaxed state, tropomyosin sterically blocks the myosin‑binding sites on actin; removal of this block by calcium‑troponin allows contraction.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "In smooth muscle, tropomyosin differs from that in skeletal muscle because:",
+      "options": [
+        "It is absent; smooth muscle does not have tropomyosin",
+        "It is a single polypeptide chain rather than a dimer",
+        "It binds directly to myosin light chains",
+        "It is present in lower amounts and works with calmodulin instead of troponin"
+      ],
+      "answer": 1,
+      "explanation": "Smooth muscle contains less tropomyosin and relies on calmodulin‑mediated calcium regulation rather than the troponin‑tropomyosin system of skeletal muscle.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "A mutation that reduces the affinity of tropomyosin for actin would most likely result in:",
+      "options": [
+        "Increased ATP consumption during relaxation",
+        "Impaired calcium release from sarcoplasmic reticulum",
+        "Hypercontracture due to inability to detach myosin heads",
+        "Decreased muscle tone due to premature exposure of myosin‑binding sites"
+      ],
+      "answer": 2,
+      "explanation": "If tropomyosin binds weakly to actin, it may not effectively block the binding sites, leading to inappropriate cross‑bridge formation and reduced muscle tone.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "Which experimental observation supports the role of tropomyosin in the sliding filament theory?",
+      "options": [
+        "Electron microscopy shows tropomyosin shifting position upon calcium addition",
+        "Myosin ATPase activity increases when tropomyosin is removed",
+        "Calcium binds directly to tropomyosin causing conformational change",
+        "Troponin C mutation does not affect tropomyosin position"
+      ],
+      "answer": 0,
+      "explanation": "Direct visualization by electron microscopy demonstrates that tropomyosin moves away from the myosin‑binding sites on actin when calcium is present, confirming its regulatory role.",
+      "topic": "Tropomyosin"
+    },
+    {
+      "question": "After ATP binds to the myosin head, what is the immediate consequence in the cross‑bridge cycle?",
+      "options": [
+        "Myosin head detaches from actin",
+        "Myosin head performs power stroke",
+        "Calcium is released from sarcoplasmic reticulum",
+        "Troponin undergoes conformational change"
+      ],
+      "answer": 0,
+      "explanation": "Binding of ATP to the myosin head reduces its affinity for actin, causing the myosin head to detach from the actin filament as the first step after ATP binding.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "Which ion must bind to troponin C to permit cross‑bridge formation?",
+      "options": [
+        "Na+",
+        "Ca2+",
+        "K+",
+        "Mg2+"
+      ],
+      "answer": 1,
+      "explanation": "Ca2+ binding to the regulatory subunit troponin C induces a conformational shift that moves tropomyosin away from the myosin‑binding sites on actin, allowing cross‑bridge formation.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "The power stroke in the cross‑bridge cycle is triggered by which molecular event?",
+      "options": [
+        "Release of inorganic phosphate (Pi) from myosin head",
+        "Binding of ATP to myosin",
+        "Hydrolysis of ATP to ADP and Pi",
+        "Reattachment of myosin to actin"
+      ],
+      "answer": 0,
+      "explanation": "After ATP is hydrolyzed, the myosin head remains in a high‑energy state; the subsequent release of Pi causes the myosin head to pivot, pulling the actin filament – this is the power stroke.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "In the absence of ATP, muscle enters rigor mortis because:",
+      "options": [
+        "Myosin heads remain attached to actin",
+        "Ca2+ cannot bind to troponin",
+        "Actin filaments depolymerize",
+        "Myosin ATPase activity increases"
+      ],
+      "answer": 0,
+      "explanation": "Without ATP, the myosin head cannot detach from actin after a power stroke, so all cross‑bridges stay locked, producing the rigid state known as rigor mortis.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "Which statement best describes the role of tropomyosin during cross‑bridge formation?",
+      "options": [
+        "It blocks myosin‑binding sites on actin in the resting state",
+        "It hydrolyzes ATP to provide energy",
+        "It transports calcium ions into the sarcoplasm",
+        "It anchors myosin heads to the Z‑line"
+      ],
+      "answer": 0,
+      "explanation": "In the relaxed muscle, tropomyosin lies over the myosin‑binding sites on actin, preventing cross‑bridge formation until Ca2+‑troponin interaction shifts it away.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "Which experimental agent prevents cross‑bridge formation by locking tropomyosin over the actin sites?",
+      "options": [
+        "N-ethylmaleimide (NEM)",
+        "Caffeine",
+        "Tetanus toxin",
+        "Dantrolene"
+      ],
+      "answer": 0,
+      "explanation": "N‑ethylmaleimide modifies cysteine residues on tropomyosin, stabilizing its position over actin and thereby inhibiting cross‑bridge formation.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "During muscle contraction, the number of cross‑bridges formed is directly proportional to:",
+      "options": [
+        "[Ca2+] in the sarcoplasm",
+        "Length of the sarcomere",
+        "Concentration of ATP",
+        "pH of the extracellular fluid"
+      ],
+      "answer": 0,
+      "explanation": "Higher intracellular Ca2+ concentration increases the number of exposed myosin‑binding sites on actin, leading to more cross‑bridges and greater force generation.",
+      "topic": "Cross-bridge formation"
+    },
+    {
+      "question": "During the cross‑bridge cycle, the binding of ATP to the myosin head primarily facilitates which step?",
+      "options": [
+        "Detachment of myosin head from actin",
+        "Power stroke (myosin head pulling actin)",
+        "Formation of cross‑bridge",
+        "Release of inorganic phosphate"
+      ],
+      "answer": 0,
+      "explanation": "ATP binds to the myosin head causing a conformational change that reduces its affinity for actin, leading to detachment of the cross‑bridge.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "Hydrolysis of ATP on the myosin head results in which structural change?",
+      "options": [
+        "Release of calcium from sarcoplasmic reticulum",
+        "Sliding of actin over myosin",
+        "Cocking of the myosin head into a high‑energy state",
+        "Binding of troponin to calcium"
+      ],
+      "answer": 2,
+      "explanation": "ATP hydrolysis converts the myosin head into a high‑energy, cocked conformation ready to bind actin for the power stroke.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "If ATP is unavailable in a muscle, the muscle enters which condition?",
+      "options": [
+        "Tetany",
+        "Rigor mortis",
+        "Relaxed state",
+        "Muscle fatigue"
+      ],
+      "answer": 1,
+      "explanation": "Absence of ATP prevents detachment of myosin from actin, causing a permanent cross‑bridge state known as rigor mortis.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "How many molecules of ATP are consumed for each complete cross‑bridge cycle in skeletal muscle?",
+      "options": [
+        "One molecule of ATP per cross‑bridge cycle",
+        "Two molecules of ATP per cycle",
+        "Three molecules of ATP per cycle",
+        "No ATP is required"
+      ],
+      "answer": 0,
+      "explanation": "Each cycle requires one ATP: binding for detachment, hydrolysis for cocking, and release of Pi during the power stroke.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "Which enzyme provides the fastest regeneration of ATP from ADP during brief, intense muscle activity?",
+      "options": [
+        "Myokinase (adenylate kinase)",
+        "Creatine kinase",
+        "ATP synthase",
+        "Phosphofructokinase-1"
+      ],
+      "answer": 1,
+      "explanation": "Creatine kinase catalyzes the transfer of a phosphate from phosphocreatine to ADP, rapidly replenishing ATP in contracting skeletal muscle.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "What is the direct role of ATP in muscle relaxation after contraction?",
+      "options": [
+        "ATP binding to myosin causes detachment of myosin from actin",
+        "ATP hydrolysis directly pumps calcium back into the sarcoplasmic reticulum",
+        "ATP phosphorylates troponin to expose binding sites",
+        "ATP binds to tropomyosin to block actin sites"
+      ],
+      "answer": 0,
+      "explanation": "ATP binding to the myosin head reduces its affinity for actin, allowing the cross‑bridge to break and the muscle fiber to relax.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "When a non‑hydrolysable ATP analog is present, what effect does it have on muscle contraction?",
+      "options": [
+        "Cross‑bridges would form but could not detach",
+        "No cross‑bridge formation would occur",
+        "Continuous power strokes would be observed",
+        "Calcium release from SR would be blocked"
+      ],
+      "answer": 0,
+      "explanation": "The analog can bind to myosin, permitting attachment to actin, but because it cannot be hydrolyzed, the myosin head cannot detach, halting the cycle.",
+      "topic": "ATP in muscle contraction"
+    },
+    {
+      "question": "Which event directly triggers the power stroke in the actomyosin cross‑bridge cycle?",
+      "options": [
+        "Binding of ATP to the myosin head",
+        "Release of ADP and inorganic phosphate from the myosin head",
+        "Binding of calcium to troponin",
+        "Hydrolysis of ATP to ADP and Pi"
+      ],
+      "answer": 1,
+      "explanation": "The power stroke is initiated when the myosin head releases ADP and Pi after attaching to actin, causing a conformational change that pulls the actin filament.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "During the power stroke, the myosin head moves the actin filament by approximately:",
+      "options": [
+        "2–3 nanometres",
+        "4–6 nanometres",
+        "8–10 nanometres",
+        "12–15 nanometres"
+      ],
+      "answer": 1,
+      "explanation": "Experimental measurements show the myosin head displacement during a single power stroke is about 5 nm, i.e., roughly 4–6 nm.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "The immediate source of energy that drives the power stroke is:",
+      "options": [
+        "Binding of ATP to myosin",
+        "Hydrolysis of ATP to ADP + Pi",
+        "Release of inorganic phosphate (Pi) from the myosin head",
+        "Reattachment of myosin to actin"
+      ],
+      "answer": 2,
+      "explanation": "Energy stored during ATP hydrolysis is released when Pi dissociates from the myosin‑actin complex, producing the force‑generating power stroke.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "The power stroke results in which sarcomeric change?",
+      "options": [
+        "Shortening of the A band",
+        "Shortening of the I band",
+        "Shortening of the H zone",
+        "Lengthening of the Z line"
+      ],
+      "answer": 2,
+      "explanation": "As the myosin head pulls actin toward the M line, the region containing only thick filaments (the H zone) becomes shorter.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "Which statement about the power stroke is FALSE?",
+      "options": [
+        "It occurs after the myosin head is attached to actin",
+        "It requires the presence of calcium ions",
+        "It results in the release of ADP from the myosin head",
+        "It is accompanied by a ~5 nm displacement of the myosin head"
+      ],
+      "answer": 1,
+      "explanation": "Calcium’s role is to expose the myosin‑binding sites on actin; the power stroke itself does not require calcium directly.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "The rate‑limiting step of the power stroke is primarily the:",
+      "options": [
+        "Diffusion of calcium back into the sarcoplasmic reticulum",
+        "Rate of ATP hydrolysis by myosin ATPase",
+        "Rate of ADP release from the myosin head",
+        "Rate of cross‑bridge detachment"
+      ],
+      "answer": 2,
+      "explanation": "After the power stroke, ADP must dissociate from the myosin head before a new ATP can bind; this ADP release is the slowest step governing the cycle speed.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "In fast‑twitch (high myosin ATPase) muscle fibers, the power stroke:",
+      "options": [
+        "Takes longer time but generates more force",
+        "Is faster resulting in rapid shortening",
+        "Is independent of ATPase activity",
+        "Is slower due to increased calcium binding"
+      ],
+      "answer": 1,
+      "explanation": "High ATPase activity accelerates the entire cross‑bridge cycle, making the power stroke occur more quickly and producing rapid muscle shortening.",
+      "topic": "Power stroke"
+    },
+    {
+      "question": "What is the primary event that initiates muscle relaxation after a contraction?",
+      "options": [
+        "Reuptake of Ca2+ into the sarcoplasmic reticulum by the SERCA pump",
+        "Binding of ATP to the myosin head causing its detachment",
+        "Release of acetylcholine from the motor neuron",
+        "Repolarization of the sarcolemma"
+      ],
+      "answer": 0,
+      "explanation": "Relaxation begins when Ca2+ is actively pumped back into the sarcoplasmic reticulum by the SERCA (Ca2+-ATPase) pump, lowering cytosolic Ca2+ concentration and ending the cross‑bridge cycle.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "During muscle relaxation, what happens to the troponin‑tropomyosin complex on the actin filament?",
+      "options": [
+        "Troponin binds more Ca2+ and shifts tropomyosin away from myosin‑binding sites",
+        "Ca2+ dissociates from troponin, allowing tropomyosin to cover the myosin‑binding sites",
+        "Tropomyosin becomes phosphorylated, exposing the binding sites",
+        "Troponin is degraded by proteases"
+      ],
+      "answer": 1,
+      "explanation": "When Ca2+ levels fall, Ca2+ unbinds from the C‑terminal domain of troponin C; this causes tropomyosin to return to its blocking position over the myosin‑binding sites on actin, preventing further cross‑bridge formation.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "Which ATPase activity is directly responsible for detaching myosin heads from actin during relaxation?",
+      "options": [
+        "Myosin ATPase",
+        "Na⁺/K⁺‑ATPase",
+        "Ca²⁺‑ATPase of the sarcoplasmic reticulum",
+        "Acetylcholinesterase"
+      ],
+      "answer": 0,
+      "explanation": "Hydrolysis of ATP by the myosin ATPase provides the energy for the myosin head to release from actin, a necessary step for relaxation.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "Which sarcomeric change is observed when a muscle fiber relaxes?",
+      "options": [
+        "The A band shortens",
+        "The I band lengthens",
+        "The H zone disappears",
+        "The Z lines move farther apart"
+      ],
+      "answer": 1,
+      "explanation": "During relaxation, the overlap between thick and thin filaments decreases, causing the I band (region of thin filaments only) to become longer, while the A band length remains constant.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "How does acetylcholinesterase contribute to muscle relaxation?",
+      "options": [
+        "It pumps Ca²⁺ back into the sarcoplasmic reticulum",
+        "It hydrolyzes ATP bound to myosin heads",
+        "It degrades acetylcholine in the synaptic cleft, terminating neuronal stimulation",
+        "It opens voltage‑gated Na⁺ channels"
+      ],
+      "answer": 2,
+      "explanation": "Acetylcholinesterase rapidly hydrolyses acetylcholine in the neuromuscular junction, stopping further end‑plate depolarization and allowing the muscle membrane to repolarize.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "Which second messenger predominantly promotes relaxation of smooth muscle by lowering intracellular Ca²⁺?",
+      "options": [
+        "cAMP",
+        "IP₃",
+        "DAG",
+        "Ca²⁺ itself"
+      ],
+      "answer": 0,
+      "explanation": "Elevated cAMP activates protein kinase A, which phosphorylates and inhibits myosin‑light‑chain kinase, leading to reduced Ca²⁺‑myosin interaction and smooth‑muscle relaxation.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "A deficiency of which enzyme would most directly impair the relaxation phase of skeletal muscle contraction?",
+      "options": [
+        "Acetylcholinesterase",
+        "Creatine kinase",
+        "Lactate dehydrogenase",
+        "Myosin light‑chain kinase"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient acetylcholinesterase would allow acetylcholine to persist in the synaptic cleft, causing prolonged end‑plate potentials and delayed muscle relaxation.",
+      "topic": "Relaxation of muscle"
+    },
+    {
+      "question": "Which of the following characteristics is most responsible for the reddish colour of red (slow‑twitch) muscle fibers?",
+      "options": [
+        "High myoglobin content",
+        "High glycogen stores",
+        "Low mitochondrial density",
+        "Low capillary supply"
+      ],
+      "answer": 0,
+      "explanation": "Red fibers contain abundant myoglobin, which binds oxygen and gives the fibers a dark red colour; the other features are typical of white fibers.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "Red (type I) muscle fibers are primarily recruited for which type of activity?",
+      "options": [
+        "Short, explosive bursts of force",
+        "Sustained low‑intensity activities such as posture maintenance",
+        "Rapid eye movements",
+        "Involuntary cardiac contractions"
+      ],
+      "answer": 1,
+      "explanation": "Type I fibers are fatigue‑resistant and suited for prolonged, low‑intensity work like maintaining posture.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "During a brief maximal effort (e.g., a 100‑m sprint), the dominant energy pathway in white (type II) muscle fibers is:",
+      "options": [
+        "Oxidative phosphorylation",
+        "Anaerobic glycolysis",
+        "Beta‑oxidation of fatty acids",
+        "Phosphocreatine breakdown"
+      ],
+      "answer": 1,
+      "explanation": "White fibers rely mainly on anaerobic glycolysis for rapid ATP generation during short, intense activities.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "Compared with white (fast‑twitch) fibers, red (slow‑twitch) fibers have:",
+      "options": [
+        "A slower contraction speed",
+        "A faster contraction speed",
+        "Identical contraction speed",
+        "No contractile activity"
+      ],
+      "answer": 0,
+      "explanation": "Red fibers contract more slowly due to their oxidative metabolism and higher myosin ATPase activity.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "Which statement best describes the fatigue resistance of red muscle fibers?",
+      "options": [
+        "They are highly resistant to fatigue",
+        "They fatigue quickly",
+        "They have the same fatigue resistance as white fibers",
+        "Fatigue resistance is unrelated to fibre type"
+      ],
+      "answer": 0,
+      "explanation": "The rich capillary supply, mitochondria and oxidative metabolism make red fibers resistant to fatigue.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "The soleus muscle, important for maintaining upright posture, is composed predominantly of which fibre type?",
+      "options": [
+        "Type I (red) fibers",
+        "Type IIa (intermediate) fibers",
+        "Type IIb (white) fibers",
+        "Cardiac (type III) fibers"
+      ],
+      "answer": 0,
+      "explanation": "Postural muscles like the soleus contain mainly type I slow‑twitch fibers to sustain activity for long periods.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "Why do white (fast‑twitch) muscle fibers appear paler than red fibers?",
+      "options": [
+        "They contain lower amounts of myoglobin",
+        "They have higher lipid content",
+        "They store more glycogen",
+        "They have larger diameters"
+      ],
+      "answer": 0,
+      "explanation": "The pale colour of white fibers is due to their low myoglobin concentration, which reduces oxygen‑binding pigment.",
+      "topic": "Red and white muscle fibres"
+    },
+    {
+      "question": "Which metabolic change is considered the primary cause of peripheral muscle fatigue during high‑intensity exercise?",
+      "options": [
+        "Accumulation of inorganic phosphate",
+        "Depletion of ATP",
+        "Accumulation of lactic acid",
+        "Depletion of glycogen"
+      ],
+      "answer": 0,
+      "explanation": "Inorganic phosphate builds up as ATP is hydrolysed; high Pi interferes with cross‑bridge cycling and reduces force production, making it a key factor in peripheral fatigue.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "During muscle fatigue, which alteration in sarcoplasmic reticulum calcium handling contributes most to the decline in force?",
+      "options": [
+        "Decreased Ca2+ release from sarcoplasmic reticulum",
+        "Increased Ca2+ reuptake into SR",
+        "Increased Ca2+ sensitivity of troponin",
+        "Decreased Ca2+ binding to troponin"
+      ],
+      "answer": 0,
+      "explanation": "Fatigue reduces the amount of Ca2+ released per action potential, lowering the Ca2+ transient that activates the contractile proteins, thereby decreasing force.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "Force generation falls in a fatigued muscle fiber even when intracellular Ca2+ levels are unchanged. Which mechanism best explains this observation?",
+      "options": [
+        "Decreased myosin ATPase activity",
+        "Reduced number of active cross‑bridges due to inorganic phosphate accumulation",
+        "Increased troponin affinity for Ca2+",
+        "Increased sarcomere length"
+      ],
+      "answer": 1,
+      "explanation": "Accumulated Pi binds to myosin heads, preventing effective cross‑bridge formation, so fewer heads generate force despite normal Ca2+ concentration.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "Which type of skeletal muscle fibre shows the greatest resistance to fatigue?",
+      "options": [
+        "Type I (slow oxidative)",
+        "Type IIa (fast oxidative‑glycolytic)",
+        "Type IIb (fast glycolytic)",
+        "Type IIx (intermediate)"
+      ],
+      "answer": 0,
+      "explanation": "Type I fibres rely on oxidative metabolism, have abundant mitochondria and capillaries, and sustain activity for long periods with minimal fatigue.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "In the context of muscle fatigue, \"central fatigue\" primarily refers to:",
+      "options": [
+        "Failure of neuromuscular junction transmission",
+        "Reduced motor cortex drive to the muscle",
+        "Depletion of ATP in muscle fibres",
+        "Accumulation of lactic acid in muscle"
+      ],
+      "answer": 1,
+      "explanation": "Central fatigue involves a decline in the neural drive from the brain or spinal cord, decreasing voluntary activation of the muscle.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "Which step of the cross‑bridge cycle is most directly impaired when ATP availability falls during fatigue?",
+      "options": [
+        "Detachment of myosin head from actin",
+        "Reuptake of Ca2+ into sarcoplasmic reticulum",
+        "Phosphorylation of myosin regulatory light chain",
+        "Formation of actin‑myosin cross‑bridge"
+      ],
+      "answer": 0,
+      "explanation": "ATP binding is required for the myosin head to detach from actin; low ATP slows detachment, reducing the number of cycling cross‑bridges and force.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "Which nutritional strategy most directly helps to delay muscle fatigue during prolonged moderate‑intensity exercise?",
+      "options": [
+        "Ingestion of glucose",
+        "Ingestion of creatine phosphate",
+        "Ingestion of caffeine",
+        "Ingestion of bicarbonate"
+      ],
+      "answer": 0,
+      "explanation": "Glucose provides a continuous substrate for glycolysis and oxidative phosphorylation, maintaining ATP levels and postponing fatigue.",
+      "topic": "Muscle fatigue"
+    },
+    {
+      "question": "Myasthenia gravis is primarily caused by autoantibodies directed against which component at the neuromuscular junction?",
+      "options": [
+        "Increased degradation of acetylcholine",
+        "Blockade of voltage‑gated Na⁺ channels",
+        "Decreased number of nicotinic acetylcholine receptors",
+        "Excess release of calcium from the sarcoplasmic reticulum"
+      ],
+      "answer": 2,
+      "explanation": "The disease involves antibodies that bind to and reduce the number of postsynaptic nicotinic ACh receptors, lowering end‑plate potential amplitude and causing muscle weakness.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "The most common form of muscular dystrophy in children, Duchenne muscular dystrophy, results from a defect in which protein?",
+      "options": [
+        "Myosin heavy chain",
+        "Dystrophin",
+        "Calcium‑binding proteins",
+        "Laminin"
+      ],
+      "answer": 1,
+      "explanation": "Duchenne muscular dystrophy is caused by mutations in the dystrophin gene on the X chromosome; lack of dystrophin weakens the link between the cytoskeleton and the extracellular matrix, leading to progressive fiber degeneration.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "Tetany is most often precipitated by which electrolyte disturbance?",
+      "options": [
+        "Hyperkalemia",
+        "Hypocalcemia",
+        "Hypermagnesemia",
+        "Hyponatremia"
+      ],
+      "answer": 1,
+      "explanation": "Low extracellular calcium increases neuronal membrane excitability, producing spontaneous muscle spasms characteristic of tetany.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "Which statement best describes the hallmark of osteoporosis?",
+      "options": [
+        "Increased bone formation",
+        "Decreased bone resorption",
+        "Decreased bone mineral density with microarchitectural deterioration",
+        "Excessive calcification of cartilage"
+      ],
+      "answer": 2,
+      "explanation": "Osteoporosis is defined by reduced bone mass and deterioration of bone microarchitecture, leading to low bone mineral density and heightened fracture risk.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "Gout attacks are due to deposition of which crystal in joints?",
+      "options": [
+        "Calcium pyrophosphate dihydrate",
+        "Calcium oxalate",
+        "Monosodium urate",
+        "Hydroxyapatite"
+      ],
+      "answer": 2,
+      "explanation": "Hyperuricemia leads to supersaturation of uric acid, forming monosodium urate crystals that deposit in joints and trigger intense inflammatory responses.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "In rheumatoid arthritis, the primary pathological target is:",
+      "options": [
+        "Articular cartilage",
+        "Subchondral bone",
+        "Synovial membrane",
+        "Ligaments"
+      ],
+      "answer": 2,
+      "explanation": "Rheumatoid arthritis is an autoimmune disease that attacks the synovial membrane, causing pannus formation, cartilage erosion, and joint deformity.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "Red (slow‑twitch) muscle fibers are more resistant to fatigue than white (fast‑twitch) fibers because they:",
+      "options": [
+        "Contain higher myoglobin and more mitochondria",
+        "Store larger amounts of glycogen",
+        "Have a larger fiber diameter",
+        "Exhibit higher myosin ATPase activity"
+      ],
+      "answer": 0,
+      "explanation": "Red fibers have abundant myoglobin and mitochondria, enabling sustained aerobic metabolism and greater fatigue resistance.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "Administration of an acetylcholinesterase inhibitor in a myasthenia gravis patient is most likely to improve which clinical parameter?",
+      "options": [
+        "Serum calcium level",
+        "Muscle strength",
+        "Serum creatine kinase activity",
+        "Bone mineral density"
+      ],
+      "answer": 1,
+      "explanation": "Acetylcholinesterase inhibitors increase the availability of ACh at the NMJ, temporarily enhancing muscle contraction strength in myasthenia gravis.",
+      "topic": "Disorders of muscular and skeletal systems"
+    },
+    {
+      "question": "The primary pathogenic mechanism in Myasthenia gravis involves:",
+      "options": [
+        "Autoantibody-mediated destruction of presynaptic calcium channels",
+        "Autoantibody blockade of postsynaptic nicotinic acetylcholine receptors",
+        "Excessive release of acetylcholine from motor nerve terminals",
+        "Mutation in the gene encoding skeletal muscle myosin"
+      ],
+      "answer": 1,
+      "explanation": "Myasthenia gravis is an autoimmune disease where IgG antibodies target postsynaptic nicotinic ACh receptors, reducing receptor number and function, leading to decreased end‑plate potentials.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "Which clinical feature is most characteristic of Myasthenia gravis?",
+      "options": [
+        "Constant muscle pain at rest",
+        "Muscle weakness that improves with rest and worsens with activity",
+        "Progressive loss of sensation in distal limbs",
+        "Fixed contractures of joints"
+      ],
+      "answer": 1,
+      "explanation": "MG presents with fatigable muscle weakness that worsens with repeated use and improves after rest, unlike constant pain or sensory loss.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "The Tensilon test used in the diagnosis of Myasthenia gravis employs which drug?",
+      "options": [
+        "Neostigmine",
+        "Edrophonium",
+        "Atropine",
+        "Succinylcholine"
+      ],
+      "answer": 1,
+      "explanation": "Edrophonium is a short‑acting acetylcholinesterase inhibitor; transient improvement of weakness after its administration supports a diagnosis of MG.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "Which thymic abnormality is most frequently associated with Myasthenia gravis?",
+      "options": [
+        "Thymic atrophy",
+        "Thymic hyperplasia",
+        "Thymic cyst",
+        "Thymic carcinoma"
+      ],
+      "answer": 1,
+      "explanation": "Approximately 65% of MG patients have thymic hyperplasia, and 10‑15% develop a thymoma; atrophy or cysts are uncommon.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "First‑line pharmacological therapy for Myasthenia gravis is:",
+      "options": [
+        "Prednisone",
+        "Azathioprine",
+        "Pyridostigmine",
+        "Methotrexate"
+      ],
+      "answer": 2,
+      "explanation": "Pyridostigmine, a reversible acetylcholinesterase inhibitor, is the initial drug of choice to improve neuromuscular transmission in MG.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "In repetitive nerve stimulation studies, Myasthenia gravis typically shows:",
+      "options": [
+        "Incremental increase in compound muscle action potential amplitude",
+        "Decremental response of >10% in the fourth stimulus",
+        "No change in amplitude",
+        "Absence of motor unit potentials"
+      ],
+      "answer": 1,
+      "explanation": "Postsynaptic blockade causes a characteristic decremental response (>10% drop) on low‑frequency repetitive stimulation.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "Besides anti‑acetylcholine receptor antibodies, which other autoantibody is found in a subset of Myasthenia gravis patients?",
+      "options": [
+        "Anti‑muscle specific kinase (MuSK) antibodies",
+        "Anti‑DNA topoisomerase I antibodies",
+        "Anti‑thyroglobulin antibodies",
+        "Anti‑centromere antibodies"
+      ],
+      "answer": 0,
+      "explanation": "Around 5‑10% of MG patients are seronegative for AChR antibodies but have antibodies against muscle‑specific kinase (MuSK), which also impair neuromuscular transmission.",
+      "topic": "Myasthenia gravis"
+    },
+    {
+      "question": "What is the inheritance pattern of Duchenne muscular dystrophy?",
+      "options": [
+        "Autosomal dominant",
+        "Autosomal recessive",
+        "X-linked recessive",
+        "Mitochondrial"
+      ],
+      "answer": 2,
+      "explanation": "Duchenne muscular dystrophy is transmitted as an X-linked recessive disorder, affecting mainly males.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "Mutation of which gene is primarily responsible for Duchenne muscular dystrophy?",
+      "options": [
+        "Dystrophin gene (DMD)",
+        "Myostatin gene (MSTN)",
+        "Collagen type I gene (COL1A1)",
+        "Titin gene (TTN)"
+      ],
+      "answer": 0,
+      "explanation": "The DMD gene on chromosome Xp21 encodes dystrophin; its mutation causes Duchenne muscular dystrophy.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "The principal pathological consequence of dystrophin deficiency in muscle fibers is:",
+      "options": [
+        "Impaired calcium release from the sarcoplasmic reticulum",
+        "Disruption of sarcolemma integrity leading to increased susceptibility to damage",
+        "Decreased mitochondrial ATP production",
+        "Excessive actin polymerization"
+      ],
+      "answer": 1,
+      "explanation": "Lack of dystrophin weakens the link between the cytoskeleton and extracellular matrix, making the sarcolemma fragile and prone to injury during contraction.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "Which clinical sign is most characteristically observed early in a child with Duchenne muscular dystrophy?",
+      "options": [
+        "Gowers' sign",
+        "Pseudohypertrophy of calf muscles",
+        "Myotonia",
+        "Muscle cramps"
+      ],
+      "answer": 0,
+      "explanation": "Gowers' sign—using hands to climb up the thighs while rising from the floor—appears around 4–5 years and is an early indicator of proximal muscle weakness.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "Which statement correctly distinguishes Duchenne from Becker muscular dystrophy?",
+      "options": [
+        "Duchenne has a later onset than Becker",
+        "Duchenne results from nonsense/frameshift mutations leading to absent dystrophin, while Becker results from in‑frame deletions producing partially functional dystrophin",
+        "Both have identical severity",
+        "Becker is X‑linked dominant"
+      ],
+      "answer": 1,
+      "explanation": "Duchenne typically involves out‑of‑frame mutations causing virtually no dystrophin, whereas Becker involves in‑frame deletions that allow some functional protein, giving a milder phenotype.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "Which laboratory finding is most characteristic of Duchenne muscular dystrophy?",
+      "options": [
+        "Elevated serum creatine kinase (CK) levels",
+        "Decreased serum lactate dehydrogenase",
+        "Normal serum CK",
+        "Decreased serum aldolase"
+      ],
+      "answer": 0,
+      "explanation": "Serum CK is markedly raised (often >10‑fold) due to ongoing muscle membrane leakage.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "Which therapeutic intervention has been shown to slow the progression of muscle weakness in Duchenne muscular dystrophy?",
+      "options": [
+        "High‑dose vitamin D supplementation",
+        "Long‑term corticosteroid therapy",
+        "Beta‑blockers",
+        "Anticholinesterase drugs"
+      ],
+      "answer": 1,
+      "explanation": "Chronic corticosteroids (e.g., prednisone or deflazacort) improve muscle strength and delay loss of ambulation in Duchenne patients.",
+      "topic": "Muscular dystrophy"
+    },
+    {
+      "question": "The most common immediate biochemical abnormality responsible for tetany is:",
+      "options": [
+        "Decreased serum calcium concentration",
+        "Increased serum potassium concentration",
+        "Decreased serum sodium concentration",
+        "Increased serum magnesium concentration"
+      ],
+      "answer": 0,
+      "explanation": "Tetany is primarily caused by hypocalcemia, which lowers the threshold for neuronal excitation leading to muscle spasms.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "Inflating a blood pressure cuff above systolic pressure for a few minutes induces which classic sign of tetany?",
+      "options": [
+        "Chvostek's sign",
+        "Trousseau's sign",
+        "Babinski sign",
+        "Hoffmann sign"
+      ],
+      "answer": 1,
+      "explanation": "Trousseau's sign is elicited by a cuff-induced ischemia that produces carpopedal spasm, a hallmark of tetany.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "Low extracellular Ca²⁺ increases neuronal excitability because it:",
+      "options": [
+        "Decreases the threshold potential for depolarization",
+        "Increases the threshold potential for depolarization",
+        "Blocks voltage‑gated Na⁺ channels",
+        "Enhances K⁺ efflux during repolarization"
+      ],
+      "answer": 0,
+      "explanation": "Reduced Ca²⁺ outside the cell stabilises the membrane less, so a smaller depolarising stimulus can trigger an action potential.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "A patient with normal parathyroid function develops tetany after a bout of hyperventilation. Which acid‑base disturbance is responsible?",
+      "options": [
+        "Respiratory alkalosis",
+        "Metabolic acidosis",
+        "Hypernatremia",
+        "Hyperglycemia"
+      ],
+      "answer": 0,
+      "explanation": "Hyperventilation causes respiratory alkalosis, which increases binding of Ca²⁺ to albumin, lowering ionised calcium and precipitating tetany.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "Which hormone directly raises serum calcium levels and therefore prevents tetany?",
+      "options": [
+        "Calcitonin",
+        "Parathyroid hormone",
+        "Insulin",
+        "Aldosterone"
+      ],
+      "answer": 1,
+      "explanation": "Parathyroid hormone (PTH) increases calcium reabsorption from kidney, bone resorption and activation of vitamin D, raising serum Ca²⁺.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "During tetany, sustained muscle contraction is mainly due to:",
+      "options": [
+        "Increased release of acetylcholine at the neuromuscular junction",
+        "Decreased reuptake of acetylcholine",
+        "Persistent depolarisation of the motor end‑plate",
+        "Inhibition of acetylcholinesterase activity"
+      ],
+      "answer": 2,
+      "explanation": "Low extracellular Ca²⁺ lowers the threshold for end‑plate depolarisation, causing continuous firing of motor neurons and prolonged contraction.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "Which electrolyte abnormality can mask the clinical manifestations of tetany even when serum calcium is low?",
+      "options": [
+        "Hypermagnesemia",
+        "Hyperkalemia",
+        "Hyponatremia",
+        "Hyperphosphatemia"
+      ],
+      "answer": 0,
+      "explanation": "Elevated magnesium has a depressant effect on neuromuscular excitability, potentially concealing tetany signs despite hypocalcaemia.",
+      "topic": "Tetany"
+    },
+    {
+      "question": "Which of the following is the primary pathological hallmark of rheumatoid arthritis?",
+      "options": [
+        "Synovial membrane hyperplasia",
+        "Degeneration of articular cartilage",
+        "Deposition of uric acid crystals",
+        "Osteophyte formation"
+      ],
+      "answer": 0,
+      "explanation": "Rheumatoid arthritis is characterized by chronic synovitis leading to synovial membrane hyperplasia (pannus) that erodes cartilage and bone.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "In osteoarthritis, which structural change is most characteristic?",
+      "options": [
+        "Subchondral bone sclerosis",
+        "Pannus formation",
+        "Rheumatoid factor positivity",
+        "Synovial fluid neutrophilia"
+      ],
+      "answer": 0,
+      "explanation": "Osteoarthritis shows thickening and sclerosis of the subchondral bone as a response to cartilage loss.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "Which cytokine is most implicated in the chronic inflammation of rheumatoid arthritis?",
+      "options": [
+        "Interleukin-1 (IL‑1)",
+        "Interleukin-10 (IL‑10)",
+        "Transforming growth factor‑β (TGF‑β)",
+        "Erythropoietin"
+      ],
+      "answer": 0,
+      "explanation": "IL‑1, along with TNF‑α, drives synovial inflammation, cartilage degradation and bone resorption in rheumatoid arthritis.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "The presence of anti‑citrullinated protein antibodies (ACPAs) is most specific for which type of arthritis?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Gouty arthritis",
+        "Septic arthritis"
+      ],
+      "answer": 0,
+      "explanation": "ACPAs are highly specific for rheumatoid arthritis and are used as a diagnostic marker.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "In gouty arthritis, the crystal that triggers inflammation is composed of:",
+      "options": [
+        "Monosodium urate crystals",
+        "Calcium pyrophosphate dihydrate crystals",
+        "Hydroxyapatite crystals",
+        "Calcium oxalate crystals"
+      ],
+      "answer": 0,
+      "explanation": "Gout results from deposition of monosodium urate crystals in joints, provoking an intense inflammatory response.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "Which radiographic feature helps differentiate rheumatoid arthritis from osteoarthritis?",
+      "options": [
+        "Joint space narrowing symmetric",
+        "Marginal erosions of bone",
+        "Osteophyte formation",
+        "Subchondral cysts"
+      ],
+      "answer": 1,
+      "explanation": "Marginal erosions at the joint margins are typical of rheumatoid arthritis, whereas osteophytes are characteristic of osteoarthritis.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "The primary mechanism leading to pain in inflammatory arthritis is:",
+      "options": [
+        "Release of prostaglandins and cytokines from inflamed synovium",
+        "Mechanical compression due to osteophytes",
+        "Ischemia of subchondral bone",
+        "Accumulation of lactic acid in cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Inflamed synovium releases prostaglandins and cytokines that sensitize nociceptors, producing pain in inflammatory arthritis.",
+      "topic": "Arthritis"
+    },
+    {
+      "question": "The primary hormonal change responsible for the rapid loss of bone mass in postmenopausal women is",
+      "options": [
+        "Decreased estrogen levels",
+        "Increased parathyroid hormone secretion",
+        "Vitamin C deficiency",
+        "Hyperthyroidism"
+      ],
+      "answer": 0,
+      "explanation": "Estrogen deficiency after menopause accelerates osteoclast activity, leading to increased bone resorption and osteoporosis.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "Which bone cell type is directly involved in bone resorption during osteoporosis?",
+      "options": [
+        "Osteoblast",
+        "Osteoclast",
+        "Osteocyte",
+        "Chondrocyte"
+      ],
+      "answer": 1,
+      "explanation": "Osteoclasts are multinucleated cells that dissolve mineralized bone matrix, and their activity is heightened in osteoporosis.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "A characteristic radiographic feature of osteoporosis is",
+      "options": [
+        "Looser's zones (pseudofractures)",
+        "Subperiosteal cortical thinning",
+        "\"Ground glass\" appearance of bone",
+        "\"Salt and pepper\" skull pattern"
+      ],
+      "answer": 1,
+      "explanation": "Osteoporosis shows generalized loss of cortical bone thickness, especially subperiosteal thinning, without the lytic lesions seen in other disorders.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "Which of the following is NOT a recognized risk factor for primary osteoporosis?",
+      "options": [
+        "Chronic glucocorticoid therapy",
+        "Low body mass index",
+        "High dietary calcium intake",
+        "Sedentary lifestyle"
+      ],
+      "answer": 2,
+      "explanation": "Adequate calcium intake protects against bone loss; the other three are established risk factors for primary osteoporosis.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "The most sensitive biochemical marker for assessing bone formation activity is",
+      "options": [
+        "Serum alkaline phosphatase",
+        "Serum osteocalcin",
+        "Urinary N‑telopeptide",
+        "Serum calcium"
+      ],
+      "answer": 1,
+      "explanation": "Serum osteocalcin is produced by osteoblasts and rises early in periods of increased bone formation, making it a sensitive marker.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "Which class of drugs primarily reduces bone resorption by inhibiting osteoclast-mediated bone loss?",
+      "options": [
+        "Bisphosphonates",
+        "Teriparatide (PTH analog)",
+        "Calcitonin",
+        "Calcium supplements"
+      ],
+      "answer": 0,
+      "explanation": "Bisphosphonates bind to hydroxyapatite and induce osteoclast apoptosis, thereby decreasing bone resorption in osteoporosis.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "Which statement correctly distinguishes osteoporosis from osteomalacia?",
+      "options": [
+        "Both conditions present with low serum calcium levels",
+        "Osteoporosis is associated with markedly elevated alkaline phosphatase",
+        "Osteomalacia shows widened osteoid seams due to defective mineralization",
+        "Osteoporosis causes more severe bone pain than osteomalacia"
+      ],
+      "answer": 2,
+      "explanation": "In osteomalacia, defective mineralization leads to accumulation of unmineralized osteoid, seen as widened osteoid seams on histology, whereas osteoporosis has normal mineralization but reduced bone mass.",
+      "topic": "Osteoporosis"
+    },
+    {
+      "question": "The solubility limit of uric acid in plasma at physiological pH is approximately:",
+      "options": [
+        "6.8 mg/dL",
+        "4.5 mg/dL",
+        "8.2 mg/dL",
+        "10 mg/dL"
+      ],
+      "answer": 0,
+      "explanation": "Uric acid precipitates when its concentration exceeds its solubility (~6.8 mg/dL) at normal body temperature and pH, leading to crystal formation in gout.",
+      "topic": "Gout"
+    },
+    {
+      "question": "The most frequent joint involved in the first acute attack of gout is:",
+      "options": [
+        "First metatarsophalangeal joint",
+        "Knee joint",
+        "Ankle joint",
+        "Wrist joint"
+      ],
+      "answer": 0,
+      "explanation": "The classic presentation of gout is podagra, an acute inflammatory arthritis of the first MTP joint.",
+      "topic": "Gout"
+    },
+    {
+      "question": "A deficiency of which enzyme is most directly associated with increased de novo synthesis of purines leading to hyperuricemia?",
+      "options": [
+        "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)",
+        "Adenosine deaminase",
+        "Glucose-6-phosphatase",
+        "Lactate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "HGPRT deficiency (Lesch‑Nyhan syndrome) impairs the salvage pathway, causing excess purine synthesis and high uric acid levels.",
+      "topic": "Gout"
+    },
+    {
+      "question": "Which of the following drugs is a reversible inhibitor of xanthine oxidase used for long‑term management of gout?",
+      "options": [
+        "Allopurinol",
+        "Probenecid",
+        "Colchicine",
+        "Indomethacin"
+      ],
+      "answer": 0,
+      "explanation": "Allopurinol inhibits xanthine oxidase, reducing uric acid production; it is the main urate‑lowering agent for chronic gout.",
+      "topic": "Gout"
+    },
+    {
+      "question": "Which of the following findings is NOT typical of gouty arthritis?",
+      "options": [
+        "Presence of monosodium urate crystals that are negatively birefringent",
+        "Tophi formation in soft tissues",
+        "Calcium pyrophosphate crystals that are positively birefringent",
+        "Elevated serum uric acid"
+      ],
+      "answer": 2,
+      "explanation": "Calcium pyrophosphate crystals (positively birefringent) are characteristic of pseudogout, not gout.",
+      "topic": "Gout"
+    },
+    {
+      "question": "Colchicine exerts its anti‑inflammatory effect in gout by:",
+      "options": [
+        "Inhibiting microtubule polymerisation in neutrophils",
+        "Blocking cyclooxygenase‑2 enzyme",
+        "Antagonising IL‑1 receptors",
+        "Inhibiting xanthine oxidase"
+      ],
+      "answer": 0,
+      "explanation": "Colchicine disrupts microtubule formation, impairing neutrophil chemotaxis and activation, thereby reducing inflammation.",
+      "topic": "Gout"
+    },
+    {
+      "question": "Among the following dietary items, which is most strongly associated with precipitating an acute gout attack?",
+      "options": [
+        "Organ meats (e.g., liver)",
+        "Low‑fat dairy products",
+        "Citrus fruits",
+        "Whole grains"
+      ],
+      "answer": 0,
+      "explanation": "Organ meats are rich in purines; high purine intake raises serum uric acid and can trigger gout flares.",
+      "topic": "Gout"
+    },
+    {
+      "question": "Initiation of allopurinol therapy during an acute gout flare is generally avoided because:",
+      "options": [
+        "It may prolong the duration of the attack",
+        "It causes severe hypoglycaemia",
+        "It precipitates renal stones",
+        "It increases serum calcium"
+      ],
+      "answer": 0,
+      "explanation": "Starting allopurinol during an acute attack can worsen or prolong the flare; it is started after the attack subsides.",
+      "topic": "Gout"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 37,
+    "mcqCount": 258
+  }
+}

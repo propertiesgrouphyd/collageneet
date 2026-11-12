@@ -1,0 +1,1550 @@
+{
+  "day": 46,
+  "courseDate": "2026-10-14",
+  "publishAt": "2026-10-14T06:00:00+05:30",
+  "title": "Transport in Plants — Water Relations (Day 46)",
+  "introduction": "This lesson explores how plants acquire, move, and regulate water and solutes. Understanding the mechanisms of transport and water relations is essential for answering NEET biology questions on plant physiology.",
+  "sections": [
+    {
+      "topic": "Need for transport in plants",
+      "heading": "Why Plants Must Transport Substances",
+      "content": "Plants are sessile organisms; they cannot relocate to favorable environments. Transport systems distribute water, minerals, photosynthates, and hormones from sites of acquisition (roots, leaves) to sites of utilization or storage, maintaining cellular turgor, growth, and metabolic balance.",
+      "keyPoints": [
+        "Transport compensates for immobility",
+        "Ensures nutrient supply to all tissues",
+        "Maintains turgor for cell expansion"
+      ],
+      "neetTips": [
+        "Link the need for transport to plant growth and stress responses in NEET questions"
+      ]
+    },
+    {
+      "topic": "Means of transport",
+      "heading": "Pathways for Movement in Plants",
+      "content": "Transport occurs via apoplast (cell walls and intercellular spaces), symplast (cytoplasmic continuum through plasmodesmata), and transmembrane routes involving membrane proteins. The choice of pathway depends on molecule size, polarity, and physiological demand.",
+      "keyPoints": [
+        "Apoplast: extracellular route",
+        "Symplast: cytoplasmic continuum",
+        "Transmembrane: protein‑mediated"
+      ],
+      "neetTips": [
+        "NEET often asks which pathway a solute uses; recall plasmodesmata for symplastic movement"
+      ]
+    },
+    {
+      "topic": "Diffusion",
+      "heading": "Passive Movement Down a Concentration Gradient",
+      "content": "Diffusion is the spontaneous movement of molecules from higher to lower concentration until equilibrium. In plants, gases (O₂, CO₂) and small uncharged solutes diffuse across membranes or cell walls without energy input.",
+      "keyPoints": [
+        "No energy required",
+        "Rate proportional to concentration gradient",
+        "Affected by temperature and medium viscosity"
+      ],
+      "neetTips": [
+        "Remember diffusion is fastest for small, non‑polar molecules"
+      ]
+    },
+    {
+      "topic": "Facilitated diffusion",
+      "heading": "Carrier‑Assisted Passive Transport",
+      "content": "Facilitated diffusion uses specific carrier or channel proteins to transport polar or charged molecules down their concentration gradient. The carriers undergo conformational changes but do not consume ATP.",
+      "keyPoints": [
+        "Requires membrane proteins",
+        "Selectivity for specific solutes",
+        "No ATP hydrolysis"
+      ],
+      "neetTips": [
+        "Distinguish from active transport: energy‑independent but protein‑mediated"
+      ]
+    },
+    {
+      "topic": "Active transport",
+      "heading": "Energy‑Dependent Transport Against Gradient",
+      "content": "Active transport moves ions or molecules from lower to higher concentration using ATP or electrochemical energy. Primary active transport (e.g., H⁺‑ATPase) directly hydrolyses ATP, while secondary active transport couples the movement to an ion gradient.",
+      "keyPoints": [
+        "Requires ATP or ion gradient",
+        "Can concentrate solutes",
+        "Examples: H⁺‑pump, Na⁺/K⁺‑ATPase"
+      ],
+      "neetTips": [
+        "NEET often links active transport to nutrient uptake in roots"
+      ]
+    },
+    {
+      "topic": "Osmosis",
+      "heading": "Water Movement Through Semi‑permeable Membranes",
+      "content": "Osmosis is the diffusion of water across a semi‑permeable membrane from a region of higher water potential to lower water potential. It is the principal mechanism for water uptake in root cells.",
+      "keyPoints": [
+        "Driven by water potential difference",
+        "Occurs through aquaporins",
+        "No solute transport"
+      ],
+      "neetTips": [
+        "Relate osmotic flow to root pressure and leaf transpiration"
+      ]
+    },
+    {
+      "topic": "Water potential",
+      "heading": "Thermodynamic Measure Governing Water Movement",
+      "content": "Water potential (Ψ) quantifies the free energy of water per unit volume. Water moves from lower (more negative) Ψ to higher (less negative) Ψ. Ψ = Ψs + Ψp, where Ψs is solute potential and Ψp is pressure potential.",
+      "keyPoints": [
+        "Units: MPa",
+        "Negative values indicate tension",
+        "Sum of solute and pressure potentials"
+      ],
+      "neetTips": [
+        "NEET questions often require calculating Ψ using Ψ = Ψs + Ψp"
+      ]
+    },
+    {
+      "topic": "Solute potential",
+      "heading": "Effect of Dissolved Solutes on Water Potential",
+      "content": "Solute potential (Ψs) is always negative and lowers the overall water potential. It is given by Ψs = –iCRT (i = ionization factor, C = molar concentration, R = gas constant, T = temperature in Kelvin).",
+      "keyPoints": [
+        "More solute → more negative Ψs",
+        "Depends on concentration and temperature",
+        "Calculated using van’t Hoff equation"
+      ],
+      "neetTips": [
+        "Remember the negative sign; higher solute concentration reduces water potential"
+      ]
+    },
+    {
+      "topic": "Pressure potential",
+      "heading": "Mechanical Contribution to Water Potential",
+      "content": "Pressure potential (Ψp) is positive when turgor pressure builds inside a cell, offsetting the negative Ψs. In xylem, negative Ψp (tension) contributes to water ascent. Ψp = 0 in dead cells lacking turgor.",
+      "keyPoints": [
+        "Positive Ψp raises overall Ψ",
+        "Generated by cell wall resistance to water influx",
+        "Zero in dead or plasmolyzed cells"
+      ],
+      "neetTips": [
+        "Link Ψp to turgor maintenance in guard cells"
+      ]
+    },
+    {
+      "topic": "Plasmolysis",
+      "heading": "Cellular Shrinkage Due to Water Loss",
+      "content": "Plasmolysis occurs when a plant cell placed in a hypertonic solution loses water, causing the plasma membrane to detach from the cell wall and the cytoplasm to contract.",
+      "keyPoints": [
+        "Hypertonic external medium",
+        "Visible gap between membrane and wall",
+        "Reversible if placed back in hypotonic solution"
+      ],
+      "neetTips": [
+        "NEET may ask visual identification of plasmolysed cells"
+      ]
+    },
+    {
+      "topic": "Deplasmolysis",
+      "heading": "Restoration of Cell Volume After Plasmolysis",
+      "content": "Deplasmolysis is the reversal of plasmolysis when a plasmolysed cell is transferred to a hypotonic or isotonic medium, allowing water to re‑enter, re‑establishing membrane‑wall contact and turgor.",
+      "keyPoints": [
+        "Occurs in hypotonic solution",
+        "Membrane re‑attaches to wall",
+        "Restores turgor"
+      ],
+      "neetTips": [
+        "Remember deplasmolysis demonstrates cell’s ability to regain turgor"
+      ]
+    },
+    {
+      "topic": "Osmotic pressure",
+      "heading": "Pressure Required to Prevent Water Influx",
+      "content": "Osmotic pressure (π) is the hydrostatic pressure needed to stop the net flow of water into a solution through a semi‑permeable membrane. π = iMRT (M = molarity). It reflects the solute concentration of the solution.",
+      "keyPoints": [
+        "Directly proportional to solute concentration",
+        "Measured in atm or MPa",
+        "Equal to –Ψs at equilibrium"
+      ],
+      "neetTips": [
+        "Use π to relate solute concentration to water potential in calculations"
+      ]
+    },
+    {
+      "topic": "Turgor pressure",
+      "heading": "Internal Pressure Supporting Plant Rigidity",
+      "content": "Turgor pressure is the positive pressure exerted by the cell contents against the cell wall, maintaining rigidity and driving cell expansion. It results from water entering the cell until Ψp balances Ψs.",
+      "keyPoints": [
+        "Essential for leaf erectness",
+        "Drives cell elongation in growing tissues",
+        "Loss leads to wilting"
+      ],
+      "neetTips": [
+        "NEET often links turgor loss to wilting and stomatal closure"
+      ]
+    },
+    {
+      "topic": "Imbibition",
+      "heading": "Water Uptake by Dry Seeds and Tissues",
+      "content": "Imbibition is the rapid absorption of water by hydrophilic substances such as seed coats, leading to swelling. It is a physical process, not metabolic, and initiates germination by rehydrating enzymes.",
+      "keyPoints": [
+        "Occurs in dry seeds, spores, wood",
+        "Causes swelling and softening",
+        "Triggers metabolic activation"
+      ],
+      "neetTips": [
+        "Highlight that imbibition is a non‑living process but crucial for germination"
+      ]
+    },
+    {
+      "topic": "Factors affecting diffusion",
+      "heading": "Variables Modulating Diffusive Rate",
+      "content": "Diffusion rate depends on concentration gradient, temperature, surface area, diffusion distance, and medium viscosity. In plants, stomatal opening and leaf thickness influence gas diffusion.",
+      "keyPoints": [
+        "Higher gradient → faster diffusion",
+        "Increased temperature raises kinetic energy",
+        "Larger surface area and shorter distance accelerate diffusion"
+      ],
+      "neetTips": [
+        "NEET may ask which factor most enhances CO₂ diffusion in leaves"
+      ]
+    },
+    {
+      "topic": "Importance of water relations in plants",
+      "heading": "Why Water Dynamics Are Vital",
+      "content": "Water relations govern nutrient transport, cell expansion, temperature regulation, and photosynthetic efficiency. Disruption leads to wilting, reduced growth, and impaired metabolic functions, underscoring their NEET relevance.",
+      "keyPoints": [
+        "Controls nutrient uptake via mass flow",
+        "Maintains cell turgor for growth",
+        "Regulates transpiration and cooling"
+      ],
+      "neetTips": [
+        "Connect water potential concepts to practical phenomena like drought stress"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the mechanisms of passive and active transport in plant cells",
+    "Analyse water potential components and predict the direction of water movement",
+    "Interpret physiological phenomena such as plasmolysis, turgor pressure and imbibition in NEET‑style questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Why is long‑distance transport of water essential in tall trees?",
+      "options": [
+        "To supply CO₂ to leaves",
+        "To maintain cell turgor and prevent wilting",
+        "To transport sugars to roots",
+        "To provide structural support"
+      ],
+      "answer": 1,
+      "explanation": "Water moving upward through xylem generates turgor pressure in cells, keeping them rigid; without it, tall trees would wilt and collapse.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "Which statement best explains why diffusion alone cannot meet the mineral nutrient requirements of most terrestrial plants?",
+      "options": [
+        "Diffusion is too rapid causing toxicity",
+        "Diffusion rate decreases sharply with increasing distance",
+        "Diffusion requires active energy input",
+        "Diffusion occurs only in the gaseous phase"
+      ],
+      "answer": 1,
+      "explanation": "The rate of diffusion is inversely proportional to the distance; nutrients located deep in the soil cannot reach roots quickly enough by diffusion alone.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "In plant growth, the transport of photosynthates from source to sink primarily serves to:",
+      "options": [
+        "Regulate stomatal opening",
+        "Provide energy for root respiration",
+        "Maintain leaf water potential",
+        "Synthesize chlorophyll"
+      ],
+      "answer": 1,
+      "explanation": "Sugars produced in leaves are translocated to roots and other growing tissues where they are respired to supply energy for metabolism and growth.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "Failure of water transport to aerial parts during drought most directly leads to which physiological condition?",
+      "options": [
+        "Plasmolysis",
+        "Imbibition",
+        "Photoinhibition",
+        "Senescence"
+      ],
+      "answer": 0,
+      "explanation": "Insufficient water causes loss of turgor, leading to cell membrane pulling away from the cell wall—a condition known as plasmolysis.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "The need for transport of mineral ions such as K⁺ and NO₃⁻ from soil to growing tissues is driven by:",
+      "options": [
+        "Their high concentration in the phloem",
+        "Their role in generating turgor pressure",
+        "Their involvement in metabolic processes and osmotic balance",
+        "Their ability to diffuse rapidly through air spaces"
+      ],
+      "answer": 2,
+      "explanation": "Mineral ions are essential for enzyme function, osmotic regulation and synthesis of biomolecules; they must be delivered to active growth zones.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "Why is phloem transport essential despite the presence of xylem?",
+      "options": [
+        "Phloem transports water upward",
+        "Phloem moves organic solutes from source to sink",
+        "Phloem provides structural support",
+        "Phloem conducts photosynthesis"
+      ],
+      "answer": 1,
+      "explanation": "Phloem conducts the bidirectional movement of sugars and other organic compounds from photosynthetic (source) tissues to non‑photosynthetic (sink) tissues.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "The necessity of transporting hormones like auxin from the shoot apex to lower parts of the plant is to:",
+      "options": [
+        "Increase transpiration rate",
+        "Coordinate cell elongation and differentiation",
+        "Enhance root water uptake directly",
+        "Store energy in vacuoles"
+      ],
+      "answer": 1,
+      "explanation": "Auxin moves basipetally to regulate patterns of cell elongation, apical dominance and differentiation, linking growth of different plant parts.",
+      "topic": "Need for transport in plants"
+    },
+    {
+      "question": "Which pathway allows movement of water and solutes through the continuum of cytoplasm connected by plasmodesmata?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Transmembrane pathway",
+        "Extracellular space"
+      ],
+      "answer": 1,
+      "explanation": "The symplastic pathway involves movement through the cytoplasm of adjacent cells linked by plasmodesmata, allowing continuous flow of water and solutes.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "The Casparian strip in the root endodermis forces the movement of water and dissolved minerals to cross the plasma membrane. This forces them to follow which pathway?",
+      "options": [
+        "Apoplastic pathway",
+        "Symplastic pathway",
+        "Transmembrane pathway",
+        "Intercellular space"
+      ],
+      "answer": 1,
+      "explanation": "The Casparian strip blocks the apoplastic route, so water and ions must enter the endodermal cells and move symplastically across plasma membranes.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "In which means of transport does a solute move from an area of lower concentration to higher concentration with the direct expenditure of metabolic energy?",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Active transport",
+        "Osmosis"
+      ],
+      "answer": 2,
+      "explanation": "Active transport uses metabolic energy (usually ATP) to move substances against their concentration gradient.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "Which statement correctly describes the transmembrane pathway?",
+      "options": [
+        "Movement occurs exclusively through cell walls",
+        "Substances cross the plasma membrane via carrier proteins",
+        "Transport is restricted to plasmodesmata",
+        "Bulk flow of water occurs in xylem"
+      ],
+      "answer": 1,
+      "explanation": "In the transmembrane pathway, solutes cross the plasma membrane through specific carrier or pump proteins.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "Sucrose loading into the phloem of many plants occurs primarily by which means of transport?",
+      "options": [
+        "Apoplastic loading",
+        "Symplastic loading",
+        "Transmembrane diffusion",
+        "Bulk flow"
+      ],
+      "answer": 1,
+      "explanation": "In symplastic loading, sucrose moves cell-to-cell through plasmodesmata into the phloem sieve elements without crossing membranes.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "Which means of transport is primarily responsible for the rapid upward movement of water from roots to leaves?",
+      "options": [
+        "Apoplastic flow in xylem",
+        "Symplastic flow in phloem",
+        "Transmembrane diffusion across leaf cells",
+        "Facilitated diffusion through plasmodesmata"
+      ],
+      "answer": 0,
+      "explanation": "Water ascends mainly through the apoplastic pathway in xylem vessels, driven by transpiration pull and cohesion‑tension.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "The movement of gases such as O₂ and CO₂ within leaf tissues occurs mainly by which means of transport?",
+      "options": [
+        "Apoplastic diffusion",
+        "Symplastic diffusion through plasmodesmata",
+        "Active transport across membranes",
+        "Transmembrane facilitated diffusion"
+      ],
+      "answer": 0,
+      "explanation": "Gases diffuse rapidly through intercellular air spaces and cell walls (apoplast) because they do not require membrane proteins.",
+      "topic": "Means of transport"
+    },
+    {
+      "question": "Which of the following factors does NOT influence the rate of simple diffusion across a plant cell membrane?",
+      "options": [
+        "Temperature",
+        "Molecular weight of the diffusing substance",
+        "Concentration gradient",
+        "Presence of a carrier protein"
+      ],
+      "answer": 3,
+      "explanation": "Simple diffusion depends on temperature, molecular size and concentration gradient; carrier proteins are required only for facilitated diffusion.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "Among the gases listed, which diffuses fastest through the stomatal pores of a leaf?",
+      "options": [
+        "Oxygen (O2)",
+        "Carbon dioxide (CO2)",
+        "Water vapor (H2O)",
+        "Nitrogen (N2)"
+      ],
+      "answer": 2,
+      "explanation": "Diffusion rate is inversely proportional to the square root of molecular weight; water vapor (MW≈18) diffuses faster than O2, CO2 or N2.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "According to Fick’s first law, the rate of diffusion across a membrane is directly proportional to which combination of factors?",
+      "options": [
+        "Surface area of the membrane",
+        "Thickness of the membrane",
+        "Concentration gradient",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Rate ∝ (surface area × concentration gradient) / thickness, so all three factors together determine the diffusion rate.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "Which statement correctly distinguishes simple diffusion from facilitated diffusion in plant cells?",
+      "options": [
+        "Both simple and facilitated diffusion require ATP",
+        "Facilitated diffusion shows saturation kinetics",
+        "Simple diffusion occurs only for non‑polar molecules",
+        "Facilitated diffusion moves substances against their concentration gradient"
+      ],
+      "answer": 1,
+      "explanation": "Facilitated diffusion uses carrier or channel proteins that become saturated at high substrate concentrations, unlike simple diffusion.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "If the temperature of a leaf tissue is raised from 20 °C to 30 °C, the rate of diffusion of gases across its cells will:",
+      "options": [
+        "Decrease the rate of diffusion",
+        "Increase the rate of diffusion",
+        "Have no effect on the rate",
+        "Convert diffusion into active transport"
+      ],
+      "answer": 1,
+      "explanation": "Higher temperature increases kinetic energy of molecules, thereby increasing the diffusion rate.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "CO₂ moves from the intercellular air spaces to the chloroplasts primarily by diffusing across:",
+      "options": [
+        "Cell wall only",
+        "Plasma membrane only",
+        "Both cell wall and plasma membrane",
+        "Chloroplast envelope"
+      ],
+      "answer": 2,
+      "explanation": "CO₂ first passes through the porous cell wall and then across the plasma membrane to reach the chloroplast.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "Why is diffusion of gases slower in a thick leaf mesophyll compared to a thin leaf?",
+      "options": [
+        "Larger surface area",
+        "Smaller concentration gradient",
+        "Increased diffusion distance",
+        "Higher temperature"
+      ],
+      "answer": 2,
+      "explanation": "A greater thickness lengthens the diffusion path, reducing the rate according to Fick’s law.",
+      "topic": "Diffusion"
+    },
+    {
+      "question": "Which statement best describes facilitated diffusion in plant cells?",
+      "options": [
+        "It is a passive transport process that uses specific carrier proteins to move solutes down their concentration gradient.",
+        "It requires ATP hydrolysis to move solutes against their concentration gradient.",
+        "It occurs only through lipid bilayer without any protein involvement.",
+        "It transports solutes by vesicle formation and fusion with the plasma membrane."
+      ],
+      "answer": 0,
+      "explanation": "Facilitated diffusion is passive; carrier proteins provide a pathway for solutes to move down their gradient without energy input.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "When the external concentration of a solute increases, the rate of its facilitated diffusion across the plasma membrane will:",
+      "options": [
+        "Increase linearly without any limit.",
+        "Reach a maximum when all carrier proteins become saturated.",
+        "Decrease because the gradient becomes less favorable.",
+        "Remain constant irrespective of concentration."
+      ],
+      "answer": 1,
+      "explanation": "Carrier proteins have a finite number; once all are occupied, the transport rate plateaus, showing saturation kinetics.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "Which of the following molecules is most likely to be transported into a plant cell by a specific carrier protein via facilitated diffusion?",
+      "options": [
+        "Glucose",
+        "Oxygen",
+        "Carbon dioxide",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "Glucose is a polar, relatively large molecule that cannot cross the lipid bilayer freely and typically requires a carrier protein for facilitated diffusion.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "The uptake of sucrose from the phloem into companion cells of a leaf primarily occurs by:",
+      "options": [
+        "Primary active transport using H⁺‑ATPase",
+        "Facilitated diffusion through sucrose‑specific carriers",
+        "Simple diffusion across the plasma membrane",
+        "Endocytosis of sucrose‑containing vesicles"
+      ],
+      "answer": 1,
+      "explanation": "Companion cells possess sucrose‑specific carrier proteins that allow sucrose to move down its concentration gradient without energy expenditure.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "If the temperature of a plant leaf is raised from 20 °C to 30 °C, the rate of facilitated diffusion of a solute will generally:",
+      "options": [
+        "Increase because molecular motion is faster.",
+        "Decrease due to protein denaturation at 30 °C.",
+        "Remain unchanged because the process is temperature‑independent.",
+        "First increase then sharply drop as the carrier denatures."
+      ],
+      "answer": 0,
+      "explanation": "Within physiological limits, higher temperature raises kinetic energy, increasing collision frequency with carrier proteins and thus the diffusion rate, provided the protein remains stable.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "A molecule that closely resembles the natural substrate binds to the carrier protein but is not transported. This competitive inhibitor will:",
+      "options": [
+        "Decrease the maximum transport rate (Vmax) of facilitated diffusion.",
+        "Increase the maximum transport rate (Vmax).",
+        "Increase the apparent Km while Vmax remains unchanged.",
+        "Decrease both Km and Vmax."
+      ],
+      "answer": 2,
+      "explanation": "Competitive inhibition raises the apparent Km (lower affinity) because more substrate is needed to achieve half‑maximal rate, but the Vmax stays the same as the number of carriers is unchanged.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "Which statement correctly differentiates facilitated diffusion from active transport in plants?",
+      "options": [
+        "Both processes require ATP hydrolysis.",
+        "Facilitated diffusion moves solutes down their gradient without energy, whereas active transport moves solutes against the gradient using ATP.",
+        "Both are passive processes that do not involve carrier proteins.",
+        "Active transport uses only channel proteins, while facilitated diffusion uses only carrier proteins."
+      ],
+      "answer": 1,
+      "explanation": "Facilitated diffusion is passive and relies on the concentration gradient, while active transport consumes ATP to move substances against their gradient.",
+      "topic": "Facilitated diffusion"
+    },
+    {
+      "question": "Which statement correctly describes primary active transport in plant cells?",
+      "options": [
+        "It uses ATP directly to move ions against their concentration gradient",
+        "It relies on an electrochemical gradient generated by another pump",
+        "It does not require any carrier protein",
+        "It transports solutes down their concentration gradient"
+      ],
+      "answer": 0,
+      "explanation": "Primary active transport employs membrane-bound ATPases that hydrolyse ATP to move specific ions or molecules opposite to their electrochemical gradient.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "The H+-ATPase in the plasma membrane of root epidermal cells primarily functions to:",
+      "options": [
+        "Export H+ out of the cell using ATP, creating an electrochemical gradient",
+        "Import H+ into the cell using ATP",
+        "Transport K+ against its gradient without ATP",
+        "Facilitate passive diffusion of water"
+      ],
+      "answer": 0,
+      "explanation": "The plasma‑membrane H+-ATPase hydrolyses ATP to pump protons out, generating a proton motive force that drives secondary transport processes.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "In secondary active transport, the uptake of glucose into a plant cell via a symporter is driven by:",
+      "options": [
+        "Direct ATP hydrolysis by the glucose transporter",
+        "The proton gradient established by the H+-ATPase",
+        "Light energy absorbed by chlorophyll",
+        "Osmotic pressure difference across the membrane"
+      ],
+      "answer": 1,
+      "explanation": "Secondary active transport uses the energy stored in an ion gradient (usually H+) created by a primary pump; the glucose‑H+ symporter couples glucose entry to the downhill movement of protons.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "Which is NOT a characteristic of carrier proteins involved in active transport?",
+      "options": [
+        "They undergo conformational change upon substrate binding",
+        "They can become saturated at high substrate concentrations",
+        "They allow free diffusion of solutes without selectivity",
+        "Their activity can be inhibited by specific inhibitors"
+      ],
+      "answer": 2,
+      "explanation": "Carrier proteins are selective and undergo conformational changes; they can be saturated and are subject to inhibition, unlike simple pores that permit free diffusion.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "The Na+/K+ ATPase pump in animal cells is analogous to which plant membrane pump that maintains ion homeostasis?",
+      "options": [
+        "Plasma‑membrane H+-ATPase",
+        "Aquaporin water channel",
+        "Glucose uniporter",
+        "Calcium‑ATPase of the plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "Both pumps are primary active transporters that hydrolyse ATP to move ions (Na+/K+ or H+) against their gradients, establishing electrochemical potentials used for secondary transport.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "During phloem loading in source leaves, sucrose is actively transported into companion cells. Which mechanism best describes this process?",
+      "options": [
+        "Primary active transport using a sucrose‑H+ symporter powered directly by ATP",
+        "Secondary active transport where sucrose enters via an H+-sucrose symporter using the proton gradient",
+        "Facilitated diffusion through aquaporins",
+        "Simple diffusion driven by a concentration gradient"
+      ],
+      "answer": 1,
+      "explanation": "Phloem loading typically uses H+-sucrose symporters; the proton gradient generated by the H+-ATPase provides the energy for sucrose uptake, classifying it as secondary active transport.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "Which experimental observation would most directly indicate the presence of active transport of ions across a plant cell membrane?",
+      "options": [
+        "Ion movement stops when ATP synthesis is inhibited",
+        "Ions move down their concentration gradient without any energy input",
+        "Membrane potential remains unchanged after ion flux",
+        "Ion uptake is unaffected by temperature changes"
+      ],
+      "answer": 0,
+      "explanation": "Active transport depends on metabolic energy; inhibition of ATP production halts the ion flux, confirming an ATP‑dependent transport mechanism.",
+      "topic": "Active transport"
+    },
+    {
+      "question": "Osmosis is best defined as:",
+      "options": [
+        "Diffusion of solute molecules across a membrane",
+        "Movement of water from lower to higher solute concentration across a semipermeable membrane",
+        "Active transport of water molecules against a concentration gradient",
+        "Facilitated diffusion of ions through carrier proteins"
+      ],
+      "answer": 1,
+      "explanation": "Osmosis specifically refers to the passive movement of water molecules from a region of lower solute concentration (higher water potential) to a region of higher solute concentration (lower water potential) through a semipermeable membrane.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "Water will move from a region of higher water potential to a region of lower water potential. If cell A has ψw = -0.2 MPa and cell B has ψw = -0.5 MPa, the net movement of water will be:",
+      "options": [
+        "From cell B to cell A",
+        "From cell A to cell B",
+        "No net movement",
+        "Equal movement in both directions"
+      ],
+      "answer": 1,
+      "explanation": "Since ψw of cell A (-0.2 MPa) is higher (less negative) than that of cell B (-0.5 MPa), water flows from A to B until equilibrium is reached.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "A mature plant cell is placed in a hypertonic solution. Which of the following describes the immediate cellular response?",
+      "options": [
+        "The cell becomes turgid as the vacuole expands",
+        "The protoplast shrinks and pulls away from the cell wall (plasmolysis)",
+        "The vacuole fills with water and the cell bursts",
+        "The cytoplasm becomes more fluid without any change in shape"
+      ],
+      "answer": 1,
+      "explanation": "In a hypertonic medium, water leaves the cell by osmosis, causing the protoplast to contract and detach from the rigid cell wall, a process known as plasmolysis.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "Calculate the osmotic pressure (π) of a 0.20 m solution of a non‑electrolyte at 298 K (R = 0.0831 L·bar·K⁻¹·mol⁻¹).",
+      "options": [
+        "2.5 bar",
+        "4.9 bar",
+        "7.0 bar",
+        "9.8 bar"
+      ],
+      "answer": 1,
+      "explanation": "π = iMRT = 1 × 0.20 mol L⁻¹ × 0.0831 L·bar·K⁻¹·mol⁻¹ × 298 K ≈ 4.96 bar, which rounds to 4.9 bar.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "Which factor primarily accounts for the increase in the rate of osmosis when temperature is raised?",
+      "options": [
+        "The membrane becomes more permeable to solutes",
+        "The kinetic energy of water molecules increases",
+        "The solute concentration of the solution decreases",
+        "The water potential of the solution becomes more negative"
+      ],
+      "answer": 1,
+      "explanation": "Higher temperature raises the kinetic energy of water molecules, leading to more frequent collisions with the membrane and thus a faster rate of osmotic flow.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "A semipermeable membrane, as involved in osmosis, is characterized by:",
+      "options": [
+        "Allowing both solute and solvent molecules to pass equally",
+        "Allowing only solvent (water) molecules to pass while restricting solute particles",
+        "Allowing only solute particles to pass while blocking water",
+        "Blocking the passage of all molecules"
+      ],
+      "answer": 1,
+      "explanation": "By definition, a semipermeable membrane permits the passage of the solvent (water) but restricts most solute particles, enabling osmotic movement.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "Turgor pressure in a plant cell is generated primarily due to:",
+      "options": [
+        "Active transport of ions into the vacuole creating an osmotic gradient",
+        "Osmosis of water into the vacuole causing the cell wall to stretch",
+        "Plasmolysis of the protoplast",
+        "Loss of water through stomata"
+      ],
+      "answer": 1,
+      "explanation": "Ion accumulation in the vacuole lowers its water potential, drawing water in by osmosis; the influx of water expands the vacuole and exerts pressure against the cell wall, producing turgor pressure.",
+      "topic": "Osmosis"
+    },
+    {
+      "question": "Water potential (Ψ) of a plant system is best defined as:",
+      "options": [
+        "The tendency of water to move from regions of higher to lower water potential",
+        "The sum of solute potential and pressure potential",
+        "The measure of free energy of water per unit volume",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "NCERT defines water potential as the potential energy of water per unit volume (expressed in MPa). It determines the direction of water movement.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "If the solute potential (Ψs) of a cell is –0.30 MPa and its pressure potential (Ψp) is +0.20 MPa, what is the overall water potential (Ψ) of the cell?",
+      "options": [
+        "–0.50 MPa",
+        "–0.10 MPa",
+        "+0.10 MPa",
+        "+0.50 MPa"
+      ],
+      "answer": 1,
+      "explanation": "Water potential is the sum of solute and pressure potentials: Ψ = Ψs + Ψp = –0.30 MPa + 0.20 MPa = –0.10 MPa.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "Cell A has a water potential of –0.20 MPa and cell B has a water potential of –0.50 MPa. In which direction will water move when the cells are in direct contact?",
+      "options": [
+        "From cell A to cell B",
+        "From cell B to cell A",
+        "No net movement",
+        "Water will move in both directions alternately"
+      ],
+      "answer": 0,
+      "explanation": "Water moves from the region of higher (less negative) water potential to lower (more negative) water potential, i.e., from –0.20 MPa (cell A) to –0.50 MPa (cell B).",
+      "topic": "Water potential"
+    },
+    {
+      "question": "Adding NaCl to pure water will:",
+      "options": [
+        "Increase the water potential of the solution",
+        "Decrease the water potential of the solution",
+        "Leave the water potential unchanged",
+        "Increase only the pressure potential"
+      ],
+      "answer": 1,
+      "explanation": "Dissolving a solute lowers the solute potential (makes it more negative), thereby decreasing the overall water potential of the solution.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "During transpiration, the pressure potential in the xylem becomes:",
+      "options": [
+        "Positive, aiding upward flow",
+        "Negative, creating tension that pulls water upward",
+        "Unchanged, remaining at zero",
+        "Zero, because pressure is absent"
+      ],
+      "answer": 1,
+      "explanation": "Transpiration generates a negative pressure (tension) in the xylem, lowering its pressure potential and helping draw water upward from the roots.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "A plant cell placed in a hypertonic solution undergoes plasmolysis. How does the water potential of the cell interior compare with that of the external solution?",
+      "options": [
+        "Cell interior has higher (less negative) water potential than the external solution",
+        "Cell interior has lower (more negative) water potential than the external solution",
+        "Both have equal water potential",
+        "The relationship cannot be determined without additional data"
+      ],
+      "answer": 0,
+      "explanation": "In plasmolysis, water moves out of the cell because the external solution has a lower (more negative) water potential; thus the cell interior initially has a higher water potential.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "What is the solute potential (Ψs) of a 0.20 M glucose solution at 25 °C? (Use i = 1, R = 0.0831 L·MPa·K⁻¹·mol⁻¹, T = 298 K)",
+      "options": [
+        "–4.9 MPa",
+        "–0.5 MPa",
+        "–2.0 MPa",
+        "–0.2 MPa"
+      ],
+      "answer": 0,
+      "explanation": "Ψs = –iCRT = –1 × 0.0831 × 298 × 0.20 ≈ –4.95 MPa, which rounds to –4.9 MPa.",
+      "topic": "Water potential"
+    },
+    {
+      "question": "Solute potential (ψs) of a plant cell is best described as:",
+      "options": [
+        "the pressure exerted by the cell wall on the protoplast",
+        "the reduction in water potential due to dissolved solute particles",
+        "the tendency of water to move from regions of high to low solute concentration",
+        "the kinetic energy of water molecules inside the cell"
+      ],
+      "answer": 1,
+      "explanation": "Solute potential represents the lowering of water potential caused by the presence of solute particles; it is always negative relative to pure water.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "What is the solute potential (ψs) of a 0.20 M solution of a non‑electrolyte at 25 °C? (R = 0.0831 L·MPa·K⁻¹·mol⁻¹)",
+      "options": [
+        "-4.95 MPa",
+        "-0.50 MPa",
+        "-0.083 MPa",
+        "-2.50 MPa"
+      ],
+      "answer": 0,
+      "explanation": "ψs = –iCRT = –1 × 0.0831 × 298 K × 0.20 mol L⁻¹ ≈ –4.95 MPa.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "If the temperature of a plant solution is increased while solute concentration remains constant, the solute potential will:",
+      "options": [
+        "become more negative",
+        "become less negative",
+        "remain unchanged",
+        "become positive"
+      ],
+      "answer": 0,
+      "explanation": "ψs = –iCRT; temperature (T) is directly proportional, so a rise in T makes ψs more negative.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "A plant cell is placed in a solution whose solute potential is lower (more negative) than that of the cell’s interior. What is the most likely outcome?",
+      "options": [
+        "Water enters the cell, causing the protoplast to swell",
+        "Water leaves the cell, causing the plasma membrane to pull away from the cell wall",
+        "No net water movement occurs",
+        "The cell wall dissolves"
+      ],
+      "answer": 1,
+      "explanation": "Water moves from higher (less negative) to lower (more negative) ψs, so it exits the cell, leading to plasmolysis.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "In a fully turgid plant cell, the total water potential (ψw) is 0 MPa and the solute potential (ψs) is –0.6 MPa. What is the pressure potential (ψp) of the cell?",
+      "options": [
+        "+0.6 MPa",
+        "–0.6 MPa",
+        "0 MPa",
+        "+1.2 MPa"
+      ],
+      "answer": 0,
+      "explanation": "ψw = ψs + ψp; therefore ψp = ψw – ψs = 0 – (–0.6) = +0.6 MPa.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "Which solution will have the more negative solute potential at the same molarity (0.10 M) and temperature?",
+      "options": [
+        "0.10 M glucose (i = 1)",
+        "0.10 M CaCl₂ (i ≈ 3)",
+        "Both have identical ψs",
+        "Neither has a measurable ψs"
+      ],
+      "answer": 1,
+      "explanation": "The van ’t Hoff factor (i) is higher for CaCl₂, giving ψs = –iCRT a larger magnitude (more negative) than glucose.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "Seed imbibition occurs when:",
+      "options": [
+        "the external solution has a more negative ψs than the seed",
+        "the external solution has a less negative ψs than the seed",
+        "the external solution has the same ψs as the seed",
+        "the external solution is isotonic to the seed"
+      ],
+      "answer": 1,
+      "explanation": "Water moves into the seed when the surrounding solution’s ψs is higher (less negative) than that of the seed, creating a net influx of water.",
+      "topic": "Solute potential"
+    },
+    {
+      "question": "Pressure potential (Ψp) in a plant cell is best described as:",
+      "options": [
+        "The tendency of water to move from high to low solute concentration",
+        "The physical pressure exerted by the cell wall against the protoplast",
+        "The negative pressure due to water being under tension in xylem",
+        "The potential energy of water due to its temperature"
+      ],
+      "answer": 1,
+      "explanation": "Pressure potential represents the mechanical pressure exerted by the cell wall on the protoplast, contributing positively to the overall water potential.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "In the water potential equation Ψ = Ψs + Ψp, a fully turgid plant cell has Ψp equal to:",
+      "options": [
+        "Zero",
+        "A negative value",
+        "A positive value",
+        "Equal to Ψs"
+      ],
+      "answer": 2,
+      "explanation": "A turgid cell exerts outward pressure on its wall, giving a positive pressure potential that offsets the negative solute potential.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "When a plant cell undergoes plasmolysis, the pressure potential becomes:",
+      "options": [
+        "More positive",
+        "Zero",
+        "Negative",
+        "Unchanged"
+      ],
+      "answer": 2,
+      "explanation": "Loss of water causes the protoplast to shrink away from the wall, eliminating outward pressure and making Ψp negative or effectively zero; the convention treats it as negative.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "If the solute potential (Ψs) of a cell becomes more negative while its water potential (Ψ) remains unchanged, what happens to its pressure potential (Ψp)?",
+      "options": [
+        "Increases (becomes more positive)",
+        "Decreases (becomes more negative)",
+        "Remains unchanged",
+        "Becomes zero"
+      ],
+      "answer": 0,
+      "explanation": "Since Ψ = Ψs + Ψp, a more negative Ψs must be balanced by a more positive Ψp to keep Ψ constant.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "Root pressure, which can push water up the xylem, is primarily a result of:",
+      "options": [
+        "High osmotic potential in leaves",
+        "Positive pressure potential generated in root cells",
+        "Negative pressure potential in the stem",
+        "Capillary action in xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "Root cells actively accumulate solutes, drawing water in and generating a positive pressure potential (root pressure) that can force water upward.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "Which experimental technique is most suitable for directly measuring the pressure potential of a single plant cell?",
+      "options": [
+        "Thermocouple",
+        "Pressure probe",
+        "Potometer",
+        "Hygrometer"
+      ],
+      "answer": 1,
+      "explanation": "A pressure probe penetrates the cell and directly records the turgor (pressure) potential.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "In a fully hydrated leaf cell, the water potential (Ψ) is -0.3 MPa and the solute potential (Ψs) is -0.8 MPa. What is the pressure potential (Ψp) of the cell?",
+      "options": [
+        "-0.5 MPa",
+        "+0.5 MPa",
+        "-1.1 MPa",
+        "+0.3 MPa"
+      ],
+      "answer": 1,
+      "explanation": "Using Ψ = Ψs + Ψp, Ψp = Ψ – Ψs = (-0.3) – (-0.8) = +0.5 MPa.",
+      "topic": "Pressure potential"
+    },
+    {
+      "question": "What best describes plasmolysis in plant cells?",
+      "options": [
+        "Shrinkage of the protoplast away from the cell wall due to loss of water",
+        "Swelling of the cell causing the cell wall to burst",
+        "Division of the cell nucleus without cytokinesis",
+        "Formation of new plasmodesmata between adjacent cells"
+      ],
+      "answer": 0,
+      "explanation": "Plasmolysis is the process where the protoplast contracts and pulls away from the rigid cell wall as water leaves the cell in a hypertonic environment.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "Plasmolysis of a plant cell occurs when it is placed in which type of solution relative to its cell sap?",
+      "options": [
+        "Isotonic solution",
+        "Hypertonic solution",
+        "Hypotonic solution",
+        "Distilled water"
+      ],
+      "answer": 1,
+      "explanation": "A hypertonic solution has a higher solute concentration than the cell sap, causing water to move out of the cell and leading to plasmolysis.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "Under the microscope, an onion epidermal cell undergoing plasmolysis shows which immediate change?",
+      "options": [
+        "The cell wall ruptures and fragments",
+        "The cytoplasm becomes more dense but stays attached to the wall",
+        "The protoplast detaches from the cell wall, creating a clear space between them",
+        "The nucleus enlarges dramatically"
+      ],
+      "answer": 2,
+      "explanation": "Loss of water causes the protoplast to shrink and pull away from the cell wall, leaving a visible gap.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "Which statement about plasmolysis is FALSE?",
+      "options": [
+        "It occurs when a cell is placed in a hypertonic solution",
+        "It results in loss of turgor pressure",
+        "It is irreversible in all plant cells",
+        "It can be reversed by transferring the cell to a hypotonic solution"
+      ],
+      "answer": 2,
+      "explanation": "Plasmolysis is reversible; cells can regain turgor and undergo deplasmolysis when placed in a hypotonic medium.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "If a plasmolysed plant cell is transferred to a suitable solution, it can regain its normal state. Which solution facilitates this process (deplasmolysis)?",
+      "options": [
+        "A hypertonic solution",
+        "An isotonic solution",
+        "A hypotonic solution",
+        "A saline solution"
+      ],
+      "answer": 2,
+      "explanation": "In a hypotonic solution water enters the cell, the protoplast expands and re‑attaches to the cell wall, reversing plasmolysis.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "What happens to the turgor pressure of a plant cell during plasmolysis?",
+      "options": [
+        "It increases sharply",
+        "It decreases to zero",
+        "It remains unchanged",
+        "It becomes negative, pulling the cell wall inward"
+      ],
+      "answer": 1,
+      "explanation": "As water leaves the cell, internal pressure falls to zero, eliminating turgor.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "Which factor does NOT directly influence the extent of plasmolysis in a plant cell?",
+      "options": [
+        "External solute concentration",
+        "Temperature of the medium",
+        "Cell wall thickness",
+        "Water‑potential gradient between cell and medium"
+      ],
+      "answer": 2,
+      "explanation": "While solute concentration, temperature (affecting rate), and water‑potential gradient affect water loss, the thickness of the cell wall does not determine how much the protoplast contracts.",
+      "topic": "Plasmolysis"
+    },
+    {
+      "question": "What best defines deplasmolysis in plant cells?",
+      "options": [
+        "Shrinkage of the protoplast away from the cell wall due to a hypertonic solution",
+        "Reversal of plasmolysis when the cell is transferred to a hypotonic solution",
+        "Loss of water from the vacuole causing cell collapse",
+        "Increase in turgor pressure as a result of plasmolysis"
+      ],
+      "answer": 1,
+      "explanation": "Deplasmolysis is the process by which a plasmolysed cell regains its original volume and the protoplast re‑attaches to the cell wall after being placed in a hypotonic medium.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "A plasmolysed onion epidermal cell is transferred to which of the following solutions to induce deplasmolysis?",
+      "options": [
+        "0.5 M sucrose solution",
+        "0.1 M sucrose solution",
+        "0.5 M NaCl solution",
+        "0.1 M NaCl solution"
+      ],
+      "answer": 1,
+      "explanation": "A hypotonic solution such as 0.1 M sucrose has lower solute concentration than the cell interior, allowing water to enter and the protoplast to expand back to the wall.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "Which factor most directly determines the speed at which deplasmolysis occurs?",
+      "options": [
+        "Ambient temperature",
+        "Thickness of the cell wall",
+        "Magnitude of the external‑internal solute concentration gradient",
+        "Intensity of light falling on the cell"
+      ],
+      "answer": 2,
+      "explanation": "The rate of water influx, and thus deplasmolysis, depends primarily on the difference in water potential (solute concentration gradient) between the cell interior and the surrounding medium.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "During deplasmolysis, what provides the mechanical force that pushes the protoplast back against the cell wall?",
+      "options": [
+        "Cytoplasmic streaming",
+        "Vacuolar turgor pressure",
+        "Plasmodesmata",
+        "Cellulose microfibrils"
+      ],
+      "answer": 1,
+      "explanation": "As water enters the vacuole, its pressure (turgor) rises, generating the force that expands the protoplast and re‑establishes contact with the cell wall.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "Which statement correctly distinguishes plasmolysis from deplasmolysis?",
+      "options": [
+        "Plasmolysis occurs in a hypotonic medium, while deplasmolysis occurs in a hypertonic medium",
+        "Plasmolysis is irreversible, whereas deplasmolysis is reversible",
+        "Plasmolysis involves loss of water from the cell, whereas deplasmolysis involves gain of water",
+        "Both processes lead to an increase in turgor pressure"
+      ],
+      "answer": 2,
+      "explanation": "Plasmolysis is caused by water loss to a hypertonic environment; deplasmolysis is the opposite process, where water re‑enters the cell from a hypotonic environment.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "When a leaf disc plasmolysed in 0.8 M sucrose is transferred to distilled water, how does its water potential (Ψw) change during deplasmolysis?",
+      "options": [
+        "Ψw becomes more negative",
+        "Ψw becomes less negative",
+        "Ψw remains unchanged",
+        "Ψw becomes positive"
+      ],
+      "answer": 1,
+      "explanation": "Water influx raises the pressure potential inside the cell, making the overall water potential less negative (i.e., closer to zero) while the solute potential stays roughly the same.",
+      "topic": "Deplasmolysis"
+    },
+    {
+      "question": "Osmotic pressure is defined as the pressure required to:",
+      "options": [
+        "Prevent the inward flow of water through a semipermeable membrane",
+        "Stop the boiling of a solution",
+        "Counteract the vapor pressure of the solvent",
+        "Maintain the concentration gradient of solutes"
+      ],
+      "answer": 0,
+      "explanation": "Osmotic pressure is the minimum pressure that must be applied to a solution to stop the net flow of water into it through a semipermeable membrane.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "According to the van’t Hoff equation (π = iMRT), what expression gives the osmotic pressure in atm for a 0.2 M solution of a non‑electrolyte at 25 °C (298 K)?",
+      "options": [
+        "0.2 × 0.0821 × 273",
+        "0.2 × 0.0821 × 310",
+        "0.2 × 0.0821 × 298",
+        "0.2 × 0.0821 × 298 / 2"
+      ],
+      "answer": 2,
+      "explanation": "Using π = iMRT with i=1, M=0.2 M, R=0.0821 L·atm·K⁻¹·mol⁻¹ and T=298 K gives π = 0.2 × 0.0821 × 298 ≈ 4.9 atm.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "A solution at 25 °C has an osmotic pressure of 0.45 MPa. What is its solute (osmotic) potential ψs?",
+      "options": [
+        "–0.45 MPa",
+        "–0.22 MPa",
+        "0.45 MPa",
+        "0 MPa"
+      ],
+      "answer": 0,
+      "explanation": "In plant physiology, solute (osmotic) potential ψs is the negative of the osmotic pressure when expressed in pressure units: ψs = –π.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "When a plant cell is placed in a solution whose osmotic pressure exceeds that of the cell sap, the cell undergoes plasmolysis because:",
+      "options": [
+        "Water moves out of the cell, decreasing turgor",
+        "Water moves into the cell, increasing turgor",
+        "Solutes diffuse into the cell, raising internal pressure",
+        "The cell wall expands, preventing water loss"
+      ],
+      "answer": 0,
+      "explanation": "A higher external osmotic pressure draws water out of the cell, causing the plasma membrane to detach from the cell wall (plasmolysis) and reducing turgor pressure.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "In an osmometer, the liquid column rises to 0.75 m above the semipermeable membrane. Taking ρ = 1000 kg·m⁻³ and g = 9.8 m·s⁻², the osmotic pressure π is:",
+      "options": [
+        "7.35 kPa",
+        "73.5 kPa",
+        "0.735 kPa",
+        "0.0735 kPa"
+      ],
+      "answer": 0,
+      "explanation": "π = ρgh = 1000 × 9.8 × 0.75 = 7350 Pa = 7.35 kPa.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "Which solution will exhibit the greater osmotic pressure at the same molarity (0.1 M) and temperature?",
+      "options": [
+        "0.1 M NaCl",
+        "0.1 M glucose",
+        "Both have equal osmotic pressure",
+        "0.1 M sucrose"
+      ],
+      "answer": 0,
+      "explanation": "NaCl dissociates into two ions (i≈2), doubling the number of particles compared with non‑electrolytes like glucose or sucrose (i≈1); thus its osmotic pressure is higher.",
+      "topic": "Osmotic pressure"
+    },
+    {
+      "question": "What is the correct definition of turgor pressure in a plant cell?",
+      "options": [
+        "the pressure of the cell wall against the vacuole",
+        "the pressure exerted by the protoplast against the cell wall due to water influx",
+        "the osmotic pressure of the cell sap",
+        "the negative water potential inside the cell"
+      ],
+      "answer": 1,
+      "explanation": "Turgor pressure is the hydrostatic pressure exerted by the water-filled protoplast against the rigid cell wall when water enters the cell by osmosis.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "When a plant cell is fully turgid and in equilibrium with its surroundings, its turgor pressure is equal to:",
+      "options": [
+        "the sum of solute potential and pressure potential",
+        "the difference between solute potential and water potential",
+        "the magnitude of solute potential when water potential is zero",
+        "the external water potential"
+      ],
+      "answer": 2,
+      "explanation": "At equilibrium, water potential (Ψw) inside the cell equals that of the external medium. Since Ψw = Ψs + Ψp, if external Ψw is zero, Ψp (turgor pressure) equals –Ψs, i.e., the magnitude of the solute potential.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "An increase in turgor pressure in guard cells leads to:",
+      "options": [
+        "closure of stomata",
+        "opening of stomata",
+        "no change in stomatal aperture",
+        "wilting of leaf"
+      ],
+      "answer": 1,
+      "explanation": "Guard cells swell as turgor pressure rises, causing the stomatal pore to open, facilitating gas exchange.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "A leaf placed in a hypertonic solution will experience:",
+      "options": [
+        "increase in turgor pressure",
+        "no change in turgor pressure",
+        "decrease in turgor pressure leading to plasmolysis",
+        "increase in photosynthesis rate"
+      ],
+      "answer": 2,
+      "explanation": "Water moves out of the cells into the hypertonic medium, reducing internal turgor pressure and causing the plasma membrane to pull away from the cell wall (plasmolysis).",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "If the solute potential of a cell sap is –0.45 MPa and the external water potential is 0 MPa, what is the turgor pressure of the cell at equilibrium?",
+      "options": [
+        "0.45 MPa",
+        "−0.45 MPa",
+        "0 MPa",
+        "1.0 MPa"
+      ],
+      "answer": 0,
+      "explanation": "Using Ψw = Ψs + Ψp and setting Ψw (external) = 0, we get Ψp = –Ψs = 0.45 MPa.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "During cell elongation in growing regions, turgor pressure works together with:",
+      "options": [
+        "turgor pressure alone",
+        "cell wall extensibility",
+        "photosynthetic rate",
+        "chlorophyll content"
+      ],
+      "answer": 1,
+      "explanation": "A high turgor pressure pushes against a loosened (extensible) cell wall, allowing irreversible cell expansion.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "High turgor pressure in fruit cells primarily contributes to:",
+      "options": [
+        "increased sweetness",
+        "enhanced ripening speed",
+        "firmness of fruit",
+        "higher sugar content"
+      ],
+      "answer": 2,
+      "explanation": "Firmness of fruit is maintained by the hydrostatic pressure of the cell contents against the cell wall; loss of turgor leads to softening.",
+      "topic": "Turgor pressure"
+    },
+    {
+      "question": "Imbibition is best defined as:",
+      "options": [
+        "Diffusion of gases through stomata",
+        "Uptake of water by a solid matrix causing swelling",
+        "Active transport of solutes into cells",
+        "Movement of water through xylem"
+      ],
+      "answer": 1,
+      "explanation": "Imbibition refers to the absorption of water by a solid, porous material (e.g., seed, dry wood) leading to swelling.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "The rapid increase in seed volume during germination is primarily due to:",
+      "options": [
+        "Active transport of ions",
+        "Imbibition of water",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "answer": 1,
+      "explanation": "Seeds take up water by imbibition, causing them to swell and break the seed coat, which initiates germination.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "Which property of dry seeds contributes most to their ability to imbibe water quickly?",
+      "options": [
+        "High solute concentration inside seed",
+        "Large surface area and porous cell walls",
+        "Presence of chloroplasts",
+        "Thick waxy cuticle"
+      ],
+      "answer": 1,
+      "explanation": "Dry seeds have a porous, loosely packed structure and a high surface‑to‑volume ratio, allowing rapid water entry.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "Imbibition can be considered a special case of which of the following processes?",
+      "options": [
+        "Facilitated diffusion",
+        "Osmosis",
+        "Active transport",
+        "Bulk flow"
+      ],
+      "answer": 1,
+      "explanation": "Water moves into the solid matrix down its water‑potential gradient, which is the essence of osmosis.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "All of the following are examples of imbibition except:",
+      "options": [
+        "Swelling of dry wood when soaked",
+        "Expansion of cotton fibers in water",
+        "Uptake of water by a dehydrated leaf",
+        "Opening of stomata during transpiration"
+      ],
+      "answer": 3,
+      "explanation": "Opening of stomata involves guard‑cell turgor changes, not water uptake by a solid matrix.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "After imbibition, the water potential (Ψw) of a seed compared to its initial dry state is:",
+      "options": [
+        "More negative",
+        "More positive (less negative)",
+        "Unchanged",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "A dry seed has a very low (highly negative) water potential; water uptake raises its water potential toward zero.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "Which factor does NOT influence the rate of imbibition in seeds?",
+      "options": [
+        "Temperature",
+        "Surface area",
+        "Solute concentration of surrounding solution",
+        "Light intensity"
+      ],
+      "answer": 3,
+      "explanation": "Imbibition depends on temperature, surface area and external solute concentration, but not on light intensity.",
+      "topic": "Imbibition"
+    },
+    {
+      "question": "Which factor, when increased, will increase the rate of diffusion of a gas across a plant cell wall?",
+      "options": [
+        "Thickness of the cell wall",
+        "Decrease in concentration gradient",
+        "Increase in temperature",
+        "Decrease in surface area"
+      ],
+      "answer": 2,
+      "explanation": "Higher temperature raises kinetic energy of molecules, leading to more frequent collisions and a faster diffusion rate.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "The rate of diffusion of a solute through plasmodesmata is most directly affected by:",
+      "options": [
+        "Molecular weight of the solute",
+        "Electrical charge of the solute",
+        "Size of the plasmodesmatal pore",
+        "Light intensity"
+      ],
+      "answer": 2,
+      "explanation": "Plasmodesmata have a fixed pore diameter; solutes larger than the pore cannot pass, making pore size the primary determinant.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "In the context of diffusion in plant tissues, which statement best explains why diffusion is faster in thin leaves compared to thick stems?",
+      "options": [
+        "Higher solute concentration in leaves",
+        "Greater surface area to volume ratio",
+        "Lower temperature in leaves",
+        "Presence of active transport proteins"
+      ],
+      "answer": 1,
+      "explanation": "A larger surface‑area‑to‑volume ratio shortens the diffusion path and provides more area for exchange, accelerating diffusion.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "Which of the following changes will NOT affect the rate of diffusion of water across a semi‑permeable membrane?",
+      "options": [
+        "Increase in external solute concentration",
+        "Increase in temperature",
+        "Increase in membrane thickness",
+        "Increase in atmospheric pressure"
+      ],
+      "answer": 3,
+      "explanation": "Atmospheric pressure does not significantly alter the kinetic movement of water molecules across a membrane; the other factors directly modify diffusion driving forces or path length.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "The diffusion of oxygen in plant cells is faster than that of glucose primarily because:",
+      "options": [
+        "Oxygen is smaller in molecular size",
+        "Oxygen is more soluble in water",
+        "Glucose is actively transported",
+        "Oxygen has a higher concentration gradient"
+      ],
+      "answer": 0,
+      "explanation": "Molecular size is a key factor; smaller O₂ molecules encounter less resistance and pass through cell walls and membranes more readily than larger glucose molecules.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "Which factor most directly reduces the rate of diffusion of a solute through the cell wall of a root hair?",
+      "options": [
+        "Increase in temperature",
+        "Decrease in the viscosity of cytoplasm",
+        "Increase in cell wall thickness",
+        "Increase in surface area of the root hair"
+      ],
+      "answer": 2,
+      "explanation": "A thicker cell wall lengthens the diffusion path, decreasing the rate according to Fick’s law (rate ∝ 1 / thickness).",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "In a plant cell, the presence of a concentration gradient of a charged ion across the plasma membrane creates an additional driving force for diffusion known as:",
+      "options": [
+        "Osmotic pressure",
+        "Electrical potential",
+        "Hydrostatic pressure",
+        "Chemical potential"
+      ],
+      "answer": 1,
+      "explanation": "The electrical potential (membrane potential) arising from charge separation adds to the concentration gradient, influencing the net movement of ions.",
+      "topic": "Factors affecting diffusion"
+    },
+    {
+      "question": "Which physiological process in plants directly depends on the turgor pressure generated by water uptake in guard cells?",
+      "options": [
+        "Stomatal opening",
+        "Photosynthetic electron transport",
+        "Xylem sap formation",
+        "Seed dormancy breaking"
+      ],
+      "answer": 0,
+      "explanation": "Turgor pressure in guard cells causes them to swell, leading to stomatal opening, which regulates gas exchange and transpiration.",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "A water potential gradient from soil to root is essential for which of the following functions?",
+      "options": [
+        "Transpiration pull",
+        "Phloem loading",
+        "Nutrient uptake",
+        "Leaf senescence"
+      ],
+      "answer": 2,
+      "explanation": "The gradient drives water into root cells, and dissolved mineral ions are taken up together with water, facilitating nutrient acquisition.",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "Imbibition of dry seeds is crucial because it:",
+      "options": [
+        "Increases seed size for dispersal",
+        "Activates metabolic enzymes by rehydration",
+        "Provides mechanical protection",
+        "Reduces seed dormancy by leaching hormones"
+      ],
+      "answer": 1,
+      "explanation": "Water uptake rehydrates cellular components, activating enzymes and metabolic pathways required for germination.",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "During drought, plants accumulate solutes in their cells, lowering solute potential. This adaptation primarily helps the plant to:",
+      "options": [
+        "Increase transpiration rate",
+        "Maintain cell turgor",
+        "Enhance photosynthetic CO₂ fixation",
+        "Promote leaf abscission"
+      ],
+      "answer": 1,
+      "explanation": "Lowering solute potential draws water into cells, helping to preserve turgor pressure and prevent wilting under water‑deficit conditions.",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "The role of water relations in leaf expansion is best described by which statement?",
+      "options": [
+        "Water loss through the cuticle drives cell division",
+        "High turgor pressure stretches cell walls allowing expansion",
+        "Osmotic pressure reduces chlorophyll content",
+        "Pressure potential inhibits growth"
+      ],
+      "answer": 1,
+      "explanation": "Elevated turgor pressure generated by water uptake exerts outward force on the cell wall, enabling irreversible cell expansion and leaf growth.",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "Plasmolysis of a plant cell indicates:",
+      "options": [
+        "Excessive water uptake",
+        "Loss of turgor due to a hypertonic external solution",
+        "Increased photosynthetic rate",
+        "Enhanced nutrient transport"
+      ],
+      "answer": 1,
+      "explanation": "When external solution is hypertonic, water exits the cell, reducing turgor and causing the plasma membrane to pull away from the cell wall (plasmolysis).",
+      "topic": "Importance of water relations in plants"
+    },
+    {
+      "question": "According to the cohesion‑tension theory, the continuous water column in xylem is maintained because:",
+      "options": [
+        "High solute concentration in xylem sap",
+        "Strong adhesive forces between water molecules and vessel walls",
+        "Active pumping of water by root cells",
+        "Presence of lignin in xylem"
+      ],
+      "answer": 1,
+      "explanation": "Adhesion of water molecules to the hydrophilic walls of xylem vessels, together with cohesion between water molecules, prevents column breakage under tension.",
+      "topic": "Importance of water relations in plants"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 16,
+    "mcqCount": 110
+  }
+}

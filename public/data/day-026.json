@@ -1,0 +1,415 @@
+{
+  "day": 26,
+  "courseDate": "2026-09-24",
+  "publishAt": "2026-09-24T06:00:00+05:30",
+  "title": "Day 26: Light Reactions and Energy Conversion in Photosynthesis",
+  "introduction": "This lesson dissects the light‑dependent reactions of photosynthesis, detailing photon capture, electron transport, photophosphorylation and the chemiosmotic basis of ATP synthesis. Mastery of these steps is essential for answering NEET questions on energy flow in chloroplasts.",
+  "sections": [
+    {
+      "topic": "Light reaction",
+      "heading": "Photon Capture and Primary Charge Separation",
+      "content": "When a photon of suitable wavelength strikes a pigment molecule, the chlorophyll a in the antenna complex becomes excited (Excitation of chlorophyll). The excited electron is transferred to the reaction centre chlorophyll P680 in Photosystem II (Role of reaction centres). This initiates charge separation, releasing the electron into the primary electron acceptor. A parallel process occurs in Photosystem I with P700 as the reaction centre. The absorbed energy is thus converted into high‑energy electrons ready for transport.",
+      "keyPoints": [
+        "Excitation of chlorophyll occurs in the antenna pigments of both photosystems",
+        "P680 and P700 are the primary reaction‑centre chlorophylls of PSII and PSI respectively",
+        "Charge separation creates a high‑energy electron and a positively charged reaction centre"
+      ],
+      "neetTips": [
+        "Memorise the order: photon → antenna → reaction centre → primary electron acceptor",
+        "Link P680 to water splitting and P700 to NADP+ reduction"
+      ]
+    },
+    {
+      "topic": "Electron transport",
+      "heading": "Linear and Cyclic Electron Flow",
+      "content": "In non‑cyclic (linear) electron transport, the electron from PSII is passed to plastoquinone (PQ), then to the cytochrome b6f complex, plastocyanin (PC), and finally to PSI. After excitation in PSI, the electron reduces ferredoxin and ultimately NADP+ to NADPH (NADPH formation). Simultaneously, water is split at the oxygen‑evolving complex of PSII (Splitting of water/Photolysis of water), releasing O2 (Release of oxygen) and providing electrons to replace those lost by P680. In cyclic photophosphorylation, electrons from ferredoxin return to the cytochrome b6f complex, bypassing NADP+ reduction, and generate additional proton translocation without O2 evolution.",
+      "keyPoints": [
+        "Linear flow moves electrons from H2O to NADP+ producing NADPH and O2",
+        "Cyclic flow recycles electrons from ferredoxin back to the cytochrome b6f complex",
+        "Plastoquinone and plastocyanin act as mobile electron carriers"
+      ],
+      "neetTips": [
+        "Distinguish cyclic vs non‑cyclic by presence of O2 evolution and NADPH formation",
+        "Remember that water splitting supplies electrons for PSII"
+      ]
+    },
+    {
+      "topic": "Photophosphorylation",
+      "heading": "ATP Synthesis Coupled to Proton Motive Force",
+      "content": "Electron transport through the cytochrome b6f complex pumps protons from the stroma into the thylakoid lumen, establishing a proton gradient (Proton gradient). The return of protons through ATP synthase drives the synthesis of ATP from ADP and Pi (ATP formation). In non‑cyclic photophosphorylation, both ATP and NADPH are produced; in cyclic photophosphorylation, only ATP is generated, enhancing the ATP/NADPH ratio required for the Calvin cycle.",
+      "keyPoints": [
+        "Proton pumping occurs at the cytochrome b6f complex",
+        "ATP synthase uses the electrochemical gradient to phosphorylate ADP",
+        "Cyclic photophosphorylation yields ATP without NADPH"
+      ],
+      "neetTips": [
+        "Link the need for extra ATP in the Calvin cycle to cyclic photophosphorylation",
+        "Visualise the thylakoid lumen as the site of proton accumulation"
+      ]
+    },
+    {
+      "topic": "Chemiosmotic hypothesis",
+      "heading": "Proton Gradient‑Driven ATP Synthesis",
+      "content": "Peter Mitchell's chemiosmotic hypothesis states that the energy stored as a trans‑thylakoid proton gradient is harnessed by ATP synthase (Role of ATP synthase) to synthesize ATP. The flow of protons through the F0 channel causes rotation of the γ‑subunit, inducing conformational changes in the β‑subunits that catalyse ATP formation. The gradient is maintained by continuous electron transport and water splitting, ensuring a steady supply of ATP during illumination.",
+      "keyPoints": [
+        "Chemiosmotic hypothesis links proton motive force to ATP synthesis",
+        "ATP synthase functions as a rotary motor driven by proton flow",
+        "The gradient is sustained by electron transport and photolysis of water"
+      ],
+      "neetTips": [
+        "Remember the phrase ‘proton motive force drives rotary ATP synthase’",
+        "Associate the chemiosmotic concept with both mitochondria and chloroplasts for NEET clarity"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Describe the sequence of events from photon absorption to ATP synthesis in the light reactions",
+    "Differentiate between cyclic and non‑cyclic electron flow and their products",
+    "Explain how photolysis of water supplies electrons and releases oxygen",
+    "Interpret the chemiosmotic hypothesis and the role of ATP synthase in generating ATP"
+  ],
+  "mcqs": [
+    {
+      "question": "Which pigment molecule acts as the primary electron donor in photosystem II during the light reaction?",
+      "options": [
+        "P680",
+        "P700",
+        "Chlorophyll a in the antenna complex",
+        "Carotenoid"
+      ],
+      "answer": 0,
+      "explanation": "P680, located in the reaction centre of photosystem II, gets excited first and donates electrons to the primary electron acceptor.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "What is the reaction centre chlorophyll that gets excited in photosystem I?",
+      "options": [
+        "P700",
+        "P680",
+        "Plastocyanin",
+        "Ferredoxin"
+      ],
+      "answer": 0,
+      "explanation": "P700 is the special pair of chlorophyll a molecules in the reaction centre of photosystem I that absorbs light and initiates electron transfer.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "Which statement correctly describes the function of the oxygen‑evolving complex (OEC) associated with photosystem II?",
+      "options": [
+        "It splits water, releasing O₂, electrons and H⁺ into the lumen",
+        "It reduces NADP⁺ to NADPH",
+        "It pumps protons directly into the stroma",
+        "It transfers electrons to plastocyanin"
+      ],
+      "answer": 0,
+      "explanation": "The OEC (also called the water‑splitting complex) catalyzes the photolysis of water, producing molecular oxygen, electrons that enter the electron transport chain, and protons that contribute to the lumenal proton gradient.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "During non‑cyclic photophosphorylation, the linear flow of electrons results in the synthesis of which two energy‑rich molecules?",
+      "options": [
+        "ATP and NADPH",
+        "ATP and FADH₂",
+        "NADPH and CO₂",
+        "ADP and NAD⁺"
+      ],
+      "answer": 0,
+      "explanation": "Linear electron flow from water to NADP⁺ generates both ATP (via chemiosmosis) and NADPH (by reduction of NADP⁺) in the light‑dependent reactions.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "Why does cyclic photophosphorylation not lead to NADPH formation?",
+      "options": [
+        "Water is not split",
+        "Electrons return to P700 instead of reducing NADP⁺",
+        "Plastocyanin is absent",
+        "ATP synthase is inactive"
+      ],
+      "answer": 1,
+      "explanation": "In cyclic photophosphorylation the excited electrons from P700 are transferred back to the photosystem through the cytochrome b₆f complex, so they never reduce NADP⁺, and thus NADPH is not produced.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "Which process primarily establishes the proton gradient that drives ATP synthesis during the light reactions?",
+      "options": [
+        "Reduction of NADP⁺ in the stroma",
+        "Transport of ADP into the lumen",
+        "Oxidation of water at PSII releasing protons into the lumen",
+        "Release of O₂ from PSII"
+      ],
+      "answer": 2,
+      "explanation": "The oxidation (photolysis) of water at the oxygen‑evolving complex of PSII releases protons directly into the thylakoid lumen, contributing significantly to the proton motive force used by ATP synthase.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "Which electron carrier transfers electrons from reduced plastoquinone to the cytochrome b₆f complex?",
+      "options": [
+        "Plastocyanin",
+        "Ferredoxin",
+        "NADPH",
+        "Plastoquinol"
+      ],
+      "answer": 3,
+      "explanation": "Reduced plastoquinone (plastoquinol) donates its electrons to the cytochrome b₆f complex, moving them further along the electron transport chain toward photosystem I.",
+      "topic": "Light reaction"
+    },
+    {
+      "question": "In the Z‑scheme of photosynthetic electron transport, which pigment molecule acts as the primary electron donor that gets oxidized in photosystem II?",
+      "options": [
+        "P680",
+        "P700",
+        "Plastoquinone",
+        "NADP⁺"
+      ],
+      "answer": 0,
+      "explanation": "P680 (a chlorophyll a molecule) in the reaction centre of photosystem II absorbs light, becomes excited and donates an electron, becoming P680⁺, which is then reduced by electrons derived from water.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "Which soluble electron carrier receives electrons from photosystem I and transfers them to NADP⁺ to form NADPH?",
+      "options": [
+        "Ferredoxin",
+        "Plastoquinone",
+        "Cytochrome b₆f complex",
+        "Plastocyanin"
+      ],
+      "answer": 0,
+      "explanation": "Reduced ferredoxin (Fd) accepts electrons from the excited P700* of photosystem I and then donates them to NADP⁺ reductase, producing NADPH.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "During cyclic photophosphorylation, electrons from photosystem I are returned to which component to help generate a proton gradient?",
+      "options": [
+        "Plastoquinone pool",
+        "NADP⁺",
+        "Cytochrome b₆f complex",
+        "Water"
+      ],
+      "answer": 0,
+      "explanation": "In cyclic flow, the electron from P700* is transferred to ferredoxin and then back to the plastoquinone pool via the cytochrome b₆f complex, driving proton translocation into the lumen.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "The photolysis of water, which supplies electrons to photosystem II, occurs at which specific complex?",
+      "options": [
+        "Oxygen‑evolving complex (OEC)",
+        "Q_B site",
+        "P680 reaction centre",
+        "Cytochrome b₆f complex"
+      ],
+      "answer": 0,
+      "explanation": "The OEC (also called the water‑splitting complex) associated with photosystem II extracts electrons from water, releasing O₂, protons, and electrons.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "What is the specific role of plastocyanin in the thylakoid electron transport chain?",
+      "options": [
+        "Transfers electrons from cytochrome b₆f to photosystem I",
+        "Transfers electrons from photosystem II to the quinone pool",
+        "Reduces NADP⁺ to NADPH",
+        "Pumps protons across the thylakoid membrane"
+      ],
+      "answer": 0,
+      "explanation": "Plastocyanin is a mobile copper‑protein that shuttles electrons from the cytochrome b₆f complex to the oxidised P700⁺ of photosystem I.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "Which of the following is NOT a component of the linear (non‑cyclic) electron transport chain in oxygenic photosynthesis?",
+      "options": [
+        "Cytochrome b₆f complex",
+        "Plastoquinone",
+        "Ferredoxin",
+        "ATP synthase"
+      ],
+      "answer": 3,
+      "explanation": "ATP synthase uses the proton gradient to synthesize ATP but is not part of the electron transport chain that moves electrons from water to NADP⁺.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "The major contributor to the proton gradient across the thylakoid membrane during electron transport is:",
+      "options": [
+        "Proton release into the lumen during water splitting",
+        "Proton consumption in NADPH formation",
+        "Proton pumping by the cytochrome b₆f complex",
+        "Proton uptake by plastocyanin"
+      ],
+      "answer": 2,
+      "explanation": "The cytochrome b₆f complex functions as a proton pump, moving protons from the stroma into the lumen as electrons pass from plastoquinol to plastocyanin, establishing the gradient used by ATP synthase.",
+      "topic": "Electron transport"
+    },
+    {
+      "question": "What does the term photophosphorylation specifically refer to in chloroplasts?",
+      "options": [
+        "Synthesis of ATP using light energy in chloroplasts",
+        "Synthesis of NADPH using light energy",
+        "Splitting of water to release O₂",
+        "Transfer of electrons from water to NADP⁺"
+      ],
+      "answer": 0,
+      "explanation": "Photophosphorylation is the light‑driven synthesis of ATP in the thylakoid membrane, coupling electron transport to a proton gradient.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "In the linear (non‑cyclic) electron flow, which molecule directly donates electrons to the reaction centre of Photosystem I?",
+      "options": [
+        "Plastoquinone",
+        "Plastocyanin",
+        "Ferredoxin",
+        "NADP⁺"
+      ],
+      "answer": 1,
+      "explanation": "Electrons travel from PSII to plastoquinone, then to the cytochrome b₆f complex, and are transferred to PSI by plastocyanin.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "Which statement correctly distinguishes cyclic from non‑cyclic photophosphorylation?",
+      "options": [
+        "Cyclic involves both PSII and PSI, non‑cyclic only PSI",
+        "Cyclic produces NADPH, non‑cyclic does not",
+        "Cyclic generates ATP without NADPH, non‑cyclic generates both ATP and NADPH",
+        "Cyclic requires water splitting, non‑cyclic does not"
+      ],
+      "answer": 2,
+      "explanation": "Cyclic photophosphorylation recycles electrons from PSI back to the plastoquinone pool, yielding only ATP; non‑cyclic transfers electrons from PSII to PSI to NADP⁺, producing ATP, NADPH and O₂.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "Across which membrane is the proton gradient that drives ATP synthesis during photophosphorylation established?",
+      "options": [
+        "Outer chloroplast membrane",
+        "Inner chloroplast membrane",
+        "Thylakoid membrane",
+        "Stroma membrane"
+      ],
+      "answer": 2,
+      "explanation": "Protons are pumped from the stroma into the thylakoid lumen, creating a gradient across the thylakoid membrane.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "Which enzyme directly utilizes the proton motive force to synthesize ATP in photophosphorylation?",
+      "options": [
+        "NADP⁺ reductase",
+        "ATP synthase",
+        "Cytochrome b₆f complex",
+        "Ferredoxin‑NADP⁺ reductase"
+      ],
+      "answer": 1,
+      "explanation": "ATP synthase (CF₀CF₁) allows protons to flow back into the stroma, coupling this flow to the phosphorylation of ADP.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "In non‑cyclic photophosphorylation, the terminal electron acceptor that gets reduced is:",
+      "options": [
+        "O₂",
+        "NADP⁺",
+        "ADP",
+        "CO₂"
+      ],
+      "answer": 1,
+      "explanation": "Electrons from PSI ultimately reduce NADP⁺ to NADPH, the final electron acceptor of the linear electron transport chain.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "Approximately how many photons are required to synthesize one molecule of ATP via cyclic photophosphorylation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Each excitation of PSI uses one photon; to generate sufficient proton motive force for one ATP about two photons are needed in the cyclic pathway.",
+      "topic": "Photophosphorylation"
+    },
+    {
+      "question": "Which statement best describes the chemiosmotic hypothesis as applied to chloroplast thylakoids?",
+      "options": [
+        "ATP is generated by substrate-level phosphorylation in the stroma.",
+        "Electron transport directly phosphorylates ADP.",
+        "Energy from electron transport is used to pump protons into thylakoid lumen, and the return flow drives ATP synthesis.",
+        "Light energy splits water to produce ATP directly."
+      ],
+      "answer": 2,
+      "explanation": "Mitchell's chemiosmotic hypothesis states that electron transport creates a proton gradient across the thylakoid membrane; the flow of protons back through ATP synthase provides the energy for ATP formation.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "In photophosphorylation, the proton gradient is established across which membrane?",
+      "options": [
+        "Outer chloroplast membrane",
+        "Inner chloroplast membrane",
+        "Thylakoid membrane",
+        "Stroma membrane"
+      ],
+      "answer": 2,
+      "explanation": "Proton pumping by the cytochrome b6f complex and water splitting occur in the thylakoid lumen, generating a gradient across the thylakoid membrane.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "Which experimental observation supports the chemiosmotic hypothesis in chloroplasts?",
+      "options": [
+        "Addition of uncoupler DNP abolishes ATP synthesis without affecting electron transport.",
+        "Inhibition of PSII stops oxygen evolution but ATP synthesis continues.",
+        "Increasing stromal pH enhances NADPH formation.",
+        "Light intensity does not affect proton gradient."
+      ],
+      "answer": 0,
+      "explanation": "Uncouplers dissipate the proton gradient, stopping ATP synthesis while electron transport (and thus oxygen evolution) proceeds, confirming that the gradient drives ATP formation.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "The enzyme ATP synthase (CF0CF1) in chloroplasts allows ATP formation by:",
+      "options": [
+        "Direct transfer of electrons from plastoquinone to ADP.",
+        "Rotation of its γ‑subunit driven by protons moving from lumen to stroma.",
+        "Hydrolysis of ATP to pump protons into lumen.",
+        "Binding of NADPH to catalytic site."
+      ],
+      "answer": 1,
+      "explanation": "Proton flow from the lumen to the stroma causes rotation of the γ‑subunit, inducing conformational changes that synthesize ATP from ADP and Pi.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "During non‑cyclic photophosphorylation, the net movement of protons across the thylakoid membrane is primarily due to:",
+      "options": [
+        "Photolysis of water releasing protons into lumen.",
+        "Proton consumption in the Calvin cycle.",
+        "Proton pumping by the cytochrome b6f complex.",
+        "Direct proton release from photosystem I."
+      ],
+      "answer": 2,
+      "explanation": "The cytochrome b6f complex uses the Q cycle to pump protons from the stroma into the lumen, contributing most of the proton gradient.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "Which of the following would most likely decrease the rate of ATP synthesis by chemiosmosis in chloroplasts?",
+      "options": [
+        "Increasing the concentration of ADP in the stroma.",
+        "Adding the ionophore nigericin that exchanges H+ for K+.",
+        "Raising the light intensity.",
+        "Providing excess CO2 for the Calvin cycle."
+      ],
+      "answer": 1,
+      "explanation": "Nigericin collapses the proton gradient by exchanging H+ for K+, reducing the proton motive force needed for ATP synthase activity.",
+      "topic": "Chemiosmotic hypothesis"
+    },
+    {
+      "question": "According to the chemiosmotic hypothesis, the free energy change (ΔG) for ATP synthesis is provided by:",
+      "options": [
+        "The redox potential difference between water and NADP+.",
+        "The electrochemical potential (proton motive force) across the thylakoid membrane.",
+        "The thermal energy released during photon absorption.",
+        "The concentration gradient of NADPH."
+      ],
+      "answer": 1,
+      "explanation": "The proton motive force, a combination of ΔpH and membrane potential across the thylakoid, supplies the free energy that drives the synthesis of ATP.",
+      "topic": "Chemiosmotic hypothesis"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 4,
+    "mcqCount": 28
+  }
+}

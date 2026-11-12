@@ -1,0 +1,1549 @@
+{
+  "day": 44,
+  "courseDate": "2026-10-12",
+  "publishAt": "2026-10-12T06:00:00+05:30",
+  "title": "Mitosis versus Meiosis and Significance of Cell Division",
+  "introduction": "This lesson compares mitosis and meiosis, detailing their phases, outcomes, and biological importance for growth, repair, asexual reproduction, and sexual reproduction, with emphasis on NEET‑high‑yield concepts.",
+  "sections": [
+    {
+      "topic": "Mitosis versus meiosis",
+      "heading": "Fundamental Differences between Mitosis and Meiosis",
+      "content": "Mitosis is a single division that yields two genetically identical diploid daughter cells, preserving chromosome number. Meiosis comprises two successive divisions (Meiosis I and II) producing four genetically diverse haploid gametes. Key distinctions include the presence of homologous chromosome pairing, crossing over, and reduction of chromosome number only in meiosis.",
+      "keyPoints": [
+        "Mitosis: 1 division → 2 diploid cells; Meiosis: 2 divisions → 4 haploid cells",
+        "Genetic identity vs. variation",
+        "Homologous pairing and recombination occur only in meiosis"
+      ],
+      "neetTips": [
+        "Memorise the 1‑division vs 2‑division contrast for quick table‑type questions",
+        "Recall that only meiosis reduces chromosome number"
+      ]
+    },
+    {
+      "topic": "Number of divisions",
+      "heading": "Division Count in Mitosis and Meiosis",
+      "content": "Mitosis involves one nuclear division (prophase to telophase) followed by cytokinesis. Meiosis includes Meiosis I (reductional) and Meiosis II (equational), each with prophase, metaphase, anaphase, telophase, resulting in two successive nuclear divisions.",
+      "keyPoints": [
+        "Mitosis: 1 nuclear division",
+        "Meiosis: 2 nuclear divisions (Meiosis I + II)"
+      ],
+      "neetTips": [
+        "Link ‘reductional’ with Meiosis I and ‘equational’ with Meiosis II for sequence questions"
+      ]
+    },
+    {
+      "topic": "Chromosome number",
+      "heading": "Chromosome Number Before and After Division",
+      "content": "In mitosis, the diploid (2n) chromosome number is maintained in daughter cells. In meiosis, the diploid parent (2n) yields haploid (n) gametes after the two divisions, halving the chromosome complement.",
+      "keyPoints": [
+        "Mitosis: 2n → 2n",
+        "Meiosis: 2n → n"
+      ],
+      "neetTips": [
+        "Remember the term ‘reduction division’ for meiosis to avoid confusion in numerical problems"
+      ]
+    },
+    {
+      "topic": "Number of daughter cells",
+      "heading": "Outcome Cell Count per Division Type",
+      "content": "Mitosis produces two daughter cells; meiosis produces four gametes. The extra two cells arise because Meiosis II separates sister chromatids without DNA replication.",
+      "keyPoints": [
+        "Mitosis → 2 cells",
+        "Meiosis → 4 cells"
+      ],
+      "neetTips": [
+        "Visualise the meiotic diagram: one parent → 2 cells after Meiosis I → 4 after Meiosis II"
+      ]
+    },
+    {
+      "topic": "Genetic similarity and variation",
+      "heading": "Genetic Identity in Mitosis vs Variation in Meiosis",
+      "content": "Mitosis generates clones; each daughter cell contains an exact copy of the parental genome. Meiosis introduces variation through independent assortment and crossing over, resulting in non‑identical gametes.",
+      "keyPoints": [
+        "Mitosis: genetic clones",
+        "Meiosis: genetic diversity"
+      ],
+      "neetTips": [
+        "Link ‘variation’ with crossing over and independent assortment for high‑yield questions"
+      ]
+    },
+    {
+      "topic": "Crossing over",
+      "heading": "Crossing Over and Its Significance",
+      "content": "During prophase I, homologous chromosomes form tetrads and exchange non‑sister chromatid segments at chiasmata. This recombination creates new allele combinations, increasing genetic variability in offspring.",
+      "keyPoints": [
+        "Occurs in prophase I of meiosis",
+        "Involves non‑sister chromatids",
+        "Generates new allele combinations"
+      ],
+      "neetTips": [
+        "Chiasma = site of crossing over; remember for diagram‑label questions"
+      ]
+    },
+    {
+      "topic": "Synapsis",
+      "heading": "Synapsis: Pairing of Homologous Chromosomes",
+      "content": "Synapsis is the intimate alignment of homologous chromosomes during prophase I, facilitated by the synaptonemal complex. It precedes crossing over and ensures accurate segregation in Meiosis I.",
+      "keyPoints": [
+        "Occurs in prophase I",
+        "Forms tetrads (bivalents)",
+        "Essential for recombination"
+      ],
+      "neetTips": [
+        "Synapsis → tetrad formation → crossing over; a sequential mnemonic"
+      ]
+    },
+    {
+      "topic": "Role of meiosis in sexual reproduction",
+      "heading": "Meiosis as the Basis of Sexual Reproduction",
+      "content": "Meiosis produces haploid gametes (sperm and ovum) that fuse during fertilization to restore diploidy. This process ensures chromosome number stability across generations and introduces genetic diversity essential for evolution.",
+      "keyPoints": [
+        "Generates haploid gametes",
+        "Restores diploidy at fertilization",
+        "Maintains species chromosome number"
+      ],
+      "neetTips": [
+        "Link ‘reduction division’ with gamete formation in NEET conceptual questions"
+      ]
+    },
+    {
+      "topic": "Role of mitosis in growth",
+      "heading": "Mitosis in Organismal Growth",
+      "content": "Somatic cell mitosis drives increase in cell number during embryonic development, tissue expansion, and post‑natal growth. Each division adds a genetically identical cell, contributing to organism size.",
+      "keyPoints": [
+        "Somatic cell division",
+        "Increases cell number",
+        "Maintains genetic fidelity"
+      ],
+      "neetTips": [
+        "Recall that growth = cell number increase, not cell size"
+      ]
+    },
+    {
+      "topic": "Role of mitosis in repair",
+      "heading": "Mitosis for Tissue Repair and Regeneration",
+      "content": "When injury occurs, surrounding somatic cells re‑enter the cell cycle and divide by mitosis to replace damaged cells, preserving tissue architecture and function.",
+      "keyPoints": [
+        "Activates in response to injury",
+        "Restores lost cells",
+        "Preserves genome integrity"
+      ],
+      "neetTips": [
+        "NEET often asks which division is responsible for wound healing – answer: mitosis"
+      ]
+    },
+    {
+      "topic": "Role of mitosis in asexual reproduction",
+      "heading": "Mitosis in Asexual Propagation",
+      "content": "Organisms such as hydra, planaria, and many plants reproduce asexually by mitotic budding, fragmentation, or vegetative propagation, producing offspring genetically identical to the parent.",
+      "keyPoints": [
+        "Asexual offspring are clones",
+        "Occurs via budding, fragmentation, etc.",
+        "No reduction in chromosome number"
+      ],
+      "neetTips": [
+        "Distinguish asexual reproduction (mitosis) from sexual (meiosis) in MCQs"
+      ]
+    },
+    {
+      "topic": "Genetic variation through meiosis",
+      "heading": "Sources of Genetic Variation in Meiosis",
+      "content": "Variation arises from (i) crossing over (recombination of alleles), (ii) independent assortment of homologous chromosome pairs at metaphase I, and (iii) random fertilization of gametes.",
+      "keyPoints": [
+        "Crossing over – intrachromosomal recombination",
+        "Independent assortment – interchromosomal shuffling",
+        "Random fusion of gametes"
+      ],
+      "neetTips": [
+        "NEET often combines two sources; remember the three major contributors"
+      ]
+    },
+    {
+      "topic": "Independent assortment",
+      "heading": "Independent Assortment of Homologous Chromosomes",
+      "content": "During metaphase I, each homologous pair aligns randomly on the metaphase plate. With n chromosome pairs, 2ⁿ possible gamete genotypes can arise, exemplifying Mendel’s law of independent assortment.",
+      "keyPoints": [
+        "Random orientation of each pair",
+        "2ⁿ possible combinations",
+        "Explains dihybrid ratios"
+      ],
+      "neetTips": [
+        "For humans (n=23), theoretical gamete diversity ≈ 8 million; useful for numerical questions"
+      ]
+    },
+    {
+      "topic": "Cytokinesis comparison",
+      "heading": "Cytokinesis in Mitosis vs Meiosis",
+      "content": "In animal cells, cytokinesis follows each mitotic division, producing two cells. In meiosis, cytokinesis occurs after Meiosis I (producing two cells) and after Meiosis II (producing four). Plant cells form a cell plate in both divisions.",
+      "keyPoints": [
+        "Mitosis: one cytokinesis event",
+        "Meiosis I & II each have cytokinesis",
+        "Plant cells use cell plate"
+      ],
+      "neetTips": [
+        "Remember ‘two cytokines in meiosis’ for sequence‑type questions"
+      ]
+    },
+    {
+      "topic": "Chromosome and chromatid terminology",
+      "heading": "Key Terminology: Chromosome vs Chromatid",
+      "content": "A chromosome consists of two sister chromatids joined at the centromere before anaphase. After centromere split, each chromatid is considered an individual chromosome. In meiosis, homologous chromosomes are distinct entities, while sister chromatids are identical copies.",
+      "keyPoints": [
+        "Chromosome = two sister chromatids pre‑anaphase",
+        "Chromatid becomes chromosome post‑anaphase",
+        "Homologous vs sister distinction"
+      ],
+      "neetTips": [
+        "NEET often asks to identify ‘chromatid’ in diagrams; recall centromere connection"
+      ]
+    },
+    {
+      "topic": "Common cell-division misconceptions",
+      "heading": "Clarifying Frequent Misconceptions",
+      "content": "(i) Meiosis does not produce diploid cells; (ii) Crossing over occurs only in prophase I, not in mitosis; (iii) Cytokinesis follows each meiotic division, not just the final one; (iv) All gametes are genetically unique, not identical copies.",
+      "keyPoints": [
+        "Meiosis = haploid output",
+        "Crossing over exclusive to meiosis I",
+        "Two cytokinesis events in meiosis",
+        "Gametes are genetically diverse"
+      ],
+      "neetTips": [
+        "Use the ‘M‑C‑C‑G’ mnemonic: Meiosis‑haploid, Crossing‑over, Cytokinesis‑twice, Gametes‑unique"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Distinguish mitosis and meiosis in terms of division number, chromosome number and daughter‑cell count",
+    "Explain the mechanisms that generate genetic variation during meiosis",
+    "Identify the biological roles of mitosis and meiosis in growth, repair, asexual and sexual reproduction",
+    "Apply chromosome‑counting and terminology to solve NEET‑style quantitative and diagrammatic questions"
+  ],
+  "mcqs": [
+    {
+      "question": "After completion of mitosis, a diploid somatic cell yields two daughter cells. How many chromosomes and chromatids are present in each daughter cell compared to the parent cell?",
+      "options": [
+        "Same number of chromosomes and chromatids as the parent cell",
+        "Half the number of chromosomes but double the chromatids",
+        "Same number of chromosomes but half the number of chromatids",
+        "Half the number of chromosomes and half the number of chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Mitosis separates sister chromatids, so each daughter cell retains the diploid chromosome number (46 in humans) but each chromosome consists of a single chromatid, i.e., half the chromatids of the parent.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "Crossing over, which contributes to genetic variation, occurs during which specific stage of meiosis?",
+      "options": [
+        "Prophase I (pachytene stage)",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Homologous chromosomes pair and exchange genetic material during prophase I, specifically the pachytene substage, creating new allele combinations.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "Assuming independent assortment, a diploid organism is heterozygous for three unlinked genes (Aa Bb Cc). How many genetically distinct gamete types can be produced?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "Each heterozygous locus can contribute two alleles independently; therefore 2^3 = 8 different gamete combinations are possible.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "Which statement correctly describes the role of meiosis in sexual reproduction?",
+      "options": [
+        "Produces genetically identical diploid cells for growth",
+        "Generates haploid gametes that fuse to restore diploidy",
+        "Forms somatic cells for tissue repair",
+        "Duplicates DNA without cell division"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis reduces the chromosome number by half, producing haploid gametes (sperm and egg) that unite during fertilization to re-establish the diploid chromosome complement.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "During cytokinesis in plant cells undergoing mitosis, the cell plate forms. How does cytokinesis differ in animal cells undergoing meiosis II?",
+      "options": [
+        "Animal cells form a cell plate in meiosis II",
+        "Animal cells use a cleavage furrow in both meiosis I and II",
+        "Animal cells use a cleavage furrow only in meiosis I",
+        "No cytokinesis occurs in meiosis II"
+      ],
+      "answer": 1,
+      "explanation": "Animal cells complete cytokinesis by forming a contractile cleavage furrow in both meiotic divisions, unlike plant cells that build a cell plate.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "Which of the following statements corrects the common misconception that meiosis always yields four genetically identical cells?",
+      "options": [
+        "Meiosis produces four identical haploid cells because sister chromatids are identical",
+        "Crossing over and independent assortment make the four haploid cells genetically distinct",
+        "Meiosis produces only two cells",
+        "Meiosis does not involve DNA replication"
+      ],
+      "answer": 1,
+      "explanation": "Genetic recombination (crossing over) and independent assortment of homologous chromosomes ensure that the four haploid products are genetically diverse.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "A human diploid cell (2n=46) enters prophase I of meiosis. How many chromosomes and chromatids are present at this stage?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids",
+        "92 chromosomes, 92 chromatids",
+        "92 chromosomes, 46 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Before meiosis I, DNA replication has occurred, so each of the 46 chromosomes consists of two sister chromatids, giving 46 chromosomes and 92 chromatids.",
+      "topic": "Mitosis versus meiosis"
+    },
+    {
+      "question": "During the process that leads to the formation of haploid gametes in humans, how many successive nuclear divisions occur?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis consists of two successive nuclear divisions, meiosis I and meiosis II, resulting in four haploid cells from one diploid precursor.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "In a typical somatic cell division, how many rounds of nuclear division are completed before cytokinesis?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "answer": 2,
+      "explanation": "Mitosis involves a single round of nuclear division (prophase to telophase) followed by cytokinesis.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "If a diploid cell (2n) undergoes meiosis, how many times does the chromosome number get halved during the entire process?",
+      "options": [
+        "Once, after meiosis I",
+        "Twice, after meiosis I and II",
+        "Never, it remains diploid",
+        "Only after cytokinesis"
+      ],
+      "answer": 1,
+      "explanation": "The chromosome number is halved first during meiosis I (reductional division) and remains halved after meiosis II (equational division).",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "During spermatogenesis, the spermatogonia first undergo mitotic divisions before entering meiosis. Including these mitotic divisions, how many total nuclear divisions does a primary spermatocyte experience before becoming a mature spermatozoon?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 2,
+      "explanation": "A primary spermatocyte undergoes meiosis I and meiosis II (two divisions). The preceding spermatogonia undergo one mitotic division to become primary spermatocytes, totaling three nuclear divisions.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "In oogenesis, how many meiotic divisions are completed by the time a mature ovum is formed?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 0,
+      "explanation": "Only the first meiotic division is completed; the second division arrests at metaphase II and is only completed after fertilization, so the mature ovum has completed only one meiotic division.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "A plant meristematic cell undergoes a series of divisions to produce a multicellular structure. If the cell first divides mitotically and then the daughter cells enter meiosis, how many total nuclear divisions will have occurred after the process is complete?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "answer": 1,
+      "explanation": "The initial mitotic division is followed by meiosis I and meiosis II, giving a total of three nuclear divisions.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "Which of the following statements correctly describes the number of divisions required to convert a diploid zygote into a multicellular embryo through successive mitotic cycles?",
+      "options": [
+        "One division per cell generation",
+        "Two divisions per cell generation",
+        "Three divisions per cell generation",
+        "Four divisions per cell generation"
+      ],
+      "answer": 0,
+      "explanation": "Each cell generation in embryonic development results from a single mitotic division of the preceding cell, leading to exponential increase in cell number.",
+      "topic": "Number of divisions"
+    },
+    {
+      "question": "In a typical human somatic cell before DNA replication, what is the chromosome number?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "44"
+      ],
+      "answer": 0,
+      "explanation": "Human somatic cells are diploid with 2n = 46 chromosomes before S phase.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "After DNA replication (S phase) but before mitosis, how many chromatids are present in a human somatic cell?",
+      "options": [
+        "46",
+        "92",
+        "23",
+        "184"
+      ],
+      "answer": 1,
+      "explanation": "Each of the 46 chromosomes consists of two sister chromatids after replication, giving 46 × 2 = 92 chromatids.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "At the end of anaphase I of meiosis, a human cell contains:",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "23 chromosomes, 46 chromatids",
+        "23 chromosomes, 23 chromatids",
+        "46 chromosomes, 92 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Homologous chromosomes separate, leaving 23 chromosomes, each still composed of two sister chromatids (total 46 chromatids).",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "Which statement correctly describes the chromosome number in human gametes?",
+      "options": [
+        "Gametes are diploid (2n)",
+        "Gametes contain half the chromosome number of somatic cells",
+        "Gametes have the same chromosome number as somatic cells but each chromosome is a single chromatid",
+        "Gametes have double the chromosome number of somatic cells"
+      ],
+      "answer": 1,
+      "explanation": "Gametes are haploid (n) and contain half the chromosome number of somatic cells, i.e., 23 chromosomes each.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "A nondisjunction event during meiosis II results in a sperm cell with how many chromosomes?",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "46"
+      ],
+      "answer": 2,
+      "explanation": "Failure of sister chromatids to separate in meiosis II adds an extra chromosome, giving 24 (2n + 1) instead of the normal 23.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "A plant species has a diploid chromosome number 2n = 14. After meiosis II, each spore will contain:",
+      "options": [
+        "7",
+        "14",
+        "28",
+        "3.5"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis reduces the chromosome number by half; thus each spore is haploid with n = 7 chromosomes.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "During which stage of meiosis is the chromosome number reduced from diploid to haploid?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase I",
+        "Telophase II"
+      ],
+      "answer": 2,
+      "explanation": "In anaphase I, homologous chromosomes separate, reducing the chromosome number from 2n to n.",
+      "topic": "Chromosome number"
+    },
+    {
+      "question": "After a typical mitotic division of a somatic cell, how many daughter cells are produced?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis results in two genetically identical daughter cells, each receiving the complete set of chromosomes from the parent cell.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "Meiosis results in how many genetically distinct daughter cells at the end of meiosis II?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Eight"
+      ],
+      "answer": 2,
+      "explanation": "A complete meiotic cycle (meiosis I followed by meiosis II) yields four haploid daughter cells that are genetically distinct due to crossing over and independent assortment.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "In human spermatogenesis, each primary spermatocyte undergoes meiosis to produce how many functional sperm cells?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 3,
+      "explanation": "One primary spermatocyte divides meiotically to give rise to four mature spermatozoa, each haploid and genetically unique.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "In oogenesis, the primary oocyte yields how many mature ovum after completion of meiosis?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 0,
+      "explanation": "The primary oocyte completes meiosis I to form a secondary oocyte and a polar body; only the secondary oocyte proceeds through meiosis II, resulting in a single mature ovum and additional polar bodies.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "After meiosis I, how many daughter cells are formed and what is their ploidy relative to the parent cell?",
+      "options": [
+        "One diploid cell",
+        "Two diploid cells",
+        "Two haploid cells",
+        "Four haploid cells"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis I is a reductional division that separates homologous chromosomes, producing two haploid daughter cells, each still containing duplicated sister chromatids.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "If a diploid cell with 46 chromosomes undergoes mitosis, how many chromosomes will each daughter cell contain?",
+      "options": [
+        "23",
+        "46",
+        "92",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis conserves chromosome number; each of the two daughter cells receives the full complement of 46 chromosomes, identical to the parent cell.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "Which of the following statements about the number of daughter cells produced in meiosis is correct?",
+      "options": [
+        "Meiosis always yields four daughter cells irrespective of species",
+        "The number of daughter cells can vary due to unequal cytokinesis",
+        "In male gametogenesis, each primary spermatocyte gives rise to four haploid cells",
+        "Oogenesis produces four ova per primary oocyte"
+      ],
+      "answer": 2,
+      "explanation": "In spermatogenesis, a single primary spermatocyte undergoes meiosis to generate four haploid sperm cells; the other statements are inaccurate.",
+      "topic": "Number of daughter cells"
+    },
+    {
+      "question": "Which statement correctly describes the genetic similarity between a parent cell and its daughter cells after mitosis?",
+      "options": [
+        "They contain an identical set of chromosomes as the parent cell.",
+        "They contain half the number of chromosomes as the parent cell.",
+        "They contain a recombined set of chromosomes due to crossing over.",
+        "They contain double the DNA content of the parent cell."
+      ],
+      "answer": 0,
+      "explanation": "Mitosis involves segregation of sister chromatids so each daughter cell receives the exact same chromosome complement as the parent, preserving genetic identity.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "During which stage of meiosis is genetic variation introduced most prominently?",
+      "options": [
+        "Prophase I, because homologous chromosomes undergo crossing over.",
+        "Metaphase I, due to alignment of homologous pairs.",
+        "Anaphase II, when sister chromatids separate.",
+        "Telophase I, during nuclear reformation."
+      ],
+      "answer": 0,
+      "explanation": "In Prophase I, homologous chromosomes pair and exchange DNA segments (crossing over), creating new allele combinations that are the major source of variation.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "Two gametes produced from the same meiotic division differ genetically primarily because of:",
+      "options": [
+        "Independent assortment of homologous chromosomes during metaphase I.",
+        "Cytokinesis occurring after meiosis I.",
+        "DNA replication preceding meiosis.",
+        "Spindle checkpoint activation in meiosis II."
+      ],
+      "answer": 0,
+      "explanation": "Independent assortment randomly distributes maternal and paternal homologues to different gametes, ensuring each gamete has a unique chromosomal makeup.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "If a diploid organism undergoes mitosis, the chromosome number in each daughter cell is:",
+      "options": [
+        "The same as the parent cell.",
+        "Half of the parent cell’s chromosome number.",
+        "Double the parent cell’s chromosome number.",
+        "Variable, depending on the cell type."
+      ],
+      "answer": 0,
+      "explanation": "Mitosis is a reduction‑division‑free process; the sister chromatids separate, so each daughter cell retains the original diploid chromosome number.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "What is the primary reason that offspring are genetically similar to, but not identical with, their parents?",
+      "options": [
+        "Crossing over between non‑sister chromatids.",
+        "Random fusion of two genetically distinct gametes.",
+        "Mutation events during DNA replication.",
+        "All of the above."
+      ],
+      "answer": 1,
+      "explanation": "Random fertilization combines two genetically unique gametes, each already varied by crossing over, producing offspring that share many alleles with parents yet differ in specific combinations.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "In a species that reproduces asexually by mitotic division, the offspring will be:",
+      "options": [
+        "Genetically identical to the parent.",
+        "Genetically varied due to crossing over.",
+        "Half the chromosome number of the parent.",
+        "Possessing new mutations not present in the parent."
+      ],
+      "answer": 0,
+      "explanation": "Asexual reproduction via mitosis copies the parental genome without recombination, resulting in clonal, genetically identical offspring (barring rare mutations).",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "Which pair of cells would exhibit the highest percentage of identical alleles?",
+      "options": [
+        "Two somatic cells from the same individual.",
+        "Two gametes from the same individual.",
+        "A somatic cell and a gamete from the same individual.",
+        "Two unrelated individuals."
+      ],
+      "answer": 0,
+      "explanation": "Somatic cells derived from the same organism retain the full diploid complement without the reshuffling that occurs in gamete formation, making them genetically most alike.",
+      "topic": "Genetic similarity and variation"
+    },
+    {
+      "question": "During which substage of prophase I does crossing over occur?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over is completed in the pachytene substage when homologous chromosomes are fully synapsed and chiasmata become visible.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "What structure holds homologous chromosomes together at the site of crossing over?",
+      "options": [
+        "Centromere",
+        "Chiasma",
+        "Kinetochore",
+        "Spindle fiber"
+      ],
+      "answer": 1,
+      "explanation": "The chiasma is the physical manifestation of the crossover point where nonsister chromatids are exchanged.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Crossing over leads to which of the following outcomes in gametes?",
+      "options": [
+        "Increase in chromosome number",
+        "Production of identical daughter cells",
+        "Exchange of alleles between nonsister chromatids",
+        "Duplication of DNA"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over exchanges genetic material between nonsister chromatids of homologous chromosomes, creating new allele combinations.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "In humans, the average number of crossovers per meiosis is approximately:",
+      "options": [
+        "1-2",
+        "20-30",
+        "40-50",
+        "100-200"
+      ],
+      "answer": 2,
+      "explanation": "Cytogenetic studies show that each human meiosis typically experiences about 40–50 crossover events, ensuring proper segregation and variation.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "The probability of recombination between two genes is directly proportional to:",
+      "options": [
+        "Physical distance between them",
+        "Number of chromosomes",
+        "Number of centromeres",
+        "Number of spindle fibers"
+      ],
+      "answer": 0,
+      "explanation": "Genes that are farther apart on a chromosome have a higher chance of being separated by a crossover, increasing recombination frequency.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Which statement about crossing over is FALSE?",
+      "options": [
+        "It occurs only between homologous chromosomes",
+        "It can occur between sister chromatids",
+        "It contributes to genetic variation",
+        "It is essential for proper segregation of homologues"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over normally occurs between nonsister chromatids of homologous chromosomes; exchange between sister chromatids is extremely rare and not a typical feature.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "In a testcross, a recombination frequency of 12% between two loci corresponds to a map distance of approximately:",
+      "options": [
+        "6 cM",
+        "12 cM",
+        "24 cM",
+        "48 cM"
+      ],
+      "answer": 1,
+      "explanation": "For recombination frequencies below 20%, the map distance in centimorgans is roughly equal to the percentage recombination; thus 12% ≈ 12 cM.",
+      "topic": "Crossing over"
+    },
+    {
+      "question": "Synapsis in meiosis refers to which of the following processes?",
+      "options": [
+        "pairing of homologous chromosomes",
+        "separation of sister chromatids",
+        "replication of DNA",
+        "condensation of chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "Synapsis is the intimate pairing of homologous chromosomes during prophase I of meiosis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "During which substage of prophase I does synapsis first become evident?",
+      "options": [
+        "Leptotene",
+        "Zygotene",
+        "Pachytene",
+        "Diplotene"
+      ],
+      "answer": 1,
+      "explanation": "In the zygotene stage, homologous chromosomes align side by side and the synaptonemal complex begins to form, marking the onset of synapsis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "What is the proteinaceous structure that holds homologous chromosomes together during synapsis?",
+      "options": [
+        "Centromere",
+        "Spindle fibers",
+        "Synaptonemal complex",
+        "Nucleolus"
+      ],
+      "answer": 2,
+      "explanation": "The synaptonemal complex is a tripartite protein structure that stabilizes the paired homologues throughout synapsis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "The visible points where crossing over occurs after synapsis are called:",
+      "options": [
+        "Centromeres",
+        "Chiasmata",
+        "Kinetochores",
+        "Telomeres"
+      ],
+      "answer": 1,
+      "explanation": "Chiasmata are the physical manifestations of crossover events between homologous chromatids, visible after synapsis.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "Synapsis is a feature of which type of cell division?",
+      "options": [
+        "Mitosis",
+        "Meiosis I",
+        "Meiosis II",
+        "Binary fission"
+      ],
+      "answer": 1,
+      "explanation": "Synapsis occurs only during prophase I of meiosis I, facilitating homologous chromosome pairing.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "Failure of synapsis most directly leads to which meiotic abnormality?",
+      "options": [
+        "Increased crossing over",
+        "Nondisjunction",
+        "Enhanced DNA replication",
+        "Accelerated cytokinesis"
+      ],
+      "answer": 1,
+      "explanation": "Without proper synapsis, homologues may not segregate correctly, increasing the risk of nondisjunction and aneuploid gametes.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "Synapsis is NOT observed in which of the following processes?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Mitosis",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Mitosis lacks the pairing of homologous chromosomes; synapsis is exclusive to meiosis I.",
+      "topic": "Synapsis"
+    },
+    {
+      "question": "What is the primary purpose of meiosis in sexual reproduction?",
+      "options": [
+        "To increase chromosome number",
+        "To produce diploid cells",
+        "To generate haploid gametes",
+        "To repair damaged DNA"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis reduces the chromosome number by half, producing haploid gametes (sperm or ovum) that can fuse during fertilization to form a diploid zygote.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "During which meiotic division does homologous chromosome segregation occur, ensuring reduction of chromosome number?",
+      "options": [
+        "Meiosis I",
+        "Meiosis II",
+        "Both Meiosis I and II",
+        "Neither division"
+      ],
+      "answer": 0,
+      "explanation": "Homologous chromosomes separate during anaphase of Meiosis I, which is the reductional division that halves the chromosome number.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "How does crossing over during prophase I contribute to genetic variation in offspring?",
+      "options": [
+        "It duplicates chromosomes",
+        "It exchanges DNA between nonsister chromatids",
+        "It separates sister chromatids",
+        "It eliminates recessive alleles"
+      ],
+      "answer": 1,
+      "explanation": "Crossing over involves reciprocal exchange of genetic material between nonsister chromatids of homologous chromosomes, creating new allele combinations.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "If a diploid organism with 2n=46 undergoes meiosis, how many chromosomes are present in each mature gamete?",
+      "options": [
+        "46",
+        "23",
+        "92",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Meiosis halves the chromosome number, so each gamete receives 23 chromosomes, i.e., n=23.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "Which statement best explains why meiosis is essential for maintaining constant chromosome number across generations?",
+      "options": [
+        "It doubles chromosome number each generation",
+        "It halves chromosome number in gametes so fusion restores diploid",
+        "It eliminates all chromosomes",
+        "It converts DNA to RNA"
+      ],
+      "answer": 1,
+      "explanation": "Gametes are haploid; when two gametes fuse during fertilization, the diploid chromosome number of the species is restored, preventing progressive doubling.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "Independent assortment of chromosomes occurs during which meiotic phase, and what is its significance?",
+      "options": [
+        "Metaphase I – leads to identical gametes",
+        "Anaphase II – causes crossing over",
+        "Metaphase I – generates new allele combinations",
+        "Telophase I – repairs DNA"
+      ],
+      "answer": 2,
+      "explanation": "During Metaphase I, homologous chromosome pairs align randomly, and their segregation in Anaphase I produces gametes with different combinations of maternal and paternal chromosomes, increasing genetic diversity.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "In a species where sex determination is XY, which gamete types can result from meiosis in a male (XY) individual?",
+      "options": [
+        "Only X‑bearing sperm",
+        "Only Y‑bearing sperm",
+        "Both X‑ and Y‑bearing sperm in equal proportion",
+        "No sperm due to meiotic failure"
+      ],
+      "answer": 2,
+      "explanation": "Meiosis in an XY male separates the X and Y chromosomes into different gametes, producing roughly equal numbers of X‑bearing and Y‑bearing sperm.",
+      "topic": "Role of meiosis in sexual reproduction"
+    },
+    {
+      "question": "How does mitosis primarily contribute to the increase in size of a multicellular organism?",
+      "options": [
+        "By increasing the size of each existing cell",
+        "By increasing the number of cells through division",
+        "By reducing the chromosome number per cell",
+        "By converting diploid cells to haploid cells"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis produces two genetically identical daughter cells, thereby increasing the total cell count, which leads to growth of tissues and the whole organism.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "In plants, the region of active growth called the apical meristem expands mainly due to which process?",
+      "options": [
+        "Mitosis of meristematic cells",
+        "Meiotic division of sporogenous cells",
+        "Cell elongation without division",
+        "Programmed cell death"
+      ],
+      "answer": 0,
+      "explanation": "Apical meristems consist of undifferentiated cells that repeatedly undergo mitotic divisions, adding new cells that contribute to primary growth.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "Which phase of mitosis ensures that each daughter cell receives an identical set of chromosomes?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "During anaphase, sister chromatids separate and are pulled to opposite poles, guaranteeing equal chromosome distribution to the two daughter cells.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "During post‑embryonic growth in animals, which tissue shows the highest mitotic activity?",
+      "options": [
+        "Neural tissue",
+        "Skeletal muscle fibers",
+        "Epithelial lining of the intestine",
+        "Cardiac muscle"
+      ],
+      "answer": 2,
+      "explanation": "The intestinal epithelium undergoes continuous mitotic divisions to replace shed cells, reflecting a high turnover rate essential for tissue maintenance and growth.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "Which statement correctly distinguishes the role of mitosis in growth from its role in repair?",
+      "options": [
+        "Both processes involve cell division, but growth occurs only during embryogenesis",
+        "Growth requires an increase in cell number, whereas repair replaces lost cells without increasing total cell number",
+        "Mitosis in growth leads to genetic variation, while in repair it does not",
+        "Repair utilizes meiosis, while growth utilizes mitosis"
+      ],
+      "answer": 1,
+      "explanation": "In growth, mitosis adds new cells, raising the total cell count; in repair, mitosis replaces damaged cells, restoring tissue without a net increase in cell number.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "A mutation that blocks the G2‑to‑mitosis transition would most likely result in which of the following phenotypic effects?",
+      "options": [
+        "Reduced organismal size due to decreased cell number",
+        "Increased cell size due to endoreduplication",
+        "Higher genetic variation in somatic cells",
+        "Conversion of diploid cells to haploid cells"
+      ],
+      "answer": 0,
+      "explanation": "If cells cannot enter mitosis, they cannot divide, leading to fewer cells being produced and consequently a smaller overall size of the organism.",
+      "topic": "Role of mitosis in growth"
+    },
+    {
+      "question": "Which phase of mitosis is primarily responsible for the alignment of chromosomes at the metaphase plate, ensuring equal segregation during tissue repair?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 1,
+      "explanation": "During metaphase, chromosomes line up at the cell's equatorial plane, allowing each daughter cell to receive an identical set of chromosomes, which is essential for accurate tissue regeneration.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "In response to tissue injury, which cell-cycle checkpoint is most critical for preventing the division of cells with DNA damage before mitosis proceeds?",
+      "options": [
+        "G1 checkpoint",
+        "G2/M checkpoint",
+        "Spindle assembly checkpoint",
+        "Metaphase checkpoint"
+      ],
+      "answer": 1,
+      "explanation": "The G2/M checkpoint monitors DNA integrity after replication; if damage is detected, it halts entry into mitosis, allowing repair mechanisms to act before cell division.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "Which statement best explains why mitotic cell division is preferred over meiosis for somatic tissue repair?",
+      "options": [
+        "It reduces chromosome number",
+        "It generates genetically identical daughter cells",
+        "It introduces genetic variation",
+        "It occurs only in germ cells"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis produces two daughter cells with the same chromosome complement as the parent, preserving the genetic makeup required for functional restoration of damaged somatic tissue.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "During wound healing, fibroblasts proliferate by mitosis. Which growth factor most directly stimulates these cells to enter the G1 phase?",
+      "options": [
+        "Epidermal growth factor (EGF)",
+        "Fibroblast growth factor (FGF)",
+        "Platelet-derived growth factor (PDGF)",
+        "Transforming growth factor‑beta (TGF‑β)"
+      ],
+      "answer": 2,
+      "explanation": "PDGF released from platelets at the injury site binds to its receptors on fibroblasts, activating signaling pathways that drive the cells from quiescence into the G1 phase of the cell cycle.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "Which structure ensures that sister chromatids are pulled apart correctly during mitosis, thereby preventing aneuploidy in repaired tissue?",
+      "options": [
+        "Centromere",
+        "Kinetochores",
+        "Spindle fibers",
+        "Centrosomes"
+      ],
+      "answer": 1,
+      "explanation": "Kinetochores are protein complexes on the centromere that attach to spindle microtubules, guiding the accurate segregation of sister chromatids during anaphase.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "In the context of tissue repair, what is the likely consequence of a malfunctioning spindle assembly checkpoint during mitosis?",
+      "options": [
+        "Cells arrest in G1",
+        "Increased apoptosis",
+        "Chromosomal missegregation leading to defective tissue",
+        "Enhanced DNA repair efficiency"
+      ],
+      "answer": 2,
+      "explanation": "A defective spindle assembly checkpoint allows cells with improperly attached chromosomes to proceed through mitosis, resulting in aneuploid daughter cells that can compromise the structural and functional integrity of the repaired tissue.",
+      "topic": "Role of mitosis in repair"
+    },
+    {
+      "question": "Which of the following best describes how mitosis contributes to asexual reproduction in multicellular organisms such as hydra?",
+      "options": [
+        "Produces genetically identical daughter polyps by repeated mitotic divisions of interstitial stem cells.",
+        "Reduces chromosome number to haploid for gamete formation.",
+        "Involves crossing over between homologous chromosomes.",
+        "Generates genetic variation through independent assortment."
+      ],
+      "answer": 0,
+      "explanation": "In hydra, asexual reproduction occurs by budding, where interstitial stem cells undergo mitosis to form genetically identical daughter polyps, maintaining the diploid chromosome number.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "In vegetative propagation of a strawberry plant via runners, the new plant arises from which part of the parent and through which process?",
+      "options": [
+        "Leaf tissue undergoing meiosis.",
+        "Root tip undergoing binary fission.",
+        "Stolon tip undergoing mitotic cell divisions.",
+        "Flower bud undergoing crossing over."
+      ],
+      "answer": 2,
+      "explanation": "Runners are stolons; the tip of a stolon develops into a new plant through repeated mitotic divisions, producing a clone of the parent.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "Which statement correctly distinguishes asexual reproduction by mitosis from sexual reproduction?",
+      "options": [
+        "Asexual reproduction involves reduction division, while sexual reproduction does not.",
+        "Offspring from mitotic asexual reproduction are genetically identical to the parent, whereas sexual reproduction produces genetically diverse offspring.",
+        "Mitosis generates haploid spores, whereas meiosis generates diploid spores.",
+        "Cytokinesis is absent in mitotic asexual reproduction."
+      ],
+      "answer": 1,
+      "explanation": "Mitosis maintains the diploid chromosome number, yielding clones; sexual reproduction involves meiosis, producing genetically varied haploid gametes.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "In yeast (Saccharomyces cerevisiae), asexual reproduction occurs by budding. Which phase of the cell cycle ensures that the daughter cell receives an exact copy of the parental genome?",
+      "options": [
+        "G1 phase.",
+        "S phase.",
+        "M phase (mitosis).",
+        "G0 phase."
+      ],
+      "answer": 2,
+      "explanation": "During mitosis (M phase), sister chromatids are separated, guaranteeing that the bud receives a complete set of chromosomes identical to the parent.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "During asexual reproduction in planarians, regeneration of a complete organism from a tissue fragment relies on which cellular process?",
+      "options": [
+        "Meiosis of somatic cells.",
+        "Mitosis of neoblast stem cells.",
+        "Binary fission of prokaryotic cells.",
+        "Endoreduplication without cell division."
+      ],
+      "answer": 1,
+      "explanation": "Planarians possess pluripotent neoblasts that proliferate by mitosis to replace lost tissues, enabling whole-body regeneration.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "Which of the following is NOT a typical characteristic of organisms that reproduce asexually by mitosis?",
+      "options": [
+        "Maintenance of chromosome number across generations.",
+        "Production of genetically identical clones.",
+        "Occurrence of crossing over during cell division.",
+        "Absence of gamete formation."
+      ],
+      "answer": 2,
+      "explanation": "Crossing over is a feature of meiosis, not mitosis; asexual reproduction by mitosis lacks recombination events.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "In the context of asexual reproduction, why is cytokinesis essential after mitosis in multicellular organisms?",
+      "options": [
+        "It halves the chromosome number.",
+        "It separates the duplicated genome into two distinct cells, allowing formation of a new individual.",
+        "It facilitates homologous chromosome pairing.",
+        "It initiates meiotic recombination."
+      ],
+      "answer": 1,
+      "explanation": "Cytokinesis physically divides the cytoplasm, producing two separate cells each containing a complete diploid set of chromosomes, which can develop into independent organisms.",
+      "topic": "Role of mitosis in asexual reproduction"
+    },
+    {
+      "question": "How many genetically different gametes can be produced by meiosis in a human male (diploid 46) assuming no crossing over, i.e., only independent assortment?",
+      "options": [
+        "2^23",
+        "2^46",
+        "2^22",
+        "2^24"
+      ],
+      "answer": 0,
+      "explanation": "Independent assortment of 23 homologous chromosome pairs gives 2^23 possible combinations, which equals 8,388,608 distinct gametes.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "Crossing over between homologous chromosomes occurs during which specific stage of meiosis?",
+      "options": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over takes place in prophase I, especially during the pachytene sub‑stage when homologues are fully synapsed.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "The primary source of genetic variation generated within a single meiotic division is:",
+      "options": [
+        "Independent assortment of homologous chromosomes",
+        "Random fertilization of gametes",
+        "Crossing over between nonsister chromatids",
+        "Spontaneous mutation"
+      ],
+      "answer": 2,
+      "explanation": "Crossing over between nonsister chromatids of homologous chromosomes creates new allele combinations on each chromatid, producing recombinant chromosomes.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "In a dihybrid organism heterozygous for two genes (AaBb) located on different chromosomes, what fraction of the gametes are recombinant (non‑parental) due to independent assortment?",
+      "options": [
+        "0",
+        "1/4",
+        "1/2",
+        "3/4"
+      ],
+      "answer": 2,
+      "explanation": "Independent assortment yields four equally likely gamete types: AB, Ab, aB, ab. Two of them (Ab and aB) are recombinant, giving a proportion of 2/4 = 1/2.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "Which statement about genetic variation produced by meiosis is FALSE?",
+      "options": [
+        "Crossing over can occur between sister chromatids",
+        "Independent assortment leads to new allele combinations",
+        "Each gamete receives one chromosome from each homologous pair",
+        "Variation is limited to the loci where crossing over occurs"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over normally occurs between nonsister chromatids of homologous chromosomes, not between sister chromatids; therefore the statement is false.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "The term “reduction division” in meiosis refers to:",
+      "options": [
+        "Halving of chromosome number from diploid to haploid",
+        "Reduction in cell size after division",
+        "Reduction of DNA content by half during S phase",
+        "Reduction of cytoplasmic volume"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I reduces the chromosome number by separating homologous chromosomes, so each daughter cell becomes haploid (n) instead of diploid (2n).",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "On average, how many crossover events occur per chromosome pair in human meiosis?",
+      "options": [
+        "0",
+        "1-2",
+        "2-3",
+        "4-5"
+      ],
+      "answer": 2,
+      "explanation": "Cytogenetic studies show that each human chromosome pair typically experiences about 2 to 3 crossover events, providing ample recombination.",
+      "topic": "Genetic variation through meiosis"
+    },
+    {
+      "question": "For two heterozygous gene loci located on different chromosomes, how many different gamete genotypes can be produced due to independent assortment?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "explanation": "Each chromosome pair can orient in two ways during meiosis I; for two independent pairs the combinations are 2×2 = 4 distinct gamete genotypes.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "Assuming no crossing over and that each of the 23 chromosome pairs in humans carries a heterozygous gene, approximately how many genetically distinct gametes can a single individual produce?",
+      "options": [
+        "2^23 ≈ 8 million",
+        "2^46",
+        "23!",
+        "46!"
+      ],
+      "answer": 0,
+      "explanation": "Independent assortment of 23 chromosome pairs gives 2^23 possible combinations, which is about 8.4 × 10^6 distinct gametes.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "Which statement best describes the law of independent assortment?",
+      "options": [
+        "Homologous chromosomes separate during anaphase I",
+        "Non‑homologous chromosomes line up independently at the metaphase plate",
+        "Sister chromatids separate during meiosis II",
+        "Crossing over occurs only in prophase I"
+      ],
+      "answer": 1,
+      "explanation": "The law states that chromosomes (and the genes they carry) that are not homologous segregate independently of one another during meiosis I.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "In a classic dihybrid cross involving two genes on different chromosomes, what phenotypic ratio is expected in the F2 generation?",
+      "options": [
+        "9:3:3:1",
+        "3:1",
+        "1:1:1:1",
+        "12:3:1"
+      ],
+      "answer": 0,
+      "explanation": "Independent assortment of two unlinked genes yields a 9:3:3:1 phenotypic ratio in the F2 generation of a dihybrid cross.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "A plant heterozygous for two unlinked traits (AaBb) is test‑crossed with a recessive (aabb). What fraction of the offspring will display the dominant phenotype for both traits?",
+      "options": [
+        "1/16",
+        "1/8",
+        "1/4",
+        "3/4"
+      ],
+      "answer": 2,
+      "explanation": "Only the genotype A_B_ (both dominant alleles) gives the double dominant phenotype; this occurs in 1 out of 4 gamete combinations, i.e., 1/4 of the progeny.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "During meiosis I, independent assortment results in which of the following outcomes for the daughter cells?",
+      "options": [
+        "Each daughter cell receives a random mix of maternal and paternal chromosomes",
+        "All maternal chromosomes go to one cell",
+        "All paternal chromosomes go to one cell",
+        "Chromosomes duplicate but do not separate"
+      ],
+      "answer": 0,
+      "explanation": "Because homologous chromosome pairs orient independently, each daughter cell gets a random combination of maternal and paternal chromosomes.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "An organism has a diploid number of 8 chromosomes (4 homologous pairs). If every gene is located on a different chromosome, how many distinct gamete types can be formed?",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "With 4 independent chromosome pairs, the number of possible gametes is 2^4 = 16.",
+      "topic": "Independent assortment"
+    },
+    {
+      "question": "Which structure directs the assembly of the cell plate during cytokinesis in plant cells?",
+      "options": [
+        "Phragmoplast",
+        "Spindle fibers",
+        "Centrosome",
+        "Cleavage furrow"
+      ],
+      "answer": 0,
+      "explanation": "The phragmoplast, a microtubule‑actin matrix, guides vesicles from the Golgi to the centre of the cell where they fuse to form the cell plate.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "In animal cells, which motor protein is primarily responsible for the contraction of the actin‑myosin ring during cytokinesis?",
+      "options": [
+        "Dynamin",
+        "Myosin II",
+        "Kinesin",
+        "Tubulin"
+      ],
+      "answer": 1,
+      "explanation": "Myosin II interacts with actin filaments to generate the contractile force that pinches the cell membrane, forming the cleavage furrow.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "Cytokinesis in animal cells typically initiates during which phase of mitosis?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "The contractile ring begins to form in early anaphase, driven by signals from the separating chromosomes, and completes in telophase.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes plant and animal cytokinesis?",
+      "options": [
+        "Plant cells use a contractile ring; animal cells form a cell plate",
+        "Plant cells form a cell plate; animal cells use a contractile ring",
+        "Both use a contractile ring",
+        "Both form a cell plate"
+      ],
+      "answer": 1,
+      "explanation": "Plant cells cannot constrict their rigid wall, so they build a new wall via a cell plate, whereas animal cells divide by a contractile actin‑myosin ring.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "The membrane‑bound vesicles that coalesce to form the cell plate in plant cells are derived mainly from which organelle?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondria",
+        "Endoplasmic reticulum",
+        "Lysosome"
+      ],
+      "answer": 0,
+      "explanation": "Golgi‑derived vesicles carry cell‑wall precursors; they are transported to the centre of the cell and fuse to create the cell plate.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "Which of the following is NOT a function of the phragmoplast during plant cytokinesis?",
+      "options": [
+        "Guiding vesicle delivery to the division site",
+        "Forming the new cell wall",
+        "Generating the contractile ring",
+        "Organizing microtubules"
+      ],
+      "answer": 2,
+      "explanation": "The phragmoplast organizes microtubules and directs vesicles for cell‑plate formation; it does not generate a contractile ring, which is absent in plant cells.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "In animal cytokinesis, the position of the cleavage furrow is primarily determined by the location of:",
+      "options": [
+        "Spindle poles",
+        "Metaphase plate",
+        "Centrosomes",
+        "Chromosome condensation"
+      ],
+      "answer": 0,
+      "explanation": "Signals from the asters/spindle poles specify where the contractile ring assembles, ensuring the furrow forms midway between the poles.",
+      "topic": "Cytokinesis comparison"
+    },
+    {
+      "question": "In a human somatic cell at the end of S phase, how many chromosomes and chromatids are present?",
+      "options": [
+        "46 chromosomes, 46 chromatids",
+        "46 chromosomes, 92 chromatids",
+        "92 chromosomes, 92 chromatids",
+        "92 chromosomes, 184 chromatids"
+      ],
+      "answer": 1,
+      "explanation": "DNA replication doubles the DNA content, so each of the 46 chromosomes consists of two sister chromatids, giving 46 chromosomes and 92 chromatids.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "During metaphase I of meiosis, each chromosome is composed of:",
+      "options": [
+        "One chromatid",
+        "Two sister chromatids",
+        "Four chromatids",
+        "No chromatids"
+      ],
+      "answer": 1,
+      "explanation": "In meiosis I, homologous chromosomes are still replicated; each chromosome consists of two identical sister chromatids.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "Which statement correctly defines a chromatid?",
+      "options": [
+        "The complete set of chromosomes in a diploid cell",
+        "One of the two identical halves of a replicated chromosome",
+        "The region where crossing over occurs",
+        "The centromere region of a chromosome"
+      ],
+      "answer": 1,
+      "explanation": "A chromatid is each of the two identical DNA molecules that make up a replicated chromosome, attached at the centromere.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "A cell that has just completed DNA replication but has not yet entered mitosis shows a DNA content of 4C. How many chromatids are present relative to the haploid number (n) in humans?",
+      "options": [
+        "n chromatids",
+        "2n chromatids",
+        "4n chromatids",
+        "8n chromatids"
+      ],
+      "answer": 2,
+      "explanation": "Human haploid number n = 23. After replication there are 2n chromosomes, each with two chromatids, giving 4n (92) chromatids.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "Which of the following best describes the difference between a chromosome and a chromatid?",
+      "options": [
+        "Chromosomes are only present in prokaryotes, chromatids in eukaryotes",
+        "A chromosome becomes two chromatids after DNA replication",
+        "Chromatids are the protein coat of DNA, chromosomes are the DNA itself",
+        "Chromosomes are the duplicated form of chromatids"
+      ],
+      "answer": 1,
+      "explanation": "Before replication a chromosome is a single DNA molecule; after replication it consists of two sister chromatids.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "At which stage of mitosis does the number of chromatids become equal to the number of chromosomes?",
+      "options": [
+        "Prophase",
+        "Metaphase",
+        "Anaphase",
+        "Telophase"
+      ],
+      "answer": 2,
+      "explanation": "During anaphase sister chromatids separate and each is considered an individual chromosome, making the counts equal.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "In a diploid organism, a cell in G1 phase contains 46 chromosomes. After DNA replication (S phase) but before division, how many centromeres are present?",
+      "options": [
+        "23",
+        "46",
+        "92",
+        "0"
+      ],
+      "answer": 1,
+      "explanation": "Each replicated chromosome retains a single centromere shared by its two sister chromatids, so the number of centromeres remains 46.",
+      "topic": "Chromosome and chromatid terminology"
+    },
+    {
+      "question": "Which of the following statements correctly describes the genetic relationship between a parent cell and its daughter cells after mitosis?",
+      "options": [
+        "The daughter cells are genetically identical to the parent cell (barring mutations).",
+        "The daughter cells each contain half the chromosome number of the parent cell.",
+        "The daughter cells are genetically different because crossing‑over occurs during mitosis.",
+        "The daughter cells contain recombinant chromosomes formed during prophase."
+      ],
+      "answer": 0,
+      "explanation": "Mitosis is a reduction‑division‑free process; sister chromatids separate, giving rise to two diploid cells that are clones of the original cell, except for possible mutations.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "After the first meiotic division (meiosis I), what is the correct description of the resulting cells?",
+      "options": [
+        "They are haploid but each chromosome still consists of two sister chromatids.",
+        "They are diploid with duplicated chromosomes.",
+        "They are haploid and each chromosome consists of a single chromatid.",
+        "They are tetraploid with four chromatids per chromosome."
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I separates homologous chromosomes, so each cell has one set of chromosomes (haploid), but each chromosome still has two sister chromatids attached.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "Crossing over, a source of genetic variation, occurs during which specific stage of cell division?",
+      "options": [
+        "Prophase I of meiosis",
+        "Anaphase of mitosis",
+        "Telophase of meiosis II",
+        "Interphase of mitosis"
+      ],
+      "answer": 0,
+      "explanation": "Crossing over is restricted to prophase I of meiosis, where homologous chromosomes pair (synapsis) and exchange genetic material.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "Which statement about cytokinesis in meiosis is correct?",
+      "options": [
+        "Cytokinesis usually follows both meiosis I and meiosis II in most animals.",
+        "Cytokinesis occurs only after meiosis II.",
+        "Cytokinesis never occurs during meiosis; the cells remain multinucleated.",
+        "Cytokinesis occurs before meiosis I begins."
+      ],
+      "answer": 0,
+      "explanation": "In typical animal meiosis, cytokinesis separates the cytoplasm after each meiotic division, producing two cells after meiosis I and four after meiosis II.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "Regarding chromosome number, which statement accurately reflects the events of meiosis I and meiosis II?",
+      "options": [
+        "Only meiosis I reduces the chromosome number; meiosis II separates sister chromatids without changing the number.",
+        "Both meiosis I and meiosis II halve the chromosome number.",
+        "Neither division changes chromosome number; only DNA replication does.",
+        "Meiosis II doubles the chromosome number relative to meiosis I."
+      ],
+      "answer": 0,
+      "explanation": "Meiosis I is the reductional division that halves the chromosome number. Meiosis II is equational, separating sister chromatids without further reduction.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "Which type of cell undergoes meiosis in the human body?",
+      "options": [
+        "Germ cells (spermatogonia and oogonia)",
+        "All somatic cells",
+        "Neurons",
+        "Root cells of plants"
+      ],
+      "answer": 0,
+      "explanation": "Meiosis is restricted to germ cells, producing haploid gametes (sperm and ova); somatic cells divide by mitosis.",
+      "topic": "Common cell-division misconceptions"
+    },
+    {
+      "question": "During which phase of mitosis are sister chromatids pulled apart to opposite poles?",
+      "options": [
+        "Anaphase",
+        "Metaphase",
+        "Prophase",
+        "Telophase"
+      ],
+      "answer": 0,
+      "explanation": "In anaphase of mitosis, the spindle fibers shorten, separating sister chromatids into individual chromosomes that move to opposite poles.",
+      "topic": "Common cell-division misconceptions"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 16,
+    "mcqCount": 110
+  }
+}

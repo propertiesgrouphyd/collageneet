@@ -1,0 +1,531 @@
+{
+  "day": 17,
+  "courseDate": "2026-09-15",
+  "publishAt": "2026-09-15T06:00:00+05:30",
+  "title": "Day 17 – Biomolecules",
+  "introduction": "This lesson reviews the five major classes of biomolecules, their chemical makeup, monomer‑polymer relationships, and how structure dictates function, aligning with NEET‑UG expectations.",
+  "sections": [
+    {
+      "topic": "Carbohydrates",
+      "heading": "Carbohydrates – Structure, Types and Biological Role",
+      "content": "Carbohydrates are organic compounds composed of C, H and O in a 1:2:1 ratio (CH2O)n. The basic monomer is a monosaccharide – a single‑unit sugar such as glucose (an aldo‑hexose) or fructose (a keto‑hexose). Monosaccharides link via glycosidic bonds to form disaccharides (e.g., sucrose, maltose) and polysaccharides. Starch (amylose + amylopectin) and glycogen are α‑glucans serving as energy reserves in plants and animals, respectively, while cellulose is a β‑glucan providing structural support in plant cell walls. Hydrolysis of these polymers releases glucose for glycolysis.",
+      "keyPoints": [
+        "Carbohydrates have empirical formula CH2O.",
+        "Monosaccharides differ by carbon number, functional group (aldose/keto), and stereochemistry.",
+        "Glycosidic linkage orientation (α or β) determines digestibility and function.",
+        "Starch and glycogen are α‑linked; cellulose is β‑linked and indigestible to humans."
+      ],
+      "neetTips": [
+        "Memorize the structural difference between α‑ and β‑glucose – it explains starch vs. cellulose properties.",
+        "Recall that glucose is the universal metabolic fuel; link this to NEET questions on energy storage."
+      ]
+    },
+    {
+      "topic": "Proteins",
+      "heading": "Proteins – Amino Acids, Peptide Bonds and Structural Hierarchy",
+      "content": "Proteins are polymers of 20 standard amino acids, each containing an α‑carbon attached to an amino group, a carboxyl group, a hydrogen atom and a distinctive R‑group. Peptide bonds form through a condensation reaction between the amino group of one amino acid and the carboxyl group of the next, releasing water. Protein structure is organized into four levels: primary (linear amino‑acid sequence), secondary (α‑helices and β‑sheets stabilized by hydrogen bonds), tertiary (three‑dimensional folding driven by hydrophobic interactions, disulfide bridges, ionic bonds), and quaternary (assembly of multiple polypeptide subunits). Function follows structure – enzymes, transporters, antibodies, etc.",
+      "keyPoints": [
+        "20 standard amino acids differ mainly in side‑chain polarity and charge.",
+        "Peptide bond formation is a dehydration synthesis reaction.",
+        "Secondary structures are stabilized by backbone hydrogen bonding.",
+        "Tertiary structure is governed by R‑group interactions; quaternary structure involves subunit association."
+      ],
+      "neetTips": [
+        "Link each level of protein structure to its stabilizing forces – a common NEET matching question.",
+        "Remember that enzymes are proteins; their active sites depend on precise tertiary/quaternary conformation."
+      ]
+    },
+    {
+      "topic": "Lipids",
+      "heading": "Lipids – Classification and Biological Functions",
+      "content": "Lipids are a heterogeneous group of hydrophobic biomolecules lacking a universal monomer. Major classes include fatty acids (long hydrocarbon chains with a terminal carboxyl group), triglycerides (glycerol esterified with three fatty acids), phospholipids (glycerol + two fatty acids + phosphate head group) and sterols (four fused rings, e.g., cholesterol). Functions encompass long‑term energy storage (triglycerides), membrane structure (phospholipids form bilayers), signaling (steroid hormones) and insulation. Their insolubility in water underlies membrane barrier properties.",
+      "keyPoints": [
+        "Fatty acids can be saturated (no C=C) or unsaturated (one or more C=C).",
+        "Triglycerides store ~9 kcal g⁻¹, the highest energy density among biomolecules.",
+        "Phospholipid amphipathicity creates bilayers essential for cell membranes.",
+        "Cholesterol modulates membrane fluidity and serves as a steroid precursor."
+      ],
+      "neetTips": [
+        "Associate the term ‘hydrophobic’ with lipid membrane barrier function – a frequent NEET concept.",
+        "Remember the energy yield per gram for lipids vs. carbohydrates and proteins."
+      ]
+    },
+    {
+      "topic": "Nucleic acids",
+      "heading": "Nucleic Acids – Nucleotide Architecture and Genetic Role",
+      "content": "Nucleic acids are polymers of nucleotides, each comprising a five‑carbon sugar (ribose in RNA, deoxyribose in DNA), a nitrogenous base (purine: A, G; pyrimidine: C, T/U), and a phosphate group. Phosphodiester bonds link the 3′‑OH of one sugar to the 5′‑phosphate of the next, forming a sugar‑phosphate backbone. DNA stores genetic information in a double‑helix (antiparallel strands, complementary base pairing A‑T, G‑C). RNA is single‑stranded, contains uracil, and functions as messenger (mRNA), transfer (tRNA), ribosomal (rRNA) and catalytic (ribozymes) molecules. Enzymes, primarily protein catalysts, mediate replication, transcription and translation.",
+      "keyPoints": [
+        "Nucleotide monomers differ by sugar (ribose vs deoxyribose) and base (T vs U).",
+        "Phosphodiester linkage creates a negatively charged backbone.",
+        "DNA’s double helix is stabilized by hydrogen bonds and base stacking.",
+        "RNA’s versatility stems from its single‑stranded nature and 2′‑OH group."
+      ],
+      "neetTips": [
+        "Link the sugar difference (deoxyribose vs ribose) to DNA stability vs RNA reactivity – a typical NEET comparison.",
+        "Recall that enzymes (proteins) catalyze nucleic‑acid processes; integrate this with protein section."
+      ]
+    },
+    {
+      "topic": "Biological macromolecules",
+      "heading": "Biological Macromolecules – Integrated Overview",
+      "content": "The five major biomolecule classes—carbohydrates, proteins, lipids, nucleic acids and the broader category of macromolecules—share common features: they are built from monomers (saccharides, amino acids, fatty acids, nucleotides) via dehydration synthesis, and their three‑dimensional structures dictate specific biological functions. Understanding monomer‑polymer relationships, functional groups, and structural hierarchy enables prediction of metabolic pathways, enzyme specificity, membrane dynamics and genetic information flow, all central to NEET‑UG problem solving.",
+      "keyPoints": [
+        "All macromolecules are formed by condensation reactions releasing water.",
+        "Monomer identity determines polymer properties (e.g., solubility, energy content).",
+        "Structure–function relationship is a unifying theme across biomolecules.",
+        "Enzymes (protein catalysts) accelerate reactions without being consumed."
+      ],
+      "neetTips": [
+        "When faced with a NEET question, first identify the biomolecule class, then recall its monomer, linkage type and key function.",
+        "Use the ‘monomer‑polymer‑function’ triad as a quick mental checklist for each class."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the five major classes of biomolecules and their monomeric units.",
+    "Differentiate structural features and biological roles of carbohydrates, proteins, lipids and nucleic acids.",
+    "Explain the hierarchical levels of protein structure and their stabilizing forces.",
+    "Relate nucleotide composition to DNA and RNA functions.",
+    "Integrate structure–function concepts to solve NEET‑UG level questions."
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly describes the structural difference between starch and cellulose?",
+      "options": [
+        "Both are α‑glucose polymers, but starch is branched while cellulose is linear.",
+        "Starch is composed of β‑glucose units, cellulose of α‑glucose units.",
+        "Starch contains α‑1,4 and α‑1,6 linkages; cellulose contains β‑1,4 linkages.",
+        "Both have β‑1,4 linkages but differ in degree of polymerization."
+      ],
+      "answer": 2,
+      "explanation": "Starch is an α‑glucose polymer with α‑1,4 (linear) and α‑1,6 (branch) bonds, whereas cellulose is a β‑glucose polymer linked only by β‑1,4 bonds, giving it a straight, rigid structure.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "A monosaccharide with empirical formula C6H12O6 is a reducing sugar. Which is NOT a characteristic of such a molecule?",
+      "options": [
+        "It is a reducing sugar.",
+        "It exists in cyclic hemiacetal form in solution.",
+        "It can act as a non‑reducing sugar.",
+        "It has a chiral carbon at C‑2."
+      ],
+      "answer": 2,
+      "explanation": "All hexoses like glucose are reducing sugars because they can open to an aldehyde form; they are not non‑reducing sugars.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "In the first step of glycolysis, glucose is phosphorylated to glucose‑6‑phosphate. Which functional group of glucose participates in this reaction?",
+      "options": [
+        "Aldehyde group at C‑1",
+        "Primary alcohol at C‑6",
+        "Secondary alcohol at C‑2",
+        "Carboxyl group at C‑5"
+      ],
+      "answer": 1,
+      "explanation": "Hexokinase transfers a phosphate from ATP to the primary hydroxyl group on carbon 6 of glucose, forming glucose‑6‑phosphate.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which disaccharide is formed by a β‑1,4 linkage between two glucose units and is not hydrolyzed by human salivary amylase?",
+      "options": [
+        "Maltose",
+        "Sucrose",
+        "Lactose",
+        "Cellobiose"
+      ],
+      "answer": 3,
+      "explanation": "Cellobiose consists of two β‑glucose units linked by a β‑1,4 bond; human salivary amylase can only cleave α‑1,4 linkages.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Glycogen differs from amylopectin primarily because:",
+      "options": [
+        "Glycogen has only α‑1,4 linkages, amylopectin has α‑1,6 branches.",
+        "Glycogen has more frequent α‑1,6 branch points (≈ every 8‑10 residues) than amylopectin (≈ every 24‑30 residues).",
+        "Glycogen is composed of β‑glucose units, amylopectin of α‑glucose.",
+        "Glycogen is stored in plant cells, amylopectin in animal liver."
+      ],
+      "answer": 1,
+      "explanation": "Both glycogen and amylopectin contain α‑1,4 and α‑1,6 bonds, but glycogen’s branches occur every 8‑10 glucose units, giving it a more compact structure.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which statement about fructose is correct?",
+      "options": [
+        "It is an aldose sugar with a carbonyl group at C‑1.",
+        "It exists predominantly as a five‑membered furanose ring in solution.",
+        "It is a non‑reducing sugar because it lacks a free aldehyde group.",
+        "It cannot be phosphorylated by hexokinase."
+      ],
+      "answer": 1,
+      "explanation": "In aqueous solution fructose mainly adopts a five‑membered furanose ring; it is a keto‑hexose (ketone at C‑2) and is a reducing sugar.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "The term \"reducing sugar\" refers to:",
+      "options": [
+        "A sugar that can donate electrons to Fehling's solution due to a free aldehyde or ketone group.",
+        "A sugar that can be reduced to an alcohol by NADH.",
+        "Any disaccharide containing glucose.",
+        "A sugar that cannot undergo oxidation."
+      ],
+      "answer": 0,
+      "explanation": "Reducing sugars possess a free carbonyl group (aldehyde or open‑chain ketone) that can reduce Fehling’s or Benedict’s reagents.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which polysaccharide provides structural support in plant cell walls and is resistant to human digestive enzymes?",
+      "options": [
+        "Starch",
+        "Glycogen",
+        "Cellulose",
+        "Chitin"
+      ],
+      "answer": 2,
+      "explanation": "Cellulose is a β‑1,4‑linked glucose polymer forming rigid microfibrils; humans lack cellulase, so it is indigestible.",
+      "topic": "Carbohydrates"
+    },
+    {
+      "question": "Which statement correctly describes the formation of a peptide bond between two amino acids?",
+      "options": [
+        "It is a dehydration synthesis reaction linking the carboxyl carbon of one amino acid to the amino nitrogen of the next",
+        "It involves oxidation of the side‑chain functional groups",
+        "It is formed by condensation of two hydroxyl groups from the side chains",
+        "It requires direct hydrolysis of ATP during bond formation"
+      ],
+      "answer": 0,
+      "explanation": "A peptide bond is created by a dehydration (condensation) reaction where the carboxyl group of one amino acid reacts with the amino group of another, releasing water.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "The α‑helix secondary structure of a protein is stabilized primarily by which interaction?",
+      "options": [
+        "Hydrogen bonds between the carbonyl oxygen of residue i and the amide hydrogen of residue i+4",
+        "Disulfide bridges between cysteine residues",
+        "Ionic bonds between oppositely charged side chains",
+        "Hydrophobic packing of aromatic side chains"
+      ],
+      "answer": 0,
+      "explanation": "In an α‑helix, each carbonyl oxygen forms a hydrogen bond with the amide hydrogen four residues ahead, stabilizing the helical turn.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which amino acid is most likely to be located in the interior of a globular protein because of its hydrophobic side chain?",
+      "options": [
+        "Lysine",
+        "Arginine",
+        "Leucine",
+        "Aspartic acid"
+      ],
+      "answer": 2,
+      "explanation": "Leucine has a non‑polar, aliphatic side chain that prefers the non‑polar interior of globular proteins, unlike the charged Lysine, Arginine, or Aspartic acid.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "A protein composed of two identical polypeptide chains is an example of which level of protein structure?",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ],
+      "answer": 3,
+      "explanation": "Quaternary structure refers to the association of multiple polypeptide subunits; two identical chains form a homodimer, a quaternary arrangement.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which of the following is an essential amino acid that humans cannot synthesize and must obtain from the diet?",
+      "options": [
+        "Glycine",
+        "Alanine",
+        "Phenylalanine",
+        "Proline"
+      ],
+      "answer": 2,
+      "explanation": "Phenylalanine is an essential amino acid; the human body lacks the pathway to synthesize it, so it must be supplied through food.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which technique is most appropriate for determining the primary amino‑acid sequence of a protein?",
+      "options": [
+        "X‑ray crystallography",
+        "SDS‑PAGE",
+        "Edman degradation",
+        "NMR spectroscopy"
+      ],
+      "answer": 2,
+      "explanation": "Edman degradation sequentially removes one residue at a time from the N‑terminus, allowing direct determination of the amino‑acid sequence.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Disulfide bonds in proteins arise from which amino‑acid residues?",
+      "options": [
+        "Cysteine",
+        "Methionine",
+        "Serine",
+        "Tyrosine"
+      ],
+      "answer": 0,
+      "explanation": "Cysteine residues contain a thiol (-SH) group; oxidation of two cysteines forms a covalent disulfide (S‑S) bond, stabilizing protein structure.",
+      "topic": "Proteins"
+    },
+    {
+      "question": "Which of the following statements correctly describes a characteristic of saturated fatty acids?",
+      "options": [
+        "They contain one or more double bonds in the hydrocarbon chain",
+        "They are liquid at room temperature",
+        "They have no double bonds",
+        "They are essential nutrients"
+      ],
+      "answer": 2,
+      "explanation": "Saturated fatty acids lack carbon‑carbon double bonds, giving them a straight chain that packs tightly and makes them solid at room temperature.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Phospholipids are major components of biological membranes because:",
+      "options": [
+        "They are amphipathic molecules with a hydrophilic head and hydrophobic tails",
+        "They are completely hydrophobic",
+        "They are composed only of saturated fatty acids",
+        "They contain cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Each phospholipid has a polar (hydrophilic) phosphate‑containing head and two non‑polar (hydrophobic) fatty‑acid tails, allowing formation of bilayers.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which lipid class serves as a precursor for the synthesis of steroid hormones?",
+      "options": [
+        "Triglycerides",
+        "Phospholipids",
+        "Cholesterol",
+        "Waxes"
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol is the sterol from which all steroid hormones (e.g., cortisol, estrogen) are derived.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Essential fatty acids cannot be synthesized by humans. Which of the following is an essential fatty acid?",
+      "options": [
+        "Oleic acid",
+        "Linoleic acid",
+        "Stearic acid",
+        "Palmitic acid"
+      ],
+      "answer": 1,
+      "explanation": "Linoleic acid (an omega‑6 fatty acid) is essential because the human body lacks the desaturase enzymes to introduce a double bond at the n‑6 position.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "During digestion, pancreatic lipase hydrolyzes dietary triglycerides primarily at which position of the glycerol backbone?",
+      "options": [
+        "sn-1",
+        "sn-2",
+        "sn-3",
+        "Both sn-1 and sn-3"
+      ],
+      "answer": 3,
+      "explanation": "Pancreatic lipase preferentially cleaves the ester bonds at the sn‑1 and sn‑3 positions, releasing two free fatty acids and a 2‑monoacylglycerol.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which of the following statements about cholesterol is FALSE?",
+      "options": [
+        "It is a sterol that modulates membrane fluidity",
+        "It is a precursor for bile acids",
+        "It is a major component of plant cell walls",
+        "It is synthesized via the mevalonate pathway"
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol is not a component of plant cell walls; plant cell walls are mainly composed of cellulose, hemicellulose, and pectin.",
+      "topic": "Lipids"
+    },
+    {
+      "question": "In terms of energy yield, which lipid provides the highest amount of ATP per gram when oxidized?",
+      "options": [
+        "Carbohydrate (glucose)",
+        "Protein (albumin)",
+        "Triglyceride (fat)",
+        "Nucleic acid (DNA)"
+      ],
+      "answer": 2,
+      "explanation": "Triglycerides contain long hydrocarbon chains that yield about 9 kcal/g, roughly double the energy provided by carbohydrates or proteins (~4 kcal/g).",
+      "topic": "Lipids"
+    },
+    {
+      "question": "Which of the following correctly lists the three components of a nucleotide?",
+      "options": [
+        "Phosphate group, five‑carbon sugar, nitrogenous base",
+        "Amino acid, phosphate group, ribose",
+        "Sugar, lipid, nitrogenous base",
+        "Phosphate group, amino acid, fatty acid"
+      ],
+      "answer": 0,
+      "explanation": "A nucleotide is composed of a phosphate group, a pentose sugar (ribose or deoxyribose), and a nitrogenous base.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "DNA differs from RNA in all of the following EXCEPT:",
+      "options": [
+        "DNA contains deoxyribose, RNA contains ribose",
+        "DNA is usually double‑stranded, RNA is single‑stranded",
+        "DNA contains thymine, RNA contains uracil",
+        "DNA contains uracil, RNA contains thymine"
+      ],
+      "answer": 3,
+      "explanation": "Both statements in option D are false; DNA contains thymine, not uracil, and RNA contains uracil, not thymine, so this is the only non‑difference.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "In the DNA double helix, adenine pairs with thymine via how many hydrogen bonds?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "Adenine forms two hydrogen bonds with thymine, providing moderate stability to the DNA double helix.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which type of nucleic acid primarily carries genetic information from the nucleus to the cytoplasm in eukaryotic cells?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "snRNA"
+      ],
+      "answer": 0,
+      "explanation": "Messenger RNA (mRNA) is synthesized during transcription and transports the genetic code to ribosomes for protein synthesis.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "The formation of a phosphodiester bond during nucleic acid polymerization involves which functional groups?",
+      "options": [
+        "3'‑OH of the growing chain and 5'‑phosphate of the incoming nucleotide",
+        "5'‑OH of the growing chain and 3'‑phosphate of the incoming nucleotide",
+        "Amino group of a base and carboxyl group of another base",
+        "Hydroxyl group of ribose and amino group of the base"
+      ],
+      "answer": 0,
+      "explanation": "A phosphodiester bond links the 3'‑hydroxyl of the existing chain to the 5'‑phosphate of the incoming nucleotide, releasing pyrophosphate.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which statement about the antiparallel orientation of DNA strands is correct?",
+      "options": [
+        "Both strands run 5'→3' in the same direction",
+        "One strand runs 5'→3' while the complementary strand runs 3'→5'",
+        "The strands are oriented 5'→5'",
+        "Orientation is irrelevant for base pairing"
+      ],
+      "answer": 1,
+      "explanation": "DNA strands are antiparallel: one strand is oriented 5'→3' and the opposite strand runs 3'→5', allowing complementary base pairing.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Why is DNA more chemically stable than RNA?",
+      "options": [
+        "DNA lacks a 2'‑OH group on its sugar, reducing alkaline hydrolysis",
+        "DNA is double‑stranded while RNA is single‑stranded",
+        "Thymine in DNA forms stronger hydrogen bonds than uracil in RNA",
+        "DNA contains a higher proportion of purine bases"
+      ],
+      "answer": 0,
+      "explanation": "The absence of the 2'‑hydroxyl group in deoxyribose makes DNA less prone to hydrolytic cleavage, conferring greater chemical stability compared to RNA.",
+      "topic": "Nucleic acids"
+    },
+    {
+      "question": "Which statement correctly describes the relationship between the structure of starch and its function in plants?",
+      "options": [
+        "Starch is a branched polymer of glucose that provides rapid energy release.",
+        "Starch is a linear polymer of fructose that serves as structural component.",
+        "Starch is a mixture of amylose (linear) and amylopectin (branched) that serves as storage carbohydrate.",
+        "Starch is a polymer of galactose that forms cell wall."
+      ],
+      "answer": 2,
+      "explanation": "Starch consists of amylose (linear α‑1,4) and amylopectin (branched α‑1,4 with α‑1,6 points); this structure allows compact storage of glucose in plants.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "Which functional group is present in all amino acids but absent in nucleic acids?",
+      "options": [
+        "Carboxyl group",
+        "Amino group",
+        "Phosphate group",
+        "Hydroxyl group"
+      ],
+      "answer": 1,
+      "explanation": "Every amino acid contains an –NH₂ (amino) group attached to the α‑carbon, whereas nucleic acids lack this group.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "The primary structure of a protein is determined by:",
+      "options": [
+        "Hydrogen bonding between backbone N‑H and C=O groups",
+        "Sequence of amino acids",
+        "Disulfide bridges between cysteine residues",
+        "Tertiary folding due to hydrophobic interactions"
+      ],
+      "answer": 1,
+      "explanation": "Primary structure is the linear order of amino acids as encoded by the gene; other levels depend on interactions after the chain is formed.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "Which lipid is most abundant in the myelin sheath of nerve cells and contributes to its insulating property?",
+      "options": [
+        "Triglyceride",
+        "Phosphatidylcholine",
+        "Sphingomyelin",
+        "Cholesterol"
+      ],
+      "answer": 2,
+      "explanation": "Sphingomyelin, a sphingolipid, is a major component of myelin, providing the tight, insulating layers around axons.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "In DNA, the sugar‑phosphate backbone is formed by which type of linkage?",
+      "options": [
+        "Peptide bond",
+        "Glycosidic bond",
+        "Phosphodiester bond",
+        "Hydrogen bond"
+      ],
+      "answer": 2,
+      "explanation": "Each nucleotide is connected to the next by a phosphodiester bond between the 3′‑OH of one deoxyribose and the 5′‑phosphate of the next.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "Which statement correctly differentiates cellulose and glycogen?",
+      "options": [
+        "Both are branched polymers, but cellulose contains β‑1,4 linkages while glycogen has α‑1,4 linkages.",
+        "Cellulose is a linear polymer of glucose with β‑1,4 linkages; glycogen is highly branched with α‑1,4 and α‑1,6 linkages.",
+        "Cellulose is composed of glucose units linked by α‑1,6 bonds; glycogen is linear with β‑1,4 bonds.",
+        "Both are storage polysaccharides, but cellulose is found in animals."
+      ],
+      "answer": 1,
+      "explanation": "Cellulose is a straight chain of β‑1,4‑linked glucose providing structural support; glycogen is a branched α‑1,4/α‑1,6 polymer serving as an energy reserve.",
+      "topic": "Biological macromolecules"
+    },
+    {
+      "question": "Which of the following best explains why nucleic acids can store genetic information?",
+      "options": [
+        "Their monomers contain a phosphate group that can be phosphorylated.",
+        "The sequence of nitrogenous bases along the polymer can vary, providing a code.",
+        "They are composed of repeating disaccharide units that can form helices.",
+        "Their hydrophobic tails allow them to embed in membranes."
+      ],
+      "answer": 1,
+      "explanation": "The linear arrangement of four different bases (A, T/U, G, C) along DNA/RNA creates a code that can specify proteins and regulate cellular processes.",
+      "topic": "Biological macromolecules"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 5,
+    "mcqCount": 36
+  }
+}

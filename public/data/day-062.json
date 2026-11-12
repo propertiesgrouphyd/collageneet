@@ -1,0 +1,2810 @@
+{
+  "day": 62,
+  "courseDate": "2026-10-30",
+  "publishAt": "2026-10-30T06:00:00+05:30",
+  "title": "Day 62: Human Digestive System – Alimentary Canal and Digestive Glands",
+  "introduction": "This lesson covers the complete anatomy and physiology of the human digestive system, focusing on the alimentary canal and associated glands, as outlined in the NEET syllabus.",
+  "sections": [
+    {
+      "topic": "Human digestive system",
+      "heading": "Overview of the Human Digestive System",
+      "content": "The human digestive system is a continuous tube from mouth to anus, supported by accessory organs that secrete enzymes and bile. Its primary functions are ingestion, digestion, absorption, and egestion of nutrients.",
+      "keyPoints": [
+        "Continuous tube from mouth to anus",
+        "Four major functions: ingestion, digestion, absorption, egestion"
+      ],
+      "neetTips": [
+        "Memorize the sequence of organs for diagram‑based questions"
+      ]
+    },
+    {
+      "topic": "Alimentary canal",
+      "heading": "Structure of the Alimentary Canal",
+      "content": "The alimentary canal comprises the mouth, pharynx, oesophagus, stomach, small intestine (duodenum, jejunum, ileum), large intestine, rectum and anus. Each segment has specialized mucosal adaptations for its role.",
+      "keyPoints": [
+        "Seven regions in order",
+        "Mucosal specializations vary per region"
+      ],
+      "neetTips": [
+        "Recall the order using the mnemonic ‘M‑P‑O‑S‑S‑I‑L‑R‑A’"
+      ]
+    },
+    {
+      "topic": "Mouth and oral cavity",
+      "heading": "Mouth and Oral Cavity Functions",
+      "content": "The mouth initiates digestion by mechanical breakdown (mastication) and chemical digestion via saliva. The oral cavity provides a moist environment and houses taste buds for gustatory perception.",
+      "keyPoints": [
+        "Mechanical digestion by teeth",
+        "Chemical digestion by saliva",
+        "Taste perception"
+      ],
+      "neetTips": [
+        "Link mastication with formation of bolus"
+      ]
+    },
+    {
+      "topic": "Teeth",
+      "heading": "Types and Functions of Teeth",
+      "content": "Humans have incisors, canines, premolars and molars. Incisors cut, canines tear, premolars and molars grind food, increasing surface area for enzymatic action.",
+      "keyPoints": [
+        "Four types of teeth",
+        "Specific cutting, tearing, grinding roles"
+      ],
+      "neetTips": [
+        "Associate each tooth type with its shape and function"
+      ]
+    },
+    {
+      "topic": "Tongue",
+      "heading": "Tongue Structure and Role",
+      "content": "The tongue is a muscular organ covered with papillae containing taste buds. It aids in bolus formation, manipulation, and swallowing, and initiates taste perception which stimulates salivation.",
+      "keyPoints": [
+        "Muscular organ with papillae",
+        "Taste buds detect five basic tastes"
+      ],
+      "neetTips": [
+        "Remember that taste stimulates salivary secretion"
+      ]
+    },
+    {
+      "topic": "Salivary glands",
+      "heading": "Major Salivary Glands",
+      "content": "Three paired major glands—parotid, submandibular, sublingual—secrete saliva containing water, electrolytes, mucus and enzymes. Their ducts open into the oral cavity.",
+      "keyPoints": [
+        "Parotid (serous), submandibular (mixed), sublingual (mucous)"
+      ],
+      "neetTips": [
+        "Parotid duct opens near upper second molar"
+      ]
+    },
+    {
+      "topic": "Saliva and salivary amylase",
+      "heading": "Composition of Saliva and Action of Amylase",
+      "content": "Saliva is ~99% water; it contains electrolytes, mucus, lysozyme and salivary amylase (α‑amylase). Salivary amylase hydrolyzes α‑1,4‑glycosidic bonds in starch, producing maltose and dextrins.",
+      "keyPoints": [
+        "Amylase initiates starch digestion",
+        "Optimal activity at pH 6.7‑7.0"
+      ],
+      "neetTips": [
+        "Amylase activity ceases in acidic stomach"
+      ]
+    },
+    {
+      "topic": "Pharynx",
+      "heading": "Pharynx – Passageway for Food and Air",
+      "content": "The pharynx is a muscular funnel that conducts food from the oral cavity to the oesophagus and air to the larynx. The epiglottis prevents entry of food into the respiratory tract during swallowing.",
+      "keyPoints": [
+        "Common pathway for food and air",
+        "Epiglottis protects airway"
+      ],
+      "neetTips": [
+        "Visualize the swallowing reflex to answer functional questions"
+      ]
+    },
+    {
+      "topic": "Oesophagus",
+      "heading": "Structure and Function of the Oesophagus",
+      "content": "The oesophagus is a 25‑cm muscular tube lined by non‑keratinized stratified squamous epithelium. It transports the bolus to the stomach using coordinated peristaltic waves.",
+      "keyPoints": [
+        "Non‑keratinized epithelium resists abrasion",
+        "Peristalsis moves bolus"
+      ],
+      "neetTips": [
+        "Remember lower oesophageal sphincter prevents reflux"
+      ]
+    },
+    {
+      "topic": "Peristalsis",
+      "heading": "Mechanism of Peristalsis",
+      "content": "Peristalsis is a sequential contraction (circular muscle) and relaxation (longitudinal muscle) wave that propels contents unidirectionally. It is autonomically regulated by the enteric nervous system.",
+      "keyPoints": [
+        "Circular contraction behind bolus",
+        "Longitudinal relaxation ahead"
+      ],
+      "neetTips": [
+        "Peristalsis is independent of conscious control"
+      ]
+    },
+    {
+      "topic": "Stomach",
+      "heading": "Stomach Anatomy and Functions",
+      "content": "The stomach is a J‑shaped organ with regions: cardia, fundus, body, antrum, pylorus. It stores food, mixes it with gastric juice, and initiates protein digestion while providing a barrier to pathogens.",
+      "keyPoints": [
+        "Four regions with distinct secretory cells",
+        "Mechanical mixing and chemical digestion"
+      ],
+      "neetTips": [
+        "Identify fundus as primary site of acid secretion"
+      ]
+    },
+    {
+      "topic": "Gastric glands",
+      "heading": "Types of Gastric Glands and Their Secretions",
+      "content": "Three gastric gland types: surface mucous cells (mucus), chief cells (pepsinogen), and parietal cells (hydrochloric acid and intrinsic factor). G cells in the antrum secrete gastrin.",
+      "keyPoints": [
+        "Chief cells → pepsinogen",
+        "Parietal cells → HCl & intrinsic factor"
+      ],
+      "neetTips": [
+        "Gastrin stimulates HCl release"
+      ]
+    },
+    {
+      "topic": "Gastric juice",
+      "heading": "Composition of Gastric Juice",
+      "content": "Gastric juice contains HCl (pH 1‑3), pepsinogen, intrinsic factor, mucus, and lipase. The acidic environment denatures proteins and activates pepsinogen to pepsin.",
+      "keyPoints": [
+        "Acidic pH denatures proteins",
+        "Intrinsic factor essential for vitamin B12 absorption"
+      ],
+      "neetTips": [
+        "Low pH is crucial for pepsin activity"
+      ]
+    },
+    {
+      "topic": "Hydrochloric acid",
+      "heading": "Role of Hydrochloric Acid in Stomach",
+      "content": "HCl secreted by parietal cells creates a highly acidic lumen, kills ingested microbes, converts pepsinogen to pepsin, and provides optimal pH for pepsin activity.",
+      "keyPoints": [
+        "pH 1‑3 kills microbes",
+        "Activates pepsinogen"
+      ],
+      "neetTips": [
+        "HCl deficiency leads to bacterial overgrowth"
+      ]
+    },
+    {
+      "topic": "Pepsinogen and pepsin",
+      "heading": "Activation and Action of Pepsin",
+      "content": "Chief cells release pepsinogen, an inactive zymogen. In the presence of HCl, pepsinogen auto‑cleaves to active pepsin, which hydrolyses peptide bonds preferentially at aromatic residues.",
+      "keyPoints": [
+        "Pepsin active at pH 1‑3",
+        "Cleaves peptide bonds next to phenylalanine, tyrosine, tryptophan"
+      ],
+      "neetTips": [
+        "Pepsin denatures at pH >6"
+      ]
+    },
+    {
+      "topic": "Mucus protection",
+      "heading": "Mucosal Protection by Gastric Mucus",
+      "content": "Surface mucous cells secrete a bicarbonate‑rich mucus layer that neutralizes HCl at the epithelial surface, preventing autodigestion and ulcer formation.",
+      "keyPoints": [
+        "Bicarbonate buffers acid",
+        "Mucus is viscous barrier"
+      ],
+      "neetTips": [
+        "Proton pump inhibitors reduce acid, aiding mucus protection"
+      ]
+    },
+    {
+      "topic": "Small intestine",
+      "heading": "Overall Structure and Function of Small Intestine",
+      "content": "The small intestine (duodenum, jejunum, ileum) is the principal site for digestion and absorption. Its mucosa has villi and microvilli, vastly increasing surface area.",
+      "keyPoints": [
+        "Three parts with specific roles",
+        "Villi + microvilli maximize absorption"
+      ],
+      "neetTips": [
+        "Absorption of most nutrients occurs before ileum"
+      ]
+    },
+    {
+      "topic": "Duodenum",
+      "heading": "Duodenum – First Segment of Small Intestine",
+      "content": "The duodenum receives chyme from the stomach, bile from the gall bladder, and pancreatic juice. It neutralizes gastric acid and provides enzymes for carbohydrate, protein, and lipid digestion.",
+      "keyPoints": [
+        "Receives bile and pancreatic secretions",
+        "pH neutralization"
+      ],
+      "neetTips": [
+        "Duodenal Brunner’s glands secrete alkaline mucus"
+      ]
+    },
+    {
+      "topic": "Jejunum",
+      "heading": "Jejunum – Major Site of Nutrient Absorption",
+      "content": "The jejunum has abundant circular folds, villi, and microvilli, facilitating absorption of carbohydrates, amino acids, fatty acids, vitamins and minerals.",
+      "keyPoints": [
+        "Largest surface area among small intestine parts",
+        "Absorbs most nutrients"
+      ],
+      "neetTips": [
+        "Transport of glucose via SGLT1 is sodium‑dependent"
+      ]
+    },
+    {
+      "topic": "Ileum",
+      "heading": "Ileum – Specialized Absorptive Functions",
+      "content": "The ileum continues absorption, especially of vitamin B12‑intrinsic factor complexes and bile salts via active transport. It contains Peyer’s patches for immune surveillance.",
+      "keyPoints": [
+        "B12‑IF complex absorption via cubilin receptors",
+        "Reabsorption of bile salts"
+      ],
+      "neetTips": [
+        "Ileal resection leads to bile salt deficiency"
+      ]
+    },
+    {
+      "topic": "Large intestine",
+      "heading": "Structure and Function of Large Intestine",
+      "content": "The large intestine (colon) absorbs water, electrolytes, and some vitamins, forming feces. It houses gut microbiota that ferment undigested carbohydrates producing short‑chain fatty acids.",
+      "keyPoints": [
+        "Water and electrolyte absorption",
+        "Microbial fermentation"
+      ],
+      "neetTips": [
+        "Fiber increases bulk and reduces transit time"
+      ]
+    },
+    {
+      "topic": "Rectum and anus",
+      "heading": "Rectum and Anus – Defecation Mechanism",
+      "content": "The rectum stores feces; stretch receptors trigger the defecation reflex. The internal anal sphincter (involuntary) and external anal sphincter (voluntary) regulate expulsion.",
+      "keyPoints": [
+        "Rectal stretch initiates urge",
+        "Two sphincters control continence"
+      ],
+      "neetTips": [
+        "Damage to pudendal nerve affects external sphincter"
+      ]
+    },
+    {
+      "topic": "Liver",
+      "heading": "Liver – Central Metabolic Organ",
+      "content": "The liver produces bile, stores glycogen, synthesizes plasma proteins, detoxifies metabolites, and processes absorbed nutrients from the portal vein.",
+      "keyPoints": [
+        "Bile synthesis",
+        "Glycogen storage",
+        "Detoxification"
+      ],
+      "neetTips": [
+        "Hepatocytes line hepatic lobules with central vein"
+      ]
+    },
+    {
+      "topic": "Bile",
+      "heading": "Composition and Function of Bile",
+      "content": "Bile is an aqueous solution of bile salts, bilirubin, cholesterol, and phospholipids. Bile salts emulsify dietary lipids, increasing surface area for pancreatic lipase action.",
+      "keyPoints": [
+        "Emulsifies fats",
+        "Facilitates lipase activity"
+      ],
+      "neetTips": [
+        "Bile salts are conjugated with glycine or taurine"
+      ]
+    },
+    {
+      "topic": "Gall bladder",
+      "heading": "Gall Bladder – Bile Reservoir",
+      "content": "The gall bladder stores and concentrates bile between meals. Cholecystokinin (CCK) triggers its contraction, releasing bile into the duodenum via the cystic duct.",
+      "keyPoints": [
+        "Concentrates bile 10‑fold",
+        "CCK‑mediated contraction"
+      ],
+      "neetTips": [
+        "Gall stones form from supersaturation of cholesterol"
+      ]
+    },
+    {
+      "topic": "Pancreas",
+      "heading": "Pancreas – Exocrine and Endocrine Functions",
+      "content": "The exocrine pancreas secretes pancreatic juice containing enzymes and bicarbonate. The endocrine pancreas (islets) regulates blood glucose, but only exocrine role is relevant here.",
+      "keyPoints": [
+        "Acinar cells produce enzymes",
+        "Ductal cells secrete bicarbonate"
+      ],
+      "neetTips": [
+        "Pancreatic duct joins common bile duct at ampulla of Vater"
+      ]
+    },
+    {
+      "topic": "Pancreatic juice",
+      "heading": "Composition of Pancreatic Juice",
+      "content": "Pancreatic juice is alkaline (pH ~8) and contains bicarbonate, amylase, lipase, proteases (trypsinogen, chymotrypsinogen), and nucleases. It neutralizes acidic chyme entering the duodenum.",
+      "keyPoints": [
+        "Alkaline pH neutralizes gastric acid",
+        "Contains multiple digestive enzymes"
+      ],
+      "neetTips": [
+        "Bicarbonate secretion is stimulated by secretin"
+      ]
+    },
+    {
+      "topic": "Digestive enzymes",
+      "heading": "Key Pancreatic Digestive Enzymes",
+      "content": "Amylase hydrolyses starch; lipase digests triglycerides into monoglycerides and free fatty acids; trypsinogen and chymotrypsinogen are activated to trypsin and chymotrypsin for protein breakdown; nucleases cleave nucleic acids.",
+      "keyPoints": [
+        "Amylase → maltose",
+        "Lipase → monoglycerides + FA",
+        "Trypsin activates other proteases"
+      ],
+      "neetTips": [
+        "Enterokinase converts trypsinogen to trypsin"
+      ]
+    },
+    {
+      "topic": "Accessory digestive organs",
+      "heading": "Integration of Accessory Organs in Digestion",
+      "content": "The liver, gall bladder, and pancreas work synergistically: liver produces bile, gall bladder stores and releases it, pancreas supplies alkaline juice and enzymes, together ensuring efficient digestion and absorption.",
+      "keyPoints": [
+        "Liver → bile production",
+        "Gall bladder → bile storage",
+        "Pancreas → enzymes & bicarbonate"
+      ],
+      "neetTips": [
+        "Sequence: bile + pancreatic juice → duodenum"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the anatomical sequence of the alimentary canal and accessory organs",
+    "Explain the specific secretions and their roles in each digestive segment",
+    "Recall key enzymes, hormones and their regulatory mechanisms relevant to NEET",
+    "Apply knowledge of structure‑function relationships to solve diagram‑based questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following sequences correctly represents the order of structures through which food passes in the human alimentary canal?",
+      "options": [
+        "Mouth, Pharynx, Esophagus, Stomach, Duodenum, Jejunum, Ileum, Colon, Rectum, Anus",
+        "Mouth, Esophagus, Pharynx, Stomach, Duodenum, Ileum, Jejunum, Colon, Rectum, Anus",
+        "Mouth, Pharynx, Stomach, Esophagus, Duodenum, Jejunum, Ileum, Colon, Rectum, Anus",
+        "Mouth, Pharynx, Esophagus, Stomach, Jejunum, Duodenum, Ileum, Colon, Rectum, Anus"
+      ],
+      "answer": 0,
+      "explanation": "The correct order is Mouth → Pharynx → Esophagus → Stomach → Duodenum → Jejunum → Ileum → Colon → Rectum → Anus, reflecting the continuous tube of the digestive tract.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "Which enzyme present in saliva initiates the digestion of dietary carbohydrates?",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "answer": 2,
+      "explanation": "Salivary (ptyalin) amylase hydrolyses starch into maltose and dextrins, starting carbohydrate digestion in the oral cavity.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "Hydrochloric acid (HCl) secreted by gastric parietal cells primarily:",
+      "options": [
+        "Activates pepsinogen to pepsin and provides optimal pH for pepsin activity",
+        "Inhibits pepsin activity to protect gastric mucosa",
+        "Stimulates secretion of pancreatic enzymes",
+        "Emulsifies dietary fats"
+      ],
+      "answer": 0,
+      "explanation": "HCl lowers gastric pH to ~1.5–2, converting pepsinogen into active pepsin and creating the acidic environment required for pepsin's proteolytic action.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "The main physiological role of bile released into the duodenum is to:",
+      "options": [
+        "Emulsify dietary fats increasing surface area for lipase action",
+        "Hydrolyze triglycerides into fatty acids and monoglycerides",
+        "Activate pancreatic amylase",
+        "Neutralize gastric acid in the duodenum"
+      ],
+      "answer": 0,
+      "explanation": "Bile salts act as emulsifying agents, breaking large fat globules into smaller droplets, thereby enhancing the action of pancreatic lipase.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "Which of the following enzymes, secreted by the pancreas, is primarily responsible for protein digestion in the small intestine?",
+      "options": [
+        "Trypsin",
+        "Lipase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic trypsin (activated from trypsinogen) cleaves peptide bonds, playing a key role in protein digestion in the duodenum.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "The absorption of vitamin B12 in the human intestine occurs mainly in which segment?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 2,
+      "explanation": "Vitamin B12–intrinsic factor complexes are absorbed by specific receptors in the terminal ileum.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "During peristalsis, the sequence of muscular contraction in the intestinal wall is:",
+      "options": [
+        "Circular muscle contracts first followed by longitudinal muscle",
+        "Longitudinal muscle contracts first followed by circular muscle",
+        "Only circular muscle contracts",
+        "Only longitudinal muscle contracts"
+      ],
+      "answer": 0,
+      "explanation": "Peristaltic waves are generated by circular muscle contraction behind the bolus and longitudinal muscle shortening ahead, propelling contents forward.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "Which gastric cell type secretes intrinsic factor, essential for vitamin B12 absorption?",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "Mucous neck cells",
+        "Enteroendocrine G cells"
+      ],
+      "answer": 1,
+      "explanation": "Parietal cells produce both hydrochloric acid and intrinsic factor; the latter binds vitamin B12 for ileal absorption.",
+      "topic": "Human digestive system"
+    },
+    {
+      "question": "Which of the following sequences correctly represents the passage of food through the human alimentary canal from entry to excretion?",
+      "options": [
+        "Mouth → Pharynx → Esophagus → Stomach → Small intestine → Large intestine → Rectum → Anus",
+        "Mouth → Esophagus → Pharynx → Stomach → Small intestine → Large intestine → Rectum → Anus",
+        "Mouth → Pharynx → Stomach → Esophagus → Small intestine → Large intestine → Rectum → Anus",
+        "Mouth → Pharynx → Esophagus → Small intestine → Stomach → Large intestine → Rectum → Anus"
+      ],
+      "answer": 0,
+      "explanation": "Food enters the mouth, passes through the pharynx, then the esophagus, reaches the stomach, proceeds to the small intestine, large intestine, rectum and finally exits via the anus.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The primary site for absorption of water and electrolytes in the alimentary canal is:",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Pancreas"
+      ],
+      "answer": 2,
+      "explanation": "The large intestine reabsorbs most of the water and electrolytes remaining after digestion in the small intestine, concentrating the fecal matter.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The rhythmic contraction that moves the bolus in a forward direction along the alimentary canal is called:",
+      "options": [
+        "Segmentation",
+        "Peristalsis",
+        "Haustration",
+        "Churning"
+      ],
+      "answer": 1,
+      "explanation": "Peristalsis is a coordinated wave of circular and longitudinal muscle contraction that propels the contents forward.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Which sphincter prevents the reflux of gastric contents into the esophagus?",
+      "options": [
+        "Pyloric sphincter",
+        "Lower esophageal sphincter",
+        "Ileocecal valve",
+        "Anal sphincter"
+      ],
+      "answer": 1,
+      "explanation": "The lower esophageal sphincter (also called the cardiac sphincter) closes the junction between the esophagus and stomach, preventing backflow.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Villi, which increase the surface area for absorption, are found in which part of the alimentary canal?",
+      "options": [
+        "Stomach",
+        "Duodenum",
+        "Large intestine",
+        "Esophagus"
+      ],
+      "answer": 1,
+      "explanation": "Villi are finger‑like projections lining the mucosa of the small intestine, especially prominent in the duodenum, to enhance nutrient absorption.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "The enzyme that initiates starch digestion in the oral cavity is:",
+      "options": [
+        "Salivary amylase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 0,
+      "explanation": "Salivary amylase (ptyalin) secreted by the salivary glands hydrolyses α‑1,4‑glycosidic bonds of starch into maltose and dextrins.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Obstruction of the ileocecal valve would most likely impair the absorption of which nutrient?",
+      "options": [
+        "Vitamin B12",
+        "Calcium",
+        "Sodium",
+        "Vitamin K"
+      ],
+      "answer": 0,
+      "explanation": "Vitamin B12 is absorbed in the terminal ileum; blockage at the ileocecal valve hampers its uptake, leading to deficiency.",
+      "topic": "Alimentary canal"
+    },
+    {
+      "question": "Which of the following is NOT a function of saliva?",
+      "options": [
+        "Lubrication of the food bolus",
+        "Initiation of starch digestion",
+        "Neutralization of gastric acid in the stomach",
+        "Antibacterial activity"
+      ],
+      "answer": 2,
+      "explanation": "Saliva lubricates, contains amylase for starch digestion and has antibacterial proteins; it does not neutralize gastric acid, a function of pancreatic bicarbonate.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "Salivary amylase (ptyalin) exhibits maximal activity at which pH range?",
+      "options": [
+        "Around pH 6.7‑7.0",
+        "Around pH 7.4",
+        "Around pH 5.0",
+        "Around pH 8.0"
+      ],
+      "answer": 0,
+      "explanation": "Ptyalin works best at near‑neutral pH (approximately 6.7‑7.0), matching the pH of the oral cavity.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "Which type of tooth is primarily responsible for tearing food?",
+      "options": [
+        "Incisors",
+        "Canines",
+        "Premolars",
+        "Molars"
+      ],
+      "answer": 1,
+      "explanation": "Canine teeth have a pointed cusp that enables them to tear food, unlike incisors (cutting) or premolars/molars (grinding).",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "The papillae that contain taste buds mainly for bitter taste are:",
+      "options": [
+        "Filiform papillae",
+        "Fungiform papillae",
+        "Circumvallate papillae",
+        "Foliate papillae"
+      ],
+      "answer": 2,
+      "explanation": "Circumvallate papillae, located at the posterior tongue, are large and house many taste buds, especially for bitter sensations.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "Which statement about the parotid gland is correct?",
+      "options": [
+        "It secretes a serous fluid rich in mucin",
+        "Its duct opens into the floor of the mouth",
+        "It contributes most of the salivary amylase",
+        "It is a mixed gland containing both serous and mucous cells"
+      ],
+      "answer": 2,
+      "explanation": "The parotid gland is a purely serous gland and provides the majority of salivary amylase; its duct (Stensen's) opens near the upper second molar, not the floor of the mouth.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "The oral mucosa covering the hard palate is lined by which type of epithelium?",
+      "options": [
+        "Stratified squamous keratinized epithelium",
+        "Simple columnar epithelium",
+        "Pseudostratified ciliated epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal oral cavity, including the hard palate, is covered by keratinized stratified squamous epithelium, providing protection against mechanical stress.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "Stimulation of the oral cavity during the cephalic phase of digestion leads to increased secretion of which hormone that prepares the stomach?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Vasoactive intestinal peptide (VIP)"
+      ],
+      "answer": 0,
+      "explanation": "The sight, smell or taste of food activates vagal pathways that stimulate G‑cells to release gastrin, initiating gastric secretion even before food reaches the stomach.",
+      "topic": "Mouth and oral cavity"
+    },
+    {
+      "question": "Which type of tooth is primarily responsible for grinding food in humans?",
+      "options": [
+        "Incisor",
+        "Canine",
+        "Premolar",
+        "Molar"
+      ],
+      "answer": 3,
+      "explanation": "Molars have broad, flat occlusal surfaces suited for crushing and grinding food particles.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "Enamel, the hardest tissue of the tooth, is composed mainly of which mineral?",
+      "options": [
+        "Hydroxyapatite (calcium phosphate)",
+        "Collagen",
+        "Calcium carbonate",
+        "Sodium chloride"
+      ],
+      "answer": 0,
+      "explanation": "Enamel consists of ~96% hydroxyapatite crystals, a crystalline form of calcium phosphate, giving it high hardness.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "The junction between enamel and dentin is termed the:",
+      "options": [
+        "Cementoenamel junction",
+        "Dentin‑enamel junction",
+        "Periodontal ligament",
+        "Apex"
+      ],
+      "answer": 1,
+      "explanation": "The dentin‑enamel junction (DEJ) is the interface where enamel meets dentin, providing structural continuity.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "Which cells are responsible for the formation of dentin during tooth development?",
+      "options": [
+        "Odontoblasts",
+        "Ameloblasts",
+        "Osteoblasts",
+        "Fibroblasts"
+      ],
+      "answer": 0,
+      "explanation": "Odontoblasts, located at the periphery of the dental pulp, secrete dentin matrix that later mineralizes.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "The primary function of the periodontal ligament is to:",
+      "options": [
+        "Produce enamel",
+        "Anchor the tooth to alveolar bone",
+        "Secrete saliva",
+        "Initiate tooth eruption"
+      ],
+      "answer": 1,
+      "explanation": "The periodontal ligament contains collagen fibers that attach the cementum of the tooth to the surrounding alveolar bone, stabilizing the tooth.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "During tooth development, the hard tissue that covers the crown is secreted by:",
+      "options": [
+        "Ameloblasts",
+        "Odontoblasts",
+        "Cementoblasts",
+        "Fibroblasts"
+      ],
+      "answer": 0,
+      "explanation": "Ameloblasts differentiate from the inner enamel epithelium and lay down enamel, the outermost hard tissue of the crown.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "Which statement about deciduous (primary) teeth is FALSE?",
+      "options": [
+        "They have a larger pulp chamber relative to crown size",
+        "They are replaced by permanent teeth",
+        "They have a higher proportion of enamel to dentin than permanent teeth",
+        "They erupt in a predictable chronological order"
+      ],
+      "answer": 2,
+      "explanation": "Primary teeth actually have a relatively thinner enamel layer and a higher dentin proportion compared to permanent teeth; thus the statement is false.",
+      "topic": "Teeth"
+    },
+    {
+      "question": "Which type of papilla on the dorsum of the human tongue is primarily responsible for the perception of sweet taste?",
+      "options": [
+        "Filiform",
+        "Fungiform",
+        "Circumvallate",
+        "Foliate"
+      ],
+      "answer": 1,
+      "explanation": "Fungiform papillae contain taste buds that are sensitive to sweet, salty, sour and bitter tastes, whereas filiform papillae are non‑taste and circumvallate papillae are more associated with bitter taste.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "General sensation (touch, temperature) from the anterior two‑thirds of the tongue is carried by which nerve?",
+      "options": [
+        "Glossopharyngeal nerve (IX)",
+        "Facial nerve (VII)",
+        "Trigeminal nerve (V3)",
+        "Vagus nerve (X)"
+      ],
+      "answer": 2,
+      "explanation": "The mandibular division of the trigeminal nerve (V3) provides general somatic afferent fibers to the anterior two‑thirds of the tongue.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Which artery supplies the tip (apex) of the tongue?",
+      "options": [
+        "Deep lingual artery",
+        "Superior thyroid artery",
+        "Facial artery",
+        "Maxillary artery"
+      ],
+      "answer": 0,
+      "explanation": "The deep lingual artery, a terminal branch of the lingual artery, runs along the ventral surface and supplies the tip of the tongue.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Lymphatic drainage of the tip of the tongue primarily reaches which group of lymph nodes?",
+      "options": [
+        "Submental nodes",
+        "Submandibular nodes",
+        "Deep cervical nodes",
+        "Parotid nodes"
+      ],
+      "answer": 0,
+      "explanation": "The tip (anterior most part) of the tongue drains to the submental lymph nodes before reaching deeper cervical nodes.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Which papillae are keratinized, aid in mechanical manipulation of food, and do NOT contain taste buds?",
+      "options": [
+        "Filiform",
+        "Fungiform",
+        "Circumvallate",
+        "Foliate"
+      ],
+      "answer": 0,
+      "explanation": "Filiform papillae are numerous, keratinized, and lack taste buds; they provide a rough surface for handling food.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Lingual lipase, secreted by minor salivary glands on the dorsum of the tongue, shows maximal activity at which pH range?",
+      "options": [
+        "pH 2‑3",
+        "pH 4‑5",
+        "pH 6‑7",
+        "pH 8‑9"
+      ],
+      "answer": 1,
+      "explanation": "Lingual lipase functions optimally in the mildly acidic environment of the stomach, around pH 4‑5.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Taste buds on circumvallate papillae receive their gustatory innervation from which cranial nerve?",
+      "options": [
+        "Facial nerve (VII)",
+        "Glossopharyngeal nerve (IX)",
+        "Vagus nerve (X)",
+        "Trigeminal nerve (V)"
+      ],
+      "answer": 1,
+      "explanation": "The circumvallate papillae are innervated by the glossopharyngeal nerve (cranial nerve IX) for taste sensation.",
+      "topic": "Tongue"
+    },
+    {
+      "question": "Which salivary gland contributes the greatest volume of unstimulated saliva?",
+      "options": [
+        "Parotid gland",
+        "Submandibular gland",
+        "Sublingual gland",
+        "Minor salivary glands"
+      ],
+      "answer": 1,
+      "explanation": "The submandibular gland secretes about 60‑70% of the total unstimulated saliva, making it the major source under resting conditions.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "The enzyme that initiates starch digestion in the oral cavity is:",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Salivary amylase (ptyalin)",
+        "Trypsin"
+      ],
+      "answer": 2,
+      "explanation": "Salivary amylase, also called ptyalin, hydrolyses α‑1,4‑glycosidic bonds of starch to maltose and dextrins during the brief oral phase.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "Which statement about the secretory nature of the parotid gland is true?",
+      "options": [
+        "It is a mixed serous‑mucous gland",
+        "It secretes predominantly mucous secretions",
+        "It secretes serous fluid rich in amylase",
+        "It secretes serous fluid low in enzymes"
+      ],
+      "answer": 2,
+      "explanation": "The parotid gland is a purely serous gland; its secretion is watery and contains a high concentration of salivary amylase.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "Parasympathetic stimulation of salivary glands primarily results in:",
+      "options": [
+        "Decreased saliva volume",
+        "Increased protein concentration in saliva",
+        "Increased watery (serous) secretion",
+        "Vasoconstriction of glandular blood vessels"
+      ],
+      "answer": 2,
+      "explanation": "Parasympathetic activation (via acetylcholine) enhances fluid secretion, producing a larger volume of dilute, enzyme‑rich saliva.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "Which duct drains the submandibular gland?",
+      "options": [
+        "Stensen's duct",
+        "Wharton's duct",
+        "Bartholin's duct",
+        "Parotid duct"
+      ],
+      "answer": 1,
+      "explanation": "Wharton's duct (submandibular duct) opens into the floor of the mouth near the lingual frenulum and drains the submandibular gland.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "A stone obstructing a salivary duct causes painful swelling during meals. The gland most commonly affected is:",
+      "options": [
+        "Parotid gland",
+        "Sublingual gland",
+        "Submandibular gland",
+        "Minor salivary glands"
+      ],
+      "answer": 2,
+      "explanation": "Sialolithiasis most frequently involves the submandibular gland because its saliva is more mucous, alkaline, and its duct is longer and uphill, favoring stone formation.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "Which ion is present in saliva at a higher concentration than in plasma and contributes to its buffering capacity?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Bicarbonate",
+        "Chloride"
+      ],
+      "answer": 2,
+      "explanation": "Stimulated saliva contains elevated bicarbonate ions, which neutralize acids and provide an important buffering system in the oral cavity.",
+      "topic": "Salivary glands"
+    },
+    {
+      "question": "Which salivary gland contributes the highest proportion of amylase activity in human saliva?",
+      "options": [
+        "Parotid gland",
+        "Submandibular gland",
+        "Sublingual gland",
+        "Minor salivary glands"
+      ],
+      "answer": 0,
+      "explanation": "The parotid gland secretes a serous fluid rich in salivary amylase (ptyalin) and accounts for about 25% of total saliva but provides >90% of the amylase activity.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "What is the approximate optimal pH at which salivary amylase exhibits maximal activity?",
+      "options": [
+        "pH 6.0",
+        "pH 7.0",
+        "pH 8.0",
+        "pH 9.0"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase (ptyalin) works best near neutral pH, around 6.7‑7.0; activity falls sharply in more acidic or alkaline conditions.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "Which component of saliva primarily provides antimicrobial action against Gram‑positive bacteria?",
+      "options": [
+        "Amylase",
+        "Lysozyme",
+        "Mucin",
+        "Electrolytes"
+      ],
+      "answer": 1,
+      "explanation": "Lysozyme hydrolyses the β‑1,4‑glycosidic bonds in bacterial peptidoglycan, giving saliva its bactericidal property, especially against Gram‑positive organisms.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "During the cephalic phase of digestion, salivary secretion is stimulated mainly by which neurotransmitter?",
+      "options": [
+        "Acetylcholine",
+        "Norepinephrine",
+        "Dopamine",
+        "Serotonin"
+      ],
+      "answer": 0,
+      "explanation": "Parasympathetic stimulation via the facial nerve releases acetylcholine, which binds to muscarinic receptors on salivary acinar cells, increasing saliva flow.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "A child lacking functional salivary amylase would most likely experience which dietary problem?",
+      "options": [
+        "Inability to digest lactose",
+        "Reduced starch digestion in the mouth",
+        "Impaired protein breakdown",
+        "Decreased lipid emulsification"
+      ],
+      "answer": 1,
+      "explanation": "Salivary amylase initiates starch hydrolysis; its absence means starch is not broken down until it reaches the small intestine, leading to delayed carbohydrate digestion.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "When a starch solution is mixed with saliva, the pH of the mixture typically:",
+      "options": [
+        "Rises due to bicarbonate",
+        "Falls due to H⁺ released by amylase",
+        "Remains unchanged",
+        "Slightly rises because saliva is slightly alkaline"
+      ],
+      "answer": 3,
+      "explanation": "Saliva has a pH of about 6.8‑7.4, slightly alkaline compared with many food substrates, so the mixture’s pH usually rises marginally.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "Which ion present in saliva is essential for the catalytic activity of salivary amylase?",
+      "options": [
+        "Ca²⁺",
+        "Mg²⁺",
+        "Zn²⁺",
+        "Fe²⁺"
+      ],
+      "answer": 0,
+      "explanation": "Calcium ions stabilize the active conformation of salivary amylase and are required for optimal enzymatic activity.",
+      "topic": "Saliva and salivary amylase"
+    },
+    {
+      "question": "Which part of the pharynx lies posterior to the nasal cavity?",
+      "options": [
+        "Nasopharynx",
+        "Oropharynx",
+        "Laryngopharynx",
+        "Hypopharynx"
+      ],
+      "answer": 0,
+      "explanation": "The nasopharynx is the superior portion of the pharynx located behind the nasal cavity and above the soft palate.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "During the pharyngeal phase of swallowing, which muscle contracts first?",
+      "options": [
+        "Superior pharyngeal constrictor",
+        "Middle pharyngeal constrictor",
+        "Inferior pharyngeal constrictor",
+        "Stylopharyngeus"
+      ],
+      "answer": 0,
+      "explanation": "The superior constrictor initiates the pharyngeal phase, propelling the bolus downward before the middle and inferior constrictors contract sequentially.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Sensory innervation of the mucosa of the oropharynx is provided by which cranial nerve?",
+      "options": [
+        "Mandibular division of CN V",
+        "Facial nerve (CN VII)",
+        "Glossopharyngeal nerve (CN IX)",
+        "Vagus nerve (CN X)"
+      ],
+      "answer": 2,
+      "explanation": "The glossopharyngeal nerve (CN IX) supplies general sensation to the mucosa of the oropharynx, while taste is also mediated by CN IX.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "The epithelium lining the nasopharynx is:",
+      "options": [
+        "Stratified squamous non‑keratinized",
+        "Simple columnar",
+        "Pseudostratified ciliated columnar",
+        "Transitional"
+      ],
+      "answer": 2,
+      "explanation": "The nasopharynx is lined by pseudostratified ciliated columnar epithelium, which helps trap and move particles away from the respiratory tract.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Which lymphoid structure is situated in the lateral wall of the oropharynx?",
+      "options": [
+        "Palatine tonsil",
+        "Lingual tonsil",
+        "Pharyngeal tonsil (adenoids)",
+        "Tubal tonsil"
+      ],
+      "answer": 0,
+      "explanation": "The palatine tonsils are located in the lateral walls of the oropharynx, between the palatoglossal and palatopharyngeal arches.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Motor fibers to the pharyngeal constrictor muscles are carried by which cranial nerve?",
+      "options": [
+        "Glossopharyngeal nerve (CN IX)",
+        "Vagus nerve (CN X)",
+        "Accessory nerve (CN XI)",
+        "Hypoglossal nerve (CN XII)"
+      ],
+      "answer": 1,
+      "explanation": "The vagus nerve (CN X) supplies motor innervation to all three pharyngeal constrictors via the pharyngeal plexus.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Which muscle forms the upper esophageal sphincter and relaxes to permit passage of the bolus?",
+      "options": [
+        "Cricopharyngeus",
+        "Stylopharyngeus",
+        "Salpingopharyngeus",
+        "Palatopharyngeus"
+      ],
+      "answer": 0,
+      "explanation": "The cricopharyngeus muscle constitutes the upper esophageal sphincter; it relaxes during swallowing to allow the bolus to enter the esophagus.",
+      "topic": "Pharynx"
+    },
+    {
+      "question": "Through which opening in the diaphragm does the oesophagus pass to enter the abdominal cavity?",
+      "options": [
+        "Foramen magnum",
+        "Aortic hiatus",
+        "Esophageal hiatus",
+        "Caval opening"
+      ],
+      "answer": 2,
+      "explanation": "The oesophagus traverses the diaphragm via the esophageal hiatus at the level of T10.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "Which layer of the oesophageal wall contains skeletal muscle in its upper part and smooth muscle in its lower part?",
+      "options": [
+        "Mucosa",
+        "Submucosa",
+        "Muscularis externa",
+        "Adventitia"
+      ],
+      "answer": 2,
+      "explanation": "The muscularis externa of the oesophagus is composed of an inner striated (skeletal) muscle layer proximally and a smooth muscle layer distally.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "Primary peristalsis in the oesophagus is initiated mainly by which component of the autonomic nervous system?",
+      "options": [
+        "Parasympathetic fibers of the vagus nerve",
+        "Sympathetic thoracic splanchnic nerves",
+        "Enteric (myenteric) plexus",
+        "Somatic fibers of the phrenic nerve"
+      ],
+      "answer": 0,
+      "explanation": "Vagal parasympathetic stimulation triggers the coordinated contraction of the oesophageal muscles, initiating primary peristalsis.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "The arterial supply to the lower third of the oesophagus is derived primarily from which artery?",
+      "options": [
+        "Inferior thyroid artery",
+        "Left gastric artery",
+        "Right gastric artery",
+        "Bronchial arteries"
+      ],
+      "answer": 1,
+      "explanation": "The left gastric artery, a branch of the celiac trunk, supplies the distal (lower) third of the oesophagus.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "Lymph from the middle third of the oesophagus drains chiefly into which group of lymph nodes?",
+      "options": [
+        "Cervical lymph nodes",
+        "Mediastinal lymph nodes",
+        "Celiac lymph nodes",
+        "Para‑aortic lymph nodes"
+      ],
+      "answer": 1,
+      "explanation": "The middle third of the oesophagus drains into the mediastinal (thoracic) lymph nodes.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "In achalasia, which physiological event is most markedly reduced?",
+      "options": [
+        "Lower oesophageal sphincter (LES) tone",
+        "LES relaxation during swallowing",
+        "Amplitude of peristaltic waves",
+        "Gastric acid secretion"
+      ],
+      "answer": 1,
+      "explanation": "Achalasia is characterized by failure of the LES to relax properly during swallowing, leading to functional obstruction.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "What type of epithelium lines the lumen of the oesophagus?",
+      "options": [
+        "Simple columnar epithelium",
+        "Stratified squamous non‑keratinized epithelium",
+        "Pseudostratified ciliated columnar epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The oesophagus is lined by non‑keratinized stratified squamous epithelium, which protects against mechanical abrasion from food bolus.",
+      "topic": "Oesophagus"
+    },
+    {
+      "question": "Which layer of the gastrointestinal tract primarily generates the rhythmic contractions observed in peristalsis?",
+      "options": [
+        "Circular muscle layer",
+        "Longitudinal muscle layer",
+        "Submucosa",
+        "Serosa"
+      ],
+      "answer": 0,
+      "explanation": "The circular muscle layer contracts behind the bolus while the longitudinal layer shortens the segment, producing the peristaltic wave.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "The peristaltic wave in the oesophagus is initiated by which type of neural reflex?",
+      "options": [
+        "Voluntary cortical control",
+        "Enteric nervous system intrinsic reflex",
+        "Somatic motor reflex",
+        "Sympathetic reflex"
+      ],
+      "answer": 1,
+      "explanation": "Primary peristalsis in the oesophagus is generated by an intrinsic reflex of the myenteric plexus, independent of higher brain input.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "Which hormone enhances the frequency of intestinal peristalsis?",
+      "options": [
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Motilin",
+        "Gastrin"
+      ],
+      "answer": 2,
+      "explanation": "Motilin stimulates the migrating motor complex and increases the frequency of peristaltic contractions in the small intestine.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "In the small intestine, peristalsis is coordinated by the myenteric plexus. Which neurotransmitter released from excitatory motor neurons primarily causes contraction of the circular muscle?",
+      "options": [
+        "Acetylcholine",
+        "Nitric oxide",
+        "Vasoactive intestinal peptide (VIP)",
+        "Dopamine"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholine is the main excitatory neurotransmitter that induces circular muscle contraction during peristalsis.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "A patient with a lesion of the vagus nerve is most likely to exhibit which change in gastrointestinal motility?",
+      "options": [
+        "Increased peristaltic amplitude in stomach",
+        "Decreased gastric peristalsis",
+        "Unchanged intestinal peristalsis",
+        "Hyperactive esophageal peristalsis"
+      ],
+      "answer": 1,
+      "explanation": "Vagal parasympathetic fibers stimulate gastric motility; their loss reduces the strength and frequency of gastric peristaltic waves.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "Which statement best describes secondary peristalsis?",
+      "options": [
+        "Initiated by swallowing",
+        "Occurs only in the oesophagus",
+        "Triggered by distension of the gut wall",
+        "Independent of the enteric nervous system"
+      ],
+      "answer": 2,
+      "explanation": "Secondary peristalsis is an intrinsic reflex that is activated when the gut wall is stretched by a bolus that has not moved forward.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "The coordinated relaxation of the circular muscle ahead of the bolus during peristalsis is mediated mainly by which inhibitory neurotransmitter?",
+      "options": [
+        "Acetylcholine",
+        "Substance P",
+        "Nitric oxide",
+        "Serotonin"
+      ],
+      "answer": 2,
+      "explanation": "Nitric oxide released from inhibitory motor neurons causes smooth muscle relaxation ahead of the bolus, allowing forward movement.",
+      "topic": "Peristalsis"
+    },
+    {
+      "question": "Which cell type in the gastric glands is responsible for the secretion of intrinsic factor?",
+      "options": [
+        "Parietal cell",
+        "Chief cell",
+        "G cell",
+        "Mucous neck cell"
+      ],
+      "answer": 0,
+      "explanation": "Parietal cells secrete both hydrochloric acid and intrinsic factor, the latter being essential for vitamin B12 absorption.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "Conversion of pepsinogen to active pepsin in the stomach primarily requires which of the following?",
+      "options": [
+        "Hydrochloric acid",
+        "Trypsin",
+        "Bile salts",
+        "Pancreatic lipase"
+      ],
+      "answer": 0,
+      "explanation": "The acidic pH created by HCl denatures pepsinogen and cleaves its N‑terminal segment, yielding active pepsin.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "The region of the stomach that is mainly involved in the mechanical mixing and grinding of ingested food is the:",
+      "options": [
+        "Fundus",
+        "Cardia",
+        "Body",
+        "Pyloric antrum"
+      ],
+      "answer": 2,
+      "explanation": "The body (corpus) of the stomach contains thick muscular layers that generate strong peristaltic waves for mixing and churning the chyme.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "Gastrin released from G cells exerts its major effect by stimulating secretion of:",
+      "options": [
+        "Hydrochloric acid from parietal cells",
+        "Bile from hepatocytes",
+        "Pancreatic amylase",
+        "Salivary amylase"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin binds to CCK‑B receptors on parietal cells, enhancing HCl secretion, which aids protein digestion.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "In the fasting state, the pH of gastric juice is approximately:",
+      "options": [
+        "1–2",
+        "3–4",
+        "5–6",
+        "7–8"
+      ],
+      "answer": 0,
+      "explanation": "Basal secretion of HCl maintains a highly acidic gastric environment with pH around 1 to 2.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "The mucus layer that protects the gastric epithelium is chiefly secreted by:",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "Mucous neck cells",
+        "G cells"
+      ],
+      "answer": 2,
+      "explanation": "Mucous neck cells produce a bicarbonate‑rich mucus that forms a protective barrier against the corrosive acid.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "Use of a proton pump inhibitor will most directly reduce the secretion of which gastric component?",
+      "options": [
+        "Pepsinogen",
+        "Intrinsic factor",
+        "Hydrochloric acid",
+        "Gastric mucus"
+      ],
+      "answer": 2,
+      "explanation": "Proton pump inhibitors block the H⁺/K⁺ ATPase in parietal cells, markedly decreasing hydrochloric acid output.",
+      "topic": "Stomach"
+    },
+    {
+      "question": "Which cell type in the gastric glands is primarily responsible for secreting intrinsic factor along with hydrochloric acid?",
+      "options": [
+        "Parietal cell",
+        "Chief cell",
+        "Mucous neck cell",
+        "Enteroendocrine cell"
+      ],
+      "answer": 0,
+      "explanation": "Parietal cells produce HCl and intrinsic factor, both essential for vitamin B12 absorption.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "The most important physiological stimulus for gastric acid secretion by parietal cells is:",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Somatostatin"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin released from G‑cells binds CCK‑B receptors on parietal cells, markedly increasing HCl secretion.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "Conversion of pepsinogen to active pepsin in the stomach occurs primarily due to:",
+      "options": [
+        "Low pH (hydrochloric acid)",
+        "Trypsin activation",
+        "Bile salts",
+        "Pancreatic lipase"
+      ],
+      "answer": 0,
+      "explanation": "The acidic environment (pH ≈ 1.5–2) provided by HCl denatures pepsinogen, allowing it to autocatalytically generate pepsin.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "Which region of the stomach contains the highest concentration of mucus‑secreting gastric glands?",
+      "options": [
+        "Cardia",
+        "Fundus",
+        "Pyloric antrum",
+        "Body"
+      ],
+      "answer": 2,
+      "explanation": "The pyloric antrum is rich in mucous neck cells that protect the mucosa from the corrosive gastric acid.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "Which hormone most directly inhibits gastric acid secretion from parietal cells?",
+      "options": [
+        "Gastrin",
+        "Histamine",
+        "Somatostatin",
+        "Acetylcholine"
+      ],
+      "answer": 2,
+      "explanation": "Somatostatin binds to receptors on parietal cells and suppresses HCl secretion, providing a negative feedback mechanism.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "Chief cells of the gastric glands secrete which of the following substances?",
+      "options": [
+        "Pepsinogen",
+        "Pancreatic lipase",
+        "Salivary amylase",
+        "Bile salts"
+      ],
+      "answer": 0,
+      "explanation": "Chief cells synthesize and release pepsinogen, the inactive precursor of the proteolytic enzyme pepsin.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "The typical pH of gastric juice in the fundic region of the stomach is approximately:",
+      "options": [
+        "1.5",
+        "3.5",
+        "5.5",
+        "7.0"
+      ],
+      "answer": 0,
+      "explanation": "Parietal cells maintain a highly acidic gastric juice with pH around 1.5–2, essential for protein digestion and pathogen control.",
+      "topic": "Gastric glands"
+    },
+    {
+      "question": "Which of the following is NOT a component of gastric juice?",
+      "options": [
+        "Hydrochloric acid",
+        "Pepsinogen",
+        "Bile salts",
+        "Intrinsic factor"
+      ],
+      "answer": 2,
+      "explanation": "Bile salts are secreted by the liver and stored in the gall bladder; they are not part of gastric juice.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "The primary source of intrinsic factor in the stomach is:",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "G cells",
+        "Enteroendocrine cells"
+      ],
+      "answer": 1,
+      "explanation": "Parietal cells secrete both hydrochloric acid and intrinsic factor, which is essential for vitamin B12 absorption.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "Conversion of pepsinogen to active pepsin in gastric juice requires:",
+      "options": [
+        "Bile salts",
+        "Low pH created by HCl",
+        "High calcium concentration",
+        "Pancreatic lipase"
+      ],
+      "answer": 1,
+      "explanation": "The acidic environment (pH ≈ 1.5–2) provided by HCl induces the autocatalytic conversion of pepsinogen to pepsin.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "The optimal pH range for pepsin activity in gastric juice is:",
+      "options": [
+        "1‑2",
+        "3‑4",
+        "5‑6",
+        "7‑8"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin exhibits maximal catalytic efficiency at a highly acidic pH of about 1.5–2.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "Which hormone most directly stimulates parietal cells to secrete HCl into gastric juice?",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 1,
+      "explanation": "Gastrin released from G‑cells binds to CCK‑B receptors on parietal cells, promoting HCl secretion.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "The mucus layer that protects the gastric epithelium is secreted by:",
+      "options": [
+        "Parietal cells",
+        "Chief cells",
+        "Surface mucous cells",
+        "G cells"
+      ],
+      "answer": 2,
+      "explanation": "Surface mucous cells line the stomach lumen and secrete a bicarbonate‑rich mucus that shields the epithelium from acid.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "A deficiency of which gastric juice component leads to pernicious anemia?",
+      "options": [
+        "Hydrochloric acid",
+        "Pepsin",
+        "Intrinsic factor",
+        "Mucus"
+      ],
+      "answer": 2,
+      "explanation": "Intrinsic factor is required for vitamin B12 absorption; its absence results in pernicious anemia.",
+      "topic": "Gastric juice"
+    },
+    {
+      "question": "Which of the following best describes the primary physiological role of hydrochloric acid in the stomach?",
+      "options": [
+        "Neutralize alkaline chyme from duodenum",
+        "Activate pepsinogen to pepsin",
+        "Stimulate secretion of pancreatic enzymes",
+        "Provide source of calcium ions"
+      ],
+      "answer": 1,
+      "explanation": "HCl lowers gastric pH to ~2, causing the conversion of pepsinogen secreted by chief cells into the active proteolytic enzyme pepsin.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "Parietal cells secrete HCl into the gastric lumen. Which ion transport mechanism is directly responsible for the secretion of H+?",
+      "options": [
+        "Na+/K+ ATPase",
+        "H+/K+ ATPase",
+        "Cl-/HCO3- exchanger",
+        "Na+/H+ antiporter"
+      ],
+      "answer": 1,
+      "explanation": "The H+/K+ ATPase (proton pump) actively transports H+ into the lumen in exchange for K+, and is the final step in gastric acid secretion.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "Gastric acid secretion is stimulated by all of the following except:",
+      "options": [
+        "Gastrin",
+        "Histamine acting on H2 receptors",
+        "Acetylcholine via vagal stimulation",
+        "Secretin released from duodenum"
+      ],
+      "answer": 3,
+      "explanation": "Secretin, released in response to acidic chyme in the duodenum, actually inhibits gastric acid secretion and promotes pancreatic bicarbonate release.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "The pH of gastric juice in a healthy adult fasting state is approximately:",
+      "options": [
+        "1-2",
+        "3-4",
+        "5-6",
+        "7-8"
+      ],
+      "answer": 0,
+      "explanation": "Fasting gastric pH is very acidic, typically between 1 and 2, reflecting the high concentration of HCl.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "Which of the following statements about the protective mechanisms against self‑digestion by HCl is correct?",
+      "options": [
+        "Mucus layer contains bicarbonate that neutralizes acid at epithelial surface",
+        "Parietal cells secrete alkaline mucus directly into lumen",
+        "Pepsinogen binds to HCl to form a protective complex",
+        "Gastric acid is stored in intracellular vesicles until secretion"
+      ],
+      "answer": 0,
+      "explanation": "The gastric mucus contains bicarbonate ions that create a neutral pH microenvironment at the epithelial surface, protecting the mucosa from the highly acidic lumen.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "A patient with hypochlorhydria is most likely to have impaired absorption of which mineral?",
+      "options": [
+        "Iron",
+        "Sodium",
+        "Potassium",
+        "Chloride"
+      ],
+      "answer": 0,
+      "explanation": "Acidic gastric pH reduces ferric (Fe3+) to ferrous (Fe2+) form, facilitating its absorption; low acid impairs iron uptake.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "In the context of gastric ulcer formation, excessive secretion of HCl contributes to mucosal damage primarily because:",
+      "options": [
+        "It directly erodes the mucus layer",
+        "It increases gastric motility",
+        "It stimulates excessive pepsin activation",
+        "It reduces blood flow to the mucosa"
+      ],
+      "answer": 2,
+      "explanation": "Very low pH maximizes pepsin activity; the combination of high acid and active pepsin digests the mucosal proteins, leading to ulceration when protective mechanisms fail.",
+      "topic": "Hydrochloric acid"
+    },
+    {
+      "question": "Which cell type in the gastric glands is primarily responsible for secreting pepsinogen?",
+      "options": [
+        "Chief cells",
+        "Parietal cells",
+        "G cells",
+        "Enteroendocrine cells"
+      ],
+      "answer": 0,
+      "explanation": "Chief cells synthesize and release the inactive zymogen pepsinogen into the gastric lumen.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "The conversion of pepsinogen to active pepsin in the stomach requires which of the following conditions?",
+      "options": [
+        "Low pH (~2)",
+        "High pH (~8)",
+        "Presence of bile salts",
+        "Presence of pancreatic enzymes"
+      ],
+      "answer": 0,
+      "explanation": "The acidic environment (pH ~2) provided by HCl denatures pepsinogen, exposing its active site and allowing it to become pepsin.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "What is the approximate optimal pH range for the catalytic activity of pepsin?",
+      "options": [
+        "1.5–2.5",
+        "3–4",
+        "5–6",
+        "7–8"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin exhibits maximal proteolytic activity in the highly acidic pH range of about 1.5 to 2.5.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "Pepsin functions as which type of proteolytic enzyme?",
+      "options": [
+        "Endopeptidase",
+        "Exopeptidase",
+        "Lipase",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "Pepsin cleaves peptide bonds within the interior of protein chains, classifying it as an endopeptidase.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "Which statement about pepsinogen is FALSE?",
+      "options": [
+        "It is an inactive zymogen",
+        "It is secreted in an acidic environment",
+        "It is activated by HCl",
+        "It is secreted by parietal cells"
+      ],
+      "answer": 3,
+      "explanation": "Pepsinogen is secreted by chief cells, not by parietal cells; parietal cells secrete HCl.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "The autocatalytic activation of pepsinogen in the stomach proceeds as follows:",
+      "options": [
+        "A small amount of pepsin formed from pepsinogen then activates more pepsinogen",
+        "Pepsinogen directly converts to pepsin without any intermediate",
+        "Pepsinogen is activated only by pancreatic enzymes",
+        "Activation requires bile salts"
+      ],
+      "answer": 0,
+      "explanation": "Initial low‑pH activation produces a little pepsin, which then catalyzes the conversion of additional pepsinogen molecules, amplifying the process.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "Which hormone most directly stimulates the secretion of pepsinogen (and thus pepsin) from chief cells?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Somatostatin"
+      ],
+      "answer": 0,
+      "explanation": "Gastrin released by G‑cells enhances pepsinogen secretion from chief cells, augmenting protein digestion.",
+      "topic": "Pepsinogen and pepsin"
+    },
+    {
+      "question": "Which component of gastric mucus neutralizes the hydrogen ions of gastric acid?",
+      "options": [
+        "Bicarbonate ions",
+        "Pepsin",
+        "Hydrochloric acid",
+        "Gastric lipase"
+      ],
+      "answer": 0,
+      "explanation": "Mucus contains bicarbonate (HCO3-) which diffuses to the epithelial surface and raises the pH, protecting the mucosa from the low pH of gastric juice.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "The principal structural macromolecule that gives gastric mucus its gel-like consistency is:",
+      "options": [
+        "Mucin glycoprotein",
+        "Collagen",
+        "Elastin",
+        "Keratin"
+      ],
+      "answer": 0,
+      "explanation": "Mucins are high‑molecular‑weight glycoproteins that polymerize to form a viscous gel, forming the protective mucus layer.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "Which of the following statements about the regulation of gastric mucus secretion is correct?",
+      "options": [
+        "Prostaglandin E2 stimulates mucus secretion",
+        "Acetylcholine inhibits mucus secretion",
+        "Gastrin directly suppresses mucus production",
+        "Secretin markedly enhances mucus secretion"
+      ],
+      "answer": 0,
+      "explanation": "Prostaglandins, especially PGE2, promote mucus and bicarbonate secretion; inhibition of prostaglandin synthesis (e.g., by NSAIDs) reduces mucus protection.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "Non‑steroidal anti‑inflammatory drugs (NSAIDs) predispose to gastric ulceration mainly because they:",
+      "options": [
+        "Inhibit prostaglandin synthesis, reducing mucus and bicarbonate secretion",
+        "Increase gastric HCl secretion",
+        "Directly damage epithelial cells by a toxic effect",
+        "Enhance pepsin activity"
+      ],
+      "answer": 0,
+      "explanation": "NSAIDs block COX enzymes, lowering prostaglandin levels; the resulting fall in mucus and bicarbonate secretion weakens the protective barrier.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "The approximate thickness of the gastric mucus layer covering the stomach epithelium is:",
+      "options": [
+        "0.5 mm",
+        "5 mm",
+        "0.05 mm",
+        "5 µm"
+      ],
+      "answer": 0,
+      "explanation": "The mucus layer is about 0.5 mm (500 µm) thick, providing a substantial physical barrier against the acidic lumen.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "Which description best represents the pH gradient from the gastric lumen to the epithelial surface under normal conditions?",
+      "options": [
+        "pH 1 at lumen, pH 7 at epithelial surface",
+        "pH 1 at lumen, pH 4 at epithelial surface",
+        "pH 4 at lumen, pH 1 at epithelial surface",
+        "Uniform pH 7 throughout the stomach"
+      ],
+      "answer": 1,
+      "explanation": "The lumen is highly acidic (pH ≈ 1), but the mucus‑bicarbonate barrier raises the pH near the epithelial surface to about 4, protecting cells from acid damage.",
+      "topic": "Mucus protection"
+    },
+    {
+      "question": "Which part of the small intestine is primarily responsible for the absorption of vitamin B12 and bile salts?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Cecum"
+      ],
+      "answer": 2,
+      "explanation": "The terminal ileum contains specific receptors for the intrinsic factor‑vitamin B12 complex and for bile salts, making it the main site for their absorption.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "Brush border enzymes that complete the digestion of carbohydrates and proteins are located on which structure of the small intestine?",
+      "options": [
+        "Crypts of Lieberkühn",
+        "Microvilli of enterocytes",
+        "Goblet cells",
+        "Smooth muscle layer"
+      ],
+      "answer": 1,
+      "explanation": "Brush border enzymes such as maltase, sucrase and peptidases are anchored to the microvilli (the apical surface) of enterocytes, increasing the absorptive area.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "Which hormone, released by duodenal S cells in response to acidic chyme, stimulates pancreatic bicarbonate secretion?",
+      "options": [
+        "Cholecystokinin (CCK)",
+        "Gastrin",
+        "Secretin",
+        "Motilin"
+      ],
+      "answer": 2,
+      "explanation": "Secretin is secreted by S cells when the duodenal lumen is acidic; it acts on the pancreas to release bicarbonate-rich juice, neutralising the acid.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "The specialized lymphatic vessels that absorb dietary lipids in the small intestine are called:",
+      "options": [
+        "Central veins",
+        "Lacteals",
+        "Portal veins",
+        "Mesenteric arteries"
+      ],
+      "answer": 1,
+      "explanation": "Lacteals are blind-ended lymphatic capillaries located in the villi; they take up digested fatty acids and monoglycerides as chylomicrons.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "What is the typical pH range in the duodenum after gastric emptying and pancreatic bicarbonate release?",
+      "options": [
+        "Around 2, highly acidic",
+        "Approximately 7‑8, near neutral to slightly alkaline",
+        "Remains neutral (pH ≈ 7) throughout",
+        "Acidic because pancreatic enzymes are active at low pH"
+      ],
+      "answer": 1,
+      "explanation": "Bicarbonate secreted by the pancreas raises the duodenal pH to about 7‑8, providing an optimal environment for pancreatic enzymes.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "The majority of carbohydrate digestion in the small intestine occurs in which segment?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "Carbohydrate‑digesting brush border enzymes are most abundant in the jejunum, where most disaccharides are hydrolysed to monosaccharides.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "After absorption, most nutrients from the small intestine are transported to the liver via which vessel?",
+      "options": [
+        "Hepatic portal vein",
+        "Systemic circulation directly",
+        "Thoracic duct",
+        "Renal vein"
+      ],
+      "answer": 0,
+      "explanation": "Absorbed glucose, amino acids and water‑soluble vitamins enter the hepatic portal circulation and are delivered to the liver for metabolism before entering systemic blood.",
+      "topic": "Small intestine"
+    },
+    {
+      "question": "Which of the following is NOT a function of the duodenum?",
+      "options": [
+        "Neutralization of gastric acid",
+        "Absorption of iron",
+        "Secretion of intrinsic factor",
+        "Initiation of chemical digestion of carbohydrates"
+      ],
+      "answer": 2,
+      "explanation": "Intrinsic factor is secreted by gastric parietal cells, not by the duodenum.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "The hormone that stimulates pancreatic enzyme secretion and gallbladder contraction in response to duodenal chyme is:",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 2,
+      "explanation": "Cholecystokinin (CCK) is released by I cells of the duodenum and stimulates pancreas and gallbladder.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "The primary site of iron absorption in the human small intestine is:",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 0,
+      "explanation": "Iron is most efficiently absorbed in the proximal duodenum and upper jejunum.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "Brunner's glands in the duodenum primarily secrete:",
+      "options": [
+        "Pepsinogen",
+        "Bicarbonate-rich mucus",
+        "Pancreatic amylase",
+        "Enterokinase"
+      ],
+      "answer": 1,
+      "explanation": "Brunner's glands produce alkaline mucus rich in bicarbonate to protect duodenal mucosa from acidic chyme.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "After mixing of gastric chyme with duodenal secretions, the luminal pH is approximately:",
+      "options": [
+        "2.0",
+        "4.5",
+        "6.5",
+        "8.0"
+      ],
+      "answer": 2,
+      "explanation": "Bicarbonate from pancreatic juice and Brunner's glands raises the pH to around 6–7, optimal for pancreatic enzymes.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "The anatomical landmark that marks the transition from duodenum to jejunum is:",
+      "options": [
+        "Ligament of Treitz",
+        "Ileocecal valve",
+        "Pyloric sphincter",
+        "Hepatopancreatic ampulla"
+      ],
+      "answer": 0,
+      "explanation": "The duodenojejunal flexure is suspended by the suspensory (ligament of Treitz) muscle.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "Conversion of trypsinogen to active trypsin in the duodenum is catalyzed by:",
+      "options": [
+        "Enterokinase",
+        "Pepsin",
+        "Lipase",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase (enteropeptidase) on the duodenal brush border activates trypsinogen to trypsin, initiating protein digestion.",
+      "topic": "Duodenum"
+    },
+    {
+      "question": "Which structural feature is most prominent in the jejunum compared to the ileum?",
+      "options": [
+        "Numerous circular folds (plicae circulares)",
+        "Presence of Peyer's patches",
+        "Brunner's glands",
+        "Longer villi"
+      ],
+      "answer": 0,
+      "explanation": "The jejunum exhibits well‑developed, numerous circular folds (plicae circulares) that are less prominent in the ileum.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "The primary site for absorption of monosaccharides, amino acids, and most vitamins in the small intestine is:",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "The jejunum contains a large surface area with villi and microvilli, making it the main region for nutrient absorption.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "Which brush‑border enzyme present on the jejunal epithelium aids in disaccharide digestion?",
+      "options": [
+        "Lactase",
+        "Pepsin",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 0,
+      "explanation": "Lactase, a brush‑border enzyme on jejunal enterocytes, hydrolyses lactose into glucose and galactose.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "The lymphatic vessels in the villi of the jejunum that transport absorbed dietary lipids are called:",
+      "options": [
+        "Lacteals",
+        "Thoracic duct",
+        "Central veins",
+        "Submucosal plexus"
+      ],
+      "answer": 0,
+      "explanation": "Lacteals are specialized lymphatic capillaries within each villus that collect chylomicrons formed from absorbed lipids.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "Blood supply to the jejunum is primarily via branches of which artery?",
+      "options": [
+        "Celiac trunk",
+        "Superior mesenteric artery",
+        "Inferior mesenteric artery",
+        "Renal artery"
+      ],
+      "answer": 1,
+      "explanation": "The superior mesenteric artery gives rise to jejunal branches that form arterial arcades supplying the jejunum.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "Which statement about the pH environment in the jejunum is correct?",
+      "options": [
+        "Highly acidic (pH 2-3)",
+        "Slightly acidic (pH 5-6)",
+        "Slightly alkaline (pH 7-8)",
+        "Strongly alkaline (pH 9-10)"
+      ],
+      "answer": 2,
+      "explanation": "The jejunal lumen has a neutral to slightly alkaline pH (around 7‑8), optimal for brush‑border enzyme activity.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "In untreated celiac disease, which part of the small intestine shows the most marked villous atrophy?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 1,
+      "explanation": "Celiac disease predominantly damages the proximal small intestine, especially the jejunum, leading to villous flattening and malabsorption.",
+      "topic": "Jejunum"
+    },
+    {
+      "question": "The absorption of the vitamin B12–intrinsic factor complex occurs predominantly in which part of the small intestine?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Colon"
+      ],
+      "answer": 2,
+      "explanation": "Ileal enterocytes possess specific receptors for the vitamin B12–intrinsic factor complex, making the ileum the principal site for its absorption.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "The lymphoid aggregates that are most prominent in the ileum are called:",
+      "options": [
+        "Crypts of Lieberkühn",
+        "Peyer's patches",
+        "Brunner's glands",
+        "Meissner's plexus"
+      ],
+      "answer": 1,
+      "explanation": "Peyer's patches are organized lymphoid nodules located in the submucosa of the ileum and play a role in immune surveillance of intestinal contents.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "Active reabsorption of bile salts is most efficient in which segment of the small intestine?",
+      "options": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Rectum"
+      ],
+      "answer": 2,
+      "explanation": "The terminal ileum contains transporters (ASBT) that actively reclaim bile salts from the lumen, preventing their loss in feces.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "Compared with the jejunum, the ileum shows a higher density of which epithelial cell type?",
+      "options": [
+        "Goblet cells",
+        "Paneth cells",
+        "Enteroendocrine cells",
+        "Stem cells"
+      ],
+      "answer": 0,
+      "explanation": "Goblet cells increase in number distally along the small intestine, so the ileum has a greater proportion of mucus‑secreting goblet cells than the jejunum.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "The ileocecal valve prevents the backflow of contents from which organ into the ileum?",
+      "options": [
+        "Stomach",
+        "Colon",
+        "Pancreas",
+        "Gallbladder"
+      ],
+      "answer": 1,
+      "explanation": "The ileocecal valve separates the ileum from the cecum of the large intestine, preventing reflux of colonic material into the small intestine.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "Glucose absorption in the ileum primarily occurs via which transporter?",
+      "options": [
+        "Na⁺/glucose cotransporter (SGLT1)",
+        "Na⁺/K⁺‑ATPase",
+        "Facilitated diffusion via GLUT2",
+        "Na⁺/K⁺/2Cl⁻ cotransporter"
+      ],
+      "answer": 0,
+      "explanation": "SGLT1, located on the apical membrane of ileal enterocytes, couples Na⁺ influx with glucose uptake, enabling active glucose absorption.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "A patient who has undergone extensive ileal resection is most likely to develop an early deficiency of which nutrient?",
+      "options": [
+        "Vitamin D",
+        "Vitamin B12",
+        "Iron",
+        "Vitamin K"
+      ],
+      "answer": 1,
+      "explanation": "The ileum is the exclusive site for absorption of the vitamin B12‑intrinsic factor complex; loss of ileal surface leads to rapid B12 deficiency.",
+      "topic": "Ileum"
+    },
+    {
+      "question": "Which of the following structures is NOT a characteristic feature of the large intestine?",
+      "options": [
+        "Haustra",
+        "Villi",
+        "Teniae coli",
+        "Epiploic appendages"
+      ],
+      "answer": 1,
+      "explanation": "The large intestine lacks villi; it is marked by haustra, teniae coli and epiploic appendages.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "The primary function of the large intestine is:",
+      "options": [
+        "Secretion of digestive enzymes",
+        "Absorption of most nutrients",
+        "Absorption of water and electrolytes",
+        "Production of bile"
+      ],
+      "answer": 2,
+      "explanation": "The large intestine mainly reabsorbs water and electrolytes, concentrating the intestinal contents into feces.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "Which artery primarily supplies the descending colon?",
+      "options": [
+        "Superior mesenteric artery",
+        "Inferior mesenteric artery",
+        "Celiac trunk",
+        "Renal artery"
+      ],
+      "answer": 1,
+      "explanation": "The inferior mesenteric artery provides arterial blood to the descending colon, sigmoid colon and upper rectum.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "The majority of vitamin K is synthesized by:",
+      "options": [
+        "Pancreatic acinar cells",
+        "Enterocytes of the small intestine",
+        "Gut bacteria in the large intestine",
+        "Liver hepatocytes"
+      ],
+      "answer": 2,
+      "explanation": "Anaerobic bacteria resident in the colon synthesize vitamin K, which is then absorbed.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "The teniae coli converge to form which structure at the termination of the large intestine?",
+      "options": [
+        "Cecum",
+        "Sigmoid colon",
+        "Rectum",
+        "Appendix"
+      ],
+      "answer": 2,
+      "explanation": "The three teniae coli spread out and merge to form the continuous longitudinal muscle layer of the rectum.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "Haustral churning in the colon is primarily responsible for:",
+      "options": [
+        "Propelling chyme rapidly towards the rectum",
+        "Mixing contents and facilitating water absorption",
+        "Secreting mucus",
+        "Generating peristaltic waves"
+      ],
+      "answer": 1,
+      "explanation": "Haustral movements mix the colonic contents, allowing efficient water and electrolyte absorption.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "The epithelium of the large intestine differs from that of the small intestine because it:",
+      "options": [
+        "Contains numerous microvilli",
+        "Lacks goblet cells",
+        "Has no villi but possesses crypts of Lieberkühn",
+        "Is stratified squamous"
+      ],
+      "answer": 2,
+      "explanation": "Large‑intestinal epithelium lacks villi but retains crypts of Lieberkühn and abundant goblet cells for mucus secretion.",
+      "topic": "Large intestine"
+    },
+    {
+      "question": "Which artery primarily supplies the upper part of the rectum?",
+      "options": [
+        "Superior rectal artery",
+        "Middle rectal artery",
+        "Inferior rectal artery",
+        "Internal pudendal artery"
+      ],
+      "answer": 0,
+      "explanation": "The superior rectal artery, a continuation of the inferior mesenteric artery, supplies the upper two‑thirds of the rectum.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "The internal anal sphincter is composed of which type of muscle tissue?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Mixed skeletal and smooth muscle"
+      ],
+      "answer": 1,
+      "explanation": "The internal anal sphincter is a thickened ring of involuntary smooth muscle located in the distal anal canal.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Which nerve provides the primary voluntary control over defecation?",
+      "options": [
+        "Pelvic splanchnic nerves",
+        "Inferior hypogastric plexus",
+        "Pudendal nerve",
+        "Vagus nerve"
+      ],
+      "answer": 2,
+      "explanation": "The pudendal nerve (S2‑S4) supplies somatic fibers to the external anal sphincter, allowing conscious regulation of stool passage.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Hemorrhoids that are located above the dentate (pectinate) line are classified as:",
+      "options": [
+        "External hemorrhoids",
+        "Internal hemorrhoids",
+        "Mixed hemorrhoids",
+        "Perianal skin tags"
+      ],
+      "answer": 1,
+      "explanation": "Hemorrhoids above the dentate line are internal; they are covered by columnar epithelium and are usually painless.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Lymph from the upper part of the rectum drains primarily into which group of lymph nodes?",
+      "options": [
+        "Superficial inguinal nodes",
+        "Internal iliac nodes",
+        "Inferior mesenteric nodes",
+        "Sacral nodes"
+      ],
+      "answer": 2,
+      "explanation": "The upper rectum drains to the inferior mesenteric (paraaortic) lymph nodes, following the portal venous system.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Which muscle is responsible for maintaining the anorectal angle?",
+      "options": [
+        "Puborectalis muscle",
+        "Levator ani muscle",
+        "External anal sphincter",
+        "Internal anal sphincter"
+      ],
+      "answer": 0,
+      "explanation": "The puborectalis forms a sling around the rectum, pulling it forward and creating the anorectal angle essential for continence.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Which statement about the rectal ampulla is correct?",
+      "options": [
+        "It is the narrowest part of the large intestine",
+        "It stores feces before defecation",
+        "It is located above the peritoneal reflection",
+        "It lacks mucosal folds"
+      ],
+      "answer": 1,
+      "explanation": "The rectal ampulla is the dilated distal portion of the rectum that acts as a reservoir for feces prior to evacuation.",
+      "topic": "Rectum and anus"
+    },
+    {
+      "question": "Which of the following is NOT a function of the liver?",
+      "options": [
+        "Synthesis of plasma albumin",
+        "Production of bile salts",
+        "Secretion of pancreatic enzymes",
+        "Storage of glycogen"
+      ],
+      "answer": 2,
+      "explanation": "The pancreas secretes pancreatic enzymes; the liver does not.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Bile salts are synthesized from which precursor molecule?",
+      "options": [
+        "Cholesterol",
+        "Triglycerides",
+        "Phospholipids",
+        "Amino acids"
+      ],
+      "answer": 0,
+      "explanation": "Bile salts are amphipathic molecules derived from cholesterol in the hepatocytes.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Conjugation of bilirubin to form bilirubin diglucuronide occurs in which cellular compartment of the hepatocyte?",
+      "options": [
+        "Cytosol",
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "The conjugation reaction is catalyzed by UDP‑glucuronosyltransferase located in the smooth endoplasmic reticulum.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Which hormone primarily stimulates bile secretion from hepatocytes?",
+      "options": [
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Gastrin",
+        "Insulin"
+      ],
+      "answer": 1,
+      "explanation": "CCK released from I cells of the duodenum promotes bile secretion and gallbladder contraction.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Blood from the gastrointestinal tract reaches the systemic circulation after passing through which hepatic structure?",
+      "options": [
+        "Hepatic artery",
+        "Hepatic sinusoids",
+        "Hepatic vein",
+        "Liver capsule"
+      ],
+      "answer": 1,
+      "explanation": "Portal blood flows through hepatic sinusoids where exchange with hepatocytes occurs before draining into the hepatic veins.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Which statement about the composition of bile is correct?",
+      "options": [
+        "Bile contains high concentrations of glucose",
+        "Bile salts are water‑soluble derivatives of cholesterol",
+        "Bile is primarily composed of triglycerides",
+        "Bile contains large amounts of protein enzymes"
+      ],
+      "answer": 1,
+      "explanation": "Bile salts are amphipathic, water‑soluble molecules derived from cholesterol and are essential for lipid emulsification.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Obstructive jaundice typically presents with dark urine and pale stools because:",
+      "options": [
+        "Bilirubin conjugation is decreased",
+        "Uptake of bilirubin by hepatocytes is impaired",
+        "Bile flow into the duodenum is blocked",
+        "Hemolysis is increased"
+      ],
+      "answer": 2,
+      "explanation": "Blockage of bile excretion prevents conjugated bilirubin from reaching the intestine, leading to pale stools, while conjugated bilirubin entering the bloodstream is excreted in urine, causing dark urine.",
+      "topic": "Liver"
+    },
+    {
+      "question": "Which of the following is NOT a component of bile?",
+      "options": [
+        "Bile salts",
+        "Cholesterol",
+        "Pancreatic amylase",
+        "Bilirubin"
+      ],
+      "answer": 2,
+      "explanation": "Bile contains bile salts, cholesterol and bilirubin, but pancreatic amylase is a pancreatic enzyme, not a bile constituent.",
+      "topic": "Bile"
+    },
+    {
+      "question": "The primary role of bile salts in digestion is to:",
+      "options": [
+        "Hydrolyze triglycerides",
+        "Neutralize gastric acid",
+        "Emulsify dietary lipids",
+        "Activate pancreatic enzymes"
+      ],
+      "answer": 2,
+      "explanation": "Bile salts act as detergents that emulsify fats, increasing the surface area for pancreatic lipase to act upon.",
+      "topic": "Bile"
+    },
+    {
+      "question": "Bile is synthesized mainly by which organ?",
+      "options": [
+        "Gallbladder",
+        "Liver",
+        "Pancreas",
+        "Small intestine"
+      ],
+      "answer": 1,
+      "explanation": "Hepatocytes in the liver produce bile, which is then stored in the gallbladder.",
+      "topic": "Bile"
+    },
+    {
+      "question": "During enterohepatic circulation, bile salts are reabsorbed primarily from which part of the intestine?",
+      "options": [
+        "Ileum",
+        "Duodenum",
+        "Jejunum",
+        "Colon"
+      ],
+      "answer": 0,
+      "explanation": "Approximately 95% of bile salts are reabsorbed in the terminal ileum and returned to the liver via the portal vein.",
+      "topic": "Bile"
+    },
+    {
+      "question": "Which statement about the bile pigment bilirubin is correct?",
+      "options": [
+        "It is formed from hemoglobin breakdown",
+        "It is a bile salt",
+        "It is secreted only in conjugated form",
+        "It is a carbohydrate"
+      ],
+      "answer": 0,
+      "explanation": "Bilirubin originates from the catabolism of heme in hemoglobin; it is then conjugated in the liver before secretion.",
+      "topic": "Bile"
+    },
+    {
+      "question": "Contraction of the gallbladder is stimulated by which hormone?",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin (CCK)",
+        "Motilin"
+      ],
+      "answer": 2,
+      "explanation": "CCK released from I cells of the duodenum in response to fats and proteins triggers gallbladder contraction and sphincter of Oddi relaxation.",
+      "topic": "Bile"
+    },
+    {
+      "question": "Obstruction of the common bile duct most likely leads to which change in stool color?",
+      "options": [
+        "Pale (acholic) stool",
+        "Melena",
+        "Black tarry stool",
+        "Normal brown stool"
+      ],
+      "answer": 0,
+      "explanation": "Bile pigments give stool its brown color; blockage prevents bilirubin reaching the intestine, resulting in pale or acholic stools.",
+      "topic": "Bile"
+    },
+    {
+      "question": "The gall bladder is situated in which anatomical position relative to the liver?",
+      "options": [
+        "On the posterior surface of the liver in the gallbladder fossa",
+        "On the anterior surface of the liver in the hepatic fissure",
+        "Within the left lobe of the liver",
+        "Between the duodenum and pancreas"
+      ],
+      "answer": 0,
+      "explanation": "The gall bladder lies on the visceral (posterior) surface of the liver in a shallow depression called the gallbladder fossa.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "Compared to hepatic bile, the bile stored in the gall bladder is:",
+      "options": [
+        "Approximately 5 times more concentrated in salts",
+        "Less concentrated in cholesterol",
+        "Identical in concentration",
+        "More dilute in bilirubin"
+      ],
+      "answer": 0,
+      "explanation": "The gall bladder reabsorbs water and electrolytes, concentrating bile (especially bile salts, cholesterol and bilirubin) several‑fold before storage.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "Which hormone primarily stimulates contraction of the gall bladder leading to bile ejection into the duodenum?",
+      "options": [
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Gastrin",
+        "Motilin"
+      ],
+      "answer": 1,
+      "explanation": "CCK, released by I cells of the duodenum in response to fats and proteins, causes gall bladder contraction and relaxation of the sphincter of Oddi.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "After contraction of the gall bladder, bile enters the duodenum via which sequence of ducts?",
+      "options": [
+        "Cystic duct → common hepatic duct → common bile duct → duodenum",
+        "Common hepatic duct → cystic duct → common bile duct → duodenum",
+        "Cystic duct → common bile duct → ampulla of Vater → duodenum",
+        "Common bile duct → cystic duct → ampulla of Vater → duodenum"
+      ],
+      "answer": 2,
+      "explanation": "Bile flows from the gall bladder through the cystic duct into the common bile duct, then through the ampulla of Vater (hepatopancreatic ampulla) into the duodenum.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "The most common type of gall stone formed in the gall bladder is composed mainly of:",
+      "options": [
+        "Calcium bilirubinate",
+        "Uric acid",
+        "Cholesterol",
+        "Magnesium phosphate"
+      ],
+      "answer": 2,
+      "explanation": "Cholesterol stones are the predominant type, arising from supersaturation of cholesterol in bile and impaired gall bladder motility.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "The epithelium lining the gall bladder is specialized for which function?",
+      "options": [
+        "Secretion of digestive enzymes",
+        "Absorption of water and electrolytes",
+        "Production of bile salts",
+        "Synthesis of cholesterol"
+      ],
+      "answer": 1,
+      "explanation": "Gall bladder mucosal cells actively absorb water and electrolytes, thereby concentrating the stored bile.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "Which structure controls the flow of bile from the common bile duct into the duodenum and prevents reflux of duodenal contents into the biliary tree?",
+      "options": [
+        "Pyloric sphincter",
+        "Ileocecal valve",
+        "Sphincter of Oddi",
+        "Cystic sphincter"
+      ],
+      "answer": 2,
+      "explanation": "The sphincter of Oddi, located at the ampulla of Vater, regulates bile entry into the duodenum and blocks backflow of intestinal contents.",
+      "topic": "Gall bladder"
+    },
+    {
+      "question": "The pancreatic duct joins the common bile duct at the hepatopancreatic ampulla, which opens into the duodenum at which location?",
+      "options": [
+        "Second part of duodenum on its posteromedial wall",
+        "First part of duodenum on its anterior wall",
+        "Third part of duodenum on its lateral wall",
+        "Fourth part of duodenum on its posterior wall"
+      ],
+      "answer": 0,
+      "explanation": "The ampulla of Vater (hepatopancreatic ampulla) empties into the descending (second) part of the duodenum on its posteromedial wall.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Which of the following pancreatic enzymes is secreted as an inactive zymogen?",
+      "options": [
+        "Trypsinogen",
+        "Pancreatic amylase",
+        "Pancreatic lipase",
+        "Carboxypeptidase"
+      ],
+      "answer": 0,
+      "explanation": "Trypsinogen is the inactive precursor of trypsin; it is activated in the duodenum by enteropeptidase.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Which hormone primarily stimulates the secretion of pancreatic digestive enzymes?",
+      "options": [
+        "Secretin",
+        "Gastrin",
+        "Cholecystokinin (CCK)",
+        "Insulin"
+      ],
+      "answer": 2,
+      "explanation": "CCK released from I cells of the duodenum in response to fats and proteins stimulates pancreatic enzyme secretion.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Which of the following is NOT a component of pancreatic juice?",
+      "options": [
+        "Bicarbonate ions",
+        "Hydrochloric acid",
+        "Pancreatic lipase",
+        "Pancreatic amylase"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic juice contains bicarbonate, lipase, amylase, proteases, etc., but no hydrochloric acid; HCl is secreted by gastric glands.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Activation of trypsinogen to trypsin in the duodenum is catalyzed by which enzyme?",
+      "options": [
+        "Enteropeptidase",
+        "Chymotrypsin",
+        "Pepsin",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "Enteropeptidase (enterokinase) on the duodenal brush border cleaves trypsinogen to active trypsin.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "In pancreatic exocrine insufficiency, digestion of which nutrient is most severely impaired?",
+      "options": [
+        "Carbohydrate digestion",
+        "Protein digestion",
+        "Fat digestion",
+        "Nucleic acid digestion"
+      ],
+      "answer": 2,
+      "explanation": "Fat digestion relies heavily on pancreatic lipase; its deficiency markedly reduces lipid absorption.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Which statement correctly compares pancreatic and salivary amylase?",
+      "options": [
+        "Both pancreatic and salivary amylase have optimal activity near neutral pH",
+        "Pancreatic amylase requires Ca2+ for activity, whereas salivary amylase does not",
+        "Salivary amylase is secreted as an inactive zymogen",
+        "Pancreatic amylase is inhibited by gastric HCl"
+      ],
+      "answer": 0,
+      "explanation": "Both enzymes function best at near‑neutral pH (≈6.7–7.5); other statements are inaccurate.",
+      "topic": "Pancreas"
+    },
+    {
+      "question": "Which of the following enzymes is NOT a component of pancreatic juice?",
+      "options": [
+        "Trypsinogen",
+        "Lipase",
+        "Pepsin",
+        "Nuclease"
+      ],
+      "answer": 2,
+      "explanation": "Pepsin is secreted by the gastric chief cells of the stomach, not by the pancreas.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "The primary hormone that stimulates secretion of bicarbonate‑rich pancreatic juice is:",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Somatostatin"
+      ],
+      "answer": 1,
+      "explanation": "Secretin is released by duodenal S cells in response to acidic chyme and promotes bicarbonate secretion from pancreatic ductal cells.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "Activation of trypsinogen to trypsin in the duodenum is catalyzed by:",
+      "options": [
+        "Enterokinase (enteropeptidase)",
+        "Pepsin",
+        "Lipase",
+        "Amylase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase, a brush‑border enzyme of the duodenum, cleaves the activation peptide from trypsinogen to form active trypsin.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "The pH of pancreatic juice as it enters the duodenum is approximately:",
+      "options": [
+        "5.5",
+        "6.8",
+        "7.5",
+        "8.2"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic juice is alkaline, with a typical pH around 7.5–8.0, which helps neutralize gastric acid in the duodenum.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "Which statement correctly describes the role of cholecystokinin (CCK) in pancreatic secretion?",
+      "options": [
+        "CCK stimulates secretion of bicarbonate‑rich fluid",
+        "CCK inhibits pancreatic enzyme release",
+        "CCK stimulates secretion of enzyme‑rich pancreatic juice",
+        "CCK stimulates gastric acid secretion"
+      ],
+      "answer": 2,
+      "explanation": "CCK is released by I cells of the duodenum in response to fats and proteins and promotes the secretion of enzyme‑rich pancreatic juice.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "Which sphincter controls the flow of pancreatic juice into the duodenum?",
+      "options": [
+        "Pyloric sphincter",
+        "Ileocecal sphincter",
+        "Sphincter of Oddi",
+        "Lower esophageal sphincter"
+      ],
+      "answer": 2,
+      "explanation": "The sphincter of Oddi surrounds the ampulla of Vater and regulates the entry of pancreatic juice (and bile) into the duodenum.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "In the absence of pancreatic secretions, which digestive process would be most severely impaired?",
+      "options": [
+        "Starch digestion",
+        "Protein digestion",
+        "Lipid digestion",
+        "Nucleic acid digestion"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic lipase is essential for the hydrolysis of dietary triglycerides; without it, lipid digestion is markedly reduced.",
+      "topic": "Pancreatic juice"
+    },
+    {
+      "question": "Which enzyme present in pancreatic juice is primarily responsible for the digestion of dietary triglycerides?",
+      "options": [
+        "Trypsin",
+        "Lipase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "answer": 1,
+      "explanation": "Pancreatic lipase catalyzes the hydrolysis of triglycerides into monoglycerides and free fatty acids; it is the main lipolytic enzyme in pancreatic secretions.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Salivary amylase exhibits maximal activity at which pH range?",
+      "options": [
+        "pH 2.0",
+        "pH 6.8",
+        "pH 7.4",
+        "pH 8.0"
+      ],
+      "answer": 1,
+      "explanation": "The optimal pH for salivary (ptyalin) amylase is around 6.7‑7.0, matching the near‑neutral environment of the oral cavity.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Which brush‑border enzyme hydrolyzes lactose into its constituent monosaccharides?",
+      "options": [
+        "Pepsin",
+        "Lactase",
+        "Trypsin",
+        "Lipase"
+      ],
+      "answer": 1,
+      "explanation": "Lactase, a membrane‑bound disaccharidase of the small‑intestinal brush border, splits lactose into glucose and galactose.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Conversion of pepsinogen to active pepsin in the stomach requires which of the following conditions?",
+      "options": [
+        "Presence of bile salts",
+        "Low pH (hydrochloric acid)",
+        "High calcium concentration",
+        "Pancreatic enzymes"
+      ],
+      "answer": 1,
+      "explanation": "The acidic environment (pH ≈ 2) created by HCl induces the conformational change of pepsinogen to active pepsin.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Which digestive enzyme is a zinc‑dependent metalloprotease?",
+      "options": [
+        "Trypsin",
+        "Pancreatic amylase",
+        "Carboxypeptidase A",
+        "Lipase"
+      ],
+      "answer": 2,
+      "explanation": "Carboxypeptidase A requires a Zn²⁺ ion at its active site for catalysis, classifying it as a metalloprotease.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Enteropeptidase (enterokinase) in the duodenal mucosa activates which pancreatic zymogen?",
+      "options": [
+        "Chymotrypsinogen",
+        "Trypsinogen",
+        "Proelastase",
+        "Procarboxypeptidase"
+      ],
+      "answer": 1,
+      "explanation": "Enteropeptidase cleaves a specific peptide bond in trypsinogen, converting it to active trypsin, which then activates other pancreatic enzymes.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Which statement correctly describes a characteristic of pancreatic lipase?",
+      "options": [
+        "It requires colipase and bile salts for activity",
+        "It is active at pH 2",
+        "It hydrolyzes proteins",
+        "It is secreted as an active enzyme"
+      ],
+      "answer": 0,
+      "explanation": "Pancreatic lipase needs the co‑factor colipase and the presence of bile salts to anchor to the lipid–water interface and function efficiently.",
+      "topic": "Digestive enzymes"
+    },
+    {
+      "question": "Which of the following statements about bile is correct?",
+      "options": [
+        "Bile contains lipase that digests fats.",
+        "Bile salts are synthesized from cholesterol in the liver.",
+        "Bile is secreted directly into the jejunum.",
+        "Bile neutralizes gastric acid in the stomach."
+      ],
+      "answer": 1,
+      "explanation": "Bile salts are derived from cholesterol in the liver and are the major component responsible for emulsifying dietary fats.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "The primary function of the gallbladder is to:",
+      "options": [
+        "Produce bile",
+        "Store and concentrate bile",
+        "Secrete pancreatic enzymes",
+        "Absorb nutrients"
+      ],
+      "answer": 1,
+      "explanation": "The gallbladder stores bile produced by the liver and concentrates it by absorbing water, releasing it during meals.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "Which hormone stimulates the secretion of pancreatic bicarbonate‑rich fluid?",
+      "options": [
+        "Gastrin",
+        "Secretin",
+        "Cholecystokinin",
+        "Motilin"
+      ],
+      "answer": 1,
+      "explanation": "Secretin is released by duodenal S cells in response to acidic chyme and promotes secretion of bicarbonate‑rich pancreatic juice.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "Enterokinase (enteropeptidase) on the duodenal brush border converts which inactive pancreatic enzyme into its active form?",
+      "options": [
+        "Trypsinogen to trypsin",
+        "Chymotrypsinogen to chymotrypsin",
+        "Procarboxypeptidase to carboxypeptidase",
+        "Pancreatic amylase to maltase"
+      ],
+      "answer": 0,
+      "explanation": "Enterokinase specifically cleaves trypsinogen to active trypsin, which then activates other pancreatic zymogens.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "Which of the following is NOT a function of the liver?",
+      "options": [
+        "Synthesis of plasma albumin",
+        "Production of bile",
+        "Secretion of insulin",
+        "Storage of glycogen"
+      ],
+      "answer": 2,
+      "explanation": "Insulin is secreted by the pancreatic β‑cells, not by the liver.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "Bile salts aid fat digestion primarily by:",
+      "options": [
+        "Hydrolyzing triglycerides",
+        "Emulsifying large fat globules to increase surface area",
+        "Activating pancreatic lipase",
+        "Providing energy for enterocytes"
+      ],
+      "answer": 1,
+      "explanation": "Bile salts reduce surface tension, breaking large fat droplets into smaller emulsified particles, enhancing lipase action.",
+      "topic": "Accessory digestive organs"
+    },
+    {
+      "question": "The pancreatic enzyme that digests carbohydrates is:",
+      "options": [
+        "Trypsin",
+        "Lipase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "answer": 2,
+      "explanation": "Pancreatic amylase hydrolyzes starch and glycogen into maltose and dextrins in the duodenum.",
+      "topic": "Accessory digestive organs"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 29,
+    "mcqCount": 203
+  }
+}

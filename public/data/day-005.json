@@ -1,0 +1,629 @@
+{
+  "day": 5,
+  "courseDate": "2026-09-03",
+  "publishAt": "2026-09-03T06:00:00+05:30",
+  "title": "Day 5 Integrated Revision: Biological Classification, Plant & Animal Kingdoms",
+  "introduction": "This lesson consolidates Days 1‑4, revisiting the taxonomic hierarchy, five‑kingdom system, and key comparative features of plants and animals. Emphasis is on NCERT‑aligned facts, high‑yield differences and rapid‑recall NEET strategies.",
+  "sections": [
+    {
+      "topic": "Classification revision",
+      "heading": "Fundamentals of Biological Classification",
+      "content": "Classification groups organisms into a nested hierarchy from species up to kingdom. The modern system follows the Linnaean ranks: Species < Genus < Family < Order < Class < Phylum < Kingdom. Understanding the species‑to‑kingdom pathway is essential for mapping any organism to its correct taxon and for solving NEET‑style matching questions.",
+      "keyPoints": [
+        "Species is the basic unit; multiple species form a genus",
+        "Each higher rank aggregates lower ranks in a strict hierarchy",
+        "Taxonomic ranks are universal across all kingdoms"
+      ],
+      "neetTips": [
+        "Memorise the rank order using the mnemonic ‘Dear King Philip Came Over For Good Soup’",
+        "Link each rank to a familiar example (e.g., Homo sapiens → Homo → Hominidae…) for quick recall"
+      ]
+    },
+    {
+      "topic": "Taxonomic hierarchy revision",
+      "heading": "Detailed Review of Taxonomic Ranks",
+      "content": "Re‑examine each rank with characteristic criteria: Species – reproductive isolation; Genus – morphological similarity; Family – shared structural traits; Order – broader anatomical patterns; Class – major body plans; Phylum – fundamental organization; Kingdom – cellular organization and nutrition. Relate each rank to the ‘Species to kingdom hierarchy’ subtopic for seamless integration.",
+      "keyPoints": [
+        "Reproductive isolation defines species",
+        "Genus groups species with similar morphology",
+        "Family aggregates genera with common structural features"
+      ],
+      "neetTips": [
+        "Create a table linking rank → defining feature → example organism for rapid visual memory",
+        "Practice converting a species name to its full hierarchy in 30 seconds"
+      ]
+    },
+    {
+      "topic": "Five kingdom classification revision",
+      "heading": "Monera, Protista, Fungi, Plantae, Animalia – Comparative Overview",
+      "content": "Monera (prokaryotes) lack a nucleus; Protista (mostly unicellular eukaryotes) exhibit diverse nutrition; Fungi are eukaryotic heterotrophs with chitin cell walls. Plantae ranges from algae (simple, aquatic) to angiosperms (complex, seed‑bearing). Animalia spans non‑chordates to chordates. This section directly addresses the ‘Monera, Protista and Fungi comparison’ and ‘Algae to angiosperms comparison’ subtopics.",
+      "keyPoints": [
+        "Monera: prokaryotic, cell wall peptidoglycan",
+        "Protista: eukaryotic, varied nutrition (autotrophic, heterotrophic)",
+        "Fungi: eukaryotic, chitin cell wall, absorptive nutrition"
+      ],
+      "neetTips": [
+        "Use a 5‑column matrix (Kingdom vs. Cell type, Nutrition, Habitat, Reproduction, Example) for quick elimination in MCQs",
+        "Remember that algae belong to Plantae in the five‑kingdom model, not Protista"
+      ]
+    },
+    {
+      "topic": "Plant kingdom comparison",
+      "heading": "From Algae to Angiosperms – Structural and Life‑Cycle Trends",
+      "content": "Algae are simple, often haplontic, aquatic photosynthesizers. Bryophytes introduce a dominant gametophyte (haplontic) and lack true vascular tissue. Pteridophytes exhibit a diploid sporophyte with vascular bundles. Gymnosperms and angiosperms possess a dominant diploid sporophyte, seeds, and advanced reproductive structures. This covers ‘Algae to angiosperms comparison’ and ‘Haplontic, diplontic and haplo‑diplontic cycles’.",
+      "keyPoints": [
+        "Algae – haplontic, no true tissues",
+        "Bryophytes – dominant gametophyte, no vascular system",
+        "Angiosperms – enclosed seeds, double fertilisation"
+      ],
+      "neetTips": [
+        "Link each plant group to its characteristic life‑cycle type (haplontic vs. diplontic) for NEET statement‑based questions",
+        "Visualise the progression of complexity in a single diagram to aid rapid recall"
+      ]
+    },
+    {
+      "topic": "Animal kingdom comparison",
+      "heading": "Non‑Chordates vs. Chordates and Vertebrate Classes",
+      "content": "Non‑chordates (e.g., Porifera, Cnidaria, Arthropoda) lack a notochord; chordates possess a notochord, dorsal nerve cord, pharyngeal slits, and post‑anal tail. Vertebrate classes (Agnatha, Chondrichthyes, Osteichthyes, Amphibia, Reptilia, Aves, Mammalia) differ in symmetry (radial vs. bilateral), coelom type (pseudocoelom, true coelom), and tissue organization (diploblastic vs. triploblastic). This addresses ‘Non‑chordates versus chordates’, ‘Vertebrate class comparison’, ‘Symmetry comparison’, ‘Coelom comparison’, and ‘Diploblastic versus triploblastic organisation’.",
+      "keyPoints": [
+        "Chordates have a notochord and dorsal nerve cord",
+        "Vertebrates are triploblastic with true coelom",
+        "Symmetry: most animals bilateral; cnidarians radial"
+      ],
+      "neetTips": [
+        "Create a 3‑column chart: Non‑chordates | Chordates | Vertebrate classes – fill key traits for quick elimination",
+        "Remember that diploblastic organisms (e.g., Cnidaria) lack mesoderm, a frequent NEET distractor"
+      ]
+    },
+    {
+      "topic": "Life-cycle comparison",
+      "heading": "Haploid, Diploid and Alternation of Generations",
+      "content": "Haploid (haplontic) life cycles dominate in many algae and fungi where the gametophyte is the main phase. Diploid (diplontic) cycles are typical of most animals and higher plants where the sporophyte is dominant. Haplo‑diplontic cycles (alternation of generations) occur in bryophytes and pteridophytes, featuring both prominent gametophyte and sporophyte stages. This directly covers the ‘Haplontic, diplontic and haplo‑diplontic cycles’ subtopic.",
+      "keyPoints": [
+        "Haplon­tic: meiosis precedes fertilisation (e.g., many algae)",
+        "Diplontic: mitosis follows fertilisation; diploid dominates (e.g., mammals)",
+        "Haplo‑diplontic: both phases are multicellular (e.g., ferns)"
+      ],
+      "neetTips": [
+        "Associate each kingdom with its predominant cycle: Algae‑haplontic, Animals‑diplontic, Ferns‑haplo‑diplontic"
+      ]
+    },
+    {
+      "topic": "NCERT examples",
+      "heading": "Frequently Confused Illustrations from the Textbook",
+      "content": "NCERT often cites examples that are mis‑interpreted: *Euglena* (protist with chloroplasts), *Chlamydomonas* (green alga vs. *Chlamydia* bacteria), *Mosses* (bryophytes with dominant gametophyte), *Sponges* (poriferans lacking true tissues). Clarifying these prevents common errors in NEET conceptual questions.",
+      "keyPoints": [
+        "Euglena – protist, photosynthetic but not a plant",
+        "Mosses – gametophyte dominant, no vascular tissue",
+        "Sponges – lack true tissues and organs"
+      ],
+      "neetTips": [
+        "Create flashcards pairing the organism with its correct kingdom and key trait"
+      ]
+    },
+    {
+      "topic": "High-yield differences",
+      "heading": "Key Contrasts for Rapid Recall",
+      "content": "Focus on high‑yield distinctions: Monera vs. Protista (prokaryote vs. eukaryote), Fungi vs. Plantae (chitin cell wall vs. cellulose, heterotrophic vs. autotrophic), Non‑chordates vs. Chordates (absence/presence of notochord), Diploblastic vs. Triploblastic (two vs. three germ layers), Coelom types (pseudocoelom vs. true coelom). These are the ‘High‑yield differences’ NEET prioritised items.",
+      "keyPoints": [
+        "Monera: prokaryotic; Protista: eukaryotic"
+      ],
+      "neetTips": [
+        "Use contrast tables; each row a pair of kingdoms or groups with 2‑3 distinguishing features"
+      ]
+    },
+    {
+      "topic": "NEET conceptual practice",
+      "heading": "Statement‑Based and Assertion‑Reason Questions",
+      "content": "Practice statements such as “All fungi are heterotrophic” (true) and reasons like “Fungi possess chitin in their cell walls” (true and correct). Assertion‑reason format: assert a fact about classification and provide a logical reason; evaluate both for correctness. This covers ‘Statement‑based NEET questions’ and ‘Assertion‑style conceptual practice’.",
+      "keyPoints": [
+        "Identify if the reason directly explains the assertion"
+      ],
+      "neetTips": [
+        "When faced with assertion‑reason, first verify each statement independently before linking them"
+      ]
+    },
+    {
+      "topic": "Mixed MCQ practice",
+      "heading": "Integrated MCQs from Days 1‑4",
+      "content": "A set of mixed multiple‑choice questions combines taxonomy, kingdom characteristics, life‑cycle types, and comparative anatomy. Includes pattern‑recognition items that revisit previously solved concepts, fulfilling the ‘Previous‑concept pattern practice’ subtopic.",
+      "keyPoints": [
+        "Mix concepts from different days to test integration"
+      ],
+      "neetTips": [
+        "Attempt mixed MCQs under timed conditions to build speed and reinforce inter‑topic connections"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Integrate the first four days of biological classification and confidently distinguish organisms, groups, examples, and defining characteristics in NEET-style questions."
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following correctly orders the taxonomic ranks from highest to lowest inclusive of the rank that directly precedes 'family'?",
+      "options": [
+        "Domain > Kingdom > Phylum > Class > Order > Family > Genus > Species",
+        "Kingdom > Phylum > Class > Order > Family > Genus > Species > Domain",
+        "Domain > Kingdom > Phylum > Class > Family > Order > Genus > Species",
+        "Kingdom > Phylum > Class > Family > Order > Genus > Species"
+      ],
+      "answer": 0,
+      "explanation": "The accepted hierarchy is Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species; the rank immediately above Family is Order.",
+      "topic": "Classification revision"
+    },
+    {
+      "question": "Which pair correctly matches a representative organism with its kingdom based on the NCERT classification?",
+      "options": [
+        "Euglena – Protista",
+        "Penicillium – Plantae",
+        "Spirulina – Animalia",
+        "Chlamydomonas – Fungi"
+      ],
+      "answer": 0,
+      "explanation": "Euglena is a unicellular photosynthetic protist placed in the kingdom Protista. Penicillium is a fungus, Spirulina is a cyanobacterium (Monera), and Chlamydomonas is a green alga (Protista).",
+      "topic": "Classification revision"
+    },
+    {
+      "question": "In the five‑kingdom system, which characteristic distinguishes the kingdom Fungi from the kingdom Plantae?",
+      "options": [
+        "Fungi possess chlorophyll and perform photosynthesis",
+        "Fungi have cell walls composed of chitin",
+        "Fungi store carbohydrates as starch",
+        "Fungi have a diploid dominant life cycle"
+      ],
+      "answer": 1,
+      "explanation": "Fungal cell walls are made of chitin, whereas plant cell walls are primarily cellulose. The other statements describe plant traits or are incorrect for fungi.",
+      "topic": "Classification revision"
+    },
+    {
+      "question": "Which statement correctly describes the life‑cycle type of most angiosperms compared to most fungi?",
+      "options": [
+        "Angiosperms are haplontic while fungi are diplontic",
+        "Angiosperms exhibit a haplo‑diplontic cycle whereas fungi are predominantly haplontic",
+        "Both angiosperms and fungi have a diplontic dominant phase",
+        "Both have a haplo‑diplontic cycle with equal phases"
+      ],
+      "answer": 1,
+      "explanation": "Angiosperms show a haplo‑diplontic (alternation of generations) cycle with a diploid sporophyte dominant. Most fungi have a haplontic cycle where the haploid phase is dominant.",
+      "topic": "Classification revision"
+    },
+    {
+      "question": "Which of the following sequences correctly represents the taxonomic ranks from the most inclusive to the least inclusive in the modern classification system?",
+      "options": [
+        "Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species, Domain",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species, Domain",
+        "Domain, Kingdom, Class, Phylum, Order, Family, Genus, Species"
+      ],
+      "answer": 0,
+      "explanation": "The hierarchy proceeds as Domain > Kingdom > Phylum > Class > Order > Family > Genus > Species, reflecting decreasing inclusiveness.",
+      "topic": "Taxonomic hierarchy revision"
+    },
+    {
+      "question": "In the taxonomic hierarchy of animals, which rank is immediately higher than 'Family'?",
+      "options": [
+        "Order",
+        "Class",
+        "Genus",
+        "Phylum"
+      ],
+      "answer": 0,
+      "explanation": "The rank directly above Family is Order; the sequence is Order > Family > Genus > Species.",
+      "topic": "Taxonomic hierarchy revision"
+    },
+    {
+      "question": "The scientific name *Rana temporaria* follows the binomial nomenclature. Which pair correctly identifies its genus and species?",
+      "options": [
+        "Genus Rana, Species temporaria",
+        "Family Rana, Species temporaria",
+        "Order Rana, Species temporaria",
+        "Class Rana, Species temporaria"
+      ],
+      "answer": 0,
+      "explanation": "In binomial nomenclature, the first term denotes the genus (Rana) and the second denotes the specific epithet (temporaria), together forming the species name.",
+      "topic": "Taxonomic hierarchy revision"
+    },
+    {
+      "question": "According to the five‑kingdom classification, the kingdom Fungi belongs to which domain?",
+      "options": [
+        "Domain Eukarya",
+        "Domain Bacteria",
+        "Domain Archaea",
+        "Domain Prokaryota"
+      ],
+      "answer": 0,
+      "explanation": "Fungi are eukaryotic organisms, thus they are placed under the domain Eukarya, which also includes plants, animals and protists.",
+      "topic": "Taxonomic hierarchy revision"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes the kingdom Fungi from the kingdom Plantae?",
+      "options": [
+        "Fungi have cell walls made of cellulose, while plants have cell walls made of chitin.",
+        "Fungi are autotrophic, while plants are heterotrophic.",
+        "Fungi obtain nutrients by absorption, whereas plants synthesize their own food via photosynthesis.",
+        "Fungi possess chloroplasts, whereas plants lack them."
+      ],
+      "answer": 2,
+      "explanation": "Fungi are heterotrophic absorbers lacking chloroplasts, while plants are autotrophic and perform photosynthesis; this is the key difference.",
+      "topic": "Five kingdom classification revision"
+    },
+    {
+      "question": "In the five‑kingdom system, the organism Euglena gracilis is placed in which kingdom and why?",
+      "options": [
+        "Monera – because it lacks a true nucleus.",
+        "Protista – because it is a unicellular eukaryote with both animal‑like and plant‑like characteristics.",
+        "Fungi – because it absorbs nutrients from its surroundings.",
+        "Plantae – because it contains chlorophyll and performs photosynthesis."
+      ],
+      "answer": 1,
+      "explanation": "Euglena is a unicellular eukaryote with a nucleus, chloroplasts, and flagella, fitting the definition of Protista.",
+      "topic": "Five kingdom classification revision"
+    },
+    {
+      "question": "Which characteristic is common to all members of the kingdom Animalia but absent in the kingdom Protista?",
+      "options": [
+        "Presence of a cell wall.",
+        "Multicellularity with specialized tissues.",
+        "Ability to perform photosynthesis.",
+        "Presence of chloroplasts."
+      ],
+      "answer": 1,
+      "explanation": "All animals are multicellular with differentiated tissues, whereas protists are primarily unicellular and lack such organization.",
+      "topic": "Five kingdom classification revision"
+    },
+    {
+      "question": "The life cycle of which kingdom is predominantly haplontic?",
+      "options": [
+        "Monera",
+        "Protista",
+        "Fungi",
+        "Plantae"
+      ],
+      "answer": 1,
+      "explanation": "Many protists, especially certain algae, exhibit a haplontic life cycle where the haploid phase dominates and the zygote undergoes immediate meiosis.",
+      "topic": "Five kingdom classification revision"
+    },
+    {
+      "question": "Which group of plants possesses vascular tissue with tracheids but lacks true leaves and seeds?",
+      "options": [
+        "Algae",
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms"
+      ],
+      "answer": 2,
+      "explanation": "Pteridophytes (ferns and their allies) have well-developed xylem with tracheids, making them vascular, but they do not produce true leaves (megaphylls) or seeds; they reproduce via spores.",
+      "topic": "Plant kingdom comparison"
+    },
+    {
+      "question": "In which plant division is the gametophyte the dominant, photosynthetic generation, while the sporophyte remains nutritionally dependent?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "answer": 0,
+      "explanation": "Bryophytes (mosses, liverworts, hornworts) have a dominant haploid gametophyte that carries out photosynthesis, whereas the diploid sporophyte is small and depends on the gametophyte for nutrition.",
+      "topic": "Plant kingdom comparison"
+    },
+    {
+      "question": "Which statement correctly distinguishes gymnosperms from angiosperms?",
+      "options": [
+        "Gymnosperms produce flowers for reproduction",
+        "Angiosperms bear naked seeds on the surface of cones",
+        "Gymnosperms bear seeds enclosed within fruits",
+        "Gymnosperms bear seeds in cones, whereas angiosperms bear seeds within fruits"
+      ],
+      "answer": 3,
+      "explanation": "Gymnosperms (e.g., conifers) produce seeds that are exposed on the surface of cone scales, while angiosperms enclose their seeds inside fruits derived from ovaries.",
+      "topic": "Plant kingdom comparison"
+    },
+    {
+      "question": "Which plant group exhibits double fertilization resulting in the formation of a triploid endosperm?",
+      "options": [
+        "Algae",
+        "Bryophytes",
+        "Gymnosperms",
+        "Angiosperms"
+      ],
+      "answer": 3,
+      "explanation": "Double fertilization is a unique feature of angiosperms: one sperm fuses with the egg to form the diploid zygote, and the other fuses with two polar nuclei to form the triploid endosperm, which nourishes the developing embryo.",
+      "topic": "Plant kingdom comparison"
+    },
+    {
+      "question": "Which of the following correctly pairs a non‑chordate phylum with its characteristic type of symmetry and coelom status?",
+      "options": [
+        "Echinodermata – radial symmetry – true coelom",
+        "Arthropoda – bilateral symmetry – pseudocoelom",
+        "Nematoda – bilateral symmetry – true coelom",
+        "Platyhelminthes – bilateral symmetry – acoelom"
+      ],
+      "answer": 0,
+      "explanation": "Echinodermata (e.g., starfish) exhibit radial symmetry as adults and possess a true coelom. Arthropods are bilateral and have a true coelom; Nematodes have a pseudocoelom; Platyhelminths are acoelom.",
+      "topic": "Animal kingdom comparison"
+    },
+    {
+      "question": "In the animal kingdom, which statement best distinguishes chordates from non‑chordates?",
+      "options": [
+        "Chordates possess a notochord at some stage, whereas non‑chordates never develop a notochord.",
+        "Chordates are exclusively vertebrates, while non‑chordates are all invertebrates.",
+        "Chordates have a true coelom, whereas non‑chordates lack a coelom.",
+        "Chordates exhibit radial symmetry, unlike the bilateral symmetry of non‑chordates."
+      ],
+      "answer": 0,
+      "explanation": "The defining feature of chordates is the presence of a notochord at some life stage. Non‑chordates never develop a notochord. Not all chordates are vertebrates (e.g., lancelets). Both groups have true coeloms, and chordates are bilaterally symmetric.",
+      "topic": "Animal kingdom comparison"
+    },
+    {
+      "question": "Which pair of vertebrate classes is correctly matched with their typical mode of reproduction?",
+      "options": [
+        "Aves – oviparous with hard-shelled eggs; Amphibia – viviparous",
+        "Reptilia – ovoviviparous in most species; Mammalia – oviparous",
+        "Mammalia – viviparous with placental nourishment; Amphibia – oviparous with aquatic larvae",
+        "Aves – viviparous; Reptilia – oviparous with leathery eggs"
+      ],
+      "answer": 2,
+      "explanation": "Mammals are predominantly viviparous with a placenta, while most amphibians lay eggs that develop into aquatic larvae. Birds (Aves) are oviparous with hard shells; reptiles are mainly oviparous, though some are ovoviviparous.",
+      "topic": "Animal kingdom comparison"
+    },
+    {
+      "question": "Considering the organization of body cavities, which statement accurately compares the coelomic condition of annelids and arthropods?",
+      "options": [
+        "Both have a true coelom formed by the splitting of the mesoderm.",
+        "Annelids have a true coelom, whereas arthropods possess a reduced coelom called a hemocoel.",
+        "Annelids lack a coelom, while arthropods have a true coelom.",
+        "Both groups have a pseudocoelom derived from the blastocoel."
+      ],
+      "answer": 1,
+      "explanation": "Annelids (e.g., earthworms) have a true coelom. Arthropods have a reduced coelom that functions as a hemocoel (open circulatory cavity), not a true coelom.",
+      "topic": "Animal kingdom comparison"
+    },
+    {
+      "question": "Which of the following groups predominantly exhibits a haplontic life cycle, where the organism exists mainly as a haploid cell and the diploid phase is limited to the zygote?",
+      "options": [
+        "Fungi",
+        "Algae",
+        "Mosses",
+        "Mammals"
+      ],
+      "answer": 0,
+      "explanation": "Most fungi have a haplontic life cycle; the vegetative stage is haploid and the diploid zygote undergoes meiosis directly to produce haploid spores.",
+      "topic": "Life-cycle comparison"
+    },
+    {
+      "question": "In which of the following organisms is the diploid sporophyte the dominant, long‑lived phase of the life cycle?",
+      "options": [
+        "Ferns",
+        "Mosses",
+        "Chlamydomonas (a green alga)",
+        "Fungi"
+      ],
+      "answer": 0,
+      "explanation": "Ferns display a dominant diploid sporophyte; the haploid gametophyte is small, short‑lived, and nutritionally dependent on the sporophyte.",
+      "topic": "Life-cycle comparison"
+    },
+    {
+      "question": "Which statement correctly describes the life cycle of a typical angiosperm?",
+      "options": [
+        "The gametophyte is multicellular and long‑lived",
+        "The sporophyte is diploid and the dominant phase",
+        "Alternation of generations is absent in angiosperms",
+        "The haploid phase is diploid in angiosperms"
+      ],
+      "answer": 1,
+      "explanation": "Angiosperms have a diploid sporophyte that is the conspicuous plant; the gametophyte is reduced to a few cells within the flower structures.",
+      "topic": "Life-cycle comparison"
+    },
+    {
+      "question": "Which organism best exemplifies a haplo‑diplontic life cycle, where both multicellular haploid and diploid phases are prominent?",
+      "options": [
+        "Human",
+        "Fern",
+        "Chlamydomonas (a green alga)",
+        "Moss"
+      ],
+      "answer": 2,
+      "explanation": "Chlamydomonas shows a haplo‑diplontic cycle: it has a multicellular haploid vegetative stage and a multicellular diploid zygote that undergoes meiosis to produce haploid cells.",
+      "topic": "Life-cycle comparison"
+    },
+    {
+      "question": "Which of the following is cited in NCERT as a typical example of a unicellular green alga?",
+      "options": [
+        "Chlamydomonas",
+        "Spirogyra",
+        "Ulva",
+        "Volvox"
+      ],
+      "answer": 0,
+      "explanation": "NCERT lists Chlamydomonas as a representative unicellular green alga, illustrating simple photosynthetic protists.",
+      "topic": "NCERT examples"
+    },
+    {
+      "question": "According to NCERT, which organism is given as an example of a non‑vascular plant?",
+      "options": [
+        "Marchantia",
+        "Selaginella",
+        "Pteridium",
+        "Pinus"
+      ],
+      "answer": 0,
+      "explanation": "Marchantia, a liverwort, is used in NCERT to exemplify non‑vascular (bryophyte) plants lacking true vascular tissue.",
+      "topic": "NCERT examples"
+    },
+    {
+      "question": "NCERT uses which of the following as an example of a frog belonging to class Amphibia?",
+      "options": [
+        "Bufo marinus",
+        "Rana temporaria",
+        "Salamandra",
+        "Xenopus laevis"
+      ],
+      "answer": 1,
+      "explanation": "Rana temporaria (common frog) is the amphibian example in NCERT, representing the class Amphibia within the chordates.",
+      "topic": "NCERT examples"
+    },
+    {
+      "question": "Which group is presented in NCERT as an example of a diploblastic animal?",
+      "options": [
+        "Annelida",
+        "Cnidaria",
+        "Mollusca",
+        "Arthropoda"
+      ],
+      "answer": 1,
+      "explanation": "NCERT cites Cnidaria (e.g., jellyfish) as a classic diploblastic phylum, possessing only ectoderm and endoderm layers.",
+      "topic": "NCERT examples"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes prokaryotes from eukaryotes?",
+      "options": [
+        "Prokaryotes possess a true nucleus",
+        "Eukaryotes lack membrane-bound organelles",
+        "Prokaryotes have linear chromosomes",
+        "Eukaryotes have membrane-bound organelles"
+      ],
+      "answer": 3,
+      "explanation": "Eukaryotic cells are characterized by the presence of membrane-bound organelles such as nucleus, mitochondria, and endoplasmic reticulum, which are absent in prokaryotes.",
+      "topic": "High-yield differences"
+    },
+    {
+      "question": "Which characteristic best differentiates members of the kingdom Monera from those of the kingdom Protista?",
+      "options": [
+        "Presence of chloroplasts",
+        "Cell wall composed of peptidoglycan",
+        "Multicellularity",
+        "Presence of mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "Monera (Bacteria) have cell walls made of peptidoglycan, whereas Protista lack this feature and may have cellulose or no cell wall.",
+      "topic": "High-yield differences"
+    },
+    {
+      "question": "In terms of germ layer organization, which statement correctly contrasts diploblastic and triploblastic animals?",
+      "options": [
+        "Diploblastic animals possess ectoderm, mesoderm, and endoderm",
+        "Triploblastic animals lack a mesoderm",
+        "Diploblastic animals have only ectoderm and endoderm",
+        "Triploblastic animals have only ectoderm and endoderm"
+      ],
+      "answer": 2,
+      "explanation": "Diploblastic organisms (e.g., cnidarians) develop from two primary germ layers—ectoderm and endoderm—while triploblastic organisms have a third germ layer, the mesoderm.",
+      "topic": "High-yield differences"
+    },
+    {
+      "question": "Which of the following correctly describes the dominant phase in a haplontic life cycle?",
+      "options": [
+        "Diploid sporophyte",
+        "Haploid gametophyte",
+        "Diploid gametophyte",
+        "Haploid sporophyte"
+      ],
+      "answer": 1,
+      "explanation": "In a haplontic life cycle, the multicellular phase is haploid (gametophyte); the diploid stage is short and exists only as the zygote.",
+      "topic": "High-yield differences"
+    },
+    {
+      "question": "Which statement correctly distinguishes Monera from Protista?",
+      "options": [
+        "Monera are eukaryotic and possess membrane-bound organelles; Protista are prokaryotic and lack a nucleus.",
+        "Monera are unicellular prokaryotes with cell walls containing peptidoglycan; Protista are mostly unicellular eukaryotes with diverse nutrition.",
+        "Monera reproduce exclusively by binary fission; Protista reproduce only by sexual reproduction.",
+        "Monera have chloroplasts for photosynthesis; Protista never have chloroplasts."
+      ],
+      "answer": 1,
+      "explanation": "Monera are prokaryotes with peptidoglycan cell walls, whereas Protista are eukaryotes that exhibit varied nutritional modes such as autotrophy, heterotrophy, and mixotrophy.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "In a haplo‑diplontic life cycle, which phase is typically dominant in the multicellular organism?",
+      "options": [
+        "Haploid gametophyte",
+        "Diploid sporophyte",
+        "Both haploid and diploid phases are equally dominant",
+        "Neither; the organism remains unicellular throughout"
+      ],
+      "answer": 1,
+      "explanation": "A haplo‑diplontic cycle has both haploid and diploid multicellular stages, but the diploid sporophyte is usually the larger, more conspicuous phase.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which animal phylum is characterized by being acoelomate?",
+      "options": [
+        "Annelida",
+        "Mollusca",
+        "Nematoda",
+        "Platyhelminthes"
+      ],
+      "answer": 3,
+      "explanation": "Platyhelminthes (flatworms) lack a true coelom, making them acoelomates, unlike annelids (segmented coelomates), molluscs (coelomates), and nematodes (pseudocoelomates).",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which of the following plant groupings is incorrectly matched?",
+      "options": [
+        "Moss – Bryophyta",
+        "Fern – Pteridophyta",
+        "Pine – Gymnospermae",
+        "Algae – Angiospermae"
+      ],
+      "answer": 3,
+      "explanation": "Algae belong to various groups (e.g., Chlorophyta, Rhodophyta) and are not angiosperms; angiosperms are flowering plants, a distinct higher plant group.",
+      "topic": "NEET conceptual practice"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes fungi from plants?",
+      "options": [
+        "Fungi have chlorophyll and perform photosynthesis.",
+        "Fungi possess cell walls made of cellulose.",
+        "Fungi are heterotrophic and have cell walls of chitin.",
+        "Fungi reproduce only by seeds."
+      ],
+      "answer": 2,
+      "explanation": "Fungi are heterotrophic and their cell walls are composed of chitin, unlike plants which are autotrophic and have cellulose cell walls.",
+      "topic": "Mixed MCQ practice"
+    },
+    {
+      "question": "In the taxonomic hierarchy, which rank directly follows 'order'?",
+      "options": [
+        "Family",
+        "Class",
+        "Genus",
+        "Phylum"
+      ],
+      "answer": 0,
+      "explanation": "The sequence is: Class → Order → Family → Genus → Species; thus Family comes immediately after Order.",
+      "topic": "Mixed MCQ practice"
+    },
+    {
+      "question": "Which group of organisms exhibits a haplontic life cycle?",
+      "options": [
+        "Most ferns",
+        "Most mosses",
+        "Most algae",
+        "Most mammals"
+      ],
+      "answer": 1,
+      "explanation": "Mosses (bryophytes) have a dominant haploid (gametophytic) generation, making their life cycle haplontic.",
+      "topic": "Mixed MCQ practice"
+    },
+    {
+      "question": "Which animal phylum is characterized by a segmented body, a true coelom, and a complete digestive tract but lacks a vertebral column?",
+      "options": [
+        "Chordata",
+        "Arthropoda",
+        "Annelida",
+        "Echinodermata"
+      ],
+      "answer": 2,
+      "explanation": "Annelida (segmented worms) possess a true coelom and a complete gut, and they are non‑vertebrate invertebrates.",
+      "topic": "Mixed MCQ practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "3-5 MCQs per exact syllabus topic",
+    "topicCount": 10,
+    "mcqCount": 40
+  }
+}

@@ -1,0 +1,2498 @@
+{
+  "day": 39,
+  "courseDate": "2026-10-07",
+  "publishAt": "2026-10-07T06:00:00+05:30",
+  "title": "Cell Organelles — Mitochondria, Plastids, Ribosomes and Cytoskeleton",
+  "introduction": "This lesson explores the structure, composition and functional significance of mitochondria, plastids, ribosomes and the cytoskeleton, emphasizing NEET‑focused concepts such as organelle autonomy, ATP synthesis, plastid diversity and cytoskeletal dynamics.",
+  "sections": [
+    {
+      "topic": "Mitochondria",
+      "heading": "Mitochondria – Powerhouse of the Cell",
+      "content": "Mitochondria are double‑membrane bound organelles responsible for oxidative phosphorylation and ATP generation. They are semi‑autonomous, containing their own circular DNA and ribosomes, enabling limited protein synthesis independent of the nucleus.",
+      "keyPoints": [
+        "Double membrane organelle; site of aerobic respiration",
+        "Semi‑autonomous with mtDNA and 70S ribosomes"
+      ],
+      "neetTips": [
+        "Remember mitochondria produce ATP via chemiosmosis – a high‑yield NEET fact."
+      ]
+    },
+    {
+      "topic": "Structure of mitochondrion",
+      "heading": "Overall Architecture of Mitochondrion",
+      "content": "The organelle consists of an outer membrane, an inner membrane that folds into cristae, a mitochondrial matrix enclosed by the inner membrane, and intermembrane space between the two membranes.",
+      "keyPoints": [
+        "Outer membrane smooth; inner membrane highly invaginated",
+        "Matrix contains enzymes of TCA cycle"
+      ],
+      "neetTips": [
+        "Visualise the layers: outer → intermembrane space → inner → cristae → matrix."
+      ]
+    },
+    {
+      "topic": "Outer and inner mitochondrial membranes",
+      "heading": "Membrane Specifics",
+      "content": "The outer membrane contains porins allowing diffusion of small molecules, while the inner membrane is impermeable, enriched with cardiolipin, and houses electron transport chain complexes and ATP synthase.",
+      "keyPoints": [
+        "Outer membrane porous; inner membrane selective"
+      ],
+      "neetTips": [
+        "Cardiolipin is unique to inner membrane – important for ETC stability."
+      ]
+    },
+    {
+      "topic": "Cristae",
+      "heading": "Cristae – Surface Amplification",
+      "content": "Cristae are the inward folds of the inner membrane that dramatically increase surface area, providing a platform for electron transport chain complexes and ATP synthase complexes.",
+      "keyPoints": [
+        "Increase inner membrane surface area",
+        "Site of oxidative phosphorylation"
+      ],
+      "neetTips": [
+        "More cristae → higher ATP output – a common NEET question."
+      ]
+    },
+    {
+      "topic": "Mitochondrial matrix",
+      "heading": "Matrix – Metabolic Hub",
+      "content": "The matrix houses the enzymes of the citric acid cycle, mitochondrial DNA, ribosomes, and a high concentration of NAD⁺, FAD, and co‑enzymes required for oxidative metabolism.",
+      "keyPoints": [
+        "Contains TCA cycle enzymes",
+        "Houses mtDNA and 70S ribosomes"
+      ],
+      "neetTips": [
+        "Matrix is the site of NADH production for the ETC."
+      ]
+    },
+    {
+      "topic": "Mitochondrial DNA",
+      "heading": "Mitochondrial Genome",
+      "content": "Mitochondrial DNA is a small circular double‑stranded molecule (~16.5 kb) encoding 13 proteins of the oxidative phosphorylation system, 22 tRNAs and 2 rRNAs, reflecting its bacterial ancestry.",
+      "keyPoints": [
+        "Circular, ~16.5 kb, encodes 13 proteins"
+      ],
+      "neetTips": [
+        "mtDNA is maternally inherited – a frequent NEET fact."
+      ]
+    },
+    {
+      "topic": "Mitochondrial ribosomes",
+      "heading": "Mitochondrial Ribosomes – 70S Type",
+      "content": "Mitochondrial ribosomes resemble bacterial 70S ribosomes, consisting of a 28S small subunit and a 39S large subunit, and translate the organelle’s own mRNAs.",
+      "keyPoints": [
+        "70S ribosomes; 28S + 39S subunits"
+      ],
+      "neetTips": [
+        "Distinguish 70S (mitochondrial) from 80S (cytoplasmic) ribosomes."
+      ]
+    },
+    {
+      "topic": "ATP production",
+      "heading": "Oxidative Phosphorylation and ATP Synthesis",
+      "content": "Electrons from NADH and FADH₂ travel through complexes I‑IV of the inner membrane, creating a proton gradient that drives ATP synthase (Complex V) to phosphorylate ADP to ATP (≈30‑32 ATP per glucose).",
+      "keyPoints": [
+        "ETC creates proton motive force",
+        "ATP synthase uses gradient to make ATP"
+      ],
+      "neetTips": [
+        "Remember P/O ratio: NADH ≈2.5 ATP, FADH₂ ≈1.5 ATP."
+      ]
+    },
+    {
+      "topic": "Plastids",
+      "heading": "Plastids – Plant-Specific Organelles",
+      "content": "Plastids are double‑membrane bound organelles in plant cells, derived from proplastids, and are semi‑autonomous with their own 70S ribosomes and circular DNA. They perform photosynthesis, storage, and pigment synthesis.",
+      "keyPoints": [
+        "Semi‑autonomous, contain own DNA"
+      ],
+      "neetTips": [
+        "Plastids are analogous to mitochondria in autonomy."
+      ]
+    },
+    {
+      "topic": "Types of plastids",
+      "heading": "Diverse Plastid Forms",
+      "content": "Major plastid types include chloroplasts (photosynthesis), chromoplasts (carotenoid storage), and leucoplasts (starch, protein, lipid storage). Differentiation is driven by developmental cues and light exposure.",
+      "keyPoints": [
+        "Chloroplasts, chromoplasts, leucoplasts"
+      ],
+      "neetTips": [
+        "Remember leucoplast sub‑types: amyloplast, elaioplast, proteinoplast."
+      ]
+    },
+    {
+      "topic": "Chloroplasts",
+      "heading": "Chloroplast – Site of Photosynthesis",
+      "content": "Chloroplasts are green plastids containing chlorophyll, thylakoid membranes, and stroma. They convert light energy into chemical energy via the light‑dependent and light‑independent reactions.",
+      "keyPoints": [
+        "Contain chlorophyll and thylakoids"
+      ],
+      "neetTips": [
+        "Chloroplasts have their own genome – 120‑150 genes."
+      ]
+    },
+    {
+      "topic": "Structure of chloroplast",
+      "heading": "Chloroplast Architecture",
+      "content": "A chloroplast has an outer membrane, an inner membrane, a fluid stroma, and a system of thylakoid membranes stacked into grana, interconnected by lamellae.",
+      "keyPoints": [
+        "Outer & inner membranes; stroma; thylakoids"
+      ],
+      "neetTips": [
+        "Grana = stacks; lamellae = connecting thylakoids."
+      ]
+    },
+    {
+      "topic": "Grana and thylakoids",
+      "heading": "Grana and Thylakoid Organization",
+      "content": "Thylakoids are flattened sacs containing photosystems I & II, ATP synthase, and electron carriers. Stacked thylakoids form grana, enhancing surface area for light capture.",
+      "keyPoints": [
+        "Thylakoids house photosystems"
+      ],
+      "neetTips": [
+        "Grana increase light‑harvesting efficiency – NEET high‑yield."
+      ]
+    },
+    {
+      "topic": "Stroma",
+      "heading": "Stroma – Chloroplast Matrix",
+      "content": "The stroma is the aqueous matrix surrounding thylakoids, containing enzymes of the Calvin cycle, chloroplast DNA, ribosomes, and transport proteins.",
+      "keyPoints": [
+        "Site of Calvin‑Benson cycle"
+      ],
+      "neetTips": [
+        "Stroma is analogous to mitochondrial matrix for biosynthesis."
+      ]
+    },
+    {
+      "topic": "Chloroplast DNA and ribosomes",
+      "heading": "Chloroplast Genome and Protein Synthesis",
+      "content": "Chloroplast DNA is a circular molecule (~120 kb) encoding ~100 proteins, rRNAs and tRNAs. Chloroplast ribosomes are 70S, enabling synthesis of photosynthetic proteins within the organelle.",
+      "keyPoints": [
+        "Circular ~120 kb DNA; 70S ribosomes"
+      ],
+      "neetTips": [
+        "Chloroplast DNA is inherited maternally in most plants."
+      ]
+    },
+    {
+      "topic": "Chromoplasts",
+      "heading": "Chromoplasts – Pigment Accumulation",
+      "content": "Chromoplasts develop from chloroplasts during fruit ripening or flower coloration, storing carotenoids and other pigments in lipid‑rich globules or crystalline structures.",
+      "keyPoints": [
+        "Store carotenoids"
+      ],
+      "neetTips": [
+        "Transition chloroplast → chromoplast is a classic NEET example."
+      ]
+    },
+    {
+      "topic": "Leucoplasts",
+      "heading": "Leucoplasts – Storage Organelles",
+      "content": "Leucoplasts are non‑pigmented plastids that store starch (amyloplasts), lipids (elaioplasts) or proteins (proteinoplasts) and are prevalent in non‑photosynthetic tissues.",
+      "keyPoints": [
+        "Amyloplasts store starch"
+      ],
+      "neetTips": [
+        "Root tip cells contain abundant amyloplasts for gravity sensing."
+      ]
+    },
+    {
+      "topic": "Ribosomes",
+      "heading": "Ribosomes – Cellular Protein Factories",
+      "content": "Ribosomes are ribonucleoprotein complexes that translate mRNA into polypeptides. Cytoplasmic ribosomes are 80S (40S+60S), while organellar ribosomes (mitochondrial, chloroplastic) are 70S (30S+50S).",
+      "keyPoints": [
+        "80S in cytosol; 70S in organelles"
+      ],
+      "neetTips": [
+        "Distinguish subunit sizes for NEET questions."
+      ]
+    },
+    {
+      "topic": "70S and 80S ribosomes",
+      "heading": "Comparative Ribosome Types",
+      "content": "70S ribosomes resemble bacterial ribosomes, consist of 30S and 50S subunits, and reside in mitochondria and chloroplasts. 80S ribosomes consist of 40S and 60S subunits, function in the eukaryotic cytoplasm.",
+      "keyPoints": [
+        "70S = 30S+50S; 80S = 40S+60S"
+      ],
+      "neetTips": [
+        "Remember 70S = organellar, 80S = cytoplasmic."
+      ]
+    },
+    {
+      "topic": "Polysomes",
+      "heading": "Polysomes – Multiple Ribosomes on a Single mRNA",
+      "content": "Polysomes (polyribosomes) are clusters of ribosomes translating the same mRNA simultaneously, increasing the efficiency of protein synthesis.",
+      "keyPoints": [
+        "Multiple ribosomes per mRNA"
+      ],
+      "neetTips": [
+        "Polysome formation is a key concept in translation regulation."
+      ]
+    },
+    {
+      "topic": "Cytoskeleton",
+      "heading": "Cytoskeleton – Structural Framework",
+      "content": "The cytoskeleton is a dynamic network of protein filaments—microtubules, microfilaments, and intermediate filaments—that maintains cell shape, enables intracellular transport, and drives cell division and motility.",
+      "keyPoints": [
+        "Three filament systems"
+      ],
+      "neetTips": [
+        "Cytoskeleton is essential for mitosis – NEET high‑yield."
+      ]
+    },
+    {
+      "topic": "Microtubules",
+      "heading": "Microtubules – Tubulin Polymers",
+      "content": "Microtubules are hollow cylinders (~25 nm diameter) composed of α‑ and β‑tubulin dimers. They form the mitotic spindle, ciliary axonemes, and tracks for motor proteins (kinesin, dynein).",
+      "keyPoints": [
+        "25 nm hollow tubes; α/β‑tubulin"
+      ],
+      "neetTips": [
+        "Centrioles nucleate microtubules during cell division."
+      ]
+    },
+    {
+      "topic": "Microfilaments",
+      "heading": "Microfilaments – Actin Filaments",
+      "content": "Microfilaments are thin (≈7 nm) filaments of actin monomers. They generate contractile forces, support the plasma membrane, and are involved in cytokinesis and cell motility.",
+      "keyPoints": [
+        "7 nm actin filaments"
+      ],
+      "neetTips": [
+        "Actin polymerization drives cell crawling – NEET point."
+      ]
+    },
+    {
+      "topic": "Intermediate filaments",
+      "heading": "Intermediate Filaments – Mechanical Support",
+      "content": "Intermediate filaments (~10 nm) are composed of various proteins (keratins, vimentin, neurofilaments) providing tensile strength and maintaining cell integrity, especially in epithelial cells.",
+      "keyPoints": [
+        "10 nm; diverse protein composition"
+      ],
+      "neetTips": [
+        "Resist shear stress – useful for pathology questions."
+      ]
+    },
+    {
+      "topic": "Cilia and flagella",
+      "heading": "Cilia & Flagella – Motile Appendages",
+      "content": "Both structures share a 9+2 axoneme of microtubules (nine doublets surrounding two central singlets) powered by dynein arms, enabling rhythmic beating for locomotion or fluid movement.",
+      "keyPoints": [
+        "9+2 microtubule arrangement"
+      ],
+      "neetTips": [
+        "Defects cause primary ciliary dyskinesia – NEET relevance."
+      ]
+    },
+    {
+      "topic": "Centrosome and centrioles",
+      "heading": "Centrosome – Microtubule Organizing Center",
+      "content": "The centrosome comprises a pair of orthogonal centrioles surrounded by pericentriolar material. It nucleates microtubule assembly and organizes the bipolar spindle during mitosis.",
+      "keyPoints": [
+        "Two centrioles at right angles"
+      ],
+      "neetTips": [
+        "Centrosome duplication ensures proper spindle formation."
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify the structural components of mitochondria, plastids, ribosomes and the cytoskeleton.",
+    "Explain the functional significance of organelle-specific features such as cristae, thylakoids, and 70S ribosomes.",
+    "Differentiate between the various plastid types and cytoskeletal filaments with NEET‑relevant examples.",
+    "Apply knowledge of organelle biogenesis and cytoskeletal dynamics to solve NEET‑level questions."
+  ],
+  "mcqs": [
+    {
+      "question": "Where are the enzymes of the citric acid cycle primarily located in the mitochondrion?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Intermembrane space",
+        "Inner mitochondrial membrane",
+        "Mitochondrial matrix"
+      ],
+      "answer": 3,
+      "explanation": "All the enzymes of the citric acid (Krebs) cycle function in the mitochondrial matrix where acetyl‑CoA is oxidized.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "The highly folded inner membrane structures called cristae mainly serve to:",
+      "options": [
+        "Increase surface area for oxidative phosphorylation",
+        "House mitochondrial DNA",
+        "Provide the site of glycolysis",
+        "Anchor cytoskeletal filaments"
+      ],
+      "answer": 0,
+      "explanation": "Cristae greatly expand the inner membrane surface, allowing more electron‑transport chain complexes and ATP synthase to be embedded, enhancing ATP production.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Mitochondrial DNA differs from nuclear DNA because it:",
+      "options": [
+        "Is linear and double‑stranded",
+        "Is circular and encodes only a few proteins",
+        "Is identical to nuclear DNA",
+        "Is inherited paternally"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial DNA is a small circular molecule that encodes 13 proteins, 22 tRNAs and 2 rRNAs, unlike the linear chromosomes of the nucleus.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Mitochondria are described as semi‑autonomous organelles because they:",
+      "options": [
+        "Can replicate independently of the cell cycle",
+        "Possess their own ribosomes and DNA",
+        "Can synthesize all cellular proteins",
+        "Are surrounded by a double membrane"
+      ],
+      "answer": 1,
+      "explanation": "Being equipped with their own 70S ribosomes and a genome enables mitochondria to synthesize some of their own proteins, a feature of semi‑autonomy.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "ATP synthase is embedded in which mitochondrial compartment?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Intermembrane space",
+        "Inner mitochondrial membrane",
+        "Mitochondrial matrix"
+      ],
+      "answer": 2,
+      "explanation": "ATP synthase (Complex V) spans the inner membrane, using the proton gradient to drive phosphorylation of ADP to ATP.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "The proton motive force that drives ATP synthesis is generated across which membrane?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Inner mitochondrial membrane",
+        "Both inner and outer membranes",
+        "No membrane; it is cytosolic"
+      ],
+      "answer": 1,
+      "explanation": "Electron transport pumps protons from the matrix into the intermembrane space, creating an electrochemical gradient across the inner membrane.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Which statement about mitochondrial ribosomes is correct?",
+      "options": [
+        "They are 80S like cytoplasmic ribosomes",
+        "They are 70S and resemble bacterial ribosomes",
+        "They lack rRNA",
+        "They are located in the intermembrane space"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial ribosomes are 70S particles, similar to those of bacteria, reflecting the organelle’s endosymbiotic origin.",
+      "topic": "Mitochondria"
+    },
+    {
+      "question": "Which of the following correctly describes the composition of the outer mitochondrial membrane?",
+      "options": [
+        "High protein to lipid ratio and contains porin channels",
+        "High lipid to protein ratio with abundant cholesterol",
+        "Contains many transport proteins but no porins",
+        "Lacks phospholipids and is protein‑free"
+      ],
+      "answer": 0,
+      "explanation": "The outer membrane is relatively permeable due to porin proteins and has a higher protein:lipid ratio compared to typical plasma membranes.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "The inner mitochondrial membrane is distinguished by which structural feature?",
+      "options": [
+        "Presence of cristae that increase surface area for oxidative phosphorylation",
+        "Large pores that allow free diffusion of macromolecules",
+        "Continuity with the outer membrane forming a single membrane",
+        "Low protein content and minimal folding"
+      ],
+      "answer": 0,
+      "explanation": "The inner membrane forms numerous invaginations called cristae, greatly expanding the area for the electron‑transport chain and ATP synthase complexes.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "The compartment situated between the inner and outer mitochondrial membranes is called:",
+      "options": [
+        "Matrix",
+        "Intermembrane space",
+        "Cristae lumen",
+        "Cytosol"
+      ],
+      "answer": 1,
+      "explanation": "The narrow region between the two membranes is the intermembrane space, which contains enzymes and ions important for oxidative phosphorylation.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "Mitochondrial DNA is primarily located in which part of the organelle?",
+      "options": [
+        "Inner membrane",
+        "Intermembrane space",
+        "Matrix",
+        "Outer membrane"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondrial DNA (mtDNA) resides in the mitochondrial matrix, where it is associated with matrix proteins and ribosomes.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "Which statement about mitochondrial ribosomes is true?",
+      "options": [
+        "They are 80S ribosomes similar to eukaryotic cytoplasmic ribosomes",
+        "They are 70S ribosomes resembling bacterial ribosomes",
+        "Mitochondria lack ribosomes entirely",
+        "They are identical in size and composition to chloroplast ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial ribosomes are 70S, reflecting the organelle’s bacterial ancestry and allowing synthesis of a few proteins encoded by mtDNA.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "Cristae are formed by:",
+      "options": [
+        "Invaginations of the outer membrane",
+        "Folding of the inner membrane",
+        "Aggregation of matrix proteins",
+        "Stacking of mitochondrial DNA"
+      ],
+      "answer": 1,
+      "explanation": "Cristae result from extensive folding of the inner mitochondrial membrane, creating finger‑like projections that house the electron‑transport chain complexes.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "Why are mitochondria considered semi‑autonomous organelles?",
+      "options": [
+        "They possess their own DNA and ribosomes capable of synthesizing a few proteins",
+        "They can replicate independently of the cell cycle",
+        "They are surrounded by a double membrane",
+        "They generate ATP via glycolysis rather than oxidative phosphorylation"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondria contain their own circular DNA and 70S ribosomes, enabling limited protein synthesis independent of the nuclear genome, which defines their semi‑autonomous nature.",
+      "topic": "Structure of mitochondrion"
+    },
+    {
+      "question": "Which statement correctly describes the outer mitochondrial membrane (OMM)?",
+      "options": [
+        "It contains a high protein‑to‑lipid ratio and is impermeable to ions",
+        "It is permeable to small molecules (<5 kDa) due to porin channels",
+        "It houses the electron‑transport‑chain complexes",
+        "It is the site of ATP synthase activity"
+      ],
+      "answer": 1,
+      "explanation": "The OMM contains porin (VDAC) channels that allow free diffusion of molecules up to ~5 kDa, making it relatively permeable compared to the inner membrane.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "A distinctive feature of the inner mitochondrial membrane (IMM) is its enrichment in which lipid that is crucial for respiratory‑chain function?",
+      "options": [
+        "Phosphatidylcholine",
+        "Cardiolipin",
+        "Sphingomyelin",
+        "Cholesterol"
+      ],
+      "answer": 1,
+      "explanation": "Cardiolipin, a diphosphatidylglycerol, is uniquely abundant in the IMM and stabilizes several complexes of the electron transport chain.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "Which protein complex mediates the translocation of nuclear‑encoded proteins from the intermembrane space into the mitochondrial matrix?",
+      "options": [
+        "TOM complex",
+        "TIM23 complex",
+        "ATP synthase",
+        "Cytochrome c oxidase"
+      ],
+      "answer": 1,
+      "explanation": "The TIM23 (Translocase of Inner Membrane) complex works with the TOM complex to import proteins across the inner membrane into the matrix.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "The cristae of mitochondria are formed by invaginations of which membrane?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Inner mitochondrial membrane",
+        "Both outer and inner membranes",
+        "A protein lattice, not a membrane"
+      ],
+      "answer": 1,
+      "explanation": "Cristae are deep folds of the inner mitochondrial membrane, increasing its surface area for oxidative phosphorylation.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "Why does the inner mitochondrial membrane have a much larger surface area than the outer membrane?",
+      "options": [
+        "It contains numerous transport proteins",
+        "It is folded into cristae",
+        "It has a higher lipid content",
+        "It is covered with ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Folding of the inner membrane into cristae dramatically expands its surface area, allowing more space for electron‑transport complexes and ATP synthase.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "Which of the following proteins is primarily responsible for the selective permeability of the outer mitochondrial membrane?",
+      "options": [
+        "Voltage‑dependent anion channel (VDAC)",
+        "ATP synthase",
+        "Cytochrome c oxidase",
+        "Complex I (NADH dehydrogenase)"
+      ],
+      "answer": 0,
+      "explanation": "VDAC (porin) forms large pores in the OMM, permitting diffusion of ions and metabolites while maintaining overall membrane integrity.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "During the intrinsic pathway of apoptosis, the release of cytochrome c into the cytosol is mainly due to permeabilization of which membrane?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Inner mitochondrial membrane",
+        "Both membranes simultaneously",
+        "Plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "Pro‑apoptotic signals trigger the formation of pores in the outer mitochondrial membrane, allowing cytochrome c to escape into the cytosol and activate caspases.",
+      "topic": "Outer and inner mitochondrial membranes"
+    },
+    {
+      "question": "What is the primary functional significance of the cristae in mitochondria?",
+      "options": [
+        "Increase surface area for oxidative phosphorylation enzymes",
+        "Store calcium ions for signaling",
+        "Synthesize mitochondrial proteins",
+        "Provide attachment sites for the cytoskeleton"
+      ],
+      "answer": 0,
+      "explanation": "Cristae are folds of the inner membrane that greatly enlarge its surface area, allowing more electron‑transport chain complexes and ATP synthase to be embedded, thereby enhancing oxidative phosphorylation.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Which enzyme complex of the electron transport chain is least associated with the cristae membrane?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 1,
+      "explanation": "Complex II is anchored in the inner membrane but is generally not concentrated on the cristae folds, unlike Complexes I, III and IV which are enriched on cristae.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Mitochondrial cristae in mammalian cells are commonly classified into which morphological types?",
+      "options": [
+        "Lamellar, tubular and vesicular",
+        "Linear, circular and spiral",
+        "Flat, spherical and cuboidal",
+        "Helical, planar and branched"
+      ],
+      "answer": 0,
+      "explanation": "Electron‑microscopic studies describe cristae as lamellar (plate‑like), tubular or vesicular, reflecting variations in folding patterns.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Which protein complex is embedded in the inner mitochondrial membrane and projects into the cristae lumen to synthesize ATP?",
+      "options": [
+        "ATP synthase (F1F0‑ATPase)",
+        "Cytochrome c oxidase (Complex IV)",
+        "NADH dehydrogenase (Complex I)",
+        "Succinate dehydrogenase (Complex II)"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase is located on the cristae membrane; its catalytic F1 domain faces the matrix while the proton channel (Fo) spans the inner membrane within the cristae.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Which ion present in high concentration in the mitochondrial matrix is essential for the activity of several enzymes located on the cristae?",
+      "options": [
+        "Mg2+",
+        "Ca2+",
+        "K+",
+        "Na+"
+      ],
+      "answer": 0,
+      "explanation": "Mg2+ is abundant in the matrix and acts as a cofactor for many matrix enzymes, including those involved in the TCA cycle that supply substrates to the cristae‑based electron‑transport chain.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Where is mitochondrial DNA (mtDNA) primarily located in relation to the cristae?",
+      "options": [
+        "Embedded within the cristae membrane",
+        "In the mitochondrial matrix",
+        "Attached to the outer membrane",
+        "In the intermembrane space"
+      ],
+      "answer": 1,
+      "explanation": "mtDNA resides freely in the mitochondrial matrix, not within the cristae membrane or the intermembrane space.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "The enlarged surface area provided by cristae most directly enhances which cellular process?",
+      "options": [
+        "Glycolysis in the cytosol",
+        "Oxidative phosphorylation",
+        "DNA replication in the nucleus",
+        "Protein synthesis on ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "By increasing the inner‑membrane surface, cristae allow a greater number of electron‑transport chain complexes and ATP synthase molecules, thereby boosting oxidative phosphorylation.",
+      "topic": "Cristae"
+    },
+    {
+      "question": "Which enzyme complex located in the mitochondrial matrix catalyzes the conversion of pyruvate to acetyl‑CoA?",
+      "options": [
+        "Pyruvate dehydrogenase complex",
+        "Succinate dehydrogenase",
+        "Cytochrome c oxidase",
+        "ATP synthase"
+      ],
+      "answer": 0,
+      "explanation": "The pyruvate dehydrogenase complex resides in the matrix and links glycolysis to the citric acid cycle by converting pyruvate to acetyl‑CoA.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "The enzymes of the citric acid (Krebs) cycle are found in which mitochondrial compartment?",
+      "options": [
+        "Intermembrane space",
+        "Outer mitochondrial membrane",
+        "Matrix",
+        "Cristae"
+      ],
+      "answer": 2,
+      "explanation": "All TCA‑cycle enzymes are soluble proteins located in the mitochondrial matrix.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Mitochondrial DNA is primarily situated in which part of the organelle?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Intermembrane space",
+        "Matrix",
+        "Inner mitochondrial membrane"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondrial DNA (mtDNA) is packaged in nucleoids that reside in the matrix.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Which metabolic process occurs in the mitochondrial matrix?",
+      "options": [
+        "Oxidative phosphorylation",
+        "Beta‑oxidation of fatty acids",
+        "ATP synthesis by ATP synthase",
+        "Protein import into mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "Beta‑oxidation of fatty acids takes place in the matrix, whereas oxidative phosphorylation and ATP synthase function in the inner membrane.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Compared with the cytosol, the mitochondrial matrix has the highest concentration of which ion during cellular signaling?",
+      "options": [
+        "Ca2+",
+        "H+",
+        "K+",
+        "Na+"
+      ],
+      "answer": 0,
+      "explanation": "The matrix can accumulate Ca2+ ions rapidly, making its Ca2+ concentration higher than that of the cytosol during signaling events.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Which statement about the mitochondrial matrix is FALSE?",
+      "options": [
+        "It contains enzymes of the TCA cycle",
+        "It houses mitochondrial ribosomes for protein synthesis",
+        "It is the site of oxidative phosphorylation",
+        "It contains mitochondrial DNA"
+      ],
+      "answer": 2,
+      "explanation": "Oxidative phosphorylation occurs at protein complexes embedded in the inner mitochondrial membrane, not in the matrix.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "The pH of the mitochondrial matrix relative to the cytosol is:",
+      "options": [
+        "More acidic than cytosol",
+        "Same as cytosol",
+        "More alkaline than cytosol",
+        "Variable depending on cell type"
+      ],
+      "answer": 2,
+      "explanation": "Proton pumping by the electron transport chain makes the matrix more alkaline (higher pH) compared with the cytosol.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "What is the structural form of human mitochondrial DNA?",
+      "options": [
+        "Linear double‑stranded DNA with histones",
+        "Circular double‑stranded DNA without histones",
+        "Circular single‑stranded DNA with histones",
+        "Linear single‑stranded DNA without histones"
+      ],
+      "answer": 1,
+      "explanation": "Human mitochondrial DNA exists as a closed circular double‑stranded molecule and, unlike nuclear DNA, it is not associated with histone proteins.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Mitochondrial DNA is transmitted to offspring primarily through which parent?",
+      "options": [
+        "Paternal",
+        "Biparental",
+        "Maternal",
+        "Random"
+      ],
+      "answer": 2,
+      "explanation": "Mitochondrial DNA is inherited almost exclusively from the mother because sperm mitochondria are usually destroyed after fertilization.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "How many protein‑coding genes are encoded by the human mitochondrial genome?",
+      "options": [
+        "13",
+        "20",
+        "37",
+        "45"
+      ],
+      "answer": 0,
+      "explanation": "The human mitochondrial genome contains 13 genes that code for essential subunits of the oxidative phosphorylation complexes.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Which region of mitochondrial DNA serves as the main control element for replication and transcription?",
+      "options": [
+        "D‑loop (control region)",
+        "Origin of replication for heavy strand (OH)",
+        "Origin for light strand (OL)",
+        "Promoter region"
+      ],
+      "answer": 0,
+      "explanation": "The D‑loop, also called the control region, contains promoters and the origin of replication for the heavy strand, regulating both replication and transcription.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Which DNA polymerase is primarily responsible for replicating mitochondrial DNA?",
+      "options": [
+        "DNA polymerase α",
+        "DNA polymerase β",
+        "DNA polymerase γ",
+        "DNA polymerase δ"
+      ],
+      "answer": 2,
+      "explanation": "DNA polymerase γ is the dedicated polymerase that carries out replication of mitochondrial DNA in eukaryotic cells.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Mitochondrial DNA shows a higher mutation rate than nuclear DNA mainly because:",
+      "options": [
+        "It is protected by histones",
+        "It lacks histone protection and has limited repair mechanisms",
+        "It replicates slower than nuclear DNA",
+        "It is located in the cytoplasm"
+      ],
+      "answer": 1,
+      "explanation": "Absence of histone protection and relatively inefficient DNA repair pathways make mitochondrial DNA more susceptible to mutations.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Which ribosomal RNAs are encoded by mitochondrial DNA?",
+      "options": [
+        "5S rRNA",
+        "12S rRNA and 16S rRNA",
+        "18S rRNA",
+        "28S rRNA"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondrial DNA encodes two rRNAs: the small‑subunit 12S rRNA and the large‑subunit 16S rRNA, essential for mitochondrial ribosome function.",
+      "topic": "Mitochondrial DNA"
+    },
+    {
+      "question": "Which of the following correctly describes the sedimentation coefficient and subunit composition of mitochondrial ribosomes in mammals?",
+      "options": [
+        "55S; 28S small and 39S large",
+        "70S; 30S small and 50S large",
+        "80S; 40S small and 60S large",
+        "60S; 30S small and 30S large"
+      ],
+      "answer": 0,
+      "explanation": "Mammalian mitochondrial ribosomes sediment at 55S and consist of a 28S small subunit and a 39S large subunit, distinct from bacterial 70S and cytosolic 80S ribosomes.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "The rRNA molecules of mitochondrial ribosomes are encoded by:",
+      "options": [
+        "Mitochondrial DNA",
+        "Nuclear DNA",
+        "Both mitochondrial and nuclear DNA",
+        "Chloroplast DNA"
+      ],
+      "answer": 0,
+      "explanation": "The 12S and 16S rRNA genes required for mitochondrial ribosomes are located in the mitochondrial genome, while most ribosomal proteins are nuclear‑encoded.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "Which antibiotic selectively inhibits mitochondrial protein synthesis by targeting mitochondrial ribosomes?",
+      "options": [
+        "Chloramphenicol",
+        "Penicillin",
+        "Erythromycin",
+        "Tetracycline"
+      ],
+      "answer": 0,
+      "explanation": "Chloramphenicol binds to the peptidyl transferase center of 70S‑type ribosomes, affecting both bacterial and mitochondrial ribosomes, thereby inhibiting mitochondrial translation.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "Compared to bacterial 70S ribosomes, mitochondrial ribosomes have:",
+      "options": [
+        "Higher protein to rRNA ratio",
+        "Lower protein to rRNA ratio",
+        "Identical protein to rRNA ratio",
+        "No rRNA"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondrial ribosomes contain proportionally more protein and less rRNA than bacterial ribosomes, giving them a higher protein‑to‑rRNA ratio.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "The primary function of mitochondrial ribosomes is to:",
+      "options": [
+        "Synthesize proteins of the oxidative phosphorylation complexes encoded by mitochondrial DNA",
+        "Translate nuclear‑encoded mRNA imported into mitochondria",
+        "Replicate mitochondrial DNA",
+        "Process mitochondrial tRNA"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondrial ribosomes translate the 13 protein‑coding genes of mitochondrial DNA, which are essential subunits of the oxidative phosphorylation system.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "In which mitochondrial compartment are mitochondrial ribosomes predominantly found?",
+      "options": [
+        "Matrix",
+        "Intermembrane space",
+        "Outer membrane surface",
+        "Cristae lumen"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondrial ribosomes are free or membrane‑bound in the mitochondrial matrix where mitochondrial mRNAs are present.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "A mutation in the mitochondrial 12S rRNA gene would most likely affect:",
+      "options": [
+        "Assembly of the small subunit of mitochondrial ribosome",
+        "Function of the large subunit of cytosolic ribosome",
+        "Chloroplast photosynthesis",
+        "Microtubule formation"
+      ],
+      "answer": 0,
+      "explanation": "The 12S rRNA forms the core of the small (28S) subunit; mutations impair its assembly and consequently mitochondrial translation.",
+      "topic": "Mitochondrial ribosomes"
+    },
+    {
+      "question": "Where does the catalytic site of ATP synthase that produces ATP reside in the mitochondrion?",
+      "options": [
+        "On the matrix side of the inner mitochondrial membrane",
+        "In the intermembrane space",
+        "Within the outer mitochondrial membrane",
+        "Inside the cristae lumen"
+      ],
+      "answer": 0,
+      "explanation": "The F1 sector of ATP synthase, where ADP and Pi are converted to ATP, protrudes into the mitochondrial matrix, making the matrix side of the inner membrane the site of ATP synthesis.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "Approximately how many molecules of ATP are generated from the oxidation of one molecule of NADH by oxidative phosphorylation?",
+      "options": [
+        "2.5",
+        "3",
+        "3.5",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "Each NADH donates electrons that lead to the translocation of about 10 protons across the inner membrane; the return of ~4 protons through ATP synthase yields roughly 2.5 ATP molecules.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "Which complex of the electron transport chain directly pumps protons from the matrix to the intermembrane space?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex V (ATP synthase)"
+      ],
+      "answer": 0,
+      "explanation": "Complex I transfers electrons from NADH to ubiquinone and couples this to the translocation of four protons across the inner membrane.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "According to the chemiosmotic theory, ATP synthesis in mitochondria is driven by:",
+      "options": [
+        "Substrate‑level phosphorylation",
+        "Direct electron transfer to ADP",
+        "The proton motive force across the inner membrane",
+        "Calcium influx into the matrix"
+      ],
+      "answer": 2,
+      "explanation": "Peter Mitchell’s chemiosmotic theory states that the electrochemical gradient of protons (proton motive force) generated by the electron transport chain powers ATP synthase to make ATP.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "What is the effect of an uncoupler such as dinitrophenol (DNP) on mitochondrial ATP production?",
+      "options": [
+        "Increases ATP yield per NADH",
+        "Decreases ATP synthesis while electron transport and oxygen consumption continue",
+        "Completely blocks electron flow through Complex IV",
+        "Stimulates substrate‑level phosphorylation"
+      ],
+      "answer": 1,
+      "explanation": "Uncouplers dissipate the proton gradient, so oxidative phosphorylation falls sharply even though the electron transport chain keeps consuming oxygen to pump protons.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "Which enzyme directly catalyzes the formation of ATP from ADP and inorganic phosphate in mitochondria?",
+      "options": [
+        "ATP synthase",
+        "Cytochrome c oxidase",
+        "Succinate dehydrogenase",
+        "NADH dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase (Complex V) uses the flow of protons back into the matrix to drive the phosphorylation of ADP to ATP.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "The P/O ratio in oxidative phosphorylation refers to:",
+      "options": [
+        "The number of ATP molecules formed per atom of oxygen reduced",
+        "The same ATP yield for electrons from NADH and FADH₂",
+        "A higher ATP yield for electrons entering at Complex II than Complex I",
+        "A value independent of proton‑pumping efficiency"
+      ],
+      "answer": 0,
+      "explanation": "P/O ratio denotes the number of inorganic phosphates (ATP) synthesized per atom of oxygen reduced to water; it differs for NADH (~2.5) and FADH₂ (~1.5) because of differing proton translocation.",
+      "topic": "ATP production"
+    },
+    {
+      "question": "Which statement correctly describes the origin of plastids in plant cells?",
+      "options": [
+        "They arise de novo from the endoplasmic reticulum",
+        "They are formed by division of pre‑existing plastids",
+        "They are synthesized from mitochondrial DNA",
+        "They are derived from peroxisomes"
+      ],
+      "answer": 1,
+      "explanation": "Plastids are semi‑autonomous organelles that replicate by binary fission of existing plastids, similar to prokaryotes.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "In chloroplasts, the light‑dependent reactions of photosynthesis take place in which structure?",
+      "options": [
+        "Stroma",
+        "Granum",
+        "Thylakoid membrane",
+        "Outer membrane"
+      ],
+      "answer": 2,
+      "explanation": "The thylakoid membranes house photosystems and electron transport chains where light energy is converted to chemical energy.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which plastid type primarily synthesizes and stores starch in non‑photosynthetic tissues?",
+      "options": [
+        "Chromoplast",
+        "Amyloplast",
+        "Leucoplast",
+        "Proplastid"
+      ],
+      "answer": 1,
+      "explanation": "Amyloplasts, a subclass of leucoplasts, accumulate starch granules in roots, tubers and seeds.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "The bright orange pigment carotene is most abundant in which plastid?",
+      "options": [
+        "Chloroplast",
+        "Chromoplast",
+        "Leucoplast",
+        "Proplastid"
+      ],
+      "answer": 1,
+      "explanation": "Chromoplasts accumulate carotenoids such as β‑carotene, giving fruits and flowers their orange/red colours.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which pairing of plastid and its characteristic internal structure is correct?",
+      "options": [
+        "Chloroplast – stacked thylakoids called grana",
+        "Chromoplast – internal stacks of thylakoids",
+        "Leucoplast – abundant thylakoid membranes",
+        "Amyloplast – photosynthetic pigments"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts possess thylakoid membranes organized into stacks called grana, essential for photosynthesis.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Plastid DNA is best described as:",
+      "options": [
+        "Linear double‑stranded DNA",
+        "Circular double‑stranded DNA",
+        "Single‑stranded RNA",
+        "Circular single‑stranded DNA"
+      ],
+      "answer": 1,
+      "explanation": "Plastid genomes are small, circular double‑stranded DNA molecules, reminiscent of their cyanobacterial ancestry.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which statement about ribosomes in plastids is true?",
+      "options": [
+        "Plastids contain 80S ribosomes similar to the eukaryotic cytoplasm",
+        "Plastids lack ribosomes",
+        "Plastids contain 70S ribosomes similar to prokaryotes",
+        "Plastids have both 70S and 80S ribosomes"
+      ],
+      "answer": 2,
+      "explanation": "Plastids possess 70S ribosomes, reflecting their prokaryotic origin and enabling synthesis of plastid‑encoded proteins.",
+      "topic": "Plastids"
+    },
+    {
+      "question": "Which plastid type is primarily involved in the synthesis and storage of starch in plant cells?",
+      "options": [
+        "Amyloplast",
+        "Chromoplast",
+        "Leucoplast",
+        "Chloroplast"
+      ],
+      "answer": 0,
+      "explanation": "Amyloplasts are a specialized form of leucoplast that accumulate and store starch granules, especially in tubers and seeds.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "Which plastid contains thylakoid membranes organized into grana?",
+      "options": [
+        "Chromoplast",
+        "Leucoplast",
+        "Chloroplast",
+        "Proplastid"
+      ],
+      "answer": 2,
+      "explanation": "Chloroplasts possess a well‑developed internal thylakoid system, with stacks called grana, essential for photosynthetic light reactions.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "During ripening of a green fruit to a red fruit, which plastid conversion takes place?",
+      "options": [
+        "Proplastid to chloroplast",
+        "Chloroplast to chromoplast",
+        "Chromoplast to leucoplast",
+        "Leucoplast to amyloplast"
+      ],
+      "answer": 1,
+      "explanation": "In ripening, chloroplasts lose their photosynthetic apparatus and differentiate into chromoplasts that accumulate carotenoid pigments, giving the red/orange colour.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "The orange colour of carrots is due to accumulation of which plastid type?",
+      "options": [
+        "Chromoplast",
+        "Amyloplast",
+        "Elaioplast",
+        "Proplastid"
+      ],
+      "answer": 0,
+      "explanation": "Carrot cells contain chromoplasts rich in carotenoids, which impart the characteristic orange hue.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "Which plastid is typically found in root tip cells and lacks visible pigments?",
+      "options": [
+        "Chloroplast",
+        "Chromoplast",
+        "Leucoplast",
+        "Etioplast"
+      ],
+      "answer": 2,
+      "explanation": "Root tip cells contain leucoplasts, a non‑pigmented plastid type that can differentiate into amyloplasts for starch storage.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "Which statement correctly distinguishes chloroplasts from chromoplasts?",
+      "options": [
+        "Chloroplasts have internal thylakoid stacks; chromoplasts lack thylakoids",
+        "Chloroplasts store starch; chromoplasts store lipids",
+        "Chloroplasts contain 80S ribosomes; chromoplasts contain 70S ribosomes",
+        "Chloroplasts are found only in leaves; chromoplasts only in roots"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts possess extensive thylakoid membranes organized into grana for photosynthesis, whereas chromoplasts generally have reduced or absent thylakoids as they specialize in pigment storage.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "Which plastid type is specialized for synthesis and storage of oils in seeds of oil‑rich plants?",
+      "options": [
+        "Amyloplast",
+        "Elaioplast",
+        "Chromoplast",
+        "Proplastid"
+      ],
+      "answer": 1,
+      "explanation": "Elaioplasts are a form of leucoplast that accumulate lipids and are abundant in oil‑seed tissues.",
+      "topic": "Types of plastids"
+    },
+    {
+      "question": "Which pigment is primarily responsible for capturing light energy in chloroplasts?",
+      "options": [
+        "Chlorophyll a",
+        "Chlorophyll b",
+        "Carotene",
+        "Phycobilin"
+      ],
+      "answer": 0,
+      "explanation": "Chlorophyll a is the main photosynthetic pigment that absorbs light energy and initiates the light‑dependent reactions.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "The site of the light‑dependent reactions of photosynthesis is:",
+      "options": [
+        "Stroma",
+        "Granum",
+        "Thylakoid lumen",
+        "Thylakoid membrane"
+      ],
+      "answer": 3,
+      "explanation": "The light‑dependent reactions occur on the thylakoid membrane where photosystems I and II, electron transport chain and ATP synthase are embedded.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "Which statement about chloroplast DNA is correct?",
+      "options": [
+        "It is linear",
+        "It is circular and encodes some ribosomal RNAs",
+        "It is identical to nuclear DNA",
+        "It is absent in mature chloroplasts"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast DNA is a small circular molecule that encodes a limited set of proteins and ribosomal RNAs, reflecting its semi‑autonomous nature.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "In chloroplasts, the stacked thylakoid membranes are called:",
+      "options": [
+        "Lamellae",
+        "Grana",
+        "Stroma",
+        "Plastoglobules"
+      ],
+      "answer": 1,
+      "explanation": "Stacks of thylakoids are termed grana (singular granum) and increase the surface area for light harvesting.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "Which of the following is NOT a type of plastid?",
+      "options": [
+        "Chromoplast",
+        "Leucoplast",
+        "Amyloplast",
+        "Lysoplast"
+      ],
+      "answer": 3,
+      "explanation": "Lysoplast is not a recognized plastid type; chromoplasts, leucoplasts and amyloplasts are established plastid categories.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "The enzyme that catalyzes the fixation of CO₂ in the Calvin cycle is:",
+      "options": [
+        "Rubisco",
+        "PEP carboxylase",
+        "ATP synthase",
+        "NADP⁺ reductase"
+      ],
+      "answer": 0,
+      "explanation": "Ribulose‑1,5‑bisphosphate carboxylase/oxygenase (Rubisco) incorporates CO₂ into ribulose‑1,5‑bisphosphate, initiating the Calvin cycle.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "During the light reactions, the thylakoid lumen becomes more acidic because:",
+      "options": [
+        "Protons are pumped into the lumen by photosystem II",
+        "NADPH is produced there",
+        "Water is split releasing protons into the lumen",
+        "Oxygen is released into the lumen"
+      ],
+      "answer": 2,
+      "explanation": "Photolysis of water at photosystem II releases O₂, electrons and protons; the protons accumulate in the thylakoid lumen, creating a proton gradient used by ATP synthase.",
+      "topic": "Chloroplasts"
+    },
+    {
+      "question": "Which of the following correctly describes the arrangement of thylakoid membranes in chloroplasts?",
+      "options": [
+        "Stacked thylakoids form grana",
+        "Unstacked thylakoids form grana",
+        "Grana are composed of stroma lamellae",
+        "Grana are located in the outer membrane"
+      ],
+      "answer": 0,
+      "explanation": "Grana are stacks of thylakoids; the stacked arrangement increases surface area for light reactions.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "The space between the inner and outer envelope membranes of a chloroplast is called?",
+      "options": [
+        "Stroma",
+        "Intermembrane space",
+        "Thylakoid lumen",
+        "Granum"
+      ],
+      "answer": 1,
+      "explanation": "The region between the two envelope membranes is the intermembrane space, analogous to that in mitochondria.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "Which of the following statements about chloroplast DNA is true?",
+      "options": [
+        "It is linear and located in the nucleus",
+        "It is circular and present in the stroma",
+        "It is double‑stranded RNA in thylakoids",
+        "It is single‑stranded DNA in the granum"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast DNA is a small circular molecule that resides in the stroma, reflecting the organelle's semi‑autonomous nature.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "The primary site of the light‑dependent reactions of photosynthesis is:",
+      "options": [
+        "Stroma",
+        "Thylakoid lumen",
+        "Thylakoid membrane",
+        "Outer envelope membrane"
+      ],
+      "answer": 2,
+      "explanation": "Light‑dependent reactions occur in the thylakoid membrane where photosystems and electron transport chain complexes are embedded.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "Which structure connects the grana stacks and facilitates the movement of electrons between them?",
+      "options": [
+        "Stroma lamellae",
+        "Granum matrix",
+        "Outer envelope",
+        "Plastoglobules"
+      ],
+      "answer": 0,
+      "explanation": "Stroma lamellae (unstacked thylakoids) interconnect grana, allowing electron flow and distribution of photosynthetic products.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "In chloroplasts, ribosomes are similar to those found in:",
+      "options": [
+        "Eukaryotic cytoplasmic ribosomes (80S)",
+        "Bacterial ribosomes (70S)",
+        "Mitochondrial ribosomes (55S)",
+        "Nuclear ribosomes (90S)"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast ribosomes are 70S, resembling bacterial ribosomes, supporting the endosymbiotic origin of plastids.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "The pigment‑protein complexes that capture light energy are embedded in which part of the chloroplast?",
+      "options": [
+        "Stroma",
+        "Inner envelope membrane",
+        "Thylakoid membrane",
+        "Outer envelope membrane"
+      ],
+      "answer": 2,
+      "explanation": "Photosynthetic pigment‑protein complexes such as photosystems I and II are located in the thylakoid membrane.",
+      "topic": "Structure of chloroplast"
+    },
+    {
+      "question": "Which of the following correctly describes the arrangement of thylakoids in a chloroplast?",
+      "options": [
+        "Stacked thylakoids called grana are interconnected by unstacked stroma thylakoids",
+        "Grana are isolated stacks not connected to any other thylakoids",
+        "All thylakoids are uniformly stacked throughout the chloroplast",
+        "Stroma thylakoids are stacked while grana are unstacked"
+      ],
+      "answer": 0,
+      "explanation": "Grana are stacks of thylakoids and are linked to each other and to the unstacked stroma thylakoids (lamellae) that run through the stroma, providing continuity of the thylakoid membrane system.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "The primary site of photophosphorylation in chloroplasts is",
+      "options": [
+        "Grana lumen",
+        "Stroma",
+        "Thylakoid membrane",
+        "Cytosol"
+      ],
+      "answer": 2,
+      "explanation": "ATP synthesis during photophosphorylation is carried out by ATP synthase embedded in the thylakoid membrane, where the proton motive force is generated.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "Which pigment‑protein complex is predominantly located in the stacked regions of thylakoids (grana)?",
+      "options": [
+        "Photosystem I",
+        "Photosystem II",
+        "Cytochrome b6f complex",
+        "ATP synthase"
+      ],
+      "answer": 1,
+      "explanation": "Photosystem II and its associated light‑harvesting complex II are enriched in the stacked thylakoid membranes of the grana, whereas PSI is more abundant in the unstacked stroma thylakoids.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "The spacing between individual thylakoid membranes within a granum is maintained by",
+      "options": [
+        "Light‑harvesting complex II proteins",
+        "Stroma lamellae",
+        "Grana‑specific ribosomes",
+        "Chlorophyll a molecules"
+      ],
+      "answer": 0,
+      "explanation": "LHCII proteins, together with other membrane proteins, act as spacers that keep the thylakoid membranes at a regular distance, allowing optimal packing of photosynthetic complexes.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "In a chloroplast, the thylakoid lumen becomes more acidic during the light reactions because",
+      "options": [
+        "Protons are pumped into the lumen by the cytochrome b6f complex",
+        "Water is split in the stroma releasing protons",
+        "NADPH is synthesized in the lumen",
+        "CO2 fixation consumes protons"
+      ],
+      "answer": 0,
+      "explanation": "The cytochrome b6f complex transfers electrons from plastoquinol to plastocyanin and simultaneously translocates protons from the stroma into the thylakoid lumen, creating a proton gradient.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "Which statement correctly differentiates grana thylakoids from stroma thylakoids?",
+      "options": [
+        "Grana thylakoids contain only Photosystem I, while stroma thylakoids contain only Photosystem II",
+        "Grana thylakoids are stacked and enriched in PSII, whereas stroma thylakoids are unstacked and enriched in PSI",
+        "Both have identical protein composition but differ in lipid content",
+        "Stroma thylakoids are the site of ATP synthesis, while grana thylakoids are not"
+      ],
+      "answer": 1,
+      "explanation": "Grana thylakoids are tightly stacked and house a higher proportion of PSII and its antenna complexes, while the unstacked stroma thylakoids contain more PSI and are the main site for NADPH formation.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "The number of thylakoid membranes per granum can vary. Which factor most directly influences the degree of granal stacking in higher plants?",
+      "options": [
+        "Light intensity",
+        "Availability of magnesium ions",
+        "Temperature",
+        "CO2 concentration"
+      ],
+      "answer": 1,
+      "explanation": "Mg2+ ions neutralize the negative charges of thylakoid membrane phospholipids, promoting tighter stacking of thylakoid membranes; deficiency reduces granal stacking.",
+      "topic": "Grana and thylakoids"
+    },
+    {
+      "question": "Which process primarily occurs in the stroma of chloroplasts?",
+      "options": [
+        "Light‑dependent reactions",
+        "Calvin cycle",
+        "Photophosphorylation",
+        "Electron transport chain"
+      ],
+      "answer": 1,
+      "explanation": "The stroma houses the enzymes of the Calvin (carbon‑fixation) cycle, where CO₂ is reduced to sugars using ATP and NADPH generated in the thylakoid membranes.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "The chloroplast DNA present in the stroma is organized as:",
+      "options": [
+        "Linear double‑stranded DNA similar to nuclear DNA",
+        "Circular double‑stranded DNA",
+        "Single‑stranded RNA",
+        "Circular single‑stranded DNA"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast genomes are small, circular double‑stranded DNA molecules, resembling bacterial chromosomes, and they reside in the stroma.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "Which statement about the stroma is FALSE?",
+      "options": [
+        "It houses ribosomes for synthesis of chloroplast‑encoded proteins",
+        "It is the site of ATP synthesis by ATP synthase",
+        "It contains enzymes of the Calvin cycle",
+        "It is a gel‑like matrix surrounding thylakoids"
+      ],
+      "answer": 1,
+      "explanation": "ATP synthase is embedded in the thylakoid membrane; ATP synthesis occurs there, not in the stroma.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "Which molecule is found at a higher concentration in the stroma than in the thylakoid lumen, enabling the reduction phase of photosynthesis?",
+      "options": [
+        "NADPH",
+        "ADP",
+        "CO₂",
+        "O₂"
+      ],
+      "answer": 0,
+      "explanation": "NADPH is produced in the stroma when NADP⁺ accepts electrons from photosystem I; its concentration is therefore higher in the stroma.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "The physical state of the stroma can best be described as:",
+      "options": [
+        "Highly ordered crystalline lattice",
+        "Dense proteinaceous granules",
+        "Gel‑like aqueous matrix",
+        "Lipid bilayer"
+      ],
+      "answer": 2,
+      "explanation": "The stroma is a semi‑fluid, gel‑like aqueous medium that surrounds the thylakoid system and contains soluble enzymes, DNA, and ribosomes.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "Ribulose‑1,5‑bisphosphate carboxylase/oxygenase (Rubisco) is localized in which chloroplast compartment?",
+      "options": [
+        "Thylakoid membrane",
+        "Thylakoid lumen",
+        "Stroma",
+        "Granum"
+      ],
+      "answer": 2,
+      "explanation": "Rubisco, the key enzyme of the Calvin cycle, is soluble and resides in the stroma where CO₂ fixation occurs.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "During chloroplast division, the stroma is partitioned by which structure?",
+      "options": [
+        "FtsZ ring",
+        "Plasmodesmata",
+        "Spindle fibers",
+        "Cytokinetic furrow"
+      ],
+      "answer": 0,
+      "explanation": "A contractile FtsZ protein ring assembles at the midpoint of the chloroplast, constricting the stroma and aiding division, analogous to bacterial cytokinesis.",
+      "topic": "Stroma"
+    },
+    {
+      "question": "Which statement correctly describes the nature of chloroplast DNA?",
+      "options": [
+        "It is linear double‑stranded DNA similar to the nuclear genome",
+        "It exists as a single circular double‑stranded DNA molecule present in multiple copies",
+        "It is composed of RNA rather than DNA",
+        "It is identical in sequence to mitochondrial DNA"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast DNA is a circular double‑stranded molecule, typically present in several copies per organelle, reflecting its prokaryotic origin.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "The predominant mode of inheritance of chloroplast DNA in most flowering plants is:",
+      "options": [
+        "Biparental inheritance",
+        "Paternal inheritance",
+        "Maternal inheritance",
+        "Random segregation"
+      ],
+      "answer": 2,
+      "explanation": "In most angiosperms, chloroplasts are transmitted through the egg cell, leading to maternal inheritance of chloroplast DNA.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "Which of the following proteins is NOT encoded by the chloroplast genome?",
+      "options": [
+        "D1 protein of photosystem II",
+        "Large subunit of Rubisco",
+        "β‑subunit of ATP synthase",
+        "Cytosolic glyceraldehyde‑3‑phosphate dehydrogenase"
+      ],
+      "answer": 3,
+      "explanation": "The chloroplast genome encodes core photosynthetic proteins such as D1, Rubisco large subunit, and ATP synthase β‑subunit, but glycolytic enzymes like cytosolic GAPDH are nuclear‑encoded.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "Chloroplast ribosomes resemble bacterial ribosomes because they:",
+      "options": [
+        "Contain 80S subunits like eukaryotic cytosolic ribosomes",
+        "Are 70S particles composed of 50S and 30S subunits",
+        "Contain only a 28S rRNA component",
+        "Are synthesized inside the nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast ribosomes are 70S, consisting of a 50S large subunit and a 30S small subunit, mirroring the ribosomes of their cyanobacterial ancestors.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "Polysomes in the chloroplast stroma are formed when:",
+      "options": [
+        "Several ribosomes simultaneously translate a single mRNA molecule",
+        "Ribosomes are anchored to thylakoid membranes for protein insertion",
+        "DNA replication occurs within the stroma",
+        "Lipid synthesis enzymes aggregate on the membrane"
+      ],
+      "answer": 0,
+      "explanation": "A polysome is a cluster of ribosomes attached to the same mRNA, allowing concurrent translation of chloroplast‑encoded proteins in the stroma.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "A key difference between chloroplast ribosomes and cytosolic ribosomes in plant cells is:",
+      "options": [
+        "Chloroplast ribosomes are 80S, while cytosolic ribosomes are 70S",
+        "Chloroplast ribosomes are 70S, while cytosolic ribosomes are 80S",
+        "Both types are 80S ribosomes",
+        "Both types are 70S ribosomes"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplast ribosomes are prokaryotic‑type 70S ribosomes, whereas the eukaryotic cytosolic ribosomes are larger 80S particles.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "Typically, how many copies of chloroplast DNA are present in a single chloroplast?",
+      "options": [
+        "1–2 copies",
+        "5–10 copies",
+        "20–100 copies",
+        "More than 200 copies"
+      ],
+      "answer": 2,
+      "explanation": "Most chloroplasts contain roughly 20 to 100 copies of their circular genome, providing sufficient templates for transcription of photosynthetic genes.",
+      "topic": "Chloroplast DNA and ribosomes"
+    },
+    {
+      "question": "Which pigment is predominantly accumulated in chromoplasts?",
+      "options": [
+        "Chlorophyll a",
+        "Carotenoids",
+        "Phycobilins",
+        "Anthocyanins"
+      ],
+      "answer": 1,
+      "explanation": "Chromoplasts mainly store carotenoid pigments, which give orange, yellow and red colours to plant tissues.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "Chromoplasts are commonly derived from which plastid type during fruit ripening?",
+      "options": [
+        "Proplastids",
+        "Chloroplasts",
+        "Amyloplasts",
+        "Leucoplasts"
+      ],
+      "answer": 1,
+      "explanation": "During ripening, chloroplasts lose chlorophyll and differentiate into chromoplasts, a process called chloroplast-to-chromoplast conversion.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "Which structural feature most clearly distinguishes chromoplasts from chloroplasts?",
+      "options": [
+        "Presence of stacked thylakoid grana",
+        "Absence of internal membrane system",
+        "Presence of numerous plastoglobuli",
+        "Presence of a double membrane envelope"
+      ],
+      "answer": 2,
+      "explanation": "Chromoplasts contain abundant plastoglobuli—lipid‑rich bodies that store carotenoids—whereas chloroplasts have well‑developed thylakoid stacks.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "In which plant part are chromoplasts most abundant?",
+      "options": [
+        "Roots",
+        "Young leaves",
+        "Mature green leaves",
+        "Ripening fruits"
+      ],
+      "answer": 3,
+      "explanation": "Ripening fruits accumulate chromoplasts to synthesize and store carotenoids, giving them characteristic orange, red or yellow colours.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "The conversion of chloroplasts to chromoplasts primarily involves degradation of which pigment?",
+      "options": [
+        "Carotenoids",
+        "Xanthophylls",
+        "Chlorophyll",
+        "Anthocyanins"
+      ],
+      "answer": 2,
+      "explanation": "Chlorophyll is broken down during the chloroplast‑to‑chromoplast transition, allowing carotenoids to become visible.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "Which statement about chromoplasts is FALSE?",
+      "options": [
+        "They are sites of carotenoid biosynthesis",
+        "They contain their own DNA",
+        "They are involved in photosynthesis",
+        "They can arise from other plastids"
+      ],
+      "answer": 2,
+      "explanation": "Chromoplasts lack the photosynthetic apparatus; they do not perform photosynthesis, unlike chloroplasts.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "Which plastid type, known for starch accumulation, can differentiate into chromoplasts under certain conditions?",
+      "options": [
+        "Amyloplast",
+        "Leucoplast",
+        "Proplastid",
+        "Gerontoplast"
+      ],
+      "answer": 0,
+      "explanation": "Amyloplasts store starch and, when the tissue undergoes ripening or senescence, can transdifferentiate into chromoplasts to produce carotenoids.",
+      "topic": "Chromoplasts"
+    },
+    {
+      "question": "Which of the following best describes leucoplasts?",
+      "options": [
+        "Pigmented plastids containing chlorophyll",
+        "Non-pigmented plastids involved in storage",
+        "Plastids that synthesize ATP",
+        "Plastids that produce lipids for cuticle"
+      ],
+      "answer": 1,
+      "explanation": "Leucoplasts are colourless plastids that function mainly as storage organelles for substances such as starch, lipids or proteins.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "Amyloplasts, a type of leucoplast specialized for starch storage, are most abundant in which plant tissue?",
+      "options": [
+        "Leaf mesophyll",
+        "Root cortex",
+        "Guard cells",
+        "Xylem vessels"
+      ],
+      "answer": 1,
+      "explanation": "Amyloplasts accumulate large starch granules and are typically found in non‑photosynthetic storage tissues like the root cortex and tubers.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "Which statement about leucoplasts is FALSE?",
+      "options": [
+        "They possess internal thylakoid membranes.",
+        "They contain their own 70S ribosomes.",
+        "They can differentiate into chloroplasts under light.",
+        "They are bounded by a double membrane."
+      ],
+      "answer": 0,
+      "explanation": "Leucoplasts lack thylakoid membranes; thylakoids are characteristic of chloroplasts.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "Elaioplasts, a subclass of leucoplasts, primarily store which substance?",
+      "options": [
+        "Starch",
+        "Lipids",
+        "Proteins",
+        "Pigments"
+      ],
+      "answer": 1,
+      "explanation": "Elaioplasts are specialised leucoplasts that store oily substances (lipids) in seeds and fruits.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "In a developing seed, proteinoplasts are important for storing:",
+      "options": [
+        "Starch granules",
+        "Lipid droplets",
+        "Storage proteins",
+        "Chlorophyll"
+      ],
+      "answer": 2,
+      "explanation": "Proteinoplasts are leucoplasts that accumulate storage proteins, providing nitrogen reserves for the germinating seed.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "Which observation would most directly indicate the presence of leucoplasts in a root cell?",
+      "options": [
+        "Red fluorescence under UV light",
+        "Presence of starch granules visible with iodine staining",
+        "High rate of oxygen evolution",
+        "Presence of grana stacks"
+      ],
+      "answer": 1,
+      "explanation": "Iodine staining of root cells reveals starch granules stored in amyloplasts, a type of leucoplast.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "The conversion of a proplastid into a leucoplast is primarily regulated by:",
+      "options": [
+        "Light intensity",
+        "Hormonal signals like auxin",
+        "Absence of light",
+        "High temperature"
+      ],
+      "answer": 2,
+      "explanation": "In the dark, proplastids differentiate into colourless leucoplasts, whereas light promotes chloroplast development.",
+      "topic": "Leucoplasts"
+    },
+    {
+      "question": "Which of the following correctly describes the subunit composition of eukaryotic ribosomes?",
+      "options": [
+        "70S ribosome composed of 50S and 20S subunits",
+        "80S ribosome composed of 60S and 40S subunits",
+        "80S ribosome composed of 50S and 30S subunits",
+        "70S ribosome composed of 60S and 20S subunits"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic ribosomes are 80S particles made of a 60S large subunit and a 40S small subunit.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "In prokaryotic cells, ribosomes are primarily found as:",
+      "options": [
+        "Free polysomes in cytoplasm",
+        "Bound to the nuclear envelope",
+        "Within mitochondria",
+        "In the Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotes lack a nucleus; their ribosomes are free in the cytoplasm and often form polysomes on a single mRNA.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Which antibiotic specifically inhibits the 30S subunit of bacterial ribosomes?",
+      "options": [
+        "Chloramphenicol",
+        "Erythromycin",
+        "Tetracycline",
+        "Gentamicin"
+      ],
+      "answer": 2,
+      "explanation": "Tetracycline binds to the 30S subunit, preventing attachment of aminoacyl‑tRNA to the ribosomal A site.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "The presence of which of the following indicates that a ribosome is part of a polysome?",
+      "options": [
+        "A single ribosome attached to mRNA",
+        "Multiple ribosomes attached to a single mRNA strand",
+        "Ribosome bound to the endoplasmic reticulum",
+        "Ribosome lacking rRNA"
+      ],
+      "answer": 1,
+      "explanation": "A polysome (polyribosome) consists of several ribosomes simultaneously translating the same mRNA molecule.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Which statement about mitochondrial ribosomes is correct?",
+      "options": [
+        "They are 70S ribosomes similar to bacterial ribosomes",
+        "They are 80S ribosomes identical to cytosolic ribosomes",
+        "They consist of only protein and no rRNA",
+        "They are absent in animal cells"
+      ],
+      "answer": 0,
+      "explanation": "Mitochondrial ribosomes resemble bacterial 70S ribosomes, reflecting the organelle’s endosymbiotic origin.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "The primary function of the 5S rRNA in the ribosome is to:",
+      "options": [
+        "Catalyze peptide bond formation",
+        "Form the peptidyl transferase center",
+        "Stabilize the structure of the large subunit",
+        "Bind to the Shine‑Dalgarno sequence"
+      ],
+      "answer": 2,
+      "explanation": "5S rRNA contributes to the structural stability of the large ribosomal subunit and helps maintain proper positioning of other rRNA components.",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Which of the following best explains why eukaryotic ribosomes are larger (80S) than prokaryotic ribosomes (70S)?",
+      "options": [
+        "They contain additional proteins and larger rRNA molecules",
+        "They have an extra membrane‑bound subunit",
+        "They possess DNA instead of RNA",
+        "They are composed of three subunits instead of two"
+      ],
+      "answer": 0,
+      "explanation": "Eukaryotic ribosomes have more ribosomal proteins and larger rRNA species, resulting in a higher sedimentation coefficient (80S).",
+      "topic": "Ribosomes"
+    },
+    {
+      "question": "Which statement correctly distinguishes prokaryotic 70S ribosomes from eukaryotic 80S ribosomes?",
+      "options": [
+        "70S ribosome consists of 30S and 50S subunits, while 80S consists of 40S and 60S subunits.",
+        "70S ribosome consists of 40S and 60S subunits, while 80S consists of 30S and 50S subunits.",
+        "Both ribosomes have identical subunit sizes but differ in RNA content.",
+        "70S ribosomes are found only in eukaryotic cells."
+      ],
+      "answer": 0,
+      "explanation": "Prokaryotic ribosomes are 70S, composed of a 30S small and a 50S large subunit; eukaryotic ribosomes are 80S, composed of a 40S small and a 60S large subunit.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "In plant cells, ribosomes attached to the rough endoplasmic reticulum are of which type?",
+      "options": [
+        "70S ribosomes",
+        "80S ribosomes",
+        "Both 70S and 80S ribosomes",
+        "None of the above"
+      ],
+      "answer": 1,
+      "explanation": "Rough ER in plant (and animal) cells contains eukaryotic 80S ribosomes that synthesize secretory and membrane proteins.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "Which rRNA component is present in 80S ribosomes but absent in 70S ribosomes?",
+      "options": [
+        "5S rRNA",
+        "5.8S rRNA",
+        "23S rRNA",
+        "16S rRNA"
+      ],
+      "answer": 1,
+      "explanation": "The 5.8S rRNA is unique to eukaryotic 80S ribosomes; prokaryotic 70S ribosomes lack this RNA.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "The antibiotic chloramphenicol inhibits protein synthesis by binding to which ribosomal subunit?",
+      "options": [
+        "50S subunit of the 70S ribosome",
+        "60S subunit of the 80S ribosome",
+        "30S subunit of the 70S ribosome",
+        "40S subunit of the 80S ribosome"
+      ],
+      "answer": 0,
+      "explanation": "Chloramphenicol specifically binds to the 50S large subunit of prokaryotic 70S ribosomes, blocking peptidyl transferase activity.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "Which organelles in plant cells contain 70S ribosomes?",
+      "options": [
+        "Mitochondria",
+        "Chloroplasts",
+        "Both mitochondria and chloroplasts",
+        "Neither mitochondria nor chloroplasts"
+      ],
+      "answer": 2,
+      "explanation": "Both mitochondria and chloroplasts are semi‑autonomous organelles that retain prokaryotic‑type 70S ribosomes for synthesis of a few of their own proteins.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "What is the sedimentation coefficient of the large subunit of a prokaryotic ribosome?",
+      "options": [
+        "50S",
+        "60S",
+        "70S",
+        "80S"
+      ],
+      "answer": 0,
+      "explanation": "The large subunit of a prokaryotic ribosome sediments at 50S, pairing with the 30S small subunit to form the 70S ribosome.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "During translation initiation in eukaryotes, the initiator tRNA (Met‑tRNAi) is first bound to which ribosomal subunit?",
+      "options": [
+        "40S subunit",
+        "30S subunit",
+        "60S subunit",
+        "50S subunit"
+      ],
+      "answer": 0,
+      "explanation": "In eukaryotes, Met‑tRNAi forms a complex with the 40S small subunit before joining the 60S large subunit to form the functional 80S ribosome.",
+      "topic": "70S and 80S ribosomes"
+    },
+    {
+      "question": "Polysomes, also called polyribosomes, are best described as:",
+      "options": [
+        "A single ribosome bound to a tRNA",
+        "A cluster of ribosomes attached to a single mRNA molecule",
+        "A ribosome attached to the endoplasmic reticulum",
+        "A mitochondrial ribosome"
+      ],
+      "answer": 1,
+      "explanation": "Polysomes consist of multiple ribosomes simultaneously translating the same messenger RNA, forming a chain-like structure.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "In eukaryotic cells, polysomes are commonly found attached to which cellular structure?",
+      "options": [
+        "Smooth endoplasmic reticulum",
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum",
+        "Nuclear envelope"
+      ],
+      "answer": 2,
+      "explanation": "The rough ER has membrane‑bound ribosomes, and polysomes often form on these ribosomes as they translate secretory or membrane proteins.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "The ribosomes that constitute polysomes in eukaryotic cytoplasm are of which type?",
+      "options": [
+        "70S",
+        "80S",
+        "50S",
+        "30S"
+      ],
+      "answer": 1,
+      "explanation": "Eukaryotic cytoplasmic ribosomes are 80S particles, and polysomes are aggregates of these 80S ribosomes on a single mRNA.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "One major advantage of polysome formation during protein synthesis is:",
+      "options": [
+        "Increased fidelity of amino acid incorporation",
+        "Simultaneous synthesis of multiple copies of the same protein",
+        "Prevention of mRNA degradation",
+        "Requirement of less ATP"
+      ],
+      "answer": 1,
+      "explanation": "Having several ribosomes on one mRNA allows many protein copies to be made at the same time, speeding up overall protein production.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "Under electron microscopy, polysomes appear as:",
+      "options": [
+        "Individual ribosomes scattered randomly",
+        "Linear arrays of ribosomes linked by DNA",
+        "Dense clusters of ribosomes on a filamentous strand",
+        "Membrane‑bound vesicles"
+      ],
+      "answer": 2,
+      "explanation": "Electron micrographs show polysomes as groups of ribosomes arranged along a filamentous mRNA, giving a dense clustered appearance.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "Which of the following agents, when added to a eukaryotic cell culture, would most directly disrupt polysome formation?",
+      "options": [
+        "Chloramphenicol",
+        "Cycloheximide",
+        "Tetracycline",
+        "Rifampicin"
+      ],
+      "answer": 1,
+      "explanation": "Cycloheximide specifically blocks eukaryotic translational elongation, causing ribosomes to stall and preventing the formation of functional polysomes.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "The number of ribosomes present on a single mRNA in a polysome primarily depends on:",
+      "options": [
+        "The GC content of the mRNA",
+        "The length of the coding region and the rate of translation",
+        "The number of introns in the gene",
+        "The presence of a 5' cap"
+      ],
+      "answer": 1,
+      "explanation": "Longer coding regions allow more ribosomes to load, and a higher translation rate reduces the spacing between ribosomes, increasing ribosome density on the mRNA.",
+      "topic": "Polysomes"
+    },
+    {
+      "question": "Which cytoskeletal component serves as the primary track for intracellular transport of vesicles by the motor proteins kinesin and dynein?",
+      "options": [
+        "Microtubules",
+        "Microfilaments",
+        "Intermediate filaments",
+        "Cilia"
+      ],
+      "answer": 0,
+      "explanation": "Microtubules are hollow tubes of α‑ and β‑tubulin that provide tracks for kinesin (plus‑end directed) and dynein (minus‑end directed) motors, facilitating vesicle and organelle movement.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "The main protein subunit that polymerises to form microfilaments is:",
+      "options": [
+        "Tubulin",
+        "Actin",
+        "Keratin",
+        "Myosin"
+      ],
+      "answer": 1,
+      "explanation": "Microfilaments, also called actin filaments, are composed of polymerised globular actin (G‑actin) subunits forming filamentous (F‑actin) structures.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which statement correctly describes intermediate filaments?",
+      "options": [
+        "They are composed of tubulin dimers",
+        "They are involved in chromosome segregation",
+        "They provide tensile strength to cells",
+        "They generate ATP"
+      ],
+      "answer": 2,
+      "explanation": "Intermediate filaments are made of diverse proteins (e.g., keratin, vimentin, neurofilament) and primarily confer mechanical resilience, resisting shear stress; they are not directly involved in motility or ATP production.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "The basal body that nucleates the axoneme of a cilium is structurally analogous to which organelle?",
+      "options": [
+        "Nucleolus",
+        "Mitochondrion",
+        "Centrioles",
+        "Ribosome"
+      ],
+      "answer": 2,
+      "explanation": "A basal body is a modified centriole; both have a 9‑triplet microtubule arrangement and act as microtubule‑organising centres for cilia and flagella.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "During mitotic spindle formation, which structure at the centrosome initiates microtubule nucleation?",
+      "options": [
+        "Actin filaments",
+        "γ‑tubulin ring complex",
+        "Dynein",
+        "Kinesin"
+      ],
+      "answer": 1,
+      "explanation": "The γ‑tubulin ring complex (γ‑TuRC) anchored at the pericentriolar material of the centrosome caps the minus end of microtubules, serving as a nucleation template.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which drug interferes with microtubule polymerisation and is used experimentally to arrest cells in metaphase?",
+      "options": [
+        "Taxol",
+        "Colchicine",
+        "Cytochalasin D",
+        "Nocodazole"
+      ],
+      "answer": 1,
+      "explanation": "Colchicine binds tubulin dimers, preventing their addition to growing microtubules, leading to depolymerisation and metaphase arrest.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "The bending motion of the 9+2 axoneme in sperm flagella is generated by the activity of which motor protein?",
+      "options": [
+        "Kinesin",
+        "Dynein",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 1,
+      "explanation": "Dynein arms attached to the A‑microtubule slide against the B‑microtubule; ATP‑driven dynein activity produces the characteristic bending of flagella.",
+      "topic": "Cytoskeleton"
+    },
+    {
+      "question": "Which of the following statements correctly describes the basic subunit of a microtubule?",
+      "options": [
+        "α‑tubulin monomer",
+        "β‑tubulin monomer",
+        "α‑β tubulin heterodimer",
+        "γ‑tubulin ring complex"
+      ],
+      "answer": 2,
+      "explanation": "Microtubules are polymers of α‑β tubulin heterodimers; each dimer adds head‑to‑tail to form the protofilament.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "The dynamic instability of microtubules is primarily regulated by which nucleotide bound to tubulin?",
+      "options": [
+        "ATP",
+        "GTP",
+        "CTP",
+        "UTP"
+      ],
+      "answer": 1,
+      "explanation": "GTP bound to β‑tubulin is hydrolysed after polymerisation; a GTP cap at the plus end stabilises the filament, and its loss triggers depolymerisation.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "In animal cells, the primary microtubule‑organizing center (MTOC) that nucleates spindle fibers during mitosis is:",
+      "options": [
+        "Nucleolus",
+        "Centrosome",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1,
+      "explanation": "The centrosome, containing a pair of centrioles surrounded by pericentriolar material, serves as the main MTOC for spindle formation.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "Which motor protein moves cargo toward the minus end of a microtubule?",
+      "options": [
+        "Kinesin",
+        "Dynein",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 1,
+      "explanation": "Cytoplasmic dynein walks toward the microtubule minus end, whereas most kinesins move toward the plus end.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "The anti‑cancer drug paclitaxel (Taxol) exerts its effect by:",
+      "options": [
+        "Inhibiting tubulin polymerisation",
+        "Stabilizing microtubules against depolymerisation",
+        "Promoting microtubule severing",
+        "Blocking GTP binding to tubulin"
+      ],
+      "answer": 1,
+      "explanation": "Taxol binds to β‑tubulin and stabilises microtubules, preventing the dynamic re‑organisation required for cell division.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "The number of protofilaments that typically make up a microtubule cylinder in most eukaryotic cells is:",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "answer": 2,
+      "explanation": "A standard eukaryotic microtubule consists of 13 linear protofilaments arranged in a hollow tube.",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "Which structure is formed from the basal body, a modified centriole, and contains a microtubule‑based axoneme with a 9+2 arrangement?",
+      "options": [
+        "Flagellum",
+        "Cilium",
+        "Microvillus",
+        "Desmosome"
+      ],
+      "answer": 1,
+      "explanation": "The basal body nucleates the axoneme of a cilium (or flagellum) that typically displays a 9 outer doublet microtubules plus a central pair (9+2).",
+      "topic": "Microtubules"
+    },
+    {
+      "question": "Which statement correctly describes the polymerization of microfilaments?",
+      "options": [
+        "ATP‑bound G‑actin adds to the plus (+) end",
+        "ADP‑bound G‑actin adds to the minus (‑) end",
+        "Polymerization occurs only at the minus end",
+        "ATP hydrolysis is not involved"
+      ],
+      "answer": 0,
+      "explanation": "Polymerization of actin filaments occurs preferentially at the barbed (+) end where ATP‑bound G‑actin subunits add, and ATP is later hydrolysed to ADP within the filament.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "The primary protein component of microfilaments is:",
+      "options": [
+        "Tubulin",
+        "Actin",
+        "Keratin",
+        "Myosin"
+      ],
+      "answer": 1,
+      "explanation": "Microfilaments, also called actin filaments, are composed of polymerised actin (G‑actin) subunits.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "Which drug binds to F‑actin and stabilizes microfilaments, preventing depolymerization?",
+      "options": [
+        "Colchicine",
+        "Nocodazole",
+        "Cytochalasin D",
+        "Phalloidin"
+      ],
+      "answer": 3,
+      "explanation": "Phalloidin binds tightly to F‑actin, locking the filament and inhibiting its depolymerisation, whereas cytochalasin caps the barbed end and colchicine/nocodazole affect microtubules.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "In non‑muscle cells, microfilaments are essential for which process?",
+      "options": [
+        "Chromosome segregation",
+        "Vesicle transport along axons",
+        "Cytokinesis",
+        "Formation of the mitotic spindle"
+      ],
+      "answer": 2,
+      "explanation": "During cytokinesis a contractile actomyosin ring composed of microfilaments constricts the cell membrane to separate the two daughter cells.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "The interaction of actin filaments with which protein generates contractile force in muscle cells?",
+      "options": [
+        "Kinesin",
+        "Myosin",
+        "Dynein",
+        "Tropomyosin"
+      ],
+      "answer": 1,
+      "explanation": "Myosin heads bind to actin filaments and, using ATP, undergo conformational changes that produce the sliding filament mechanism of muscle contraction.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "Which statement correctly describes the polarity of actin filaments?",
+      "options": [
+        "Both ends are identical",
+        "The barbed (+) end grows faster than the pointed (-) end",
+        "The pointed (+) end grows faster",
+        "Polarity is irrelevant for function"
+      ],
+      "answer": 1,
+      "explanation": "Actin filaments are polar; the barbed (+) end has a higher rate of subunit addition compared with the pointed (‑) end, giving directional growth.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "Microfilaments are abundant in the brush border of intestinal epithelial cells, forming:",
+      "options": [
+        "Desmosomes",
+        "Tight junctions",
+        "Microvilli",
+        "Gap junctions"
+      ],
+      "answer": 2,
+      "explanation": "The core of each microvillus consists of a bundle of parallel actin filaments (microfilaments) that provide structural support and increase surface area for absorption.",
+      "topic": "Microfilaments"
+    },
+    {
+      "question": "Which of the following best describes the primary structural characteristic of intermediate filaments?",
+      "options": [
+        "Hollow tube of tubulin dimers",
+        "Double helical actin filaments",
+        "Rope-like fibers of coiled-coil proteins",
+        "Lipid bilayer sheets"
+      ],
+      "answer": 2,
+      "explanation": "Intermediate filaments are composed of staggered, antiparallel dimers that form coiled‑coil rods, which assemble into rope‑like fibers providing mechanical strength.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "Which type of intermediate filament is predominantly found in epithelial cells?",
+      "options": [
+        "Neurofilaments",
+        "Keratin",
+        "Vimentin",
+        "Desmin"
+      ],
+      "answer": 1,
+      "explanation": "Keratin proteins form the major intermediate filament network in epithelial cells, contributing to tissue integrity.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "Mutations in the gene encoding lamins A/C lead to which of the following disorders?",
+      "options": [
+        "Duchenne muscular dystrophy",
+        "Hutchinson-Gilford progeria syndrome",
+        "Cystic fibrosis",
+        "Sickle cell anemia"
+      ],
+      "answer": 1,
+      "explanation": "Lamins A/C mutations cause Hutchinson‑Gilford progeria syndrome, a premature aging disorder characterized by nuclear envelope defects.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "During mitosis, what major change occurs to intermediate filaments associated with the nuclear envelope?",
+      "options": [
+        "They depolymerize completely",
+        "They reorganize into a mitotic spindle",
+        "They remain largely unchanged",
+        "They are phosphorylated leading to disassembly of the nuclear lamina"
+      ],
+      "answer": 3,
+      "explanation": "Cyclin‑dependent kinases phosphorylate lamins during prophase, causing the nuclear lamina to disassemble and allowing chromosome segregation.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "Which statement correctly distinguishes intermediate filaments from microfilaments?",
+      "options": [
+        "IFs are composed of actin, microfilaments of tubulin",
+        "IFs provide tensile strength, microfilaments are involved in cell motility",
+        "IFs are dynamic with rapid turnover, microfilaments are stable",
+        "Both have the same diameter"
+      ],
+      "answer": 1,
+      "explanation": "Intermediate filaments mainly confer tensile strength and structural support, whereas microfilaments (actin) are essential for cell movement and shape changes.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "The average diameter of intermediate filaments is approximately:",
+      "options": [
+        "5 nm",
+        "10 nm",
+        "25 nm",
+        "50 nm"
+      ],
+      "answer": 1,
+      "explanation": "Intermediate filaments have a relatively uniform diameter of about 10 nm, larger than actin filaments (~7 nm) but smaller than microtubules (~25 nm).",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "Which cellular structure is primarily supported by a network of intermediate filaments?",
+      "options": [
+        "Cilia axoneme",
+        "Nuclear envelope",
+        "Golgi apparatus",
+        "Mitochondrial inner membrane"
+      ],
+      "answer": 1,
+      "explanation": "The nuclear envelope is underpinned by a lamina of intermediate filaments (lamins) that maintains nuclear shape and integrity.",
+      "topic": "Intermediate filaments"
+    },
+    {
+      "question": "Which of the following statements correctly describes the structural arrangement of microtubules in the axoneme of a typical motile cilium?",
+      "options": [
+        "9 doublet microtubules surrounding a central pair of singlet microtubules (9+2)",
+        "9 doublet microtubules without a central pair (9+0)",
+        "8 doublet microtubules surrounding a central pair (8+2)",
+        "7 doublet microtubules surrounding a central pair (7+2)"
+      ],
+      "answer": 0,
+      "explanation": "Motile cilia and flagella possess the classic 9+2 axonemal pattern: nine peripheral doublet microtubules encircling a central pair of singlet microtubules, which is essential for their bending motion.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "The motor protein that generates the bending movement of cilia and flagella is:",
+      "options": [
+        "Dynein",
+        "Kinesin",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Dynein arms attached to the A‑microtubule of each doublet walk toward the B‑microtubule of the adjacent doublet, producing sliding that is converted into bending of the axoneme.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "Primary (non‑motile) cilia are most commonly found on which type of human cell?",
+      "options": [
+        "Photoreceptor cells of the retina",
+        "Spermatozoa",
+        "Respiratory epithelial cells",
+        "Renal tubular epithelial cells"
+      ],
+      "answer": 3,
+      "explanation": "Renal tubular epithelial cells bear a single primary cilium that functions as a mechanosensor, detecting fluid flow in the nephron.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "Kartagener's syndrome, characterized by chronic respiratory infections and male infertility, is primarily caused by a defect in:",
+      "options": [
+        "Absence of dynein arms in the axoneme",
+        "Absence of basal bodies",
+        "Lack of the 9+2 microtubule arrangement",
+        "Absence of mitochondria in cilia"
+      ],
+      "answer": 0,
+      "explanation": "The syndrome results from immotile cilia due to missing or defective dynein arms, impairing ciliary beat and sperm flagellar motility.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "The basal body that nucleates a cilium is structurally analogous to which cellular structure?",
+      "options": [
+        "Golgi apparatus",
+        "Centriole",
+        "Lysosome",
+        "Mitochondrion"
+      ],
+      "answer": 1,
+      "explanation": "A basal body is derived from a centriole; both share the nine‑triplet microtubule organization and act as microtubule‑organizing centers.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "Nodal cilia generate a leftward fluid flow during embryogenesis. This directional flow is mainly due to:",
+      "options": [
+        "Clockwise rotation of the cilia",
+        "Counter‑clockwise rotation of the cilia",
+        "Posterior tilt of the cilia",
+        "Anterior tilt of the cilia"
+      ],
+      "answer": 2,
+      "explanation": "Nodal cilia rotate clockwise but are posteriorly tilted, producing a leftward flow that is crucial for establishing left‑right asymmetry.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "Which statement correctly differentiates cilia from flagella in human cells?",
+      "options": [
+        "Cilia are longer than flagella",
+        "Cilia beat in a coordinated wave while flagella exhibit a propeller‑like motion",
+        "Cilia contain a 9+0 axoneme whereas flagella contain a 9+2 axoneme",
+        "Cilia are found only in the male reproductive tract while flagella are found in the respiratory tract"
+      ],
+      "answer": 1,
+      "explanation": "In humans, motile cilia beat in coordinated, metachronal waves across epithelial surfaces, whereas flagella (e.g., sperm tails) perform a propeller‑type movement to propel the cell.",
+      "topic": "Cilia and flagella"
+    },
+    {
+      "question": "Which of the following best describes the structural arrangement of microtubules in a mature centriole?",
+      "options": [
+        "9 doublet microtubules",
+        "9 triplet microtubules",
+        "13 singlet microtubules",
+        "12 doublet microtubules"
+      ],
+      "answer": 1,
+      "explanation": "A mature centriole is composed of nine sets of triplet microtubules arranged in a cylindrical pattern, a hallmark feature distinguishing it from other microtubule structures.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "The primary function of the centrosome during mitosis is to:",
+      "options": [
+        "Synthesize DNA",
+        "Nucleate microtubules to form the mitotic spindle",
+        "Produce ATP",
+        "Package proteins into vesicles"
+      ],
+      "answer": 1,
+      "explanation": "During mitosis the centrosome acts as the main microtubule‑organizing center (MTOC), nucleating the spindle fibers required for chromosome segregation.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "In animal cells, the duplication of centrioles occurs during which phase of the cell cycle?",
+      "options": [
+        "G1 phase",
+        "S phase",
+        "G2 phase",
+        "M phase"
+      ],
+      "answer": 1,
+      "explanation": "Centrioles duplicate once per cell cycle, initiating in the S phase concurrently with DNA replication, ensuring each daughter cell inherits a centrosome.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "Which statement correctly distinguishes centrosomes from basal bodies?",
+      "options": [
+        "Centrosomes are present only in plant cells",
+        "Basal bodies lack microtubules",
+        "Both have identical 9 triplet microtubule arrangement but differ in location and function",
+        "Basal bodies are composed of 9 doublet microtubules"
+      ],
+      "answer": 2,
+      "explanation": "Centrosomes and basal bodies share the same 9‑triplet microtubule architecture; centrosomes reside near the nucleus as MTOCs, whereas basal bodies are located at the base of cilia/flagella.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "A cell lacking functional pericentriolar material (PCM) would most likely exhibit which defect?",
+      "options": [
+        "Inability to replicate DNA",
+        "Failure to nucleate microtubules leading to abnormal spindle formation",
+        "Defective protein synthesis",
+        "Impaired lipid metabolism"
+      ],
+      "answer": 1,
+      "explanation": "PCM contains γ‑tubulin complexes essential for microtubule nucleation; its loss impairs spindle assembly and chromosome segregation.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "Which of the following is true regarding the presence of centrosomes in plant cells?",
+      "options": [
+        "All plant cells contain centrosomes identical to animal cells",
+        "Higher plants lack centrioles but have microtubule organizing centers",
+        "Plant cells have centrioles only during meiosis",
+        "Plant cells have centrioles that act as basal bodies for chloroplast movement"
+      ],
+      "answer": 1,
+      "explanation": "Most higher plant cells lack centrioles; instead they possess diffuse microtubule‑organizing centers that perform similar functions without a defined centrosome.",
+      "topic": "Centrosome and centrioles"
+    },
+    {
+      "question": "Centrosome amplification is most closely associated with which cellular outcome?",
+      "options": [
+        "Increased ATP production",
+        "Chromosomal instability leading to tumorigenesis",
+        "Enhanced photosynthetic efficiency",
+        "Decreased cell motility"
+      ],
+      "answer": 1,
+      "explanation": "Extra centrosomes can cause multipolar spindles, resulting in missegregation of chromosomes and genomic instability, a hallmark of many cancers.",
+      "topic": "Centrosome and centrioles"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 26,
+    "mcqCount": 182
+  }
+}

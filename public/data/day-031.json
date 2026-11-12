@@ -1,0 +1,2002 @@
+{
+  "day": 31,
+  "courseDate": "2026-09-29",
+  "publishAt": "2026-09-29T06:00:00+05:30",
+  "title": "Animal Tissues - Day 31",
+  "introduction": "This lesson covers the classification, structure, function and locations of all major animal tissues, emphasizing NEET‑focused high‑yield points such as tissue types, their characteristic cells, extracellular matrix, and functional relevance in the human body.",
+  "sections": [
+    {
+      "topic": "Animal tissues and their classification",
+      "heading": "Classification of Animal Tissues",
+      "content": "Animal tissues are groups of similar cells and their extracellular material that perform a specific function. They are broadly classified into four primary types: epithelial, connective, muscular and nervous tissues. Each primary type is further subdivided based on cell shape, arrangement, and matrix composition.",
+      "keyPoints": [
+        "Four primary tissue types: epithelial, connective, muscular, nervous",
+        "Classification based on cell morphology and matrix",
+        "All tissues arise from embryonic mesoderm except epithelial (ectoderm/endoderm)"
+      ],
+      "neetTips": [
+        "Remember the mnemonic \"ECMN\" for the four tissue types",
+        "Link each tissue type to its characteristic cell and matrix for quick recall"
+      ]
+    },
+    {
+      "topic": "Epithelial tissue",
+      "heading": "Epithelial Tissue Overview",
+      "content": "Epithelial tissue consists of tightly packed cells with minimal extracellular matrix, forming continuous sheets that line body surfaces, cavities and glands. Cells exhibit polarity with distinct apical, basal and lateral surfaces, and rest on a basement membrane.",
+      "keyPoints": [
+        "Cells are closely packed with little matrix",
+        "Polarity: apical (free), basal (attached to basement membrane)",
+        "Functions include protection, absorption, secretion, filtration"
+      ],
+      "neetTips": [
+        "Associate \"epithelium\" with \"cover\" – it covers surfaces"
+      ]
+    },
+    {
+      "topic": "Types of epithelial tissue",
+      "heading": "Classification of Epithelial Tissue",
+      "content": "Epithelia are classified by cell shape (squamous, cuboidal, columnar) and number of layers (simple, stratified, pseudostratified). Specialized forms include transitional epithelium and glandular epithelium (simple cuboidal, simple columnar).",
+      "keyPoints": [
+        "Simple = one layer; Stratified = multiple layers",
+        "Squamous = flat, cuboidal = cube‑shaped, columnar = tall",
+        "Transitional epithelium stretches; pseudostratified appears multilayered but all cells touch basement membrane"
+      ],
+      "neetTips": [
+        "Use the table: Shape + Layers → 6 basic types"
+      ]
+    },
+    {
+      "topic": "Functions and locations of epithelial tissues",
+      "heading": "Functions & Sites of Epithelia",
+      "content": "Simple squamous epithelium facilitates diffusion in alveoli and glomeruli. Simple cuboidal lines kidney tubules and glandular ducts. Simple columnar lines gastrointestinal tract for absorption. Stratified squamous protects skin and oral cavity. Transitional epithelium lines urinary bladder. Pseudostratified ciliated columnar lines respiratory tract for mucus clearance.",
+      "keyPoints": [
+        "Alveoli & glomeruli – simple squamous (diffusion)",
+        "Kidney tubules – simple cuboidal (secretion, absorption)",
+        "GI tract – simple columnar (absorption, secretion)",
+        "Skin, esophagus – stratified squamous (protection)",
+        "Bladder – transitional (stretch)",
+        "Respiratory tract – pseudostratified ciliated (mucociliary clearance)"
+      ],
+      "neetTips": [
+        "Link each epithelial type to its hallmark function for quick matching"
+      ]
+    },
+    {
+      "topic": "Connective tissue",
+      "heading": "Connective Tissue Overview",
+      "content": "Connective tissue is characterized by abundant extracellular matrix (fibers and ground substance) produced by fibroblasts. It provides support, binding, protection, transport and storage. Based on matrix density and fiber type, it is divided into loose, dense, cartilage, bone, blood and lymph.",
+      "keyPoints": [
+        "Cells: fibroblasts, macrophages, adipocytes, chondrocytes, osteocytes, blood cells",
+        "Matrix: fibers (collagen, elastic, reticular) + ground substance",
+        "Functions: support, protection, transport, storage"
+      ],
+      "neetTips": [
+        "Remember \"FIBER\": Fibroblasts produce fibers, ground substance gives \"gel\" consistency"
+      ]
+    },
+    {
+      "topic": "Types of connective tissue",
+      "heading": "Classification of Connective Tissue",
+      "content": "Connective tissue is grouped into: (i) Loose connective tissue – areolar, adipose, reticular; (ii) Dense connective tissue – regular, irregular, elastic; (iii) Specialized connective tissue – cartilage, bone, blood, lymph. Classification depends on fiber density, arrangement and cell type.",
+      "keyPoints": [
+        "Loose = loosely arranged fibers, abundant ground substance",
+        "Dense = tightly packed collagen fibers",
+        "Specialized = cartilage, bone, blood, lymph"
+      ],
+      "neetTips": [
+        "Visualize a hierarchy tree: Loose → Dense → Specialized"
+      ]
+    },
+    {
+      "topic": "Areolar tissue",
+      "heading": "Areolar (Loose) Connective Tissue",
+      "content": "Areolar tissue contains fibroblasts, mast cells, macrophages, and a loose network of collagen, elastic, and reticular fibers embedded in a fluid ground substance. It cushions organs, provides elasticity and serves as a pathway for nerves and blood vessels.",
+      "keyPoints": [
+        "Fibroblasts produce fibers",
+        "Ground substance is semi‑fluid",
+        "Contains mast cells (histamine)",
+        "Found beneath epithelia and around organs"
+      ],
+      "neetTips": [
+        "Areolar = \"air‑filled\" – think of a soft, cushioning layer"
+      ]
+    },
+    {
+      "topic": "Adipose tissue",
+      "heading": "Adipose Tissue",
+      "content": "Adipose tissue consists of adipocytes filled with lipid droplets, a scant extracellular matrix, and occasional fibroblasts. It stores energy, provides insulation, and cushions organs. Two types: white (energy storage) and brown (thermogenesis).",
+      "keyPoints": [
+        "Adipocytes contain large lipid vacuole",
+        "White adipose – energy reserve; Brown adipose – many mitochondria, heat production",
+        "Located subcutaneously and around viscera"
+      ],
+      "neetTips": [
+        "White = storage, Brown = burn"
+      ]
+    },
+    {
+      "topic": "Dense connective tissue",
+      "heading": "Dense Connective Tissue",
+      "content": "Dense connective tissue is rich in tightly packed collagen fibers with few cells. Regular dense tissue has parallel fibers (tendons, ligaments) providing tensile strength in one direction. Irregular dense tissue has fibers in multiple directions (dermis) for multidirectional strength. Elastic dense tissue contains abundant elastic fibers (large arteries).",
+      "keyPoints": [
+        "Regular – parallel collagen (tendons, ligaments)",
+        "Irregular – random collagen (dermis)",
+        "Elastic – elastic fibers (elastic arteries)"
+      ],
+      "neetTips": [
+        "Tendons = \"tension\" – regular; Skin = \"scrabble\" – irregular"
+      ]
+    },
+    {
+      "topic": "Cartilage",
+      "heading": "Cartilage Types and Features",
+      "content": "Cartilage is a firm, flexible tissue with chondrocytes in lacunae within a dense matrix of collagen and proteoglycans. Three types: hyaline (most common – trachea, articular surfaces), fibrocartilage (high collagen – intervertebral discs, pubic symphysis), and elastic cartilage (elastic fibers – ear, epiglottis).",
+      "keyPoints": [
+        "Avascular, aneural – relies on diffusion",
+        "Hyline – glassy, supports ossification",
+        "Fibrocartilage – tensile strength",
+        "Elastic cartilage – flexibility"
+      ],
+      "neetTips": [
+        "HFE – Hyaline, Fibro, Elastic"
+      ]
+    },
+    {
+      "topic": "Bone",
+      "heading": "Bone Tissue Structure and Function",
+      "content": "Bone is a specialized connective tissue with osteocytes in lacunae, embedded in a mineralized matrix of hydroxyapatite (Ca10(PO4)6(OH)2) and collagen type I. Two structural types: compact (dense) and spongy (trabecular). Functions include support, protection, mineral storage, hematopoiesis and movement.",
+      "keyPoints": [
+        "Cells: osteoblasts (formation), osteocytes (maintenance), osteoclasts (resorption)",
+        "Compact bone – osteons (Haversian systems)",
+        "Spongy bone – trabeculae, red marrow",
+        "Matrix mineralized with hydroxyapatite"
+      ],
+      "neetTips": [
+        "Remember \"Osteo = bone\" and the three cell types for remodeling"
+      ]
+    },
+    {
+      "topic": "Blood",
+      "heading": "Blood – Fluid Connective Tissue",
+      "content": "Blood consists of cellular elements (erythrocytes, leukocytes, platelets) suspended in plasma (water, proteins, nutrients, waste). It transports gases, nutrients, hormones, and immune cells, maintains pH and temperature, and participates in clotting via the coagulation cascade.",
+      "keyPoints": [
+        "Erythrocytes – carry O2 via hemoglobin",
+        "Leukocytes – immune defense (granulocytes, lymphocytes)",
+        "Platelets – clot formation",
+        "Plasma – ~90% water, clotting factors, antibodies"
+      ],
+      "neetTips": [
+        "Think of blood as \"living plasma\" with cells for transport and defense"
+      ]
+    },
+    {
+      "topic": "Lymph",
+      "heading": "Lymph – Tissue Fluid and Immune Transport",
+      "content": "Lymph is interstitial fluid that enters lymphatic capillaries, becoming lymphatic fluid. It contains lymphocytes, proteins, and lipids (chyle). Lymph nodes filter lymph, initiating immune responses. The lymphatic system returns fluid to the venous circulation.",
+      "keyPoints": [
+        "Originates from plasma filtrate",
+        "Contains high lymphocyte count (especially T cells)",
+        "Chyle – lymph rich in dietary lipids from intestines",
+        "Filters in lymph nodes"
+      ],
+      "neetTips": [
+        "Lymph = \"liquid\" that \"links\" immunity"
+      ]
+    },
+    {
+      "topic": "Muscular tissue",
+      "heading": "Muscular Tissue Overview",
+      "content": "Muscular tissue is specialized for contraction, generating force and movement. It contains elongated cells (muscle fibers) with abundant contractile proteins actin and myosin. Three types differ in control, striation and location: skeletal (voluntary, striated), cardiac (involuntary, striated, intercalated discs), smooth (involuntary, non‑striated).",
+      "keyPoints": [
+        "Contractile proteins: actin (thin) & myosin (thick)",
+        "Excitation‑contraction coupling varies among types",
+        "Rich blood supply for energy demand"
+      ],
+      "neetTips": [
+        "SCS – Skeletal, Cardiac, Smooth"
+      ]
+    },
+    {
+      "topic": "Types of muscle tissue",
+      "heading": "Classification of Muscle Tissue",
+      "content": "Skeletal muscle fibers are multinucleated, cylindrical, and attached to bone via tendons. Cardiac muscle cells are branched, single‑nucleated, with intercalated discs containing desmosomes and gap junctions. Smooth muscle cells are spindle‑shaped, single‑nucleated, lacking striations, found in walls of hollow organs.",
+      "keyPoints": [
+        "Skeletal – voluntary, striated, multinucleated",
+        "Cardiac – involuntary, striated, branched, intercalated discs",
+        "Smooth – involuntary, non‑striated, spindle‑shaped"
+      ],
+      "neetTips": [
+        "Remember control: Voluntary = Skeletal; Involuntary = Cardiac & Smooth"
+      ]
+    },
+    {
+      "topic": "Skeletal muscle",
+      "heading": "Skeletal Muscle Structure & Function",
+      "content": "Skeletal muscle is composed of bundles (fascicles) of muscle fibers surrounded by endomysium, perimysium and epimysium. Each fiber contains myofibrils with repeating sarcomeres (A‑band, I‑band, H‑zone, Z‑line). Contraction follows the sliding filament theory driven by Ca²⁺ release from the sarcoplasmic reticulum.",
+      "keyPoints": [
+        "Sarcomere = functional unit",
+        "Sliding filament: myosin heads pull actin filaments",
+        "Neuromuscular junction – acetylcholine release",
+        "Fast vs slow fibers – glycolytic vs oxidative"
+      ],
+      "neetTips": [
+        "Sarcomere diagram: A‑band (myosin), I‑band (actin), Z‑line = boundary"
+      ]
+    },
+    {
+      "topic": "Smooth muscle",
+      "heading": "Smooth Muscle Characteristics",
+      "content": "Smooth muscle cells are spindle‑shaped with a single central nucleus, lacking sarcomeres. Contraction is regulated by intracellular Ca²⁺ binding to calmodulin, activating myosin light‑chain kinase. Found in walls of hollow organs (GI tract, blood vessels, uterus) and controlled by autonomic nervous system and hormones.",
+      "keyPoints": [
+        "Non‑striated, no sarcomeres",
+        "Ca²⁺‑calmodulin activates MLCK",
+        "Slow, sustained contractions",
+        "Regulated by autonomic nerves, hormones"
+      ],
+      "neetTips": [
+        "Smooth = \"slow\" – think of peristalsis"
+      ]
+    },
+    {
+      "topic": "Cardiac muscle",
+      "heading": "Cardiac Muscle Features",
+      "content": "Cardiac muscle cells are branched, striated, and interconnected by intercalated discs containing desmosomes, fascia adherens, and gap junctions, enabling synchronized contraction. Ca²⁺ influx through L‑type channels triggers Ca²⁺‑induced Ca²⁺ release from the sarcoplasmic reticulum. Involuntary, rhythmic activity powered by pacemaker cells.",
+      "keyPoints": [
+        "Intercalated discs ensure rapid impulse spread",
+        "Autorhythmicity from SA node cells",
+        "Ca²⁺‑induced Ca²⁺ release",
+        "Striated but involuntary"
+      ],
+      "neetTips": [
+        "Cardiac = \"c” for coordinated contraction via discs"
+      ]
+    },
+    {
+      "topic": "Nervous tissue",
+      "heading": "Nervous Tissue Overview",
+      "content": "Nervous tissue comprises neurons (excitable cells) and neuroglia (supportive cells). Neurons transmit electrical impulses via action potentials, while glial cells (astrocytes, oligodendrocytes, Schwann cells, microglia) provide structural support, myelination, and immune defense.",
+      "keyPoints": [
+        "Neurons: cell body, dendrites, axon",
+        "Glial types: astrocytes (blood‑brain barrier), oligodendrocytes/Schwann (myelin), microglia (phagocytosis)",
+        "Action potential generated by Na⁺ influx, K⁺ efflux"
+      ],
+      "neetTips": [
+        "Neuron = \"N” for signal; Glia = “glue”"
+      ]
+    },
+    {
+      "topic": "Neuron structure and function",
+      "heading": "Neuron Anatomy and Physiology",
+      "content": "A typical neuron has a soma containing nucleus, dendritic tree for receiving signals, and a single axon that may be myelinated. The axon hillock initiates action potentials when depolarization reaches threshold. Synaptic transmission occurs at axon terminals via neurotransmitter release into the synaptic cleft.",
+      "keyPoints": [
+        "Resting potential ≈ –70 mV",
+        "Threshold ≈ –55 mV triggers all‑or‑none action potential",
+        "Myelination increases conduction velocity (saltatory conduction)",
+        "Synapse: neurotransmitter release, receptor binding, post‑synaptic response"
+      ],
+      "neetTips": [
+        "All‑or‑none = once threshold crossed, full impulse travels"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Classify all animal tissues and recall their primary functions",
+    "Identify locations and characteristic features of each epithelial type",
+    "Differentiate loose, dense and specialized connective tissues and name examples",
+    "Describe structure, composition and functions of bone, cartilage, blood and lymph",
+    "Compare skeletal, cardiac and smooth muscle in terms of structure, control and contraction mechanism",
+    "Explain neuron anatomy, action potential generation and synaptic transmission"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT a characteristic feature of epithelial tissue?",
+      "options": [
+        "Avascularity",
+        "High regenerative capacity",
+        "Abundant extracellular matrix",
+        "Polarity of cells"
+      ],
+      "answer": 2,
+      "explanation": "Epithelial tissue has little extracellular matrix; it is mainly composed of tightly packed cells, making abundant ECM uncharacteristic.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "Which type of connective tissue is characterized by a loose arrangement of fibers and abundant ground substance, providing cushioning and flexibility?",
+      "options": [
+        "Dense regular connective tissue",
+        "Areolar tissue",
+        "Adipose tissue",
+        "Hyaline cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Areolar tissue has loosely arranged collagen and elastic fibers in a gel-like ground substance, giving it cushioning and flexibility.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "The tissue that lines the alveolar sacs of lungs and is involved in gas exchange is:",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified cuboidal epithelium",
+        "Pseudostratified columnar epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epitheli only one cell layer thick, ideal for diffusion of gases in alveoli.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes cardiac muscle from skeletal muscle?",
+      "options": [
+        "Cardiac muscle fibers are multinucleated, while skeletal muscle fibers are uninucleated.",
+        "Cardiac muscle exhibits voluntary control, whereas skeletal muscle is involuntary.",
+        "Cardiac muscle cells are connected by intercalated discs containing desmosomes and gap junctions.",
+        "Cardiac muscle lacks sarcoplasmic reticulum, unlike skeletal muscle."
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs with desmosomes and gap junctions are unique to cardiac muscle, enabling synchronized contraction.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "In the classification of animal tissues, which tissue type is primarily responsible for the production of antibodies?",
+      "options": [
+        "Epithelial tissue",
+        "Connective tissue",
+        "Muscular tissue",
+        "Nervous tissue"
+      ],
+      "answer": 1,
+      "explanation": "Antibodies are produced by plasma cells, which are differentiated B‑lymphocytes circulating in blood, a fluid connective tissue.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "Which of the following correctly pairs a type of epithelial tissue with its typical location?",
+      "options": [
+        "Stratified squamous epithelium – lining of the urinary bladder",
+        "Transitional epithelium – lining of the small intestine",
+        "Simple columnar epithelium – lining of the trachea",
+        "Pseudostratified ciliated columnar epithelium – lining of the respiratory tract"
+      ],
+      "answer": 3,
+      "explanation": "Pseudostratified ciliated columnar epithelium lines most of the respiratory tract, where cilia move mucus.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "Which connective tissue type is specialized for the storage of lipids and provides insulation and protection to underlying organs?",
+      "options": [
+        "Areolar tissue",
+        "Adipose tissue",
+        "Dense regular connective tissue",
+        "Cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Adipose tissue stores triglycerides in adipocytes and acts as thermal insulation and cushioning.",
+      "topic": "Animal tissues and their classification"
+    },
+    {
+      "question": "Which type of epithelium primarily lines the alveolar sacs of the lungs, facilitating gas exchange?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The thin, flat cells of simple squamous epithelium provide a minimal diffusion barrier, making it ideal for gas exchange in alveoli.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which characteristic is NOT typical of stratified squamous epithelium?",
+      "options": [
+        "Multiple layers of cells",
+        "Presence of a keratinized surface in skin",
+        "High rate of regeneration",
+        "Presence of microvilli for absorption"
+      ],
+      "answer": 3,
+      "explanation": "Stratified squamous epithelium is designed for protection, not absorption; microvilli are features of simple columnar or cuboidal epithelia involved in absorption.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which epithelium lines the renal tubules and is specialized for secretion and reabsorption?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Stratified cuboidal epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Renal tubules are lined by simple cuboidal epithelium, whose cells have abundant cytoplasm for active transport processes.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which statement about transitional epithelium is correct?",
+      "options": [
+        "It is found in the lining of the urinary bladder",
+        "It is composed of multiple layers of flat cells",
+        "It is specialized for secretion of mucus",
+        "It is impermeable to water"
+      ],
+      "answer": 0,
+      "explanation": "Transitional epithelium lines the urinary bladder and other parts of the urinary tract, allowing stretch without losing integrity.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which epithelial type is most adapted for diffusion and filtration processes?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified columnar epithelium",
+        "Pseudostratified columnar epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium’s thinness and large surface area make it ideal for diffusion and filtration, as seen in capillaries and glomeruli.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "The presence of motile cilia on the apical surface is a distinctive feature of which epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Pseudostratified columnar ciliated epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Pseudostratified columnar ciliated epithelium lines the respiratory tract, where cilia move mucus and trapped particles outward.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Match the epithelial type with its typical location:",
+      "options": [
+        "Simple columnar – lining of stomach",
+        "Stratified cuboidal – lining of mammary ducts",
+        "Transitional – lining of esophagus",
+        "Simple squamous – lining of skin epidermis"
+      ],
+      "answer": 0,
+      "explanation": "Simple columnar epithelium lines the stomach and most of the gastrointestinal tract, whereas the other pairings are incorrect.",
+      "topic": "Epithelial tissue"
+    },
+    {
+      "question": "Which type of epithelial tissue lines the alveolar sacs of the lungs, facilitating gas exchange?",
+      "options": [
+        "Simple squamous",
+        "Simple cuboidal",
+        "Stratified columnar",
+        "Transitional"
+      ],
+      "answer": 0,
+      "explanation": "Alveolar walls are composed of simple squamous epithelium, a single thin layer that allows rapid diffusion of gases.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Which epithelial type lines the urinary bladder and can expand without tearing?",
+      "options": [
+        "Simple columnar",
+        "Pseudostratified columnar",
+        "Stratified squamous",
+        "Transitional"
+      ],
+      "answer": 3,
+      "explanation": "Transitional epithelium has a shape that changes from cuboidal to squamous when the bladder fills, providing stretchability.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "The lining of most of the small intestine, characterized by microvilli for absorption, is which type of epithelium?",
+      "options": [
+        "Simple cuboidal",
+        "Simple columnar",
+        "Stratified cuboidal",
+        "Pseudostratified columnar"
+      ],
+      "answer": 1,
+      "explanation": "Simple columnar epithelium with brush border (microvilli) lines the small intestine to increase surface area for nutrient absorption.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Ciliated pseudostratified columnar epithelium is primarily found in which organ?",
+      "options": [
+        "Alveoli of lungs",
+        "Renal tubules",
+        "Trachea and larger bronchi",
+        "Skin epidermis"
+      ],
+      "answer": 2,
+      "explanation": "The trachea and larger bronchi are lined by ciliated pseudostratified columnar epithelium, which traps and moves particles out of the airway.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Keratinized stratified squamous epithelium forms the outer layer of which structure?",
+      "options": [
+        "Stratified squamous keratinized epithelium of the epidermis",
+        "Simple columnar epithelium of the stomach",
+        "Transitional epithelium of the urinary bladder",
+        "Simple cuboidal epithelium of kidney tubules"
+      ],
+      "answer": 0,
+      "explanation": "The epidermis of the skin consists of keratinized stratified squamous epithelium, providing protection against mechanical stress and water loss.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Which epithelial type lines the thyroid follicles and most renal tubules?",
+      "options": [
+        "Stratified columnar",
+        "Simple cuboidal",
+        "Transitional",
+        "Pseudostratified columnar"
+      ],
+      "answer": 1,
+      "explanation": "Simple cuboidal epithelium lines thyroid follicles and renal tubules, facilitating secretion and absorption functions.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Stratified cuboidal epithelium is typically found in which of the following locations?",
+      "options": [
+        "Alveolar sacs",
+        "Small intestine lining",
+        "Ducts of sweat and mammary glands",
+        "Urethra"
+      ],
+      "answer": 2,
+      "explanation": "Stratified cuboidal epithelium forms the ducts of sweat glands, mammary glands, and some salivary glands, providing protection and secretion.",
+      "topic": "Types of epithelial tissue"
+    },
+    {
+      "question": "Which type of epithelium lines the alveolar walls of the lungs and is specially adapted for rapid diffusion of gases?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Stratified squamous epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The thin, single-layered cells of simple squamous epithelium provide minimal diffusion distance, making it ideal for gas exchange in alveoli.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "The epithelium that lines the inner surface of the small intestine and is specialized for absorption is:",
+      "options": [
+        "Simple columnar epithelium with microvilli",
+        "Simple cuboidal epithelium",
+        "Stratified squamous epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Simple columnar cells possess a brush border of microvilli that greatly increase surface area for nutrient absorption in the small intestine.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "Which epithelium type lines the urinary bladder, allowing it to stretch without tearing?",
+      "options": [
+        "Stratified squamous epithelium",
+        "Transitional epithelium",
+        "Simple columnar epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Transitional epithelium can change shape from cuboidal to squamous, accommodating the bladder’s expansion and contraction.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "The lining of the male urethra is composed mainly of which epithelium?",
+      "options": [
+        "Stratified columnar epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium",
+        "Simple squamous epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Stratified columnar epithelium, though rare, lines parts of the male urethra, providing protection and secretion.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "Which epithelium type forms the ducts of sweat (sudoriferous) glands?",
+      "options": [
+        "Stratified cuboidal epithelium",
+        "Simple columnar epithelium",
+        "Simple squamous epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Stratified cuboidal epithelium lines many glandular ducts, including sweat glands, offering protection while allowing secretion.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "In the renal tubules, the primary function of the simple cuboidal epithelium is:",
+      "options": [
+        "Protection against abrasion",
+        "Filtration of blood plasma",
+        "Secretion and absorption",
+        "Sensory perception"
+      ],
+      "answer": 2,
+      "explanation": "Simple cuboidal cells in kidney tubules actively reabsorb useful substances and secrete waste products back into the tubular lumen.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "The respiratory tract (trachea and most bronchi) is lined by which epithelium that also contains goblet cells?",
+      "options": [
+        "Pseudostratified columnar ciliated epithelium",
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Pseudostratified columnar ciliated epithelium, with interspersed goblet cells, traps and moves mucus and particles out of the airway.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "The outermost layer of the skin (epidermis) is made up of which epithelium?",
+      "options": [
+        "Keratinized stratified squamous epithelium",
+        "Simple columnar epithelium",
+        "Transitional epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The epidermis consists of multiple layers of keratinized stratified squamous cells that protect against mechanical injury and water loss.",
+      "topic": "Functions and locations of epithelial tissues"
+    },
+    {
+      "question": "Which cell type is most abundant in areolar connective tissue?",
+      "options": [
+        "Fibroblasts",
+        "Adipocytes",
+        "Chondrocytes",
+        "Osteocytes"
+      ],
+      "answer": 0,
+      "explanation": "Areolar tissue has a sparse matrix populated mainly by fibroblasts that synthesize fibers and ground substance.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which fiber type provides the greatest tensile strength to tendons?",
+      "options": [
+        "Elastic fibers",
+        "Reticular fibers",
+        "Collagen fibers",
+        "Ground substance"
+      ],
+      "answer": 2,
+      "explanation": "Tendons contain densely packed type I collagen fibers, which resist high tensile forces.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which type of cartilage is most abundant in the adult human body?",
+      "options": [
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Fibrocartilage",
+        "Calcified cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Hyaline cartilage forms the articular surfaces of joints, costal cartilages, and the respiratory tract, making it the most common cartilage type.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "The extracellular matrix of bone is primarily composed of which of the following?",
+      "options": [
+        "Type I collagen fibers",
+        "Type III collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers"
+      ],
+      "answer": 0,
+      "explanation": "Bone matrix contains a dense network of type I collagen fibers that provide strength, later mineralized with calcium phosphate.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes blood from other connective tissues?",
+      "options": [
+        "It contains abundant ground substance",
+        "It has a liquid extracellular matrix called plasma",
+        "It contains dense regular collagen fibers",
+        "It lacks any cells"
+      ],
+      "answer": 1,
+      "explanation": "Blood is a fluid connective tissue whose extracellular matrix is the liquid plasma, unlike the solid matrices of other connective tissues.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which connective tissue is characterized by a high proportion of adipocytes and functions in energy storage and insulation?",
+      "options": [
+        "Areolar tissue",
+        "Adipose tissue",
+        "Dense regular connective tissue",
+        "Reticular tissue"
+      ],
+      "answer": 1,
+      "explanation": "Adipose tissue is composed mainly of adipocytes that store triglycerides and provide thermal insulation.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "In which connective tissue are reticular fibers most abundant?",
+      "options": [
+        "Bone",
+        "Lymphoid organs (e.g., spleen, lymph nodes)",
+        "Tendons",
+        "Dermis"
+      ],
+      "answer": 1,
+      "explanation": "Reticular fibers form a supportive meshwork in soft lymphoid organs such as spleen, lymph nodes, and bone marrow.",
+      "topic": "Connective tissue"
+    },
+    {
+      "question": "Which connective tissue type is characterized by loosely arranged collagen and elastic fibers with abundant ground substance and serves as a packing material?",
+      "options": [
+        "Areolar tissue",
+        "Adipose tissue",
+        "Dense regular connective tissue",
+        "Hyaline cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Areolar tissue has a loose arrangement of fibers and a gelatinous ground substance, providing cushioning and support as a packing material.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "The primary function of adipose tissue is:",
+      "options": [
+        "Support and protect organs by cushioning",
+        "Provide a site for rapid cell division",
+        "Store triglycerides as energy reserve",
+        "Produce blood cells"
+      ],
+      "answer": 2,
+      "explanation": "Adipose tissue stores triglycerides in large lipid droplets, serving as an energy reserve and insulation.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "Which type of dense connective tissue is found in tendons and is composed of parallel bundles of collagen fibers?",
+      "options": [
+        "Dense regular connective tissue",
+        "Dense irregular connective tissue",
+        "Reticular connective tissue",
+        "Elastic connective tissue"
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue has collagen fibers aligned parallel, giving tendons high tensile strength in one direction.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "Fibrocartilage is best suited for which of the following locations?",
+      "options": [
+        "Articular surfaces of long bones",
+        "Intervertebral discs",
+        "External ear",
+        "Tracheal rings"
+      ],
+      "answer": 1,
+      "explanation": "Fibrocartilage contains thick collagen fibers and is found in intervertebral discs, where it resists compression and shear.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "The matrix of which connective tissue type contains a high proportion of sulfated glycosaminoglycans and is avascular, relying on diffusion for nutrition?",
+      "options": [
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Bone",
+        "Blood"
+      ],
+      "answer": 0,
+      "explanation": "Hyaline cartilage has a matrix rich in sulfated GAGs (e.g., chondroitin sulfate) and lacks blood vessels, obtaining nutrients by diffusion.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes compact bone from spongy bone?",
+      "options": [
+        "Compact bone has osteons arranged in concentric lamellae, while spongy bone consists of trabeculae",
+        "Compact bone contains red marrow, spongy bone contains yellow marrow",
+        "Compact bone is more vascular than spongy bone",
+        "Compact bone is primarily composed of type III collagen fibers"
+      ],
+      "answer": 0,
+      "explanation": "Compact bone is organized into osteons (Haversian systems) with concentric lamellae; spongy bone is a network of trabeculae.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "Reticular connective tissue forms the supportive framework of which organ?",
+      "options": [
+        "Spleen",
+        "Skin",
+        "Tendon",
+        "Articular cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Reticular fibers create a delicate meshwork that supports the parenchyma of lymphoid organs such as the spleen.",
+      "topic": "Types of connective tissue"
+    },
+    {
+      "question": "Which cell type is most abundant in areolar tissue?",
+      "options": [
+        "Fibroblasts",
+        "Adipocytes",
+        "Chondrocytes",
+        "Osteocytes"
+      ],
+      "answer": 0,
+      "explanation": "Fibroblasts synthesize the fibers and ground substance, making them the predominant cell in areolar connective tissue.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "Areolar tissue contains which types of fibers?",
+      "options": [
+        "Only collagen fibers",
+        "Only elastic fibers",
+        "Both collagen and elastic fibers",
+        "Only reticular fibers"
+      ],
+      "answer": 2,
+      "explanation": "Areolar tissue has a mixture of thin collagen fibers for strength and elastic fibers for flexibility.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "The primary location of areolar tissue in the body is:",
+      "options": [
+        "Lining of alveoli",
+        "Dermis of the skin",
+        "Surrounding blood vessels and nerves",
+        "Articular cartilage"
+      ],
+      "answer": 2,
+      "explanation": "Areolar tissue forms the loose connective tissue that surrounds blood vessels, nerves and organs, providing support and a pathway for diffusion.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "Which function is NOT characteristic of areolar tissue?",
+      "options": [
+        "Provides cushioning and support",
+        "Stores fat",
+        "Acts as a reservoir of water and salts",
+        "Binds epithelia to underlying structures"
+      ],
+      "answer": 1,
+      "explanation": "Fat storage is a function of adipose tissue, not areolar connective tissue.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "The ground substance of areolar tissue is primarily composed of:",
+      "options": [
+        "Hyaluronic acid",
+        "Keratin",
+        "Collagen fibers",
+        "Calcium salts"
+      ],
+      "answer": 0,
+      "explanation": "Hyaluronic acid is a major component of the gel-like ground substance, allowing diffusion of nutrients and waste.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "Compared with dense regular connective tissue, areolar tissue has:",
+      "options": [
+        "Higher tensile strength",
+        "Lower vascularity",
+        "More ground substance",
+        "More densely packed collagen fibers"
+      ],
+      "answer": 2,
+      "explanation": "Areolar tissue contains abundant ground substance and loosely arranged fibers, whereas dense regular tissue has tightly packed collagen fibers and less ground substance.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "The role of mast cells in areolar tissue is to:",
+      "options": [
+        "Produce collagen fibers",
+        "Secrete histamine during inflammation",
+        "Phagocytose cellular debris",
+        "Generate electrical impulses"
+      ],
+      "answer": 1,
+      "explanation": "Mast cells reside in areolar tissue and release histamine and other mediators during allergic and inflammatory responses.",
+      "topic": "Areolar tissue"
+    },
+    {
+      "question": "Which type of adipose tissue is primarily involved in thermogenesis in newborns?",
+      "options": [
+        "White adipose tissue",
+        "Brown adipose tissue",
+        "Beige adipose tissue",
+        "Yellow adipose tissue"
+      ],
+      "answer": 1,
+      "explanation": "Brown adipose tissue contains abundant mitochondria and uncoupling protein-1, enabling heat production especially in newborns.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "The principal function of white adipose tissue is:",
+      "options": [
+        "Heat production",
+        "Mechanical cushioning",
+        "Storage of triglycerides",
+        "Synthesis of hemoglobin"
+      ],
+      "answer": 2,
+      "explanation": "White adipocytes store energy as triglycerides in a single large lipid droplet, serving as the main energy reserve.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "Which hormone secreted by adipocytes plays a key role in regulating appetite and body weight?",
+      "options": [
+        "Insulin",
+        "Leptin",
+        "Ghrelin",
+        "Cortisol"
+      ],
+      "answer": 1,
+      "explanation": "Leptin is produced by adipocytes and signals satiety to the hypothalamus, influencing food intake and energy balance.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "In routine histological sections, adipocytes appear as:",
+      "options": [
+        "Large polygonal cells with central nuclei",
+        "Small cells with abundant cytoplasm",
+        "Large cells with peripheral flattened nucleus",
+        "Multinucleated giant cells"
+      ],
+      "answer": 2,
+      "explanation": "Adipocytes have a large lipid vacuole that pushes the nucleus to the cell periphery, giving a flattened appearance.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes brown from white adipose tissue?",
+      "options": [
+        "Brown adipose tissue contains many small lipid droplets",
+        "White adipose tissue contains many small lipid droplets",
+        "Brown adipose tissue is poorly vascularized",
+        "White adipose tissue is richly vascularized"
+      ],
+      "answer": 0,
+      "explanation": "Brown adipocytes have multiple small lipid droplets and numerous mitochondria, unlike white adipocytes that have a single large droplet.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "Which of the following is NOT a typical site of white adipose tissue deposition?",
+      "options": [
+        "Subcutaneous tissue of the abdomen",
+        "Intra‑muscular fat",
+        "Bone marrow",
+        "Perirenal fat"
+      ],
+      "answer": 2,
+      "explanation": "Bone marrow primarily contains hematopoietic and stromal cells; adipose tissue in marrow is a distinct yellow marrow, not a major white adipose depot.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "Excess accumulation of white adipose tissue is most directly associated with which metabolic disorder?",
+      "options": [
+        "Osteoporosis",
+        "Atherosclerosis",
+        "Type 2 diabetes mellitus",
+        "Hyperthyroidism"
+      ],
+      "answer": 2,
+      "explanation": "Obesity, characterized by increased white adipose tissue, is a major risk factor for insulin resistance and type 2 diabetes.",
+      "topic": "Adipose tissue"
+    },
+    {
+      "question": "Which type of dense connective tissue is primarily composed of parallel collagen bundles and is found in tendons?",
+      "options": [
+        "Dense regular connective tissue",
+        "Dense irregular connective tissue",
+        "Areolar connective tissue",
+        "Adipose tissue"
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue has tightly packed, parallel collagen fibers giving it high tensile strength in one direction, typical of tendons.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "In dense irregular connective tissue, the collagen fibers are arranged:",
+      "options": [
+        "Parallel to each other",
+        "Randomly oriented",
+        "Arranged in sheets",
+        "Concentric circles"
+      ],
+      "answer": 1,
+      "explanation": "Dense irregular connective tissue shows collagen fibers interwoven in multiple directions, providing strength in various planes.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "Which statement correctly distinguishes dense regular from dense irregular connective tissue?",
+      "options": [
+        "Dense regular contains more elastin fibers than dense irregular",
+        "Dense regular provides tensile strength in one direction",
+        "Dense irregular is avascular whereas dense regular is vascular",
+        "Dense regular contains only fibroblasts"
+      ],
+      "answer": 1,
+      "explanation": "Dense regular’s parallel collagen bundles give tensile strength mainly along one axis, unlike the multidirectional strength of dense irregular tissue.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "The primary cell type responsible for synthesis of collagen fibers in dense connective tissue is:",
+      "options": [
+        "Fibroblasts",
+        "Chondrocytes",
+        "Osteocytes",
+        "Adipocytes"
+      ],
+      "answer": 0,
+      "explanation": "Fibroblasts are the main cells that produce collagen and other extracellular matrix components in connective tissues.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "Which location is NOT typical for dense regular connective tissue?",
+      "options": [
+        "Tendons",
+        "Ligaments",
+        "Dermis of skin",
+        "Sclera of eye"
+      ],
+      "answer": 2,
+      "explanation": "The dermis contains dense irregular connective tissue; dense regular is found in tendons, ligaments, and sclera.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "Why do tendons heal more slowly than skin?",
+      "options": [
+        "Higher cellularity",
+        "Rich blood supply",
+        "Low vascularity",
+        "Presence of elastin fibers"
+      ],
+      "answer": 2,
+      "explanation": "Tendons are poorly vascularized, limiting the supply of nutrients and reparative cells, leading to slower healing.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "In H&E stained sections, dense connective tissue appears pink mainly because of abundant:",
+      "options": [
+        "Nuclei",
+        "Cytoplasm",
+        "Collagen fibers",
+        "Ground substance"
+      ],
+      "answer": 2,
+      "explanation": "Eosin stains the protein-rich collagen fibers pink, giving dense connective tissue its characteristic coloration.",
+      "topic": "Dense connective tissue"
+    },
+    {
+      "question": "Which type of cartilage is found in the external ear and epiglottis?",
+      "options": [
+        "Hyaline cartilage",
+        "Fibrocartilage",
+        "Elastic cartilage",
+        "Articular cartilage"
+      ],
+      "answer": 2,
+      "explanation": "Elastic cartilage contains abundant elastic fibers that give flexibility, characteristic of the external ear and epiglottis.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "The predominant collagen type in the extracellular matrix of hyaline cartilage is:",
+      "options": [
+        "Type I collagen",
+        "Type II collagen",
+        "Type III collagen",
+        "Type IV collagen"
+      ],
+      "answer": 1,
+      "explanation": "Hyaline cartilage matrix is rich in type II collagen, which provides tensile strength while allowing a smooth surface.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "Increase in the length of cartilage during development occurs mainly by:",
+      "options": [
+        "Appositional growth",
+        "Interstitial growth",
+        "Endochondral ossification",
+        "Intramembranous ossification"
+      ],
+      "answer": 1,
+      "explanation": "Interstitial growth involves chondrocytes dividing within the cartilage matrix, expanding its length, especially at the epiphyseal plate.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "How does cartilage receive its nutrients?",
+      "options": [
+        "Blood vessels penetrate the matrix",
+        "Nutrients diffuse from the perichondrium",
+        "Chondrocytes obtain nutrients via lymphatics",
+        "Nerves supply nutrients directly"
+      ],
+      "answer": 1,
+      "explanation": "Cartilage is avascular; nutrients reach chondrocytes by diffusion from the surrounding perichondrium.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "Fibrocartilage is NOT typically found in which of the following locations?",
+      "options": [
+        "Intervertebral disc",
+        "Pubic symphysis",
+        "Meniscus of knee",
+        "Articular surface of femoral head"
+      ],
+      "answer": 3,
+      "explanation": "The articular surface of the femoral head is covered by hyaline cartilage, not fibrocartilage, which is suited for high tensile stress.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "Which statement about the perichondrium is correct?",
+      "options": [
+        "It contains osteoblasts",
+        "It provides blood supply to cartilage",
+        "It contains chondroblasts that can differentiate into osteoblasts",
+        "It is present around all types of cartilage"
+      ],
+      "answer": 1,
+      "explanation": "The perichondrium is a dense connective tissue layer that supplies blood vessels to cartilage, except in regions where cartilage is directly exposed, such as articular surfaces.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "The glassy appearance of hyaline cartilage is primarily due to a high content of:",
+      "options": [
+        "Collagen fibers",
+        "Proteoglycans",
+        "Elastic fibers",
+        "Calcium salts"
+      ],
+      "answer": 1,
+      "explanation": "Abundant proteoglycans in the ground substance give hyaline cartilage its smooth, glassy look and allow it to resist compression.",
+      "topic": "Cartilage"
+    },
+    {
+      "question": "Which statement correctly describes the Haversian system (osteon) in compact bone?",
+      "options": [
+        "It has a central canal containing nerves and blood vessels surrounded by concentric lamellae",
+        "It contains only lymphatic vessels in the central canal",
+        "Lamellae are arranged randomly without a concentric pattern",
+        "Osteocytes are located within the central canal"
+      ],
+      "answer": 0,
+      "explanation": "The Haversian system consists of a central (Haversian) canal that houses blood vessels and nerves, and concentric lamellae of bone matrix surrounding it, with osteocyte lacunae between the lamellae.",
+      "topic": "Bone"
+    },
+    {
+      "question": "The primary ossification center in a long bone develops by which type of ossification?",
+      "options": [
+        "Intramembranous ossification",
+        "Endochondral ossification",
+        "Perichondral ossification",
+        "Appositional ossification"
+      ],
+      "answer": 1,
+      "explanation": "Long bones form their primary ossification center through endochondral ossification, where a cartilage model is gradually replaced by bone tissue.",
+      "topic": "Bone"
+    },
+    {
+      "question": "Which bone cell is primarily responsible for bone resorption?",
+      "options": [
+        "Osteoblast",
+        "Osteocyte",
+        "Osteoclast",
+        "Chondrocyte"
+      ],
+      "answer": 2,
+      "explanation": "Osteoclasts are multinucleated cells that secrete acids and enzymes to dissolve mineralized bone matrix, effecting bone resorption.",
+      "topic": "Bone"
+    },
+    {
+      "question": "In an adult long bone, red marrow is mainly found in which region?",
+      "options": [
+        "Periosteum",
+        "Endosteum",
+        "Medullary cavity",
+        "Epiphysis"
+      ],
+      "answer": 3,
+      "explanation": "In adults, red marrow is predominantly located in the spongy bone of the epiphyses, whereas the medullary cavity of the diaphysis usually contains yellow (fatty) marrow.",
+      "topic": "Bone"
+    },
+    {
+      "question": "Which hormone directly stimulates osteoblast activity and promotes bone formation?",
+      "options": [
+        "Parathyroid hormone",
+        "Calcitonin",
+        "Growth hormone",
+        "Thyroxine"
+      ],
+      "answer": 2,
+      "explanation": "Growth hormone, via insulin‑like growth factor‑1 (IGF‑1), directly enhances osteoblast proliferation and activity, leading to increased bone formation.",
+      "topic": "Bone"
+    },
+    {
+      "question": "Which of the following is NOT a function of the periosteum?",
+      "options": [
+        "Provides a source of osteogenic cells",
+        "Supplies nutrients to compact bone",
+        "Serves as attachment for tendons and ligaments",
+        "Forms the medullary cavity"
+      ],
+      "answer": 3,
+      "explanation": "The periosteum does not form the medullary cavity; it is a dense connective tissue layer that supplies osteogenic cells, nutrients, and serves as an attachment site for tendons and ligaments.",
+      "topic": "Bone"
+    },
+    {
+      "question": "Which type of bone is characterized by a lattice‑like network of trabeculae and contains red marrow?",
+      "options": [
+        "Compact bone",
+        "Spongy bone",
+        "Woven bone",
+        "Hyaline cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Spongy (cancellous) bone consists of a porous network of trabeculae that houses red marrow, distinguishing it from dense compact bone.",
+      "topic": "Bone"
+    },
+    {
+      "question": "What is the approximate proportion of plasma in whole blood?",
+      "options": [
+        "55% plasma and 45% formed elements",
+        "45% plasma and 55% formed elements",
+        "70% plasma and 30% formed elements",
+        "30% plasma and 70% formed elements"
+      ],
+      "answer": 0,
+      "explanation": "Plasma constitutes about 55% of the volume of whole blood, while the remaining ~45% consists of formed elements (red cells, white cells, platelets).",
+      "topic": "Blood"
+    },
+    {
+      "question": "The primary function of neutrophils in the blood is to:",
+      "options": [
+        "Phagocytose bacteria and fungi",
+        "Produce antibodies",
+        "Transport oxygen",
+        "Initiate the coagulation cascade"
+      ],
+      "answer": 0,
+      "explanation": "Neutrophils are the most abundant leukocytes and are specialized for phagocytosis of invading bacteria and fungi, forming the first line of cellular defense.",
+      "topic": "Blood"
+    },
+    {
+      "question": "In the intrinsic pathway of the coagulation cascade, which factor is the first to be activated?",
+      "options": [
+        "Factor XII",
+        "Factor VII",
+        "Factor X",
+        "Prothrombin (Factor II)"
+      ],
+      "answer": 0,
+      "explanation": "The intrinsic pathway is initiated when Factor XII (Hageman factor) contacts negatively charged surfaces, leading to its activation.",
+      "topic": "Blood"
+    },
+    {
+      "question": "The H antigen, which serves as the precursor for ABO blood group antigens, is a:",
+      "options": [
+        "Protein",
+        "Lipid",
+        "Carbohydrate",
+        "Nucleic acid"
+      ],
+      "answer": 2,
+      "explanation": "The H antigen is a carbohydrate moiety on the red cell membrane; addition of specific sugars by glycosyltransferases creates the A or B antigens.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Compared with adult hemoglobin (HbA), the oxygen‑dissociation curve of fetal hemoglobin (HbF) is:",
+      "options": [
+        "Shifted to the left (higher affinity)",
+        "Shifted to the right (lower affinity)",
+        "No shift relative to HbA",
+        "Biphasic"
+      ],
+      "answer": 0,
+      "explanation": "HbF has a higher affinity for O₂ due to reduced 2,3‑BPG binding, causing a leftward shift of its dissociation curve, facilitating O₂ transfer from mother to fetus.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Which statement about plasma proteins is correct?",
+      "options": [
+        "Albumin contributes most to the plasma oncotic pressure",
+        "Globulins are the main osmotic regulators",
+        "Fibrinogen is a major transport protein",
+        "All plasma proteins are synthesized in the spleen"
+      ],
+      "answer": 0,
+      "explanation": "Albumin, the most abundant plasma protein, is primarily responsible for maintaining colloid osmotic (oncotic) pressure.",
+      "topic": "Blood"
+    },
+    {
+      "question": "An elevated mean corpuscular volume (MCV) in a complete blood count most likely indicates:",
+      "options": [
+        "Macrocytic anemia",
+        "Microcytic anemia",
+        "Normocytic anemia",
+        "Thalassemia trait"
+      ],
+      "answer": 0,
+      "explanation": "High MCV reflects larger-than-normal red blood cells, characteristic of macrocytic anemias such as those due to vitamin B12 or folate deficiency.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Which cells are the main source of heparin in the bloodstream?",
+      "options": [
+        "Mast cells",
+        "Basophils",
+        "Platelets",
+        "Endothelial cells"
+      ],
+      "answer": 0,
+      "explanation": "Heparin, a potent anticoagulant, is stored in granules of mast cells and released during inflammatory responses.",
+      "topic": "Blood"
+    },
+    {
+      "question": "Which statement correctly describes the composition of lymph compared to plasma?",
+      "options": [
+        "Plasma with high protein concentration",
+        "Plasma with low protein concentration",
+        "Interstitial fluid with high protein concentration",
+        "Interstitial fluid with low protein concentration"
+      ],
+      "answer": 3,
+      "explanation": "Lymph is essentially interstitial fluid that has entered lymphatic capillaries; it contains much lower protein concentration than plasma.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "The primary role of lymph nodes is to:",
+      "options": [
+        "Filter lymph and initiate immune responses",
+        "Produce erythrocytes",
+        "Store calcium salts",
+        "Synthesize thyroid hormones"
+      ],
+      "answer": 0,
+      "explanation": "Lymph nodes trap foreign particles and provide an environment for lymphocytes to recognize antigens, thereby filtering lymph and mounting immune responses.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "Which vessel transports chylomicrons absorbed from the intestine to the systemic circulation?",
+      "options": [
+        "Thoracic duct",
+        "Right lymphatic duct",
+        "Hepatic portal vein",
+        "Superior mesenteric artery"
+      ],
+      "answer": 0,
+      "explanation": "Chylomicrons enter lacteals, collect in the cisterna chyli and are conveyed to the bloodstream via the thoracic duct, which empties into the left subclavian vein.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "Lymph differs from blood because it does NOT contain:",
+      "options": [
+        "Lymphocytes",
+        "Plasma proteins",
+        "Erythrocytes",
+        "Neutrophils"
+      ],
+      "answer": 2,
+      "explanation": "Under normal conditions lymph lacks red blood cells; it contains white blood cells (lymphocytes, neutrophils) and a small amount of plasma proteins.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "The duct that empties lymph into the right internal jugular and subclavian veins is:",
+      "options": [
+        "Thoracic duct",
+        "Right lymphatic duct",
+        "Cisterna chyli",
+        "Lacteal"
+      ],
+      "answer": 1,
+      "explanation": "The right lymphatic duct drains lymph from the right upper quadrant of the body and opens into the junction of the right internal jugular and subclavian veins.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "Which of the following is NOT a function of the lymphatic system?",
+      "options": [
+        "Return of interstitial fluid to blood",
+        "Absorption of dietary lipids",
+        "Production of insulin",
+        "Immune surveillance"
+      ],
+      "answer": 2,
+      "explanation": "Insulin is produced by pancreatic β‑cells, not by the lymphatic system; the other listed functions are integral to lymphatic physiology.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "The overlapping endothelial cells of lymphatic capillaries act as:",
+      "options": [
+        "Valves preventing backflow",
+        "One-way entry points for interstitial fluid",
+        "Contractile elements",
+        "Sites of active protein transport"
+      ],
+      "answer": 1,
+      "explanation": "The loose, overlapping junctions open when interstitial pressure exceeds lymphatic pressure, allowing fluid to enter but preventing its exit, thus acting as one-way entry points.",
+      "topic": "Lymph"
+    },
+    {
+      "question": "Which type of muscle tissue is under involuntary control and exhibits striations?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Myocardial tissue"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle is involuntary and shows transverse striations due to its organized sarcomeres, unlike smooth muscle which is non‑striated.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "The primary protein that acts as the motor molecule during contraction of skeletal muscle fibers is:",
+      "options": [
+        "Actin",
+        "Myosin",
+        "Troponin",
+        "Tropomyosin"
+      ],
+      "answer": 1,
+      "explanation": "Myosin heads bind to actin filaments and hydrolyze ATP to generate force, making myosin the principal motor protein in skeletal muscle contraction.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "How are nuclei typically arranged in a mature skeletal muscle fiber?",
+      "options": [
+        "Multiple peripheral nuclei",
+        "Single central nucleus",
+        "Multiple central nuclei",
+        "Single peripheral nucleus"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers are multinucleated with nuclei positioned just beneath the sarcolemma (peripheral location).",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "The presence of intercalated discs is a distinctive feature of which muscle type?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs containing gap junctions and desmosomes are unique to cardiac muscle, allowing rapid electrical coupling between cells.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which muscle tissue can regenerate after injury owing to the presence of satellite cells?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All muscle types"
+      ],
+      "answer": 0,
+      "explanation": "Satellite cells are resident stem cells in skeletal muscle that proliferate and differentiate to repair damaged fibers; cardiac and smooth muscles lack such robust regenerative capacity.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Contraction of smooth muscle is primarily regulated by an increase in intracellular concentration of which ion?",
+      "options": [
+        "Sodium (Na+)",
+        "Calcium (Ca2+)",
+        "Potassium (K+)",
+        "Chloride (Cl-)"
+      ],
+      "answer": 1,
+      "explanation": "Elevated intracellular Ca2+ binds to calmodulin, activating myosin light‑chain kinase and initiating smooth muscle contraction.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which statement correctly matches the type of muscle with its mode of neural control?",
+      "options": [
+        "Skeletal – autonomic nervous system",
+        "Smooth – somatic nervous system",
+        "Cardiac – autonomic nervous system",
+        "Smooth – voluntary motor neurons"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle activity is regulated by the autonomic (both sympathetic and parasympathetic) nervous systems, whereas skeletal muscle is under somatic (voluntary) control and smooth muscle is primarily autonomic.",
+      "topic": "Muscular tissue"
+    },
+    {
+      "question": "Which type of muscle tissue possesses intercalated discs that facilitate synchronized contraction?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "All three types"
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs are specialized junctions found only in cardiac muscle, containing fascia adherens and gap junctions for mechanical and electrical coupling.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Which muscle type is primarily under voluntary (skeletal) control?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "All three types"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle fibers are attached to bones and are consciously controlled, unlike involuntary cardiac and smooth muscles.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Which of the following statements about smooth muscle is false?",
+      "options": [
+        "It has a single central nucleus",
+        "It is non‑striated",
+        "It is found in walls of hollow organs",
+        "It has sarcomeres"
+      ],
+      "answer": 3,
+      "explanation": "Smooth muscle lacks sarcomeres; its contractile proteins are arranged in dense bodies rather than the regular sarcomeric pattern of striated muscles.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "During prolonged exercise, the main source of ATP for sustained skeletal muscle contraction is:",
+      "options": [
+        "Creatine phosphate",
+        "Glycogenolysis",
+        "Oxidative phosphorylation",
+        "Anaerobic glycolysis"
+      ],
+      "answer": 2,
+      "explanation": "For long‑duration activity, skeletal muscle relies on oxidative phosphorylation in mitochondria, which yields the greatest amount of ATP per substrate.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Match each muscle type with its characteristic cellular arrangement:",
+      "options": [
+        "Skeletal – long multinucleated fibers",
+        "Smooth – spindle‑shaped cells with central nucleus",
+        "Cardiac – branched cells with single nucleus",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three descriptions are correct: skeletal fibers are long and multinucleated, smooth cells are spindle‑shaped with a central nucleus, and cardiac cells are branched with a single nucleus.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Which structure in cardiac muscle ensures rapid spread of action potentials between adjacent cells?",
+      "options": [
+        "T‑tubules",
+        "Sarcoplasmic reticulum",
+        "Gap junctions",
+        "Myofibrils"
+      ],
+      "answer": 2,
+      "explanation": "Gap junctions in intercalated discs allow ions to pass directly between cardiac cells, enabling swift electrical conduction.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Which muscle type has the highest mitochondria‑to‑cytoplasm ratio, reflecting its high oxidative capacity?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All have equal mitochondria"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac muscle cells contain abundant mitochondria to meet continuous aerobic energy demands, exceeding the mitochondrial density of skeletal and smooth muscles.",
+      "topic": "Types of muscle tissue"
+    },
+    {
+      "question": "Which protein in skeletal muscle directly binds calcium ions to initiate contraction?",
+      "options": [
+        "Troponin C",
+        "Myosin",
+        "Tropomyosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Troponin C is the calcium‑binding subunit of the troponin complex; its binding to Ca2+ triggers the conformational change that moves tropomyosin and exposes myosin‑binding sites on actin.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "The fundamental contractile unit of a skeletal muscle fibre is called:",
+      "options": [
+        "Myofibril",
+        "Sarcomere",
+        "Myofilament",
+        "Myotube"
+      ],
+      "answer": 1,
+      "explanation": "A sarcomere, defined by Z‑lines at its ends, contains the organized arrangement of thick (myosin) and thin (actin) filaments responsible for contraction.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Type I (slow‑twitch) skeletal muscle fibers are distinguished by:",
+      "options": [
+        "High myoglobin content",
+        "Fast contraction speed",
+        "Low oxidative capacity",
+        "Few mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Type I fibers contain abundant myoglobin, many mitochondria, and high oxidative enzymes, enabling sustained, aerobic activity.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "At the neuromuscular junction, acetylcholine released from the motor neuron binds to receptors on which structure?",
+      "options": [
+        "Sarcolemma",
+        "T‑tubules",
+        "Sarcoplasmic reticulum",
+        "Myosin heads"
+      ],
+      "answer": 0,
+      "explanation": "Acetylcholine receptors are located on the motor end‑plate of the sarcolemma; their activation depolarises the muscle membrane.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Which statement correctly differentiates skeletal muscle from cardiac muscle?",
+      "options": [
+        "Skeletal muscle cells are multinucleated",
+        "Cardiac muscle cells have intercalated discs",
+        "Both have striations",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All three statements are true: skeletal fibres are multinucleated, cardiac fibres possess intercalated discs, and both are striated.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "During excitation‑contraction coupling in skeletal muscle, the rapid rise in intracellular Ca2+ is released from:",
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "The sarcoplasmic reticulum stores Ca2+ and releases it through voltage‑sensitive ryanodine receptors upon depolarisation of the T‑tubules.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Which metabolic pathway primarily supplies ATP for prolonged, low‑intensity activity in skeletal muscle?",
+      "options": [
+        "Phosphocreatine system",
+        "Anaerobic glycolysis",
+        "Oxidative phosphorylation",
+        "Lactic acid fermentation"
+      ],
+      "answer": 2,
+      "explanation": "Oxidative phosphorylation in mitochondria provides the most efficient ATP generation for sustained, aerobic activities such as endurance exercise.",
+      "topic": "Skeletal muscle"
+    },
+    {
+      "question": "Which of the following is a characteristic feature that distinguishes smooth muscle cells from skeletal muscle cells?",
+      "options": [
+        "Presence of striations",
+        "Multinucleated cells",
+        "Presence of dense bodies",
+        "Voluntary control"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle cells lack striations and are uninucleated; they contain dense bodies that anchor actin filaments, a feature absent in skeletal muscle.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "In the gastrointestinal tract, peristaltic movement is primarily generated by which type of smooth muscle organization?",
+      "options": [
+        "Multi‑unit smooth muscle",
+        "Single‑unit (visceral) smooth muscle",
+        "Skeletal muscle",
+        "Cardiac muscle"
+      ],
+      "answer": 1,
+      "explanation": "The GI tract contains single‑unit (visceral) smooth muscle where cells are coupled by gap junctions, allowing coordinated contraction as a syncytium for peristalsis.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which ion–protein complex directly initiates contraction in smooth muscle?",
+      "options": [
+        "Ca²⁺ binding to troponin C",
+        "Ca²⁺ binding to calmodulin",
+        "Mg²⁺ binding to ATPase",
+        "Na⁺ influx through voltage‑gated channels"
+      ],
+      "answer": 1,
+      "explanation": "In smooth muscle, Ca²⁺ binds to calmodulin, forming a complex that activates myosin light‑chain kinase, leading to phosphorylation of myosin and contraction.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which neurotransmitter causes relaxation of most smooth muscles by acting on β₂‑adrenergic receptors?",
+      "options": [
+        "Acetylcholine acting on muscarinic receptors",
+        "Norepinephrine acting on β₂‑adrenergic receptors",
+        "Substance P",
+        "Dopamine"
+      ],
+      "answer": 1,
+      "explanation": "Sympathetic norepinephrine acting on β₂ receptors raises cAMP, leading to smooth‑muscle relaxation in many organs (e.g., bronchi, uterine vessels).",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which statement correctly describes the difference between single‑unit and multi‑unit smooth muscle?",
+      "options": [
+        "Single‑unit muscle cells are electrically isolated",
+        "Multi‑unit muscle exhibits gap junctions",
+        "Single‑unit muscle contracts as a syncytium",
+        "Multi‑unit muscle is found only in the walls of large arteries"
+      ],
+      "answer": 2,
+      "explanation": "Single‑unit (visceral) smooth muscle cells are linked by gap junctions, allowing the whole tissue to contract as a functional syncytium, unlike multi‑unit muscle where cells act independently.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which drug most effectively inhibits smooth‑muscle contraction by blocking L‑type calcium channels?",
+      "options": [
+        "Atropine",
+        "Verapamil",
+        "Propranolol",
+        "Phenylephrine"
+      ],
+      "answer": 1,
+      "explanation": "Verapamil is a calcium‑channel blocker that prevents Ca²⁺ entry through L‑type channels, reducing intracellular Ca²⁺ and inhibiting smooth‑muscle contraction.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "The predominant type of smooth muscle present in the uterus during pregnancy is:",
+      "options": [
+        "Multi‑unit smooth muscle",
+        "Skeletal muscle",
+        "Single‑unit smooth muscle",
+        "Cardiac muscle"
+      ],
+      "answer": 2,
+      "explanation": "Uterine wall consists mainly of single‑unit (visceral) smooth muscle, which contracts coordinately during labor.",
+      "topic": "Smooth muscle"
+    },
+    {
+      "question": "Which structure is most abundant in intercalated discs of cardiac muscle and provides strong mechanical coupling between adjacent cells?",
+      "options": [
+        "Desmosomes",
+        "Gap junctions",
+        "Myosin",
+        "Actin"
+      ],
+      "answer": 0,
+      "explanation": "Desmosomes are abundant in intercalated discs and anchor the contractile filaments of neighboring cardiac cells, preventing separation during contraction.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "What is the typical nuclear arrangement in a mature cardiac muscle cell?",
+      "options": [
+        "Multiple nuclei",
+        "Multinucleated",
+        "Single central nucleus",
+        "Lacks nucleus"
+      ],
+      "answer": 2,
+      "explanation": "Cardiac muscle fibers are uninucleated with a single centrally placed nucleus, unlike multinucleated skeletal fibers.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "The pacemaker potential in the sino‑atrial (SA) node is primarily generated by a slow inward influx of which ion?",
+      "options": [
+        "Sodium (Na+)",
+        "Calcium (Ca2+)",
+        "Potassium (K+)",
+        "Chloride (Cl-)"
+      ],
+      "answer": 1,
+      "explanation": "During the pacemaker potential, the gradual depolarization is mainly due to a slow inward flow of Ca2+ through funny channels and T-type Ca2+ channels.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which statement correctly distinguishes cardiac muscle from skeletal muscle?",
+      "options": [
+        "Cardiac muscle fibers are multinucleated",
+        "Cardiac muscle contracts voluntarily",
+        "Cardiac muscle has intercalated discs",
+        "Cardiac muscle lacks T‑tubules"
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs, containing desmosomes and gap junctions, are a unique feature of cardiac muscle and are absent in skeletal muscle.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "The long refractory period of cardiac muscle compared to skeletal muscle primarily prevents:",
+      "options": [
+        "Tetany",
+        "Fatigue",
+        "Rapid heart rate",
+        "Muscle soreness"
+      ],
+      "answer": 0,
+      "explanation": "A prolonged refractory period ensures the heart cannot be re‑stimulated before it finishes a contraction, thereby preventing tetanic contractions.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "During each heartbeat, the main source of calcium that triggers contraction in cardiac muscle is:",
+      "options": [
+        "Extracellular influx through L‑type Ca2+ channels",
+        "Release from sarcoplasmic reticulum only",
+        "Mitochondrial calcium release",
+        "Na+/Ca2+ exchanger"
+      ],
+      "answer": 0,
+      "explanation": "Cardiac contraction relies chiefly on calcium entering the cell via L‑type voltage‑gated Ca2+ channels; this calcium then induces further release from the sarcoplasmic reticulum.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which type of connective tissue forms the fibrous skeleton that anchors the heart valves?",
+      "options": [
+        "Dense regular connective tissue",
+        "Elastic cartilage",
+        "Areolar tissue",
+        "Adipose tissue"
+      ],
+      "answer": 0,
+      "explanation": "The cardiac fibrous skeleton is composed of dense regular connective tissue, providing strong attachment points for the heart valves and conducting tissue.",
+      "topic": "Cardiac muscle"
+    },
+    {
+      "question": "Which of the following statements correctly describes the function of the Nissl substance in a neuron?",
+      "options": [
+        "Site of protein synthesis",
+        "Synthesize neurotransmitters",
+        "Stores calcium ions",
+        "Generates action potentials"
+      ],
+      "answer": 0,
+      "explanation": "Nissl substance (rough ER) contains ribosomes and is the major site of protein synthesis, including enzymes and neurotransmitter precursors.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "The region of a neuron that integrates incoming synaptic signals is called:",
+      "options": [
+        "Axon hillock",
+        "Dendritic spine",
+        "Node of Ranvier",
+        "Synaptic knob"
+      ],
+      "answer": 0,
+      "explanation": "The axon hillock has a high density of voltage‑gated Na⁺ channels and acts as the trigger zone where summed excitatory and inhibitory inputs are integrated to initiate an action potential.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "Which type of glial cell forms the myelin sheath in the peripheral nervous system?",
+      "options": [
+        "Oligodendrocyte",
+        "Schwann cell",
+        "Astrocyte",
+        "Microglia"
+      ],
+      "answer": 1,
+      "explanation": "Schwann cells wrap around a single peripheral axon, forming the myelin sheath that speeds up impulse conduction via saltatory conduction.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "In a typical synapse, the neurotransmitter is released into the synaptic cleft by:",
+      "options": [
+        "Dendritic spine",
+        "Axon terminal",
+        "Cell body",
+        "Myelin sheath"
+      ],
+      "answer": 1,
+      "explanation": "Neurotransmitter‑filled vesicles fuse with the presynaptic membrane at the axon terminal, releasing their contents into the synaptic cleft.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "The refractory period of a neuron is primarily due to:",
+      "options": [
+        "Inactivation of voltage‑gated Na⁺ channels",
+        "Opening of K⁺ channels",
+        "Depletion of neurotransmitter vesicles",
+        "Hyperpolarization of the membrane"
+      ],
+      "answer": 0,
+      "explanation": "During the absolute refractory period, voltage‑gated Na⁺ channels become inactivated and cannot reopen, preventing a new action potential.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "Which of the following best describes the difference between a sensory (afferent) neuron and a motor (efferent) neuron?",
+      "options": [
+        "Sensory neurons have myelinated axons, motor neurons do not",
+        "Sensory neurons transmit impulses to CNS, motor neurons transmit impulses from CNS",
+        "Sensory neurons have cell bodies in CNS, motor neurons have cell bodies in PNS",
+        "Sensory neurons release acetylcholine at synapse, motor neurons release dopamine"
+      ],
+      "answer": 1,
+      "explanation": "Sensory (afferent) neurons carry information from peripheral receptors toward the central nervous system, whereas motor (efferent) neurons convey commands from the CNS to effectors.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "The speed of nerve impulse conduction is greatest in:",
+      "options": [
+        "Unmyelinated C fibers",
+        "Myelinated Aα fibers",
+        "Myelinated B fibers",
+        "Unmyelinated Aδ fibers"
+      ],
+      "answer": 1,
+      "explanation": "Myelinated Aα fibers have the largest diameter and thickest myelin, resulting in the highest conduction velocity among peripheral nerve fibers.",
+      "topic": "Nervous tissue"
+    },
+    {
+      "question": "Which neuronal region is primarily responsible for initiating an action potential?",
+      "options": [
+        "Dendritic shaft",
+        "Axon hillock",
+        "Myelin sheath",
+        "Synaptic terminal"
+      ],
+      "answer": 1,
+      "explanation": "The axon hillock has a high density of voltage‑gated Na⁺ channels and a lower threshold, making it the site where depolarization usually reaches the level needed to trigger an action potential.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "Rapid conduction of impulses along a myelinated axon is due to:",
+      "options": [
+        "Continuous depolarization of the entire membrane",
+        "Higher number of voltage‑gated Na⁺ channels along the axon",
+        "Saltatory conduction between nodes of Ranvier",
+        "Larger axonal diameter alone"
+      ],
+      "answer": 2,
+      "explanation": "Myelin forces the depolarizing current to jump from one node of Ranvier to the next, a process called saltatory conduction, which markedly speeds impulse transmission.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "The cell bodies of neurons whose peripheral processes transmit sensory information are located in:",
+      "options": [
+        "Anterior horn of the spinal cord",
+        "Dorsal root ganglion",
+        "Cerebral cortex",
+        "Ventral medullary pyramid"
+      ],
+      "answer": 1,
+      "explanation": "Sensory (afferent) neurons have their cell bodies in the dorsal root (spinal) or cranial ganglia, where they relay peripheral sensory signals to the CNS.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "At a chemical synapse, the influx of which ion triggers neurotransmitter release?",
+      "options": [
+        "Na⁺",
+        "Ca²⁺",
+        "K⁺",
+        "Cl⁻"
+      ],
+      "answer": 1,
+      "explanation": "Depolarization opens voltage‑gated Ca²⁺ channels; the resulting Ca²⁺ influx prompts synaptic vesicles to fuse with the presynaptic membrane and release neurotransmitter.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "The resting membrane potential of most neurons (~‑70 mV) is mainly maintained by:",
+      "options": [
+        "Na⁺/K⁺‑ATPase pump",
+        "Voltage‑gated Na⁺ channels",
+        "Cl⁻ channels",
+        "Gap junctions"
+      ],
+      "answer": 0,
+      "explanation": "The Na⁺/K⁺‑ATPase continuously expels 3 Na⁺ ions and imports 2 K⁺ ions, creating the ionic gradients that underlie the negative resting potential.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "Which statement about the myelin sheath is FALSE?",
+      "options": [
+        "It is formed by Schwann cells in the peripheral nervous system",
+        "It increases the speed of impulse conduction",
+        "It is continuous without any interruptions along the axon",
+        "It insulates the axon from extracellular ions"
+      ],
+      "answer": 2,
+      "explanation": "Myelin is interrupted at regular intervals by nodes of Ranvier; these gaps are essential for saltatory conduction.",
+      "topic": "Neuron structure and function"
+    },
+    {
+      "question": "The principal function of dendrites is to:",
+      "options": [
+        "Propagate action potentials away from the soma",
+        "Receive synaptic inputs from other neurons",
+        "Synthesize neurotransmitters",
+        "Generate the myelin sheath"
+      ],
+      "answer": 1,
+      "explanation": "Dendrites possess numerous receptors and synaptic sites, allowing them to collect incoming signals that are then transmitted toward the cell body.",
+      "topic": "Neuron structure and function"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 20,
+    "mcqCount": 142
+  }
+}

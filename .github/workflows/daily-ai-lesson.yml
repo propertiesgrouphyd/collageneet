@@ -1,0 +1,252 @@
+name: VIDHWAAN NEET — Daily AI Lesson
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vidhwaan-neet-daily-generation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate One NEET Lesson
+    runs-on: ubuntu-latest
+
+    steps:
+      # ------------------------------------------------------
+      # CHECKOUT
+      # ------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ------------------------------------------------------
+      # NODE
+      # ------------------------------------------------------
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      # ------------------------------------------------------
+      # DEPENDENCIES
+      # ------------------------------------------------------
+      - name: Install dependencies
+        run: npm ci
+
+      # ------------------------------------------------------
+      # SYLLABUS VALIDATION
+      # ------------------------------------------------------
+      - name: Validate syllabus
+        run: |
+          set -euo pipefail
+
+          echo "============================================================"
+          echo " VIDHWAAN NEET — SYLLABUS VALIDATION"
+          echo "============================================================"
+
+          npm run validate
+
+      # ------------------------------------------------------
+      # GROQ SECRET VALIDATION
+      # ------------------------------------------------------
+      - name: Validate Groq secret
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${GROQ_API_KEY:-}" ]; then
+            echo "ERROR: GROQ_API_KEY GitHub Secret is missing."
+            exit 1
+          fi
+
+          case "$GROQ_API_KEY" in
+            gsk_*)
+              echo "GROQ_API_KEY configured."
+              ;;
+            *)
+              echo "ERROR: Unexpected Groq key format."
+              exit 1
+              ;;
+          esac
+
+      # ------------------------------------------------------
+      # GENERATE EXACTLY ONE DAY
+      # ------------------------------------------------------
+      - name: Generate next daily lesson
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: openai/gpt-oss-120b
+        run: |
+          set -euo pipefail
+
+          echo "============================================================"
+          echo " VIDHWAAN NEET — DAILY AI GENERATION"
+          echo "============================================================"
+
+          node generator/generate-day.js
+
+      # ------------------------------------------------------
+      # VERIFY GENERATED FILES
+      # ------------------------------------------------------
+      - name: Verify generated lesson
+        run: |
+          set -euo pipefail
+
+          echo "============================================================"
+          echo " VIDHWAAN NEET — GENERATED LESSON VERIFICATION"
+          echo "============================================================"
+
+          mkdir -p public/data
+
+          python3 <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          data_dir = Path("public/data")
+
+          files = sorted(
+              data_dir.glob("day-*.json"),
+              key=lambda p: int(p.stem.split("-")[1])
+          )
+
+          if len(files) > 365:
+              raise SystemExit(
+                  f"ERROR: More than 365 lesson files exist: {len(files)}"
+              )
+
+          if not files:
+              raise SystemExit(
+                  "ERROR: No lesson files exist after generation."
+              )
+
+          expected = 1
+
+          for f in files:
+              match = re.fullmatch(r"day-(\d{3})", f.stem)
+
+              if not match:
+                  raise SystemExit(
+                      f"ERROR: Invalid lesson filename: {f.name}"
+                  )
+
+              day = int(match.group(1))
+
+              if day != expected:
+                  raise SystemExit(
+                      f"ERROR: Lesson sequence broken. "
+                      f"Expected Day {expected}, found Day {day}"
+                  )
+
+              try:
+                  content = json.loads(
+                      f.read_text(encoding="utf-8")
+                  )
+              except Exception as e:
+                  raise SystemExit(
+                      f"ERROR: Invalid JSON in {f}: {e}"
+                  )
+
+              if int(content.get("day", 0)) != day:
+                  raise SystemExit(
+                      f"ERROR: {f}: day metadata mismatch."
+                  )
+
+              if not content.get("courseDate"):
+                  raise SystemExit(
+                      f"ERROR: {f}: missing courseDate."
+                  )
+
+              if not content.get("publishAt"):
+                  raise SystemExit(
+                      f"ERROR: {f}: missing publishAt."
+                  )
+
+              if not isinstance(content.get("sections"), list):
+                  raise SystemExit(
+                      f"ERROR: {f}: sections must be an array."
+                  )
+
+              if not isinstance(content.get("mcqs"), list):
+                  raise SystemExit(
+                      f"ERROR: {f}: mcqs must be an array."
+                  )
+
+              if len(content["sections"]) == 0:
+                  raise SystemExit(
+                      f"ERROR: {f}: lesson contains no sections."
+                  )
+
+              if len(content["mcqs"]) == 0:
+                  raise SystemExit(
+                      f"ERROR: {f}: lesson contains no MCQs."
+                  )
+
+              expected += 1
+
+          latest = files[-1]
+
+          print(f"Lesson files : {len(files)}")
+          print(f"Latest lesson: {latest.name}")
+          print("Sequence     : VALID")
+          print("JSON         : VALID")
+          print("Content      : VALID")
+          PY
+
+      # ------------------------------------------------------
+      # VERIFY ONLY EXPECTED FILE CHANGED
+      # ------------------------------------------------------
+      - name: Verify Git changes
+        run: |
+          set -euo pipefail
+
+          echo "============================================================"
+          echo " VIDHWAAN NEET — GIT CHANGE VERIFICATION"
+          echo "============================================================"
+
+          git status --short
+
+          CHANGED="$(git status --porcelain -- \
+            'public/data/day-*.json' || true)"
+
+          if [ -z "$CHANGED" ]; then
+            echo "No new lesson file was generated."
+            echo "Nothing to commit."
+            exit 0
+          fi
+
+          echo "Generated lesson change:"
+          echo "$CHANGED"
+
+      # ------------------------------------------------------
+      # COMMIT + PUSH
+      # ------------------------------------------------------
+      - name: Commit generated lesson
+        run: |
+          set -euo pipefail
+
+          git add public/data/day-*.json
+
+          if git diff --cached --quiet; then
+            echo "No new lesson to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git commit -m "chore: generate daily NEET lesson"
+
+          git push origin HEAD:main
+
+          echo "============================================================"
+          echo " DAILY LESSON COMMITTED SUCCESSFULLY"
+          echo "============================================================"

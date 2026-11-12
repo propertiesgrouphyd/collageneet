@@ -1,0 +1,2125 @@
+{
+  "day": 57,
+  "courseDate": "2026-10-25",
+  "publishAt": "2026-10-25T06:00:00+05:30",
+  "title": "Respiration — Krebs Cycle and Electron Transport System (Day 57)",
+  "introduction": "This lesson details the biochemical steps that link glycolysis to oxidative phosphorylation in plant mitochondria. Emphasis is on the link reaction, the Krebs (citric acid) cycle, and the electron transport system (ETS) with chemiosmotic ATP synthesis, all of which are high‑yield for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Link reaction",
+      "heading": "Link Reaction – Pyruvate Oxidation",
+      "content": "The link reaction occurs in the mitochondrial matrix where each pyruvate (3‑C) from glycolysis is decarboxylated, combined with CoA and reduced NAD⁺ to form acetyl‑CoA, CO₂ and NADH. The enzyme complex pyruvate dehydrogenase (PDH) catalyzes this irreversible step, linking glycolysis to the Krebs cycle.",
+      "keyPoints": [
+        "Occurs in mitochondrial matrix",
+        "Pyruvate + CoA + NAD⁺ → acetyl‑CoA + CO₂ + NADH",
+        "Catalyzed by pyruvate dehydrogenase complex (PDH)",
+        "Irreversible, commits carbon to aerobic respiration"
+      ],
+      "neetTips": [
+        "Remember PDH is a multi‑enzyme complex – a common NEET factoid",
+        "Link reaction produces one NADH per pyruvate, i.e., two per glucose"
+      ]
+    },
+    {
+      "topic": "Conversion of pyruvate to acetyl-CoA",
+      "heading": "Conversion of Pyruvate to Acetyl‑CoA",
+      "content": "During the link reaction, the 3‑carbon pyruvate loses one carbon as CO₂, and the remaining 2‑carbon fragment attaches to coenzyme A, forming acetyl‑CoA, the substrate that enters the Krebs cycle. This step also generates NADH, providing reducing equivalents for the ETS.",
+      "keyPoints": [
+        "One carbon lost as CO₂",
+        "Acetyl group (2‑C) attaches to CoA",
+        "Produces NADH used later in ETS"
+      ],
+      "neetTips": [
+        "Link reaction is the only step that produces CO₂ before the Krebs cycle"
+      ]
+    },
+    {
+      "topic": "Mitochondrial matrix",
+      "heading": "Mitochondrial Matrix – Site of Central Metabolism",
+      "content": "The mitochondrial matrix is the innermost compartment bounded by the inner membrane. It houses the enzymes of the link reaction, the entire Krebs cycle, and the mitochondrial DNA. High concentrations of NAD⁺, FAD, ADP and inorganic phosphate reside here.",
+      "keyPoints": [
+        "Innermost compartment of mitochondrion",
+        "Contains enzymes of link reaction and Krebs cycle",
+        "Rich in NAD⁺, FAD, ADP, Pi"
+      ],
+      "neetTips": [
+        "All Krebs cycle reactions occur in the matrix – a frequent NEET diagram label"
+      ]
+    },
+    {
+      "topic": "Krebs cycle",
+      "heading": "Krebs Cycle Overview",
+      "content": "Also called the citric acid cycle, it is a cyclic series of eight reactions that oxidize acetyl‑CoA to CO₂, while reducing NAD⁺ to NADH, FAD to FADH₂ and generating GTP/ATP. Each turn processes one acetyl‑CoA molecule.",
+      "keyPoints": [
+        "Eight-step cyclic pathway",
+        "Oxidizes acetyl‑CoA to 2 CO₂",
+        "Produces 3 NADH, 1 FADH₂, 1 GTP (or ATP) per turn"
+      ],
+      "neetTips": [
+        "Remember the mnemonic: Citrate → Isocitrate → α‑KG → Succinyl‑CoA → Succinate → Fumarate → Malate → Oxaloacetate"
+      ]
+    },
+    {
+      "topic": "Citric acid cycle",
+      "heading": "Citric Acid Cycle – Detailed Sequence",
+      "content": "The cycle begins with condensation of acetyl‑CoA with oxaloacetate to form citrate (citric acid). Subsequent isomerization, oxidative decarboxylations, substrate‑level phosphorylation and regeneration steps complete the cycle.",
+      "keyPoints": [
+        "Citrate formation is the first step",
+        "Two decarboxylation steps release CO₂",
+        "Substrate‑level phosphorylation occurs at succinyl‑CoA synthetase"
+      ],
+      "neetTips": [
+        "Citrate → Isocitrate conversion is a simple rearrangement – often asked as a true/false"
+      ]
+    },
+    {
+      "topic": "Oxaloacetic acid",
+      "heading": "Oxaloacetic Acid – Cycle Starter and End‑Product",
+      "content": "Oxaloacetate (4‑C) condenses with acetyl‑CoA to form citrate, and is regenerated at the end of the cycle, ensuring continuity. It is derived from malate by oxidation via malate dehydrogenase.",
+      "keyPoints": [
+        "Four‑carbon molecule",
+        "Combines with acetyl‑CoA to start cycle",
+        "Regenerated from malate"
+      ],
+      "neetTips": [
+        "Oxaloacetate is the only molecule that appears both at the start and end of the cycle"
+      ]
+    },
+    {
+      "topic": "Citrate formation",
+      "heading": "Citrate Formation – Condensation Reaction",
+      "content": "Acetyl‑CoA (2‑C) and oxaloacetate (4‑C) are combined by citrate synthase to produce citrate (6‑C) and CoA‑SH. This highly exergonic step drives the cycle forward.",
+      "keyPoints": [
+        "Catalyzed by citrate synthase",
+        "Produces citrate + CoA‑SH",
+        "Irreversible under cellular conditions"
+      ],
+      "neetTips": [
+        "Citrate synthase reaction is the only irreversible step in the cycle"
+      ]
+    },
+    {
+      "topic": "Decarboxylation reactions",
+      "heading": "Decarboxylation Steps in the Krebs Cycle",
+      "content": "Two oxidative decarboxylations occur: (1) Isocitrate → α‑ketoglutarate (produces NADH and CO₂) catalyzed by isocitrate dehydrogenase; (2) α‑ketoglutarate → succinyl‑CoA (produces NADH and CO₂) catalyzed by α‑KG dehydrogenase complex.",
+      "keyPoints": [
+        "Isocitrate dehydrogenase and α‑KG dehydrogenase are NAD⁺‑dependent",
+        "Each releases one CO₂",
+        "Both generate NADH"
+      ],
+      "neetTips": [
+        "Both decarboxylation enzymes are regulated by NADH/NAD⁺ ratios – a common regulation question"
+      ]
+    },
+    {
+      "topic": "NADH production",
+      "heading": "NADH Generation in the Krebs Cycle",
+      "content": "Three NAD⁺ molecules are reduced to NADH per acetyl‑CoA: during isocitrate → α‑KG, α‑KG → succinyl‑CoA, and malate → oxaloacetate. NADH carries high‑energy electrons to the ETS.",
+      "keyPoints": [
+        "Three NADH per cycle turn",
+        "Produced at steps 3, 4, and 8"
+      ],
+      "neetTips": [
+        "Count NADH: 3 per turn → 6 per glucose"
+      ]
+    },
+    {
+      "topic": "FADH2 production",
+      "heading": "FADH₂ Formation in the Krebs Cycle",
+      "content": "One molecule of FAD is reduced to FADH₂ during the conversion of succinate to fumarate, catalyzed by succinate dehydrogenase, which is also part of Complex II of the ETS.",
+      "keyPoints": [
+        "Occurs at succinate → fumarate step",
+        "Catalyzed by succinate dehydrogenase (Complex II)"
+      ],
+      "neetTips": [
+        "Succinate dehydrogenase is the only Krebs enzyme embedded in the inner membrane"
+      ]
+    },
+    {
+      "topic": "ATP or GTP formation",
+      "heading": "Substrate‑Level Phosphorylation – GTP/ATP Synthesis",
+      "content": "The conversion of succinyl‑CoA to succinate by succinyl‑CoA synthetase generates GTP (or ATP in some tissues) directly via substrate‑level phosphorylation, independent of the ETS.",
+      "keyPoints": [
+        "One GTP (or ATP) per cycle turn",
+        "Catalyzed by succinyl‑CoA synthetase"
+      ],
+      "neetTips": [
+        "GTP can be readily converted to ATP by nucleoside diphosphate kinase"
+      ]
+    },
+    {
+      "topic": "Regeneration of oxaloacetate",
+      "heading": "Regeneration of Oxaloacetate – Cycle Completion",
+      "content": "Malate is oxidized to oxaloacetate by malate dehydrogenase, producing the final NADH and restoring the 4‑C acceptor for the next acetyl‑CoA molecule.",
+      "keyPoints": [
+        "Malate dehydrogenase catalyzes the step",
+        "Produces NADH and oxaloacetate"
+      ],
+      "neetTips": [
+        "The NADH from this step is often the last NADH counted in the cycle"
+      ]
+    },
+    {
+      "topic": "Electron transport system",
+      "heading": "Electron Transport System (ETS) Overview",
+      "content": "The ETS comprises four inner‑membrane protein complexes (I–IV) and mobile carriers (ubiquinone and cytochrome c). Electrons from NADH and FADH₂ travel through these complexes, releasing energy used to pump protons into the intermembrane space.",
+      "keyPoints": [
+        "Complex I (NADH dehydrogenase) receives electrons from NADH",
+        "Complex II (succinate dehydrogenase) receives electrons from FADH₂",
+        "Ubiquinone and cytochrome c shuttle electrons",
+        "Complex IV reduces O₂ to H₂O"
+      ],
+      "neetTips": [
+        "Remember the order: NADH → I → Q → III → cytochrome c → IV"
+      ]
+    },
+    {
+      "topic": "Inner mitochondrial membrane",
+      "heading": "Inner Mitochondrial Membrane – Functional Barrier",
+      "content": "The inner membrane is highly impermeable, housing the ETS complexes and ATP synthase. Its folded cristae increase surface area, maximizing proton pumping and ATP synthesis.",
+      "keyPoints": [
+        "Highly selective barrier",
+        "Contains ETS complexes I‑IV, ATP synthase",
+        "Cristae provide large surface area"
+      ],
+      "neetTips": [
+        "Proton gradient is established across this membrane, not the outer membrane"
+      ]
+    },
+    {
+      "topic": "Electron carriers",
+      "heading": "Mobile Electron Carriers – Ubiquinone and Cytochrome c",
+      "content": "Ubiquinone (CoQ) accepts electrons from Complex I and II, becoming ubiquinol, and transfers them to Complex III. Cytochrome c shuttles electrons from Complex III to Complex IV. Both are essential for electron flow.",
+      "keyPoints": [
+        "Ubiquinone (Q) ↔ ubiquinol (QH₂) between I/II and III",
+        "Cytochrome c transfers electrons from III to IV"
+      ],
+      "neetTips": [
+        "Both carriers are soluble in the inner membrane lipid bilayer, facilitating rapid electron transfer"
+      ]
+    },
+    {
+      "topic": "Proton gradient",
+      "heading": "Proton Gradient – Chemiosmotic Driving Force",
+      "content": "As electrons move through Complexes I, III and IV, protons are pumped from the matrix to the intermembrane space, creating an electrochemical gradient (ΔpH + membrane potential) that stores potential energy.",
+      "keyPoints": [
+        "Protons pumped at Complex I, III, IV",
+        "Creates both ΔpH and electrical potential",
+        "Energy stored as proton‑motive force"
+      ],
+      "neetTips": [
+        "The gradient is the basis of chemiosmosis – a classic NEET diagram"
+      ]
+    },
+    {
+      "topic": "Chemiosmosis",
+      "heading": "Chemiosmosis – Coupling Gradient to ATP Synthesis",
+      "content": "Protons flow back into the matrix through ATP synthase (Complex V), driving rotation of its γ‑subunit and catalyzing the phosphorylation of ADP to ATP. This process is termed oxidative phosphorylation.",
+      "keyPoints": [
+        "Proton flow through ATP synthase provides energy",
+        "Rotational mechanism converts ADP + Pi → ATP"
+      ],
+      "neetTips": [
+        "Remember P/O ratio: ~2.5 ATP per NADH, ~1.5 per FADH₂"
+      ]
+    },
+    {
+      "topic": "ATP synthase",
+      "heading": "ATP Synthase Structure and Function",
+      "content": "ATP synthase consists of F₀ (membrane‑embedded proton channel) and F₁ (catalytic) domains. Proton movement through F₀ causes conformational changes in F₁, synthesizing ATP from ADP and inorganic phosphate.",
+      "keyPoints": [
+        "F₀ channel conducts protons",
+        "F₁ domain catalyzes ATP formation",
+        "Rotational catalysis"
+      ],
+      "neetTips": [
+        "ATP synthase is sometimes called the 'molecular turbine'"
+      ]
+    },
+    {
+      "topic": "Oxidative phosphorylation",
+      "heading": "Oxidative Phosphorylation – Final ATP Yield",
+      "content": "The combined action of the ETS and chemiosmosis is called oxidative phosphorylation. Approximately 34‑36 ATP molecules are generated per glucose molecule when oxygen is the terminal electron acceptor.",
+      "keyPoints": [
+        "Integrates ETS and chemiosmosis",
+        "Yield ≈ 34‑36 ATP per glucose"
+      ],
+      "neetTips": [
+        "Add 2 ATP from glycolysis and 2 from link reaction to get total ~38 in prokaryotes; plants have slightly lower due to transport costs"
+      ]
+    },
+    {
+      "topic": "Terminal electron acceptor",
+      "heading": "Oxygen – Terminal Electron Acceptor",
+      "content": "Molecular oxygen (O₂) accepts electrons at Complex IV, combining with protons to form water. This step maintains electron flow and prevents backup of the ETS.",
+      "keyPoints": [
+        "Complex IV reduces O₂ + 4H⁺ → 2H₂O"
+      ],
+      "neetTips": [
+        "Absence of O₂ halts ETS → lactic acid fermentation"
+      ]
+    },
+    {
+      "topic": "Water formation",
+      "heading": "Water Formation in the ETS",
+      "content": "The four electrons transferred to O₂ at Complex IV combine with four protons from the matrix to produce two molecules of H₂O, completing the respiratory chain.",
+      "keyPoints": [
+        "2 H₂O formed per O₂ reduced"
+      ],
+      "neetTips": [
+        "Water formation is the ultimate fate of electrons from NADH/FADH₂"
+      ]
+    },
+    {
+      "topic": "Respiratory quotient overview",
+      "heading": "Respiratory Quotient (RQ) Overview",
+      "content": "RQ = CO₂ produced / O₂ consumed. For carbohydrate oxidation (glucose) RQ ≈ 1.0, reflecting equal moles of CO₂ and O₂. Fat oxidation yields RQ ≈ 0.7, protein ≈ 0.8. RQ helps infer substrate utilization.",
+      "keyPoints": [
+        "RQ = CO₂/O₂ ratio",
+        "Carbohydrate RQ ≈ 1.0",
+        "Fat RQ ≈ 0.7"
+      ],
+      "neetTips": [
+        "NEET often asks RQ value for glucose – answer 1.0"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the link reaction and formation of acetyl‑CoA",
+    "Describe each step, intermediates and energy yield of the Krebs (citric acid) cycle",
+    "Illustrate the components and operation of the electron transport system and chemiosmotic ATP synthesis",
+    "Interpret the respiratory quotient and its significance for substrate metabolism"
+  ],
+  "mcqs": [
+    {
+      "question": "Which of the following statements correctly describes the site of the link reaction in eukaryotic cells?",
+      "options": [
+        "Cytosol",
+        "Mitochondrial intermembrane space",
+        "Mitochondrial matrix",
+        "Outer mitochondrial membrane"
+      ],
+      "answer": 2,
+      "explanation": "The pyruvate dehydrogenase complex catalyzes the conversion of pyruvate to acetyl‑CoA in the mitochondrial matrix.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "The pyruvate dehydrogenase complex (PDC) requires all of the following co‑enzymes EXCEPT:",
+      "options": [
+        "Thiamine pyrophosphate (TPP)",
+        "Biotin",
+        "Lipoic acid",
+        "Coenzyme A"
+      ],
+      "answer": 1,
+      "explanation": "Biotin is a co‑enzyme for carboxylation reactions (e.g., pyruvate carboxylase) but not for the PDC; the required co‑enzymes are TPP, lipoic acid, CoA, FAD and NAD+.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "During the link reaction, one molecule of pyruvate yields which of the following products?",
+      "options": [
+        "2 NADH, 1 CO₂, and acetyl‑CoA",
+        "1 NADH, 2 CO₂, and acetyl‑CoA",
+        "1 FADH₂, 1 CO₂, and acetyl‑CoA",
+        "2 NADH, 2 CO₂, and acetyl‑CoA"
+      ],
+      "answer": 1,
+      "explanation": "One pyruvate is decarboxylated to release one CO₂, and the remaining two‑carbon fragment is transferred to CoA, producing acetyl‑CoA and one NADH.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "Which regulatory mechanism directly inhibits the activity of the pyruvate dehydrogenase complex?",
+      "options": [
+        "High levels of acetyl‑CoA and NADH",
+        "High levels of ADP and inorganic phosphate",
+        "Low ATP/ADP ratio",
+        "Activation by calcium ions"
+      ],
+      "answer": 0,
+      "explanation": "Acetyl‑CoA and NADH are allosteric inhibitors of PDC, signalling that the cell already has sufficient energy and building blocks.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "In the link reaction, the carbon atom that is released as CO₂ originates from which carbon of pyruvate?",
+      "options": [
+        "Methyl carbon (C‑3)",
+        "Carboxyl carbon (C‑1)",
+        "Carbonyl carbon (C‑2)",
+        "All three carbons are equally likely"
+      ],
+      "answer": 1,
+      "explanation": "The carboxyl carbon (C‑1) of pyruvate is removed as CO₂ during the decarboxylation step catalyzed by the E1 component of PDC.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "Which of the following best explains why the link reaction is considered irreversible under cellular conditions?",
+      "options": [
+        "It involves a highly exergonic decarboxylation coupled with NAD⁺ reduction",
+        "It requires ATP hydrolysis to proceed",
+        "It is driven by substrate-level phosphorylation",
+        "It is reversible but the equilibrium lies far to the left"
+      ],
+      "answer": 0,
+      "explanation": "The decarboxylation of pyruvate and the reduction of NAD⁺ to NADH release a large amount of free energy, making the overall reaction essentially irreversible.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "A deficiency of thiamine (vitamin B₁) would most directly affect which step of the link reaction?",
+      "options": [
+        "Transfer of the acetyl group to CoA",
+        "Oxidation of the lipoamide arm",
+        "Decarboxylation of pyruvate",
+        "Regeneration of NAD⁺"
+      ],
+      "answer": 2,
+      "explanation": "Thiamine pyrophosphate (TPP) is the co‑enzyme of the E1 component that catalyses the decarboxylation of pyruvate; its deficiency impairs this step.",
+      "topic": "Link reaction"
+    },
+    {
+      "question": "Where does the conversion of pyruvate to acetyl‑CoA take place in the cell?",
+      "options": [
+        "Cytosol",
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Peroxisome"
+      ],
+      "answer": 1,
+      "explanation": "The pyruvate dehydrogenase complex is located in the mitochondrial matrix, where pyruvate is oxidatively decarboxylated to acetyl‑CoA.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "During the link reaction, which coenzyme is reduced?",
+      "options": [
+        "NAD+",
+        "FAD",
+        "CoA",
+        "TPP"
+      ],
+      "answer": 0,
+      "explanation": "NAD+ accepts the electrons released in the oxidation of pyruvate and is reduced to NADH.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "The decarboxylation step catalyzed by the E1 subunit of the pyruvate dehydrogenase complex requires which vitamin‑derived cofactor?",
+      "options": [
+        "Thiamine pyrophosphate (TPP)",
+        "Biotin",
+        "Riboflavin",
+        "Pyridoxal phosphate"
+      ],
+      "answer": 0,
+      "explanation": "E1 (pyruvate dehydrogenase) uses thiamine pyrophosphate as a cofactor to remove the carboxyl group from pyruvate.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "One molecule of pyruvate yields how many molecules of NADH in the conversion to acetyl‑CoA?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "The oxidative decarboxylation of one pyruvate produces one NADH molecule.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "Which statement about the regulation of the pyruvate dehydrogenase complex (PDC) is FALSE?",
+      "options": [
+        "High acetyl‑CoA inhibits the complex",
+        "Phosphorylation activates the complex",
+        "Ca2+ activates the complex",
+        "NADH inhibits the complex"
+      ],
+      "answer": 1,
+      "explanation": "Phosphorylation of the PDC by pyruvate dehydrogenase kinase inactivates, not activates, the complex.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "The lipoic acid cofactor is covalently attached to which subunit of the pyruvate dehydrogenase complex?",
+      "options": [
+        "E1 (pyruvate dehydrogenase)",
+        "E2 (dihydrolipoyl transacetylase)",
+        "E3 (dihydrolipoyl dehydrogenase)",
+        "E4 (non‑existent)"
+      ],
+      "answer": 1,
+      "explanation": "Lipoic acid is bound to the E2 subunit, where it swings intermediates between active sites.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "In acetyl‑CoA formed from pyruvate, the two carbon atoms originate from which parts of the original pyruvate molecule?",
+      "options": [
+        "Both the carbonyl (C2) and methyl (C3) carbons",
+        "Only the carboxyl carbon (C1)",
+        "Only the methyl carbon (C3)",
+        "Only the carbonyl carbon (C2)"
+      ],
+      "answer": 0,
+      "explanation": "During decarboxylation, the carboxyl carbon (C1) is released as CO2; the remaining carbonyl (C2) and methyl (C3) carbons become the acetyl group of acetyl‑CoA.",
+      "topic": "Conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "question": "Which enzyme of the citric acid cycle is located in the mitochondrial matrix?",
+      "options": [
+        "Citrate synthase",
+        "Cytochrome c oxidase",
+        "ATP synthase",
+        "NADH dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Citrate synthase catalyzes the first step of the Krebs cycle and is situated in the mitochondrial matrix, whereas the other listed proteins are components of the inner membrane electron transport chain.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "The mitochondrial matrix provides the site for which of the following reactions?",
+      "options": [
+        "Acetyl‑CoA formation from pyruvate",
+        "Electron transfer to oxygen",
+        "ATP synthesis by ATP synthase",
+        "Proton pumping across the inner membrane"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate is imported into the matrix where the pyruvate dehydrogenase complex converts it to acetyl‑CoA; the other processes occur in the inner membrane.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Which statement about the mitochondrial matrix is FALSE?",
+      "options": [
+        "It contains all the enzymes of the Krebs cycle",
+        "It is the site of oxidative phosphorylation",
+        "It has a high concentration of NAD+ and NADH",
+        "It is bounded by the inner mitochondrial membrane"
+      ],
+      "answer": 1,
+      "explanation": "Oxidative phosphorylation takes place on the inner mitochondrial membrane, not in the matrix; the matrix houses the Krebs‑cycle enzymes and the NAD+/NADH pool.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Conversion of pyruvate to acetyl‑CoA occurs in which mitochondrial compartment?",
+      "options": [
+        "Intermembrane space",
+        "Outer mitochondrial membrane",
+        "Matrix",
+        "Cristae"
+      ],
+      "answer": 2,
+      "explanation": "The pyruvate dehydrogenase complex resides in the matrix, where it decarboxylates pyruvate to acetyl‑CoA.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Which ion has a markedly higher concentration in the mitochondrial matrix than in the cytosol?",
+      "options": [
+        "H+",
+        "Ca2+",
+        "Mg2+",
+        "K+"
+      ],
+      "answer": 1,
+      "explanation": "The matrix accumulates Ca2+ ions, which regulate several matrix enzymes; H+ concentration is low in the matrix relative to the intermembrane space.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Why can NADH generated in the mitochondrial matrix not directly donate electrons to the electron transport chain?",
+      "options": [
+        "NADH cannot cross the inner membrane",
+        "NADH is already oxidized",
+        "The inner membrane is impermeable to NADH",
+        "NADH is used for ATP synthesis in the matrix"
+      ],
+      "answer": 2,
+      "explanation": "The inner mitochondrial membrane does not allow NADH to pass; instead, its electrons are transferred to the chain via shuttle systems (e.g., malate‑aspartate shuttle).",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Which metabolite is NOT normally present in the mitochondrial matrix during aerobic respiration?",
+      "options": [
+        "Oxaloacetate",
+        "Succinate",
+        "Cytochrome c",
+        "Malate"
+      ],
+      "answer": 2,
+      "explanation": "Cytochrome c is a peripheral protein of the inner membrane facing the intermembrane space, whereas oxaloacetate, succinate and malate are intermediates of the Krebs cycle in the matrix.",
+      "topic": "Mitochondrial matrix"
+    },
+    {
+      "question": "Where does the Krebs cycle take place in eukaryotic cells?",
+      "options": [
+        "Mitochondrial matrix",
+        "Inner mitochondrial membrane",
+        "Cytosol",
+        "Intermembrane space"
+      ],
+      "answer": 0,
+      "explanation": "All the enzymes of the citric acid cycle are soluble and function in the mitochondrial matrix, the innermost compartment of mitochondria.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "Which enzyme catalyzes the isomerization of citrate to isocitrate?",
+      "options": [
+        "Aconitase",
+        "Citrate synthase",
+        "Isocitrate dehydrogenase",
+        "α‑Ketoglutarate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Aconitase removes a water molecule from citrate to form cis‑aconitate and then adds water to produce isocitrate.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "How many molecules of NADH are produced per one acetyl‑CoA that enters the Krebs cycle?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "NADH is generated in three oxidative steps: isocitrate → α‑KG, α‑KG → succinyl‑CoA, and malate → oxaloacetate.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "Which step of the Krebs cycle directly yields GTP (or ATP) by substrate‑level phosphorylation?",
+      "options": [
+        "Succinate → fumarate",
+        "Succinyl‑CoA → succinate",
+        "Malate → oxaloacetate",
+        "α‑Ketoglutarate → succinyl‑CoA"
+      ],
+      "answer": 1,
+      "explanation": "Succinyl‑CoA synthetase converts succinyl‑CoA to succinate, coupling the reaction to the formation of GTP (or ATP in some organisms).",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "The oxidative decarboxylation of α‑ketoglutarate to succinyl‑CoA is analogous to which other Krebs‑cycle reaction?",
+      "options": [
+        "Pyruvate → acetyl‑CoA",
+        "Isocitrate → α‑ketoglutarate",
+        "Citrate → isocitrate",
+        "Malate → oxaloacetate"
+      ],
+      "answer": 1,
+      "explanation": "Both isocitrate → α‑KG and α‑KG → succinyl‑CoA involve NAD⁺‑dependent oxidative decarboxylation, releasing CO₂ and producing NADH.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "Which of the following compounds is NOT an intermediate of the Krebs cycle?",
+      "options": [
+        "Oxaloacetate",
+        "Succinyl‑CoA",
+        "Pyruvate",
+        "Fumarate"
+      ],
+      "answer": 2,
+      "explanation": "Pyruvate is converted to acetyl‑CoA before entering the cycle; it does not appear as a cycle intermediate.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "Approximately how many ATP equivalents are generated from one turn of the Krebs cycle, including oxidative phosphorylation?",
+      "options": [
+        "4",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 1,
+      "explanation": "One turn yields 3 NADH (3 × 2.5 = 7.5 ATP), 1 FADH₂ (1 × 1.5 = 1.5 ATP), and 1 GTP (≈1 ATP), totaling about 10 ATP equivalents.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "In the step catalyzed by succinate dehydrogenase, which coenzyme is reduced and where is the enzyme located?",
+      "options": [
+        "NAD⁺ in the mitochondrial matrix",
+        "FAD in the inner mitochondrial membrane",
+        "NADP⁺ in the cytosol",
+        "FAD in the mitochondrial matrix"
+      ],
+      "answer": 1,
+      "explanation": "Succinate dehydrogenase (Complex II) reduces FAD to FADH₂ and is embedded in the inner mitochondrial membrane, linking the Krebs cycle to the electron transport chain.",
+      "topic": "Krebs cycle"
+    },
+    {
+      "question": "Which enzyme catalyzes the reversible conversion of citrate to isocitrate in the citric acid cycle?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate dehydrogenase",
+        "α‑Ketoglutarate dehydrogenase"
+      ],
+      "answer": 1,
+      "explanation": "Aconitase catalyzes the dehydration of citrate to cis‑aconitate followed by hydration to form isocitrate.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "The decarboxylation step that yields CO₂ and NADH during the citric acid cycle is carried out by which enzyme?",
+      "options": [
+        "Succinate dehydrogenase",
+        "Isocitrate dehydrogenase",
+        "Malate dehydrogenase",
+        "Succinyl‑CoA synthetase"
+      ],
+      "answer": 1,
+      "explanation": "Isocitrate dehydrogenase catalyzes the oxidative decarboxylation of isocitrate to α‑ketoglutarate, producing CO₂ and NADH.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "How many molecules of GTP (or ATP) are generated directly by substrate‑level phosphorylation in one complete turn of the citric acid cycle?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "Succinyl‑CoA synthetase converts succinyl‑CoA to succinate, generating one molecule of GTP (or ATP) per cycle turn.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "Which of the following is NOT a product of one turn of the citric acid cycle?",
+      "options": [
+        "3 NADH",
+        "1 FADH₂",
+        "2 CO₂",
+        "1 NADPH"
+      ],
+      "answer": 3,
+      "explanation": "The cycle produces NADH, FADH₂, CO₂ and GTP, but no NADPH is formed.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "The conversion of α‑ketoglutarate to succinyl‑CoA in the citric acid cycle yields which reduced cofactor?",
+      "options": [
+        "NADH",
+        "NADPH",
+        "FADH₂",
+        "None"
+      ],
+      "answer": 0,
+      "explanation": "α‑Ketoglutarate dehydrogenase complex catalyzes this step and reduces NAD⁺ to NADH.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "In which mitochondrial compartment does the citric acid cycle take place?",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Intermembrane space",
+        "Matrix",
+        "Inner mitochondrial membrane"
+      ],
+      "answer": 2,
+      "explanation": "All the enzymes of the citric acid cycle are located in the mitochondrial matrix.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "Which statement correctly describes a regulatory feature of the citric acid cycle?",
+      "options": [
+        "Citrate synthase is allosterically activated by ATP",
+        "Isocitrate dehydrogenase is inhibited by NADH",
+        "α‑Ketoglutarate dehydrogenase is activated by ADP",
+        "Succinate dehydrogenase is inhibited by O₂"
+      ],
+      "answer": 1,
+      "explanation": "Isocitrate dehydrogenase is allosterically inhibited by high NADH (and ATP), reducing cycle flux when energy is abundant.",
+      "topic": "Citric acid cycle"
+    },
+    {
+      "question": "Which statement correctly describes the role of oxaloacetic acid in the Krebs cycle?",
+      "options": [
+        "It combines with acetyl‑CoA to form citrate",
+        "It is reduced to malate",
+        "It is decarboxylated to form α‑ketoglutarate",
+        "It donates electrons directly to the electron transport chain"
+      ],
+      "answer": 0,
+      "explanation": "Oxaloacetate condenses with acetyl‑CoA, catalyzed by citrate synthase, to produce citrate, the first step of the cycle.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "The enzyme that synthesizes oxaloacetate from pyruvate in the mitochondrial matrix is:",
+      "options": [
+        "Pyruvate carboxylase",
+        "Pyruvate dehydrogenase complex",
+        "Citrate synthase",
+        "Malate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate carboxylase catalyzes the ATP‑dependent carboxylation of pyruvate to oxaloacetate, an anaplerotic reaction.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "Oxaloacetate is regenerated in the Krebs cycle by which specific reaction?",
+      "options": [
+        "Oxidation of malate to oxaloacetate by malate dehydrogenase",
+        "Decarboxylation of α‑ketoglutarate to succinyl‑CoA",
+        "Phosphorylation of succinyl‑CoA to GTP",
+        "Oxidation of fumarate to malate"
+      ],
+      "answer": 0,
+      "explanation": "Malate dehydrogenase catalyzes the reversible oxidation of malate to oxaloacetate, completing the cycle.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "In mitochondrial anaplerotic pathways, oxaloacetate can be formed directly from which substrate?",
+      "options": [
+        "Pyruvate",
+        "Acetyl‑CoA",
+        "Succinate",
+        "α‑Ketoglutarate"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate carboxylase converts pyruvate to oxaloacetate, replenishing cycle intermediates.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "Under prolonged fasting, the mitochondrial concentration of oxaloacetate:",
+      "options": [
+        "Decreases, limiting the cycle",
+        "Remains unchanged due to rapid turnover",
+        "Increases because pyruvate carboxylase activity is up‑regulated",
+        "Is exported to the cytosol for gluconeogenesis"
+      ],
+      "answer": 2,
+      "explanation": "Fasting stimulates gluconeogenesis; pyruvate carboxylase activity rises, producing more oxaloacetate to serve both the cycle and gluconeogenic flux.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "Which molecular formula corresponds to oxaloacetic acid?",
+      "options": [
+        "C4H4O5",
+        "C4H6O5",
+        "C4H4O6",
+        "C4H6O4"
+      ],
+      "answer": 0,
+      "explanation": "Oxaloacetic acid contains four carbon atoms, four hydrogen atoms, and five oxygen atoms, giving the formula C4H4O5.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "The condensation of acetyl‑CoA with oxaloacetate to form citrate is catalyzed by which enzyme, and what is the immediate product?",
+      "options": [
+        "Citrate synthase; citrate",
+        "Aconitase; isocitrate",
+        "Succinate dehydrogenase; succinate",
+        "α‑Ketoglutarate dehydrogenase; α‑ketoglutarate"
+      ],
+      "answer": 0,
+      "explanation": "Citrate synthase catalyzes the condensation of acetyl‑CoA and oxaloacetate, yielding citrate as the first Krebs‑cycle intermediate.",
+      "topic": "Oxaloacetic acid"
+    },
+    {
+      "question": "Which enzyme catalyzes the condensation of acetyl‑CoA and oxaloacetate to form citrate in the Krebs cycle?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate dehydrogenase",
+        "Succinate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Citrate synthase catalyzes the first step of the Krebs cycle, combining acetyl‑CoA with oxaloacetate to produce citrate and CoA.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "In which cellular compartment does citrate formation occur during aerobic respiration?",
+      "options": [
+        "Mitochondrial matrix",
+        "Cytosol",
+        "Inner mitochondrial membrane",
+        "Intermembrane space"
+      ],
+      "answer": 0,
+      "explanation": "All reactions of the Krebs cycle, including citrate formation, take place in the mitochondrial matrix.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "The condensation of acetyl‑CoA with oxaloacetate to form citrate results in the release of which molecule?",
+      "options": [
+        "Coenzyme A (CoA‑SH)",
+        "NADH",
+        "FADH2",
+        "Inorganic phosphate (Pi)"
+      ],
+      "answer": 0,
+      "explanation": "During the citrate synthase reaction, the thioester bond of acetyl‑CoA is cleaved, releasing free CoA‑SH.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "How many carbon atoms in citrate are contributed by acetyl‑CoA and how many by oxaloacetate?",
+      "options": [
+        "2 from acetyl‑CoA and 4 from oxaloacetate",
+        "3 from acetyl‑CoA and 3 from oxaloacetate",
+        "4 from acetyl‑CoA and 2 from oxaloacetate",
+        "All 6 from acetyl‑CoA"
+      ],
+      "answer": 0,
+      "explanation": "Acetyl‑CoA provides a two‑carbon acetyl group, while oxaloacetate contributes four carbons, giving the six‑carbon citrate molecule.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "Which statement about the citrate synthase reaction is correct?",
+      "options": [
+        "It is an irreversible, highly exergonic step of the Krebs cycle",
+        "It requires direct ATP hydrolysis to proceed",
+        "It is a reversible equilibrium that can readily run in both directions",
+        "It is activated by high concentrations of NADH"
+      ],
+      "answer": 0,
+      "explanation": "The citrate synthase reaction has a large negative ΔG°, making it essentially irreversible under cellular conditions.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "Which metabolite acts as an allosteric inhibitor of citrate synthase, thereby regulating the entry of acetyl‑CoA into the cycle?",
+      "options": [
+        "ATP",
+        "ADP",
+        "NAD+",
+        "CO2"
+      ],
+      "answer": 0,
+      "explanation": "High cellular ATP levels signal sufficient energy and inhibit citrate synthase, slowing the Krebs cycle.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "The chemical mechanism of citrate formation involves which type of reaction?",
+      "options": [
+        "Nucleophilic acyl substitution",
+        "Oxidation‑reduction",
+        "Phosphorylation",
+        "Hydrolysis"
+      ],
+      "answer": 0,
+      "explanation": "Oxaloacetate attacks the carbonyl carbon of the acetyl‑CoA thioester in a nucleophilic acyl substitution, forming citrate and releasing CoA.",
+      "topic": "Citrate formation"
+    },
+    {
+      "question": "Which enzyme catalyzes the decarboxylation of pyruvate to acetyl‑CoA in the mitochondrial matrix?",
+      "options": [
+        "Pyruvate dehydrogenase complex",
+        "Citrate synthase",
+        "α‑Ketoglutarate dehydrogenase",
+        "Succinate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "The pyruvate dehydrogenase complex (PDH) performs oxidative decarboxylation of pyruvate, producing acetyl‑CoA, CO₂ and NADH.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "In the Krebs cycle, which step involves a decarboxylation that also generates NADH and CO₂?",
+      "options": [
+        "Conversion of citrate to isocitrate",
+        "Isocitrate to α‑ketoglutarate",
+        "Succinate to fumarate",
+        "Malate to oxaloacetate"
+      ],
+      "answer": 1,
+      "explanation": "Isocitrate dehydrogenase catalyzes the oxidative decarboxylation of isocitrate to α‑ketoglutarate, producing NADH and releasing CO₂.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "The decarboxylation of α‑ketoglutarate to succinyl‑CoA is analogous to the pyruvate dehydrogenase reaction because both require which cofactor?",
+      "options": [
+        "FAD",
+        "Coenzyme A",
+        "NADP+",
+        "Biotin"
+      ],
+      "answer": 1,
+      "explanation": "Both reactions are oxidative decarboxylations that need Coenzyme A to accept the acyl group, forming acetyl‑CoA or succinyl‑CoA.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "Which of the following statements about decarboxylation reactions in the Krebs cycle is FALSE?",
+      "options": [
+        "They are irreversible under cellular conditions",
+        "They produce CO₂",
+        "They directly generate ATP",
+        "They are coupled to NAD⁺ reduction"
+      ],
+      "answer": 2,
+      "explanation": "Decarboxylation steps do not directly produce ATP; ATP (or GTP) is generated later by substrate‑level phosphorylation or oxidative phosphorylation.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "During the oxidative decarboxylation of pyruvate, the carbon released as CO₂ originates from which carbon of glucose?",
+      "options": [
+        "C‑1",
+        "C‑3",
+        "C‑6",
+        "C‑2"
+      ],
+      "answer": 1,
+      "explanation": "The carboxyl carbon of pyruvate (C‑1 of pyruvate) comes from carbon‑3 of glucose after glycolysis, and this carbon is released as CO₂ in the PDH reaction.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "Which molecule acts as the primary electron acceptor in the oxidative decarboxylation steps of the Krebs cycle?",
+      "options": [
+        "NAD⁺",
+        "FAD",
+        "O₂",
+        "ADP"
+      ],
+      "answer": 0,
+      "explanation": "Both pyruvate dehydrogenase and the two dehydrogenases of the cycle reduce NAD⁺ to NADH while decarboxylating their substrates.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "The decarboxylation of isocitrate to α‑ketoglutarate by isocitrate dehydrogenase requires which metal ion as a cofactor?",
+      "options": [
+        "Mg²⁺",
+        "Zn²⁺",
+        "Fe²⁺",
+        "Cu²⁺"
+      ],
+      "answer": 0,
+      "explanation": "Isocitrate dehydrogenase is a Mg²⁺ (or Mn²⁺) dependent enzyme; the metal ion assists in substrate binding and catalysis.",
+      "topic": "Decarboxylation reactions"
+    },
+    {
+      "question": "How many molecules of NADH are generated from the conversion of one molecule of pyruvate to acetyl‑CoA in the mitochondrial matrix?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "The pyruvate dehydrogenase complex catalyzes the oxidative decarboxylation of pyruvate, producing one NADH per pyruvate molecule.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "Which enzyme‑catalyzed step of the citric acid cycle yields NADH by oxidative decarboxylation of isocitrate?",
+      "options": [
+        "Citrate synthase",
+        "Aconitase",
+        "Isocitrate dehydrogenase",
+        "α‑Ketoglutarate dehydrogenase"
+      ],
+      "answer": 2,
+      "explanation": "Isocitrate dehydrogenase converts isocitrate to α‑ketoglutarate, reducing NAD⁺ to NADH in the process.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "In one complete turn of the Krebs cycle, how many NADH molecules are produced?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Three dehydrogenase reactions (isocitrate dehydrogenase, α‑ketoglutarate dehydrogenase, and malate dehydrogenase) each generate one NADH, totaling three per cycle.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "The NADH generated in the mitochondrial matrix donates its electrons to which complex of the electron transport chain?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc₁)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 0,
+      "explanation": "NADH transfers its electrons to Complex I, also called NADH dehydrogenase, initiating the electron transport chain.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "Which of the following statements about NADH production during the Krebs cycle is FALSE?",
+      "options": [
+        "NADH is generated during the conversion of malate to oxaloacetate.",
+        "NADH is generated during the conversion of succinate to fumarate.",
+        "NADH is generated during the conversion of isocitrate to α‑ketoglutarate.",
+        "NADH is generated during the conversion of α‑ketoglutarate to succinyl‑CoA."
+      ],
+      "answer": 1,
+      "explanation": "The succinate → fumarate step is catalyzed by succinate dehydrogenase and produces FADH₂, not NADH.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "Considering the complete oxidation of one glucose molecule, how many NADH molecules are produced from pyruvate oxidation and the Krebs cycle (excluding glycolysis)?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "explanation": "Each glucose yields 2 pyruvate → 2 NADH (pyruvate dehydrogenase) and 2 turns of the Krebs cycle → 6 NADH, giving a total of 8 NADH.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "The production of NADH in the step catalyzed by α‑ketoglutarate dehydrogenase is coupled with which of the following processes?",
+      "options": [
+        "Substrate‑level phosphorylation",
+        "Decarboxylation",
+        "Hydration",
+        "Carboxylation"
+      ],
+      "answer": 1,
+      "explanation": "α‑Ketoglutarate dehydrogenase catalyzes a decarboxylation reaction that reduces NAD⁺ to NADH while releasing CO₂.",
+      "topic": "NADH production"
+    },
+    {
+      "question": "Which step of the Krebs cycle results in the formation of FADH2?",
+      "options": [
+        "Isocitrate → α‑ketoglutarate",
+        "α‑ketoglutarate → succinyl‑CoA",
+        "Succinate → fumarate",
+        "Malate → oxaloacetate"
+      ],
+      "answer": 2,
+      "explanation": "The succinate dehydrogenase-catalyzed oxidation of succinate to fumarate reduces FAD to FADH2, producing one FADH2 per cycle.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "In plant mitochondria, the enzyme that generates FADH2 during the Krebs cycle is a component of which electron transport chain complex?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 1,
+      "explanation": "Succinate dehydrogenase, which produces FADH2, is embedded in the inner membrane as Complex II of the ETC.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "One molecule of FADH2 formed in the Krebs cycle yields approximately how many ATP equivalents via oxidative phosphorylation in plant cells?",
+      "options": [
+        "2 ATP",
+        "2.5 ATP",
+        "1.5 ATP",
+        "3 ATP"
+      ],
+      "answer": 2,
+      "explanation": "Electrons from FADH2 enter the ETC at Complex II, bypassing Complex I, and generate about 1.5 ATP per FADH2 under typical P/O ratios.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "During the conversion of succinate to fumarate, which cofactor directly accepts the electrons?",
+      "options": [
+        "NAD+",
+        "NADP+",
+        "FAD",
+        "Coenzyme Q"
+      ],
+      "answer": 2,
+      "explanation": "Succinate dehydrogenase uses flavin adenine dinucleotide (FAD) as the electron acceptor, producing FADH2.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "Which statement about the FADH2 produced in the Krebs cycle is FALSE?",
+      "options": [
+        "It donates electrons to ubiquinone (CoQ) in the ETC.",
+        "It is generated in the mitochondrial matrix.",
+        "It enters the ETC at Complex I.",
+        "Its oxidation contributes to the proton gradient across the inner membrane."
+      ],
+      "answer": 2,
+      "explanation": "FADH2 does not enter the ETC at Complex I; it transfers electrons to ubiquinone at Complex II, bypassing Complex I.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "What is the net number of FADH2 molecules produced per molecule of glucose oxidized in plant cells?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "Each glucose yields two acetyl‑CoA molecules; each turn of the cycle produces one FADH2, giving a total of two FADH2 per glucose.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "If a plant cell is treated with malonate, a competitive inhibitor of succinate dehydrogenase, what immediate effect on FADH2 production will occur?",
+      "options": [
+        "Increase in FADH2 formation",
+        "Decrease in FADH2 formation",
+        "No change in FADH2 formation",
+        "Complete cessation of NADH production"
+      ],
+      "answer": 1,
+      "explanation": "Malonate blocks succinate dehydrogenase, preventing the succinate → fumarate step and thus reducing the production of FADH2.",
+      "topic": "FADH2 production"
+    },
+    {
+      "question": "Which enzyme catalyzes the substrate‑level phosphorylation that generates GTP during the Krebs cycle?",
+      "options": [
+        "Succinyl‑CoA synthetase",
+        "Citrate synthase",
+        "α‑Ketoglutarate dehydrogenase",
+        "Malate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Succinyl‑CoA synthetase converts succinyl‑CoA to succinate, coupling the conversion of GDP + Pi to GTP, which is a classic substrate‑level phosphorylation step in the cycle.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "In one complete turn of the Krebs cycle, how many molecules of ATP (or its equivalent) are produced directly by substrate‑level phosphorylation?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "Only the succinyl‑CoA synthetase step yields GTP (equivalent to one ATP) per cycle; all other high‑energy molecules are generated later by oxidative phosphorylation.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "The GTP formed in the Krebs cycle can be readily converted to ATP by which enzyme?",
+      "options": [
+        "Nucleoside diphosphate kinase",
+        "ATP synthase",
+        "Pyruvate kinase",
+        "Phosphoglycerate kinase"
+      ],
+      "answer": 0,
+      "explanation": "Nucleoside diphosphate kinase catalyzes the reversible transfer of the terminal phosphate from GTP to ADP, forming ATP and GDP.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "Where does the ATP synthesis driven by the proton motive force occur during oxidative phosphorylation?",
+      "options": [
+        "Matrix side of inner mitochondrial membrane",
+        "Intermembrane space",
+        "Cytosol",
+        "Outer mitochondrial membrane"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase (Complex V) is embedded in the inner mitochondrial membrane with its catalytic domain facing the matrix, where ADP and Pi are phosphorylated to ATP.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "Approximately how many molecules of ATP are generated per NADH oxidized in the electron transport chain?",
+      "options": [
+        "1",
+        "2",
+        "2.5",
+        "3.5"
+      ],
+      "answer": 2,
+      "explanation": "Current bioenergetic estimates assign about 2.5 ATP molecules to each NADH oxidized, reflecting the proton translocation stoichiometry of Complexes I, III and IV.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "Which molecule donates electrons directly to Complex I (NADH dehydrogenase) of the mitochondrial electron transport chain?",
+      "options": [
+        "NADH",
+        "FADH2",
+        "GTP",
+        "ADP"
+      ],
+      "answer": 0,
+      "explanation": "Complex I receives electrons from NADH, which are then passed through a series of carriers to ubiquinone, contributing to the proton gradient.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "The conversion of succinyl‑CoA to succinate in the Krebs cycle results in GTP formation. This step is an example of:",
+      "options": [
+        "Oxidation of NAD+ to NADH",
+        "Generation of a proton gradient across the inner membrane",
+        "Substrate‑level phosphorylation",
+        "Transfer of electrons to ubiquinone"
+      ],
+      "answer": 2,
+      "explanation": "GTP is produced directly by transferring a phosphate from inorganic phosphate to GDP, without involvement of the electron transport chain, classifying it as substrate‑level phosphorylation.",
+      "topic": "ATP or GTP formation"
+    },
+    {
+      "question": "Which enzyme catalyzes the final step of oxaloacetate regeneration in the Krebs cycle?",
+      "options": [
+        "Malate dehydrogenase",
+        "Citrate synthase",
+        "Succinate dehydrogenase",
+        "α‑Ketoglutarate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "Malate dehydrogenase oxidises malate to oxaloacetate, completing the regeneration of oxaloacetate in the cycle.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "The conversion of pyruvate to oxaloacetate, an anaplerotic reaction, is catalysed by which mitochondrial enzyme and requires which cofactor?",
+      "options": [
+        "Pyruvate carboxylase (biotin)",
+        "Pyruvate dehydrogenase (TPP)",
+        "Isocitrate dehydrogenase (NADP+)",
+        "α‑Ketoglutarate dehydrogenase (lipoic acid)"
+      ],
+      "answer": 0,
+      "explanation": "Pyruvate carboxylase, a biotin‑dependent enzyme, carboxylates pyruvate to oxaloacetate, replenishing the cycle.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "Which molecule allosterically activates pyruvate carboxylase, enhancing oxaloacetate regeneration?",
+      "options": [
+        "Acetyl‑CoA",
+        "ADP",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": 0,
+      "explanation": "Acetyl‑CoA binds to pyruvate carboxylase and increases its activity, linking acetyl‑CoA availability to oxaloacetate formation.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "During the regeneration of oxaloacetate, malate is oxidised to oxaloacetate producing which reduced coenzyme?",
+      "options": [
+        "NADH",
+        "NADPH",
+        "FADH2",
+        "ATP"
+      ],
+      "answer": 0,
+      "explanation": "Malate dehydrogenase transfers electrons from malate to NAD+, forming NADH.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "Which statement about oxaloacetate regeneration in the Krebs cycle is true?",
+      "options": [
+        "It is catalysed by a reversible reaction",
+        "It consumes ATP",
+        "It produces GTP",
+        "It occurs in the cytosol"
+      ],
+      "answer": 0,
+      "explanation": "The malate‑oxaloacetate interconversion catalysed by malate dehydrogenase is reversible and depends on the NADH/NAD+ ratio.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "A high mitochondrial NADH/NAD+ ratio will shift the malate dehydrogenase reaction in which direction?",
+      "options": [
+        "Toward oxaloacetate formation",
+        "Toward malate formation",
+        "No effect",
+        "Toward citrate formation"
+      ],
+      "answer": 1,
+      "explanation": "Elevated NADH drives the reaction toward malate, reducing oxaloacetate regeneration.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "Which of the following is NOT a pathway that directly replenishes oxaloacetate for the Krebs cycle?",
+      "options": [
+        "Pyruvate carboxylation",
+        "Transamination of aspartate",
+        "Conversion of succinate to fumarate",
+        "Glutamate deamination to α‑ketoglutarate"
+      ],
+      "answer": 2,
+      "explanation": "Succinate to fumarate is a step within the cycle and does not generate oxaloacetate; the other three provide oxaloacetate or its precursors.",
+      "topic": "Regeneration of oxaloacetate"
+    },
+    {
+      "question": "Which complex of the mitochondrial electron transport chain directly transfers electrons from NADH to ubiquinone?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 0,
+      "explanation": "Complex I oxidises NADH and passes the electrons to ubiquinone (coenzyme Q), initiating the electron transport chain.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "The immediate electron donor to cytochrome c oxidase (Complex IV) is:",
+      "options": [
+        "Ubiquinol (CoQH2)",
+        "Reduced cytochrome c",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": 1,
+      "explanation": "Reduced cytochrome c carries electrons from Complex III to Complex IV, where they are finally transferred to oxygen.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "Which of the following complexes does NOT contribute to proton pumping across the inner mitochondrial membrane?",
+      "options": [
+        "Complex I",
+        "Complex II",
+        "Complex III",
+        "Complex IV"
+      ],
+      "answer": 1,
+      "explanation": "Complex II (succinate dehydrogenase) transfers electrons to ubiquinone but does not translocate protons across the membrane.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "The approximate P/O ratio (ATP molecules formed per atom of oxygen reduced) for NADH oxidation in mitochondria is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Oxidation of one NADH typically yields about 2.5–3 ATP; NEET textbooks often quote a value of 3 as the P/O ratio.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "Which inhibitor blocks electron flow from ubiquinol to cytochrome c?",
+      "options": [
+        "Rotenone",
+        "Antimycin A",
+        "Cyanide",
+        "Oligomycin"
+      ],
+      "answer": 1,
+      "explanation": "Antimycin A binds to Complex III and prevents transfer of electrons from ubiquinol to cytochrome c.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "According to the chemiosmotic theory, ATP synthesis in oxidative phosphorylation is driven by:",
+      "options": [
+        "Direct transfer of electrons to ADP",
+        "Flow of protons back into the matrix through ATP synthase",
+        "Hydrolysis of NADH",
+        "Movement of electrons through Complex IV"
+      ],
+      "answer": 1,
+      "explanation": "The proton motive force generated by electron transport drives protons back into the matrix via ATP synthase, coupling this flow to ATP formation.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "The final electron acceptor in the mitochondrial electron transport chain is:",
+      "options": [
+        "NAD+",
+        "O2",
+        "CO2",
+        "H2O"
+      ],
+      "answer": 1,
+      "explanation": "Molecular oxygen accepts the electrons at Complex IV, being reduced to water, completing the chain.",
+      "topic": "Electron transport system"
+    },
+    {
+      "question": "Which lipid is uniquely abundant in the inner mitochondrial membrane and essential for the activity of several electron transport chain complexes?",
+      "options": [
+        "Cardiolipin",
+        "Phosphatidylcholine",
+        "Sphingomyelin",
+        "Cholesterol"
+      ],
+      "answer": 0,
+      "explanation": "Cardiolipin, a diphosphatidylglycerol, is enriched in the inner mitochondrial membrane and stabilizes complexes I, III and IV, facilitating efficient electron transport.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "The inner mitochondrial membrane is essentially impermeable to which ion, necessitating specific transport proteins for its movement?",
+      "options": [
+        "H+",
+        "K+",
+        "Ca2+",
+        "Na+"
+      ],
+      "answer": 0,
+      "explanation": "Protons cannot cross the inner membrane freely; their controlled movement through complexes I, III, IV and ATP synthase creates the proton motive force required for ATP synthesis.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "The proton motive force generated across the inner mitochondrial membrane is harnessed by which enzyme complex to produce ATP?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "ATP synthase (Complex V)",
+        "Cytochrome c oxidase (Complex IV)"
+      ],
+      "answer": 2,
+      "explanation": "ATP synthase (Complex V) uses the flow of protons back into the matrix through its F₀ subunit to drive phosphorylation of ADP to ATP in the F₁ subunit.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "Which of the following statements about the inner mitochondrial membrane is FALSE?",
+      "options": [
+        "It contains the enzymes of the citric acid cycle",
+        "It houses the electron transport chain complexes",
+        "It is highly folded forming cristae",
+        "It is relatively impermeable to ions"
+      ],
+      "answer": 0,
+      "explanation": "All enzymes of the citric acid (Krebs) cycle are located in the mitochondrial matrix, not in the inner membrane.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "The primary site where oxidative phosphorylation occurs is:",
+      "options": [
+        "Outer mitochondrial membrane",
+        "Intermembrane space",
+        "Inner mitochondrial membrane",
+        "Mitochondrial matrix"
+      ],
+      "answer": 2,
+      "explanation": "Oxidative phosphorylation involves the electron transport chain and ATP synthase, both embedded in the inner mitochondrial membrane.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "Which carrier protein transports ADP into the mitochondrial matrix across the inner membrane in exchange for ATP?",
+      "options": [
+        "ATP/ADP translocase (ANT)",
+        "Phosphate carrier",
+        "Carnitine‑acylcarnitine translocase",
+        "Uncoupling protein"
+      ],
+      "answer": 0,
+      "explanation": "The adenine nucleotide translocator (ANT) exchanges matrix ADP for cytosolic ATP, maintaining the supply of ADP for phosphorylation.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "Approximately what percentage of the inner mitochondrial membrane’s mass is protein, reflecting its high protein‑to‑lipid ratio?",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "answer": 2,
+      "explanation": "The inner mitochondrial membrane is about 70% protein by weight, a much higher proportion than most other cellular membranes, due to the dense packing of respiratory complexes.",
+      "topic": "Inner mitochondrial membrane"
+    },
+    {
+      "question": "Which molecule is the primary electron donor that transfers electrons to Complex I of the mitochondrial electron transport chain?",
+      "options": [
+        "NADH",
+        "FADH2",
+        "Ubiquinone (Coenzyme Q)",
+        "Cytochrome c"
+      ],
+      "answer": 0,
+      "explanation": "NADH generated in the mitochondrial matrix donates its two electrons to Complex I (NADH dehydrogenase), initiating the electron transport chain.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "Ubiquinone (Coenzyme Q) primarily functions as:",
+      "options": [
+        "A mobile lipid‑soluble electron carrier within the inner mitochondrial membrane",
+        "A fixed protein component of Complex II",
+        "A proton pump that directly translocates H+ across the membrane",
+        "The terminal electron acceptor that reduces O2"
+      ],
+      "answer": 0,
+      "explanation": "Coenzyme Q is a small, lipid‑soluble molecule that shuttles electrons between Complexes I/II and Complex III while diffusing laterally in the inner membrane.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "Which electron carrier transfers electrons from Complex III to Complex IV in the mitochondrial ETC?",
+      "options": [
+        "Cytochrome c",
+        "Ubiquinone",
+        "NADH",
+        "FADH2"
+      ],
+      "answer": 0,
+      "explanation": "Cytochrome c is a small, water‑soluble heme protein that moves electrons from the cytochrome bc1 complex (Complex III) to cytochrome oxidase (Complex IV).",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "The reduced form of coenzyme Q is called:",
+      "options": [
+        "Ubiquinol",
+        "Cytochrome a",
+        "Cytochrome b",
+        "Cytochrome c"
+      ],
+      "answer": 0,
+      "explanation": "When coenzyme Q accepts two electrons and two protons, it becomes ubiquinol (QH2), the reduced, electron‑rich form.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "Which electron carrier has the most negative standard reduction potential, making it the best electron donor in the ETC?",
+      "options": [
+        "NAD⁺/NADH couple",
+        "FAD/FADH₂ couple",
+        "Ubiquinone/ubiquinol couple",
+        "O₂/H₂O couple"
+      ],
+      "answer": 0,
+      "explanation": "The NAD⁺/NADH couple has a standard reduction potential of about –0.32 V, more negative than FAD/FADH₂ (–0.22 V) and ubiquinone (–0.045 V), so NADH is the strongest donor.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "Which statement is FALSE regarding electron carriers in the mitochondrial electron transport chain?",
+      "options": [
+        "Cytochrome c is a water‑soluble protein that diffuses in the intermembrane space",
+        "Ubiquinone can accept and donate two electrons at a time",
+        "NADH transfers electrons directly to Complex IV",
+        "FADH₂ enters the chain at Complex II"
+      ],
+      "answer": 2,
+      "explanation": "NADH does not transfer electrons directly to Complex IV; it first donates them to Complex I, which then passes them through the chain to Complex IV.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "One molecule of ubiquinone (Q) can transport how many electrons during a single turn of the electron transport chain?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "Ubiquinone can accept two electrons (and two protons) to become ubiquinol, allowing it to carry a pair of electrons from Complex I or II to Complex III.",
+      "topic": "Electron carriers"
+    },
+    {
+      "question": "Which mitochondrial electron transport chain complex does NOT contribute to the formation of the proton gradient by pumping protons across the inner membrane?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 1,
+      "explanation": "Complex II transfers electrons from succinate to ubiquinone but does not pump protons, whereas Complexes I, III and IV actively translocate protons to generate the gradient.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "The proton motive force that drives ATP synthesis consists of which two components?",
+      "options": [
+        "ΔpH and Δψ (membrane potential)",
+        "ΔpH and ΔG (Gibbs free energy)",
+        "Δψ and ΔG",
+        "ΔG and ΔS (entropy)"
+      ],
+      "answer": 0,
+      "explanation": "The proton motive force (pmf) is the sum of the chemical gradient (ΔpH) and the electrical gradient (Δψ) across the inner mitochondrial membrane.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "Approximately how many protons must re-enter the mitochondrial matrix through ATP synthase to synthesize one molecule of ATP (including the transport of ADP and Pi) in mammalian mitochondria?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "Experimental data indicate that about 4 protons are required per ATP synthesized in mammalian mitochondria (3 for the rotary mechanism and 1 for ADP/Pi transport).",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "When an uncoupling agent such as dinitrophenol collapses the proton gradient, what is the immediate effect on the rate of oxygen consumption by isolated mitochondria?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It remains unchanged",
+        "It stops completely"
+      ],
+      "answer": 0,
+      "explanation": "By dissipating the gradient, uncouplers stimulate the electron transport chain to work faster in an attempt to re‑establish the gradient, leading to an increased rate of O₂ consumption.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "Which statement about the proton gradient generated during oxidative phosphorylation is FALSE?",
+      "options": [
+        "It is generated by complexes that pump protons from the matrix to the intermembrane space",
+        "The gradient is used solely for ATP synthesis",
+        "The gradient contributes to the membrane potential",
+        "Protonophores can dissipate the gradient"
+      ],
+      "answer": 1,
+      "explanation": "Besides ATP synthesis, the proton gradient also drives the import of metabolites (e.g., phosphate, ADP) and the export of citrate; therefore it is not used solely for ATP production.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "Oxidation of one molecule of NADH releases about –220 kJ mol⁻¹. Roughly how much of this energy is conserved in the synthesis of ATP (assuming 3 ATP are formed per NADH)?",
+      "options": [
+        "30 kJ",
+        "60 kJ",
+        "90 kJ",
+        "120 kJ"
+      ],
+      "answer": 2,
+      "explanation": "Each ATP synthesis requires ~30 kJ mol⁻¹; three ATP therefore store about 90 kJ, which is the fraction of the total energy conserved.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "In mitochondria, protons flow down their electrochemical gradient to drive ATP synthesis. From which compartment do they move?",
+      "options": [
+        "From the matrix to the intermembrane space",
+        "From the intermembrane space to the matrix",
+        "From the cytosol to the matrix",
+        "From the matrix to the cytosol"
+      ],
+      "answer": 1,
+      "explanation": "The proton gradient has a higher proton concentration in the intermembrane space; protons flow back into the matrix through ATP synthase, providing the energy for phosphorylation.",
+      "topic": "Proton gradient"
+    },
+    {
+      "question": "According to the chemiosmotic mechanism, ATP synthesis in mitochondria is driven by",
+      "options": [
+        "direct transfer of electrons to ADP",
+        "the flow of protons back into the matrix through ATP synthase",
+        "substrate‑level phosphorylation in the matrix",
+        "oxidation of NADH by complex II"
+      ],
+      "answer": 1,
+      "explanation": "ATP synthase utilizes the energy released when protons move down their electrochemical gradient from the intermembrane space into the matrix, converting ADP + Pi into ATP.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "Which component of the mitochondrial electron transport chain does NOT pump protons across the inner membrane?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 1,
+      "explanation": "Complex II transfers electrons from succinate to ubiquinone but does not translocate protons; the other three complexes contribute to the proton gradient.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "In chemiosmotic oxidative phosphorylation, the final electron acceptor that combines with protons to form a stable product is",
+      "options": [
+        "oxygen forming O₂",
+        "carbon dioxide forming CO₂",
+        "oxygen forming H₂O",
+        "NAD⁺ forming NADH"
+      ],
+      "answer": 2,
+      "explanation": "Molecular oxygen accepts electrons at complex IV and combines with protons to produce water, completing the electron transport chain.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "The approximate P/O ratio (inorganic phosphate per atom of oxygen reduced) for the oxidation of one molecule of NADH in mitochondria is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "Oxidation of NADH typically yields about 3 molecules of ATP, giving a P/O ratio close to 3.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "The proton‑motive force that drives ATP synthesis consists of which two components?",
+      "options": [
+        "Electrical potential (Δψ) and chemical concentration gradient (ΔpH)",
+        "Temperature gradient and pH difference",
+        "Membrane fluidity and surface charge",
+        "ATP and ADP concentration gradients"
+      ],
+      "answer": 0,
+      "explanation": "Proton‑motive force (Δp) = Δψ (membrane potential) + (2.303RT/F)·ΔpH, representing both electrical and chemical components of the gradient.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "Which inhibitor specifically blocks ATP synthesis by preventing proton flow through ATP synthase?",
+      "options": [
+        "Oligomycin",
+        "Rotenone",
+        "Antimycin A",
+        "Cyanide"
+      ],
+      "answer": 0,
+      "explanation": "Oligomycin binds to the F₀ subunit of ATP synthase, halting proton translocation and thus stopping ATP formation.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "During chemiosmosis, the re‑entry of protons into the mitochondrial matrix through ATP synthase is directly coupled to",
+      "options": [
+        "oxidation of NADH to NAD⁺",
+        "phosphorylation of ADP to ATP",
+        "reduction of O₂ to H₂O",
+        "decarboxylation of pyruvate"
+      ],
+      "answer": 1,
+      "explanation": "The energy released by protons moving down their gradient drives the catalytic activity of ATP synthase, converting ADP + Pi into ATP.",
+      "topic": "Chemiosmosis"
+    },
+    {
+      "question": "ATP synthase is embedded in which mitochondrial membrane?",
+      "options": [
+        "Inner mitochondrial membrane",
+        "Outer mitochondrial membrane",
+        "Inner chloroplast membrane",
+        "Plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase resides in the inner mitochondrial membrane where the proton gradient generated by the electron transport chain is utilized for ATP synthesis.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "The F1 sector of ATP synthase protrudes into which mitochondrial compartment?",
+      "options": [
+        "Matrix",
+        "Intermembrane space",
+        "Cristae lumen",
+        "Outer membrane space"
+      ],
+      "answer": 0,
+      "explanation": "The soluble F1 catalytic domain extends into the mitochondrial matrix, where ADP and inorganic phosphate bind for phosphorylation.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "During oxidative phosphorylation, the flow of protons through ATP synthase drives rotation of which subunit?",
+      "options": [
+        "Gamma subunit",
+        "Beta subunit",
+        "Delta subunit",
+        "Epsilon subunit"
+      ],
+      "answer": 0,
+      "explanation": "Proton translocation through the F0 channel causes rotation of the central gamma shaft, inducing conformational changes in the three beta subunits that synthesize ATP.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "Approximately how many protons must pass through one ATP synthase complex to synthesize one molecule of ATP (including ADP and Pi transport) in mitochondria?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "About four protons are required per ATP: three drive the rotary mechanism and one is used by the phosphate transporter (Pi/H+ symporter).",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "Which antibiotic specifically inhibits the F0 portion of mitochondrial ATP synthase, blocking proton translocation?",
+      "options": [
+        "Oligomycin",
+        "Rotenone",
+        "Antimycin A",
+        "Cyanide"
+      ],
+      "answer": 0,
+      "explanation": "Oligomycin binds to the F0 channel, preventing proton flow and thereby halting ATP synthesis.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "If the mitochondrial membrane potential collapses, ATP synthase can operate in reverse. What is the net result?",
+      "options": [
+        "ATP hydrolysis to pump protons back into the intermembrane space",
+        "ATP synthesis without a proton gradient",
+        "No activity of the enzyme",
+        "Generation of heat without ATP turnover"
+      ],
+      "answer": 0,
+      "explanation": "In reverse mode, ATP synthase hydrolyzes ATP to pump protons against the gradient, helping to re‑establish the membrane potential.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "In chloroplasts, the enzyme analogous to mitochondrial ATP synthase is called:",
+      "options": [
+        "CF1CF0‑ATP synthase",
+        "NADPH oxidase",
+        "Rubisco",
+        "Cytochrome b6f complex"
+      ],
+      "answer": 0,
+      "explanation": "Chloroplasts contain a similar rotary enzyme named CF1CF0‑ATP synthase (also called chloroplast ATP synthase) that uses the light‑driven proton gradient to make ATP.",
+      "topic": "ATP synthase"
+    },
+    {
+      "question": "Which of the following complexes of the mitochondrial electron transport chain does NOT pump protons across the inner membrane?",
+      "options": [
+        "Complex I",
+        "Complex II",
+        "Complex III",
+        "Complex IV"
+      ],
+      "answer": 1,
+      "explanation": "Complex II (succinate dehydrogenase) transfers electrons from FADH2 to ubiquinone but does not translocate protons, unlike Complexes I, III and IV.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "What is the final electron acceptor in oxidative phosphorylation?",
+      "options": [
+        "Oxygen (O2)",
+        "NAD+",
+        "FAD",
+        "Carbon dioxide (CO2)"
+      ],
+      "answer": 0,
+      "explanation": "Molecular oxygen accepts electrons at Complex IV, being reduced to water, which is the terminal step of the electron transport chain.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "According to the chemiosmotic theory, ATP synthesis during oxidative phosphorylation is driven by:",
+      "options": [
+        "Substrate‑level phosphorylation",
+        "Proton flow back into the matrix through ATP synthase",
+        "Oxidation of NADH",
+        "Direct phosphorylation by Complex V"
+      ],
+      "answer": 1,
+      "explanation": "The return of protons from the intermembrane space to the matrix through the F0‑F1 ATP synthase provides the energy for phosphorylation of ADP to ATP.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Approximately how many ATP molecules are synthesized per NADH oxidized (P/O ratio) in oxidative phosphorylation?",
+      "options": [
+        "2.5",
+        "1.5",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "Each NADH yields about 2.5 ATP molecules because electrons pass through Complexes I, III and IV, pumping enough protons to generate roughly 2.5 ATP per NADH.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Which inhibitor specifically blocks electron transfer from cytochrome b to cytochrome c in the electron transport chain?",
+      "options": [
+        "Rotenone",
+        "Antimycin A",
+        "Oligomycin",
+        "Cyanide"
+      ],
+      "answer": 1,
+      "explanation": "Antimycin A binds to Complex III (cytochrome bc1 complex) and prevents the transfer of electrons from ubiquinol to cytochrome c, halting proton pumping at this step.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "The proton motive force that drives ATP synthesis consists of which two components?",
+      "options": [
+        "Electrical potential and pH gradient",
+        "Temperature gradient and concentration gradient",
+        "Light intensity and membrane fluidity",
+        "NADH/NAD+ ratio and ADP/ATP ratio"
+      ],
+      "answer": 0,
+      "explanation": "The proton motive force is the sum of the membrane electrical potential (Δψ) and the transmembrane pH gradient (ΔpH) generated by electron transport.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "On which side of the inner mitochondrial membrane does the catalytic domain of ATP synthase synthesize ATP?",
+      "options": [
+        "Matrix side of inner membrane",
+        "Intermembrane space side of inner membrane",
+        "Outer mitochondrial membrane",
+        "Cytosolic side of plasma membrane"
+      ],
+      "answer": 0,
+      "explanation": "ATP synthase releases newly formed ATP into the mitochondrial matrix, where the catalytic β‑subunits are located.",
+      "topic": "Oxidative phosphorylation"
+    },
+    {
+      "question": "Which molecule acts as the final electron acceptor in the mitochondrial electron transport chain of aerobic respiration?",
+      "options": [
+        "Oxygen (O₂)",
+        "NAD⁺",
+        "FAD",
+        "Carbon dioxide (CO₂)"
+      ],
+      "answer": 0,
+      "explanation": "Oxygen has the highest reduction potential among common biological electron acceptors, allowing it to receive electrons at the end of the chain and be reduced to water.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "In the electron transport chain, reduction of the terminal electron acceptor leads to the formation of which compound?",
+      "options": [
+        "Water (H₂O)",
+        "Carbon dioxide (CO₂)",
+        "NADH",
+        "ATP"
+      ],
+      "answer": 0,
+      "explanation": "When O₂ accepts electrons and combines with protons at Complex IV, it is reduced to H₂O, completing the chain.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "What is the immediate consequence of a deficiency of the terminal electron acceptor during cellular respiration?",
+      "options": [
+        "The electron transport chain halts, decreasing ATP synthesis",
+        "Glycolysis rate increases dramatically",
+        "The Krebs cycle continues unabated",
+        "NAD⁺ is regenerated faster"
+      ],
+      "answer": 0,
+      "explanation": "Without O₂ to accept electrons, the chain backs up, NADH and FADH₂ cannot be oxidized, and oxidative phosphorylation stops, leading to reduced ATP production.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "In certain anaerobic microorganisms, nitrate (NO₃⁻) can serve as an alternative terminal electron acceptor. What is the primary reduced product formed?",
+      "options": [
+        "Nitrite (NO₂⁻)",
+        "Ammonia (NH₃)",
+        "Nitrogen gas (N₂)",
+        "Nitrous oxide (N₂O)"
+      ],
+      "answer": 0,
+      "explanation": "Nitrate is first reduced to nitrite during anaerobic respiration; further reductions may produce other nitrogen species, but nitrite is the immediate product.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "Why is oxygen considered a more efficient terminal electron acceptor than many other potential acceptors?",
+      "options": [
+        "It has a very high reduction potential, releasing large free‑energy change",
+        "It is abundant in the cytosol",
+        "It can donate electrons directly to NADH",
+        "It does not require a membrane potential"
+      ],
+      "answer": 0,
+      "explanation": "The high reduction potential of O₂ (≈+0.82 V) provides a large ΔG⁰′ when electrons flow to it, driving substantial proton pumping and ATP synthesis.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "Transfer of electrons to the terminal electron acceptor in oxidative phosphorylation is coupled with which process?",
+      "options": [
+        "Proton pumping across the inner mitochondrial membrane",
+        "Direct synthesis of ATP by substrate‑level phosphorylation",
+        "Conversion of ADP to AMP",
+        "Import of glucose into mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "Complexes I, III, and IV use the energy from electron transfer to pump protons from the matrix to the intermembrane space, creating the electrochemical gradient used by ATP synthase.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "Which mitochondrial complex directly transfers electrons to the terminal electron acceptor?",
+      "options": [
+        "Complex IV (Cytochrome c oxidase)",
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (Succinate dehydrogenase)",
+        "Complex III (Cytochrome bc₁)"
+      ],
+      "answer": 0,
+      "explanation": "Complex IV receives electrons from cytochrome c and transfers them to O₂, reducing it to water.",
+      "topic": "Terminal electron acceptor"
+    },
+    {
+      "question": "Which of the following reactions correctly represents the reduction of oxygen to water in the mitochondrial electron transport chain?",
+      "options": [
+        "2 H2 + O2 → 2 H2O",
+        "2 H+ + 2 e- → H2",
+        "O2 + 4 e- + 4 H+ → 2 H2O",
+        "NADH + O2 → NAD+ + H2O"
+      ],
+      "answer": 2,
+      "explanation": "Complex IV (cytochrome c oxidase) transfers four electrons to one O2 molecule and combines them with four protons from the matrix to produce two molecules of H2O.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "How many molecules of water are produced when a single NADH molecule is oxidized completely in oxidative phosphorylation?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "Two electrons from one NADH reduce half an O2 molecule, yielding one H2O molecule per NADH.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "Which inner‑mitochondrial‑membrane complex directly reduces oxygen to water?",
+      "options": [
+        "Complex I (NADH dehydrogenase)",
+        "Complex II (succinate dehydrogenase)",
+        "Complex III (cytochrome bc1)",
+        "Complex IV (cytochrome c oxidase)"
+      ],
+      "answer": 3,
+      "explanation": "Complex IV receives electrons from cytochrome c and reduces O2 to H2O, completing the electron transport chain.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "In the overall balanced equation for aerobic respiration of glucose, how many water molecules are formed as products?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "C6H12O6 + 6 O2 → 6 CO2 + 6 H2O; thus six molecules of water are generated.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "Where does the actual formation of water occur during oxidative phosphorylation?",
+      "options": [
+        "In the mitochondrial matrix by ATP synthase",
+        "On the intermembrane side of Complex I",
+        "On the matrix side of Complex IV",
+        "On the intermembrane side of Complex III"
+      ],
+      "answer": 2,
+      "explanation": "Oxygen is reduced to water at Complex IV on the matrix side of the inner membrane, where protons are released back into the matrix.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "What is the role of molecular oxygen in water formation during the electron transport chain?",
+      "options": [
+        "It acts as an electron donor",
+        "It is the final electron acceptor that combines with protons to form water",
+        "It serves as a substrate for ATP synthase",
+        "It functions as a catalyst for NADH oxidation"
+      ],
+      "answer": 1,
+      "explanation": "Oxygen accepts the electrons at the end of the chain and, together with protons, is reduced to H2O, completing oxidative phosphorylation.",
+      "topic": "Water formation"
+    },
+    {
+      "question": "Respiratory quotient (RQ) is defined as:",
+      "options": [
+        "Ratio of O2 consumed to CO2 produced",
+        "Ratio of CO2 produced to O2 consumed",
+        "Ratio of ATP produced to O2 consumed",
+        "Ratio of glucose consumed to O2 produced"
+      ],
+      "answer": 1,
+      "explanation": "RQ is the ratio of the volume (or moles) of CO2 generated to the volume (or moles) of O2 utilized during metabolism.",
+      "topic": "Respiratory quotient overview"
+    },
+    {
+      "question": "The typical respiratory quotient for pure carbohydrate oxidation is:",
+      "options": [
+        "0.7",
+        "0.8",
+        "1.0",
+        "1.2"
+      ],
+      "answer": 2,
+      "explanation": "Oxidation of carbohydrates yields equal moles of CO2 and O2, giving an RQ of about 1.0.",
+      "topic": "Respiratory quotient overview"
+    },
+    {
+      "question": "An RQ value of 0.75 most likely indicates predominant oxidation of:",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Nucleic acids"
+      ],
+      "answer": 2,
+      "explanation": "Fat oxidation produces less CO2 per O2 consumed, giving an RQ around 0.7–0.75, lower than that for carbs or proteins.",
+      "topic": "Respiratory quotient overview"
+    },
+    {
+      "question": "Complete aerobic oxidation of one molecule of glucose (C6H12O6) yields how many moles of CO2 and O2 respectively, and what is the resulting RQ?",
+      "options": [
+        "6 CO2, 6 O2, RQ = 1.0",
+        "6 CO2, 6 O2, RQ = 0.8",
+        "6 CO2, 5 O2, RQ = 1.2",
+        "5 CO2, 6 O2, RQ = 0.83"
+      ],
+      "answer": 0,
+      "explanation": "One glucose molecule produces 6 CO2 and consumes 6 O2, so RQ = 6/6 = 1.0.",
+      "topic": "Respiratory quotient overview"
+    },
+    {
+      "question": "During prolonged fasting, the respiratory quotient typically falls to around 0.7 because:",
+      "options": [
+        "Increased carbohydrate oxidation",
+        "Increased protein synthesis",
+        "Predominant fat oxidation",
+        "Increased water loss"
+      ],
+      "answer": 2,
+      "explanation": "Fasting shifts metabolism toward fat oxidation, which yields a lower CO2/O2 ratio, giving an RQ near 0.7.",
+      "topic": "Respiratory quotient overview"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 22,
+    "mcqCount": 152
+  }
+}

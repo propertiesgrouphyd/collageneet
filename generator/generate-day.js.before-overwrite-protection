@@ -1,0 +1,320 @@
+import fs from "node:fs";
+import path from "node:path";
+
+const ROOT = process.cwd();
+const SYLLABUS_FILE = path.join(ROOT, "syllabus.json");
+const CONFIG_FILE = path.join(ROOT, "config", "app-config.json");
+const DATA_DIR = path.join(ROOT, "data");
+
+function fail(message) {
+  console.error("");
+  console.error("==============================================");
+  console.error(" VIDHWAAN NEET — GENERATION FAILED");
+  console.error("==============================================");
+  console.error(message);
+  console.error("==============================================");
+  process.exit(1);
+}
+
+function readJson(file) {
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf8"));
+  } catch (error) {
+    fail(`Invalid JSON file:\n${file}\n${error.message}`);
+  }
+}
+
+function getDays(root) {
+  if (Array.isArray(root)) return root;
+  if (Array.isArray(root?.days)) return root.days;
+  fail("syllabus.json does not contain a valid days array.");
+}
+
+function lastGeneratedDay() {
+  if (!fs.existsSync(DATA_DIR)) return 0;
+
+  let highest = 0;
+
+  for (const file of fs.readdirSync(DATA_DIR)) {
+    const m = file.match(/^day-(\d{3})\.json$/);
+    if (m) highest = Math.max(highest, Number(m[1]));
+  }
+
+  return highest;
+}
+
+function courseDate(startDate, dayNumber) {
+  const [y, m, d] = startDate.split("-").map(Number);
+
+  if (!y || !m || !d) {
+    fail(`Invalid courseStartDate: ${startDate}`);
+  }
+
+  const date = new Date(Date.UTC(y, m - 1, d));
+  date.setUTCDate(date.getUTCDate() + dayNumber - 1);
+
+  return date.toISOString().slice(0, 10);
+}
+
+function extractJson(text) {
+  let cleaned = String(text).trim();
+
+  if (cleaned.startsWith("```")) {
+    cleaned = cleaned
+      .replace(/^```json\s*/i, "")
+      .replace(/^```\s*/i, "")
+      .replace(/\s*```$/i, "")
+      .trim();
+  }
+
+  try {
+    return JSON.parse(cleaned);
+  } catch (error) {
+    throw new Error(
+      `Groq did not return valid JSON.\n${error.message}\n\nRAW RESPONSE:\n${text}`
+    );
+  }
+}
+
+async function generateWithGroq(prompt) {
+  const key = process.env.GROQ_API_KEY;
+  const model = process.env.GROQ_MODEL || "openai/gpt-oss-120b";
+
+  if (!key) {
+    throw new Error("GROQ_API_KEY is missing.");
+  }
+
+  const response = await fetch(
+    "https://api.groq.com/openai/v1/chat/completions",
+    {
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${key}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        model,
+        temperature: 0.2,
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: "system",
+            content:
+              "You are an expert NEET preparation content author. " +
+              "Create accurate, student-friendly English NEET study content. " +
+              "Return ONLY valid JSON."
+          },
+          {
+            role: "user",
+            content: prompt
+          }
+        ]
+      })
+    }
+  );
+
+  const body = await response.text();
+
+  if (!response.ok) {
+    throw new Error(`Groq HTTP ${response.status}: ${body}`);
+  }
+
+  const result = JSON.parse(body);
+  const content = result?.choices?.[0]?.message?.content;
+
+  if (!content) {
+    throw new Error("Groq returned no message content.");
+  }
+
+  return content;
+}
+
+function buildPrompt(day) {
+  return `
+Create the complete English study lesson for exactly this NEET syllabus day.
+
+IMPORTANT:
+- Use ONLY the supplied syllabus for this day.
+- Do NOT generate content for other days.
+- Cover every topic and subtopic.
+- Explain concepts clearly enough for a weak student to understand immediately.
+- Use headings and subheadings.
+- Include definitions, mechanisms, formulas, important facts,
+  common mistakes, NEET-focused points, and concise examples where useful.
+- Do not omit any syllabus item.
+- Finish with original NEET-style practice MCQs based ONLY on this day's syllabus.
+- MCQs must have one correct answer.
+- Include a simple explanation for the correct answer.
+- English only.
+- Return ONLY JSON.
+
+Required JSON shape:
+
+{
+  "day": number,
+  "title": "string",
+  "subject": "string",
+  "unit": "string",
+  "chapter": "string",
+  "neetFocus": ["string"],
+  "learningOutcome": ["string"],
+  "sections": [
+    {
+      "topic": "string",
+      "heading": "string",
+      "content": "clear explanation",
+      "subsections": [
+        {
+          "heading": "string",
+          "content": "clear explanation"
+        }
+      ],
+      "keyPoints": ["string"],
+      "neetTips": ["string"]
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "string",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": "A",
+      "explanation": "simple explanation"
+    }
+  ]
+}
+
+Syllabus:
+${JSON.stringify(day, null, 2)}
+`;
+}
+
+function validateGenerated(data, expectedDay) {
+  if (!data || typeof data !== "object") {
+    throw new Error("Generated lesson is not an object.");
+  }
+
+  if (Number(data.day) !== expectedDay) {
+    throw new Error(
+      `Generated day mismatch. Expected ${expectedDay}, got ${data.day}.`
+    );
+  }
+
+  if (!data.title) throw new Error("Missing title.");
+  if (!Array.isArray(data.sections) || data.sections.length === 0) {
+    throw new Error("Missing lesson sections.");
+  }
+
+  if (!Array.isArray(data.mcqs) || data.mcqs.length === 0) {
+    throw new Error("Missing MCQs.");
+  }
+
+  for (const [i, q] of data.mcqs.entries()) {
+    if (!q.question) throw new Error(`MCQ ${i + 1}: missing question.`);
+    if (!Array.isArray(q.options) || q.options.length !== 4) {
+      throw new Error(`MCQ ${i + 1}: must have exactly 4 options.`);
+    }
+    if (!q.correctAnswer) {
+      throw new Error(`MCQ ${i + 1}: missing correctAnswer.`);
+    }
+    if (!q.explanation) {
+      throw new Error(`MCQ ${i + 1}: missing explanation.`);
+    }
+  }
+}
+
+async function main() {
+  const syllabus = readJson(SYLLABUS_FILE);
+  const config = readJson(CONFIG_FILE);
+  const days = getDays(syllabus);
+
+  const totalDays = Number(config.totalDays);
+
+  if (days.length !== totalDays) {
+    fail(
+      `Syllabus contains ${days.length} days but config requires ${totalDays}.`
+    );
+  }
+
+  const last = lastGeneratedDay();
+  const next = last + 1;
+
+  console.log("");
+  console.log("==============================================");
+  console.log(" VIDHWAAN NEET — DAILY AI GENERATOR");
+  console.log("==============================================");
+  console.log(`Last generated : ${last}`);
+  console.log(`Next day       : ${next}`);
+  console.log(`Total days     : ${totalDays}`);
+  console.log(`Start date     : ${config.courseStartDate}`);
+  console.log("Language       : English");
+  console.log("==============================================");
+
+  if (next > totalDays) {
+    console.log("All 365 lessons are already generated.");
+    return;
+  }
+
+  const output = path.join(
+    DATA_DIR,
+    `day-${String(next).padStart(3, "0")}.json`
+  );
+
+  if (fs.existsSync(output)) {
+    fail(`Safety stop: ${output} already exists.`);
+  }
+
+  const day = days.find(x => Number(x.day) === next);
+
+  if (!day) {
+    fail(`Day ${next} not found in syllabus.json.`);
+  }
+
+  const date = courseDate(config.courseStartDate, next);
+  const publishAt = `${date}T06:00:00+05:30`;
+
+  console.log(`Syllabus       : Day ${next}`);
+  console.log(`Course date    : ${date}`);
+  console.log(`Publish at     : ${publishAt}`);
+  console.log("");
+  console.log("Sending ONLY this day's syllabus to Groq...");
+
+  let generated;
+
+  try {
+    generated = extractJson(
+      await generateWithGroq(buildPrompt(day))
+    );
+  } catch (error) {
+    fail(error.message);
+  }
+
+  generated.day = next;
+  generated.courseDate = date;
+  generated.publishAt = publishAt;
+
+  try {
+    validateGenerated(generated, next);
+  } catch (error) {
+    fail(error.message);
+  }
+
+  fs.writeFileSync(
+    output,
+    JSON.stringify(generated, null, 2) + "\n",
+    "utf8"
+  );
+
+  console.log("");
+  console.log("==============================================");
+  console.log(" DAILY LESSON GENERATED SUCCESSFULLY");
+  console.log("==============================================");
+  console.log(`Day       : ${next}`);
+  console.log(`Date      : ${date}`);
+  console.log(`Output    : ${path.relative(ROOT, output)}`);
+  console.log(`Sections  : ${generated.sections.length}`);
+  console.log(`MCQs      : ${generated.mcqs.length}`);
+  console.log("Validation: PASSED");
+  console.log("==============================================");
+}
+
+main().catch(error => fail(error.stack || error.message));

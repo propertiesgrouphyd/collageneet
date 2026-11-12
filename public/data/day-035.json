@@ -1,0 +1,1670 @@
+{
+  "day": 35,
+  "courseDate": "2026-10-03",
+  "publishAt": "2026-10-03T06:00:00+05:30",
+  "title": "Animal Organisation – Integrated Revision (Day 35)",
+  "introduction": "This lesson provides a rapid, integrated review of animal tissues and the complete anatomy of the cockroach, focusing on NEET‑UG high‑yield facts, identification skills, and common pitfalls.",
+  "sections": [
+    {
+      "topic": "Animal tissues integrated revision",
+      "heading": "Overview of Animal Tissue Types",
+      "content": "Animal tissues are classified into four basic types—epithelial, connective, muscle and nervous—each defined by cell shape, arrangement, extracellular matrix and function. Epithelial tissues line surfaces and cavities, connective tissues support and bind, muscle tissues generate force, and nervous tissues transmit impulses. Understanding these categories aids rapid identification in diagrams and line‑based NCERT questions.",
+      "keyPoints": [
+        "Four principal tissue types: epithelial, connective, muscle, nervous",
+        "Classification based on cell morphology, matrix, and function",
+        "All tissues originate from the three embryonic germ layers"
+      ],
+      "neetTips": [
+        "Memorise the primary function of each tissue type for quick elimination in MCQs",
+        "Link tissue type to its characteristic location (e.g., epithelium → lining)"
+      ]
+    },
+    {
+      "topic": "Epithelial tissue identification",
+      "heading": "Recognising Epithelial Tissue",
+      "content": "Epithelial tissue forms continuous sheets with cells tightly joined by junctions. Key features: polarity (apical vs basal), avascularity, high regeneration, and classification by cell layers (simple, stratified) and shape (squamous, cuboidal, columnar). Simple squamous lines alveoli; simple cuboidal lines kidney tubules; stratified squamous protects skin.",
+      "keyPoints": [
+        "Cells tightly packed, minimal extracellular matrix",
+        "Classified by layers (simple/stratified) and shape",
+        "Avascular—nutrients via diffusion"
+      ],
+      "neetTips": [
+        "Look for basal lamina attachment in diagrams to confirm epithelium",
+        "Remember that keratinised stratified squamous is skin epidermis"
+      ]
+    },
+    {
+      "topic": "Connective tissue identification",
+      "heading": "Identifying Connective Tissue",
+      "content": "Connective tissue consists of scattered cells (fibroblasts, adipocytes, chondrocytes, osteocytes) embedded in an abundant extracellular matrix of fibers (collagen, elastic, reticular) and ground substance. Types include loose (areolar), dense regular, adipose, cartilage, bone and blood. Presence of fibers and matrix distinguishes it from epithelium.",
+      "keyPoints": [
+        "Abundant extracellular matrix with fibers",
+        "Cell types vary with specialization",
+        "Blood is a fluid connective tissue"
+      ],
+      "neetTips": [
+        "Check for visible fibers or ground substance in diagrams; absence of tight cell junctions indicates connective tissue"
+      ]
+    },
+    {
+      "topic": "Muscle tissue identification",
+      "heading": "Recognising Muscle Tissue",
+      "content": "Muscle tissue is characterised by elongated, multinucleated (skeletal) or mononucleated (cardiac, smooth) cells with striations (skeletal, cardiac) or non‑striated (smooth). It exhibits contractility, excitability and elasticity. Skeletal muscle attaches to bone via tendons; cardiac muscle forms intercalated discs; smooth muscle lines hollow organs.",
+      "keyPoints": [
+        "Contractile cells with actin‑myosin filaments",
+        "Skeletal: striated, voluntary; Cardiac: striated, involuntary, intercalated discs; Smooth: non‑striated, involuntary"
+      ],
+      "neetTips": [
+        "Identify striations for skeletal/cardiac; intercalated discs are unique to cardiac"
+      ]
+    },
+    {
+      "topic": "Nervous tissue identification",
+      "heading": "Identifying Nervous Tissue",
+      "content": "Nervous tissue comprises neurons (excitable cells with axon, dendrites, soma) and neuroglia (supportive cells). Key features: presence of a long axon, dendritic processes, Nissl substance, and myelin sheath in vertebrates. In insects, nerve cords consist of ganglion cells and glial sheath.",
+      "keyPoints": [
+        "Neurons have cell body, axon, dendrites",
+        "Neuroglia provide support and insulation",
+        "Myelination increases conduction speed"
+      ],
+      "neetTips": [
+        "Look for long processes and synaptic connections; glial cells lack axons"
+      ]
+    },
+    {
+      "topic": "Cockroach morphology revision",
+      "heading": "Cockroach External Morphology",
+      "content": "Cockroaches belong to class Insecta: head (antennae, compound eyes, mandibles), thorax (three segments each bearing a pair of legs and two pairs of wings—forewings (tegmina) and hindwings), and abdomen (segmented with spiracles). The exoskeleton is chitinous, with sclerites and intersegmental membranes.",
+      "keyPoints": [
+        "Three body regions: head, thorax, abdomen",
+        "Six legs attached to thorax",
+        "Tegmina are leathery forewings"
+      ],
+      "neetTips": [
+        "Remember that cockroach wings are not used for flight in many species—focus on tegmina structure"
+      ]
+    },
+    {
+      "topic": "Cockroach digestive system revision",
+      "heading": "Digestive System of Cockroach",
+      "content": "The cockroach gut is a straight tube: foregut (crop, proventriculus) for storage and grinding, midgut (ventriculus) for enzymatic digestion and absorption, hindgut (ileum, colon, rectum) for water reabsorption and feces formation. Malpighian tubules open into the hindgut for excretion.",
+      "keyPoints": [
+        "Crop stores food; proventriculus grinds",
+        "Midgut is the primary site of digestion and absorption",
+        "Hindgut reabsorbs water; rectum stores feces"
+      ],
+      "neetTips": [
+        "Link crop to storage, proventriculus to grinding—common NEET matching"
+      ]
+    },
+    {
+      "topic": "Cockroach circulatory system revision",
+      "heading": "Cockroach Circulatory System",
+      "content": "Cockroaches possess an open circulatory system. The dorsal heart (a tubular tube) pumps hemolymph into hemocoel; hemolymph bathes tissues directly. The heart has ostia for hemolymph entry and a posterior aorta. No distinct blood vessels like in vertebrates.",
+      "keyPoints": [
+        "Open circulatory system with hemocoel",
+        "Dorsal heart pumps hemolymph posteriorly",
+        "Hemolymph contains hemocyanin (oxygen carrier)"
+      ],
+      "neetTips": [
+        "Remember open system → no capillaries; NEET often asks about hemolymph vs blood"
+      ]
+    },
+    {
+      "topic": "Cockroach respiratory system revision",
+      "heading": "Respiratory System of Cockroach",
+      "content": "Respiration occurs via a network of tracheae opening through spiracles on each abdominal segment. Air diffuses through tracheal tubes to cells, eliminating the need for a circulatory oxygen transport. Spiracles can open/close to regulate water loss.",
+      "keyPoints": [
+        "Spiracles on each segment act as external openings",
+        "Tracheae deliver O₂ directly to tissues",
+        "No lungs or blood‑based gas exchange"
+      ],
+      "neetTips": [
+        "Spiracle regulation is a high‑frequency NEET point—focus on water loss control"
+      ]
+    },
+    {
+      "topic": "Cockroach excretory system revision",
+      "heading": "Excretory System of Cockroach",
+      "content": "Excretion is performed by Malpighian tubules attached to the midgut. They secrete nitrogenous wastes (uric acid) into the tubule lumen, which empties into the hindgut. Water reabsorption in the hindgut concentrates waste, minimizing water loss.",
+      "keyPoints": [
+        "Malpighian tubules filter hemolymph",
+        "Uric acid is the main nitrogenous waste (conservative water loss)",
+        "Integration with hindgut for waste elimination"
+      ],
+      "neetTips": [
+        "Uric acid vs urea—remember insects excrete uric acid to conserve water"
+      ]
+    },
+    {
+      "topic": "Cockroach nervous system revision",
+      "heading": "Nervous System of Cockroach",
+      "content": "Cockroaches have a ventral nerve cord with a series of ganglia (brain, sub‑esophageal ganglion, thoracic and abdominal ganglia). Paired ventral nerve cords connect ganglia. Sensory organs include antennae (mechanoreceptors) and compound eyes. Motor neurons innervate muscles via neuromuscular junctions.",
+      "keyPoints": [
+        "Ventral nerve cord with segmental ganglia",
+        "Brain located in head, sub‑esophageal ganglion below",
+        "Sensory input via antennae and eyes"
+      ],
+      "neetTips": [
+        "NEET often asks about ventral vs dorsal nerve cords—link cockroach to ventral"
+      ]
+    },
+    {
+      "topic": "Cockroach reproductive system revision",
+      "heading": "Reproductive System of Cockroach",
+      "content": "Cockroaches are oviparous. Females possess paired ovaries, oviducts, and a spermatheca for sperm storage. Ootheca (egg case) is produced in the oviduct and deposited externally. Males have paired testes, vas deferens, and accessory glands. Fertilisation is internal.",
+      "keyPoints": [
+        "Ootheca is a protective egg case",
+        "Spermatheca stores sperm for delayed fertilisation",
+        "Both sexes have paired gonads"
+      ],
+      "neetTips": [
+        "Remember ootheca formation site—midgut‑derived gland; a frequent NEET fact"
+      ]
+    },
+    {
+      "topic": "Structure-function based questions",
+      "heading": "Linking Structure to Function",
+      "content": "For each tissue or organ, correlate morphological features with physiological roles: e.g., stratified squamous epithelium’s multiple layers protect against abrasion; dense regular connective tissue’s parallel collagen fibers resist unidirectional tension; cockroach spiracles’ valve‑like openings minimize desiccation while allowing gas exchange.",
+      "keyPoints": [
+        "Structure dictates protective, supportive, contractile, or conductive roles",
+        "Identify key morphological markers (layers, fibers, openings)"
+      ],
+      "neetTips": [
+        "Practice matching a diagram’s feature to its function—NEET frequently tests this"
+      ]
+    },
+    {
+      "topic": "Diagram-based identification",
+      "heading": "Diagrammatic Identification Strategies",
+      "content": "When presented with a diagram, first locate hallmark features: cell polarity and basement membrane for epithelium; visible fibers for connective tissue; striations or intercalated discs for muscle; long axon and dendrites for nervous tissue. For cockroach diagrams, locate spiracles, ootheca, heart ostia, and Malpighian tubules as anchors for system identification.",
+      "keyPoints": [
+        "Use a step‑wise scan: cell arrangement → matrix → specialized structures",
+        "Cockroach key landmarks: spiracles (respiratory), dorsal heart (circulatory), Malpighian tubules (excretory)"
+      ],
+      "neetTips": [
+        "Mark the landmark before answering; reduces errors in NEET diagram questions"
+      ]
+    },
+    {
+      "topic": "NCERT-based factual relationships",
+      "heading": "NCERT Line‑Based Correlations",
+      "content": "NCERT emphasizes relationships such as: epithelium ↔ protection/absorption/secretion; connective tissue ↔ support & transport; muscle ↔ movement; nervous ↔ coordination. In insects, the open circulatory system ↔ hemolymph bathes tissues; tracheal system ↔ direct O₂ delivery; Malpighian tubules ↔ waste removal without kidneys. These line‑based facts are directly asked in NEET.",
+      "keyPoints": [
+        "Epithelium = lining & barrier",
+        "Open circulatory system lacks capillaries",
+        "Tracheae provide direct gas exchange"
+      ],
+      "neetTips": [
+        "Memorise NCERT one‑liners; they appear verbatim in NEET"
+      ]
+    },
+    {
+      "topic": "Common NEET traps and misconceptions",
+      "heading": "Pitfalls to Avoid",
+      "content": "Common errors include: confusing stratified vs simple epithelium, assuming insects have closed circulatory systems, mixing up uric acid with urea, overlooking the role of the ootheca, and misidentifying smooth muscle as non‑striated vertebrate tissue. Also, spiracles are often mistaken for respiratory pores of vertebrates; remember they are valve‑controlled openings.",
+      "keyPoints": [
+        "Insects = open circulatory, not closed",
+        "Uric acid = water‑conserving waste",
+        "Ootheca = external egg case"
+      ],
+      "neetTips": [
+        "Cross‑check each answer against the specific insect context to avoid vertebrate‑centric assumptions"
+      ]
+    },
+    {
+      "topic": "Integrated chapter practice",
+      "heading": "Comprehensive Revision Exercises",
+      "content": "Combine tissue identification with cockroach system mapping: e.g., label a diagram showing epithelium lining the gut, connective tissue surrounding the heart, muscle fibers in the leg, and nerves innervating the antennae. Solve NCERT‑style line‑matching questions linking each tissue type to its function and each cockroach organ to its physiological role. Review high‑frequency facts and trap questions in a timed mock test.",
+      "keyPoints": [
+        "Integrate tissue and organ knowledge in a single diagram",
+        "Practice NCERT line‑matching for rapid recall"
+      ],
+      "neetTips": [
+        "Simulate NEET timing; focus on accuracy of identification and function matching"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Identify and differentiate all four animal tissue types with their key structural features",
+    "Recognise and label major cockroach organ systems and relate their morphology to function",
+    "Apply NCERT line‑based facts to answer structure‑function and diagram‑based NEET questions",
+    "Avoid common misconceptions by recalling insect‑specific adaptations"
+  ],
+  "mcqs": [
+    {
+      "question": "Which statement correctly distinguishes simple squamous epithelium from stratified cuboidal epithelium?",
+      "options": [
+        "Simple squamous is a single layer of flat cells facilitating diffusion; stratified cuboidal has multiple layers of cube‑shaped cells providing protection.",
+        "Simple squamous has multiple layers of cuboidal cells; stratified cuboidal is a single layer of flat cells.",
+        "Both are single‑layered but differ in cell shape.",
+        "Both are multilayered but differ in keratinization."
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium consists of a single layer of thin, flat cells ideal for diffusion, whereas stratified cuboidal epithelium has several layers of cube‑shaped cells that mainly protect underlying tissues.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "Which connective tissue type is characterized by abundant ground substance with few collagen fibers and functions as a cushion in joints?",
+      "options": [
+        "Dense regular connective tissue",
+        "Adipose tissue",
+        "Hyaline cartilage",
+        "Loose areolar connective tissue"
+      ],
+      "answer": 3,
+      "explanation": "Loose areolar connective tissue has a gelatinous ground substance with sparse collagen fibers, allowing it to act as a flexible cushion and fill spaces around organs and joints.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "In skeletal muscle fibers, which organelle is directly responsible for the rapid release of calcium during contraction?",
+      "options": [
+        "Sarcoplasmic reticulum",
+        "Mitochondria",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "answer": 0,
+      "explanation": "The sarcoplasmic reticulum stores calcium and releases it swiftly into the cytoplasm when a muscle fiber is stimulated, triggering contraction.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "Which feature uniquely distinguishes nervous tissue from other animal tissues?",
+      "options": [
+        "Presence of extracellular matrix rich in collagen",
+        "Ability to generate and propagate action potentials",
+        "High tensile strength",
+        "Storage of fat droplets"
+      ],
+      "answer": 1,
+      "explanation": "Nervous tissue contains neurons that can initiate and conduct electrical impulses (action potentials), a property not found in epithelial, connective, or muscle tissues.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "The lining of the alveoli in mammalian lungs is composed of which epithelium, and why is it suited for gas exchange?",
+      "options": [
+        "Simple cuboidal epithelium – thin and secretory",
+        "Simple columnar epithelium – tall for absorption",
+        "Simple squamous epithelium – thin barrier for diffusion",
+        "Stratified squamous epithelium – protective"
+      ],
+      "answer": 2,
+      "explanation": "Alveolar walls are lined by simple squamous epithelium, whose extreme thinness minimizes diffusion distance for O₂ and CO₂, facilitating efficient gas exchange.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "Which pair correctly matches the tissue type with a typical location in the human body?",
+      "options": [
+        "Cardiac muscle – walls of large arteries",
+        "Stratified squamous epithelium – epidermis of skin",
+        "Adipose tissue – lining of the gastrointestinal tract",
+        "Nervous tissue – articular cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Stratified squamous epithelium forms the outermost layer of the skin (epidermis), providing protection against mechanical injury and water loss.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "A diagram shows a tissue section with densely packed parallel collagen fibers, few cells, and a well‑defined orientation. Which tissue is most likely represented?",
+      "options": [
+        "Dense regular connective tissue",
+        "Dense irregular connective tissue",
+        "Elastic connective tissue",
+        "Reticular connective tissue"
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue is characterized by tightly packed, parallel collagen bundles with few fibroblasts, giving it high tensile strength in one direction, typical of tendons and ligaments.",
+      "topic": "Animal tissues integrated revision"
+    },
+    {
+      "question": "Which description correctly characterises simple squamous epithelium?",
+      "options": [
+        "A single layer of flat cells that permits rapid diffusion and filtration",
+        "Multiple layers of cuboidal cells with abundant cytoplasm",
+        "A single layer of tall columnar cells bearing microvilli",
+        "Stratified squamous keratinised cells forming a tough barrier"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium consists of a single layer of thin, flattened cells, ideal for diffusion and filtration, e.g., in alveoli and glomeruli.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "The lining of the proximal convoluted tubule of the kidney is composed of which epithelial type?",
+      "options": [
+        "Simple cuboidal epitheli **",
+        "Stratified cuboidal epithelium",
+        "Simple squamous epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Proximal convoluted tubules are lined by simple cuboidal epithelium with brush borders that facilitate reabsorption and secretion.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "Which epithelial type is specialised for absorption and secretion in the small intestine?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Simple columnar epithelium with microvilli",
+        "Stratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "The intestinal lining is simple columnar epithelium bearing dense microvilli (brush border) that greatly increase surface area for absorption and secretion.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "The protective outer layer of the skin is formed by which epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple columnar epithelium",
+        "Stratified cuboidal epithelium",
+        "Stratified squamous keratinised epithelium"
+      ],
+      "answer": 3,
+      "explanation": "The epidermis consists of stratified squamous keratinised epithelium, providing a durable barrier against mechanical stress and water loss.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "Which epithelium lines the urinary bladder and allows it to stretch?",
+      "options": [
+        "Simple columnar epithelium",
+        "Transitional epithelium",
+        "Pseudostratified columnar epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Transitional epithelium can change shape from cuboidal to squamous, permitting the bladder to expand and contract without tearing.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "Which statement correctly distinguishes pseudostratified columnar epithelium from true stratified epithelium?",
+      "options": [
+        "All cells are at different heights, giving a layered appearance",
+        "All cells rest on the basement membrane but nuclei lie at different levels",
+        "It contains goblet cells but lacks cilia",
+        "It is composed of multiple cell layers, each not reaching the basement membrane"
+      ],
+      "answer": 1,
+      "explanation": "In pseudostratified columnar epithelium, every cell contacts the basement membrane, yet nuclei are positioned at varying heights, creating a false impression of stratification.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "The alveolar sacs of the lungs are lined by which epithelium?",
+      "options": [
+        "Simple squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Stratified squamous keratinised epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Alveoli are lined with simple squamous epithelium (type I pneumocytes) to facilitate efficient gas exchange across a thin barrier.",
+      "topic": "Epithelial tissue identification"
+    },
+    {
+      "question": "Which connective tissue type is characterized by abundant ground substance, few fibers, and functions as a packing material?",
+      "options": [
+        "Loose areolar connective tissue",
+        "Dense regular connective tissue",
+        "Adipose tissue",
+        "Hyaline cartilage"
+      ],
+      "answer": 0,
+      "explanation": "Loose areolar tissue has a loosely arranged network of collagen and elastic fibers with abundant ground substance, serving as a packing material between organs.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Which connective tissue is identified by chondrocytes residing in lacunae within a homogeneous matrix and is found covering the epiphyses of long bones?",
+      "options": [
+        "Fibrocartilage",
+        "Elastic cartilage",
+        "Hyaline cartilage",
+        "Bone tissue"
+      ],
+      "answer": 2,
+      "explanation": "Hyaline cartilage contains chondrocytes in lacunae within a glassy, homogeneous extracellular matrix and lines the epiphyses of long bones.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "In a histological slide, which connective tissue shows parallel bundles of collagen fibers with fibroblasts oriented in the same direction, providing tensile strength in one direction?",
+      "options": [
+        "Dense regular connective tissue",
+        "Dense irregular connective tissue",
+        "Loose areolar connective tissue",
+        "Adipose tissue"
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue has tightly packed, parallel collagen fibers and fibroblasts aligned in the same direction, ideal for resisting unidirectional tension (e.g., tendons).",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Which connective tissue type stores energy as fat droplets and is located beneath the skin in the subcutaneous layer?",
+      "options": [
+        "Loose areolar connective tissue",
+        "Adipose tissue",
+        "Dense irregular connective tissue",
+        "Blood"
+      ],
+      "answer": 1,
+      "explanation": "Adipose tissue consists of adipocytes packed with lipid droplets and is the main energy‑storage tissue found in the subcutaneous layer.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of fibrocartilage?",
+      "options": [
+        "Contains many collagen fibers",
+        "Provides shock absorption",
+        "Has chondrocytes in lacunae",
+        "Contains elastic fibers"
+      ],
+      "answer": 3,
+      "explanation": "Fibrocartilage is rich in collagen fibers and chondrocytes but lacks elastic fibers; elastic fibers are typical of elastic cartilage.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Blood is considered a specialized connective tissue. Which component classifies it as connective tissue?",
+      "options": [
+        "Plasma (fluid matrix)",
+        "Erythrocytes (cells)",
+        "Platelets (cell fragments)",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Like other connective tissues, blood has a matrix (plasma) and cellular elements (erythrocytes, leukocytes, platelets), fulfilling the definition of connective tissue.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Which connective tissue type forms the transparent, tensile covering of the cornea?",
+      "options": [
+        "Elastic cartilage",
+        "Hyaline cartilage",
+        "Dense regular connective tissue",
+        "Fibrocartilage"
+      ],
+      "answer": 2,
+      "explanation": "The cornea is composed of dense regular connective tissue with uniformly arranged collagen fibers, providing transparency and strength.",
+      "topic": "Connective tissue identification"
+    },
+    {
+      "question": "Which histological feature distinguishes skeletal muscle from cardiac muscle?",
+      "options": [
+        "Presence of intercalated discs",
+        "Multinucleated fibers",
+        "Presence of striations",
+        "Involuntary control"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal muscle fibers are multinucleated, whereas cardiac muscle cells have a single nucleus.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "In a cross‑section of the wall of the human intestine, which type of muscle tissue is observed?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Mixed skeletal and smooth muscle"
+      ],
+      "answer": 2,
+      "explanation": "The intestinal wall contains smooth muscle, which is non‑striated and involuntary.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "Which muscle tissue exhibits a single central nucleus per cell and lacks striations?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle cells have a single centrally placed nucleus and are non‑striated.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "The presence of which structure is characteristic of cardiac muscle but absent in skeletal muscle?",
+      "options": [
+        "Sarcomeres",
+        "Myofibrils",
+        "Intercalated discs",
+        "Neuromuscular junctions"
+      ],
+      "answer": 2,
+      "explanation": "Intercalated discs are specialized junctions found only in cardiac muscle, facilitating synchronized contraction.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "Which statement about the control of muscle tissue is correct?",
+      "options": [
+        "Skeletal muscle is under involuntary control",
+        "Cardiac muscle is under voluntary control",
+        "Smooth muscle is under voluntary control",
+        "Cardiac muscle contracts autonomously without neural input"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac muscle has intrinsic rhythmicity and can contract without external neural stimulation, though it is modulated by the autonomic nervous system.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "In an H&E stained slide, which muscle tissue appears as long cylindrical cells with peripheral nuclei and obvious transverse striations?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 0,
+      "explanation": "Skeletal muscle fibers are long, multinucleated, peripheral nuclei and display clear transverse striations.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "Which muscle tissue type is primarily responsible for peristalsis in the gastrointestinal tract?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Mixed skeletal and cardiac muscle"
+      ],
+      "answer": 2,
+      "explanation": "Peristaltic movements are generated by the coordinated contraction of smooth muscle layers in the GI tract.",
+      "topic": "Muscle tissue identification"
+    },
+    {
+      "question": "Which cellular component is most characteristic for identifying nervous tissue in a histological section?",
+      "options": [
+        "Presence of elongated cells with Nissl substance",
+        "Presence of tightly packed collagen fibers",
+        "Presence of keratinized cells",
+        "Presence of multinucleated muscle fibers"
+      ],
+      "answer": 0,
+      "explanation": "Neurons contain abundant rough endoplasmic reticulum (Nissl substance) giving them a distinctive appearance, which is not seen in connective, epithelial or muscle tissues.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "In the nervous tissue of insects such as the cockroach, the supporting cells are called:",
+      "options": [
+        "Neuroglia",
+        "Scolopidia",
+        "Hemocytes",
+        "Tracheal cells"
+      ],
+      "answer": 0,
+      "explanation": "In insects, glial cells that support and insulate neurons are termed neuroglia, analogous to glial cells in vertebrates.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "Which staining technique is most suitable for visualising the cell bodies of neurons in nervous tissue?",
+      "options": [
+        "Hematoxylin and eosin",
+        "Cresyl violet (Nissl stain)",
+        "Masson's trichrome",
+        "Periodic acid‑Schiff"
+      ],
+      "answer": 1,
+      "explanation": "Cresyl violet (Nissl stain) selectively binds to Nissl substance in neuronal cell bodies, highlighting them clearly.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "Which of the following structures is NOT a part of nervous tissue?",
+      "options": [
+        "Neuron",
+        "Astrocyte",
+        "Fibroblast",
+        "Oligodendrocyte"
+      ],
+      "answer": 2,
+      "explanation": "Fibroblasts are cells of connective tissue; neurons and glial cells such as astrocytes and oligodendrocytes belong to nervous tissue.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "Which layer of a peripheral nerve is composed mainly of tightly packed collagen fibers and appears as a pale sheath surrounding each fascicle?",
+      "options": [
+        "Endoneurium",
+        "Perineurium",
+        "Epineurium",
+        "Myelin sheath"
+      ],
+      "answer": 1,
+      "explanation": "The perineurium forms a protective, collagen‑rich sheath around each nerve fascicle, giving a pale appearance in histological sections.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "Which type of neuron is primarily involved in transmitting sensory information from the periphery to the central nervous system?",
+      "options": [
+        "Afferent (sensory) neuron",
+        "Efferent (motor) neuron",
+        "Interneuron",
+        "Multipolar neuron"
+      ],
+      "answer": 0,
+      "explanation": "Afferent neurons carry impulses from sensory receptors toward the CNS; they are the main sensory pathway.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "In the nervous tissue of a cockroach, the cell bodies of neurons are typically located in:",
+      "options": [
+        "Ganglia",
+        "Muscle fibers",
+        "Epidermis",
+        "Hemolymph"
+      ],
+      "answer": 0,
+      "explanation": "In insects, neuronal cell bodies are clustered in ganglia, which serve as central processing centers.",
+      "topic": "Nervous tissue identification"
+    },
+    {
+      "question": "How many pairs of legs does an adult cockroach possess?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answer": 3,
+      "explanation": "Cockroaches are insects and have three pairs of legs, i.e., six legs in total.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "Which type of mouthparts are present in cockroaches?",
+      "options": [
+        "Chewing (mandibulate) mouthparts",
+        "Siphoning mouthparts",
+        "Sponging mouthparts",
+        "Piercing‑sucking mouthparts"
+      ],
+      "answer": 0,
+      "explanation": "Cockroaches have robust chewing mouthparts adapted for biting and grinding solid food.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "The leathery forewings of a cockroach are called:",
+      "options": [
+        "Elytra",
+        "Tegmina",
+        "Hemelytra",
+        "Haltere"
+      ],
+      "answer": 1,
+      "explanation": "In cockroaches the forewings are thickened, leathery structures known as tegmina, which protect the hindwings.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "The paired appendages at the posterior end of the abdomen that function as mechanoreceptors are:",
+      "options": [
+        "Cerci",
+        "Antennae",
+        "Palps",
+        "Tarsi"
+      ],
+      "answer": 0,
+      "explanation": "Cerci are sensory filaments that detect air currents and vibrations, aiding in predator avoidance.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "The dorsal shield covering the first thoracic segment of a cockroach is called:",
+      "options": [
+        "Pronotum",
+        "Scutellum",
+        "Mesonotum",
+        "Metanotum"
+      ],
+      "answer": 0,
+      "explanation": "The pronotum is a prominent, plate‑like structure on the dorsal side of the prothorax.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "How many pairs of spiracles are typically present in an adult cockroach?",
+      "options": [
+        "Eight",
+        "Ten",
+        "Six",
+        "Four"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches possess ten pairs of spiracles—one pair on each of the three thoracic segments and on most of the eight abdominal segments.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "The structure that houses the cockroach's egg case (ootheca) is located on:",
+      "options": [
+        "Abdomen",
+        "Thorax",
+        "Head",
+        "Legs"
+      ],
+      "answer": 0,
+      "explanation": "Female cockroaches produce oothecae in the abdomen, where the reproductive organs are situated.",
+      "topic": "Cockroach morphology revision"
+    },
+    {
+      "question": "Which part of the cockroach digestive system is primarily responsible for mechanical grinding of food before it enters the midgut?",
+      "options": [
+        "Crop",
+        "Proventriculus",
+        "Midgut (ventriculus)",
+        "Hindgut"
+      ],
+      "answer": 1,
+      "explanation": "The proventriculus is a sclerotized, muscular chamber that grinds food particles, functioning as a mechanical grinder before the material reaches the midgut for enzymatic digestion.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "In a cockroach, the region where most enzymatic digestion and nutrient absorption occurs is:",
+      "options": [
+        "Foregut (crop)",
+        "Midgut (ventriculus)",
+        "Hindgut (colon)",
+        "Salivary glands"
+      ],
+      "answer": 1,
+      "explanation": "The midgut, also called the ventriculus, contains brush‑border microvilli and secretes digestive enzymes; it is the principal site for digestion and absorption of amino acids, sugars, and lipids.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "The peritrophic membrane that lines the cockroach midgut mainly functions to:",
+      "options": [
+        "Secrete digestive enzymes",
+        "Prevent microbial invasion while allowing diffusion of digested nutrients",
+        "Store excess lipids",
+        "Facilitate water excretion"
+      ],
+      "answer": 1,
+      "explanation": "The semi‑permeable peritrophic membrane acts as a protective barrier against pathogens and abrasive food particles, yet permits the passage of small digested molecules to the epithelial surface.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "Which statement about the cockroach hindgut is correct?",
+      "options": [
+        "It is the main site of protein synthesis",
+        "It reabsorbs water and salts",
+        "It secretes amylase",
+        "It contains gastric glands"
+      ],
+      "answer": 1,
+      "explanation": "The hindgut (ileum, colon, rectum) is specialized for reclaiming water and inorganic ions from the remaining chyme, concentrating waste before excretion.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "The crop in the cockroach digestive system primarily serves to:",
+      "options": [
+        "Produce bile",
+        "Store ingested food before digestion",
+        "Secrete insulin",
+        "Perform gas exchange"
+      ],
+      "answer": 1,
+      "explanation": "The crop is an expandable sac of the foregut that temporarily stores food, allowing the insect to feed rapidly and digest the material later in the midgut.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "Which enzyme is predominantly secreted by the salivary glands of cockroaches to initiate carbohydrate digestion?",
+      "options": [
+        "Lipase",
+        "Amylase",
+        "Trypsin",
+        "Pepsin"
+      ],
+      "answer": 1,
+      "explanation": "Cockroach salivary glands release amylase, which begins the breakdown of starches into simpler sugars as the food is ingested.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "Which structure in the cockroach digestive system is homologous to the vertebrate small intestine?",
+      "options": [
+        "Crop",
+        "Proventriculus",
+        "Midgut (ventriculus)",
+        "Hindgut"
+      ],
+      "answer": 2,
+      "explanation": "The insect midgut performs the absorptive and enzymatic functions analogous to the vertebrate small intestine, whereas the crop and proventriculus are foregut components and the hindgut corresponds to the large intestine.",
+      "topic": "Cockroach digestive system revision"
+    },
+    {
+      "question": "Which statement correctly describes the heart of a cockroach?",
+      "options": [
+        "It is a multi-chambered organ with valves like vertebrate heart.",
+        "It is located ventrally in the abdomen.",
+        "It is a dorsal tubular vessel with ostia that allow hemolymph entry.",
+        "It pumps only oxygen‑rich hemolymph."
+      ],
+      "answer": 2,
+      "explanation": "The cockroach heart is a dorsal tube (aortic vessel) that possesses ostia—small openings—through which hemolymph enters before being pumped forward.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "In the open circulatory system of a cockroach, hemolymph primarily circulates in which space?",
+      "options": [
+        "Hemocoel (open body cavity)",
+        "Closed network of arteries",
+        "Lymphatic ducts",
+        "Pulmonary alveoli"
+      ],
+      "answer": 0,
+      "explanation": "In insects the circulatory fluid (hemolymph) bathes the internal organs directly within the hemocoel, an open cavity, rather than being confined to vessels.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "Which component of cockroach hemolymph is chiefly responsible for immune defense?",
+      "options": [
+        "Plasma proteins",
+        "Haemocytes",
+        "Lipids",
+        "Water"
+      ],
+      "answer": 1,
+      "explanation": "Haemocytes are the cellular elements of hemolymph that perform phagocytosis, encapsulation and other immune functions against pathogens.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "The direction of hemolymph flow in a cockroach is from:",
+      "options": [
+        "Anterior to posterior",
+        "Posterior to anterior",
+        "Lateral to ventral",
+        "No definite direction"
+      ],
+      "answer": 1,
+      "explanation": "The dorsal heart receives hemolymph through ostia located near the posterior end and pumps it forward toward the anterior, creating a posterior‑to‑anterior flow.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "Which of the following is NOT a function of cockroach hemolymph?",
+      "options": [
+        "Transport of nutrients",
+        "Waste removal",
+        "Immune response",
+        "Transport of respiratory gases"
+      ],
+      "answer": 3,
+      "explanation": "In insects, gas exchange occurs via the tracheal system, not through hemolymph; therefore respiratory gas transport is not a function of hemolymph.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "Compared with vertebrate blood, cockroach hemolymph has a relatively higher proportion of:",
+      "options": [
+        "Haemoglobin",
+        "Water",
+        "Red blood cells",
+        "Platelets"
+      ],
+      "answer": 1,
+      "explanation": "Insect hemolymph is mostly water (about 90%); it lacks red blood cells and haemoglobin, which are abundant in vertebrate blood.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "The pericardial cells surrounding the cockroach heart primarily function in:",
+      "options": [
+        "Filtration and storage of waste products from hemolymph",
+        "Generation of rhythmic heart contractions",
+        "Synthesis of respiratory pigments",
+        "Production of chitin for exoskeleton"
+      ],
+      "answer": 0,
+      "explanation": "Pericardial (nephrocyte) cells act like a filter, removing debris and storing metabolites, thereby maintaining hemolymph quality.",
+      "topic": "Cockroach circulatory system revision"
+    },
+    {
+      "question": "What is the external opening of the cockroach tracheal system called?",
+      "options": [
+        "Spiracle",
+        "Malpighian tubule",
+        "Oenocyte",
+        "Labrum"
+      ],
+      "answer": 0,
+      "explanation": "Spiracles are the paired external openings on the body surface that lead to the internal tracheal network for gas exchange.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "Gas exchange in cockroaches primarily occurs across which tissue lining?",
+      "options": [
+        "Cuticle",
+        "Tracheal epithelium",
+        "Malpighian tubules",
+        "Fat body"
+      ],
+      "answer": 1,
+      "explanation": "The thin, moist tracheal epithelium provides a large surface area for diffusion of O₂ and CO₂ between the air in tracheae and body cells.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "How many pairs of spiracles are typically present in a cockroach?",
+      "options": [
+        "5 pairs",
+        "6 pairs",
+        "7 pairs",
+        "8 pairs"
+      ],
+      "answer": 3,
+      "explanation": "Cockroaches possess eight pairs of spiracles: one pair each on the prothorax, mesothorax, metathorax, and two pairs on the abdomen.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "Which mechanism is primarily responsible for ventilating the tracheal system of a cockroach?",
+      "options": [
+        "Active pumping by tracheal muscles",
+        "Pure diffusion without active movement",
+        "Buccal pumping using mouthparts",
+        "Cutaneous respiration through the integument"
+      ],
+      "answer": 2,
+      "explanation": "Cockroaches use buccal pumping, where rhythmic movements of the mouthparts draw air into the tracheae, supplementing diffusion.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "Why is the cockroach tracheal system considered a ‘closed’ system for gas transport?",
+      "options": [
+        "It contains hemolymph",
+        "It is lined with a chitinous cuticle",
+        "It lacks blood vessels",
+        "It consists of a continuous network of air-filled tubes delivering O₂ directly to tissues"
+      ],
+      "answer": 3,
+      "explanation": "The tracheal system forms a sealed network of air-filled tubes that directly convey oxygen to cells, eliminating the need for a circulatory carrier.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "Which adaptation enables cockroaches to tolerate low‑oxygen environments?",
+      "options": [
+        "High‑affinity hemocyanin",
+        "Large surface area of the tracheal system",
+        "Presence of gills",
+        "Oxygen storage in fat bodies"
+      ],
+      "answer": 1,
+      "explanation": "A highly branched tracheal system provides a vast surface area, allowing efficient diffusion even when ambient oxygen levels are low.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "The perivisceral fat body surrounding cockroach tracheae mainly functions to:",
+      "options": [
+        "Store glycogen",
+        "Produce hormones",
+        "Facilitate gas diffusion by reducing diffusion distance",
+        "Secrete digestive enzymes"
+      ],
+      "answer": 2,
+      "explanation": "The fat body’s close association with tracheae shortens the diffusion path for gases, enhancing the efficiency of oxygen delivery to tissues.",
+      "topic": "Cockroach respiratory system revision"
+    },
+    {
+      "question": "What is the primary organ responsible for the removal of nitrogenous wastes in a cockroach?",
+      "options": [
+        "Malpighian tubules",
+        "Hindgut",
+        "Fat body",
+        "Salivary glands"
+      ],
+      "answer": 0,
+      "explanation": "Malpighian tubules are the excretory organs that collect waste from the hemolymph and secrete it into the lumen for elimination.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "Which nitrogenous waste product is excreted in the greatest amount by cockroaches?",
+      "options": [
+        "Urea",
+        "Ammonia",
+        "Uric acid",
+        "Creatinine"
+      ],
+      "answer": 2,
+      "explanation": "Cockroaches convert ammonia to uric acid, which is less toxic and can be stored as a solid, making uric acid the main waste product.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "The Malpighian tubules of a cockroach empty their secretions into which part of the alimentary canal?",
+      "options": [
+        "Ileum",
+        "Hindgut (colon)",
+        "Midgut",
+        "Proventriculus"
+      ],
+      "answer": 1,
+      "explanation": "The distal ends of the Malpighian tubules open into the hindgut, specifically the colon, where waste mixes with digested material.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "Reabsorption of valuable ions and water in the cockroach excretory system occurs mainly in which region?",
+      "options": [
+        "Malpighian tubules",
+        "Foregut",
+        "Hindgut",
+        "Malpighian tubule–hindgut junction"
+      ],
+      "answer": 2,
+      "explanation": "The hindgut (colon) is specialized for reclaiming ions such as Na⁺, K⁺ and water, reducing loss of valuable resources.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "Which statement correctly compares the cockroach excretory system with the vertebrate kidney?",
+      "options": [
+        "Both rely on glomerular filtration of blood",
+        "Cockroach Malpighian tubules use active transport while vertebrate kidneys use filtration",
+        "Both excrete ammonia as the primary nitrogenous waste",
+        "Cockroach excretory system has no role in osmoregulation"
+      ],
+      "answer": 1,
+      "explanation": "Malpighian tubules secrete waste actively, whereas vertebrate kidneys filter plasma through glomeruli; this is a key difference.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "What is the principal function of the fat body in cockroach excretion?",
+      "options": [
+        "Filter hemolymph like a kidney",
+        "Convert ammonia to uric acid",
+        "Store uric acid crystals",
+        "Produce Malpighian tubules"
+      ],
+      "answer": 1,
+      "explanation": "The fat body detoxifies ammonia by converting it into uric acid, which is then transported to the Malpighian tubules for excretion.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "When a cockroach experiences dehydration, how does its excretory system adapt?",
+      "options": [
+        "Increase the volume of urine produced",
+        "Decrease water reabsorption in the hindgut",
+        "Increase secretion of uric acid in Malpighian tubules",
+        "Reduce uric acid secretion and increase water reabsorption in the hindgut"
+      ],
+      "answer": 3,
+      "explanation": "During dehydration, secretion of uric acid is reduced and the hindgut reabsorbs more water, conserving body fluids.",
+      "topic": "Cockroach excretory system revision"
+    },
+    {
+      "question": "Which ganglion in the cockroach primarily processes olfactory information received from the antennae?",
+      "options": [
+        "Supraesophageal ganglion",
+        "Subesophageal ganglion",
+        "Thoracic ganglion",
+        "Abdominal ganglion"
+      ],
+      "answer": 0,
+      "explanation": "The antennal lobes, which receive olfactory inputs, are located in the supraesophageal ganglion (the insect brain).",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "The giant interneurons in the cockroach ventral nerve cord are crucial for which rapid behavioural response?",
+      "options": [
+        "Feeding",
+        "Mating",
+        "Escape locomotion",
+        "Molting"
+      ],
+      "answer": 2,
+      "explanation": "Giant interneurons transmit fast signals that trigger the characteristic rapid escape run when the cockroach is startled.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "The cerci of a cockroach are specialized mechanoreceptors that detect:",
+      "options": [
+        "Light intensity",
+        "Air currents",
+        "Chemical cues",
+        "Temperature"
+      ],
+      "answer": 1,
+      "explanation": "Cerci are filamentous appendages at the abdomen that sense minute air movements, alerting the insect to potential threats.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "Which neurotransmitter predominates at the neuromuscular junctions of cockroach peripheral nerves?",
+      "options": [
+        "Acetylcholine",
+        "Dopamine",
+        "Serotonin",
+        "GABA"
+      ],
+      "answer": 0,
+      "explanation": "In insects, acetylcholine is the primary excitatory neurotransmitter at motor synapses, mediating muscle contraction.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "The subesophageal ganglion in a cockroach mainly controls:",
+      "options": [
+        "Leg movements",
+        "Mouthparts and salivation",
+        "Wing beating",
+        "Heart rate"
+      ],
+      "answer": 1,
+      "explanation": "The subesophageal ganglion innervates the foregut, mouthparts, and salivary glands, coordinating feeding actions.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "The cockroach ventral nerve cord consists of:",
+      "options": [
+        "Paired dorsal ganglia",
+        "Unpaired dorsal ganglion",
+        "Paired segmental ganglia",
+        "Unpaired ventral ganglion"
+      ],
+      "answer": 2,
+      "explanation": "It is a chain of paired segmental ganglia linked by connectives, running along the ventral side of the body.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "Which brain structure in the cockroach is most comparable to the vertebrate cerebellum in its role of coordinating locomotor activity?",
+      "options": [
+        "Mushroom bodies",
+        "Antennal lobes",
+        "Central complex",
+        "Optic lobes"
+      ],
+      "answer": 2,
+      "explanation": "The central complex integrates sensory inputs and generates motor commands for coordinated walking, analogous to cerebellar functions.",
+      "topic": "Cockroach nervous system revision"
+    },
+    {
+      "question": "Which structure in the female cockroach stores sperm after mating?",
+      "options": [
+        "Spermatheca",
+        "Ovipositor",
+        "Oviduct",
+        "Accessory gland"
+      ],
+      "answer": 0,
+      "explanation": "The spermatheca is a specialized sac in the female reproductive tract where sperm are stored until fertilization of eggs.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "Which glandular structure contributes to the formation of the cockroach ootheca?",
+      "options": [
+        "Ovaries",
+        "Lateral oviducts",
+        "Accessory glands",
+        "Spermatheca"
+      ],
+      "answer": 2,
+      "explanation": "Secretions from the accessory glands coat the eggs as they pass through the lateral oviducts, forming the protective ootheca.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "Approximately how many ovarioles are present in each ovary of an adult female cockroach?",
+      "options": [
+        "1-2",
+        "3-4",
+        "7-10",
+        "15-20"
+      ],
+      "answer": 2,
+      "explanation": "Adult female cockroaches typically have 7 to 10 ovarioles per ovary, each producing a line of developing oocytes.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "In the male cockroach, which organ primarily produces the seminal fluid that mixes with sperm?",
+      "options": [
+        "Testes",
+        "Accessory glands",
+        "Vas deferens",
+        "Ejaculatory duct"
+      ],
+      "answer": 1,
+      "explanation": "The accessory glands secrete the bulk of the seminal fluid that accompanies sperm during ejaculation.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "Which hormone is chiefly responsible for stimulating vitellogenesis in cockroach females?",
+      "options": [
+        "Juvenile hormone",
+        "Ecdysone",
+        "Prothoracicotropic hormone",
+        "Insulin-like peptide"
+      ],
+      "answer": 0,
+      "explanation": "Juvenile hormone regulates the synthesis of yolk proteins (vitellogenin) in the fat body, a key step in egg maturation.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "During copulation, the male cockroach transfers sperm to the female through which structure?",
+      "options": [
+        "Aedeagus",
+        "Ovipositor",
+        "Spermatophore",
+        "Gonopore"
+      ],
+      "answer": 0,
+      "explanation": "The aedeagus, also called the phallus, is the intromittent organ that delivers sperm into the female reproductive tract.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "The reproductive strategy of cockroaches is best described as:",
+      "options": [
+        "Oviparous with indirect fertilization",
+        "Oviparous with internal fertilization",
+        "Viviparous with internal fertilization",
+        "Ovoviviparous with external fertilization"
+      ],
+      "answer": 1,
+      "explanation": "Cockroaches lay eggs (oviparous) and fertilization occurs inside the female’s body before the eggs are enclosed in the ootheca.",
+      "topic": "Cockroach reproductive system revision"
+    },
+    {
+      "question": "Which type of epithelial tissue lines the cockroach foregut and is specialized for absorption?",
+      "options": [
+        "Simple squamous",
+        "Simple columnar",
+        "Stratified cuboidal",
+        "Pseudostratified columnar"
+      ],
+      "answer": 1,
+      "explanation": "The foregut epithelium is simple columnar, providing a large surface area for nutrient absorption.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "In the cockroach circulatory system, what structural feature of the dorsal vessel ensures unidirectional hemolymph flow?",
+      "options": [
+        "Presence of valves in the aorta",
+        "Muscular contractions of the dorsal vessel",
+        "Presence of sinuses with ostia",
+        "Presence of chitinous plates"
+      ],
+      "answer": 1,
+      "explanation": "Rhythmic muscular contractions of the dorsal vessel pump hemolymph forward, while ostia allow entry, creating unidirectional flow.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "Which structural adaptation of the cockroach tracheal system maximizes gas‑exchange efficiency?",
+      "options": [
+        "Thin-walled alveoli",
+        "Highly branched tracheae ending in spiracles",
+        "Presence of hemoglobin in hemolymph",
+        "Presence of ciliated epithelium"
+      ],
+      "answer": 1,
+      "explanation": "The tracheae repeatedly branch and terminate in numerous spiracles, greatly increasing surface area for diffusion.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "Rapid contraction of cockroach legs during jumping is produced by which muscle tissue type?",
+      "options": [
+        "Cardiac muscle",
+        "Skeletal (striated) muscle",
+        "Smooth muscle",
+        "Visceral muscle"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal (striated) muscles attached to the exoskeleton generate the fast, voluntary contractions needed for jumping.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "Malpighian tubules of the cockroach excretory system are functionally analogous to which vertebrate organ?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Spleen"
+      ],
+      "answer": 1,
+      "explanation": "Malpighian tubules perform waste filtration and osmoregulation, roles comparable to the vertebrate kidney.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "Myelinated axons in the cockroach ventral nerve cord primarily enhance which physiological function?",
+      "options": [
+        "Speed of impulse conduction",
+        "Synaptic strength",
+        "Neurotransmitter synthesis",
+        "Regeneration capacity"
+      ],
+      "answer": 0,
+      "explanation": "Myelin sheath insulates axons, allowing faster propagation of nerve impulses along the ventral nerve cord.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "Which connective tissue type provides structural support to the cockroach exoskeleton?",
+      "options": [
+        "Adipose tissue",
+        "Dense regular connective tissue",
+        "Loose areolar connective tissue",
+        "Hyaline cartilage"
+      ],
+      "answer": 1,
+      "explanation": "Dense regular connective tissue forms strong, parallel collagen bundles that reinforce the cuticle and attach muscles to the exoskeleton.",
+      "topic": "Structure-function based questions"
+    },
+    {
+      "question": "In the histological diagram of a tissue section, the outermost layer consists of a single layer of flattened cells with centrally placed nuclei, and the underlying layer shows a basement membrane. Which tissue is shown?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Transitional epithelium"
+      ],
+      "answer": 0,
+      "explanation": "A single layer of flat cells with central nuclei and a basement membrane characterises simple squamous epithelium, which lines surfaces involved in diffusion and filtration.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "A diagram of the cockroach circulatory system labels a dorsal, tube‑like structure that contracts rhythmically and is connected to a series of ostia. Which structure is this?",
+      "options": [
+        "Heart",
+        "Ventral nerve cord",
+        "Foregut",
+        "Malpighian tubule"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal vessel that contracts and has ostia for hemolymph entry is the insect heart, the main pumping organ of the open circulatory system.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "In the cross‑section diagram of a cockroach leg muscle, the fibers are long, cylindrical, and show alternating light and dark bands. Which type of muscle tissue is depicted?",
+      "options": [
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Skeletal (striated) muscle",
+        "Visceral muscle"
+      ],
+      "answer": 2,
+      "explanation": "Alternating light and dark bands (striations) are typical of skeletal (striated) muscle, which controls voluntary movements in insects.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "A schematic of the cockroach nervous system shows a series of paired ganglia linked by a cord that runs along the ventral side. Which part is indicated by the labeled ‘VNC’?",
+      "options": [
+        "Ventral nerve cord",
+        "Dorsal vessel",
+        "Foregut",
+        "Malpighian tubule"
+      ],
+      "answer": 0,
+      "explanation": "The ventral nerve cord consists of paired ganglia connected by longitudinal connectives and runs along the ventral midline of arthropods.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "In a diagram of the cockroach excretory system, a long, thin, blind‑ending tube opens into the hindgut. Which structure is this?",
+      "options": [
+        "Malpighian tubule",
+        "Midgut",
+        "Tracheal tube",
+        "Salivary gland"
+      ],
+      "answer": 0,
+      "explanation": "Malpighian tubules are slender, blind‑ending ducts that empty waste into the hindgut for excretion.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "The diagram of the cockroach respiratory system shows numerous fine tubes that terminate in the body wall and open externally through small pores. What are these pores called?",
+      "options": [
+        "Spiracles",
+        "Stomata",
+        "Ostia",
+        "Nephridia"
+      ],
+      "answer": 0,
+      "explanation": "Spiracles are external openings on the insect cuticle that lead to the internal tracheal system for gas exchange.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "In a labeled diagram of the female cockroach reproductive system, the structure named ‘Ovarioles’ is responsible for which function?",
+      "options": [
+        "Production of eggs",
+        "Sperm storage",
+        "Hormone secretion",
+        "Nutrient absorption"
+      ],
+      "answer": 0,
+      "explanation": "Ovarioles are the tubular subunits of the ovary where oogenesis occurs, producing mature eggs.",
+      "topic": "Diagram-based identification"
+    },
+    {
+      "question": "In the cockroach, the region of the foregut that secretes digestive enzymes is lined by which type of epithelial tissue?",
+      "options": [
+        "Simple columnar epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The foregut epithelium of insects, including cockroaches, is composed of simple columnar cells that secrete enzymes and absorb nutrients, as described in NCERT Biology.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "Which connective tissue component provides structural support to the cockroach's dorsal vessel?",
+      "options": [
+        "Hemocytes",
+        "Collagen fibers",
+        "Adipose tissue",
+        "Reticular fibers"
+      ],
+      "answer": 1,
+      "explanation": "Collagen fibers form a tough extracellular matrix that reinforces the dorsal vessel (heart) in insects, a fact highlighted in the NCERT chapter on animal tissues.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "The rapid contraction of cockroach leg muscles during jumping is primarily due to which type of muscle tissue?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal (striated) muscle",
+        "Involuntary muscle"
+      ],
+      "answer": 2,
+      "explanation": "Insects possess striated skeletal muscles attached to the exoskeleton; these muscles generate the quick, powerful movements required for jumping, as stated in NCERT.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "The cockroach's antennae contain which specialized nervous tissue for detecting chemical cues?",
+      "options": [
+        "Myelinated nerve fibers",
+        "Unmyelinated sensory neurons",
+        "Glial cells",
+        "Schwann cells"
+      ],
+      "answer": 1,
+      "explanation": "Insect sensory neurons, including those in antennae, are unmyelinated, allowing direct transmission of chemical signals; this is mentioned in NCERT's section on nervous tissue.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "In the open circulatory system of a cockroach, the hemolymph is directly bathed in which body cavity?",
+      "options": [
+        "Coelom",
+        "Hemocoel",
+        "Peritoneal cavity",
+        "Pseudocoelom"
+      ],
+      "answer": 1,
+      "explanation": "The hemocoel is the primary body cavity of insects where hemolymph circulates freely, characteristic of an open circulatory system per NCERT.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "The insect cuticle is primarily composed of which substance that provides rigidity?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Keratin",
+        "Collagen"
+      ],
+      "answer": 1,
+      "explanation": "Chitin, a polysaccharide, is the main component of the arthropod exoskeleton, giving strength and rigidity, as described in NCERT Biology.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "Gas exchange in cockroaches occurs mainly through which structure, and what is its relationship with the circulatory system?",
+      "options": [
+        "Spiracles leading to tracheae; hemolymph transports oxygen to tissues",
+        "Spiracles leading to tracheae; hemolymph is not involved in oxygen transport",
+        "Gills; hemolymph transports oxygen",
+        "Diffusion through cuticle; hemolymph carries CO₂"
+      ],
+      "answer": 1,
+      "explanation": "Insects breathe through spiracles connected to a tracheal network that directly delivers air to tissues; hemolymph does not carry oxygen, a key factual relationship in NCERT.",
+      "topic": "NCERT-based factual relationships"
+    },
+    {
+      "question": "In NEET, a common trap is assuming that all glandular epithelium is simple columnar. Which statement is correct regarding glandular epithelium?",
+      "options": [
+        "Glandular epithelium is always simple columnar.",
+        "Glandular epithelium can be stratified in some exocrine glands.",
+        "Glandular epithelium is never found in the digestive tract.",
+        "Glandular epithelium only secretes mucus."
+      ],
+      "answer": 1,
+      "explanation": "While many glands have simple columnar epithelium, certain exocrine glands (e.g., stratified cuboidal epithelium in some ducts) are stratified, so the second option is correct.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "A frequent error is to treat the cockroach circulatory system as closed. Which description correctly reflects its nature?",
+      "options": [
+        "It has a heart with valves and a network of arteries and veins similar to mammals.",
+        "Hemolymph is confined within vessels throughout the body.",
+        "The hemolymph bathes organs directly in an open sinus system.",
+        "It contains red blood cells that transport oxygen."
+      ],
+      "answer": 2,
+      "explanation": "In insects like cockroaches, the circulatory system is open; hemolymph is released into body cavities (sinuses) where it directly contacts tissues.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "Many students mistakenly think that all muscle tissues exhibit striations. Which muscle type is non‑striated?",
+      "options": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "All of the above"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle lacks the regular arrangement of sarcomeres seen in skeletal and cardiac muscle, making it non‑striated.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "Which of the following is a common misconception about simple squamous epithelium?",
+      "options": [
+        "It lines the alveoli of lungs.",
+        "It forms the glomerular filtration barrier.",
+        "It is present only in blood vessel walls.",
+        "It facilitates rapid diffusion."
+      ],
+      "answer": 2,
+      "explanation": "Simple squamous epithelium is found in many locations (alveoli, glomeruli, serous membranes); limiting it to blood vessels is incorrect.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "In NEET, a typical trap is to consider nervous tissue as consisting solely of neurons. Which statement correctly describes nervous tissue composition?",
+      "options": [
+        "It contains only neurons, no supporting cells.",
+        "It includes neurons and glial (neuroglial) cells.",
+        "It is made up of only myelinated fibers.",
+        "It lacks any connective tissue elements."
+      ],
+      "answer": 1,
+      "explanation": "Nervous tissue is composed of neurons and supporting glial cells (astrocytes, oligodendrocytes, etc.), making the second option correct.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "A frequent error is to think that Malpighian tubules in cockroaches open directly to the exterior. What is the correct pathway of waste elimination?",
+      "options": [
+        "Tubules discharge into the hindgut where waste is mixed with feces.",
+        "Tubules release waste directly into the hemocoel.",
+        "Tubules secrete waste into the tracheal system.",
+        "Tubules connect to the respiratory spiracles."
+      ],
+      "answer": 0,
+      "explanation": "Malpighian tubules empty their filtrate into the hindgut; waste is then expelled with feces, not directly to the outside.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "Which statement reflects a common misconception about connective tissue ground substance?",
+      "options": [
+        "Dense regular connective tissue contains a large amount of ground substance.",
+        "Loose connective tissue has minimal fibers.",
+        "Cartilage lacks any ground substance.",
+        "Blood is a type of connective tissue with no fibers."
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue is rich in tightly packed collagen fibers and has relatively little ground substance, contrary to the first option.",
+      "topic": "Common NEET traps and misconceptions"
+    },
+    {
+      "question": "Which epithelial tissue type lines the foregut of a cockroach, facilitating absorption and secretion?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified columnar epithelium",
+        "Simple columnar epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 2,
+      "explanation": "The foregut of insects, including cockroaches, is lined by simple columnar epithelium that possesses microvilli for absorption and secretory activity.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "Identify the correct structure‑function match in the cockroach body:",
+      "options": [
+        "Muscular tissue in legs provides peristalsis in the gut",
+        "Nervous tissue in the brain coordinates hemolymph circulation",
+        "Connective tissue in tracheae provides gas exchange",
+        "Epithelial tissue in spiracles prevents water loss"
+      ],
+      "answer": 1,
+      "explanation": "The cockroach brain (central nervous system) regulates the rhythmic contractions of the dorsal vessel, thereby controlling hemolymph circulation.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "The dorsal vessel (heart) of a cockroach is lined by which tissue type?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "In insects the heart is lined by a thin layer of simple squamous epithelium (pericardial cells) that allows efficient diffusion of gases and nutrients.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "Which tissue is primarily responsible for secretion of digestive enzymes in the cockroach midgut?",
+      "options": [
+        "Simple columnar epithelium",
+        "Stratified squamous epithelium",
+        "Simple cuboidal epithelium",
+        "Pseudostratified columnar epithelium"
+      ],
+      "answer": 0,
+      "explanation": "The midgut epithelium consists of simple columnar cells that contain secretory granules for enzyme release and extensive microvilli for absorption.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "A cross‑section of a cockroach leg shows a thick layer of dense regular connective tissue. This tissue is mainly composed of:",
+      "options": [
+        "Collagen fibers",
+        "Elastic fibers",
+        "Reticular fibers",
+        "Smooth muscle cells"
+      ],
+      "answer": 0,
+      "explanation": "Dense regular connective tissue is characterized by parallel bundles of collagen fibers, providing tensile strength required for leg movement.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "A common NEET trap while identifying insect muscle tissue is:",
+      "options": [
+        "Assuming all muscle fibers are striated",
+        "Confusing visceral smooth muscle with skeletal muscle",
+        "Believing insect muscles lack mitochondria",
+        "Thinking insect muscles are made of connective tissue"
+      ],
+      "answer": 1,
+      "explanation": "In insects many visceral muscles are non‑striated (smooth‑like), and confusing them with skeletal (striated) muscle leads to incorrect identification.",
+      "topic": "Integrated chapter practice"
+    },
+    {
+      "question": "Which tissue type exhibits tight junctions that restrict paracellular transport, a feature often tested in integrated revision?",
+      "options": [
+        "Simple squamous epithelium",
+        "Stratified squamous epithelium",
+        "Simple columnar epithelium",
+        "Simple cuboidal epithelium"
+      ],
+      "answer": 0,
+      "explanation": "Simple squamous epithelium, such as that lining capillaries and alveoli, possesses tight junctions that limit passage of substances between cells, ensuring selective transport.",
+      "topic": "Integrated chapter practice"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 17,
+    "mcqCount": 119
+  }
+}

@@ -1,0 +1,1769 @@
+{
+  "day": 67,
+  "courseDate": "2026-11-04",
+  "publishAt": "2026-11-04T06:00:00+05:30",
+  "title": "Regulation of Respiration and Respiratory Disorders - Day 67",
+  "introduction": "This lesson covers the neural and chemical control mechanisms governing breathing, the major respiratory centres, the role of gases and ions, and the pathophysiology of common respiratory disorders relevant for NEET‑UG.",
+  "sections": [
+    {
+      "topic": "Regulation of respiration",
+      "heading": "Overview of Respiratory Regulation",
+      "content": "Respiration is regulated by an interplay of neural and chemical signals that maintain arterial pH and O₂ levels. The central nervous system integrates inputs from chemoreceptors and higher brain centres to adjust tidal volume and respiratory rate, ensuring homeostasis during rest and activity.",
+      "keyPoints": [
+        "Respiration is controlled by both neural and chemical mechanisms",
+        "Goal is to maintain arterial pH, CO₂ and O₂ levels",
+        "Central integration occurs in the medulla and pons"
+      ],
+      "neetTips": [
+        "Focus on how CO₂ and H⁺ drive ventilation changes"
+      ]
+    },
+    {
+      "topic": "Neural control of breathing",
+      "heading": "Neural Pathways Controlling Breathing",
+      "content": "Afferent signals from peripheral chemoreceptors (carotid and aortic bodies) and pulmonary stretch receptors travel via the glossopharyngeal and vagus nerves to the medullary respiratory centre. Efferent fibres from the ventral respiratory group (VRG) and dorsal respiratory group (DRG) innervate the diaphragm and intercostals via the phrenic and intercostal nerves.",
+      "keyPoints": [
+        "Peripheral chemoreceptors send signals via IX and X nerves",
+        "DRG controls inspiration; VRG controls forced breathing",
+        "Efferent pathways reach diaphragm (phrenic) and intercostals"
+      ],
+      "neetTips": [
+        "Remember the role of the vagus nerve in the Hering‑Breuer reflex"
+      ]
+    },
+    {
+      "topic": "Respiratory rhythm centre",
+      "heading": "Respiratory Rhythm Centre in the Medulla",
+      "content": "Located in the ventrolateral medulla, the respiratory rhythm centre generates the basic inspiratory‑expiratory cycle. It consists of the pre‑Bötzinger complex (inspiratory rhythm) and the post‑Bötzinger complex (expiratory rhythm). The centre sets the intrinsic respiratory rate, which is modified by higher centres and chemoreceptor feedback.",
+      "keyPoints": [
+        "Pre‑Bötzinger complex drives inspiration",
+        "Post‑Bötzinger complex drives expiration",
+        "Provides the basic rhythm independent of conscious control"
+      ],
+      "neetTips": [
+        "NEET often asks which medullary nucleus initiates inspiration"
+      ]
+    },
+    {
+      "topic": "Pneumotaxic centre",
+      "heading": "Pneumotaxic Centre – Modulator of Inspiratory Duration",
+      "content": "Situated in the upper pons, the pneumotaxic centre sends inhibitory impulses to the inspiratory neurons of the DRG, limiting the duration of inspiration and thereby regulating tidal volume. Activation shortens inspiration, increasing respiratory rate, while inhibition prolongs inspiration.",
+      "keyPoints": [
+        "Located in the upper pons",
+        "Inhibits inspiratory neurons to end inspiration",
+        "Higher activity → higher rate, lower tidal volume"
+      ],
+      "neetTips": [
+        "Link pneumotaxic activity with rapid shallow breathing"
+      ]
+    },
+    {
+      "topic": "Chemosensitive area",
+      "heading": "Chemosensitive Area of the Medulla",
+      "content": "The chemosensitive area, primarily the retrotrapezoid nucleus, detects changes in arterial PCO₂ and pH. An increase in CO₂ or H⁺ stimulates this area, enhancing the output of the respiratory rhythm centre to raise ventilation. It is less sensitive to O₂ changes.",
+      "keyPoints": [
+        "Sensitive to CO₂ and H⁺, not O₂",
+        "Located in the ventrolateral medulla",
+        "Triggers increased ventilation when activated"
+      ],
+      "neetTips": [
+        "NEET may ask which area responds primarily to hypercapnia"
+      ]
+    },
+    {
+      "topic": "Role of carbon dioxide",
+      "heading": "Carbon Dioxide as the Primary Respiratory Driver",
+      "content": "CO₂ diffuses from tissues into blood, forming carbonic acid which dissociates to H⁺ and HCO₃⁻. The rise in H⁺ (decrease in pH) is the most potent stimulus for ventilation. A 1 mm Hg rise in PaCO₂ can increase ventilation by ~10 %.",
+      "keyPoints": [
+        "CO₂ ↔ H₂CO₃ ↔ H⁺ + HCO₃⁻",
+        "H⁺ elevation is the main ventilatory stimulus",
+        "Ventilation is linearly related to PaCO₂ within physiological range"
+      ],
+      "neetTips": [
+        "Remember the 1 mm Hg PaCO₂‑10 % ventilation rule"
+      ]
+    },
+    {
+      "topic": "Role of hydrogen ions",
+      "heading": "Hydrogen Ions and pH Regulation of Breathing",
+      "content": "Elevated H⁺ (acidosis) directly stimulates central chemoreceptors in the chemosensitive area, increasing tidal volume and rate. Buffer systems (bicarbonate) modulate this effect, but rapid ventilation adjustments are driven by H⁺ concentration.",
+      "keyPoints": [
+        "H⁺ directly activates central chemoreceptors",
+        "Acidosis → ↑ tidal volume & rate",
+        "Bicarbonate buffer moderates but does not replace neural response"
+      ],
+      "neetTips": [
+        "Distinguish central (H⁺) vs peripheral (O₂) chemoreceptor stimuli"
+      ]
+    },
+    {
+      "topic": "Role of oxygen",
+      "heading": "Oxygen’s Secondary Influence on Respiration",
+      "content": "Peripheral chemoreceptors (carotid & aortic bodies) are highly sensitive to PaO₂ <60 mm Hg. Hypoxia triggers increased ventilation via afferent IX/X pathways. However, under normal PaO₂ (80–100 mm Hg) O₂ has minimal effect on the respiratory centre.",
+      "keyPoints": [
+        "Peripheral chemoreceptors detect hypoxia (<60 mm Hg)",
+        "O₂ effect is significant only during severe hypoxia",
+        "Central chemoreceptors are largely O₂‑insensitive"
+      ],
+      "neetTips": [
+        "NEET often contrasts CO₂‑driven vs O₂‑driven ventilation"
+      ]
+    },
+    {
+      "topic": "Control of breathing rate",
+      "heading": "Factors Determining Respiratory Rate",
+      "content": "Breathing rate is adjusted by the balance between inspiratory drive (CO₂/H⁺) and inhibitory inputs (pneumotaxic centre, pulmonary stretch receptors). Exercise, fever, metabolic acidosis, and high altitude shift the set‑point, increasing rate.",
+      "keyPoints": [
+        "Rate = balance of excitatory (CO₂/H⁺) and inhibitory signals",
+        "Exercise, fever, metabolic acidosis raise rate",
+        "High altitude → hypoxic drive ↑ rate"
+      ],
+      "neetTips": [
+        "Link each physiological condition with its primary driver"
+      ]
+    },
+    {
+      "topic": "Asthma",
+      "heading": "Pathophysiology and Clinical Features of Asthma",
+      "content": "Asthma is a reversible obstructive disorder characterized by bronchial hyper‑responsiveness, airway inflammation, and mucus hypersecretion. Bronchoconstriction narrows lumen, increasing airway resistance (R = 8ηl/πr⁴). Triggers include allergens, cold air, and exercise.",
+      "keyPoints": [
+        "Reversible bronchoconstriction",
+        "Inflammation → mucus plug formation",
+        "Resistance ∝ 1/r⁴ (small airway changes cause large resistance rise)"
+      ],
+      "neetTips": [
+        "Remember that bronchodilators reverse the obstruction"
+      ]
+    },
+    {
+      "topic": "Emphysema",
+      "heading": "Emphysema – Irreversible Alveolar Destruction",
+      "content": "Emphysema involves destruction of alveolar walls and loss of elastic recoil due to protease‑antiprotease imbalance (e.g., α₁‑antitrypsin deficiency) and chronic smoking. Resulting airway collapse during expiration leads to air trapping and increased functional residual capacity.",
+      "keyPoints": [
+        "Irreversible loss of alveolar septa",
+        "Reduced elastic recoil → airway collapse on expiration",
+        "Associated with increased TLC and RV"
+      ],
+      "neetTips": [
+        "Contrast emphysema’s irreversible obstruction with asthma’s reversibility"
+      ]
+    },
+    {
+      "topic": "Occupational respiratory disorders",
+      "heading": "Respiratory Hazards in the Workplace",
+      "content": "Occupational exposure to silica dust, asbestos, and coal dust causes pneumoconioses (silicosis, asbestosis, anthracosis). These particles induce chronic inflammation, fibrosis, and reduced diffusing capacity (DLCO). Early detection relies on occupational history and chest X‑ray.",
+      "keyPoints": [
+        "Silica → silicosis (nodular fibrosis)",
+        "Asbestos → asbestosis (pleural plaques)",
+        "Coal dust → anthracosis (black lung)"
+      ],
+      "neetTips": [
+        "Link specific dusts with their characteristic radiological findings"
+      ]
+    },
+    {
+      "topic": "Smoking and respiratory health",
+      "heading": "Impact of Tobacco Smoking on the Respiratory System",
+      "content": "Cigarette smoke contains nicotine, tar, and oxidants that impair mucociliary clearance, increase mucus production, and cause chronic inflammation. Smoking leads to chronic bronchitis, emphysema, and heightened risk of lung cancer. CO binds hemoglobin (HbCO) reducing O₂ transport.",
+      "keyPoints": [
+        "Impaired ciliary function and mucus hypersecretion",
+        "CO competes with O₂ for Hb (HbCO formation)",
+        "Smoking is the major risk factor for COPD and lung cancer"
+      ],
+      "neetTips": [
+        "Remember the left‑shift of the O₂‑Hb dissociation curve in CO poisoning"
+      ]
+    },
+    {
+      "topic": "Alveolar damage",
+      "heading": "Mechanisms of Alveolar Injury",
+      "content": "Alveolar damage arises from direct toxic injury (smoke, pollutants), inflammatory mediators, or protease excess. Damage to type I pneumocytes reduces surface area for gas exchange, while type II cell dysfunction impairs surfactant production, leading to atelectasis.",
+      "keyPoints": [
+        "Type I cell loss ↓ diffusion surface",
+        "Type II cell injury ↓ surfactant → alveolar collapse",
+        "Inflammation ↑ alveolar‑capillary membrane thickness"
+      ],
+      "neetTips": [
+        "Correlate increased membrane thickness with reduced DLCO"
+      ]
+    },
+    {
+      "topic": "Reduced gas exchange",
+      "heading": "Factors Limiting Pulmonary Gas Transfer",
+      "content": "Gas exchange is compromised by (i) decreased alveolar surface area (emphysema), (ii) increased diffusion distance (fibrosis), (iii) ventilation‑perfusion mismatch, and (iv) shunting. Fick’s law (V̇gas = D A (P₁‑P₂)/T) quantifies these effects.",
+      "keyPoints": [
+        "V̇gas ∝ surface area (A) and pressure gradient",
+        "Thickness (T) ↑ → diffusion ↓",
+        "V/Q mismatch and shunt are major clinical problems"
+      ],
+      "neetTips": [
+        "Apply Fick’s law to explain hypoxemia in fibrosis vs emphysema"
+      ]
+    },
+    {
+      "topic": "Respiratory disorder comparison",
+      "heading": "Asthma vs Emphysema vs Chronic Bronchitis – A Comparative Table",
+      "content": "Asthma: reversible bronchoconstriction, eosinophilic inflammation, normal DLCO. Emphysema: irreversible alveolar wall loss, reduced elastic recoil, ↓ DLCO. Chronic bronchitis: mucus hypersecretion, normal alveolar architecture, normal DLCO but increased airway resistance.",
+      "keyPoints": [
+        "Reversibility: asthma ✓, emphysema ✗",
+        "DLCO: normal in asthma & chronic bronchitis, ↓ in emphysema",
+        "Primary pathology: airway smooth muscle vs alveolar septa vs mucus glands"
+      ],
+      "neetTips": [
+        "NEET frequently asks to identify the disorder from a given set of features"
+      ]
+    },
+    {
+      "topic": "Integrated breathing revision",
+      "heading": "Consolidated Overview of Respiratory Regulation and Disorders",
+      "content": "The respiratory centre integrates CO₂/H⁺ signals (central) and O₂/hypoxia signals (peripheral) to modulate rate and depth via the pneumotaxic and apneustic centres. Disorders alter this balance: asthma heightens airway resistance reversible by bronchodilators; emphysema reduces recoil irreversibly; smoking impairs both neural control and gas exchange.",
+      "keyPoints": [
+        "Central chemoreceptors dominate under normal conditions",
+        "Peripheral chemoreceptors act during hypoxia",
+        "Disorders can affect mechanics, control, or diffusion"
+      ],
+      "neetTips": [
+        "Create a mind‑map linking centres, stimuli, and pathological changes"
+      ]
+    },
+    {
+      "topic": "Respiratory system application questions",
+      "heading": "Problem‑Solving Strategies for NEET Respiratory Questions",
+      "content": "Approach: (1) Identify the stimulus (CO₂, O₂, pH). (2) Locate the responsible receptor (central vs peripheral). (3) Trace the neural pathway to the medullary centre. (4) Relate the physiological outcome (rate, tidal volume). For disorder questions, match clinical features with underlying pathophysiology using the comparative table.",
+      "keyPoints": [
+        "Step‑wise analysis: stimulus → receptor → centre → response",
+        "Use Fick’s law for diffusion‑related queries",
+        "Match symptom patterns to asthma, emphysema, or chronic bronchitis"
+      ],
+      "neetTips": [
+        "Practice NCERT‑style statements; focus on cause‑effect relationships"
+      ]
+    }
+  ],
+  "learningOutcome": [
+    "Explain the neural and chemical mechanisms that regulate breathing",
+    "Describe the roles of the respiratory rhythm, pneumotaxic, and chemosensitive centres",
+    "Differentiate asthma, emphysema, chronic bronchitis and occupational lung diseases based on pathophysiology and clinical features",
+    "Apply Fick’s law and control‑center concepts to solve NEET‑style respiratory questions"
+  ],
+  "mcqs": [
+    {
+      "question": "Which area of the medulla contains the dorsal respiratory group that primarily controls inspiration?",
+      "options": [
+        "Pneumotaxic centre",
+        "Apneustic centre",
+        "Ventral respiratory group",
+        "Dorsal respiratory group"
+      ],
+      "answer": 3,
+      "explanation": "The dorsal respiratory group, located in the medulla, receives afferent input from pulmonary stretch receptors and generates the basic inspiratory rhythm.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "In normal physiological conditions, the primary stimulus that increases ventilation is:",
+      "options": [
+        "Fall in arterial PO2",
+        "Rise in arterial PCO2",
+        "Increase in plasma glucose",
+        "Decrease in body temperature"
+      ],
+      "answer": 1,
+      "explanation": "A rise in arterial PCO2 (hypercapnia) lowers blood pH, stimulating central chemoreceptors and causing an increase in the rate and depth of breathing.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "Which peripheral chemoreceptor is most sensitive to a fall in arterial PO2?",
+      "options": [
+        "Aortic bodies",
+        "Carotid bodies",
+        "Medullary respiratory centre",
+        "Pneumotaxic centre"
+      ],
+      "answer": 1,
+      "explanation": "Carotid bodies, located at the bifurcation of the common carotid artery, are highly sensitive to decreases in arterial PO2 and trigger an increase in ventilation.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "The pneumotaxic centre primarily influences:",
+      "options": [
+        "Expiration duration",
+        "Inspiration depth",
+        "Respiratory rate by inhibiting inspiratory drive",
+        "Switching off the apneustic centre"
+      ],
+      "answer": 2,
+      "explanation": "The pneumotaxic centre in the upper pons limits the duration of inspiration, thereby helping to regulate the respiratory rate.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "During an acute asthma attack, arterial blood gases typically show:",
+      "options": [
+        "Decreased PaO2 with normal or decreased PaCO2",
+        "Increased PaO2 with increased PaCO2",
+        "No change in arterial gases",
+        "Increased PaO2 with decreased PaCO2"
+      ],
+      "answer": 0,
+      "explanation": "Bronchoconstriction causes ventilation‑perfusion mismatch leading to hypoxemia (low PaO2); hyperventilation usually keeps PaCO2 normal or low.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "Chronic exposure to cigarette smoke leads to emphysematous changes that primarily cause:",
+      "options": [
+        "Increased elastic recoil",
+        "Decreased lung compliance",
+        "Reduced surface area for gas exchange",
+        "Increased diffusion capacity"
+      ],
+      "answer": 2,
+      "explanation": "Destruction of alveolar walls reduces the total alveolar surface area, impairing diffusion of O2 and CO2 across the respiratory membrane.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "Metabolic acidosis (decreased plasma H⁺) most directly affects ventilation by:",
+      "options": [
+        "Ventilation decreases to retain CO2",
+        "Ventilation increases to blow off CO2",
+        "No change in ventilation",
+        "Ventilation decreases to reduce O2 consumption"
+      ],
+      "answer": 1,
+      "explanation": "Lower plasma pH stimulates central chemoreceptors, leading to increased ventilation to expel CO2 and raise pH toward normal.",
+      "topic": "Regulation of respiration"
+    },
+    {
+      "question": "Which medullary respiratory centre primarily determines the basic rhythm of breathing?",
+      "options": [
+        "Dorsal respiratory group (DRG)",
+        "Ventral respiratory group (VRG)",
+        "Pneumotaxic centre",
+        "Apneustic centre"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal respiratory group, located in the medulla, generates the basic inspiratory rhythm and sets the respiratory rate under normal resting conditions.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "The pneumotaxic centre in the pons influences respiration by:",
+      "options": [
+        "Inhibiting inspiratory neurons to terminate inspiration",
+        "Stimulating expiratory neurons to initiate expiration",
+        "Increasing tidal volume by recruiting accessory muscles",
+        "Decreasing respiratory rate by reducing chemoreceptor sensitivity"
+      ],
+      "answer": 0,
+      "explanation": "The pneumotaxic centre sends inhibitory signals to the inspiratory neurons of the dorsal respiratory group, thereby shortening the inspiratory phase and helping to regulate the breathing pattern.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "The chemosensitive area of the medulla is most responsive to changes in:",
+      "options": [
+        "Arterial partial pressure of oxygen (PaO2)",
+        "Arterial partial pressure of carbon dioxide (PaCO2)",
+        "Arterial pH",
+        "Arterial temperature"
+      ],
+      "answer": 1,
+      "explanation": "Central chemoreceptors in the medullary chemosensitive area detect changes in PaCO2 indirectly via the resulting change in H⁺ concentration, making them most sensitive to CO₂ levels.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "An increase in arterial PCO₂ stimulates ventilation mainly through activation of:",
+      "options": [
+        "Peripheral chemoreceptors in the carotid bodies",
+        "Central chemoreceptors in the medulla",
+        "Pulmonary stretch receptors",
+        "Irritant receptors in the airway epithelium"
+      ],
+      "answer": 1,
+      "explanation": "Elevated PaCO₂ raises H⁺ in the cerebrospinal fluid, which directly stimulates central chemoreceptors, leading to an increase in the depth and rate of breathing.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "A lesion of the pneumotaxic centre would most likely produce which change in the breathing pattern?",
+      "options": [
+        "Decreased tidal volume with rapid shallow breaths",
+        "Prolonged inspiratory phase resulting in deeper, slower breaths",
+        "Irregular breathing with frequent apneas",
+        "No observable change in respiratory pattern"
+      ],
+      "answer": 1,
+      "explanation": "Loss of the inhibitory influence of the pneumotaxic centre allows the inspiratory neurons to fire for a longer duration, producing prolonged inspiration and larger tidal volumes.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "Hydrogen ions (H⁺) affect the regulation of breathing primarily by:",
+      "options": [
+        "Directly activating peripheral chemoreceptors in the carotid bodies",
+        "Being converted to bicarbonate in red blood cells",
+        "Diffusing across the blood‑brain barrier to stimulate central chemoreceptors",
+        "Binding to hemoglobin and altering its oxygen affinity"
+      ],
+      "answer": 2,
+      "explanation": "H⁺ generated from CO₂ hydration diffuses into the cerebrospinal fluid, where it stimulates central chemoreceptors, thereby increasing ventilation.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "During moderate exercise, the increase in ventilation is best explained by:",
+      "options": [
+        "Central command alone overriding peripheral inputs",
+        "Dominant stimulation of peripheral chemoreceptors only",
+        "Combined input from central command and peripheral chemoreceptors",
+        "Exclusive modulation by the pneumotaxic centre"
+      ],
+      "answer": 2,
+      "explanation": "Exercise triggers central command from higher brain centers and also enhances peripheral chemoreceptor activity due to metabolic CO₂ production, together raising ventilation.",
+      "topic": "Neural control of breathing"
+    },
+    {
+      "question": "Which group of neurons in the medulla is primarily responsible for initiating inspiration?",
+      "options": [
+        "Dorsal respiratory group (DRG)",
+        "Ventral respiratory group (VRG)",
+        "Pneumotaxic centre",
+        "Apneustic centre"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal respiratory group receives sensory input and generates the rhythmic inspiratory signal that initiates each breath.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "The ventral respiratory group (VRG) contains which type of neurons that are active during forced expiration?",
+      "options": [
+        "Inspiratory neurons",
+        "Expiratory (bulbospinal) neurons",
+        "Dorsal inspiratory neurons",
+        "Pneumotaxic neurons"
+      ],
+      "answer": 1,
+      "explanation": "The VRG includes bulbospinal expiratory neurons that become active during forced or active expiration, such as during exercise or coughing.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "A lesion confined to the dorsal respiratory group would most likely result in:",
+      "options": [
+        "Loss of inspiratory drive leading to shallow breathing",
+        "Loss of expiratory drive causing prolonged expiration",
+        "Irregular breathing pattern with apneas",
+        "Increased tidal volume"
+      ],
+      "answer": 0,
+      "explanation": "The dorsal respiratory group initiates normal inspiratory activity; its damage reduces the drive to inhale, producing shallow, ineffective breaths.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "The respiratory rhythm centre receives afferent input from peripheral chemoreceptors primarily via which cranial nerve?",
+      "options": [
+        "Glossopharyngeal (IX)",
+        "Vagus (X)",
+        "Trigeminal (V)",
+        "Facial (VII)"
+      ],
+      "answer": 1,
+      "explanation": "Peripheral chemoreceptor signals from carotid bodies travel through the glossopharyngeal nerve to the nucleus tractus solitarius, which then projects to the respiratory rhythm centre via the vagus nerve.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "During normal quiet breathing, the activity of the pneumotaxic centre influences the respiratory rhythm centre by:",
+      "options": [
+        "Terminating inspiration",
+        "Stimulating inspiratory neurons",
+        "Inhibiting expiratory neurons",
+        "Increasing tidal volume"
+      ],
+      "answer": 0,
+      "explanation": "The pneumotaxic centre sends inhibitory signals to the inspiratory neurons of the dorsal respiratory group, thereby ending inspiration and setting the inspiratory time.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "Which of the following statements best describes the role of the apneustic centre in relation to the respiratory rhythm centre?",
+      "options": [
+        "It provides excitatory input to prolong inspiration",
+        "It inhibits the dorsal respiratory group",
+        "It generates the basic respiratory rhythm",
+        "It terminates inspiration"
+      ],
+      "answer": 0,
+      "explanation": "The apneustic centre gives a tonic excitatory drive to the inspiratory neurons, helping to sustain a prolonged inspiratory phase when needed.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "Hypercapnia (elevated CO₂) primarily affects the respiratory rhythm centre by:",
+      "options": [
+        "Increasing the firing rate of dorsal respiratory group neurons",
+        "Decreasing the activity of ventral respiratory group",
+        "Stimulating the pneumotaxic centre to shorten inspiration",
+        "Inhibiting the apneustic centre"
+      ],
+      "answer": 0,
+      "explanation": "Elevated CO₂ raises H⁺ concentration, stimulating central chemoreceptors that increase the discharge of dorsal respiratory group neurons, thereby raising respiratory rate and depth.",
+      "topic": "Respiratory rhythm centre"
+    },
+    {
+      "question": "The pneumotaxic centre is located in which part of the brainstem?",
+      "options": [
+        "Upper pons",
+        "Medulla oblongata",
+        "Lower pons",
+        "Midbrain"
+      ],
+      "answer": 0,
+      "explanation": "The pneumotaxic centre resides in the upper pons and modulates the respiratory rhythm.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "What is the primary action of the pneumotaxic centre on the respiratory pattern?",
+      "options": [
+        "Stimulates inspiratory neurons",
+        "Inhibits inspiratory neurons",
+        "Increases tidal volume",
+        "Detects carbon dioxide levels"
+      ],
+      "answer": 1,
+      "explanation": "It sends inhibitory signals to inspiratory neurons, thereby terminating inspiration and setting the switch‑off point.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "A lesion of the pneumotaxic centre most likely produces which breathing pattern?",
+      "options": [
+        "Cheyne‑Stokes respiration",
+        "Rapid shallow breathing",
+        "Apneustic breathing (prolonged inspiration)",
+        "No observable effect"
+      ],
+      "answer": 2,
+      "explanation": "Loss of the pneumotaxic centre removes the inhibition on the apneustic centre, resulting in prolonged inspiratory phases characteristic of apneustic breathing.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "How does the pneumotaxic centre interact with the apneustic centre?",
+      "options": [
+        "It inhibits the apneustic centre",
+        "It stimulates the apneustic centre",
+        "There is no interaction between them",
+        "Both are located in the medulla"
+      ],
+      "answer": 0,
+      "explanation": "The pneumotaxic centre exerts an inhibitory influence on the apneustic centre, helping to terminate inspiration.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "In speech production, the pneumotaxic centre primarily contributes by:",
+      "options": [
+        "Controlling inspiration for speech",
+        "Controlling vocal‑cord tension",
+        "Having no role in speech",
+        "Controlling expiration for speech"
+      ],
+      "answer": 3,
+      "explanation": "By regulating the timing of expiration, the pneumotaxic centre helps modulate the airflow needed for phonation.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "During hypercapnia (elevated CO₂), the activity of the pneumotaxic centre is:",
+      "options": [
+        "Increased",
+        "Unchanged",
+        "Decreased",
+        "Highly variable"
+      ],
+      "answer": 2,
+      "explanation": "High CO₂ stimulates chemosensitive areas, which in turn reduce the inhibitory output of the pneumotaxic centre to allow deeper breaths.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "Pharmacological stimulation of the pneumotaxic centre would most likely cause:",
+      "options": [
+        "Increased tidal volume with decreased respiratory rate",
+        "Decreased tidal volume with increased respiratory rate",
+        "No change in breathing pattern",
+        "Apnea"
+      ],
+      "answer": 1,
+      "explanation": "Enhanced activity of the pneumotaxic centre shortens inspiration, lowering tidal volume and raising the breathing frequency.",
+      "topic": "Pneumotaxic centre"
+    },
+    {
+      "question": "The chemosensitive area that detects changes in blood CO₂ is located in which part of the medulla?",
+      "options": [
+        "Dorsal respiratory group",
+        "Ventral respiratory group",
+        "Pneumotaxic centre",
+        "Apneustic centre"
+      ],
+      "answer": 1,
+      "explanation": "Central chemoreceptors are situated on the ventral surface of the medulla near the ventral respiratory group, forming the chemosensitive area.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "Which primary stimulus activates the central chemoreceptors of the chemosensitive area?",
+      "options": [
+        "Increase in arterial PCO₂",
+        "Decrease in arterial PO₂",
+        "Increase in arterial pH",
+        "Increase in plasma glucose"
+      ],
+      "answer": 0,
+      "explanation": "Central chemoreceptors respond mainly to a rise in arterial PCO₂, which leads to increased H⁺ concentration in the cerebrospinal fluid.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "How does an increase in arterial CO₂ lead to stimulation of the chemosensitive area?",
+      "options": [
+        "CO₂ diffuses into CSF and is converted to H⁺ by carbonic anhydrase",
+        "CO₂ directly binds to chemoreceptor proteins",
+        "O₂ binds to hemoglobin altering receptor activity",
+        "H⁺ is actively pumped out of neurons"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ readily crosses the blood‑brain barrier, is hydrated by carbonic anhydrase to form H⁺ and HCO₃⁻, and the resulting fall in pH activates the central chemoreceptors.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "Stimulation of the chemosensitive area by elevated CO₂ produces which change in ventilation?",
+      "options": [
+        "Decrease tidal volume only",
+        "Increase respiratory rate only",
+        "Increase both tidal volume and respiratory rate",
+        "No change in ventilation"
+      ],
+      "answer": 2,
+      "explanation": "Activation of the chemosensitive area increases the overall drive to breathe, raising both tidal volume and respiratory rate, thereby enhancing minute ventilation.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "Which statement correctly distinguishes peripheral from central chemoreceptors?",
+      "options": [
+        "Central chemoreceptors respond primarily to changes in arterial PO₂",
+        "Peripheral chemoreceptors are located in carotid bodies",
+        "Central chemoreceptors are insensitive to pH changes",
+        "Peripheral chemoreceptors are located in the medulla"
+      ],
+      "answer": 1,
+      "explanation": "Peripheral chemoreceptors are situated in the carotid and aortic bodies, whereas central chemoreceptors reside in the medullary chemosensitive area.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "In chronic hypercapnia, the chemosensitive area adapts by:",
+      "options": [
+        "Decreasing sensitivity to CO₂",
+        "Increasing sensitivity to CO₂",
+        "No change in sensitivity",
+        "Shifting response to O₂"
+      ],
+      "answer": 0,
+      "explanation": "Prolonged high CO₂ leads to renal compensation and a gradual reduction in the central chemoreceptors’ sensitivity to CO₂.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "A lesion that would most likely abolish the ventilatory response to increased CO₂ involves which structure?",
+      "options": [
+        "Lesion of the dorsal respiratory group",
+        "Lesion of the ventral respiratory group (chemosensitive area)",
+        "Lesion of the pneumotaxic centre",
+        "Lesion of the apneustic centre"
+      ],
+      "answer": 1,
+      "explanation": "The ventral respiratory group contains the chemosensitive area; damage here eliminates the central CO₂‑driven ventilatory drive.",
+      "topic": "Chemosensitive area"
+    },
+    {
+      "question": "Which of the following is the primary physiological stimulus that increases ventilation under normal resting conditions?",
+      "options": [
+        "Rise in arterial PCO₂",
+        "Fall in arterial PO₂",
+        "Increase in blood temperature",
+        "Rise in plasma bicarbonate concentration"
+      ],
+      "answer": 0,
+      "explanation": "An elevation in arterial PCO₂ leads to increased H⁺ in cerebrospinal fluid, stimulating the medullary respiratory centre and raising ventilation.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "Central chemoreceptors that regulate breathing are located in which region and respond to what change?",
+      "options": [
+        "Medulla oblongata; decrease in CSF pH due to elevated CO₂",
+        "Carotid bodies; fall in arterial PO₂",
+        "Aortic arch; rise in arterial PCO₂",
+        "Bronchial smooth muscle; airway irritation"
+      ],
+      "answer": 0,
+      "explanation": "Central chemoreceptors in the medulla sense changes in CSF pH, which falls when CO₂ diffuses into CSF and forms carbonic acid.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "The increase in respiratory rate observed during hypercapnia is mediated mainly by which receptors?",
+      "options": [
+        "Peripheral chemoreceptors",
+        "Central chemoreceptors",
+        "Pulmonary stretch receptors",
+        "Irritant receptors"
+      ],
+      "answer": 1,
+      "explanation": "Elevated arterial CO₂ raises CSF CO₂, lowering pH and activating central chemoreceptors, which dominate the ventilatory response to hypercapnia.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "In the bloodstream, the majority of carbon dioxide is transported in which form?",
+      "options": [
+        "Bicarbonate ions (HCO₃⁻)",
+        "Dissolved CO₂",
+        "Carbaminohemoglobin",
+        "Bound to plasma proteins"
+      ],
+      "answer": 0,
+      "explanation": "About 70% of CO₂ is converted to bicarbonate by carbonic anhydrase in red blood cells, making HCO₃⁻ the principal transport form.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "Why does a rise in arterial CO₂ increase ventilation even when arterial O₂ levels are normal?",
+      "options": [
+        "CO₂ diffuses into CSF, lowering pH and stimulating medullary chemoreceptors",
+        "O₂ binding to hemoglobin decreases, prompting a ventilatory response",
+        "CO₂ directly activates pulmonary stretch receptors",
+        "CO₂ causes bronchodilation, enhancing airflow"
+      ],
+      "answer": 0,
+      "explanation": "CO₂ readily crosses the blood‑brain barrier; its hydration forms carbonic acid, decreasing CSF pH and activating central chemoreceptors, which increase ventilation independent of O₂.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "Voluntary hyperventilation leads to a fall in arterial CO₂. This results in which acid‑base disturbance?",
+      "options": [
+        "Respiratory alkalosis",
+        "Respiratory acidosis",
+        "Metabolic alkalosis",
+        "Metabolic acidosis"
+      ],
+      "answer": 0,
+      "explanation": "Reduced PCO₂ shifts the bicarbonate buffer reaction left, decreasing H⁺ concentration and producing respiratory alkalosis.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "During intense exercise, the primary factor that drives the increase in ventilation is:",
+      "options": [
+        "Accumulation of CO₂ in the blood",
+        "Decrease in arterial O₂ tension",
+        "Rise in plasma lactate concentration",
+        "Elevated adrenaline levels"
+      ],
+      "answer": 0,
+      "explanation": "Muscle metabolism generates CO₂ rapidly; the resulting rise in arterial PCO₂ is the main stimulus for the heightened ventilatory rate during exercise.",
+      "topic": "Role of carbon dioxide"
+    },
+    {
+      "question": "How does an increase in hydrogen ion concentration in the cerebrospinal fluid affect the medullary respiratory centre?",
+      "options": [
+        "It inhibits inspiratory neurons leading to reduced ventilation",
+        "It stimulates inspiratory neurons increasing tidal volume",
+        "It has no effect on respiratory drive",
+        "It causes immediate apnea"
+      ],
+      "answer": 1,
+      "explanation": "Elevated H+ in CSF is detected by central chemoreceptors, which stimulate the inspiratory neurons of the medullary respiratory centre, resulting in increased tidal volume to expel CO2 and restore pH.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "A drop in blood pH from 7.40 to 7.30, with constant CO₂, indicates what change in hydrogen ion concentration?",
+      "options": [
+        "Approximately 2‑fold increase",
+        "Approximately 10‑fold increase",
+        "Approximately 1.26‑fold increase",
+        "No change"
+      ],
+      "answer": 2,
+      "explanation": "Using pH = -log[H⁺], [H⁺] at pH 7.40 is 3.98×10⁻⁸ M and at pH 7.30 is 5.01×10⁻⁸ M. The ratio is 5.01/3.98 ≈ 1.26, a 1.26‑fold rise.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "During metabolic acidosis, the primary respiratory compensation is:",
+      "options": [
+        "Decrease in respiratory rate",
+        "Increase in tidal volume (hyperventilation)",
+        "No change in ventilation",
+        "Increase in dead‑space ventilation"
+      ],
+      "answer": 1,
+      "explanation": "Metabolic acidosis lowers blood pH; central chemoreceptors trigger hyperventilation (increased tidal volume) to blow off CO₂, reducing H⁺ concentration and raising pH.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "Which chemoreceptor type is most sensitive to changes in hydrogen ion concentration of the cerebrospinal fluid?",
+      "options": [
+        "Carotid body peripheral chemoreceptors",
+        "Aortic body peripheral chemoreceptors",
+        "Central chemoreceptors in the medulla",
+        "Pulmonary stretch receptors"
+      ],
+      "answer": 2,
+      "explanation": "Central chemoreceptors, located on the ventral surface of the medulla, directly sense H⁺ (or pCO₂) changes in the CSF and are the primary regulators of ventilation in response to acid‑base disturbances.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "Hyperventilation most directly causes which change in arterial hydrogen ion concentration?",
+      "options": [
+        "Increase",
+        "Decrease",
+        "No change",
+        "Fluctuate unpredictably"
+      ],
+      "answer": 1,
+      "explanation": "Hyperventilation lowers arterial pCO₂, shifting the CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻ equilibrium to the left, thereby reducing [H⁺] and raising pH.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "The rapid conversion of CO₂ and water to carbonic acid in blood, which raises hydrogen ion concentration, is catalysed by:",
+      "options": [
+        "Carbonic anhydrase",
+        "Hemoglobin",
+        "Myoglobin",
+        "ATP synthase"
+      ],
+      "answer": 0,
+      "explanation": "Carbonic anhydrase accelerates the reaction CO₂ + H₂O ⇌ H₂CO₃, facilitating the formation of H⁺ and HCO₃⁻, crucial for the pH‑dependent regulation of breathing.",
+      "topic": "Role of hydrogen ions"
+    },
+    {
+      "question": "Which peripheral chemoreceptor primarily detects a fall in arterial PO₂?",
+      "options": [
+        "Carotid body",
+        "Aortic body",
+        "Pulmonary stretch receptors",
+        "Juxtapulmonary capillary receptors"
+      ],
+      "answer": 0,
+      "explanation": "The carotid bodies, located at the bifurcation of the common carotid arteries, are the main peripheral chemoreceptors that sense low arterial PO₂ and stimulate ventilation.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "In the respiratory centre, a decrease in arterial PO₂ most directly stimulates which area to increase ventilation?",
+      "options": [
+        "Pneumotaxic centre",
+        "Apneustic centre",
+        "Chemosensitive area",
+        "Respiratory rhythm centre"
+      ],
+      "answer": 2,
+      "explanation": "The chemosensitive area of the medulla contains neurons that respond to low PO₂ (and high CO₂/H⁺) and activate the respiratory rhythm generators to raise ventilation.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "The Bohr effect describes the influence of H⁺ and CO₂ on hemoglobin. How does an increase in PO₂ affect this relationship?",
+      "options": [
+        "Decreases H⁺ binding to hemoglobin",
+        "Increases H⁺ binding to hemoglobin",
+        "Shifts the oxygen‑hemoglobin dissociation curve to the left",
+        "Shifts the curve to the right"
+      ],
+      "answer": 2,
+      "explanation": "Rising PO₂ promotes oxygen binding to hemoglobin, which reduces H⁺ affinity and shifts the dissociation curve leftward, indicating higher O₂ affinity.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "During moderate exercise, the increase in ventilation is due to:",
+      "options": [
+        "Decreased ventilation because of high O₂ levels",
+        "Increased ventilation solely due to elevated CO₂",
+        "Increased ventilation due to combined CO₂ and O₂ sensing",
+        "No change in ventilation"
+      ],
+      "answer": 2,
+      "explanation": "Exercise raises metabolic CO₂ and lowers arterial O₂; both central (CO₂) and peripheral (O₂) chemoreceptors stimulate a rise in ventilation.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "At high altitude, the primary stimulus for the hyperventilatory response is:",
+      "options": [
+        "Elevated arterial CO₂",
+        "Decreased arterial O₂",
+        "Increased blood pH",
+        "Decreased body temperature"
+      ],
+      "answer": 1,
+      "explanation": "Reduced atmospheric pressure lowers arterial PO₂, which is sensed by peripheral chemoreceptors, leading to increased ventilation.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "Which hormone is released in response to hypoxia and stimulates red blood cell production?",
+      "options": [
+        "Erythropoietin",
+        "Insulin",
+        "Cortisol",
+        "Thyroxine"
+      ],
+      "answer": 0,
+      "explanation": "Hypoxia induces the kidneys to secrete erythropoietin, which promotes erythropoiesis to enhance the blood's oxygen‑carrying capacity.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "In oxygen transport, the term \"oxygen reserve\" most accurately refers to:",
+      "options": [
+        "O₂ bound to myoglobin in muscles",
+        "Dissolved O₂ in plasma",
+        "O₂ stored in the alveoli",
+        "O₂ bound to hemoglobin at 100 % saturation"
+      ],
+      "answer": 1,
+      "explanation": "Only a small fraction of arterial O₂ is physically dissolved in plasma; this dissolved O₂ constitutes the immediate reserve that can be used before hemoglobin releases its bound O₂.",
+      "topic": "Role of oxygen"
+    },
+    {
+      "question": "During moderate exercise, which physiological change is the primary stimulus that increases ventilation rate?",
+      "options": [
+        "Rise in arterial CO2 tension",
+        "Fall in arterial O2 tension",
+        "Increase in plasma H+ concentration",
+        "Increase in peripheral chemoreceptor activity due to lactic acidosis"
+      ],
+      "answer": 2,
+      "explanation": "Exercise raises metabolic CO2 production, which rapidly converts to H+ in blood; the rise in plasma H+ (or pH fall) is sensed by chemoreceptors and drives the increase in ventilation.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "The pneumotaxic centre located in the upper pons mainly influences which component of breathing?",
+      "options": [
+        "Depth of inspiration",
+        "Rate of breathing",
+        "Expiration force",
+        "Tidal volume"
+      ],
+      "answer": 1,
+      "explanation": "The pneumotaxic centre inhibits inspiratory neurons, thereby shortening the inspiratory period and allowing rapid adjustment of the breathing rate.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "Central chemoreceptors that monitor the pH of cerebrospinal fluid are situated in which medullary region?",
+      "options": [
+        "Ventral respiratory group",
+        "Dorsal respiratory group",
+        "Medullary raphe nuclei",
+        "Solitary nucleus"
+      ],
+      "answer": 0,
+      "explanation": "The ventral respiratory group, located on the ventrolateral surface of the medulla, contains the central chemoreceptors that respond to changes in CSF pH caused by CO2 fluctuations.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "In chronic obstructive pulmonary disease (COPD) patients, the dominant drive for ventilation is provided by:",
+      "options": [
+        "Peripheral chemoreceptors responding to hypoxia",
+        "Central chemoreceptors responding to hypercapnia",
+        "Stretch receptors in lungs",
+        "Higher brain centers"
+      ],
+      "answer": 0,
+      "explanation": "Because chronic hypercapnia blunts the central chemoreceptor response, peripheral chemoreceptors become the main stimulus, reacting to the persistent low arterial O2 levels.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "Why does hyperventilation cause respiratory alkalosis?",
+      "options": [
+        "Increased CO2 excretion reduces H+ concentration",
+        "Increased O2 uptake raises blood pH",
+        "Decreased CO2 leads to shift in bicarbonate equilibrium",
+        "Increased ventilation stimulates renal HCO3- excretion"
+      ],
+      "answer": 2,
+      "explanation": "Exhaling excess CO2 lowers its partial pressure, shifting the CO2 + H2O ⇌ H2CO3 ⇌ H⁺ + HCO₃⁻ equilibrium to the left, thereby reducing H⁺ concentration and raising pH.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "The apneustic centre in the lower pons primarily contributes to:",
+      "options": [
+        "Termination of inspiration",
+        "Prolongation of inspiratory phase",
+        "Regulation of tidal volume",
+        "Inhibition of respiratory rhythm"
+      ],
+      "answer": 1,
+      "explanation": "The apneustic centre provides excitatory input to inspiratory neurons, prolonging the inspiratory phase and producing a sustained inhalation unless inhibited by the pneumotaxic centre.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "Which statement correctly describes the role of hydrogen ions (H⁺) in the control of breathing?",
+      "options": [
+        "H⁺ directly stimulates peripheral chemoreceptors",
+        "H⁺ is sensed only by central chemoreceptors",
+        "H⁺ concentration does not affect ventilation",
+        "H⁺ changes are secondary to CO2 changes"
+      ],
+      "answer": 0,
+      "explanation": "Both central and peripheral chemoreceptors are sensitive to H⁺; peripheral chemoreceptors in carotid and aortic bodies are directly activated by increased plasma H⁺, leading to increased ventilation.",
+      "topic": "Control of breathing rate"
+    },
+    {
+      "question": "Which of the following best describes the primary mechanism of airway obstruction during an acute asthmatic attack?",
+      "options": [
+        "Fixed fibrotic narrowing of bronchi",
+        "Bronchial smooth‑muscle contraction with mucosal edema",
+        "Destruction of alveolar walls leading to loss of elastic recoil",
+        "Pulmonary embolism causing ventilation‑perfusion mismatch"
+      ],
+      "answer": 1,
+      "explanation": "An acute asthma attack is characterized by reversible bronchoconstriction due to contraction of airway smooth muscle, mucosal edema and increased secretions, not fixed structural changes.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "The early‑phase bronchoconstriction in asthma is mediated mainly by which substance released from mast cells?",
+      "options": [
+        "Histamine",
+        "Leukotriene C4",
+        "Prostaglandin D2",
+        "Bradykinin"
+      ],
+      "answer": 0,
+      "explanation": "The immediate (early) response occurs within minutes and is primarily due to histamine released from sensitized mast cells, causing rapid bronchoconstriction.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "Which spirometric pattern is most characteristic of reversible airway obstruction in asthma?",
+      "options": [
+        "Decreased FEV1 with normal FVC and an increased FEV1/FVC ratio",
+        "Decreased FEV1, normal FVC and a reduced FEV1/FVC ratio",
+        "Normal FEV1 with increased FVC and an increased ratio",
+        "Decreased both FEV1 and FVC with an unchanged ratio"
+      ],
+      "answer": 1,
+      "explanation": "Asthma shows a reduced FEV1 with relatively preserved FVC, leading to a lowered FEV1/FVC ratio; the obstruction is reversible after bronchodilator use.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "The bronchodilatory action of theophylline in asthma is primarily due to:",
+      "options": [
+        "Inhibition of phosphodiesterase resulting in increased intracellular cAMP",
+        "Blockade of histamine H1 receptors",
+        "Antagonism of cysteinyl‑leukotriene receptors",
+        "Direct stimulation of β2‑adrenergic receptors"
+      ],
+      "answer": 0,
+      "explanation": "Theophylline inhibits phosphodiesterase, preventing cAMP breakdown; elevated cAMP relaxes bronchial smooth muscle.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "Which of the following is NOT a common trigger for an asthma exacerbation?",
+      "options": [
+        "Dust‑mite allergen exposure",
+        "Inhalation of cold air",
+        "Administration of a β2‑agonist inhaler",
+        "Viral upper‑respiratory infection"
+      ],
+      "answer": 2,
+      "explanation": "β2‑agonists relieve bronchoconstriction; they are not triggers. Dust mites, cold air, and viral infections are well‑known precipitants.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "In persistent asthma, inhaled corticosteroids are the drug of choice because they:",
+      "options": [
+        "Provide immediate bronchodilation",
+        "Reduce airway hyper‑responsiveness by suppressing inflammation",
+        "Increase mucus secretion to trap allergens",
+        "Block muscarinic receptors in the airway"
+      ],
+      "answer": 1,
+      "explanation": "Inhaled steroids act on the inflammatory component of asthma, decreasing edema, mucus, and hyper‑responsiveness, leading to long‑term control.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "According to NCERT, the effect of carbon dioxide on airway tone in asthmatic patients is:",
+      "options": [
+        "Hypercapnia always aggravates bronchoconstriction",
+        "Mild hypercapnia produces bronchodilation",
+        "CO₂ has no influence on airway smooth‑muscle tone",
+        "Hypocapnia can precipitate bronchospasm"
+      ],
+      "answer": 3,
+      "explanation": "Low CO₂ (hypocapnia) leads to airway smooth‑muscle contraction and can trigger bronchospasm, whereas mild hypercapnia tends to cause bronchodilation.",
+      "topic": "Asthma"
+    },
+    {
+      "question": "Emphysema is best described as which of the following?",
+      "options": [
+        "Reversible airway obstruction due to bronchospasm",
+        "Irreversible destruction of alveolar walls leading to enlarged air spaces",
+        "Chronic inflammation of the bronchi with mucus hypersecretion",
+        "Transient reduction in lung compliance due to edema"
+      ],
+      "answer": 1,
+      "explanation": "Emphysema involves permanent loss of alveolar walls and elastic tissue, resulting in permanently enlarged air spaces.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "The primary pathogenic mechanism in emphysema involves an imbalance between proteases and antiproteases, leading to:",
+      "options": [
+        "Increased surfactant production",
+        "Loss of elastic fibers and alveolar wall destruction",
+        "Bronchial smooth‑muscle hypertrophy",
+        "Accumulation of fluid in alveoli"
+      ],
+      "answer": 1,
+      "explanation": "Excess protease activity destroys elastin and alveolar septa, causing loss of elastic recoil.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "Spirometric findings in a patient with emphysema typically show:",
+      "options": [
+        "Normal FEV1/FVC ratio with reduced TLC",
+        "Decreased FEV1/FVC ratio with increased total lung capacity",
+        "Decreased FEV1/FVC ratio with decreased total lung capacity",
+        "Increased FEV1/FVC ratio"
+      ],
+      "answer": 1,
+      "explanation": "Obstructive pattern with reduced FEV1/FVC and hyperinflation (raised TLC) is characteristic of emphysema.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "The classic radiographic appearance of emphysema on a chest X‑ray includes:",
+      "options": [
+        "Kerley B lines indicating interstitial edema",
+        "Hyperlucent lung fields with flattened diaphragms and increased retrosternal air space",
+        "Honey‑comb pattern suggestive of fibrosis",
+        "Ground‑glass opacities"
+      ],
+      "answer": 1,
+      "explanation": "Hyperinflated lungs appear more radiolucent, diaphragms become flattened, and the retrosternal space widens.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "The most important risk factor for centrilobular (smoking‑related) emphysema is:",
+      "options": [
+        "Alpha‑1 antitrypsin deficiency",
+        "Cigarette smoking",
+        "Occupational silica exposure",
+        "Chronic asthma"
+      ],
+      "answer": 1,
+      "explanation": "Cigarette smoke is the dominant cause of centrilobular emphysema, accounting for the majority of cases.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "Barrel chest observed in advanced emphysema is primarily due to:",
+      "options": [
+        "Hyperinflation of the lungs causing increased anteroposterior diameter",
+        "Paralysis of the diaphragm from phrenic nerve injury",
+        "Large pleural effusion restricting lung expansion",
+        "Fibrotic stiffening of the lung parenchyma"
+      ],
+      "answer": 0,
+      "explanation": "Air trapping leads to chronic hyperinflation, expanding the chest wall and giving a barrel‑shaped thorax.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "Which of the following is NOT a standard pharmacological therapy for emphysema?",
+      "options": [
+        "Long‑acting β2‑agonists (LABA)",
+        "Inhaled corticosteroids (ICS)",
+        "Anticholinergic bronchodilators (LAMA)",
+        "Routine prophylactic antibiotics"
+      ],
+      "answer": 3,
+      "explanation": "Antibiotics are used only during exacerbations, not as routine maintenance therapy for emphysema.",
+      "topic": "Emphysema"
+    },
+    {
+      "question": "Which occupational disease is caused by inhalation of asbestos fibers and is characterized by pleural plaques with an increased risk of bronchogenic carcinoma?",
+      "options": [
+        "Silicosis",
+        "Asbestosis",
+        "Byssinosis",
+        "Coal workers' pneumoconiosis"
+      ],
+      "answer": 1,
+      "explanation": "Asbestosis results from asbestos fiber inhalation, leading to interstitial fibrosis, pleural plaques, and a heightened risk of bronchogenic carcinoma.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "Silicosis predisposes individuals to which of the following complications?",
+      "options": [
+        "Pulmonary hypertension",
+        "Tuberculosis",
+        "Pulmonary embolism",
+        "Asthma"
+      ],
+      "answer": 1,
+      "explanation": "Silica particles impair macrophage function, increasing susceptibility to reactivation of Mycobacterium tuberculosis, making tuberculosis a common complication.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "Byssinosis, an occupational lung disease, is most commonly associated with exposure to which material?",
+      "options": [
+        "Cotton dust",
+        "Coal dust",
+        "Silica dust",
+        "Asbestos fibers"
+      ],
+      "answer": 0,
+      "explanation": "Byssinosis, also called 'brown lung', occurs in workers handling cotton, flax, or hemp dust, leading to airflow limitation and chest tightness.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "Which statement about occupational asthma is correct?",
+      "options": [
+        "It is always irreversible",
+        "It is caused only by non‑immunologic irritants",
+        "Symptoms may improve after removal from the offending exposure",
+        "It is unrelated to sensitizing agents"
+      ],
+      "answer": 2,
+      "explanation": "Occupational asthma can be reversible; removal from the sensitizing agent often leads to clinical improvement, distinguishing it from chronic asthma.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "The primary pathogenic mechanism in coal workers' pneumoconiosis is:",
+      "options": [
+        "Fibrotic reaction to retained carbon particles",
+        "Allergic IgE‑mediated response",
+        "Direct chemical burn of the alveolar epithelium",
+        "Bacterial infection of the bronchi"
+      ],
+      "answer": 0,
+      "explanation": "Inhaled coal dust particles are phagocytosed by macrophages, leading to a chronic inflammatory and fibrotic response that characterizes coal workers' pneumoconiosis.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "Which radiographic feature is most characteristic of silicosis?",
+      "options": [
+        "Eggshell calcification of hilar lymph nodes",
+        "Honeycomb lung pattern",
+        "Diffuse ground‑glass opacities",
+        "Pleural effusion"
+      ],
+      "answer": 0,
+      "explanation": "Silicosis often shows small nodular opacities with peripheral ‘eggshell’ calcification of hilar lymph nodes on chest X‑ray.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "The single most effective preventive strategy for occupational respiratory disorders is:",
+      "options": [
+        "Use of personal protective equipment (PPE)",
+        "Periodic health surveillance of workers",
+        "Engineering controls to reduce airborne dust",
+        "Smoking cessation programs for workers"
+      ],
+      "answer": 2,
+      "explanation": "Engineering controls (e.g., local exhaust ventilation, wet methods) eliminate or reduce dust at the source, providing the greatest protection against occupational lung diseases.",
+      "topic": "Occupational respiratory disorders"
+    },
+    {
+      "question": "The primary reason for increased susceptibility to respiratory infections in chronic smokers is",
+      "options": [
+        "Increased alveolar surface area",
+        "Impaired mucociliary clearance",
+        "Enhanced surfactant production",
+        "Increased tidal volume"
+      ],
+      "answer": 1,
+      "explanation": "Cigarette smoke damages ciliated epithelium and reduces ciliary beat frequency, leading to impaired clearance of mucus and pathogens.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "Which structural change in the lung parenchyma is most characteristic of smoking‑induced emphysema?",
+      "options": [
+        "Thickening of alveolar septa",
+        "Loss of elastic fibers leading to permanent enlargement of airspaces",
+        "Proliferation of type II pneumocytes",
+        "Fibrosis of interlobular septa"
+      ],
+      "answer": 1,
+      "explanation": "Destruction of elastic fibers and alveolar walls by protease‑antiprotease imbalance causes irreversible enlargement of distal airspaces, the hallmark of emphysema.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "Chronic smokers exhibit a rightward shift of the ventilation response curve mainly because of",
+      "options": [
+        "Increased chemosensitivity to CO2",
+        "Decreased chemosensitivity to CO2",
+        "Increased peripheral O2 sensors",
+        "Enhanced central respiratory drive"
+      ],
+      "answer": 1,
+      "explanation": "Long‑term exposure to CO2 and nicotine blunts the central chemoreceptor response, requiring higher PaCO2 to stimulate ventilation.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "Which component of tobacco smoke is most directly implicated in DNA adduct formation leading to lung carcinoma?",
+      "options": [
+        "Nicotine",
+        "Carbon monoxide",
+        "Polycyclic aromatic hydrocarbons",
+        "Tar"
+      ],
+      "answer": 2,
+      "explanation": "Polycyclic aromatic hydrocarbons (PAHs) are potent mutagens that form DNA adducts, initiating carcinogenesis in bronchial epithelium.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "In asthmatic patients who smoke, the therapeutic response to inhaled corticosteroids is generally",
+      "options": [
+        "Enhanced",
+        "Unchanged",
+        "Reduced",
+        "Unpredictable"
+      ],
+      "answer": 2,
+      "explanation": "Smoking induces oxidative stress and alters glucocorticoid receptor function, diminishing the anti‑inflammatory efficacy of inhaled steroids.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "A smoker exposed to silica dust has a markedly increased risk of developing",
+      "options": [
+        "Silicosis",
+        "Asbestosis",
+        "Bronchogenic carcinoma",
+        "Pulmonary hypertension"
+      ],
+      "answer": 2,
+      "explanation": "Cigarette smoking synergistically raises the risk of lung cancer in individuals exposed to occupational carcinogens such as silica.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "The primary physiological reason for reduced diffusing capacity (DLCO) in chronic smokers is",
+      "options": [
+        "Increased alveolar‑capillary membrane thickness due to emphysematous destruction",
+        "Decreased hemoglobin concentration",
+        "Increased ventilation‑perfusion mismatch",
+        "Bronchoconstriction"
+      ],
+      "answer": 0,
+      "explanation": "Emphysematous loss of alveolar walls reduces the surface area and increases the diffusion distance, lowering the DLCO.",
+      "topic": "Smoking and respiratory health"
+    },
+    {
+      "question": "Which structural change in the alveoli directly leads to a decrease in the surface area available for gas exchange?",
+      "options": [
+        "Thickening of alveolar walls due to fibrosis",
+        "Increase in the number of alveoli",
+        "Hypertrophy of bronchial smooth muscle",
+        "Dilatation of bronchioles"
+      ],
+      "answer": 0,
+      "explanation": "Thickened alveolar walls reduce the effective surface area for diffusion, thereby decreasing gas exchange efficiency.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "Chronic smoking primarily causes alveolar damage by which of the following mechanisms?",
+      "options": [
+        "Destruction of alveolar septa leading to enlarged air spaces",
+        "Hyperplasia of type II pneumocytes",
+        "Accumulation of mucus within alveoli",
+        "Calcification of alveolar walls"
+      ],
+      "answer": 0,
+      "explanation": "Smoking induces protease‑antiprotease imbalance, destroying alveolar septa and producing emphysematous enlarged air spaces.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "In alveolar wall thickening, which arterial blood gas parameter is most immediately reduced?",
+      "options": [
+        "Partial pressure of O₂ (PaO₂)",
+        "Partial pressure of CO₂ (PaCO₂)",
+        "Total lung capacity",
+        "Respiratory rate"
+      ],
+      "answer": 0,
+      "explanation": "Increased diffusion distance hampers O₂ transfer more than CO₂, leading to a fall in arterial PaO₂.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "Pulmonary edema causes hypoxemia mainly because:",
+      "options": [
+        "Alveolar ventilation is decreased",
+        "Diffusion capacity is reduced due to fluid barrier",
+        "Shunt fraction is increased",
+        "All of the above"
+      ],
+      "answer": 1,
+      "explanation": "Fluid filling the alveoli creates an additional diffusion barrier, markedly reducing O₂ diffusion across the alveolar‑capillary membrane.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "Which occupational exposure is most commonly associated with the development of alveolar fibrosis?",
+      "options": [
+        "Silica dust",
+        "Asbestos fibers",
+        "Coal dust",
+        "Cotton dust"
+      ],
+      "answer": 0,
+      "explanation": "Inhalation of silica particles leads to silicosis, characterized by fibrotic replacement of normal alveolar tissue.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "In ARDS, hyaline membranes line the alveoli. Their presence primarily impairs which pulmonary function?",
+      "options": [
+        "Ventilation",
+        "Perfusion",
+        "Diffusion",
+        "Elastic recoil"
+      ],
+      "answer": 2,
+      "explanation": "Hyaline membranes increase the diffusion barrier, severely limiting O₂ transfer across the alveolar membrane.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "Which statement about alveolar damage in emphysema is FALSE?",
+      "options": [
+        "Elastic recoil of the lung is reduced",
+        "Surface area for gas exchange is increased",
+        "Airflow obstruction is due to loss of alveolar walls",
+        "Diffusing capacity for carbon monoxide (DLCO) is decreased"
+      ],
+      "answer": 1,
+      "explanation": "Emphysema destroys alveolar walls, thereby reducing, not increasing, the surface area for gas exchange.",
+      "topic": "Alveolar damage"
+    },
+    {
+      "question": "Which structural change in the alveolar wall most directly leads to reduced diffusion of gases?",
+      "options": [
+        "Thickening of the alveolar-capillary membrane",
+        "Decrease in alveolar surface tension",
+        "Increase in number of alveoli",
+        "Hyperinflation of lungs"
+      ],
+      "answer": 0,
+      "explanation": "A thicker alveolar‑capillary membrane increases the diffusion distance for O₂ and CO₂, lowering the rate of gas exchange according to Fick's law.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "In emphysema, the primary cause of reduced gas exchange is:",
+      "options": [
+        "Loss of alveolar elastic recoil",
+        "Destruction of alveolar septa leading to decreased surface area",
+        "Increased mucus secretion",
+        "Bronchoconstriction"
+      ],
+      "answer": 1,
+      "explanation": "Destruction of the alveolar septa reduces the total surface area available for diffusion, markedly impairing O₂ uptake and CO₂ elimination.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "Which occupational exposure is most likely to cause reduced gas exchange by inducing interstitial fibrosis?",
+      "options": [
+        "Asbestos",
+        "Silica dust",
+        "Coal dust",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Asbestos, silica, and coal dust each can lead to interstitial fibrosis (asbestosis, silicosis, pneumoconiosis), thickening the diffusion barrier and decreasing gas exchange.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "Smoking leads to reduced gas exchange primarily because:",
+      "options": [
+        "Increased alveolar ventilation",
+        "Carbon monoxide binding to hemoglobin",
+        "Decreased pulmonary capillary blood volume",
+        "Increased diffusion distance due to alveolar wall damage"
+      ],
+      "answer": 3,
+      "explanation": "Chronic smoking damages alveolar walls and capillaries, increasing the diffusion distance and impairing O₂/CO₂ exchange; CO binding also reduces O₂ transport but the structural change is the main cause of diffusion limitation.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "In ventilation‑perfusion (V/Q) mismatch causing reduced gas exchange, which pattern is most characteristic?",
+      "options": [
+        "High V/Q ratio",
+        "Low V/Q ratio",
+        "Normal V/Q ratio",
+        "Both high and low V/Q ratios in different lung regions"
+      ],
+      "answer": 3,
+      "explanation": "Diseases that cause V/Q mismatch produce regions with both high V/Q (dead space) and low V/Q (shunt), leading overall to inefficient gas exchange.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "Which statement about carbon dioxide’s role in breathing regulation is correct in the context of reduced gas exchange?",
+      "options": [
+        "Hypercapnia always increases tidal volume",
+        "Elevated CO₂ leads to vasodilation of pulmonary vessels improving gas exchange",
+        "CO₂ accumulation stimulates chemoreceptors causing increased respiratory rate",
+        "CO₂ has no effect on respiratory drive"
+      ],
+      "answer": 2,
+      "explanation": "Elevated arterial CO₂ is sensed by central and peripheral chemoreceptors, which increase respiratory rate and depth to restore normal PaCO₂, a key compensatory response when gas exchange is impaired.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "A patient with chronic bronchitis shows reduced gas exchange mainly due to:",
+      "options": [
+        "Airway obstruction causing ventilation limitation",
+        "Destruction of alveolar walls",
+        "Pulmonary embolism",
+        "Pleural effusion"
+      ],
+      "answer": 0,
+      "explanation": "Chronic bronchitis narrows airways, limiting ventilation and creating low V/Q areas, which reduces overall efficiency of gas exchange despite relatively intact alveolar structures.",
+      "topic": "Reduced gas exchange"
+    },
+    {
+      "question": "Which respiratory disorder is characterized by irreversible destruction of alveolar walls leading to decreased elastic recoil and increased total lung capacity?",
+      "options": [
+        "Asthma",
+        "Emphysema",
+        "Chronic bronchitis",
+        "Bronchiectasis"
+      ],
+      "answer": 1,
+      "explanation": "Emphysema involves permanent loss of alveolar septa, reducing elastic recoil and causing hyperinflation with increased TLC.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "In spirometry, which pattern best differentiates asthma from emphysema?",
+      "options": [
+        "Reduced FEV1/FVC ratio with significant post‑bronchodilator improvement",
+        "Reduced FEV1/FVC ratio with minimal reversibility",
+        "Normal FEV1/FVC with reduced DLCO",
+        "Isolated reduction in FVC"
+      ],
+      "answer": 0,
+      "explanation": "Asthma shows a reversible obstruction; a >15% and >200 mL increase in FEV1 after bronchodilator distinguishes it from emphysema, which shows little reversibility.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "Which statement correctly compares the effect of smoking on asthma versus emphysema?",
+      "options": [
+        "Smoking aggravates asthma but does not affect emphysema",
+        "Smoking is a major risk factor for emphysema but has minimal impact on asthma",
+        "Smoking can worsen both, but it is the primary etiological factor for emphysema",
+        "Smoking improves airway hyperresponsiveness in asthma"
+      ],
+      "answer": 2,
+      "explanation": "Cigarette smoking is the chief cause of emphysema, while it can exacerbate asthma but is not a primary cause.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "Which occupational respiratory disorder shows a pattern of obstructive airway disease similar to chronic bronchitis?",
+      "options": [
+        "Asbestosis",
+        "Silicosis",
+        "Coal worker's pneumoconiosis",
+        "Byssinosis"
+      ],
+      "answer": 3,
+      "explanation": "Byssinosis, caused by cotton dust, produces an obstructive pattern with symptoms that improve on weekends, resembling chronic bronchitis.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "Which disorder shows the greatest reduction in diffusing capacity for carbon monoxide (DLCO)?",
+      "options": [
+        "Asthma",
+        "Chronic bronchitis",
+        "Emphysema",
+        "Bronchial asthma"
+      ],
+      "answer": 2,
+      "explanation": "Emphysema destroys alveolar capillary surface area, leading to a markedly reduced DLCO compared to asthma or chronic bronchitis.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "In terms of reversibility with bronchodilators, which statement correctly compares asthma and chronic bronchitis?",
+      "options": [
+        "Both show >15% improvement in FEV1",
+        "Asthma shows marked reversibility, chronic bronchitis shows minimal",
+        "Chronic bronchitis shows marked reversibility, asthma minimal",
+        "Neither shows reversibility"
+      ],
+      "answer": 1,
+      "explanation": "Asthma typically exhibits >15% and >200 mL improvement in FEV1 after bronchodilator, whereas chronic bronchitis shows little or no reversibility.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "Which of the following best compares the primary site of pathology in asthma versus emphysema?",
+      "options": [
+        "Bronchioles in asthma, alveolar walls in emphysema",
+        "Alveolar walls in asthma, bronchioles in emphysema",
+        "Pleura in asthma, alveolar walls in emphysema",
+        "Trachea in both"
+      ],
+      "answer": 0,
+      "explanation": "Asthma primarily involves inflammation and hyperresponsiveness of the bronchioles, while emphysema involves destruction of alveolar walls.",
+      "topic": "Respiratory disorder comparison"
+    },
+    {
+      "question": "Which of the following statements correctly describes the primary function of the pneumotaxic centre in the medulla?",
+      "options": [
+        "It initiates inspiration by stimulating the diaphragm.",
+        "It terminates inspiration by inhibiting the inspiratory neurons.",
+        "It detects changes in arterial CO2 levels.",
+        "It regulates tidal volume by adjusting alveolar surfactant."
+      ],
+      "answer": 1,
+      "explanation": "The pneumotaxic centre sends inhibitory signals to the inspiratory neurons, thereby helping to terminate the inspiratory phase and shape the breathing pattern.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "In response to a sudden rise in arterial PCO2, which area of the brainstem is primarily responsible for increasing the rate and depth of breathing?",
+      "options": [
+        "Pneumotaxic centre",
+        "Apneustic centre",
+        "Chemosensitive area (medullary respiratory centre)",
+        "Cerebellum"
+      ],
+      "answer": 2,
+      "explanation": "Central chemoreceptors located in the medullary chemosensitive area sense the rise in CO2 (via decreased pH) and stimulate the respiratory rhythm centre to increase ventilation.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "A 25-year-old asthmatic patient experiences bronchoconstriction due to exposure to cold air. Which mechanism is most directly involved?",
+      "options": [
+        "Increased airway smooth muscle tone mediated by cholinergic reflex",
+        "Decreased alveolar surfactant production",
+        "Destruction of alveolar walls",
+        "Reduced chemoreceptor sensitivity to CO2"
+      ],
+      "answer": 0,
+      "explanation": "Cold air triggers a reflex bronchoconstriction mediated by cholinergic (parasympathetic) pathways, leading to increased smooth‑muscle tone in asthmatic airways.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "Which of the following best differentiates emphysema from chronic bronchitis in terms of gas‑exchange impairment?",
+      "options": [
+        "Emphysema primarily reduces diffusion capacity due to loss of alveolar surface area, whereas chronic bronchitis mainly causes ventilation‑perfusion mismatch due to mucus plugging.",
+        "Emphysema increases airway resistance, chronic bronchitis decreases it.",
+        "Both conditions equally reduce tidal volume.",
+        "Chronic bronchitis leads to alveolar wall destruction, emphysema leads to airway inflammation."
+      ],
+      "answer": 0,
+      "explanation": "Emphysema destroys alveolar walls, decreasing surface area for diffusion, while chronic bronchitis narrows airways with mucus, causing V/Q mismatch.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "Long‑term exposure to silica dust in occupational settings predisposes workers to which specific respiratory disorder, and what is the primary pathological change?",
+      "options": [
+        "Asthma; eosinophilic airway inflammation",
+        "Silicosis; nodular fibrosis of the lung interstitium",
+        "Emphysema; loss of elastic fibers",
+        "Chronic bronchitis; hypersecretion of mucus"
+      ],
+      "answer": 1,
+      "explanation": "Silica inhalation leads to silicosis, characterized by nodular fibrotic lesions in the interstitial lung tissue.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "Smoking leads to a reduction in the efficiency of gas exchange primarily because:",
+      "options": [
+        "It increases the number of alveoli",
+        "It destroys ciliated epithelium and causes alveolar wall destruction",
+        "It enhances hemoglobin affinity for oxygen",
+        "It stimulates the pneumotaxic centre to increase tidal volume"
+      ],
+      "answer": 1,
+      "explanation": "Cigarette smoke damages ciliated epithelium, impairs mucociliary clearance, and destroys alveolar walls, decreasing surface area for diffusion.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "Which of the following statements about CO2‑based regulation of breathing is FALSE?",
+      "options": [
+        "Central chemoreceptors are more sensitive to changes in pH than to CO2 directly",
+        "Peripheral chemoreceptors respond primarily to hypoxia",
+        "An increase in arterial CO2 always leads to a decrease in ventilation",
+        "Hypercapnia stimulates the respiratory rhythm centre to increase respiratory rate"
+      ],
+      "answer": 2,
+      "explanation": "An increase in arterial CO2 stimulates ventilation (hyperventilation), not a decrease; therefore the statement is false.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "In an integrated scenario, a patient with COPD has a chronic arterial PCO2 of 55 mmHg and a pH of 7.30. Which of the following best explains the observed respiratory acidosis?",
+      "options": [
+        "Excessive ventilation leading to CO2 washout",
+        "Impaired alveolar ventilation causing CO2 retention",
+        "Increased renal excretion of H+",
+        "Enhanced peripheral chemoreceptor sensitivity to O2"
+      ],
+      "answer": 1,
+      "explanation": "COPD reduces effective alveolar ventilation, leading to CO2 retention and a fall in pH, producing respiratory acidosis.",
+      "topic": "Integrated breathing revision"
+    },
+    {
+      "question": "A patient with chronic obstructive pulmonary disease (COPD) at sea level has arterial blood gases: PaCO₂ = 55 mmHg, PaO₂ = 58 mmHg, pH = 7.32. Which chemoreceptive mechanism is primarily responsible for the increase in his ventilation?",
+      "options": [
+        "Peripheral chemoreceptors responding to hypoxia",
+        "Central chemoreceptors responding to hypercapnia",
+        "Pulmonary stretch receptors detecting lung inflation",
+        "Mechanoreceptors in skeletal muscles detecting activity"
+      ],
+      "answer": 1,
+      "explanation": "Elevated PaCO₂ raises the H⁺ concentration in cerebrospinal fluid, stimulating central chemoreceptors, which dominate the ventilatory drive in COPD patients with hypercapnia.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "A 25‑year‑old chronic smoker develops a chronic productive cough. Which occupational exposure is most likely to aggravate his respiratory condition?",
+      "options": [
+        "Asbestos fibers",
+        "Silica dust",
+        "Coal dust",
+        "Beryllium compounds"
+      ],
+      "answer": 2,
+      "explanation": "Coal dust, like cigarette smoke, is a particulate irritant that can worsen chronic bronchitis and COPD by adding to airway inflammation and mucus hypersecretion.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "During a high‑altitude trek, a climber shows a marked increase in breathing rate. Which respiratory centre is primarily responsible for this adaptation?",
+      "options": [
+        "Pneumotaxic centre",
+        "Apneustic centre",
+        "Respiratory rhythm centre",
+        "Chemosensitive area"
+      ],
+      "answer": 2,
+      "explanation": "Low arterial PO₂ stimulates peripheral chemoreceptors, which increase the output of the respiratory rhythm centre, thereby raising the breathing rate.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "An asthmatic child is prescribed a drug that inhibits phosphodiesterase. Which of the following best describes its therapeutic action?",
+      "options": [
+        "Increases intracellular cAMP leading to smooth‑muscle relaxation",
+        "Decreases intracellular Ca²⁺ directly",
+        "Blocks histamine H₁ receptors",
+        "Stimulates β₂‑adrenergic receptors"
+      ],
+      "answer": 0,
+      "explanation": "Phosphodiesterase inhibition prevents cAMP breakdown, raising its intracellular level; elevated cAMP relaxes bronchial smooth muscle and reduces inflammation.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "Arterial blood gas analysis shows pH = 7.48, PaCO₂ = 30 mmHg, HCO₃⁻ = 24 mEq/L. Which acid‑base disturbance best fits these values?",
+      "options": [
+        "Metabolic acidosis with respiratory compensation",
+        "Metabolic alkalosis with respiratory compensation",
+        "Respiratory alkalosis",
+        "Respiratory acidosis"
+      ],
+      "answer": 2,
+      "explanation": "The elevated pH with a low PaCO₂ and normal bicarbonate indicates a primary respiratory alkalosis without metabolic compensation.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "In emphysema, destruction of alveolar walls leads to several characteristic changes in pulmonary function tests. Which statement is most accurate?",
+      "options": [
+        "Decreased FEV₁/FVC ratio",
+        "Increased total lung capacity",
+        "Decreased diffusing capacity for carbon monoxide (DLCO)",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Emphysema causes airflow obstruction (lower FEV₁/FVC), hyperinflation (higher TLC), and loss of alveolar surface area (reduced DLCO); thus all listed findings are typical.",
+      "topic": "Respiratory system application questions"
+    },
+    {
+      "question": "The pneumotaxic centre in the pons primarily influences which component of the breathing cycle?",
+      "options": [
+        "Initiation of inspiration",
+        "Termination of inspiration",
+        "Depth of tidal volume",
+        "Overall respiratory rhythm rate"
+      ],
+      "answer": 1,
+      "explanation": "The pneumotaxic centre modulates the 'switch‑off' signal for inspiratory neurons, thereby controlling the termination of inspiration and shaping the breathing pattern.",
+      "topic": "Respiratory system application questions"
+    }
+  ],
+  "generation": {
+    "model": "openai/gpt-oss-120b",
+    "strategy": "5-10 MCQs per exact syllabus topic",
+    "topicCount": 18,
+    "mcqCount": 126
+  }
+}
